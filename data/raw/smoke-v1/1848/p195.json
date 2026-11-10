@@ -1,0 +1,481 @@
+{
+ "run": "smoke-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "7d05ea69ed98",
+ "volume": "1848",
+ "page": 195,
+ "section": "beamte",
+ "started": "2026-11-10T21:00:19+01:00",
+ "thinking": "low",
+ "seconds": 31.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2314,
+  "output": 4838,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"182\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 182 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"2 797 Rudolf Christian, Steinhauer, a. Buchholterberg — V, 69.\"},\n    {\"n\": 4, \"text\": \"787 Fr. — Maria Barb. Steiner, Lohnwascherin, a. Frutigen.\"},\n    {\"n\": 5, \"text\": \"3 800 Ulrich, Hauseigenthümer, Butter= u. Käshändler, a.\"},\n    {\"n\": 6, \"text\": \"Schangnau — IV, 72.\"},\n    {\"n\": 7, \"text\": \"807 Fr. — Rosina Zürcher a. Lauperswyl.\"},\n    {\"n\": 8, \"text\": \"5 K. — 834 Johann. — 36 Ulrich. — 39 Rosina. —\"},\n    {\"n\": 9, \"text\": \"42 Rudolf. — 43 Friedrich.\"},\n    {\"n\": 10, \"text\": \"4 808 Johann, Schuhmacher, a. Englisberg — IV, 237.\"},\n    {\"n\": 11, \"text\": \"5 817 Peter, Dachdecker, a. Buchholterberg — IV, 10.\"},\n    {\"n\": 12, \"text\": \"822 Fr. — Anna Messerli a. Seftigen.\"},\n    {\"n\": 13, \"text\": \"3 S. — 842 Johann. — 45 Friedrich. — 47 Rudolf.\"},\n    {\"n\": 14, \"text\": \"6 813 Magdalena, geb. König, Krämerin, des Landarbeiters\"},\n    {\"n\": 15, \"text\": \"Frau, a. Schangnau — III, 82.\"},\n    {\"n\": 16, \"text\": \"7 811 Christina, geb. Messerli, des Dachdeckers W., Salzver=\"},\n    {\"n\": 17, \"text\": \"käuferin und Krämerin, a. Buchholterberg — V, 13.\"},\n    {\"n\": 18, \"text\": \"2 K. — 832 Magdalena. — 34 Christina.\"},\n    {\"n\": 19, \"text\": \"Zingg.\"},\n    {\"n\": 20, \"text\": \"1 780 Niklaus, Schuhmacher, a. Wierezwyl — I, 70.\"},\n    {\"n\": 21, \"text\": \"2 793 Christian, Krämer, a. Wierezwyl — VI, 59.\"},\n    {\"n\": 22, \"text\": \"796 Fr. — Elis. Pulver a. Rüeggisberg.\"},\n    {\"n\": 23, \"text\": \"3 822 Rudolf, Kellerwirth und Käshändler, a. Dieszbach b. B.\"},\n    {\"n\": 24, \"text\": \"— IV, 49.\"},\n    {\"n\": 25, \"text\": \"821 Fr. — Maria Buri a. Kirchlindach.\"},\n    {\"n\": 26, \"text\": \"4 K. — 843 Friedrich Rud. — 44 Anna Maria Louise.\"},\n    {\"n\": 27, \"text\": \"— 45 Christ. Rudolf. — 46 August.\"},\n    {\"n\": 28, \"text\": \"Ziörjen.\"},\n    {\"n\": 29, \"text\": \"1 798 Jakob, Spezierer, a. Zweisimmen — III, 86.\"},\n    {\"n\": 30, \"text\": \"802 Fr. — Sus. Françoise Gavillet a. Penay.\"},\n    {\"n\": 31, \"text\": \"10 K. — 824 Jakob. — 827 Joh. David. — 28 Joh.\"},\n    {\"n\": 32, \"text\": \"Peter. — 31 Joh. Ludwig. — 33 Maria. — 35 Joh.\"},\n    {\"n\": 33, \"text\": \"Karl. — 39 Joh. Emanuel. — 41 Joh. Elise. — 45 Wilh.\"},\n    {\"n\": 34, \"text\": \"Elise. — 48 Joh. Ludwig Samuel.\"},\n    {\"n\": 35, \"text\": \"Zirngiebel.\"},\n    {\"n\": 36, \"text\": \"1 803 Marie Josephine, geb. Grangé, Hebamme, neuenbur=\"},\n    {\"n\": 37, \"text\": \"gische Tolerirte — III, 142.\"},\n    {\"n\": 38, \"text\": \"Zollinger.\"},\n    {\"n\": 39, \"text\": \"1 820 Heinrich, Lederhändler, a. Detweil, K. Zürich — III, 120.\"},\n    {\"n\": 40, \"text\": \"Zopfi.\"},\n    {\"n\": 41, \"text\": \"1 805 Isaak, Steinhauer, a. Schwanden, K. Glarus —\"},\n    {\"n\": 42, \"text\": \"VII, 158 c.\"},\n    {\"n\": 43, \"text\": \"Fr. — Anna Imhoof a. Niedermuhlern.\"},\n    {\"n\": 44, \"text\": \"5 K. — 829 Anna Elis. — 31 Maria Elis. — 34 Kath.\"},\n    {\"n\": 45, \"text\": \"Rosina. — 37 Anna Helena — 40 Emilie Julie Charl.\"},\n    {\"n\": 46, \"text\": \"\"},\n    {\"n\": 47, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Rudolf Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauer\",\n      \"address\": \"V, 69\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"69\",\n      \"origin\": \"Buchholterberg\",\n      \"birth_year\": \"1797\",\n      \"household\": \"787 Fr. — Maria Barb. Steiner, Lohnwascherin, a. Frutigen.\",\n      \"note\": \"Fortsetzung der Familie von vorheriger Seite\",\n      \"text\": \"2 797 Rudolf Christian, Steinhauer, a. Buchholterberg — V, 69. 787 Fr. — Maria Barb. Steiner, Lohnwascherin, a. Frutigen.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Hauseigenthümer, Butter= u. Käshändler\",\n      \"address\": \"IV, 72\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"72\",\n      \"origin\": \"Schangnau\",\n      \"birth_year\": \"1800\",\n      \"household\": \"807 Fr. — Rosina Zürcher a. Lauperswyl. 5 K. — 834 Johann. — 36 Ulrich. — 39 Rosina. — 42 Rudolf. — 43 Friedrich.\",\n      \"note\": \"Fortsetzung der Familie von vorheriger Seite\",\n      \"text\": \"3 800 Ulrich, Hauseigenthümer, Butter= u. Käshändler, a. Schangnau — IV, 72. 807 Fr. — Rosina Zürcher a. Lauperswyl. 5 K. — 834 Johann. — 36 Ulrich. — 39 Rosina. — 42 Rudolf. — 43 Friedrich.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 237\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"237\",\n      \"origin\": \"Englisberg\",\n      \"birth_year\": \"1808\",\n      \"household\": \"\",\n      \"note\": \"Fortsetzung der Familie von vorheriger Seite\",\n      \"text\": \"4 808 Johann, Schuhmacher, a. Englisberg — IV, 237.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"IV, 10\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"10\",\n      \"origin\": \"Buchholterberg\",\n      \"birth_year\": \"1817\",\n      \"household\": \"822 Fr. — Anna Messerli a. Seftigen. 3 S. — 842 Johann. — 45 Friedrich. — 47 Rudolf.\",\n      \"note\": \"Fortsetzung der Familie von vorheriger Seite\",\n      \"text\": \"5 817 Peter, Dachdecker, a. Buchholterberg — IV, 10. 822 Fr. — Anna Messerli a. Seftigen. 3 S. — 842 Johann. — 45 Friedrich. — 47 Rudolf.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin, des Landarbeiters Frau\",\n      \"address\": \"III, 82\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"82\",\n      \"origin\": \"Schangnau\",\n      \"birth_year\": \"1813\",\n      \"household\": \"\",\n      \"note\": \"geb. König; Fortsetzung der Familie von vorheriger Seite\",\n      \"text\": \"6 813 Magdalena, geb. König, Krämerin, des Landarbeiters Frau, a. Schangnau — III, 82.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Christina\",\n      \"title\": \"\",\n      \"occupation\": \"des Dachdeckers W., Salzverkäuferin und Krämerin\",\n      \"address\": \"V, 13\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"13\",\n      \"origin\": \"Buchholterberg\",\n      \"birth_year\": \"1811\",\n      \"household\": \"2 K. — 832 Magdalena. — 34 Christina.\",\n      \"note\": \"geb. Messerli; Fortsetzung der Familie von vorheriger Seite\",\n      \"text\": \"7 811 Christina, geb. Messerli, des Dachdeckers W., Salzverkäuferin und Krämerin, a. Buchholterberg — V, 13. 2 K. — 832 Magdalena. — 34 Christina.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Zingg\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zingg\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"I, 70\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"70\",\n      \"origin\": \"Wierezwyl\",\n      \"birth_year\": \"1780\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 780 Niklaus, Schuhmacher, a. Wierezwyl — I, 70.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Zingg\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zingg\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"VI, 59\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"59\",\n      \"origin\": \"Wierezwyl\",\n      \"birth_year\": \"1793\",\n      \"household\": \"796 Fr. — Elis. Pulver a. Rüeggisberg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 793 Christian, Krämer, a. Wierezwyl — VI, 59. 796 Fr. — Elis. Pulver a. Rüeggisberg.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Zingg\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zingg\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Kellerwirth und Käshändler\",\n      \"address\": \"IV, 49\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"49\",\n      \"origin\": \"Dieszbach b. B.\",\n      \"birth_year\": \"1822\",\n      \"household\": \"821 Fr. — Maria Buri a. Kirchlindach. 4 K. — 843 Friedrich Rud. — 44 Anna Maria Louise. — 45 Christ. Rudolf. — 46 August.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 822 Rudolf, Kellerwirth und Käshändler, a. Dieszbach b. B. — IV, 49. 821 Fr. — Maria Buri a. Kirchlindach. 4 K. — 843 Friedrich Rud. — 44 Anna Maria Louise. — 45 Christ. Rudolf. — 46 August.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Ziörjen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ziörjen\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Spezierer\",\n      \"address\": \"III, 86\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"86\",\n      \"origin\": \"Zweisimmen\",\n      \"birth_year\": \"1798\",\n      \"household\": \"802 Fr. — Sus. Françoise Gavillet a. Penay. 10 K. — 824 Jakob. — 827 Joh. David. — 28 Joh. Peter. — 31 Joh. Ludwig. — 33 Maria. — 35 Joh. Karl. — 39 Joh. Emanuel. — 41 Joh. Elise. — 45 Wilh. Elise. — 48 Joh. Ludwig Samuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 798 Jakob, Spezierer, a. Zweisimmen — III, 86. 802 Fr. — Sus. Françoise Gavillet a. Penay. 10 K. — 824 Jakob. — 827 Joh. David. — 28 Joh. Peter. — 31 Joh. Ludwig. — 33 Maria. — 35 Joh. Karl. — 39 Joh. Emanuel. — 41 Joh. Elise. — 45 Wilh. Elise. — 48 Joh. Ludwig Samuel.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Zirngiebel\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zirngiebel\",\n      \"forename\": \"Marie Josephine\",\n      \"title\": \"\",\n      \"occupation\": \"Hebamme, neuenburgische Tolerirte\",\n      \"address\": \"III, 142\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"142\",\n      \"origin\": \"\",\n      \"birth_year\": \"1803\",\n      \"household\": \"\",\n      \"note\": \"geb. Grangé; Name aus Zwischentitel\",\n      \"text\": \"1 803 Marie Josephine, geb. Grangé, Hebamme, neuenburgische Tolerirte — III, 142.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Zollinger\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zollinger\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Lederhändler\",\n      \"address\": \"III, 120\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"120\",\n      \"origin\": \"Detweil, K. Zürich\",\n      \"birth_year\": \"1820\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 820 Heinrich, Lederhändler, a. Detweil, K. Zürich — III, 120.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Zopfi\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zopfi\",\n      \"forename\": \"Isaak\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauer\",\n      \"address\": \"VII, 158 c\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"158 c\",\n      \"origin\": \"Schwanden, K. Glarus\",\n      \"birth_year\": \"1805\",\n      \"household\": \"Fr. — Anna Imhoof a. Niedermuhlern. 5 K. — 829 Anna Elis. — 31 Maria Elis. — 34 Kath. Rosina. — 37 Anna Helena — 40 Emilie Julie Charl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Isaak, Steinhauer, a. Schwanden, K. Glarus — VII, 158 c. Fr. — Anna Imhoof a. Niedermuhlern. 5 K. — 829 Anna Elis. — 31 Maria Elis. — 34 Kath. Rosina. — 37 Anna Helena — 40 Emilie Julie Charl.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "182",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 182 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "2 797 Rudolf Christian, Steinhauer, a. Buchholterberg — V, 69."
+   },
+   {
+    "n": 4,
+    "text": "787 Fr. — Maria Barb. Steiner, Lohnwascherin, a. Frutigen."
+   },
+   {
+    "n": 5,
+    "text": "3 800 Ulrich, Hauseigenthümer, Butter= u. Käshändler, a."
+   },
+   {
+    "n": 6,
+    "text": "Schangnau — IV, 72."
+   },
+   {
+    "n": 7,
+    "text": "807 Fr. — Rosina Zürcher a. Lauperswyl."
+   },
+   {
+    "n": 8,
+    "text": "5 K. — 834 Johann. — 36 Ulrich. — 39 Rosina. —"
+   },
+   {
+    "n": 9,
+    "text": "42 Rudolf. — 43 Friedrich."
+   },
+   {
+    "n": 10,
+    "text": "4 808 Johann, Schuhmacher, a. Englisberg — IV, 237."
+   },
+   {
+    "n": 11,
+    "text": "5 817 Peter, Dachdecker, a. Buchholterberg — IV, 10."
+   },
+   {
+    "n": 12,
+    "text": "822 Fr. — Anna Messerli a. Seftigen."
+   },
+   {
+    "n": 13,
+    "text": "3 S. — 842 Johann. — 45 Friedrich. — 47 Rudolf."
+   },
+   {
+    "n": 14,
+    "text": "6 813 Magdalena, geb. König, Krämerin, des Landarbeiters"
+   },
+   {
+    "n": 15,
+    "text": "Frau, a. Schangnau — III, 82."
+   },
+   {
+    "n": 16,
+    "text": "7 811 Christina, geb. Messerli, des Dachdeckers W., Salzver="
+   },
+   {
+    "n": 17,
+    "text": "käuferin und Krämerin, a. Buchholterberg — V, 13."
+   },
+   {
+    "n": 18,
+    "text": "2 K. — 832 Magdalena. — 34 Christina."
+   },
+   {
+    "n": 19,
+    "text": "Zingg."
+   },
+   {
+    "n": 20,
+    "text": "1 780 Niklaus, Schuhmacher, a. Wierezwyl — I, 70."
+   },
+   {
+    "n": 21,
+    "text": "2 793 Christian, Krämer, a. Wierezwyl — VI, 59."
+   },
+   {
+    "n": 22,
+    "text": "796 Fr. — Elis. Pulver a. Rüeggisberg."
+   },
+   {
+    "n": 23,
+    "text": "3 822 Rudolf, Kellerwirth und Käshändler, a. Dieszbach b. B."
+   },
+   {
+    "n": 24,
+    "text": "— IV, 49."
+   },
+   {
+    "n": 25,
+    "text": "821 Fr. — Maria Buri a. Kirchlindach."
+   },
+   {
+    "n": 26,
+    "text": "4 K. — 843 Friedrich Rud. — 44 Anna Maria Louise."
+   },
+   {
+    "n": 27,
+    "text": "— 45 Christ. Rudolf. — 46 August."
+   },
+   {
+    "n": 28,
+    "text": "Ziörjen."
+   },
+   {
+    "n": 29,
+    "text": "1 798 Jakob, Spezierer, a. Zweisimmen — III, 86."
+   },
+   {
+    "n": 30,
+    "text": "802 Fr. — Sus. Françoise Gavillet a. Penay."
+   },
+   {
+    "n": 31,
+    "text": "10 K. — 824 Jakob. — 827 Joh. David. — 28 Joh."
+   },
+   {
+    "n": 32,
+    "text": "Peter. — 31 Joh. Ludwig. — 33 Maria. — 35 Joh."
+   },
+   {
+    "n": 33,
+    "text": "Karl. — 39 Joh. Emanuel. — 41 Joh. Elise. — 45 Wilh."
+   },
+   {
+    "n": 34,
+    "text": "Elise. — 48 Joh. Ludwig Samuel."
+   },
+   {
+    "n": 35,
+    "text": "Zirngiebel."
+   },
+   {
+    "n": 36,
+    "text": "1 803 Marie Josephine, geb. Grangé, Hebamme, neuenbur="
+   },
+   {
+    "n": 37,
+    "text": "gische Tolerirte — III, 142."
+   },
+   {
+    "n": 38,
+    "text": "Zollinger."
+   },
+   {
+    "n": 39,
+    "text": "1 820 Heinrich, Lederhändler, a. Detweil, K. Zürich — III, 120."
+   },
+   {
+    "n": 40,
+    "text": "Zopfi."
+   },
+   {
+    "n": 41,
+    "text": "1 805 Isaak, Steinhauer, a. Schwanden, K. Glarus —"
+   },
+   {
+    "n": 42,
+    "text": "VII, 158 c."
+   },
+   {
+    "n": 43,
+    "text": "Fr. — Anna Imhoof a. Niedermuhlern."
+   },
+   {
+    "n": 44,
+    "text": "5 K. — 829 Anna Elis. — 31 Maria Elis. — 34 Kath."
+   },
+   {
+    "n": 45,
+    "text": "Rosina. — 37 Anna Helena — 40 Emilie Julie Charl."
+   },
+   {
+    "n": 46,
+    "text": ""
+   },
+   {
+    "n": 47,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Rudolf Christian",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "V, 69",
+    "quarter": "V",
+    "street": "",
+    "house_no": "69",
+    "origin": "Buchholterberg",
+    "birth_year": "1797",
+    "household": "787 Fr. — Maria Barb. Steiner, Lohnwascherin, a. Frutigen.",
+    "note": "Fortsetzung der Familie von vorheriger Seite",
+    "text": "2 797 Rudolf Christian, Steinhauer, a. Buchholterberg — V, 69. 787 Fr. — Maria Barb. Steiner, Lohnwascherin, a. Frutigen."
+   },
+   {
+    "line_from": 5,
+    "line_to": 9,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Hauseigenthümer, Butter= u. Käshändler",
+    "address": "IV, 72",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "72",
+    "origin": "Schangnau",
+    "birth_year": "1800",
+    "household": "807 Fr. — Rosina Zürcher a. Lauperswyl. 5 K. — 834 Johann. — 36 Ulrich. — 39 Rosina. — 42 Rudolf. — 43 Friedrich.",
+    "note": "Fortsetzung der Familie von vorheriger Seite",
+    "text": "3 800 Ulrich, Hauseigenthümer, Butter= u. Käshändler, a. Schangnau — IV, 72. 807 Fr. — Rosina Zürcher a. Lauperswyl. 5 K. — 834 Johann. — 36 Ulrich. — 39 Rosina. — 42 Rudolf. — 43 Friedrich."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 237",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "237",
+    "origin": "Englisberg",
+    "birth_year": "1808",
+    "household": "",
+    "note": "Fortsetzung der Familie von vorheriger Seite",
+    "text": "4 808 Johann, Schuhmacher, a. Englisberg — IV, 237."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "IV, 10",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "10",
+    "origin": "Buchholterberg",
+    "birth_year": "1817",
+    "household": "822 Fr. — Anna Messerli a. Seftigen. 3 S. — 842 Johann. — 45 Friedrich. — 47 Rudolf.",
+    "note": "Fortsetzung der Familie von vorheriger Seite",
+    "text": "5 817 Peter, Dachdecker, a. Buchholterberg — IV, 10. 822 Fr. — Anna Messerli a. Seftigen. 3 S. — 842 Johann. — 45 Friedrich. — 47 Rudolf."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Magdalena",
+    "title": "",
+    "occupation": "Krämerin, des Landarbeiters Frau",
+    "address": "III, 82",
+    "quarter": "III",
+    "street": "",
+    "house_no": "82",
+    "origin": "Schangnau",
+    "birth_year": "1813",
+    "household": "",
+    "note": "geb. König; Fortsetzung der Familie von vorheriger Seite",
+    "text": "6 813 Magdalena, geb. König, Krämerin, des Landarbeiters Frau, a. Schangnau — III, 82."
+   },
+   {
+    "line_from": 16,
+    "line_to": 18,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Christina",
+    "title": "",
+    "occupation": "des Dachdeckers W., Salzverkäuferin und Krämerin",
+    "address": "V, 13",
+    "quarter": "V",
+    "street": "",
+    "house_no": "13",
+    "origin": "Buchholterberg",
+    "birth_year": "1811",
+    "household": "2 K. — 832 Magdalena. — 34 Christina.",
+    "note": "geb. Messerli; Fortsetzung der Familie von vorheriger Seite",
+    "text": "7 811 Christina, geb. Messerli, des Dachdeckers W., Salzverkäuferin und Krämerin, a. Buchholterberg — V, 13. 2 K. — 832 Magdalena. — 34 Christina."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Zingg",
+    "place": "Bern",
+    "surname": "Zingg",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "I, 70",
+    "quarter": "I",
+    "street": "",
+    "house_no": "70",
+    "origin": "Wierezwyl",
+    "birth_year": "1780",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 780 Niklaus, Schuhmacher, a. Wierezwyl — I, 70."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Zingg",
+    "place": "Bern",
+    "surname": "Zingg",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "VI, 59",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "59",
+    "origin": "Wierezwyl",
+    "birth_year": "1793",
+    "household": "796 Fr. — Elis. Pulver a. Rüeggisberg.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 793 Christian, Krämer, a. Wierezwyl — VI, 59. 796 Fr. — Elis. Pulver a. Rüeggisberg."
+   },
+   {
+    "line_from": 23,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Zingg",
+    "place": "Bern",
+    "surname": "Zingg",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Kellerwirth und Käshändler",
+    "address": "IV, 49",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "49",
+    "origin": "Dieszbach b. B.",
+    "birth_year": "1822",
+    "household": "821 Fr. — Maria Buri a. Kirchlindach. 4 K. — 843 Friedrich Rud. — 44 Anna Maria Louise. — 45 Christ. Rudolf. — 46 August.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 822 Rudolf, Kellerwirth und Käshändler, a. Dieszbach b. B. — IV, 49. 821 Fr. — Maria Buri a. Kirchlindach. 4 K. — 843 Friedrich Rud. — 44 Anna Maria Louise. — 45 Christ. Rudolf. — 46 August."
+   },
+   {
+    "line_from": 29,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Ziörjen",
+    "place": "Bern",
+    "surname": "Ziörjen",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Spezierer",
+    "address": "III, 86",
+    "quarter": "III",
+    "street": "",
+    "house_no": "86",
+    "origin": "Zweisimmen",
+    "birth_year": "1798",
+    "household": "802 Fr. — Sus. Françoise Gavillet a. Penay. 10 K. — 824 Jakob. — 827 Joh. David. — 28 Joh. Peter. — 31 Joh. Ludwig. — 33 Maria. — 35 Joh. Karl. — 39 Joh. Emanuel. — 41 Joh. Elise. — 45 Wilh. Elise. — 48 Joh. Ludwig Samuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 798 Jakob, Spezierer, a. Zweisimmen — III, 86. 802 Fr. — Sus. Françoise Gavillet a. Penay. 10 K. — 824 Jakob. — 827 Joh. David. — 28 Joh. Peter. — 31 Joh. Ludwig. — 33 Maria. — 35 Joh. Karl. — 39 Joh. Emanuel. — 41 Joh. Elise. — 45 Wilh. Elise. — 48 Joh. Ludwig Samuel."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Zirngiebel",
+    "place": "Bern",
+    "surname": "Zirngiebel",
+    "forename": "Marie Josephine",
+    "title": "",
+    "occupation": "Hebamme, neuenburgische Tolerirte",
+    "address": "III, 142",
+    "quarter": "III",
+    "street": "",
+    "house_no": "142",
+    "origin": "",
+    "birth_year": "1803",
+    "household": "",
+    "note": "geb. Grangé; Name aus Zwischentitel",
+    "text": "1 803 Marie Josephine, geb. Grangé, Hebamme, neuenburgische Tolerirte — III, 142."
+   },
+   {
+    "line_from": 39,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Zollinger",
+    "place": "Bern",
+    "surname": "Zollinger",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Lederhändler",
+    "address": "III, 120",
+    "quarter": "III",
+    "street": "",
+    "house_no": "120",
+    "origin": "Detweil, K. Zürich",
+    "birth_year": "1820",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 820 Heinrich, Lederhändler, a. Detweil, K. Zürich — III, 120."
+   },
+   {
+    "line_from": 41,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Zopfi",
+    "place": "Bern",
+    "surname": "Zopfi",
+    "forename": "Isaak",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "VII, 158 c",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "158 c",
+    "origin": "Schwanden, K. Glarus",
+    "birth_year": "1805",
+    "household": "Fr. — Anna Imhoof a. Niedermuhlern. 5 K. — 829 Anna Elis. — 31 Maria Elis. — 34 Kath. Rosina. — 37 Anna Helena — 40 Emilie Julie Charl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Isaak, Steinhauer, a. Schwanden, K. Glarus — VII, 158 c. Fr. — Anna Imhoof a. Niedermuhlern. 5 K. — 829 Anna Elis. — 31 Maria Elis. — 34 Kath. Rosina. — 37 Anna Helena — 40 Emilie Julie Charl."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:00:50+01:00",
+ "last_error": null
+}

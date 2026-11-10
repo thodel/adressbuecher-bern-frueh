@@ -1,0 +1,301 @@
+{
+ "run": "smoke-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "7d05ea69ed98",
+ "volume": "1795",
+ "page": 24,
+ "section": "handbuch",
+ "started": "2026-11-10T21:00:19+01:00",
+ "thinking": "low",
+ "seconds": 13.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2231,
+  "output": 1768,
+  "thoughts": null
+ },
+ "response_text": "{\"printed_page\": \"38\", \"running_head\": \"Burgdorf.\", \"lines\": [{\"n\": 1, \"text\": \"38 Burgdorf.\"}, {\"n\": 2, \"text\": \"Burgdorf.\"}, {\"n\": 3, \"text\": \"Herr\"}, {\"n\": 4, \"text\": \"Joh. Rud. Aeschlimann, handelt mit Spe-\"}, {\"n\": 5, \"text\": \"cerey, Eisen und Käs en gros.\"}, {\"n\": 6, \"text\": \"Friedrich Burger, fabriciert Floretband, fängt\"}, {\"n\": 7, \"text\": \"nun auch an mit Seidenband zu handeln, und\"}, {\"n\": 8, \"text\": \"selbige zu fabricieren.\"}, {\"n\": 9, \"text\": \"Dürig und de Guervain, fabricieren Strich-\"}, {\"n\": 10, \"text\": \"zeug und Leinwand en gros.\"}, {\"n\": 11, \"text\": \"Gebrüder Fankhauser, weiße und gedrukte\"}, {\"n\": 12, \"text\": \"Leinwand und Strichzeug en gros.\"}, {\"n\": 13, \"text\": \"Samuel Flükiger, Gürtler und Rothgießer.\"}, {\"n\": 14, \"text\": \"Joh. Rud. Grimm, hält nebst seiner Apothek\"}, {\"n\": 15, \"text\": \"die mehrsten Material = Specerey und Farbewaa-\"}, {\"n\": 16, \"text\": \"ren, auch einen Kramladen mit wollenen, baum-\"}, {\"n\": 17, \"text\": \"wollenen und leinenen Tüchern, Mousselinen 2c.\"}, {\"n\": 18, \"text\": \"auch gebleichtes Garn und Federn, lezteres en gros.\"}, {\"n\": 19, \"text\": \"Joh. Jakob Grimm, Bierbrauer, er versendet\"}, {\"n\": 20, \"text\": \"dasselbe en gros.\"}, {\"n\": 21, \"text\": \"Joh. Harrisson, Engländer, Stahlfabrikant\"}, {\"n\": 22, \"text\": \"im Lochbach bey Burgdorf. Er verfertiget Federn\"}, {\"n\": 23, \"text\": \"zu Stock = und Sackuhren, wie auch alle andere Stahl-\"}, {\"n\": 24, \"text\": \"arbeiten auf eine Art die bisher noch unbekannt war,\"}, {\"n\": 25, \"text\": \"er giebt denselben die Länge welche man verlangt.\"}, {\"n\": 26, \"text\": \"Die innere Einrichtung der Fabrike ist sehenswerth,\"}, {\"n\": 27, \"text\": \"und macht seinen Kenntnissen die gröste Ehre.\"}], \"entries\": [{\"line_from\": 3, \"line_to\": 5, \"kind\": \"person\", \"heading\": \"Burgdorf\", \"place\": \"Burgdorf\", \"surname\": \"Aeschlimann\", \"forename\": \"Joh. Rud.\", \"title\": \"Herr\", \"occupation\": \"\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Joh. Rud. Aeschlimann, handelt mit Specerey, Eisen und Käs en gros.\"}, {\"line_from\": 6, \"line_to\": 8, \"kind\": \"person\", \"heading\": \"Burgdorf\", \"place\": \"Burgdorf\", \"surname\": \"Burger\", \"forename\": \"Friedrich\", \"title\": \"\", \"occupation\": \"\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Friedrich Burger, fabriciert Floretband, fängt nun auch an mit Seidenband zu handeln, und selbige zu fabricieren.\"}, {\"line_from\": 9, \"line_to\": 10, \"kind\": \"firma\", \"heading\": \"Burgdorf\", \"place\": \"Burgdorf\", \"surname\": \"Dürig und de Guervain\", \"forename\": \"\", \"title\": \"\", \"occupation\": \"\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Dürig und de Guervain, fabricieren Strichzeug und Leinwand en gros.\"}, {\"line_from\": 11, \"line_to\": 12, \"kind\": \"firma\", \"heading\": \"Burgdorf\", \"place\": \"Burgdorf\", \"surname\": \"Fankhauser\", \"forename\": \"\", \"title\": \"\", \"occupation\": \"\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Gebrüder Fankhauser, weiße und gedrukte Leinwand und Strichzeug en gros.\"}, {\"line_from\": 13, \"line_to\": 13, \"kind\": \"person\", \"heading\": \"Burgdorf\", \"place\": \"Burgdorf\", \"surname\": \"Flükiger\", \"forename\": \"Samuel\", \"title\": \"\", \"occupation\": \"Gürtler und Rothgießer\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Samuel Flükiger, Gürtler und Rothgießer.\"}, {\"line_from\": 14, \"line_to\": 18, \"kind\": \"person\", \"heading\": \"Burgdorf\", \"place\": \"Burgdorf\", \"surname\": \"Grimm\", \"forename\": \"Joh. Rud.\", \"title\": \"\", \"occupation\": \"\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Joh. Rud. Grimm, hält nebst seiner Apothek die mehrsten Material = Specerey und Farbewaaren, auch einen Kramladen mit wollenen, baumwollenen und leinenen Tüchern, Mousselinen 2c. auch gebleichtes Garn und Federn, lezteres en gros.\"}, {\"line_from\": 19, \"line_to\": 20, \"kind\": \"person\", \"heading\": \"Burgdorf\", \"place\": \"Burgdorf\", \"surname\": \"Grimm\", \"forename\": \"Joh. Jakob\", \"title\": \"\", \"occupation\": \"Bierbrauer\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Joh. Jakob Grimm, Bierbrauer, er versendet dasselbe en gros.\"}, {\"line_from\": 21, \"line_to\": 27, \"kind\": \"person\", \"heading\": \"Burgdorf\", \"place\": \"Burgdorf\", \"surname\": \"Harrisson\", \"forename\": \"Joh.\", \"title\": \"\", \"occupation\": \"Stahlfabrikant\", \"address\": \"im Lochbach bey Burgdorf\", \"quarter\": \"\", \"street\": \"Lochbach\", \"house_no\": \"\", \"origin\": \"Engländer\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Joh. Harrisson, Engländer, Stahlfabrikant im Lochbach bey Burgdorf. Er verfertiget Federn zu Stock = und Sackuhren, wie auch alle andere Stahlarbeiten auf eine Art die bisher noch unbekannt war, er giebt denselben die Länge welche man verlangt. Die innere Einrichtung der Fabrike ist sehenswerth, und macht seinen Kenntnissen die gröste Ehre.\"}], \"first_entry_continues\": false, \"last_entry_continues\": false, \"complete\": true}",
+ "parsed": {
+  "printed_page": "38",
+  "running_head": "Burgdorf.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "38 Burgdorf."
+   },
+   {
+    "n": 2,
+    "text": "Burgdorf."
+   },
+   {
+    "n": 3,
+    "text": "Herr"
+   },
+   {
+    "n": 4,
+    "text": "Joh. Rud. Aeschlimann, handelt mit Spe-"
+   },
+   {
+    "n": 5,
+    "text": "cerey, Eisen und Käs en gros."
+   },
+   {
+    "n": 6,
+    "text": "Friedrich Burger, fabriciert Floretband, fängt"
+   },
+   {
+    "n": 7,
+    "text": "nun auch an mit Seidenband zu handeln, und"
+   },
+   {
+    "n": 8,
+    "text": "selbige zu fabricieren."
+   },
+   {
+    "n": 9,
+    "text": "Dürig und de Guervain, fabricieren Strich-"
+   },
+   {
+    "n": 10,
+    "text": "zeug und Leinwand en gros."
+   },
+   {
+    "n": 11,
+    "text": "Gebrüder Fankhauser, weiße und gedrukte"
+   },
+   {
+    "n": 12,
+    "text": "Leinwand und Strichzeug en gros."
+   },
+   {
+    "n": 13,
+    "text": "Samuel Flükiger, Gürtler und Rothgießer."
+   },
+   {
+    "n": 14,
+    "text": "Joh. Rud. Grimm, hält nebst seiner Apothek"
+   },
+   {
+    "n": 15,
+    "text": "die mehrsten Material = Specerey und Farbewaa-"
+   },
+   {
+    "n": 16,
+    "text": "ren, auch einen Kramladen mit wollenen, baum-"
+   },
+   {
+    "n": 17,
+    "text": "wollenen und leinenen Tüchern, Mousselinen 2c."
+   },
+   {
+    "n": 18,
+    "text": "auch gebleichtes Garn und Federn, lezteres en gros."
+   },
+   {
+    "n": 19,
+    "text": "Joh. Jakob Grimm, Bierbrauer, er versendet"
+   },
+   {
+    "n": 20,
+    "text": "dasselbe en gros."
+   },
+   {
+    "n": 21,
+    "text": "Joh. Harrisson, Engländer, Stahlfabrikant"
+   },
+   {
+    "n": 22,
+    "text": "im Lochbach bey Burgdorf. Er verfertiget Federn"
+   },
+   {
+    "n": 23,
+    "text": "zu Stock = und Sackuhren, wie auch alle andere Stahl-"
+   },
+   {
+    "n": 24,
+    "text": "arbeiten auf eine Art die bisher noch unbekannt war,"
+   },
+   {
+    "n": 25,
+    "text": "er giebt denselben die Länge welche man verlangt."
+   },
+   {
+    "n": 26,
+    "text": "Die innere Einrichtung der Fabrike ist sehenswerth,"
+   },
+   {
+    "n": 27,
+    "text": "und macht seinen Kenntnissen die gröste Ehre."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Aeschlimann",
+    "forename": "Joh. Rud.",
+    "title": "Herr",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Rud. Aeschlimann, handelt mit Specerey, Eisen und Käs en gros."
+   },
+   {
+    "line_from": 6,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Burger",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friedrich Burger, fabriciert Floretband, fängt nun auch an mit Seidenband zu handeln, und selbige zu fabricieren."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "firma",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Dürig und de Guervain",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dürig und de Guervain, fabricieren Strichzeug und Leinwand en gros."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "firma",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Fankhauser",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gebrüder Fankhauser, weiße und gedrukte Leinwand und Strichzeug en gros."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Flükiger",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Gürtler und Rothgießer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Flükiger, Gürtler und Rothgießer."
+   },
+   {
+    "line_from": 14,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Grimm",
+    "forename": "Joh. Rud.",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Rud. Grimm, hält nebst seiner Apothek die mehrsten Material = Specerey und Farbewaaren, auch einen Kramladen mit wollenen, baumwollenen und leinenen Tüchern, Mousselinen 2c. auch gebleichtes Garn und Federn, lezteres en gros."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Grimm",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Bierbrauer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Grimm, Bierbrauer, er versendet dasselbe en gros."
+   },
+   {
+    "line_from": 21,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Harrisson",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Stahlfabrikant",
+    "address": "im Lochbach bey Burgdorf",
+    "quarter": "",
+    "street": "Lochbach",
+    "house_no": "",
+    "origin": "Engländer",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Harrisson, Engländer, Stahlfabrikant im Lochbach bey Burgdorf. Er verfertiget Federn zu Stock = und Sackuhren, wie auch alle andere Stahlarbeiten auf eine Art die bisher noch unbekannt war, er giebt denselben die Länge welche man verlangt. Die innere Einrichtung der Fabrike ist sehenswerth, und macht seinen Kenntnissen die gröste Ehre."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:00:32+01:00",
+ "last_error": null
+}

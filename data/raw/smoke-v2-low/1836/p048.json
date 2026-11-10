@@ -1,0 +1,593 @@
+{
+ "run": "smoke-v2-low",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "cd37a29c8a8a",
+ "volume": "1836",
+ "page": 48,
+ "section": "einwohner",
+ "started": "2026-11-10T21:03:36+01:00",
+ "thinking": "low",
+ "seconds": 34.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2453,
+  "output": 5624,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"39\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"39\"},\n    {\"n\": 2, \"text\": \"Verzeichniss der Einwohnerschaft zu Bern.\"},\n    {\"n\": 3, \"text\": \"Abkürzungen.\"},\n    {\"n\": 4, \"text\": \"R. Qr. statt roth Quartier. B. statt Burger in Bern.\"},\n    {\"n\": 5, \"text\": \"Gb. Qr. „ gelb „ G. „ Grundeigenthümer.\"},\n    {\"n\": 6, \"text\": \"Gn. Qr. „ grün „ H. „ Hauseigenthümer.\"},\n    {\"n\": 7, \"text\": \"W. Qr. „ weiß „ S. „ Schattseite.\"},\n    {\"n\": 8, \"text\": \"S. Qr. „ schwarz „ ✠ „ Sonnseite.\"},\n    {\"n\": 9, \"text\": \"A.\"},\n    {\"n\": 10, \"text\": \"Abegg, Rud., Schlossermstr., W. Qr. Postgasse ✠ Nr. 27. H.\"},\n    {\"n\": 11, \"text\": \"Adler, Jak., Hebräer, Negot., R. Qr. Holzmarkt S. Nr. 245.\"},\n    {\"n\": 12, \"text\": \"Adler, Is. Hebräer, Handelsm., R. Qr. Schauplatzgasse ✠ Nr. 196.\"},\n    {\"n\": 13, \"text\": \"Adler, Is., Hebräer, Handelsm., R. Qr. Schauplatzg. S. Nr. 224.\"},\n    {\"n\": 14, \"text\": \"Aeberhard, Bend., Müllermstr. Aarzieledrittel Nr. 5.\"},\n    {\"n\": 15, \"text\": \"Aeberhard, Bend., Weinhändler, R. Qr. Aarbergerg. S. Nr. 60.\"},\n    {\"n\": 16, \"text\": \"Aeberhard, Joh., Weinnegot., R. Qr. Aarbergerg. ✠ Nr. 35.\"},\n    {\"n\": 17, \"text\": \"Aeberhard, Nikl., Kellerhalter, R. Qr. Schauplatzg. ✠ Nr. 200.\"},\n    {\"n\": 18, \"text\": \"Aeberhard, Sam., Müllermstr., Holligendrittel Nr. 105.\"},\n    {\"n\": 19, \"text\": \"Aebersold, Christ., Milchträger, S. Qr. Gerberlaube gegen die Schiff-\"},\n    {\"n\": 20, \"text\": \"lände hin Nr. 15.\"},\n    {\"n\": 21, \"text\": \"Aebersold, Christ. Joh., Lohnwascher, Aarzieledrittel Nr. 20.\"},\n    {\"n\": 22, \"text\": \"Aebersold, Sam. Gabr., Ebenist und Zeichnungslehrer, R. Qr.\"},\n    {\"n\": 23, \"text\": \"Speicherg. Nr. 1.\"},\n    {\"n\": 24, \"text\": \"Aebi, geb. Steinhauer, Anna, Bettmacherin, Gb. Qr. Käfiggäßlein S.\"},\n    {\"n\": 25, \"text\": \"Nr. 25.\"},\n    {\"n\": 26, \"text\": \"Aebi, Sohn, Frz., Handelsm., Gb. Qr. Inselg. S. Nr. 136.\"},\n    {\"n\": 27, \"text\": \"Aebi, Frz. Ldw., Vater, Lehnkutscher, Gb. Qr. Inselg. S. Nr. 136. H.\"},\n    {\"n\": 28, \"text\": \"Aebi, Müllermstr., W. Qr. Schutzmühle ✠ Nr. 21. Gb. Qr. Nr. 51.\"},\n    {\"n\": 29, \"text\": \"Länggaßdrittel Nr. 184 u. 189. H.\"},\n    {\"n\": 30, \"text\": \"Aebi, Jak. Rud., Krämer, Gn. Qr. Schulgasse S. Nr. 327.\"},\n    {\"n\": 31, \"text\": \"Aebi, Joh. Rud., Uhrenmacher, R. Qr. Holzmarkt S. Nr. 243.\"},\n    {\"n\": 32, \"text\": \"Aebi, Nikl., Uhrenmacher, Gb. Qr. Kornhausplatz ✠ Nr. 149. H.\"},\n    {\"n\": 33, \"text\": \"Aebi, Rud., Polizeidiener, Gn. Qr. Herrengasse ✠ Nr. 300.\"},\n    {\"n\": 34, \"text\": \"Aebi, Sam., Oberlehrer der Knabenschule für die mittlere Gemeinde,\"},\n    {\"n\": 35, \"text\": \"Gn. Qr. Metzgergasse S. Nr. 133.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Abegg\",\n      \"forename\": \"Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Schlossermstr.\",\n      \"address\": \"W. Qr. Postgasse * Nr. 27\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Postgasse\",\n      \"house_no\": \"27\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Abegg, Rud., Schlossermstr., W. Qr. Postgasse * Nr. 27. H.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Adler\",\n      \"forename\": \"Jak.\",\n      \"title\": \"\",\n      \"occupation\": \"Hebräer, Negot.\",\n      \"address\": \"R. Qr. Holzmarkt S. Nr. 245\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Holzmarkt\",\n      \"house_no\": \"245\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Adler, Jak., Hebräer, Negot., R. Qr. Holzmarkt S. Nr. 245.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Adler\",\n      \"forename\": \"Is.\",\n      \"title\": \"\",\n      \"occupation\": \"Hebräer, Handelsm.\",\n      \"address\": \"R. Qr. Schauplatzgasse * Nr. 196\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Schauplatzgasse\",\n      \"house_no\": \"196\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Adler, Is. Hebräer, Handelsm., R. Qr. Schauplatzgasse * Nr. 196.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Adler\",\n      \"forename\": \"Is.\",\n      \"title\": \"\",\n      \"occupation\": \"Hebräer, Handelsm.\",\n      \"address\": \"R. Qr. Schauplatzg. S. Nr. 224\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Schauplatzg.\",\n      \"house_no\": \"224\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Adler, Is., Hebräer, Handelsm., R. Qr. Schauplatzg. S. Nr. 224.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeberhard\",\n      \"forename\": \"Bend.\",\n      \"title\": \"\",\n      \"occupation\": \"Müllermstr.\",\n      \"address\": \"Aarzieledrittel Nr. 5\",\n      \"quarter\": \"\",\n      \"street\": \"Aarzieledrittel\",\n      \"house_no\": \"5\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aeberhard, Bend., Müllermstr. Aarzieledrittel Nr. 5.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeberhard\",\n      \"forename\": \"Bend.\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhändler\",\n      \"address\": \"R. Qr. Aarbergerg. S. Nr. 60\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Aarbergerg.\",\n      \"house_no\": \"60\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aeberhard, Bend., Weinhändler, R. Qr. Aarbergerg. S. Nr. 60.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeberhard\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Weinnegot.\",\n      \"address\": \"R. Qr. Aarbergerg. * Nr. 35\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Aarbergerg.\",\n      \"house_no\": \"35\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aeberhard, Joh., Weinnegot., R. Qr. Aarbergerg. * Nr. 35.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeberhard\",\n      \"forename\": \"Nikl.\",\n      \"title\": \"\",\n      \"occupation\": \"Kellerhalter\",\n      \"address\": \"R. Qr. Schauplatzg. * Nr. 200\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Schauplatzg.\",\n      \"house_no\": \"200\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aeberhard, Nikl., Kellerhalter, R. Qr. Schauplatzg. * Nr. 200.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeberhard\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Müllermstr.\",\n      \"address\": \"Holligendrittel Nr. 105\",\n      \"quarter\": \"\",\n      \"street\": \"Holligendrittel\",\n      \"house_no\": \"105\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aeberhard, Sam., Müllermstr., Holligendrittel Nr. 105.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebersold\",\n      \"forename\": \"Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"S. Qr. Gerberlaube gegen die Schifflände hin Nr. 15\",\n      \"quarter\": \"S. Qr.\",\n      \"street\": \"Gerberlaube gegen die Schifflände hin\",\n      \"house_no\": \"15\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aebersold, Christ., Milchträger, S. Qr. Gerberlaube gegen die Schifflände hin Nr. 15.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebersold\",\n      \"forename\": \"Christ. Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnwascher\",\n      \"address\": \"Aarzieledrittel Nr. 20\",\n      \"quarter\": \"\",\n      \"street\": \"Aarzieledrittel\",\n      \"house_no\": \"20\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aebersold, Christ. Joh., Lohnwascher, Aarzieledrittel Nr. 20.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebersold\",\n      \"forename\": \"Sam. Gabr.\",\n      \"title\": \"\",\n      \"occupation\": \"Ebenist und Zeichnungslehrer\",\n      \"address\": \"R. Qr. Speicherg. Nr. 1\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Speicherg.\",\n      \"house_no\": \"1\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aebersold, Sam. Gabr., Ebenist und Zeichnungslehrer, R. Qr. Speicherg. Nr. 1.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebi\",\n      \"forename\": \"Anna\",\n      \"title\": \"geb. Steinhauer\",\n      \"occupation\": \"Bettmacherin\",\n      \"address\": \"Gb. Qr. Käfiggäßlein S. Nr. 25\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Käfiggäßlein\",\n      \"house_no\": \"25\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aebi, geb. Steinhauer, Anna, Bettmacherin, Gb. Qr. Käfiggäßlein S. Nr. 25.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebi\",\n      \"forename\": \"Frz.\",\n      \"title\": \"Sohn\",\n      \"occupation\": \"Handelsm.\",\n      \"address\": \"Gb. Qr. Inselg. S. Nr. 136\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Inselg.\",\n      \"house_no\": \"136\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aebi, Sohn, Frz., Handelsm., Gb. Qr. Inselg. S. Nr. 136.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebi\",\n      \"forename\": \"Frz. Ldw.\",\n      \"title\": \"Vater\",\n      \"occupation\": \"Lehnkutscher\",\n      \"address\": \"Gb. Qr. Inselg. S. Nr. 136\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Inselg.\",\n      \"house_no\": \"136\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Aebi, Frz. Ldw., Vater, Lehnkutscher, Gb. Qr. Inselg. S. Nr. 136. H.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebi\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Müllermstr.\",\n      \"address\": \"W. Qr. Schutzmühle * Nr. 21. Gb. Qr. Nr. 51. Länggaßdrittel Nr. 184 u. 189\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Schutzmühle\",\n      \"house_no\": \"21\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Aebi, Müllermstr., W. Qr. Schutzmühle * Nr. 21. Gb. Qr. Nr. 51. Länggaßdrittel Nr. 184 u. 189. H.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebi\",\n      \"forename\": \"Jak. Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"Gn. Qr. Schulgasse S. Nr. 327\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Schulgasse\",\n      \"house_no\": \"327\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aebi, Jak. Rud., Krämer, Gn. Qr. Schulgasse S. Nr. 327.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebi\",\n      \"forename\": \"Joh. Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher\",\n      \"address\": \"R. Qr. Holzmarkt S. Nr. 243\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Holzmarkt\",\n      \"house_no\": \"243\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aebi, Joh. Rud., Uhrenmacher, R. Qr. Holzmarkt S. Nr. 243.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebi\",\n      \"forename\": \"Nikl.\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher\",\n      \"address\": \"Gb. Qr. Kornhausplatz * Nr. 149\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"149\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Aebi, Nikl., Uhrenmacher, Gb. Qr. Kornhausplatz * Nr. 149. H.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebi\",\n      \"forename\": \"Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Polizeidiener\",\n      \"address\": \"Gn. Qr. Herrengasse * Nr. 300\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Herrengasse\",\n      \"house_no\": \"300\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aebi, Rud., Polizeidiener, Gn. Qr. Herrengasse * Nr. 300.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aebi\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Oberlehrer der Knabenschule für die mittlere Gemeinde\",\n      \"address\": \"Gn. Qr. Metzgergasse S. Nr. 133\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Metzgergasse\",\n      \"house_no\": \"133\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aebi, Sam., Oberlehrer der Knabenschule für die mittlere Gemeinde, Gn. Qr. Metzgergasse S. Nr. 133.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "39",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "39"
+   },
+   {
+    "n": 2,
+    "text": "Verzeichniss der Einwohnerschaft zu Bern."
+   },
+   {
+    "n": 3,
+    "text": "Abkürzungen."
+   },
+   {
+    "n": 4,
+    "text": "R. Qr. statt roth Quartier. B. statt Burger in Bern."
+   },
+   {
+    "n": 5,
+    "text": "Gb. Qr. „ gelb „ G. „ Grundeigenthümer."
+   },
+   {
+    "n": 6,
+    "text": "Gn. Qr. „ grün „ H. „ Hauseigenthümer."
+   },
+   {
+    "n": 7,
+    "text": "W. Qr. „ weiß „ S. „ Schattseite."
+   },
+   {
+    "n": 8,
+    "text": "S. Qr. „ schwarz „ ✠ „ Sonnseite."
+   },
+   {
+    "n": 9,
+    "text": "A."
+   },
+   {
+    "n": 10,
+    "text": "Abegg, Rud., Schlossermstr., W. Qr. Postgasse ✠ Nr. 27. H."
+   },
+   {
+    "n": 11,
+    "text": "Adler, Jak., Hebräer, Negot., R. Qr. Holzmarkt S. Nr. 245."
+   },
+   {
+    "n": 12,
+    "text": "Adler, Is. Hebräer, Handelsm., R. Qr. Schauplatzgasse ✠ Nr. 196."
+   },
+   {
+    "n": 13,
+    "text": "Adler, Is., Hebräer, Handelsm., R. Qr. Schauplatzg. S. Nr. 224."
+   },
+   {
+    "n": 14,
+    "text": "Aeberhard, Bend., Müllermstr. Aarzieledrittel Nr. 5."
+   },
+   {
+    "n": 15,
+    "text": "Aeberhard, Bend., Weinhändler, R. Qr. Aarbergerg. S. Nr. 60."
+   },
+   {
+    "n": 16,
+    "text": "Aeberhard, Joh., Weinnegot., R. Qr. Aarbergerg. ✠ Nr. 35."
+   },
+   {
+    "n": 17,
+    "text": "Aeberhard, Nikl., Kellerhalter, R. Qr. Schauplatzg. ✠ Nr. 200."
+   },
+   {
+    "n": 18,
+    "text": "Aeberhard, Sam., Müllermstr., Holligendrittel Nr. 105."
+   },
+   {
+    "n": 19,
+    "text": "Aebersold, Christ., Milchträger, S. Qr. Gerberlaube gegen die Schiff-"
+   },
+   {
+    "n": 20,
+    "text": "lände hin Nr. 15."
+   },
+   {
+    "n": 21,
+    "text": "Aebersold, Christ. Joh., Lohnwascher, Aarzieledrittel Nr. 20."
+   },
+   {
+    "n": 22,
+    "text": "Aebersold, Sam. Gabr., Ebenist und Zeichnungslehrer, R. Qr."
+   },
+   {
+    "n": 23,
+    "text": "Speicherg. Nr. 1."
+   },
+   {
+    "n": 24,
+    "text": "Aebi, geb. Steinhauer, Anna, Bettmacherin, Gb. Qr. Käfiggäßlein S."
+   },
+   {
+    "n": 25,
+    "text": "Nr. 25."
+   },
+   {
+    "n": 26,
+    "text": "Aebi, Sohn, Frz., Handelsm., Gb. Qr. Inselg. S. Nr. 136."
+   },
+   {
+    "n": 27,
+    "text": "Aebi, Frz. Ldw., Vater, Lehnkutscher, Gb. Qr. Inselg. S. Nr. 136. H."
+   },
+   {
+    "n": 28,
+    "text": "Aebi, Müllermstr., W. Qr. Schutzmühle ✠ Nr. 21. Gb. Qr. Nr. 51."
+   },
+   {
+    "n": 29,
+    "text": "Länggaßdrittel Nr. 184 u. 189. H."
+   },
+   {
+    "n": 30,
+    "text": "Aebi, Jak. Rud., Krämer, Gn. Qr. Schulgasse S. Nr. 327."
+   },
+   {
+    "n": 31,
+    "text": "Aebi, Joh. Rud., Uhrenmacher, R. Qr. Holzmarkt S. Nr. 243."
+   },
+   {
+    "n": 32,
+    "text": "Aebi, Nikl., Uhrenmacher, Gb. Qr. Kornhausplatz ✠ Nr. 149. H."
+   },
+   {
+    "n": 33,
+    "text": "Aebi, Rud., Polizeidiener, Gn. Qr. Herrengasse ✠ Nr. 300."
+   },
+   {
+    "n": 34,
+    "text": "Aebi, Sam., Oberlehrer der Knabenschule für die mittlere Gemeinde,"
+   },
+   {
+    "n": 35,
+    "text": "Gn. Qr. Metzgergasse S. Nr. 133."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Abegg",
+    "forename": "Rud.",
+    "title": "",
+    "occupation": "Schlossermstr.",
+    "address": "W. Qr. Postgasse * Nr. 27",
+    "quarter": "W. Qr.",
+    "street": "Postgasse",
+    "house_no": "27",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Abegg, Rud., Schlossermstr., W. Qr. Postgasse * Nr. 27. H."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Adler",
+    "forename": "Jak.",
+    "title": "",
+    "occupation": "Hebräer, Negot.",
+    "address": "R. Qr. Holzmarkt S. Nr. 245",
+    "quarter": "R. Qr.",
+    "street": "Holzmarkt",
+    "house_no": "245",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Adler, Jak., Hebräer, Negot., R. Qr. Holzmarkt S. Nr. 245."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Adler",
+    "forename": "Is.",
+    "title": "",
+    "occupation": "Hebräer, Handelsm.",
+    "address": "R. Qr. Schauplatzgasse * Nr. 196",
+    "quarter": "R. Qr.",
+    "street": "Schauplatzgasse",
+    "house_no": "196",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Adler, Is. Hebräer, Handelsm., R. Qr. Schauplatzgasse * Nr. 196."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Adler",
+    "forename": "Is.",
+    "title": "",
+    "occupation": "Hebräer, Handelsm.",
+    "address": "R. Qr. Schauplatzg. S. Nr. 224",
+    "quarter": "R. Qr.",
+    "street": "Schauplatzg.",
+    "house_no": "224",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Adler, Is., Hebräer, Handelsm., R. Qr. Schauplatzg. S. Nr. 224."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aeberhard",
+    "forename": "Bend.",
+    "title": "",
+    "occupation": "Müllermstr.",
+    "address": "Aarzieledrittel Nr. 5",
+    "quarter": "",
+    "street": "Aarzieledrittel",
+    "house_no": "5",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aeberhard, Bend., Müllermstr. Aarzieledrittel Nr. 5."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aeberhard",
+    "forename": "Bend.",
+    "title": "",
+    "occupation": "Weinhändler",
+    "address": "R. Qr. Aarbergerg. S. Nr. 60",
+    "quarter": "R. Qr.",
+    "street": "Aarbergerg.",
+    "house_no": "60",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aeberhard, Bend., Weinhändler, R. Qr. Aarbergerg. S. Nr. 60."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aeberhard",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Weinnegot.",
+    "address": "R. Qr. Aarbergerg. * Nr. 35",
+    "quarter": "R. Qr.",
+    "street": "Aarbergerg.",
+    "house_no": "35",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aeberhard, Joh., Weinnegot., R. Qr. Aarbergerg. * Nr. 35."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aeberhard",
+    "forename": "Nikl.",
+    "title": "",
+    "occupation": "Kellerhalter",
+    "address": "R. Qr. Schauplatzg. * Nr. 200",
+    "quarter": "R. Qr.",
+    "street": "Schauplatzg.",
+    "house_no": "200",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aeberhard, Nikl., Kellerhalter, R. Qr. Schauplatzg. * Nr. 200."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aeberhard",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "Müllermstr.",
+    "address": "Holligendrittel Nr. 105",
+    "quarter": "",
+    "street": "Holligendrittel",
+    "house_no": "105",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aeberhard, Sam., Müllermstr., Holligendrittel Nr. 105."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebersold",
+    "forename": "Christ.",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "S. Qr. Gerberlaube gegen die Schifflände hin Nr. 15",
+    "quarter": "S. Qr.",
+    "street": "Gerberlaube gegen die Schifflände hin",
+    "house_no": "15",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aebersold, Christ., Milchträger, S. Qr. Gerberlaube gegen die Schifflände hin Nr. 15."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebersold",
+    "forename": "Christ. Joh.",
+    "title": "",
+    "occupation": "Lohnwascher",
+    "address": "Aarzieledrittel Nr. 20",
+    "quarter": "",
+    "street": "Aarzieledrittel",
+    "house_no": "20",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aebersold, Christ. Joh., Lohnwascher, Aarzieledrittel Nr. 20."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebersold",
+    "forename": "Sam. Gabr.",
+    "title": "",
+    "occupation": "Ebenist und Zeichnungslehrer",
+    "address": "R. Qr. Speicherg. Nr. 1",
+    "quarter": "R. Qr.",
+    "street": "Speicherg.",
+    "house_no": "1",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aebersold, Sam. Gabr., Ebenist und Zeichnungslehrer, R. Qr. Speicherg. Nr. 1."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebi",
+    "forename": "Anna",
+    "title": "geb. Steinhauer",
+    "occupation": "Bettmacherin",
+    "address": "Gb. Qr. Käfiggäßlein S. Nr. 25",
+    "quarter": "Gb. Qr.",
+    "street": "Käfiggäßlein",
+    "house_no": "25",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aebi, geb. Steinhauer, Anna, Bettmacherin, Gb. Qr. Käfiggäßlein S. Nr. 25."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebi",
+    "forename": "Frz.",
+    "title": "Sohn",
+    "occupation": "Handelsm.",
+    "address": "Gb. Qr. Inselg. S. Nr. 136",
+    "quarter": "Gb. Qr.",
+    "street": "Inselg.",
+    "house_no": "136",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aebi, Sohn, Frz., Handelsm., Gb. Qr. Inselg. S. Nr. 136."
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebi",
+    "forename": "Frz. Ldw.",
+    "title": "Vater",
+    "occupation": "Lehnkutscher",
+    "address": "Gb. Qr. Inselg. S. Nr. 136",
+    "quarter": "Gb. Qr.",
+    "street": "Inselg.",
+    "house_no": "136",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Aebi, Frz. Ldw., Vater, Lehnkutscher, Gb. Qr. Inselg. S. Nr. 136. H."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebi",
+    "forename": "",
+    "title": "",
+    "occupation": "Müllermstr.",
+    "address": "W. Qr. Schutzmühle * Nr. 21. Gb. Qr. Nr. 51. Länggaßdrittel Nr. 184 u. 189",
+    "quarter": "W. Qr.",
+    "street": "Schutzmühle",
+    "house_no": "21",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Aebi, Müllermstr., W. Qr. Schutzmühle * Nr. 21. Gb. Qr. Nr. 51. Länggaßdrittel Nr. 184 u. 189. H."
+   },
+   {
+    "line_from": 30,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebi",
+    "forename": "Jak. Rud.",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "Gn. Qr. Schulgasse S. Nr. 327",
+    "quarter": "Gn. Qr.",
+    "street": "Schulgasse",
+    "house_no": "327",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aebi, Jak. Rud., Krämer, Gn. Qr. Schulgasse S. Nr. 327."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebi",
+    "forename": "Joh. Rud.",
+    "title": "",
+    "occupation": "Uhrenmacher",
+    "address": "R. Qr. Holzmarkt S. Nr. 243",
+    "quarter": "R. Qr.",
+    "street": "Holzmarkt",
+    "house_no": "243",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aebi, Joh. Rud., Uhrenmacher, R. Qr. Holzmarkt S. Nr. 243."
+   },
+   {
+    "line_from": 32,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebi",
+    "forename": "Nikl.",
+    "title": "",
+    "occupation": "Uhrenmacher",
+    "address": "Gb. Qr. Kornhausplatz * Nr. 149",
+    "quarter": "Gb. Qr.",
+    "street": "Kornhausplatz",
+    "house_no": "149",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Aebi, Nikl., Uhrenmacher, Gb. Qr. Kornhausplatz * Nr. 149. H."
+   },
+   {
+    "line_from": 33,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebi",
+    "forename": "Rud.",
+    "title": "",
+    "occupation": "Polizeidiener",
+    "address": "Gn. Qr. Herrengasse * Nr. 300",
+    "quarter": "Gn. Qr.",
+    "street": "Herrengasse",
+    "house_no": "300",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aebi, Rud., Polizeidiener, Gn. Qr. Herrengasse * Nr. 300."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aebi",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "Oberlehrer der Knabenschule für die mittlere Gemeinde",
+    "address": "Gn. Qr. Metzgergasse S. Nr. 133",
+    "quarter": "Gn. Qr.",
+    "street": "Metzgergasse",
+    "house_no": "133",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aebi, Sam., Oberlehrer der Knabenschule für die mittlere Gemeinde, Gn. Qr. Metzgergasse S. Nr. 133."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:04:11+01:00",
+ "last_error": null
+}

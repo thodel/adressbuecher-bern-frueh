@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Methode und Vorbehalte</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Code+Pro:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Frühe Berner Adressbücher 1795–1848</h1>
+  <nav class="nav"><a href="index.html">Einträge</a> · <a href="methoden.html" aria-current="page">Methode und Vorbehalte</a></nav>
+</header>
+<main class="prose">
+<h2>Was diese Seite ist</h2>
+<p>Die Seite erschliesst sechs gedruckte Verzeichnisse von Einwohnern, Handels- und Gewerbetreibenden der Stadt und Republik Bern zwischen 1795 und 1848. Die Vorlagen stammen aus der Universitätsbibliothek Bern und sind auf <a href="https://www.e-rara.ch">e-rara.ch</a> digitalisiert. Ausgewertet wurden nur die Teile mit Adress- bzw. Personeneinträgen; Stadtbeschreibungen, Behördenlisten (ausser 1848), Postkurse, Wegweiser und Ähnliches nicht. Welche Seiten je Band gelesen wurden, steht unter «Bände».</p>
+
+<h2>Wer hat gelesen: Gemini, nicht ein Mensch</h2>
+<p><b>Sämtliche Einträge wurden maschinell von einem Sprachmodell gelesen: Google Gemini (<code>gemini-3.8-flash</code>, Temperatur 0, geringe Denkstufe, ein Aufruf je Seite, November 2026).</b> Je Seite erhielt das Modell das Seitenbild von e-rara und eine Anleitung mit Hinweisen zum jeweiligen Band. Es lieferte in einem Schritt die Zeilen der Seite (diplomatisch, d. h. in der gedruckten Schreibung) und daraus gegliederte Einträge mit Name, Vorname, Beruf, Adresse und weiteren Angaben. Jeder Eintrag trägt Band, PDF-Seite und die Zeilennummern, aus denen er stammt; über den Seitenlink lässt er sich am Original prüfen.</p>
+<p>Eine Antwort wurde nur übernommen, wenn das Modell regulär zu Ende gekommen war (kein Abbruch wegen Längenbegrenzung) und die Struktur vollständig war. Stichproben je Band wurden vor dem Volllauf von Hand mit den Seitenbildern verglichen; das Ergebnis steht unten. Eine vollständige Korrekturlesung hat <b>nicht</b> stattgefunden.</p>
+
+<h2>Vorbehalte</h2>
+<ul>
+  <li><b>Lesefehler.</b> Ziffern (Hausnummern, Geburtsjahre) und seltene Namen sind am anfälligsten. Das Modell kann auch plausibel klingende, aber falsche Lesungen liefern. Vor dem Zitieren immer das Seitenbild ansehen.</li>
+  <li><b>Gliederung.</b> Die Aufteilung in Felder ist eine Deutung des Modells. Wo ein Name, ein Quartier oder ein Beruf aus der Zeile darüber gilt («—», «„»), wurde er übernommen und im Feld «Vermerk» gekennzeichnet. Einträge über einen Seitenwechsel sind als zwei Teile erfasst und unter «Seitenwechsel» markiert.</li>
+  <li><b>Schreibung.</b> Namen, Berufe und Orte stehen so, wie sie gedruckt sind (z. B. «Kramgaße», «Arau», «Apoticaires»). Es gibt keine Normalisierung und keine Verknüpfung von Personen über die Bände. Die Suche gleicht auf Wunsch einige Schreibvarianten an (ä/a, ß/ss, y/i, th/t, Doppelkonsonanten).</li>
+  <li><b>Adressen.</b> Vor 1798 und bis in die 1850er Jahre zählte Bern die Häuser je Quartier (Farbquartiere bzw. römische Quartiersnummern), nicht je Gasse. Eine Hausnummer ist darum nur zusammen mit dem Quartier eindeutig und lässt sich nicht direkt auf heutige Adressen übertragen.</li>
+  <li><b>Vollständigkeit.</b> Die Verzeichnisse vor 1848 sind Auswahlen («ansehnliche» Gewerbetreibende, «bemerkenswerte» Einwohner) und keine Einwohnerlisten. Das Verzeichnis von 1848 erfasst nur die Einsassen, also Niedergelassene ohne Berner Burgerrecht, nicht die Burger.</li>
+  <li><b>Sprache.</b> Der Band von 1810 und Teile von 1795 und 1839 sind französisch; Felder stehen in der Sprache der Vorlage.</li>
+</ul>
+
+<h2>Stichprobe vor dem Volllauf</h2>
+<div id="smoke">
+<p>Vor dem Volllauf wurden 18 Seiten aus allen Bänden gelesen (2–4 je Band, mit möglichst verschiedenem Satz: Fliesstext 1795, Gewerbelisten mit Quartierspalte 1810, Nummernspalte 1822, kleine Fraktur und zweispaltige Ortslisten 1836, französische Tabelle 1839, Haushalte 1848) und Zeile für Zeile mit dem Seitenbild verglichen. Alle Antworten waren vollständig; Reihenfolge, Zeilen, Gliederung in Einträge und Übernahme von Wiederholungszeichen («—», «„», «»») stimmten.</p>
+<p>Gefundene Fehler sind einzelne Buchstaben, vor allem in der kleinen Fraktur von 1836: langes s als f gelesen («Sägeffer» statt «Sägesser»), x als r («Gygar» statt «Gygax»), ein Buchstabe ausgelassen oder geglättet («Mezgerngaße» statt «Metzgerngaße», «gedruckte» statt gedrucktem «gedrukte»). Grob geschätzt betrifft das auf den schwierigsten Seiten etwa 2 von 1000 Zeichen; zwei Leseläufe derselben Seite unterscheiden sich an solchen Stellen gelegentlich. Wer nach einem Namen sucht, sollte darum auch nach Varianten suchen (Schalter «ä=a, ß=ss …») und Treffer am Bild prüfen.</p>
+</div>
+
+<h2>Daten</h2>
+<p>Alle Daten liegen als CSV im Repository unter <code>data/csv/</code>: <code>00_volumes.csv</code> (Bände), <code>01_pages.csv</code> (gelesene Seiten mit e-rara-Verweis), <code>02_lines.csv</code> (gelesene Zeilen), <code>03_page_status.csv</code> (Lesestatus je Seite), <code>04_entries.csv</code> (Einträge). Die Rohantworten des Modells liegen unter <code>data/raw/</code>. Seitenschlüssel ist die PDF-Seite der e-rara-PDF-Datei (PDF-Seite 1 ist das e-rara-Deckblatt; PDF-Seite <i>n</i> entspricht dem Bild <i>n</i>−1 im e-rara-Viewer).</p>
+<p>Diese Sammlung steht für sich und ist nicht mit anderen Adressbuch- oder Telefonbuchdaten verknüpft.</p>
+</main>
+</body>
+</html>

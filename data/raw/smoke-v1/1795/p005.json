@@ -1,0 +1,281 @@
+{
+ "run": "smoke-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "7d05ea69ed98",
+ "volume": "1795",
+ "page": 5,
+ "section": "handbuch",
+ "started": "2026-11-10T21:00:19+01:00",
+ "thinking": "low",
+ "seconds": 15.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2189,
+  "output": 2099,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": null,\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"(Bern) Hauptstadt\"},\n    {\"n\": 2, \"text\": \"Handelsherren und Fabrikanten.\"},\n    {\"n\": 3, \"text\": \"(NB. Es fehlen hier einige bekannte Häuser, welche aber\"},\n    {\"n\": 4, \"text\": \"nicht genannt seyn wollten.)\"},\n    {\"n\": 5, \"text\": \"Herr\"},\n    {\"n\": 6, \"text\": \"Emanuel Baumann, handelt mit inländischen\"},\n    {\"n\": 7, \"text\": \"Tüchern, Cottone, Cadrille, en gros und en dé-\"},\n    {\"n\": 8, \"text\": \"tail.\"},\n    {\"n\": 9, \"text\": \"Bernh. Rud. Benteli, en Epiceries & Dro-\"},\n    {\"n\": 10, \"text\": \"gues en détail.\"},\n    {\"n\": 11, \"text\": \"Rud. Ferd. Berchtold jünger, in Specerey-\"},\n    {\"n\": 12, \"text\": \"Waaren, nebst einer Kerzen-Fabrication.\"},\n    {\"n\": 13, \"text\": \"Brunner, Vater, Sohn älter, und Robert,\"},\n    {\"n\": 14, \"text\": \"in Draperie-Waaren, en gros & en détail.\"},\n    {\"n\": 15, \"text\": \"Joh. Dan. Brunner, hält alle Sorten Band-\"},\n    {\"n\": 16, \"text\": \"Waaren, schwarz und gefärbte Taffet, Satins,\"},\n    {\"n\": 17, \"text\": \"Sammet, Gazes, seidene Halstücher 2c. Camelots.\"},\n    {\"n\": 18, \"text\": \"François Gabriel Combe, pour toutes espèces\"},\n    {\"n\": 19, \"text\": \"toilleries & linges pour table.\"},\n    {\"n\": 20, \"text\": \"S. A. des Gouttes, Specerey-Waarenhandel,\"},\n    {\"n\": 21, \"text\": \"en détail & en gros.\"},\n    {\"n\": 22, \"text\": \"A 2\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"sonst\",\n      \"heading\": \"Handelsherren und Fabrikanten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"(NB. Es fehlen hier einige bekannte Häuser, welche aber nicht genannt seyn wollten.)\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Handelsherren und Fabrikanten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumann\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"Herr\",\n      \"occupation\": \"handelt mit inländischen Tüchern, Cottone, Cadrille, en gros und en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Emanuel Baumann, handelt mit inländischen Tüchern, Cottone, Cadrille, en gros und en détail.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Handelsherren und Fabrikanten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Benteli\",\n      \"forename\": \"Bernh. Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"en Epiceries & Drogues en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bernh. Rud. Benteli, en Epiceries & Drogues en détail.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Handelsherren und Fabrikanten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Berchtold\",\n      \"forename\": \"Rud. Ferd.\",\n      \"title\": \"\",\n      \"occupation\": \"in Specerey-Waaren, nebst einer Kerzen-Fabrication\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"jünger\",\n      \"text\": \"Rud. Ferd. Berchtold jünger, in Specerey-Waaren, nebst einer Kerzen-Fabrication.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Handelsherren und Fabrikanten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunner\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"in Draperie-Waaren, en gros & en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Vater, Sohn älter, und Robert\",\n      \"text\": \"Brunner, Vater, Sohn älter, und Robert, in Draperie-Waaren, en gros & en détail.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Handelsherren und Fabrikanten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunner\",\n      \"forename\": \"Joh. Dan.\",\n      \"title\": \"\",\n      \"occupation\": \"hält alle Sorten Band-Waaren, schwarz und gefärbte Taffet, Satins, Sammet, Gazes, seidene Halstücher 2c. Camelots\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Dan. Brunner, hält alle Sorten Band-Waaren, schwarz und gefärbte Taffet, Satins, Sammet, Gazes, seidene Halstücher 2c. Camelots.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Handelsherren und Fabrikanten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Combe\",\n      \"forename\": \"François Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"pour toutes espèces toilleries & linges pour table\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"François Gabriel Combe, pour toutes espèces toilleries & linges pour table.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Handelsherren und Fabrikanten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"des Gouttes\",\n      \"forename\": \"S. A.\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey-Waarenhandel, en détail & en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"S. A. des Gouttes, Specerey-Waarenhandel, en détail & en gros.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": null,
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "(Bern) Hauptstadt"
+   },
+   {
+    "n": 2,
+    "text": "Handelsherren und Fabrikanten."
+   },
+   {
+    "n": 3,
+    "text": "(NB. Es fehlen hier einige bekannte Häuser, welche aber"
+   },
+   {
+    "n": 4,
+    "text": "nicht genannt seyn wollten.)"
+   },
+   {
+    "n": 5,
+    "text": "Herr"
+   },
+   {
+    "n": 6,
+    "text": "Emanuel Baumann, handelt mit inländischen"
+   },
+   {
+    "n": 7,
+    "text": "Tüchern, Cottone, Cadrille, en gros und en dé-"
+   },
+   {
+    "n": 8,
+    "text": "tail."
+   },
+   {
+    "n": 9,
+    "text": "Bernh. Rud. Benteli, en Epiceries & Dro-"
+   },
+   {
+    "n": 10,
+    "text": "gues en détail."
+   },
+   {
+    "n": 11,
+    "text": "Rud. Ferd. Berchtold jünger, in Specerey-"
+   },
+   {
+    "n": 12,
+    "text": "Waaren, nebst einer Kerzen-Fabrication."
+   },
+   {
+    "n": 13,
+    "text": "Brunner, Vater, Sohn älter, und Robert,"
+   },
+   {
+    "n": 14,
+    "text": "in Draperie-Waaren, en gros & en détail."
+   },
+   {
+    "n": 15,
+    "text": "Joh. Dan. Brunner, hält alle Sorten Band-"
+   },
+   {
+    "n": 16,
+    "text": "Waaren, schwarz und gefärbte Taffet, Satins,"
+   },
+   {
+    "n": 17,
+    "text": "Sammet, Gazes, seidene Halstücher 2c. Camelots."
+   },
+   {
+    "n": 18,
+    "text": "François Gabriel Combe, pour toutes espèces"
+   },
+   {
+    "n": 19,
+    "text": "toilleries & linges pour table."
+   },
+   {
+    "n": 20,
+    "text": "S. A. des Gouttes, Specerey-Waarenhandel,"
+   },
+   {
+    "n": 21,
+    "text": "en détail & en gros."
+   },
+   {
+    "n": 22,
+    "text": "A 2"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "sonst",
+    "heading": "Handelsherren und Fabrikanten.",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "(NB. Es fehlen hier einige bekannte Häuser, welche aber nicht genannt seyn wollten.)"
+   },
+   {
+    "line_from": 5,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Handelsherren und Fabrikanten.",
+    "place": "Bern",
+    "surname": "Baumann",
+    "forename": "Emanuel",
+    "title": "Herr",
+    "occupation": "handelt mit inländischen Tüchern, Cottone, Cadrille, en gros und en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Emanuel Baumann, handelt mit inländischen Tüchern, Cottone, Cadrille, en gros und en détail."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Handelsherren und Fabrikanten.",
+    "place": "Bern",
+    "surname": "Benteli",
+    "forename": "Bernh. Rud.",
+    "title": "",
+    "occupation": "en Epiceries & Drogues en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bernh. Rud. Benteli, en Epiceries & Drogues en détail."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Handelsherren und Fabrikanten.",
+    "place": "Bern",
+    "surname": "Berchtold",
+    "forename": "Rud. Ferd.",
+    "title": "",
+    "occupation": "in Specerey-Waaren, nebst einer Kerzen-Fabrication",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "jünger",
+    "text": "Rud. Ferd. Berchtold jünger, in Specerey-Waaren, nebst einer Kerzen-Fabrication."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Handelsherren und Fabrikanten.",
+    "place": "Bern",
+    "surname": "Brunner",
+    "forename": "",
+    "title": "",
+    "occupation": "in Draperie-Waaren, en gros & en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Vater, Sohn älter, und Robert",
+    "text": "Brunner, Vater, Sohn älter, und Robert, in Draperie-Waaren, en gros & en détail."
+   },
+   {
+    "line_from": 15,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Handelsherren und Fabrikanten.",
+    "place": "Bern",
+    "surname": "Brunner",
+    "forename": "Joh. Dan.",
+    "title": "",
+    "occupation": "hält alle Sorten Band-Waaren, schwarz und gefärbte Taffet, Satins, Sammet, Gazes, seidene Halstücher 2c. Camelots",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Dan. Brunner, hält alle Sorten Band-Waaren, schwarz und gefärbte Taffet, Satins, Sammet, Gazes, seidene Halstücher 2c. Camelots."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Handelsherren und Fabrikanten.",
+    "place": "Bern",
+    "surname": "Combe",
+    "forename": "François Gabriel",
+    "title": "",
+    "occupation": "pour toutes espèces toilleries & linges pour table",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "François Gabriel Combe, pour toutes espèces toilleries & linges pour table."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Handelsherren und Fabrikanten.",
+    "place": "Bern",
+    "surname": "des Gouttes",
+    "forename": "S. A.",
+    "title": "",
+    "occupation": "Specerey-Waarenhandel, en détail & en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "S. A. des Gouttes, Specerey-Waarenhandel, en détail & en gros."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:00:34+01:00",
+ "last_error": null
+}

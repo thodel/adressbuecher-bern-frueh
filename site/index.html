@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Frühe Berner Adressbücher</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Code+Pro:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Frühe Berner Adressbücher 1795–1848</h1>
+  <nav class="nav"><a href="index.html" aria-current="page">Einträge</a> · <a href="methoden.html">Methode und Vorbehalte</a></nav>
+</header>
+<p class="sub">Sechs Verzeichnisse aus den Beständen der Universitätsbibliothek Bern (digitalisiert auf <a href="https://www.e-rara.ch">e-rara.ch</a>), maschinell gelesen mit Google Gemini. Jeder Eintrag verweist auf seine Seite im Original. <b>Lesefehler sind möglich – vor dem Zitieren am Seitenbild prüfen.</b></p>
+
+<div class="tabs" role="tablist" aria-label="Ansicht">
+  <button role="tab" id="tab-search" aria-selected="true">Suchen</button>
+  <button role="tab" id="tab-browse" aria-selected="false">Blättern</button>
+  <button role="tab" id="tab-volumes" aria-selected="false">Bände</button>
+</div>
+
+<section id="view-search">
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="Name, Beruf, Gasse, Ort … (mehrere Wörter = alle müssen vorkommen)" aria-label="Suche">
+    <select id="vol" aria-label="Band"><option value="">alle Bände</option></select>
+    <select id="field" aria-label="Feld">
+      <option value="">in allen Feldern</option>
+      <option value="surname">Nachname</option>
+      <option value="forename">Vorname</option>
+      <option value="occupation">Beruf / Gewerbe</option>
+      <option value="heading">Rubrik</option>
+      <option value="address">Adresse</option>
+      <option value="place">Ort</option>
+      <option value="origin">Herkunft</option>
+    </select>
+    <label class="check"><input type="checkbox" id="fuzzy" checked> ä=a, ß=ss, y=i, th=t</label>
+    <span class="count" id="count"></span>
+  </div>
+  <div class="wrap">
+    <table>
+      <thead><tr><th>Band</th><th>Seite</th><th>Name</th><th>Vorname</th><th>Beruf / Gewerbe</th><th>Adresse</th><th>Ort / Herkunft</th><th>Rubrik</th><th>Wortlaut</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <button class="more" id="more" hidden>weitere anzeigen</button>
+  </div>
+</section>
+
+<section id="view-browse" hidden>
+  <div class="toolbar">
+    <select id="bvol" aria-label="Band"></select>
+    <button class="btn" id="prev" aria-label="vorige Seite">‹</button>
+    <select id="bpage" aria-label="Seite"></select>
+    <button class="btn" id="next" aria-label="nächste Seite">›</button>
+    <a id="bext" class="btn" target="_blank" rel="noopener">Seite auf e-rara öffnen ↗</a>
+    <span class="count" id="bstat"></span>
+  </div>
+  <div class="browse">
+    <figure class="scan"><img id="bimg" alt="Seitenbild" loading="lazy"><figcaption id="bcap"></figcaption></figure>
+    <div class="reading">
+      <h2>Einträge</h2>
+      <div id="bentries"></div>
+      <details><summary>Gelesene Zeilen</summary><ol id="blines" class="lines"></ol></details>
+    </div>
+  </div>
+</section>
+
+<section id="view-volumes" hidden>
+  <div id="vols" class="vols"></div>
+</section>
+
+<dialog id="detail"><form method="dialog"><button class="close" aria-label="schliessen">×</button></form><div id="dbody"></div></dialog>
+<footer class="legend" id="foot"></footer>
+
+<script src="data/meta.js"></script>
+<script src="data/entries.js"></script>
+<script src="data/lines.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

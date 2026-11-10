@@ -1,0 +1,111 @@
+{
+  "_note": "Seiten = PDF-Seiten (1-basiert) der Dateien in ~/Documents/adressbücher_bern/. e-rara-Canvas k entspricht PDF-Seite k+1 (PDF-Seite 1 ist das e-rara-Deckblatt).",
+  "volumes": [
+    {
+      "volume": "1795",
+      "title": "Berner Address-Handbuch der Handelshäuser, Fabrikanten wie auch der Künstler, ansehnlichen gewerbetreibenden Personen und Professionisten im Kanton. Erster Versuch",
+      "short": "Address-Handbuch 1795",
+      "year": 1795,
+      "publisher": "Typographische Societäts-Buchhandlung, Bern",
+      "language": "de/fr",
+      "pdf": "Berner Address-Handbuch der Handelshäuser, Fabrikanten wie auch der Künstler, ansehnlichen gewerbetreibenden Personen und Professionisten im Kanton.pdf",
+      "doi": "10.3931/e-rara-7081",
+      "shelfmark": "UB Bern, MUE Laut 486 : 2",
+      "iiif_manifest": "https://www.e-rara.ch/i3f/v20/1757425/manifest",
+      "sections": [
+        {"from": 5, "to": 63, "section": "handbuch", "label": "Hauptstadt, Landstädte und Pays de Vaud (nach Orten)"},
+        {"from": 65, "to": 72, "section": "fortsetzung", "label": "Fortsetzung zum Address-Handbuch"}
+      ],
+      "notes": "Fliesstext-Einträge nach Ort, meist «Herr N. N., handelt mit …»; Adressen nur ausnahmsweise. Seite 64 (Bemerkung über die Leinen-Manufakturen) übersprungen."
+    },
+    {
+      "volume": "1810",
+      "title": "Description de la ville de Berne … Livre d'adresses des principales maisons de commerce et manufactures …",
+      "short": "Description de la ville de Berne 1810",
+      "year": 1810,
+      "publisher": "Franz Niklaus König, Bern",
+      "language": "fr",
+      "pdf": "Description de la ville de Berne.pdf",
+      "doi": "10.3931/e-rara-29502",
+      "shelfmark": "UB Bern, MUE H I 261",
+      "iiif_manifest": "https://www.e-rara.ch/i3f/v20/9603889/manifest",
+      "sections": [
+        {"from": 80, "to": 121, "section": "ville", "label": "A. Ville de Berne (nach Gewerben)"},
+        {"from": 122, "to": 140, "section": "canton", "label": "B. Canton de Berne (nach Préfectures und Orten)"},
+        {"from": 141, "to": 141, "section": "additions", "label": "Additions aux adresses de la ville"}
+      ],
+      "notes": "Einträge ab PDF-Seite 80 (= gedruckte S. 7 des Livre d'adresses). Davor Stadtbeschreibung, nicht verarbeitet. Adressen als Quartier (Farbe) + Hausnummer, z. B. «Q. bl. 109» = Quartier bleu Nr. 109."
+    },
+    {
+      "volume": "1822",
+      "title": "Adressbuch der Stadt Bern",
+      "short": "Adressbuch der Stadt Bern 1822",
+      "year": 1822,
+      "publisher": "Johann Christoph Messerli, Bern",
+      "language": "de",
+      "pdf": "Adressbuch der Stadt Bern.pdf",
+      "doi": "10.3931/e-rara-7082",
+      "shelfmark": "UB Bern, BeM Rar 307",
+      "iiif_manifest": "https://www.e-rara.ch/i3f/v20/1757509/manifest",
+      "sections": [
+        {"from": 9, "to": 70, "section": "berufe", "label": "Advokaten, Ärzte, Handlungen, Handwerker u. s. w. (nach Berufen)"}
+      ],
+      "notes": "Nach Berufen geordnet, je Eintrag Name, Gasse und Hausnummer (Nro.)."
+    },
+    {
+      "volume": "1836",
+      "title": "Adressenbuch der Republik Bern, für Wissenschaft, Kunst, Handel und Gewerbe",
+      "short": "Adressenbuch der Republik Bern 1836",
+      "year": 1836,
+      "publisher": "Christian Vollrath von Sommerlatt, Bern",
+      "language": "de",
+      "pdf": "Adressenbuch der Republik Bern.pdf",
+      "doi": "10.3931/e-rara-4616",
+      "shelfmark": "UB Bern, MUE H II 16",
+      "iiif_manifest": "https://www.e-rara.ch/i3f/v20/1397203/manifest",
+      "sections": [
+        {"from": 48, "to": 124, "section": "einwohner", "label": "Verzeichniss der Einwohnerschaft zu Bern (alphabetisch)"},
+        {"from": 267, "to": 359, "section": "kanton", "label": "Die Amtsbezirke der Republik Bern (nach Orten und Berufen)"},
+        {"from": 399, "to": 407, "section": "kanton_nachtrag", "label": "Nachtrag der aus den Kantonsorten eingegangenen Berichtigungen"},
+        {"from": 408, "to": 415, "section": "einwohner_nachtrag", "label": "Nachträgliche Adressenberichtigungen der Stadt Bern"}
+      ],
+      "notes": "Nicht verarbeitet: Behördenverzeichnis (PDF 22–41), Berufsverzeichnis (PDF 125–141, Namen ohne Adressen, doppelt zum Einwohnerverzeichnis), Beschreibungen, Fuhren, Wegweiser. Das Ergänzungsheft von 1839 im selben PDF ist als eigener Band «1839» geführt."
+    },
+    {
+      "volume": "1839",
+      "title": "Ergänzungs-Heft zu dem Adressbuch der Republik Bern von 1836 (erschienen April 1839)",
+      "short": "Ergänzungsheft 1839",
+      "year": 1839,
+      "publisher": "C. V. v. Sommerlatt; gedruckt bei J. J. Christen, Thun",
+      "language": "de",
+      "pdf": "Adressenbuch der Republik Bern.pdf",
+      "doi": "10.3931/e-rara-4616",
+      "shelfmark": "UB Bern, MUE H II 16",
+      "iiif_manifest": "https://www.e-rara.ch/i3f/v20/1397203/manifest",
+      "sections": [
+        {"from": 464, "to": 507, "section": "einwohner", "label": "Namen und veränderte Wohnungen der Einwohnerschaft zu Bern"},
+        {"from": 529, "to": 545, "section": "kanton", "label": "Nachtrag der Veränderungen in den Amtsbezirken"}
+      ],
+      "notes": "Im PDF des Bandes 1836 ab PDF-Seite 432 angebunden. Behörden und Berufsänderungen (PDF 436–528) nicht verarbeitet."
+    },
+    {
+      "volume": "1848",
+      "title": "Verzeichniss der Einsassen der Stadt Bern und sämmtlicher Staats- und Gemeindsbeamten auf 1. Januar 1848",
+      "short": "Einsassenverzeichnis 1848",
+      "year": 1848,
+      "publisher": "Stämpflische Buchdruckerei, Bern",
+      "language": "de",
+      "pdf": "Verzeichniss der Einsassen der Stadt Bern und sämmtlicher Staats- und Gemeindsbeamten auf 1. Januar 1848.pdf",
+      "doi": "10.3931/e-rara-28249",
+      "shelfmark": "UB Bern, BeM ZB Hz VIII 4a : 1848",
+      "iiif_manifest": "https://www.e-rara.ch/i3f/v20/8967210/manifest",
+      "sections": [
+        {"from": 14, "to": 186, "section": "einsassen", "label": "Verzeichniss der Einsassen mit Nachtrag"},
+        {"from": 187, "to": 188, "section": "veraenderungen", "label": "Veränderungen während des Druckes"},
+        {"from": 189, "to": 190, "section": "neue_einsassen", "label": "Neu angenommene Einsassen (Jan./Feb. 1848)"},
+        {"from": 191, "to": 202, "section": "beamte", "label": "Verzeichnis der Beamten und Angestellten"}
+      ],
+      "notes": "Nur Einsassen (Niedergelassene ohne Berner Burgerrecht). Haushalte unter Familiennamen, Geburtsjahr ohne die führende 1 (804 = 1804), Adresse als Quartier (römisch) und Hausnummer, z. B. «VI, 45»."
+    }
+  ]
+}
