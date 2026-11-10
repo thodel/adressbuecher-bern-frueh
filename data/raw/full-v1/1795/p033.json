@@ -1,0 +1,357 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 33,
+ "section": "handbuch",
+ "started": "2026-11-10T21:09:57+01:00",
+ "thinking": "low",
+ "seconds": 14.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 2062,
+  "thoughts": null
+ },
+ "response_text": "{\"printed_page\": \"31\", \"running_head\": \"Murten.\", \"lines\": [{\"n\": 1, \"text\": \"Murten. 31\"}, {\"n\": 2, \"text\": \"Herr\"}, {\"n\": 3, \"text\": \"Abraham Bertschinger, in Specerey, wollen\"}, {\"n\": 4, \"text\": \"Tuch und Leinenwaaren.\"}, {\"n\": 5, \"text\": \"David Salom. Meyer, Sohn, in Specerey en\"}, {\"n\": 6, \"text\": \"gros & en détail.\"}, {\"n\": 7, \"text\": \"Heinrich Halder, Vater und Sohn, in Spece-\"}, {\"n\": 8, \"text\": \"rey en gros & en détail.\"}, {\"n\": 9, \"text\": \"Carl Strauß, in wollen Tuch und Leinewaaren.\"}, {\"n\": 10, \"text\": \"Sam. de Joh. Ulrich Hemmann, in wollen Tuch\"}, {\"n\": 11, \"text\": \"und Leinenwaaren.\"}, {\"n\": 12, \"text\": \"Joh. Jakob Scheller, in Seidenband.\"}, {\"n\": 13, \"text\": \"Murten.\"}, {\"n\": 14, \"text\": \"Alexander Flandin und Comp. (Engländer)\"}, {\"n\": 15, \"text\": \"Fabrikant en tapisseries de papiers peints anglois,\"}, {\"n\": 16, \"text\": \"fins & communs, en dessins les plus nouveaux.\"}, {\"n\": 17, \"text\": \"A la rive à Morat.\"}, {\"n\": 18, \"text\": \"Schmid und Buchenel, Commisionärs und\"}, {\"n\": 19, \"text\": \"Spediteurs.\"}, {\"n\": 20, \"text\": \"Friolet, Commisionärs und Spediteurs als\"}, {\"n\": 21, \"text\": \"Fortsezer von der ehemals J. J. Haberstocki-\"}, {\"n\": 22, \"text\": \"schen Handlung.\"}, {\"n\": 23, \"text\": \"Delosea, in Specereywaaren und allen Arten\"}, {\"n\": 24, \"text\": \"von Droguerie.\"}, {\"n\": 25, \"text\": \"(Mehrere Handelshäuser sind zwar daselbst, die\"}, {\"n\": 26, \"text\": \"sich aber noch nicht haben einzeichnen lassen.)\"}], \"entries\": [{\"line_from\": 2, \"line_to\": 4, \"kind\": \"person\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"Bertschinger\", \"forename\": \"Abraham\", \"title\": \"Herr\", \"occupation\": \"in Specerey, wollen Tuch und Leinenwaaren\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Herr Abraham Bertschinger, in Specerey, wollen Tuch und Leinenwaaren.\"}, {\"line_from\": 5, \"line_to\": 6, \"kind\": \"person\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"Meyer\", \"forename\": \"David Salom.\", \"title\": \"Sohn\", \"occupation\": \"in Specerey en gros & en détail\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"David Salom. Meyer, Sohn, in Specerey en gros & en détail.\"}, {\"line_from\": 7, \"line_to\": 8, \"kind\": \"firma\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"Halder\", \"forename\": \"Heinrich\", \"title\": \"Vater und Sohn\", \"occupation\": \"in Specerey en gros & en détail\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Heinrich Halder, Vater und Sohn, in Specerey en gros & en détail.\"}, {\"line_from\": 9, \"line_to\": 9, \"kind\": \"person\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"Strauß\", \"forename\": \"Carl\", \"title\": \"\", \"occupation\": \"in wollen Tuch und Leinewaaren\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Carl Strauß, in wollen Tuch und Leinewaaren.\"}, {\"line_from\": 10, \"line_to\": 11, \"kind\": \"person\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"Hemmann\", \"forename\": \"Sam. de Joh. Ulrich\", \"title\": \"\", \"occupation\": \"in wollen Tuch und Leinenwaaren\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Sam. de Joh. Ulrich Hemmann, in wollen Tuch und Leinenwaaren.\"}, {\"line_from\": 12, \"line_to\": 12, \"kind\": \"person\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"Scheller\", \"forename\": \"Joh. Jakob\", \"title\": \"\", \"occupation\": \"in Seidenband\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Joh. Jakob Scheller, in Seidenband.\"}, {\"line_from\": 14, \"line_to\": 17, \"kind\": \"firma\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"Flandin\", \"forename\": \"Alexander\", \"title\": \"und Comp.\", \"occupation\": \"Fabrikant en tapisseries de papiers peints anglois, fins & communs, en dessins les plus nouveaux\", \"address\": \"A la rive à Morat\", \"quarter\": \"\", \"street\": \"A la rive\", \"house_no\": \"\", \"origin\": \"Engländer\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Alexander Flandin und Comp. (Engländer) Fabrikant en tapisseries de papiers peints anglois, fins & communs, en dessins les plus nouveaux. A la rive à Morat.\"}, {\"line_from\": 18, \"line_to\": 19, \"kind\": \"firma\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"Schmid und Buchenel\", \"forename\": \"\", \"title\": \"\", \"occupation\": \"Commisionärs und Spediteurs\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Schmid und Buchenel, Commisionärs und Spediteurs.\"}, {\"line_from\": 20, \"line_to\": 22, \"kind\": \"person\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"Friolet\", \"forename\": \"\", \"title\": \"\", \"occupation\": \"Commisionärs und Spediteurs als Fortsezer von der ehemals J. J. Haberstockischen Handlung\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Friolet, Commisionärs und Spediteurs als Fortsezer von der ehemals J. J. Haberstockischen Handlung.\"}, {\"line_from\": 23, \"line_to\": 24, \"kind\": \"person\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"Delosea\", \"forename\": \"\", \"title\": \"\", \"occupation\": \"in Specereywaaren und allen Arten von Droguerie\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Delosea, in Specereywaaren und allen Arten von Droguerie.\"}, {\"line_from\": 25, \"line_to\": 26, \"kind\": \"sonst\", \"heading\": \"Murten\", \"place\": \"Murten\", \"surname\": \"\", \"forename\": \"\", \"title\": \"\", \"occupation\": \"\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"(Mehrere Handelshäuser sind zwar daselbst, die sich aber noch nicht haben einzeichnen lassen.)\"}], \"first_entry_continues\": false, \"last_entry_continues\": false, \"complete\": true}",
+ "parsed": {
+  "printed_page": "31",
+  "running_head": "Murten.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Murten. 31"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Abraham Bertschinger, in Specerey, wollen"
+   },
+   {
+    "n": 4,
+    "text": "Tuch und Leinenwaaren."
+   },
+   {
+    "n": 5,
+    "text": "David Salom. Meyer, Sohn, in Specerey en"
+   },
+   {
+    "n": 6,
+    "text": "gros & en détail."
+   },
+   {
+    "n": 7,
+    "text": "Heinrich Halder, Vater und Sohn, in Spece-"
+   },
+   {
+    "n": 8,
+    "text": "rey en gros & en détail."
+   },
+   {
+    "n": 9,
+    "text": "Carl Strauß, in wollen Tuch und Leinewaaren."
+   },
+   {
+    "n": 10,
+    "text": "Sam. de Joh. Ulrich Hemmann, in wollen Tuch"
+   },
+   {
+    "n": 11,
+    "text": "und Leinenwaaren."
+   },
+   {
+    "n": 12,
+    "text": "Joh. Jakob Scheller, in Seidenband."
+   },
+   {
+    "n": 13,
+    "text": "Murten."
+   },
+   {
+    "n": 14,
+    "text": "Alexander Flandin und Comp. (Engländer)"
+   },
+   {
+    "n": 15,
+    "text": "Fabrikant en tapisseries de papiers peints anglois,"
+   },
+   {
+    "n": 16,
+    "text": "fins & communs, en dessins les plus nouveaux."
+   },
+   {
+    "n": 17,
+    "text": "A la rive à Morat."
+   },
+   {
+    "n": 18,
+    "text": "Schmid und Buchenel, Commisionärs und"
+   },
+   {
+    "n": 19,
+    "text": "Spediteurs."
+   },
+   {
+    "n": 20,
+    "text": "Friolet, Commisionärs und Spediteurs als"
+   },
+   {
+    "n": 21,
+    "text": "Fortsezer von der ehemals J. J. Haberstocki-"
+   },
+   {
+    "n": 22,
+    "text": "schen Handlung."
+   },
+   {
+    "n": 23,
+    "text": "Delosea, in Specereywaaren und allen Arten"
+   },
+   {
+    "n": 24,
+    "text": "von Droguerie."
+   },
+   {
+    "n": 25,
+    "text": "(Mehrere Handelshäuser sind zwar daselbst, die"
+   },
+   {
+    "n": 26,
+    "text": "sich aber noch nicht haben einzeichnen lassen.)"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "Bertschinger",
+    "forename": "Abraham",
+    "title": "Herr",
+    "occupation": "in Specerey, wollen Tuch und Leinenwaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Abraham Bertschinger, in Specerey, wollen Tuch und Leinenwaaren."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "Meyer",
+    "forename": "David Salom.",
+    "title": "Sohn",
+    "occupation": "in Specerey en gros & en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "David Salom. Meyer, Sohn, in Specerey en gros & en détail."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "firma",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "Halder",
+    "forename": "Heinrich",
+    "title": "Vater und Sohn",
+    "occupation": "in Specerey en gros & en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Heinrich Halder, Vater und Sohn, in Specerey en gros & en détail."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "Strauß",
+    "forename": "Carl",
+    "title": "",
+    "occupation": "in wollen Tuch und Leinewaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Carl Strauß, in wollen Tuch und Leinewaaren."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "Hemmann",
+    "forename": "Sam. de Joh. Ulrich",
+    "title": "",
+    "occupation": "in wollen Tuch und Leinenwaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sam. de Joh. Ulrich Hemmann, in wollen Tuch und Leinenwaaren."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "Scheller",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "in Seidenband",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Scheller, in Seidenband."
+   },
+   {
+    "line_from": 14,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "Flandin",
+    "forename": "Alexander",
+    "title": "und Comp.",
+    "occupation": "Fabrikant en tapisseries de papiers peints anglois, fins & communs, en dessins les plus nouveaux",
+    "address": "A la rive à Morat",
+    "quarter": "",
+    "street": "A la rive",
+    "house_no": "",
+    "origin": "Engländer",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Alexander Flandin und Comp. (Engländer) Fabrikant en tapisseries de papiers peints anglois, fins & communs, en dessins les plus nouveaux. A la rive à Morat."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "Schmid und Buchenel",
+    "forename": "",
+    "title": "",
+    "occupation": "Commisionärs und Spediteurs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schmid und Buchenel, Commisionärs und Spediteurs."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "Friolet",
+    "forename": "",
+    "title": "",
+    "occupation": "Commisionärs und Spediteurs als Fortsezer von der ehemals J. J. Haberstockischen Handlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friolet, Commisionärs und Spediteurs als Fortsezer von der ehemals J. J. Haberstockischen Handlung."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "Delosea",
+    "forename": "",
+    "title": "",
+    "occupation": "in Specereywaaren und allen Arten von Droguerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Delosea, in Specereywaaren und allen Arten von Droguerie."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "sonst",
+    "heading": "Murten",
+    "place": "Murten",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "(Mehrere Handelshäuser sind zwar daselbst, die sich aber noch nicht haben einzeichnen lassen.)"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:10:11+01:00",
+ "last_error": null
+}

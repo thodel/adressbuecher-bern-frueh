@@ -1,0 +1,505 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 23,
+ "section": "berufe",
+ "started": "2026-11-10T21:14:18+01:00",
+ "thinking": "low",
+ "seconds": 22.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2214,
+  "output": 4060,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"15\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"15\"},\n    {\"n\": 2, \"text\": \"Nro.\"},\n    {\"n\": 3, \"text\": \"Schwitzgäbel, Frau, Kramgaße … 159\"},\n    {\"n\": 4, \"text\": \"Wyttenbach, Wittwe, Kramgaße … 205\"},\n    {\"n\": 5, \"text\": \"Handlung von Papier.\"},\n    {\"n\": 6, \"text\": \"Fellenbergisches Papier-Depot, Kramgaße … 195\"},\n    {\"n\": 7, \"text\": \"Haller, Bernhard Albrecht, Marktgaße … 91\"},\n    {\"n\": 8, \"text\": \"Leuenberger, Melchior, Kramgaße … 199\"},\n    {\"n\": 9, \"text\": \"Oppliger, Johann, Keßlergaße … 243\"},\n    {\"n\": 10, \"text\": \"Stempel-Papier.\"},\n    {\"n\": 11, \"text\": \"Verkauf desselben:\"},\n    {\"n\": 12, \"text\": \"Hahn, Ludwig, Amtschreiber, Kornhausplatz … 151\"},\n    {\"n\": 13, \"text\": \"Schnell, Wittwe, geb. Dünki, Gerechtigkeitgaße … 125\"},\n    {\"n\": 14, \"text\": \"Stempfli, Frau, Aarberggaße … 59\"},\n    {\"n\": 15, \"text\": \"Wagner, J. E., Stalden … 1\"},\n    {\"n\": 16, \"text\": \"Handlung von Flaum und Bettfedern.\"},\n    {\"n\": 17, \"text\": \"Lehmann, Jakob, Marktgaße … 82\"},\n    {\"n\": 18, \"text\": \"Ludwig, Ulrich, (Verlag von Betten 2c.), Markt-\"},\n    {\"n\": 19, \"text\": \"gaße … 83\"},\n    {\"n\": 20, \"text\": \"Nägeli, Samuel, Kramgaße … 186\"},\n    {\"n\": 21, \"text\": \"Röthlisperger, J., Schauplatzgaße … 202\"},\n    {\"n\": 22, \"text\": \"Schibli, Johann, Marktgaße … 41\"},\n    {\"n\": 23, \"text\": \"Pulver (Schieß=).\"},\n    {\"n\": 24, \"text\": \"Verkauf desselben, en gros:\"},\n    {\"n\": 25, \"text\": \"Herbort, Albrecht, Pulververwalter, Spitalgaße … 131\"},\n    {\"n\": 26, \"text\": \"En détail:\"},\n    {\"n\": 27, \"text\": \"Beri, Hieronymus, Stalden … 216\"},\n    {\"n\": 28, \"text\": \"Jonquiere, J. Georg, Zwiebelngäßlein … 54\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Schwitzgäbel\",\n      \"forename\": \"\",\n      \"title\": \"Frau\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 159\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"159\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schwitzgäbel, Frau, Kramgaße 159\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Wyttenbach\",\n      \"forename\": \"\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 205\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"205\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wyttenbach, Wittwe, Kramgaße 205\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"firma\",\n      \"heading\": \"Handlung von Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fellenbergisches Papier-Depot\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 195\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"195\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fellenbergisches Papier-Depot, Kramgaße 195\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"Bernhard Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 91\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"91\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haller, Bernhard Albrecht, Marktgaße 91\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leuenberger\",\n      \"forename\": \"Melchior\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 199\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"199\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Leuenberger, Melchior, Kramgaße 199\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Oppliger\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Keßlergaße 243\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaße\",\n      \"house_no\": \"243\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Oppliger, Johann, Keßlergaße 243\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Stempel-Papier. Verkauf desselben\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hahn\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Amtschreiber\",\n      \"address\": \"Kornhausplatz 151\",\n      \"quarter\": \"\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"151\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hahn, Ludwig, Amtschreiber, Kornhausplatz 151\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Stempel-Papier. Verkauf desselben\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schnell\",\n      \"forename\": \"\",\n      \"title\": \"Wittwe, geb. Dünki\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgaße 125\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"125\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schnell, Wittwe, geb. Dünki, Gerechtigkeitgaße 125\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Stempel-Papier. Verkauf desselben\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stempfli\",\n      \"forename\": \"\",\n      \"title\": \"Frau\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 59\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"59\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stempfli, Frau, Aarberggaße 59\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Stempel-Papier. Verkauf desselben\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wagner\",\n      \"forename\": \"J. E.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Stalden 1\",\n      \"quarter\": \"\",\n      \"street\": \"Stalden\",\n      \"house_no\": \"1\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wagner, J. E., Stalden 1\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Flaum und Bettfedern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 82\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"82\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lehmann, Jakob, Marktgaße 82\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Flaum und Bettfedern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ludwig\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Verlag von Betten 2c.\",\n      \"address\": \"Marktgaße 83\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"83\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ludwig, Ulrich, (Verlag von Betten 2c.), Marktgaße 83\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Flaum und Bettfedern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nägeli\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 186\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"186\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Nägeli, Samuel, Kramgaße 186\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Flaum und Bettfedern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Röthlisperger\",\n      \"forename\": \"J.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Schauplatzgaße 202\",\n      \"quarter\": \"\",\n      \"street\": \"Schauplatzgaße\",\n      \"house_no\": \"202\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Röthlisperger, J., Schauplatzgaße 202\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Flaum und Bettfedern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schibli\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 41\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"41\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schibli, Johann, Marktgaße 41\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Pulver (Schieß=). Verkauf desselben, en gros\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herbort\",\n      \"forename\": \"Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"Pulververwalter\",\n      \"address\": \"Spitalgaße 131\",\n      \"quarter\": \"\",\n      \"street\": \"Spitalgaße\",\n      \"house_no\": \"131\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herbort, Albrecht, Pulververwalter, Spitalgaße 131\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Pulver (Schieß=). En détail\",\n      \"place\": \"Bern\",\n      \"surname\": \"Beri\",\n      \"forename\": \"Hieronymus\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Stalden 216\",\n      \"quarter\": \"\",\n      \"street\": \"Stalden\",\n      \"house_no\": \"216\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Beri, Hieronymus, Stalden 216\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Pulver (Schieß=). En détail\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jonquiere\",\n      \"forename\": \"J. Georg\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Zwiebelngäßlein 54\",\n      \"quarter\": \"\",\n      \"street\": \"Zwiebelngäßlein\",\n      \"house_no\": \"54\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jonquiere, J. Georg, Zwiebelngäßlein 54\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "15",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "15"
+   },
+   {
+    "n": 2,
+    "text": "Nro."
+   },
+   {
+    "n": 3,
+    "text": "Schwitzgäbel, Frau, Kramgaße … 159"
+   },
+   {
+    "n": 4,
+    "text": "Wyttenbach, Wittwe, Kramgaße … 205"
+   },
+   {
+    "n": 5,
+    "text": "Handlung von Papier."
+   },
+   {
+    "n": 6,
+    "text": "Fellenbergisches Papier-Depot, Kramgaße … 195"
+   },
+   {
+    "n": 7,
+    "text": "Haller, Bernhard Albrecht, Marktgaße … 91"
+   },
+   {
+    "n": 8,
+    "text": "Leuenberger, Melchior, Kramgaße … 199"
+   },
+   {
+    "n": 9,
+    "text": "Oppliger, Johann, Keßlergaße … 243"
+   },
+   {
+    "n": 10,
+    "text": "Stempel-Papier."
+   },
+   {
+    "n": 11,
+    "text": "Verkauf desselben:"
+   },
+   {
+    "n": 12,
+    "text": "Hahn, Ludwig, Amtschreiber, Kornhausplatz … 151"
+   },
+   {
+    "n": 13,
+    "text": "Schnell, Wittwe, geb. Dünki, Gerechtigkeitgaße … 125"
+   },
+   {
+    "n": 14,
+    "text": "Stempfli, Frau, Aarberggaße … 59"
+   },
+   {
+    "n": 15,
+    "text": "Wagner, J. E., Stalden … 1"
+   },
+   {
+    "n": 16,
+    "text": "Handlung von Flaum und Bettfedern."
+   },
+   {
+    "n": 17,
+    "text": "Lehmann, Jakob, Marktgaße … 82"
+   },
+   {
+    "n": 18,
+    "text": "Ludwig, Ulrich, (Verlag von Betten 2c.), Markt-"
+   },
+   {
+    "n": 19,
+    "text": "gaße … 83"
+   },
+   {
+    "n": 20,
+    "text": "Nägeli, Samuel, Kramgaße … 186"
+   },
+   {
+    "n": 21,
+    "text": "Röthlisperger, J., Schauplatzgaße … 202"
+   },
+   {
+    "n": 22,
+    "text": "Schibli, Johann, Marktgaße … 41"
+   },
+   {
+    "n": 23,
+    "text": "Pulver (Schieß=)."
+   },
+   {
+    "n": 24,
+    "text": "Verkauf desselben, en gros:"
+   },
+   {
+    "n": 25,
+    "text": "Herbort, Albrecht, Pulververwalter, Spitalgaße … 131"
+   },
+   {
+    "n": 26,
+    "text": "En détail:"
+   },
+   {
+    "n": 27,
+    "text": "Beri, Hieronymus, Stalden … 216"
+   },
+   {
+    "n": 28,
+    "text": "Jonquiere, J. Georg, Zwiebelngäßlein … 54"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Schwitzgäbel",
+    "forename": "",
+    "title": "Frau",
+    "occupation": "",
+    "address": "Kramgaße 159",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "159",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schwitzgäbel, Frau, Kramgaße 159"
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Wyttenbach",
+    "forename": "",
+    "title": "Wittwe",
+    "occupation": "",
+    "address": "Kramgaße 205",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "205",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wyttenbach, Wittwe, Kramgaße 205"
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "firma",
+    "heading": "Handlung von Papier",
+    "place": "Bern",
+    "surname": "Fellenbergisches Papier-Depot",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 195",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "195",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fellenbergisches Papier-Depot, Kramgaße 195"
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Handlung von Papier",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "Bernhard Albrecht",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 91",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "91",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haller, Bernhard Albrecht, Marktgaße 91"
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Handlung von Papier",
+    "place": "Bern",
+    "surname": "Leuenberger",
+    "forename": "Melchior",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 199",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "199",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Leuenberger, Melchior, Kramgaße 199"
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Handlung von Papier",
+    "place": "Bern",
+    "surname": "Oppliger",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "",
+    "address": "Keßlergaße 243",
+    "quarter": "",
+    "street": "Keßlergaße",
+    "house_no": "243",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Oppliger, Johann, Keßlergaße 243"
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Stempel-Papier. Verkauf desselben",
+    "place": "Bern",
+    "surname": "Hahn",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Amtschreiber",
+    "address": "Kornhausplatz 151",
+    "quarter": "",
+    "street": "Kornhausplatz",
+    "house_no": "151",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hahn, Ludwig, Amtschreiber, Kornhausplatz 151"
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Stempel-Papier. Verkauf desselben",
+    "place": "Bern",
+    "surname": "Schnell",
+    "forename": "",
+    "title": "Wittwe, geb. Dünki",
+    "occupation": "",
+    "address": "Gerechtigkeitgaße 125",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "125",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schnell, Wittwe, geb. Dünki, Gerechtigkeitgaße 125"
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Stempel-Papier. Verkauf desselben",
+    "place": "Bern",
+    "surname": "Stempfli",
+    "forename": "",
+    "title": "Frau",
+    "occupation": "",
+    "address": "Aarberggaße 59",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "59",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stempfli, Frau, Aarberggaße 59"
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Stempel-Papier. Verkauf desselben",
+    "place": "Bern",
+    "surname": "Wagner",
+    "forename": "J. E.",
+    "title": "",
+    "occupation": "",
+    "address": "Stalden 1",
+    "quarter": "",
+    "street": "Stalden",
+    "house_no": "1",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wagner, J. E., Stalden 1"
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Handlung von Flaum und Bettfedern",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 82",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "82",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lehmann, Jakob, Marktgaße 82"
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Handlung von Flaum und Bettfedern",
+    "place": "Bern",
+    "surname": "Ludwig",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Verlag von Betten 2c.",
+    "address": "Marktgaße 83",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "83",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ludwig, Ulrich, (Verlag von Betten 2c.), Marktgaße 83"
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Handlung von Flaum und Bettfedern",
+    "place": "Bern",
+    "surname": "Nägeli",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 186",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "186",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nägeli, Samuel, Kramgaße 186"
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Handlung von Flaum und Bettfedern",
+    "place": "Bern",
+    "surname": "Röthlisperger",
+    "forename": "J.",
+    "title": "",
+    "occupation": "",
+    "address": "Schauplatzgaße 202",
+    "quarter": "",
+    "street": "Schauplatzgaße",
+    "house_no": "202",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Röthlisperger, J., Schauplatzgaße 202"
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Handlung von Flaum und Bettfedern",
+    "place": "Bern",
+    "surname": "Schibli",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 41",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "41",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schibli, Johann, Marktgaße 41"
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Pulver (Schieß=). Verkauf desselben, en gros",
+    "place": "Bern",
+    "surname": "Herbort",
+    "forename": "Albrecht",
+    "title": "",
+    "occupation": "Pulververwalter",
+    "address": "Spitalgaße 131",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "131",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herbort, Albrecht, Pulververwalter, Spitalgaße 131"
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Pulver (Schieß=). En détail",
+    "place": "Bern",
+    "surname": "Beri",
+    "forename": "Hieronymus",
+    "title": "",
+    "occupation": "",
+    "address": "Stalden 216",
+    "quarter": "",
+    "street": "Stalden",
+    "house_no": "216",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Beri, Hieronymus, Stalden 216"
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Pulver (Schieß=). En détail",
+    "place": "Bern",
+    "surname": "Jonquiere",
+    "forename": "J. Georg",
+    "title": "",
+    "occupation": "",
+    "address": "Zwiebelngäßlein 54",
+    "quarter": "",
+    "street": "Zwiebelngäßlein",
+    "house_no": "54",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jonquiere, J. Georg, Zwiebelngäßlein 54"
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:14:41+01:00",
+ "last_error": null
+}

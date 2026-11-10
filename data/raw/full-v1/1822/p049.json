@@ -1,0 +1,485 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 49,
+ "section": "berufe",
+ "started": "2026-11-10T21:16:02+01:00",
+ "thinking": "low",
+ "seconds": 22.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2214,
+  "output": 3744,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"41\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"41\"},\n    {\"n\": 2, \"text\": \"Nro.\"},\n    {\"n\": 3, \"text\": \"Röthlisperger, Jakob, Aarziehle … 12\"},\n    {\"n\": 4, \"text\": \"Wartmann, Heinrich, Matten … 125\"},\n    {\"n\": 5, \"text\": \"Wasem, Aarberggaße … 43\"},\n    {\"n\": 6, \"text\": \"Zeender, Albrecht Ludw., hinter den Speichern … 1\"},\n    {\"n\": 7, \"text\": \"Marmorsäge.\"},\n    {\"n\": 8, \"text\": \"Schnyder, Ludw. Friedrich, Werkmeister, Ge-\"},\n    {\"n\": 9, \"text\": \"rechtigkeitgaße … 101\"},\n    {\"n\": 10, \"text\": \"(Bey ihm ist jede Gattung von Marmor-Arbeit\"},\n    {\"n\": 11, \"text\": \"zu finden; ausländische liefert er auf Bestellung,\"},\n    {\"n\": 12, \"text\": \"und läßt beschädigte repariren.)\"},\n    {\"n\": 13, \"text\": \"Mechaniker.\"},\n    {\"n\": 14, \"text\": \"Müller, Peter, Bollwerk … 81\"},\n    {\"n\": 15, \"text\": \"Schenk, Christian, Zwingelhof.\"},\n    {\"n\": 16, \"text\": \"Schenk, Ulrich, Bollwerk … 82\"},\n    {\"n\": 17, \"text\": \"Messerschmiede.\"},\n    {\"n\": 18, \"text\": \"Berger, Kramgaße … 164\"},\n    {\"n\": 19, \"text\": \"Dünz, Niklaus, Bollwerk … 84\"},\n    {\"n\": 20, \"text\": \"Graf, Jakob, Zeughausplatz … 248\"},\n    {\"n\": 21, \"text\": \"Leib und Gut, J., Aarberggaße … 72\"},\n    {\"n\": 22, \"text\": \"Lüthi, Marktgaße … 30\"},\n    {\"n\": 23, \"text\": \"Müller, Daniel, in der neuen Schleife, Matten\"},\n    {\"n\": 24, \"text\": \"Zabli, G. D., Metzgergaße … 96\"},\n    {\"n\": 25, \"text\": \"Metzger.\"},\n    {\"n\": 26, \"text\": \"A. Alte Schaal. — Ochsen-Metzger.\"},\n    {\"n\": 27, \"text\": \"Marti, Franz David, Metzgergaße … 74\"},\n    {\"n\": 28, \"text\": \"Müller, Ludw., Brunngaße … 2\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Röthlisperger\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Aarziehle 12\",\n      \"quarter\": \"\",\n      \"street\": \"Aarziehle\",\n      \"house_no\": \"12\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Röthlisperger, Jakob, Aarziehle 12\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Wartmann\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Matten 125\",\n      \"quarter\": \"\",\n      \"street\": \"Matten\",\n      \"house_no\": \"125\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wartmann, Heinrich, Matten 125\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Wasem\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 43\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"43\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wasem, Aarberggaße 43\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Zeender\",\n      \"forename\": \"Albrecht Ludw.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"hinter den Speichern 1\",\n      \"quarter\": \"\",\n      \"street\": \"hinter den Speichern\",\n      \"house_no\": \"1\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zeender, Albrecht Ludw., hinter den Speichern 1\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Marmorsäge\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schnyder\",\n      \"forename\": \"Ludw. Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Werkmeister\",\n      \"address\": \"Gerechtigkeitgaße 101\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"101\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Bey ihm ist jede Gattung von Marmor-Arbeit zu finden; ausländische liefert er auf Bestellung, und läßt beschädigte repariren.\",\n      \"text\": \"Schnyder, Ludw. Friedrich, Werkmeister, Gerechtigkeitgaße 101 (Bey ihm ist jede Gattung von Marmor-Arbeit zu finden; ausländische liefert er auf Bestellung, und läßt beschädigte repariren.)\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Mechaniker\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Bollwerk 81\",\n      \"quarter\": \"\",\n      \"street\": \"Bollwerk\",\n      \"house_no\": \"81\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Müller, Peter, Bollwerk 81\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Mechaniker\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Zwingelhof\",\n      \"quarter\": \"\",\n      \"street\": \"Zwingelhof\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schenk, Christian, Zwingelhof.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Mechaniker\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Bollwerk 82\",\n      \"quarter\": \"\",\n      \"street\": \"Bollwerk\",\n      \"house_no\": \"82\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schenk, Ulrich, Bollwerk 82\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Messerschmiede\",\n      \"place\": \"Bern\",\n      \"surname\": \"Berger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 164\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"164\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Berger, Kramgaße 164\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Messerschmiede\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünz\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Bollwerk 84\",\n      \"quarter\": \"\",\n      \"street\": \"Bollwerk\",\n      \"house_no\": \"84\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dünz, Niklaus, Bollwerk 84\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Messerschmiede\",\n      \"place\": \"Bern\",\n      \"surname\": \"Graf\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Zeughausplatz 248\",\n      \"quarter\": \"\",\n      \"street\": \"Zeughausplatz\",\n      \"house_no\": \"248\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Graf, Jakob, Zeughausplatz 248\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"firma\",\n      \"heading\": \"Messerschmiede\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leib und Gut\",\n      \"forename\": \"J.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 72\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"72\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Leib und Gut, J., Aarberggaße 72\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Messerschmiede\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lüthi\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 30\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"30\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lüthi, Marktgaße 30\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Messerschmiede\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"in der neuen Schleife, Matten\",\n      \"quarter\": \"\",\n      \"street\": \"Matten\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Müller, Daniel, in der neuen Schleife, Matten\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Messerschmiede\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zabli\",\n      \"forename\": \"G. D.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Metzgergaße 96\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgergaße\",\n      \"house_no\": \"96\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zabli, G. D., Metzgergaße 96\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Metzger. A. Alte Schaal. — Ochsen-Metzger\",\n      \"place\": \"Bern\",\n      \"surname\": \"Marti\",\n      \"forename\": \"Franz David\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Metzgergaße 74\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgergaße\",\n      \"house_no\": \"74\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Marti, Franz David, Metzgergaße 74\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Metzger. A. Alte Schaal. — Ochsen-Metzger\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Ludw.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Brunngaße 2\",\n      \"quarter\": \"\",\n      \"street\": \"Brunngaße\",\n      \"house_no\": \"2\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Müller, Ludw., Brunngaße 2\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "41",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "41"
+   },
+   {
+    "n": 2,
+    "text": "Nro."
+   },
+   {
+    "n": 3,
+    "text": "Röthlisperger, Jakob, Aarziehle … 12"
+   },
+   {
+    "n": 4,
+    "text": "Wartmann, Heinrich, Matten … 125"
+   },
+   {
+    "n": 5,
+    "text": "Wasem, Aarberggaße … 43"
+   },
+   {
+    "n": 6,
+    "text": "Zeender, Albrecht Ludw., hinter den Speichern … 1"
+   },
+   {
+    "n": 7,
+    "text": "Marmorsäge."
+   },
+   {
+    "n": 8,
+    "text": "Schnyder, Ludw. Friedrich, Werkmeister, Ge-"
+   },
+   {
+    "n": 9,
+    "text": "rechtigkeitgaße … 101"
+   },
+   {
+    "n": 10,
+    "text": "(Bey ihm ist jede Gattung von Marmor-Arbeit"
+   },
+   {
+    "n": 11,
+    "text": "zu finden; ausländische liefert er auf Bestellung,"
+   },
+   {
+    "n": 12,
+    "text": "und läßt beschädigte repariren.)"
+   },
+   {
+    "n": 13,
+    "text": "Mechaniker."
+   },
+   {
+    "n": 14,
+    "text": "Müller, Peter, Bollwerk … 81"
+   },
+   {
+    "n": 15,
+    "text": "Schenk, Christian, Zwingelhof."
+   },
+   {
+    "n": 16,
+    "text": "Schenk, Ulrich, Bollwerk … 82"
+   },
+   {
+    "n": 17,
+    "text": "Messerschmiede."
+   },
+   {
+    "n": 18,
+    "text": "Berger, Kramgaße … 164"
+   },
+   {
+    "n": 19,
+    "text": "Dünz, Niklaus, Bollwerk … 84"
+   },
+   {
+    "n": 20,
+    "text": "Graf, Jakob, Zeughausplatz … 248"
+   },
+   {
+    "n": 21,
+    "text": "Leib und Gut, J., Aarberggaße … 72"
+   },
+   {
+    "n": 22,
+    "text": "Lüthi, Marktgaße … 30"
+   },
+   {
+    "n": 23,
+    "text": "Müller, Daniel, in der neuen Schleife, Matten"
+   },
+   {
+    "n": 24,
+    "text": "Zabli, G. D., Metzgergaße … 96"
+   },
+   {
+    "n": 25,
+    "text": "Metzger."
+   },
+   {
+    "n": 26,
+    "text": "A. Alte Schaal. — Ochsen-Metzger."
+   },
+   {
+    "n": 27,
+    "text": "Marti, Franz David, Metzgergaße … 74"
+   },
+   {
+    "n": 28,
+    "text": "Müller, Ludw., Brunngaße … 2"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Röthlisperger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "",
+    "address": "Aarziehle 12",
+    "quarter": "",
+    "street": "Aarziehle",
+    "house_no": "12",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Röthlisperger, Jakob, Aarziehle 12"
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Wartmann",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "",
+    "address": "Matten 125",
+    "quarter": "",
+    "street": "Matten",
+    "house_no": "125",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wartmann, Heinrich, Matten 125"
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Wasem",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Aarberggaße 43",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "43",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wasem, Aarberggaße 43"
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Zeender",
+    "forename": "Albrecht Ludw.",
+    "title": "",
+    "occupation": "",
+    "address": "hinter den Speichern 1",
+    "quarter": "",
+    "street": "hinter den Speichern",
+    "house_no": "1",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zeender, Albrecht Ludw., hinter den Speichern 1"
+   },
+   {
+    "line_from": 8,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Marmorsäge",
+    "place": "Bern",
+    "surname": "Schnyder",
+    "forename": "Ludw. Friedrich",
+    "title": "",
+    "occupation": "Werkmeister",
+    "address": "Gerechtigkeitgaße 101",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "101",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Bey ihm ist jede Gattung von Marmor-Arbeit zu finden; ausländische liefert er auf Bestellung, und läßt beschädigte repariren.",
+    "text": "Schnyder, Ludw. Friedrich, Werkmeister, Gerechtigkeitgaße 101 (Bey ihm ist jede Gattung von Marmor-Arbeit zu finden; ausländische liefert er auf Bestellung, und läßt beschädigte repariren.)"
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Mechaniker",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "",
+    "address": "Bollwerk 81",
+    "quarter": "",
+    "street": "Bollwerk",
+    "house_no": "81",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müller, Peter, Bollwerk 81"
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Mechaniker",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "",
+    "address": "Zwingelhof",
+    "quarter": "",
+    "street": "Zwingelhof",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schenk, Christian, Zwingelhof."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Mechaniker",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "",
+    "address": "Bollwerk 82",
+    "quarter": "",
+    "street": "Bollwerk",
+    "house_no": "82",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schenk, Ulrich, Bollwerk 82"
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Messerschmiede",
+    "place": "Bern",
+    "surname": "Berger",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 164",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "164",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Berger, Kramgaße 164"
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Messerschmiede",
+    "place": "Bern",
+    "surname": "Dünz",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "",
+    "address": "Bollwerk 84",
+    "quarter": "",
+    "street": "Bollwerk",
+    "house_no": "84",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dünz, Niklaus, Bollwerk 84"
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Messerschmiede",
+    "place": "Bern",
+    "surname": "Graf",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "",
+    "address": "Zeughausplatz 248",
+    "quarter": "",
+    "street": "Zeughausplatz",
+    "house_no": "248",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Graf, Jakob, Zeughausplatz 248"
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "firma",
+    "heading": "Messerschmiede",
+    "place": "Bern",
+    "surname": "Leib und Gut",
+    "forename": "J.",
+    "title": "",
+    "occupation": "",
+    "address": "Aarberggaße 72",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "72",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Leib und Gut, J., Aarberggaße 72"
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Messerschmiede",
+    "place": "Bern",
+    "surname": "Lüthi",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 30",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "30",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lüthi, Marktgaße 30"
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Messerschmiede",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "",
+    "address": "in der neuen Schleife, Matten",
+    "quarter": "",
+    "street": "Matten",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müller, Daniel, in der neuen Schleife, Matten"
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Messerschmiede",
+    "place": "Bern",
+    "surname": "Zabli",
+    "forename": "G. D.",
+    "title": "",
+    "occupation": "",
+    "address": "Metzgergaße 96",
+    "quarter": "",
+    "street": "Metzgergaße",
+    "house_no": "96",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zabli, G. D., Metzgergaße 96"
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Metzger. A. Alte Schaal. — Ochsen-Metzger",
+    "place": "Bern",
+    "surname": "Marti",
+    "forename": "Franz David",
+    "title": "",
+    "occupation": "",
+    "address": "Metzgergaße 74",
+    "quarter": "",
+    "street": "Metzgergaße",
+    "house_no": "74",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Marti, Franz David, Metzgergaße 74"
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Metzger. A. Alte Schaal. — Ochsen-Metzger",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Ludw.",
+    "title": "",
+    "occupation": "",
+    "address": "Brunngaße 2",
+    "quarter": "",
+    "street": "Brunngaße",
+    "house_no": "2",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müller, Ludw., Brunngaße 2"
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:16:25+01:00",
+ "last_error": null
+}

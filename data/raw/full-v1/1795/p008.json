@@ -1,0 +1,373 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 8,
+ "section": "handbuch",
+ "started": "2026-11-10T21:09:02+01:00",
+ "thinking": "low",
+ "seconds": 20.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2344,
+  "output": 2965,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"6\",\n  \"running_head\": \"Bern.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"6 Bern.\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Joh. Georg Jonquiere, auf dem Holzmarkt,\"},\n    {\"n\": 4, \"text\": \"hat eine Seiden-Fabrik, Sammet- und Sammet-\"},\n    {\"n\": 5, \"text\": \"band-Handlung, auch die Kupferhammer Schmidte.\"},\n    {\"n\": 6, \"text\": \"Jak. Daniel Jonquiere, hat eine Eisenhand-\"},\n    {\"n\": 7, \"text\": \"lung, ferner einen Quincallerie-Laden von aller-\"},\n    {\"n\": 8, \"text\": \"hand kurzen Waaren, Eisendrath, Blech, Mesing 2c.\"},\n    {\"n\": 9, \"text\": \"Isenschmid, Kinkelin und Rupp, Galan-\"},\n    {\"n\": 10, \"text\": \"terie-Bijouterie- und Modewaaren.\"},\n    {\"n\": 11, \"text\": \"Kirchberger von Gvevaux, Papier-Manu-\"},\n    {\"n\": 12, \"text\": \"faktur.\"},\n    {\"n\": 13, \"text\": \"Fried. Rudolf Küpfer, Tuchladen, englische\"},\n    {\"n\": 14, \"text\": \"Stoffe, Kamelots, Seidenzeuge.\"},\n    {\"n\": 15, \"text\": \"Franz Küpfer, Hutfabrikant.\"},\n    {\"n\": 16, \"text\": \"Daniel Kurz, verkauft en gros galetseidene pe-\"},\n    {\"n\": 17, \"text\": \"luchirte Strümpfe und Handschuhe, gestreiften faco-\"},\n    {\"n\": 18, \"text\": \"nirten Taffet, glatten und brochirten Gros de Tours,\"},\n    {\"n\": 19, \"text\": \"besucht auch die Frankfurter-Messen mit diesen Ar-\"},\n    {\"n\": 20, \"text\": \"tikeln.\"},\n    {\"n\": 21, \"text\": \"Gebrüder Lauterburg, fabriciren in Cottonnen,\"},\n    {\"n\": 22, \"text\": \"gestreift und quadrillirt Bett- und Futter-Barchent,\"},\n    {\"n\": 23, \"text\": \"halten Magazin in Baumwolle, Baumwollengarn,\"},\n    {\"n\": 24, \"text\": \"offen Magazin in Wollen, Baumwollen und Lei-\"},\n    {\"n\": 25, \"text\": \"nen-Tuchwaaren, Bettfedern und Flaum u. s. w.\"},\n    {\"n\": 26, \"text\": \"Marquard, Beuther und Comp. Banquiers.\"},\n    {\"n\": 27, \"text\": \"Morell (Apotheker) handelt mit allen minera-\"},\n    {\"n\": 28, \"text\": \"lischen Wassern.\"},\n    {\"n\": 29, \"text\": \"Ant. Ochs, (Antiquarius) besitzt eine grosse\"},\n    {\"n\": 30, \"text\": \"[Fortsetzung...]\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jonquiere\",\n      \"forename\": \"Joh. Georg\",\n      \"title\": \"Herr\",\n      \"occupation\": \"hat eine Seiden-Fabrik, Sammet- und Sammetband-Handlung, auch die Kupferhammer Schmidte\",\n      \"address\": \"auf dem Holzmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Holzmarkt\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Joh. Georg Jonquiere, auf dem Holzmarkt, hat eine Seiden-Fabrik, Sammet- und Sammetband-Handlung, auch die Kupferhammer Schmidte.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jonquiere\",\n      \"forename\": \"Jak. Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"hat eine Eisenhandlung, ferner einen Quincallerie-Laden von allerhand kurzen Waaren, Eisendrath, Blech, Mesing 2c.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jak. Daniel Jonquiere, hat eine Eisenhandlung, ferner einen Quincallerie-Laden von allerhand kurzen Waaren, Eisendrath, Blech, Mesing 2c.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Isenschmid, Kinkelin und Rupp\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Galanterie-Bijouterie- und Modewaaren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Isenschmid, Kinkelin und Rupp, Galanterie-Bijouterie- und Modewaaren.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kirchberger von Gvevaux\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Papier-Manufaktur\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"Gvevaux\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kirchberger von Gvevaux, Papier-Manufaktur.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Küpfer\",\n      \"forename\": \"Fried. Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Tuchladen, englische Stoffe, Kamelots, Seidenzeuge\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fried. Rudolf Küpfer, Tuchladen, englische Stoffe, Kamelots, Seidenzeuge.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Küpfer\",\n      \"forename\": \"Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Hutfabrikant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Franz Küpfer, Hutfabrikant.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kurz\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"verkauft en gros galetseidene peluchirte Strümpfe und Handschuhe, gestreiften faconirten Taffet, glatten und brochirten Gros de Tours, besucht auch die Frankfurter-Messen mit diesen Artikeln\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Kurz, verkauft en gros galetseidene peluchirte Strümpfe und Handschuhe, gestreiften faconirten Taffet, glatten und brochirten Gros de Tours, besucht auch die Frankfurter-Messen mit diesen Artikeln.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 25,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lauterburg\",\n      \"forename\": \"\",\n      \"title\": \"Gebrüder\",\n      \"occupation\": \"fabriciren in Cottonnen, gestreift und quadrillirt Bett- und Futter-Barchent, halten Magazin in Baumwolle, Baumwollengarn, offen Magazin in Wollen, Baumwollen und Leinen-Tuchwaaren, Bettfedern und Flaum u. s. w.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gebrüder Lauterburg, fabriciren in Cottonnen, gestreift und quadrillirt Bett- und Futter-Barchent, halten Magazin in Baumwolle, Baumwollengarn, offen Magazin in Wollen, Baumwollen und Leinen-Tuchwaaren, Bettfedern und Flaum u. s. w.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Marquard, Beuther und Comp.\",\n      \"forename\": \"\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"Banquiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Marquard, Beuther und Comp. Banquiers.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Morell\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Apotheker; handelt mit allen mineralischen Wassern\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Morell (Apotheker) handelt mit allen mineralischen Wassern.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Bern.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ochs\",\n      \"forename\": \"Ant.\",\n      \"title\": \"\",\n      \"occupation\": \"Antiquarius\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ant. Ochs, (Antiquarius) besitzt eine grosse\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "6",
+  "running_head": "Bern.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "6 Bern."
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Joh. Georg Jonquiere, auf dem Holzmarkt,"
+   },
+   {
+    "n": 4,
+    "text": "hat eine Seiden-Fabrik, Sammet- und Sammet-"
+   },
+   {
+    "n": 5,
+    "text": "band-Handlung, auch die Kupferhammer Schmidte."
+   },
+   {
+    "n": 6,
+    "text": "Jak. Daniel Jonquiere, hat eine Eisenhand-"
+   },
+   {
+    "n": 7,
+    "text": "lung, ferner einen Quincallerie-Laden von aller-"
+   },
+   {
+    "n": 8,
+    "text": "hand kurzen Waaren, Eisendrath, Blech, Mesing 2c."
+   },
+   {
+    "n": 9,
+    "text": "Isenschmid, Kinkelin und Rupp, Galan-"
+   },
+   {
+    "n": 10,
+    "text": "terie-Bijouterie- und Modewaaren."
+   },
+   {
+    "n": 11,
+    "text": "Kirchberger von Gvevaux, Papier-Manu-"
+   },
+   {
+    "n": 12,
+    "text": "faktur."
+   },
+   {
+    "n": 13,
+    "text": "Fried. Rudolf Küpfer, Tuchladen, englische"
+   },
+   {
+    "n": 14,
+    "text": "Stoffe, Kamelots, Seidenzeuge."
+   },
+   {
+    "n": 15,
+    "text": "Franz Küpfer, Hutfabrikant."
+   },
+   {
+    "n": 16,
+    "text": "Daniel Kurz, verkauft en gros galetseidene pe-"
+   },
+   {
+    "n": 17,
+    "text": "luchirte Strümpfe und Handschuhe, gestreiften faco-"
+   },
+   {
+    "n": 18,
+    "text": "nirten Taffet, glatten und brochirten Gros de Tours,"
+   },
+   {
+    "n": 19,
+    "text": "besucht auch die Frankfurter-Messen mit diesen Ar-"
+   },
+   {
+    "n": 20,
+    "text": "tikeln."
+   },
+   {
+    "n": 21,
+    "text": "Gebrüder Lauterburg, fabriciren in Cottonnen,"
+   },
+   {
+    "n": 22,
+    "text": "gestreift und quadrillirt Bett- und Futter-Barchent,"
+   },
+   {
+    "n": 23,
+    "text": "halten Magazin in Baumwolle, Baumwollengarn,"
+   },
+   {
+    "n": 24,
+    "text": "offen Magazin in Wollen, Baumwollen und Lei-"
+   },
+   {
+    "n": 25,
+    "text": "nen-Tuchwaaren, Bettfedern und Flaum u. s. w."
+   },
+   {
+    "n": 26,
+    "text": "Marquard, Beuther und Comp. Banquiers."
+   },
+   {
+    "n": 27,
+    "text": "Morell (Apotheker) handelt mit allen minera-"
+   },
+   {
+    "n": 28,
+    "text": "lischen Wassern."
+   },
+   {
+    "n": 29,
+    "text": "Ant. Ochs, (Antiquarius) besitzt eine grosse"
+   },
+   {
+    "n": 30,
+    "text": "[Fortsetzung...]"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Jonquiere",
+    "forename": "Joh. Georg",
+    "title": "Herr",
+    "occupation": "hat eine Seiden-Fabrik, Sammet- und Sammetband-Handlung, auch die Kupferhammer Schmidte",
+    "address": "auf dem Holzmarkt",
+    "quarter": "",
+    "street": "Holzmarkt",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Joh. Georg Jonquiere, auf dem Holzmarkt, hat eine Seiden-Fabrik, Sammet- und Sammetband-Handlung, auch die Kupferhammer Schmidte."
+   },
+   {
+    "line_from": 6,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Jonquiere",
+    "forename": "Jak. Daniel",
+    "title": "",
+    "occupation": "hat eine Eisenhandlung, ferner einen Quincallerie-Laden von allerhand kurzen Waaren, Eisendrath, Blech, Mesing 2c.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jak. Daniel Jonquiere, hat eine Eisenhandlung, ferner einen Quincallerie-Laden von allerhand kurzen Waaren, Eisendrath, Blech, Mesing 2c."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "firma",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Isenschmid, Kinkelin und Rupp",
+    "forename": "",
+    "title": "",
+    "occupation": "Galanterie-Bijouterie- und Modewaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Isenschmid, Kinkelin und Rupp, Galanterie-Bijouterie- und Modewaaren."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Kirchberger von Gvevaux",
+    "forename": "",
+    "title": "",
+    "occupation": "Papier-Manufaktur",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "Gvevaux",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kirchberger von Gvevaux, Papier-Manufaktur."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Küpfer",
+    "forename": "Fried. Rudolf",
+    "title": "",
+    "occupation": "Tuchladen, englische Stoffe, Kamelots, Seidenzeuge",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fried. Rudolf Küpfer, Tuchladen, englische Stoffe, Kamelots, Seidenzeuge."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Küpfer",
+    "forename": "Franz",
+    "title": "",
+    "occupation": "Hutfabrikant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Franz Küpfer, Hutfabrikant."
+   },
+   {
+    "line_from": 16,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Kurz",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "verkauft en gros galetseidene peluchirte Strümpfe und Handschuhe, gestreiften faconirten Taffet, glatten und brochirten Gros de Tours, besucht auch die Frankfurter-Messen mit diesen Artikeln",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Kurz, verkauft en gros galetseidene peluchirte Strümpfe und Handschuhe, gestreiften faconirten Taffet, glatten und brochirten Gros de Tours, besucht auch die Frankfurter-Messen mit diesen Artikeln."
+   },
+   {
+    "line_from": 21,
+    "line_to": 25,
+    "kind": "firma",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Lauterburg",
+    "forename": "",
+    "title": "Gebrüder",
+    "occupation": "fabriciren in Cottonnen, gestreift und quadrillirt Bett- und Futter-Barchent, halten Magazin in Baumwolle, Baumwollengarn, offen Magazin in Wollen, Baumwollen und Leinen-Tuchwaaren, Bettfedern und Flaum u. s. w.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gebrüder Lauterburg, fabriciren in Cottonnen, gestreift und quadrillirt Bett- und Futter-Barchent, halten Magazin in Baumwolle, Baumwollengarn, offen Magazin in Wollen, Baumwollen und Leinen-Tuchwaaren, Bettfedern und Flaum u. s. w."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "firma",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Marquard, Beuther und Comp.",
+    "forename": "",
+    "title": "und Comp.",
+    "occupation": "Banquiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Marquard, Beuther und Comp. Banquiers."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Morell",
+    "forename": "",
+    "title": "",
+    "occupation": "Apotheker; handelt mit allen mineralischen Wassern",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Morell (Apotheker) handelt mit allen mineralischen Wassern."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Bern.",
+    "place": "Bern",
+    "surname": "Ochs",
+    "forename": "Ant.",
+    "title": "",
+    "occupation": "Antiquarius",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ant. Ochs, (Antiquarius) besitzt eine grosse"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:09:22+01:00",
+ "last_error": null
+}

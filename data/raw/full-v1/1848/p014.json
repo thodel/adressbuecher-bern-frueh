@@ -1,0 +1,361 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 14,
+ "section": "einsassen",
+ "started": "2026-11-10T21:47:48+01:00",
+ "thinking": "low",
+ "seconds": 20.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3360,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"1\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Abderhalden, a. Wattwyl, K. St. Gallen.\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"1 1798 Abraham, gew. Pfarrer - V, 193.\"},\n    {\"n\": 4, \"text\": \"796 Fr. - Maria Louise Baumgartner a. Bern.\"},\n    {\"n\": 5, \"text\": \"2 810 Jakob, Schreiner - II, 216.\"},\n    {\"n\": 6, \"text\": \"813 Fr. - Christina Zbinden.\"},\n    {\"n\": 7, \"text\": \"5 T. - 833 Anna Maria. - 40 Maria Elisabetha. -\"},\n    {\"n\": 8, \"text\": \"42 Elis. Friederike. - 41 Rosina. - 46 Karolina.\"},\n    {\"n\": 9, \"text\": \"Abegg.\"},\n    {\"n\": 10, \"text\": \"1 804 Johann Rudolf, Schlossermeister, a. Küsnacht, K.\"},\n    {\"n\": 11, \"text\": \"Zürich - V, 27.\"},\n    {\"n\": 12, \"text\": \"Adam.\"},\n    {\"n\": 13, \"text\": \"1 793 Isabella, geb. Criblez, a. Utzenstorf, Lederhändlerin - IV, 86.\"},\n    {\"n\": 14, \"text\": \"2 T. - 833 Rosette Adele. - 34 Sophie Isabella.\"},\n    {\"n\": 15, \"text\": \"Adelmann.\"},\n    {\"n\": 16, \"text\": \"1 Elisabetha, geb. Böhlen, a. Chardonnay, K. Waadt,\"},\n    {\"n\": 17, \"text\": \"Gemüsehändlerin - II, 103.\"},\n    {\"n\": 18, \"text\": \"1 S. - 827 Eduard Emanuel.\"},\n    {\"n\": 19, \"text\": \"Adler.\"},\n    {\"n\": 20, \"text\": \"1 758 Isaak, Handelsmann, a. Oberhagenthal im Elsass -\"},\n    {\"n\": 21, \"text\": \"III, 47.\"},\n    {\"n\": 22, \"text\": \"1 S. - 809 Aaron.\"},\n    {\"n\": 23, \"text\": \"Aeberhard.\"},\n    {\"n\": 24, \"text\": \"1 788 Samuel, Müllermeister, a. Jegenstorf u. Steffisburg -\"},\n    {\"n\": 25, \"text\": \"I, 105.\"},\n    {\"n\": 26, \"text\": \"795 Fr. - Elisabetha Bürki a. Brenzikofen.\"},\n    {\"n\": 27, \"text\": \"3 K. - 818 Karl Rudolf Sam. - 31 Friedr. Em. -\"},\n    {\"n\": 28, \"text\": \"35 Anna Maria.\"},\n    {\"n\": 29, \"text\": \"2 804 Elisabetha, geb. Lüthi, Rud. des Bedienten Ehefrau,\"},\n    {\"n\": 30, \"text\": \"a. Jegenstorf, Krämerin - V, 124.\"},\n    {\"n\": 31, \"text\": \"1 T. - 834 Joh. Elis. Magd.\"},\n    {\"n\": 32, \"text\": \"3 812 Bendicht, Müllermeister und Hauseigenthümer, a. Jegen=\"},\n    {\"n\": 33, \"text\": \"storf - I, 5.\"},\n    {\"n\": 34, \"text\": \"814 Fr. - Anna Krebs a. Mühledorf.\"},\n    {\"n\": 35, \"text\": \"6 K. - 833 Joh. Albrecht. - (Die übrigen sind nicht\"},\n    {\"n\": 36, \"text\": \"eingeschrieben.)\"},\n    {\"n\": 37, \"text\": \"1\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Abderhalden, a. Wattwyl, K. St. Gallen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Abderhalden\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Pfarrer\",\n      \"address\": \"V, 193\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"193\",\n      \"origin\": \"Wattwyl, K. St. Gallen\",\n      \"birth_year\": \"1798\",\n      \"household\": \"796 Fr. - Maria Louise Baumgartner a. Bern.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 1798 Abraham, gew. Pfarrer - V, 193. 796 Fr. - Maria Louise Baumgartner a. Bern.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Abderhalden, a. Wattwyl, K. St. Gallen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Abderhalden\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"II, 216\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"216\",\n      \"origin\": \"Wattwyl, K. St. Gallen\",\n      \"birth_year\": \"1810\",\n      \"household\": \"813 Fr. - Christina Zbinden. 5 T. - 833 Anna Maria. - 40 Maria Elisabetha. - 42 Elis. Friederike. - 41 Rosina. - 46 Karolina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 810 Jakob, Schreiner - II, 216. 813 Fr. - Christina Zbinden. 5 T. - 833 Anna Maria. - 40 Maria Elisabetha. - 42 Elis. Friederike. - 41 Rosina. - 46 Karolina.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Abegg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Abegg\",\n      \"forename\": \"Johann Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schlossermeister\",\n      \"address\": \"V, 27\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"27\",\n      \"origin\": \"Küsnacht, K. Zürich\",\n      \"birth_year\": \"1804\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Johann Rudolf, Schlossermeister, a. Küsnacht, K. Zürich - V, 27.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Adam.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Adam\",\n      \"forename\": \"Isabella\",\n      \"title\": \"\",\n      \"occupation\": \"Lederhändlerin\",\n      \"address\": \"IV, 86\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"86\",\n      \"origin\": \"Utzenstorf\",\n      \"birth_year\": \"1793\",\n      \"household\": \"2 T. - 833 Rosette Adele. - 34 Sophie Isabella.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 793 Isabella, geb. Criblez, a. Utzenstorf, Lederhändlerin - IV, 86. 2 T. - 833 Rosette Adele. - 34 Sophie Isabella.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Adelmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Adelmann\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Gemüsehändlerin\",\n      \"address\": \"II, 103\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"103\",\n      \"origin\": \"Chardonnay, K. Waadt\",\n      \"birth_year\": \"\",\n      \"household\": \"1 S. - 827 Eduard Emanuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Elisabetha, geb. Böhlen, a. Chardonnay, K. Waadt, Gemüsehändlerin - II, 103. 1 S. - 827 Eduard Emanuel.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Adler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Adler\",\n      \"forename\": \"Isaak\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"III, 47\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"47\",\n      \"origin\": \"Oberhagenthal im Elsass\",\n      \"birth_year\": \"1758\",\n      \"household\": \"1 S. - 809 Aaron.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 758 Isaak, Handelsmann, a. Oberhagenthal im Elsass - III, 47. 1 S. - 809 Aaron.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Aeberhard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeberhard\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Müllermeister\",\n      \"address\": \"I, 105\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"105\",\n      \"origin\": \"Jegenstorf u. Steffisburg\",\n      \"birth_year\": \"1788\",\n      \"household\": \"795 Fr. - Elisabetha Bürki a. Brenzikofen. 3 K. - 818 Karl Rudolf Sam. - 31 Friedr. Em. - 35 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 788 Samuel, Müllermeister, a. Jegenstorf u. Steffisburg - I, 105. 795 Fr. - Elisabetha Bürki a. Brenzikofen. 3 K. - 818 Karl Rudolf Sam. - 31 Friedr. Em. - 35 Anna Maria.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Aeberhard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeberhard\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"V, 124\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"124\",\n      \"origin\": \"Jegenstorf\",\n      \"birth_year\": \"1804\",\n      \"household\": \"1 T. - 834 Joh. Elis. Magd.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 804 Elisabetha, geb. Lüthi, Rud. des Bedienten Ehefrau, a. Jegenstorf, Krämerin - V, 124. 1 T. - 834 Joh. Elis. Magd.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Aeberhard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeberhard\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Müllermeister und Hauseigenthümer\",\n      \"address\": \"I, 5\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"5\",\n      \"origin\": \"Jegenstorf\",\n      \"birth_year\": \"1812\",\n      \"household\": \"814 Fr. - Anna Krebs a. Mühledorf. 6 K. - 833 Joh. Albrecht. - (Die übrigen sind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 812 Bendicht, Müllermeister und Hauseigenthümer, a. Jegenstorf - I, 5. 814 Fr. - Anna Krebs a. Mühledorf. 6 K. - 833 Joh. Albrecht. - (Die übrigen sind nicht eingeschrieben.)\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "1",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "Abderhalden, a. Wattwyl, K. St. Gallen."
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "1 1798 Abraham, gew. Pfarrer - V, 193."
+   },
+   {
+    "n": 4,
+    "text": "796 Fr. - Maria Louise Baumgartner a. Bern."
+   },
+   {
+    "n": 5,
+    "text": "2 810 Jakob, Schreiner - II, 216."
+   },
+   {
+    "n": 6,
+    "text": "813 Fr. - Christina Zbinden."
+   },
+   {
+    "n": 7,
+    "text": "5 T. - 833 Anna Maria. - 40 Maria Elisabetha. -"
+   },
+   {
+    "n": 8,
+    "text": "42 Elis. Friederike. - 41 Rosina. - 46 Karolina."
+   },
+   {
+    "n": 9,
+    "text": "Abegg."
+   },
+   {
+    "n": 10,
+    "text": "1 804 Johann Rudolf, Schlossermeister, a. Küsnacht, K."
+   },
+   {
+    "n": 11,
+    "text": "Zürich - V, 27."
+   },
+   {
+    "n": 12,
+    "text": "Adam."
+   },
+   {
+    "n": 13,
+    "text": "1 793 Isabella, geb. Criblez, a. Utzenstorf, Lederhändlerin - IV, 86."
+   },
+   {
+    "n": 14,
+    "text": "2 T. - 833 Rosette Adele. - 34 Sophie Isabella."
+   },
+   {
+    "n": 15,
+    "text": "Adelmann."
+   },
+   {
+    "n": 16,
+    "text": "1 Elisabetha, geb. Böhlen, a. Chardonnay, K. Waadt,"
+   },
+   {
+    "n": 17,
+    "text": "Gemüsehändlerin - II, 103."
+   },
+   {
+    "n": 18,
+    "text": "1 S. - 827 Eduard Emanuel."
+   },
+   {
+    "n": 19,
+    "text": "Adler."
+   },
+   {
+    "n": 20,
+    "text": "1 758 Isaak, Handelsmann, a. Oberhagenthal im Elsass -"
+   },
+   {
+    "n": 21,
+    "text": "III, 47."
+   },
+   {
+    "n": 22,
+    "text": "1 S. - 809 Aaron."
+   },
+   {
+    "n": 23,
+    "text": "Aeberhard."
+   },
+   {
+    "n": 24,
+    "text": "1 788 Samuel, Müllermeister, a. Jegenstorf u. Steffisburg -"
+   },
+   {
+    "n": 25,
+    "text": "I, 105."
+   },
+   {
+    "n": 26,
+    "text": "795 Fr. - Elisabetha Bürki a. Brenzikofen."
+   },
+   {
+    "n": 27,
+    "text": "3 K. - 818 Karl Rudolf Sam. - 31 Friedr. Em. -"
+   },
+   {
+    "n": 28,
+    "text": "35 Anna Maria."
+   },
+   {
+    "n": 29,
+    "text": "2 804 Elisabetha, geb. Lüthi, Rud. des Bedienten Ehefrau,"
+   },
+   {
+    "n": 30,
+    "text": "a. Jegenstorf, Krämerin - V, 124."
+   },
+   {
+    "n": 31,
+    "text": "1 T. - 834 Joh. Elis. Magd."
+   },
+   {
+    "n": 32,
+    "text": "3 812 Bendicht, Müllermeister und Hauseigenthümer, a. Jegen="
+   },
+   {
+    "n": 33,
+    "text": "storf - I, 5."
+   },
+   {
+    "n": 34,
+    "text": "814 Fr. - Anna Krebs a. Mühledorf."
+   },
+   {
+    "n": 35,
+    "text": "6 K. - 833 Joh. Albrecht. - (Die übrigen sind nicht"
+   },
+   {
+    "n": 36,
+    "text": "eingeschrieben.)"
+   },
+   {
+    "n": 37,
+    "text": "1"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Abderhalden, a. Wattwyl, K. St. Gallen.",
+    "place": "Bern",
+    "surname": "Abderhalden",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "gew. Pfarrer",
+    "address": "V, 193",
+    "quarter": "V",
+    "street": "",
+    "house_no": "193",
+    "origin": "Wattwyl, K. St. Gallen",
+    "birth_year": "1798",
+    "household": "796 Fr. - Maria Louise Baumgartner a. Bern.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 1798 Abraham, gew. Pfarrer - V, 193. 796 Fr. - Maria Louise Baumgartner a. Bern."
+   },
+   {
+    "line_from": 5,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Abderhalden, a. Wattwyl, K. St. Gallen.",
+    "place": "Bern",
+    "surname": "Abderhalden",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "II, 216",
+    "quarter": "II",
+    "street": "",
+    "house_no": "216",
+    "origin": "Wattwyl, K. St. Gallen",
+    "birth_year": "1810",
+    "household": "813 Fr. - Christina Zbinden. 5 T. - 833 Anna Maria. - 40 Maria Elisabetha. - 42 Elis. Friederike. - 41 Rosina. - 46 Karolina.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 810 Jakob, Schreiner - II, 216. 813 Fr. - Christina Zbinden. 5 T. - 833 Anna Maria. - 40 Maria Elisabetha. - 42 Elis. Friederike. - 41 Rosina. - 46 Karolina."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Abegg.",
+    "place": "Bern",
+    "surname": "Abegg",
+    "forename": "Johann Rudolf",
+    "title": "",
+    "occupation": "Schlossermeister",
+    "address": "V, 27",
+    "quarter": "V",
+    "street": "",
+    "house_no": "27",
+    "origin": "Küsnacht, K. Zürich",
+    "birth_year": "1804",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Johann Rudolf, Schlossermeister, a. Küsnacht, K. Zürich - V, 27."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Adam.",
+    "place": "Bern",
+    "surname": "Adam",
+    "forename": "Isabella",
+    "title": "",
+    "occupation": "Lederhändlerin",
+    "address": "IV, 86",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "86",
+    "origin": "Utzenstorf",
+    "birth_year": "1793",
+    "household": "2 T. - 833 Rosette Adele. - 34 Sophie Isabella.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 793 Isabella, geb. Criblez, a. Utzenstorf, Lederhändlerin - IV, 86. 2 T. - 833 Rosette Adele. - 34 Sophie Isabella."
+   },
+   {
+    "line_from": 16,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Adelmann.",
+    "place": "Bern",
+    "surname": "Adelmann",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Gemüsehändlerin",
+    "address": "II, 103",
+    "quarter": "II",
+    "street": "",
+    "house_no": "103",
+    "origin": "Chardonnay, K. Waadt",
+    "birth_year": "",
+    "household": "1 S. - 827 Eduard Emanuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Elisabetha, geb. Böhlen, a. Chardonnay, K. Waadt, Gemüsehändlerin - II, 103. 1 S. - 827 Eduard Emanuel."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Adler.",
+    "place": "Bern",
+    "surname": "Adler",
+    "forename": "Isaak",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "III, 47",
+    "quarter": "III",
+    "street": "",
+    "house_no": "47",
+    "origin": "Oberhagenthal im Elsass",
+    "birth_year": "1758",
+    "household": "1 S. - 809 Aaron.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 758 Isaak, Handelsmann, a. Oberhagenthal im Elsass - III, 47. 1 S. - 809 Aaron."
+   },
+   {
+    "line_from": 24,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Aeberhard.",
+    "place": "Bern",
+    "surname": "Aeberhard",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Müllermeister",
+    "address": "I, 105",
+    "quarter": "I",
+    "street": "",
+    "house_no": "105",
+    "origin": "Jegenstorf u. Steffisburg",
+    "birth_year": "1788",
+    "household": "795 Fr. - Elisabetha Bürki a. Brenzikofen. 3 K. - 818 Karl Rudolf Sam. - 31 Friedr. Em. - 35 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 788 Samuel, Müllermeister, a. Jegenstorf u. Steffisburg - I, 105. 795 Fr. - Elisabetha Bürki a. Brenzikofen. 3 K. - 818 Karl Rudolf Sam. - 31 Friedr. Em. - 35 Anna Maria."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Aeberhard.",
+    "place": "Bern",
+    "surname": "Aeberhard",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "V, 124",
+    "quarter": "V",
+    "street": "",
+    "house_no": "124",
+    "origin": "Jegenstorf",
+    "birth_year": "1804",
+    "household": "1 T. - 834 Joh. Elis. Magd.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 804 Elisabetha, geb. Lüthi, Rud. des Bedienten Ehefrau, a. Jegenstorf, Krämerin - V, 124. 1 T. - 834 Joh. Elis. Magd."
+   },
+   {
+    "line_from": 32,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Aeberhard.",
+    "place": "Bern",
+    "surname": "Aeberhard",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Müllermeister und Hauseigenthümer",
+    "address": "I, 5",
+    "quarter": "I",
+    "street": "",
+    "house_no": "5",
+    "origin": "Jegenstorf",
+    "birth_year": "1812",
+    "household": "814 Fr. - Anna Krebs a. Mühledorf. 6 K. - 833 Joh. Albrecht. - (Die übrigen sind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "3 812 Bendicht, Müllermeister und Hauseigenthümer, a. Jegenstorf - I, 5. 814 Fr. - Anna Krebs a. Mühledorf. 6 K. - 833 Joh. Albrecht. - (Die übrigen sind nicht eingeschrieben.)"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:48:09+01:00",
+ "last_error": null
+}

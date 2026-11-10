@@ -1,0 +1,381 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 47,
+ "section": "einsassen",
+ "started": "2026-11-10T21:49:53+01:00",
+ "thinking": "low",
+ "seconds": 22.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3470,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"34\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 34 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Dietiker.\"},\n    {\"n\": 4, \"text\": \"1 811 Johann, Schuhmacher, a. Veltheim - V, 123.\"},\n    {\"n\": 5, \"text\": \"815 Fr. - Maria Anna Hürzeler a. Täuffenthal.\"},\n    {\"n\": 6, \"text\": \"(Zwei Kinder sind nicht eingeschrieben.)\"},\n    {\"n\": 7, \"text\": \"Dietler.\"},\n    {\"n\": 8, \"text\": \"1 804 Friedrich, Kunstmaler, a. Solothurn - II, 137.\"},\n    {\"n\": 9, \"text\": \"812 Fr. - Nanette Schürer a. Solothurn.\"},\n    {\"n\": 10, \"text\": \"3 K. — 842 Maria Anna Leontia. — 46 Karl Jules\"},\n    {\"n\": 11, \"text\": \"Adolf. — 47 Elis. Marg. Franziska.\"},\n    {\"n\": 12, \"text\": \"Dietrich.\"},\n    {\"n\": 13, \"text\": \"1 784 Daniel, Schneider, a. Gsteig u. Matten - V, 23.\"},\n    {\"n\": 14, \"text\": \"Diezel.\"},\n    {\"n\": 15, \"text\": \"1 789 Joh. Friedrich, Schneider, bern. Landsaß - IV, 9.\"},\n    {\"n\": 16, \"text\": \"Dinger.\"},\n    {\"n\": 17, \"text\": \"1 Anna, geb. Marti, Kostgeberin, a. Biberstein - IV, 22.\"},\n    {\"n\": 18, \"text\": \"1 S. - 842 Johann.\"},\n    {\"n\": 19, \"text\": \"Döbeli.\"},\n    {\"n\": 20, \"text\": \"1 790 Anna, Schneiderin, a. Seengen - III, 20.\"},\n    {\"n\": 21, \"text\": \"Dörig.\"},\n    {\"n\": 22, \"text\": \"1 812 Leont. Johann, Musiker u. Schirmfabrikant, a. Kriens,\"},\n    {\"n\": 23, \"text\": \"K. Luzern - III, 90.\"},\n    {\"n\": 24, \"text\": \"812 Fr. - Anna Maria Burri.\"},\n    {\"n\": 25, \"text\": \"1 T. — 843 Anna Maria.\"},\n    {\"n\": 26, \"text\": \"Dörner.\"},\n    {\"n\": 27, \"text\": \"1 807 Peter, Schneider, a. Birkenau, GH. Hessen - II, 91.\"},\n    {\"n\": 28, \"text\": \"819 Fr. - Louise Aeschlimann a. Biglen.\"},\n    {\"n\": 29, \"text\": \"1 T. — 844 Elisabetha Maria.\"},\n    {\"n\": 30, \"text\": \"Dollinger.\"},\n    {\"n\": 31, \"text\": \"1 791 Joh. Christ., Strumpfweber, a. Arnex - V, 212.\"},\n    {\"n\": 32, \"text\": \"788 Fr. II Ehe. - Anna Maria Marti a. Rüggisberg.\"},\n    {\"n\": 33, \"text\": \"4 K. I Ehe. — 821 Joh. Samuel. — 24 Anna Elis. —\"},\n    {\"n\": 34, \"text\": \"26 Susanna. — 30 Sam. Heinrich Christ.\"},\n    {\"n\": 35, \"text\": \"Drexler.\"},\n    {\"n\": 36, \"text\": \"1 803 Joh., Bäcker, a. Bischoffingen im Badischen - IV, 309.\"},\n    {\"n\": 37, \"text\": \"Fr. - Anna Wahlen a. Trimstein.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Dietiker.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dietiker\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 123\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"123\",\n      \"origin\": \"Veltheim\",\n      \"birth_year\": \"1811\",\n      \"household\": \"815 Fr. - Maria Anna Hürzeler a. Täuffenthal. (Zwei Kinder sind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Johann, Schuhmacher, a. Veltheim - V, 123. 815 Fr. - Maria Anna Hürzeler a. Täuffenthal. (Zwei Kinder sind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Dietler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dietler\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Kunstmaler\",\n      \"address\": \"II, 137\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"137\",\n      \"origin\": \"Solothurn\",\n      \"birth_year\": \"1804\",\n      \"household\": \"812 Fr. - Nanette Schürer a. Solothurn. 3 K. — 842 Maria Anna Leontia. — 46 Karl Jules Adolf. — 47 Elis. Marg. Franziska.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Friedrich, Kunstmaler, a. Solothurn - II, 137. 812 Fr. - Nanette Schürer a. Solothurn. 3 K. — 842 Maria Anna Leontia. — 46 Karl Jules Adolf. — 47 Elis. Marg. Franziska.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Dietrich.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dietrich\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 23\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"23\",\n      \"origin\": \"Gsteig u. Matten\",\n      \"birth_year\": \"1784\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 784 Daniel, Schneider, a. Gsteig u. Matten - V, 23.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Diezel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Diezel\",\n      \"forename\": \"Joh. Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 9\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"9\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1789\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 789 Joh. Friedrich, Schneider, bern. Landsaß - IV, 9.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Dinger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dinger\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Kostgeberin\",\n      \"address\": \"IV, 22\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"22\",\n      \"origin\": \"Biberstein\",\n      \"birth_year\": \"\",\n      \"household\": \"1 S. - 842 Johann.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Anna, geb. Marti, Kostgeberin, a. Biberstein - IV, 22. 1 S. - 842 Johann.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Döbeli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Döbeli\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"III, 20\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"20\",\n      \"origin\": \"Seengen\",\n      \"birth_year\": \"1790\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Anna, Schneiderin, a. Seengen - III, 20.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Dörig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dörig\",\n      \"forename\": \"Leont. Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Musiker u. Schirmfabrikant\",\n      \"address\": \"III, 90\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"90\",\n      \"origin\": \"Kriens, K. Luzern\",\n      \"birth_year\": \"1812\",\n      \"household\": \"812 Fr. - Anna Maria Burri. 1 T. — 843 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Leont. Johann, Musiker u. Schirmfabrikant, a. Kriens, K. Luzern - III, 90. 812 Fr. - Anna Maria Burri. 1 T. — 843 Anna Maria.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Dörner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dörner\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"II, 91\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"91\",\n      \"origin\": \"Birkenau, GH. Hessen\",\n      \"birth_year\": \"1807\",\n      \"household\": \"819 Fr. - Louise Aeschlimann a. Biglen. 1 T. — 844 Elisabetha Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Peter, Schneider, a. Birkenau, GH. Hessen - II, 91. 819 Fr. - Louise Aeschlimann a. Biglen. 1 T. — 844 Elisabetha Maria.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Dollinger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dollinger\",\n      \"forename\": \"Joh. Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Strumpfweber\",\n      \"address\": \"V, 212\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"212\",\n      \"origin\": \"Arnex\",\n      \"birth_year\": \"1791\",\n      \"household\": \"788 Fr. II Ehe. - Anna Maria Marti a. Rüggisberg. 4 K. I Ehe. — 821 Joh. Samuel. — 24 Anna Elis. — 26 Susanna. — 30 Sam. Heinrich Christ.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 791 Joh. Christ., Strumpfweber, a. Arnex - V, 212. 788 Fr. II Ehe. - Anna Maria Marti a. Rüggisberg. 4 K. I Ehe. — 821 Joh. Samuel. — 24 Anna Elis. — 26 Susanna. — 30 Sam. Heinrich Christ.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Drexler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Drexler\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"IV, 309\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"309\",\n      \"origin\": \"Bischoffingen im Badischen\",\n      \"birth_year\": \"1803\",\n      \"household\": \"Fr. - Anna Wahlen a. Trimstein.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 Joh., Bäcker, a. Bischoffingen im Badischen - IV, 309. Fr. - Anna Wahlen a. Trimstein.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "34",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 34 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Dietiker."
+   },
+   {
+    "n": 4,
+    "text": "1 811 Johann, Schuhmacher, a. Veltheim - V, 123."
+   },
+   {
+    "n": 5,
+    "text": "815 Fr. - Maria Anna Hürzeler a. Täuffenthal."
+   },
+   {
+    "n": 6,
+    "text": "(Zwei Kinder sind nicht eingeschrieben.)"
+   },
+   {
+    "n": 7,
+    "text": "Dietler."
+   },
+   {
+    "n": 8,
+    "text": "1 804 Friedrich, Kunstmaler, a. Solothurn - II, 137."
+   },
+   {
+    "n": 9,
+    "text": "812 Fr. - Nanette Schürer a. Solothurn."
+   },
+   {
+    "n": 10,
+    "text": "3 K. — 842 Maria Anna Leontia. — 46 Karl Jules"
+   },
+   {
+    "n": 11,
+    "text": "Adolf. — 47 Elis. Marg. Franziska."
+   },
+   {
+    "n": 12,
+    "text": "Dietrich."
+   },
+   {
+    "n": 13,
+    "text": "1 784 Daniel, Schneider, a. Gsteig u. Matten - V, 23."
+   },
+   {
+    "n": 14,
+    "text": "Diezel."
+   },
+   {
+    "n": 15,
+    "text": "1 789 Joh. Friedrich, Schneider, bern. Landsaß - IV, 9."
+   },
+   {
+    "n": 16,
+    "text": "Dinger."
+   },
+   {
+    "n": 17,
+    "text": "1 Anna, geb. Marti, Kostgeberin, a. Biberstein - IV, 22."
+   },
+   {
+    "n": 18,
+    "text": "1 S. - 842 Johann."
+   },
+   {
+    "n": 19,
+    "text": "Döbeli."
+   },
+   {
+    "n": 20,
+    "text": "1 790 Anna, Schneiderin, a. Seengen - III, 20."
+   },
+   {
+    "n": 21,
+    "text": "Dörig."
+   },
+   {
+    "n": 22,
+    "text": "1 812 Leont. Johann, Musiker u. Schirmfabrikant, a. Kriens,"
+   },
+   {
+    "n": 23,
+    "text": "K. Luzern - III, 90."
+   },
+   {
+    "n": 24,
+    "text": "812 Fr. - Anna Maria Burri."
+   },
+   {
+    "n": 25,
+    "text": "1 T. — 843 Anna Maria."
+   },
+   {
+    "n": 26,
+    "text": "Dörner."
+   },
+   {
+    "n": 27,
+    "text": "1 807 Peter, Schneider, a. Birkenau, GH. Hessen - II, 91."
+   },
+   {
+    "n": 28,
+    "text": "819 Fr. - Louise Aeschlimann a. Biglen."
+   },
+   {
+    "n": 29,
+    "text": "1 T. — 844 Elisabetha Maria."
+   },
+   {
+    "n": 30,
+    "text": "Dollinger."
+   },
+   {
+    "n": 31,
+    "text": "1 791 Joh. Christ., Strumpfweber, a. Arnex - V, 212."
+   },
+   {
+    "n": 32,
+    "text": "788 Fr. II Ehe. - Anna Maria Marti a. Rüggisberg."
+   },
+   {
+    "n": 33,
+    "text": "4 K. I Ehe. — 821 Joh. Samuel. — 24 Anna Elis. —"
+   },
+   {
+    "n": 34,
+    "text": "26 Susanna. — 30 Sam. Heinrich Christ."
+   },
+   {
+    "n": 35,
+    "text": "Drexler."
+   },
+   {
+    "n": 36,
+    "text": "1 803 Joh., Bäcker, a. Bischoffingen im Badischen - IV, 309."
+   },
+   {
+    "n": 37,
+    "text": "Fr. - Anna Wahlen a. Trimstein."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Dietiker.",
+    "place": "Bern",
+    "surname": "Dietiker",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 123",
+    "quarter": "V",
+    "street": "",
+    "house_no": "123",
+    "origin": "Veltheim",
+    "birth_year": "1811",
+    "household": "815 Fr. - Maria Anna Hürzeler a. Täuffenthal. (Zwei Kinder sind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Johann, Schuhmacher, a. Veltheim - V, 123. 815 Fr. - Maria Anna Hürzeler a. Täuffenthal. (Zwei Kinder sind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 8,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Dietler.",
+    "place": "Bern",
+    "surname": "Dietler",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Kunstmaler",
+    "address": "II, 137",
+    "quarter": "II",
+    "street": "",
+    "house_no": "137",
+    "origin": "Solothurn",
+    "birth_year": "1804",
+    "household": "812 Fr. - Nanette Schürer a. Solothurn. 3 K. — 842 Maria Anna Leontia. — 46 Karl Jules Adolf. — 47 Elis. Marg. Franziska.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Friedrich, Kunstmaler, a. Solothurn - II, 137. 812 Fr. - Nanette Schürer a. Solothurn. 3 K. — 842 Maria Anna Leontia. — 46 Karl Jules Adolf. — 47 Elis. Marg. Franziska."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Dietrich.",
+    "place": "Bern",
+    "surname": "Dietrich",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 23",
+    "quarter": "V",
+    "street": "",
+    "house_no": "23",
+    "origin": "Gsteig u. Matten",
+    "birth_year": "1784",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 784 Daniel, Schneider, a. Gsteig u. Matten - V, 23."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Diezel.",
+    "place": "Bern",
+    "surname": "Diezel",
+    "forename": "Joh. Friedrich",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 9",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "9",
+    "origin": "bern. Landsaß",
+    "birth_year": "1789",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 789 Joh. Friedrich, Schneider, bern. Landsaß - IV, 9."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Dinger.",
+    "place": "Bern",
+    "surname": "Dinger",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Kostgeberin",
+    "address": "IV, 22",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "22",
+    "origin": "Biberstein",
+    "birth_year": "",
+    "household": "1 S. - 842 Johann.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Anna, geb. Marti, Kostgeberin, a. Biberstein - IV, 22. 1 S. - 842 Johann."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Döbeli.",
+    "place": "Bern",
+    "surname": "Döbeli",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "III, 20",
+    "quarter": "III",
+    "street": "",
+    "house_no": "20",
+    "origin": "Seengen",
+    "birth_year": "1790",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Anna, Schneiderin, a. Seengen - III, 20."
+   },
+   {
+    "line_from": 22,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Dörig.",
+    "place": "Bern",
+    "surname": "Dörig",
+    "forename": "Leont. Johann",
+    "title": "",
+    "occupation": "Musiker u. Schirmfabrikant",
+    "address": "III, 90",
+    "quarter": "III",
+    "street": "",
+    "house_no": "90",
+    "origin": "Kriens, K. Luzern",
+    "birth_year": "1812",
+    "household": "812 Fr. - Anna Maria Burri. 1 T. — 843 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Leont. Johann, Musiker u. Schirmfabrikant, a. Kriens, K. Luzern - III, 90. 812 Fr. - Anna Maria Burri. 1 T. — 843 Anna Maria."
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Dörner.",
+    "place": "Bern",
+    "surname": "Dörner",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "II, 91",
+    "quarter": "II",
+    "street": "",
+    "house_no": "91",
+    "origin": "Birkenau, GH. Hessen",
+    "birth_year": "1807",
+    "household": "819 Fr. - Louise Aeschlimann a. Biglen. 1 T. — 844 Elisabetha Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Peter, Schneider, a. Birkenau, GH. Hessen - II, 91. 819 Fr. - Louise Aeschlimann a. Biglen. 1 T. — 844 Elisabetha Maria."
+   },
+   {
+    "line_from": 31,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Dollinger.",
+    "place": "Bern",
+    "surname": "Dollinger",
+    "forename": "Joh. Christ.",
+    "title": "",
+    "occupation": "Strumpfweber",
+    "address": "V, 212",
+    "quarter": "V",
+    "street": "",
+    "house_no": "212",
+    "origin": "Arnex",
+    "birth_year": "1791",
+    "household": "788 Fr. II Ehe. - Anna Maria Marti a. Rüggisberg. 4 K. I Ehe. — 821 Joh. Samuel. — 24 Anna Elis. — 26 Susanna. — 30 Sam. Heinrich Christ.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 791 Joh. Christ., Strumpfweber, a. Arnex - V, 212. 788 Fr. II Ehe. - Anna Maria Marti a. Rüggisberg. 4 K. I Ehe. — 821 Joh. Samuel. — 24 Anna Elis. — 26 Susanna. — 30 Sam. Heinrich Christ."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Drexler.",
+    "place": "Bern",
+    "surname": "Drexler",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "IV, 309",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "309",
+    "origin": "Bischoffingen im Badischen",
+    "birth_year": "1803",
+    "household": "Fr. - Anna Wahlen a. Trimstein.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 Joh., Bäcker, a. Bischoffingen im Badischen - IV, 309. Fr. - Anna Wahlen a. Trimstein."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:50:15+01:00",
+ "last_error": null
+}

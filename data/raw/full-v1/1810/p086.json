@@ -1,0 +1,409 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 86,
+ "section": "ville",
+ "started": "2026-11-10T21:11:31+01:00",
+ "thinking": "low",
+ "seconds": 20.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2300,
+  "output": 3191,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"13\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"13\"},\n    {\"n\": 2, \"text\": \"Cabinets de Lecture.\"},\n    {\"n\": 3, \"text\": \"Freudenberger, Sam. — — Q. bl. 115.\"},\n    {\"n\": 4, \"text\": \"Haller, Louis Albrecht. — — — v. 243.\"},\n    {\"n\": 5, \"text\": \"Hæpfner-Graf, Dr. Abonnement de\"},\n    {\"n\": 6, \"text\": \"Journaux. — — — — v. 232.\"},\n    {\"n\": 7, \"text\": \"Schærer, Mademoiselle. — — r. 139.\"},\n    {\"n\": 8, \"text\": \"Tribolet, Madame. — — — v. 219.\"},\n    {\"n\": 9, \"text\": \"Wourstemberger, les Sœurs. — — bl. 130.\"},\n    {\"n\": 10, \"text\": \"Caffés publics.\"},\n    {\"n\": 11, \"text\": \"Candi, Laurent, vend des glaces et fait\"},\n    {\"n\": 12, \"text\": \"le commerce de choccolat, liqueurs\"},\n    {\"n\": 13, \"text\": \"et vins étrangers. — — Q. v. 175.\"},\n    {\"n\": 14, \"text\": \"Déjongh, à l'hotel-de-musique. — v. 231.\"},\n    {\"n\": 15, \"text\": \"Giudice, Charles Antoine, vend des\"},\n    {\"n\": 16, \"text\": \"glaces et des confitures et fait le\"},\n    {\"n\": 17, \"text\": \"commerce de liqueurs. — — bl. 101.\"},\n    {\"n\": 18, \"text\": \"Calligraphie, Préc. de —\"},\n    {\"n\": 19, \"text\": \"Cramer, G. — — — Q. bl. 186.\"},\n    {\"n\": 20, \"text\": \"Giroud. Fréd. — — — — v. 130.\"},\n    {\"n\": 21, \"text\": \"Rüthy, (de) Victor. — — — r. 159.\"},\n    {\"n\": 22, \"text\": \"Weibel, Rod. Sam. — — — v. 156.\"},\n    {\"n\": 23, \"text\": \"Cartes géographiques, voyez Mar-\"},\n    {\"n\": 24, \"text\": \"chands d'éstampes.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Cabinets de Lecture\",\n      \"place\": \"Bern\",\n      \"surname\": \"Freudenberger\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. bl. 115\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"115\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Freudenberger, Sam. Q. bl. 115.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Cabinets de Lecture\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"Louis Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 243\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"243\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haller, Louis Albrecht. v. 243.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Cabinets de Lecture\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hæpfner-Graf\",\n      \"forename\": \"\",\n      \"title\": \"Dr.\",\n      \"occupation\": \"Abonnement de Journaux\",\n      \"address\": \"v. 232\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"232\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hæpfner-Graf, Dr. Abonnement de Journaux. v. 232.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Cabinets de Lecture\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schærer\",\n      \"forename\": \"\",\n      \"title\": \"Mademoiselle\",\n      \"occupation\": \"\",\n      \"address\": \"r. 139\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"139\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schærer, Mademoiselle. r. 139.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Cabinets de Lecture\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tribolet\",\n      \"forename\": \"\",\n      \"title\": \"Madame\",\n      \"occupation\": \"\",\n      \"address\": \"v. 219\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"219\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tribolet, Madame. v. 219.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"firma\",\n      \"heading\": \"Cabinets de Lecture\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wourstemberger\",\n      \"forename\": \"\",\n      \"title\": \"les Sœurs\",\n      \"occupation\": \"\",\n      \"address\": \"bl. 130\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"130\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wourstemberger, les Sœurs. bl. 130.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Caffés publics\",\n      \"place\": \"Bern\",\n      \"surname\": \"Candi\",\n      \"forename\": \"Laurent\",\n      \"title\": \"\",\n      \"occupation\": \"vend des glaces et fait le commerce de choccolat, liqueurs et vins étrangers\",\n      \"address\": \"Q. v. 175\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"175\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Candi, Laurent, vend des glaces et fait le commerce de choccolat, liqueurs et vins étrangers. Q. v. 175.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Caffés publics\",\n      \"place\": \"Bern\",\n      \"surname\": \"Déjongh\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"à l'hotel-de-musique. v. 231\",\n      \"quarter\": \"v.\",\n      \"street\": \"l'hotel-de-musique\",\n      \"house_no\": \"231\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Déjongh, à l'hotel-de-musique. v. 231.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Caffés publics\",\n      \"place\": \"Bern\",\n      \"surname\": \"Giudice\",\n      \"forename\": \"Charles Antoine\",\n      \"title\": \"\",\n      \"occupation\": \"vend des glaces et des confitures et fait le commerce de liqueurs\",\n      \"address\": \"bl. 101\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"101\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Giudice, Charles Antoine, vend des glaces et des confitures et fait le commerce de liqueurs. bl. 101.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Calligraphie, Préc. de\",\n      \"place\": \"Bern\",\n      \"surname\": \"Cramer\",\n      \"forename\": \"G.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. bl. 186\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"186\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Cramer, G. Q. bl. 186.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Calligraphie, Préc. de\",\n      \"place\": \"Bern\",\n      \"surname\": \"Giroud\",\n      \"forename\": \"Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 130\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"130\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Giroud. Fréd. v. 130.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Calligraphie, Préc. de\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rüthy\",\n      \"forename\": \"Victor\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"r. 159\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"159\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rüthy, (de) Victor. r. 159.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Calligraphie, Préc. de\",\n      \"place\": \"Bern\",\n      \"surname\": \"Weibel\",\n      \"forename\": \"Rod. Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 156\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"156\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Weibel, Rod. Sam. v. 156.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"verweis\",\n      \"heading\": \"Cartes géographiques\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Cartes géographiques, voyez Marchands d'éstampes.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "13",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "13"
+   },
+   {
+    "n": 2,
+    "text": "Cabinets de Lecture."
+   },
+   {
+    "n": 3,
+    "text": "Freudenberger, Sam. — — Q. bl. 115."
+   },
+   {
+    "n": 4,
+    "text": "Haller, Louis Albrecht. — — — v. 243."
+   },
+   {
+    "n": 5,
+    "text": "Hæpfner-Graf, Dr. Abonnement de"
+   },
+   {
+    "n": 6,
+    "text": "Journaux. — — — — v. 232."
+   },
+   {
+    "n": 7,
+    "text": "Schærer, Mademoiselle. — — r. 139."
+   },
+   {
+    "n": 8,
+    "text": "Tribolet, Madame. — — — v. 219."
+   },
+   {
+    "n": 9,
+    "text": "Wourstemberger, les Sœurs. — — bl. 130."
+   },
+   {
+    "n": 10,
+    "text": "Caffés publics."
+   },
+   {
+    "n": 11,
+    "text": "Candi, Laurent, vend des glaces et fait"
+   },
+   {
+    "n": 12,
+    "text": "le commerce de choccolat, liqueurs"
+   },
+   {
+    "n": 13,
+    "text": "et vins étrangers. — — Q. v. 175."
+   },
+   {
+    "n": 14,
+    "text": "Déjongh, à l'hotel-de-musique. — v. 231."
+   },
+   {
+    "n": 15,
+    "text": "Giudice, Charles Antoine, vend des"
+   },
+   {
+    "n": 16,
+    "text": "glaces et des confitures et fait le"
+   },
+   {
+    "n": 17,
+    "text": "commerce de liqueurs. — — bl. 101."
+   },
+   {
+    "n": 18,
+    "text": "Calligraphie, Préc. de —"
+   },
+   {
+    "n": 19,
+    "text": "Cramer, G. — — — Q. bl. 186."
+   },
+   {
+    "n": 20,
+    "text": "Giroud. Fréd. — — — — v. 130."
+   },
+   {
+    "n": 21,
+    "text": "Rüthy, (de) Victor. — — — r. 159."
+   },
+   {
+    "n": 22,
+    "text": "Weibel, Rod. Sam. — — — v. 156."
+   },
+   {
+    "n": 23,
+    "text": "Cartes géographiques, voyez Mar-"
+   },
+   {
+    "n": 24,
+    "text": "chands d'éstampes."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Cabinets de Lecture",
+    "place": "Bern",
+    "surname": "Freudenberger",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "",
+    "address": "Q. bl. 115",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "115",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Freudenberger, Sam. Q. bl. 115."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Cabinets de Lecture",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "Louis Albrecht",
+    "title": "",
+    "occupation": "",
+    "address": "v. 243",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "243",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haller, Louis Albrecht. v. 243."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Cabinets de Lecture",
+    "place": "Bern",
+    "surname": "Hæpfner-Graf",
+    "forename": "",
+    "title": "Dr.",
+    "occupation": "Abonnement de Journaux",
+    "address": "v. 232",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "232",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hæpfner-Graf, Dr. Abonnement de Journaux. v. 232."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Cabinets de Lecture",
+    "place": "Bern",
+    "surname": "Schærer",
+    "forename": "",
+    "title": "Mademoiselle",
+    "occupation": "",
+    "address": "r. 139",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "139",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schærer, Mademoiselle. r. 139."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Cabinets de Lecture",
+    "place": "Bern",
+    "surname": "Tribolet",
+    "forename": "",
+    "title": "Madame",
+    "occupation": "",
+    "address": "v. 219",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "219",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tribolet, Madame. v. 219."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "firma",
+    "heading": "Cabinets de Lecture",
+    "place": "Bern",
+    "surname": "Wourstemberger",
+    "forename": "",
+    "title": "les Sœurs",
+    "occupation": "",
+    "address": "bl. 130",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "130",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wourstemberger, les Sœurs. bl. 130."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Caffés publics",
+    "place": "Bern",
+    "surname": "Candi",
+    "forename": "Laurent",
+    "title": "",
+    "occupation": "vend des glaces et fait le commerce de choccolat, liqueurs et vins étrangers",
+    "address": "Q. v. 175",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "175",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Candi, Laurent, vend des glaces et fait le commerce de choccolat, liqueurs et vins étrangers. Q. v. 175."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Caffés publics",
+    "place": "Bern",
+    "surname": "Déjongh",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "à l'hotel-de-musique. v. 231",
+    "quarter": "v.",
+    "street": "l'hotel-de-musique",
+    "house_no": "231",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Déjongh, à l'hotel-de-musique. v. 231."
+   },
+   {
+    "line_from": 15,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Caffés publics",
+    "place": "Bern",
+    "surname": "Giudice",
+    "forename": "Charles Antoine",
+    "title": "",
+    "occupation": "vend des glaces et des confitures et fait le commerce de liqueurs",
+    "address": "bl. 101",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "101",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Giudice, Charles Antoine, vend des glaces et des confitures et fait le commerce de liqueurs. bl. 101."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Calligraphie, Préc. de",
+    "place": "Bern",
+    "surname": "Cramer",
+    "forename": "G.",
+    "title": "",
+    "occupation": "",
+    "address": "Q. bl. 186",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "186",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Cramer, G. Q. bl. 186."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Calligraphie, Préc. de",
+    "place": "Bern",
+    "surname": "Giroud",
+    "forename": "Fréd.",
+    "title": "",
+    "occupation": "",
+    "address": "v. 130",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "130",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Giroud. Fréd. v. 130."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Calligraphie, Préc. de",
+    "place": "Bern",
+    "surname": "Rüthy",
+    "forename": "Victor",
+    "title": "",
+    "occupation": "",
+    "address": "r. 159",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "159",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rüthy, (de) Victor. r. 159."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Calligraphie, Préc. de",
+    "place": "Bern",
+    "surname": "Weibel",
+    "forename": "Rod. Sam.",
+    "title": "",
+    "occupation": "",
+    "address": "v. 156",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "156",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Weibel, Rod. Sam. v. 156."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "verweis",
+    "heading": "Cartes géographiques",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Cartes géographiques, voyez Marchands d'éstampes."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:11:52+01:00",
+ "last_error": null
+}

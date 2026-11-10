@@ -1,0 +1,357 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 125,
+ "section": "canton",
+ "started": "2026-11-10T21:13:03+01:00",
+ "thinking": "low",
+ "seconds": 17.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2305,
+  "output": 2640,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"52\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"52\"},\n    {\"n\": 2, \"text\": \"Wegmühle près de Bolligen.\"},\n    {\"n\": 3, \"text\": \"Fellenberg allié Grouner, Papéterie, Dépôt à\"},\n    {\"n\": 4, \"text\": \"Berne, Quartier verd Nro. 192.\"},\n    {\"n\": 5, \"text\": \"Worblaufen.\"},\n    {\"n\": 6, \"text\": \"Grogg, Gabriel, Forgeron, Martinet de fer.\"},\n    {\"n\": 7, \"text\": \"Grouner, Sam. Emanuel, Papéterie.\"},\n    {\"n\": 8, \"text\": \"Préfecture de Berthoud.\"},\n    {\"n\": 9, \"text\": \"Berthoud.\"},\n    {\"n\": 10, \"text\": \"Aeschlimann, Facteur des Sels, Epicerie, Fer,\"},\n    {\"n\": 11, \"text\": \"Fromages en gros.\"},\n    {\"n\": 12, \"text\": \"Bourger, Fréderic, Fabr. de Galette et Ru-\"},\n    {\"n\": 13, \"text\": \"bans de soie.\"},\n    {\"n\": 14, \"text\": \"Bury, Samuel, Draperie.\"},\n    {\"n\": 15, \"text\": \"Durig et Dequervain, Toileries et linge de\"},\n    {\"n\": 16, \"text\": \"table en gros.\"},\n    {\"n\": 17, \"text\": \"Fankhauser, les frères, Toileries et linge de\"},\n    {\"n\": 18, \"text\": \"table en gros.\"},\n    {\"n\": 19, \"text\": \"Fankhauser, les Héritiers de J. A., Quincail-\"},\n    {\"n\": 20, \"text\": \"lerie de Nuremberg.\"},\n    {\"n\": 21, \"text\": \"Grimm, les frères, Pharmaciens, Commerce\"},\n    {\"n\": 22, \"text\": \"de Droguerie et d'Epicerie en gros et en\"},\n    {\"n\": 23, \"text\": \"détail.\"},\n    {\"n\": 24, \"text\": \"Grimm, J. Samuel, Manufacture de Fil et\"},\n    {\"n\": 25, \"text\": \"de Bonneterie en laine, coton et galette;\"},\n    {\"n\": 26, \"text\": \"W\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Wegmühle près de Bolligen\",\n      \"place\": \"Wegmühle près de Bolligen\",\n      \"surname\": \"Fellenberg\",\n      \"forename\": \"\",\n      \"title\": \"allié Grouner\",\n      \"occupation\": \"Papéterie\",\n      \"address\": \"Dépôt à Berne, Quartier verd Nro. 192\",\n      \"quarter\": \"verd\",\n      \"street\": \"\",\n      \"house_no\": \"192\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fellenberg allié Grouner, Papéterie, Dépôt à Berne, Quartier verd Nro. 192.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Worblaufen\",\n      \"place\": \"Worblaufen\",\n      \"surname\": \"Grogg\",\n      \"forename\": \"Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"Forgeron, Martinet de fer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Grogg, Gabriel, Forgeron, Martinet de fer.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Worblaufen\",\n      \"place\": \"Worblaufen\",\n      \"surname\": \"Grouner\",\n      \"forename\": \"Sam. Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Papéterie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Grouner, Sam. Emanuel, Papéterie.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Berthoud. Berthoud\",\n      \"place\": \"Berthoud\",\n      \"surname\": \"Aeschlimann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Facteur des Sels, Epicerie, Fer, Fromages en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aeschlimann, Facteur des Sels, Epicerie, Fer, Fromages en gros.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Berthoud. Berthoud\",\n      \"place\": \"Berthoud\",\n      \"surname\": \"Bourger\",\n      \"forename\": \"Fréderic\",\n      \"title\": \"\",\n      \"occupation\": \"Fabr. de Galette et Rubans de soie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bourger, Fréderic, Fabr. de Galette et Rubans de soie.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Berthoud. Berthoud\",\n      \"place\": \"Berthoud\",\n      \"surname\": \"Bury\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Draperie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bury, Samuel, Draperie.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Préfecture de Berthoud. Berthoud\",\n      \"place\": \"Berthoud\",\n      \"surname\": \"Durig et Dequervain\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Toileries et linge de table en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Durig et Dequervain, Toileries et linge de table en gros.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"firma\",\n      \"heading\": \"Préfecture de Berthoud. Berthoud\",\n      \"place\": \"Berthoud\",\n      \"surname\": \"Fankhauser\",\n      \"forename\": \"\",\n      \"title\": \"les frères\",\n      \"occupation\": \"Toileries et linge de table en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fankhauser, les frères, Toileries et linge de table en gros.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"firma\",\n      \"heading\": \"Préfecture de Berthoud. Berthoud\",\n      \"place\": \"Berthoud\",\n      \"surname\": \"Fankhauser\",\n      \"forename\": \"J. A.\",\n      \"title\": \"les Héritiers de\",\n      \"occupation\": \"Quincaillerie de Nuremberg\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fankhauser, les Héritiers de J. A., Quincaillerie de Nuremberg.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 23,\n      \"kind\": \"firma\",\n      \"heading\": \"Préfecture de Berthoud. Berthoud\",\n      \"place\": \"Berthoud\",\n      \"surname\": \"Grimm\",\n      \"forename\": \"\",\n      \"title\": \"les frères\",\n      \"occupation\": \"Pharmaciens, Commerce de Droguerie et d'Epicerie en gros et en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Grimm, les frères, Pharmaciens, Commerce de Droguerie et d'Epicerie en gros et en détail.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Berthoud. Berthoud\",\n      \"place\": \"Berthoud\",\n      \"surname\": \"Grimm\",\n      \"forename\": \"J. Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Manufacture de Fil et de Bonneterie en laine, coton et galette\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Grimm, J. Samuel, Manufacture de Fil et de Bonneterie en laine, coton et galette;\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "52",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "52"
+   },
+   {
+    "n": 2,
+    "text": "Wegmühle près de Bolligen."
+   },
+   {
+    "n": 3,
+    "text": "Fellenberg allié Grouner, Papéterie, Dépôt à"
+   },
+   {
+    "n": 4,
+    "text": "Berne, Quartier verd Nro. 192."
+   },
+   {
+    "n": 5,
+    "text": "Worblaufen."
+   },
+   {
+    "n": 6,
+    "text": "Grogg, Gabriel, Forgeron, Martinet de fer."
+   },
+   {
+    "n": 7,
+    "text": "Grouner, Sam. Emanuel, Papéterie."
+   },
+   {
+    "n": 8,
+    "text": "Préfecture de Berthoud."
+   },
+   {
+    "n": 9,
+    "text": "Berthoud."
+   },
+   {
+    "n": 10,
+    "text": "Aeschlimann, Facteur des Sels, Epicerie, Fer,"
+   },
+   {
+    "n": 11,
+    "text": "Fromages en gros."
+   },
+   {
+    "n": 12,
+    "text": "Bourger, Fréderic, Fabr. de Galette et Ru-"
+   },
+   {
+    "n": 13,
+    "text": "bans de soie."
+   },
+   {
+    "n": 14,
+    "text": "Bury, Samuel, Draperie."
+   },
+   {
+    "n": 15,
+    "text": "Durig et Dequervain, Toileries et linge de"
+   },
+   {
+    "n": 16,
+    "text": "table en gros."
+   },
+   {
+    "n": 17,
+    "text": "Fankhauser, les frères, Toileries et linge de"
+   },
+   {
+    "n": 18,
+    "text": "table en gros."
+   },
+   {
+    "n": 19,
+    "text": "Fankhauser, les Héritiers de J. A., Quincail-"
+   },
+   {
+    "n": 20,
+    "text": "lerie de Nuremberg."
+   },
+   {
+    "n": 21,
+    "text": "Grimm, les frères, Pharmaciens, Commerce"
+   },
+   {
+    "n": 22,
+    "text": "de Droguerie et d'Epicerie en gros et en"
+   },
+   {
+    "n": 23,
+    "text": "détail."
+   },
+   {
+    "n": 24,
+    "text": "Grimm, J. Samuel, Manufacture de Fil et"
+   },
+   {
+    "n": 25,
+    "text": "de Bonneterie en laine, coton et galette;"
+   },
+   {
+    "n": 26,
+    "text": "W"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Wegmühle près de Bolligen",
+    "place": "Wegmühle près de Bolligen",
+    "surname": "Fellenberg",
+    "forename": "",
+    "title": "allié Grouner",
+    "occupation": "Papéterie",
+    "address": "Dépôt à Berne, Quartier verd Nro. 192",
+    "quarter": "verd",
+    "street": "",
+    "house_no": "192",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fellenberg allié Grouner, Papéterie, Dépôt à Berne, Quartier verd Nro. 192."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Worblaufen",
+    "place": "Worblaufen",
+    "surname": "Grogg",
+    "forename": "Gabriel",
+    "title": "",
+    "occupation": "Forgeron, Martinet de fer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Grogg, Gabriel, Forgeron, Martinet de fer."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Worblaufen",
+    "place": "Worblaufen",
+    "surname": "Grouner",
+    "forename": "Sam. Emanuel",
+    "title": "",
+    "occupation": "Papéterie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Grouner, Sam. Emanuel, Papéterie."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Préfecture de Berthoud. Berthoud",
+    "place": "Berthoud",
+    "surname": "Aeschlimann",
+    "forename": "",
+    "title": "",
+    "occupation": "Facteur des Sels, Epicerie, Fer, Fromages en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aeschlimann, Facteur des Sels, Epicerie, Fer, Fromages en gros."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Préfecture de Berthoud. Berthoud",
+    "place": "Berthoud",
+    "surname": "Bourger",
+    "forename": "Fréderic",
+    "title": "",
+    "occupation": "Fabr. de Galette et Rubans de soie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bourger, Fréderic, Fabr. de Galette et Rubans de soie."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Préfecture de Berthoud. Berthoud",
+    "place": "Berthoud",
+    "surname": "Bury",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Draperie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bury, Samuel, Draperie."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Préfecture de Berthoud. Berthoud",
+    "place": "Berthoud",
+    "surname": "Durig et Dequervain",
+    "forename": "",
+    "title": "",
+    "occupation": "Toileries et linge de table en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Durig et Dequervain, Toileries et linge de table en gros."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "firma",
+    "heading": "Préfecture de Berthoud. Berthoud",
+    "place": "Berthoud",
+    "surname": "Fankhauser",
+    "forename": "",
+    "title": "les frères",
+    "occupation": "Toileries et linge de table en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fankhauser, les frères, Toileries et linge de table en gros."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "firma",
+    "heading": "Préfecture de Berthoud. Berthoud",
+    "place": "Berthoud",
+    "surname": "Fankhauser",
+    "forename": "J. A.",
+    "title": "les Héritiers de",
+    "occupation": "Quincaillerie de Nuremberg",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fankhauser, les Héritiers de J. A., Quincaillerie de Nuremberg."
+   },
+   {
+    "line_from": 21,
+    "line_to": 23,
+    "kind": "firma",
+    "heading": "Préfecture de Berthoud. Berthoud",
+    "place": "Berthoud",
+    "surname": "Grimm",
+    "forename": "",
+    "title": "les frères",
+    "occupation": "Pharmaciens, Commerce de Droguerie et d'Epicerie en gros et en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Grimm, les frères, Pharmaciens, Commerce de Droguerie et d'Epicerie en gros et en détail."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Préfecture de Berthoud. Berthoud",
+    "place": "Berthoud",
+    "surname": "Grimm",
+    "forename": "J. Samuel",
+    "title": "",
+    "occupation": "Manufacture de Fil et de Bonneterie en laine, coton et galette",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Grimm, J. Samuel, Manufacture de Fil et de Bonneterie en laine, coton et galette;"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:13:20+01:00",
+ "last_error": null
+}

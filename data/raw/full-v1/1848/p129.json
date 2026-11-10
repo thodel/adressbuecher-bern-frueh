@@ -1,0 +1,421 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 129,
+ "section": "einsassen",
+ "started": "2026-11-10T21:54:40+01:00",
+ "thinking": "low",
+ "seconds": 24.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 3988,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"116\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 116 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Nydegger.\"},\n    {\"n\": 4, \"text\": \"1 796 Johann, Oeler, a. Guggisberg — VI, 102.\"},\n    {\"n\": 5, \"text\": \"Fr. — Maria Friedli.\"},\n    {\"n\": 6, \"text\": \"2 815 Joh. Rudolf, Amtsnotar, a. Wahlern — II, 122.\"},\n    {\"n\": 7, \"text\": \"819 Fr. — Verena Lüscher a. Uerkheim.\"},\n    {\"n\": 8, \"text\": \"4 K. — 841 Theodor. — 42 Maria. — 45 Elise — 47\"},\n    {\"n\": 9, \"text\": \"Ernst.\"},\n    {\"n\": 10, \"text\": \"Oberli.\"},\n    {\"n\": 11, \"text\": \"1 805 Joh. Georg, Sattler, a. Rüderswyl — V, 221.\"},\n    {\"n\": 12, \"text\": \"809 Fr. — Magd. Stalder.\"},\n    {\"n\": 13, \"text\": \"6 K. — 828 Friedrich. — 31 Magd. — 35 Joh. Sam.\"},\n    {\"n\": 14, \"text\": \"— 37 J. F. Gottlieb. — 43 Karl Joh. Alexander. —\"},\n    {\"n\": 15, \"text\": \"46 Joh. Ed.\"},\n    {\"n\": 16, \"text\": \"Obrecht.\"},\n    {\"n\": 17, \"text\": \"1 786 Joh. Jakob, Fuhrmann, a. Wangen — V, 4.\"},\n    {\"n\": 18, \"text\": \"Fr. II Ehe. — Anna Christener a. Zäziwyl.\"},\n    {\"n\": 19, \"text\": \"3 S. aus I Ehe. — 810 Johann Jakob. — 12 Johann\"},\n    {\"n\": 20, \"text\": \"u. Rudolf.\"},\n    {\"n\": 21, \"text\": \"Ochando de Layanda.\"},\n    {\"n\": 22, \"text\": \"1 Franz, Rentier, a. Murcia in Spanien — II, 129.\"},\n    {\"n\": 23, \"text\": \"1 T. — Pauline.\"},\n    {\"n\": 24, \"text\": \"Ochs.\"},\n    {\"n\": 25, \"text\": \"1 786 Jakob Peter, Schneider, a. Pizy, K. Waadt — V, 20.\"},\n    {\"n\": 26, \"text\": \"5 K. — 809 Anna Verena. — Nr. 4. — 13 Kath. Magd.\"},\n    {\"n\": 27, \"text\": \"— 15 Joh. Samuel. — 22 August Friedrich.\"},\n    {\"n\": 28, \"text\": \"2 821 Heinrich Ludwig, Revisor auf der Kantonsbuchhalterei,\"},\n    {\"n\": 29, \"text\": \"a. Pizy — IV, 47.\"},\n    {\"n\": 30, \"text\": \"820 Fr. — Maria Elis. Bigler.\"},\n    {\"n\": 31, \"text\": \"2 K. — Gerhard Heinrich Ludwig. — (Das zweite ist\"},\n    {\"n\": 32, \"text\": \"nicht eingeschrieben.)\"},\n    {\"n\": 33, \"text\": \"3 810 Joh. Jakob, Flachmaler, a. Pizy — II, 3.\"},\n    {\"n\": 34, \"text\": \"4 810 Jakob, Schneider, S v. 1 — V, 36.\"},\n    {\"n\": 35, \"text\": \"806 Fr. — Anna Urwyler.\"},\n    {\"n\": 36, \"text\": \"Ochsner.\"},\n    {\"n\": 37, \"text\": \"1 815 Kaspar, Steindruckergesell u. Küchler — III, 9.\"},\n    {\"n\": 38, \"text\": \"Fr. — Elis. Gosteli.\"},\n    {\"n\": 39, \"text\": \"3 K. — 839 Joh. Jakob. — 44 Wilhelm Friedrich. —\"},\n    {\"n\": 40, \"text\": \"45 Elis. Rosina.\"},\n    {\"n\": 41, \"text\": \"Oelhafen.\"},\n    {\"n\": 42, \"text\": \"1 789 Jakob, Schneider, a. Mooslerau, K. Aargau — IV, 290.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Nydegger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nydegger\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Oeler\",\n      \"address\": \"VI, 102\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"102\",\n      \"origin\": \"Guggisberg\",\n      \"birth_year\": \"1796\",\n      \"household\": \"Fr. — Maria Friedli.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Johann, Oeler, a. Guggisberg — VI, 102. Fr. — Maria Friedli.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Nydegger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nydegger\",\n      \"forename\": \"Joh. Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Amtsnotar\",\n      \"address\": \"II, 122\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122\",\n      \"origin\": \"Wahlern\",\n      \"birth_year\": \"1815\",\n      \"household\": \"819 Fr. — Verena Lüscher a. Uerkheim. 4 K. — 841 Theodor. — 42 Maria. — 45 Elise — 47 Ernst.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 815 Joh. Rudolf, Amtsnotar, a. Wahlern — II, 122. 819 Fr. — Verena Lüscher a. Uerkheim. 4 K. — 841 Theodor. — 42 Maria. — 45 Elise — 47 Ernst.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Oberli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Oberli\",\n      \"forename\": \"Joh. Georg\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"V, 221\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"221\",\n      \"origin\": \"Rüderswyl\",\n      \"birth_year\": \"1805\",\n      \"household\": \"809 Fr. — Magd. Stalder. 6 K. — 828 Friedrich. — 31 Magd. — 35 Joh. Sam. — 37 J. F. Gottlieb. — 43 Karl Joh. Alexander. — 46 Joh. Ed.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Joh. Georg, Sattler, a. Rüderswyl — V, 221. 809 Fr. — Magd. Stalder. 6 K. — 828 Friedrich. — 31 Magd. — 35 Joh. Sam. — 37 J. F. Gottlieb. — 43 Karl Joh. Alexander. — 46 Joh. Ed.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Obrecht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Obrecht\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Fuhrmann\",\n      \"address\": \"V, 4\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"4\",\n      \"origin\": \"Wangen\",\n      \"birth_year\": \"1786\",\n      \"household\": \"Fr. II Ehe. — Anna Christener a. Zäziwyl. 3 S. aus I Ehe. — 810 Johann Jakob. — 12 Johann u. Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 786 Joh. Jakob, Fuhrmann, a. Wangen — V, 4. Fr. II Ehe. — Anna Christener a. Zäziwyl. 3 S. aus I Ehe. — 810 Johann Jakob. — 12 Johann u. Rudolf.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Ochando de Layanda.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ochando de Layanda\",\n      \"forename\": \"Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Rentier\",\n      \"address\": \"II, 129\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"129\",\n      \"origin\": \"Murcia in Spanien\",\n      \"birth_year\": \"\",\n      \"household\": \"1 T. — Pauline.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Franz, Rentier, a. Murcia in Spanien — II, 129. 1 T. — Pauline.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Ochs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ochs\",\n      \"forename\": \"Jakob Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 20\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"20\",\n      \"origin\": \"Pizy, K. Waadt\",\n      \"birth_year\": \"1786\",\n      \"household\": \"5 K. — 809 Anna Verena. — Nr. 4. — 13 Kath. Magd. — 15 Joh. Samuel. — 22 August Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 786 Jakob Peter, Schneider, a. Pizy, K. Waadt — V, 20. 5 K. — 809 Anna Verena. — Nr. 4. — 13 Kath. Magd. — 15 Joh. Samuel. — 22 August Friedrich.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Ochs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ochs\",\n      \"forename\": \"Heinrich Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Revisor auf der Kantonsbuchhalterei\",\n      \"address\": \"IV, 47\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"47\",\n      \"origin\": \"Pizy\",\n      \"birth_year\": \"1821\",\n      \"household\": \"820 Fr. — Maria Elis. Bigler. 2 K. — Gerhard Heinrich Ludwig. — (Das zweite ist nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 821 Heinrich Ludwig, Revisor auf der Kantonsbuchhalterei, a. Pizy — IV, 47. 820 Fr. — Maria Elis. Bigler. 2 K. — Gerhard Heinrich Ludwig. — (Das zweite ist nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Ochs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ochs\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Flachmaler\",\n      \"address\": \"II, 3\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"3\",\n      \"origin\": \"Pizy\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 810 Joh. Jakob, Flachmaler, a. Pizy — II, 3.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Ochs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ochs\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 36\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"\",\n      \"birth_year\": \"1810\",\n      \"household\": \"806 Fr. — Anna Urwyler.\",\n      \"note\": \"Name aus Zwischentitel; S v. 1\",\n      \"text\": \"4 810 Jakob, Schneider, S v. 1 — V, 36. 806 Fr. — Anna Urwyler.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Ochsner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ochsner\",\n      \"forename\": \"Kaspar\",\n      \"title\": \"\",\n      \"occupation\": \"Steindruckergesell u. Küchler\",\n      \"address\": \"III, 9\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"9\",\n      \"origin\": \"\",\n      \"birth_year\": \"1815\",\n      \"household\": \"Fr. — Elis. Gosteli. 3 K. — 839 Joh. Jakob. — 44 Wilhelm Friedrich. — 45 Elis. Rosina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 815 Kaspar, Steindruckergesell u. Küchler — III, 9. Fr. — Elis. Gosteli. 3 K. — 839 Joh. Jakob. — 44 Wilhelm Friedrich. — 45 Elis. Rosina.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Oelhafen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Oelhafen\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 290\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"290\",\n      \"origin\": \"Mooslerau, K. Aargau\",\n      \"birth_year\": \"1789\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 789 Jakob, Schneider, a. Mooslerau, K. Aargau — IV, 290.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "116",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 116 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Nydegger."
+   },
+   {
+    "n": 4,
+    "text": "1 796 Johann, Oeler, a. Guggisberg — VI, 102."
+   },
+   {
+    "n": 5,
+    "text": "Fr. — Maria Friedli."
+   },
+   {
+    "n": 6,
+    "text": "2 815 Joh. Rudolf, Amtsnotar, a. Wahlern — II, 122."
+   },
+   {
+    "n": 7,
+    "text": "819 Fr. — Verena Lüscher a. Uerkheim."
+   },
+   {
+    "n": 8,
+    "text": "4 K. — 841 Theodor. — 42 Maria. — 45 Elise — 47"
+   },
+   {
+    "n": 9,
+    "text": "Ernst."
+   },
+   {
+    "n": 10,
+    "text": "Oberli."
+   },
+   {
+    "n": 11,
+    "text": "1 805 Joh. Georg, Sattler, a. Rüderswyl — V, 221."
+   },
+   {
+    "n": 12,
+    "text": "809 Fr. — Magd. Stalder."
+   },
+   {
+    "n": 13,
+    "text": "6 K. — 828 Friedrich. — 31 Magd. — 35 Joh. Sam."
+   },
+   {
+    "n": 14,
+    "text": "— 37 J. F. Gottlieb. — 43 Karl Joh. Alexander. —"
+   },
+   {
+    "n": 15,
+    "text": "46 Joh. Ed."
+   },
+   {
+    "n": 16,
+    "text": "Obrecht."
+   },
+   {
+    "n": 17,
+    "text": "1 786 Joh. Jakob, Fuhrmann, a. Wangen — V, 4."
+   },
+   {
+    "n": 18,
+    "text": "Fr. II Ehe. — Anna Christener a. Zäziwyl."
+   },
+   {
+    "n": 19,
+    "text": "3 S. aus I Ehe. — 810 Johann Jakob. — 12 Johann"
+   },
+   {
+    "n": 20,
+    "text": "u. Rudolf."
+   },
+   {
+    "n": 21,
+    "text": "Ochando de Layanda."
+   },
+   {
+    "n": 22,
+    "text": "1 Franz, Rentier, a. Murcia in Spanien — II, 129."
+   },
+   {
+    "n": 23,
+    "text": "1 T. — Pauline."
+   },
+   {
+    "n": 24,
+    "text": "Ochs."
+   },
+   {
+    "n": 25,
+    "text": "1 786 Jakob Peter, Schneider, a. Pizy, K. Waadt — V, 20."
+   },
+   {
+    "n": 26,
+    "text": "5 K. — 809 Anna Verena. — Nr. 4. — 13 Kath. Magd."
+   },
+   {
+    "n": 27,
+    "text": "— 15 Joh. Samuel. — 22 August Friedrich."
+   },
+   {
+    "n": 28,
+    "text": "2 821 Heinrich Ludwig, Revisor auf der Kantonsbuchhalterei,"
+   },
+   {
+    "n": 29,
+    "text": "a. Pizy — IV, 47."
+   },
+   {
+    "n": 30,
+    "text": "820 Fr. — Maria Elis. Bigler."
+   },
+   {
+    "n": 31,
+    "text": "2 K. — Gerhard Heinrich Ludwig. — (Das zweite ist"
+   },
+   {
+    "n": 32,
+    "text": "nicht eingeschrieben.)"
+   },
+   {
+    "n": 33,
+    "text": "3 810 Joh. Jakob, Flachmaler, a. Pizy — II, 3."
+   },
+   {
+    "n": 34,
+    "text": "4 810 Jakob, Schneider, S v. 1 — V, 36."
+   },
+   {
+    "n": 35,
+    "text": "806 Fr. — Anna Urwyler."
+   },
+   {
+    "n": 36,
+    "text": "Ochsner."
+   },
+   {
+    "n": 37,
+    "text": "1 815 Kaspar, Steindruckergesell u. Küchler — III, 9."
+   },
+   {
+    "n": 38,
+    "text": "Fr. — Elis. Gosteli."
+   },
+   {
+    "n": 39,
+    "text": "3 K. — 839 Joh. Jakob. — 44 Wilhelm Friedrich. —"
+   },
+   {
+    "n": 40,
+    "text": "45 Elis. Rosina."
+   },
+   {
+    "n": 41,
+    "text": "Oelhafen."
+   },
+   {
+    "n": 42,
+    "text": "1 789 Jakob, Schneider, a. Mooslerau, K. Aargau — IV, 290."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Nydegger.",
+    "place": "Bern",
+    "surname": "Nydegger",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Oeler",
+    "address": "VI, 102",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "102",
+    "origin": "Guggisberg",
+    "birth_year": "1796",
+    "household": "Fr. — Maria Friedli.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Johann, Oeler, a. Guggisberg — VI, 102. Fr. — Maria Friedli."
+   },
+   {
+    "line_from": 6,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Nydegger.",
+    "place": "Bern",
+    "surname": "Nydegger",
+    "forename": "Joh. Rudolf",
+    "title": "",
+    "occupation": "Amtsnotar",
+    "address": "II, 122",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122",
+    "origin": "Wahlern",
+    "birth_year": "1815",
+    "household": "819 Fr. — Verena Lüscher a. Uerkheim. 4 K. — 841 Theodor. — 42 Maria. — 45 Elise — 47 Ernst.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 815 Joh. Rudolf, Amtsnotar, a. Wahlern — II, 122. 819 Fr. — Verena Lüscher a. Uerkheim. 4 K. — 841 Theodor. — 42 Maria. — 45 Elise — 47 Ernst."
+   },
+   {
+    "line_from": 11,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Oberli.",
+    "place": "Bern",
+    "surname": "Oberli",
+    "forename": "Joh. Georg",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "V, 221",
+    "quarter": "V",
+    "street": "",
+    "house_no": "221",
+    "origin": "Rüderswyl",
+    "birth_year": "1805",
+    "household": "809 Fr. — Magd. Stalder. 6 K. — 828 Friedrich. — 31 Magd. — 35 Joh. Sam. — 37 J. F. Gottlieb. — 43 Karl Joh. Alexander. — 46 Joh. Ed.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Joh. Georg, Sattler, a. Rüderswyl — V, 221. 809 Fr. — Magd. Stalder. 6 K. — 828 Friedrich. — 31 Magd. — 35 Joh. Sam. — 37 J. F. Gottlieb. — 43 Karl Joh. Alexander. — 46 Joh. Ed."
+   },
+   {
+    "line_from": 17,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Obrecht.",
+    "place": "Bern",
+    "surname": "Obrecht",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Fuhrmann",
+    "address": "V, 4",
+    "quarter": "V",
+    "street": "",
+    "house_no": "4",
+    "origin": "Wangen",
+    "birth_year": "1786",
+    "household": "Fr. II Ehe. — Anna Christener a. Zäziwyl. 3 S. aus I Ehe. — 810 Johann Jakob. — 12 Johann u. Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 786 Joh. Jakob, Fuhrmann, a. Wangen — V, 4. Fr. II Ehe. — Anna Christener a. Zäziwyl. 3 S. aus I Ehe. — 810 Johann Jakob. — 12 Johann u. Rudolf."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Ochando de Layanda.",
+    "place": "Bern",
+    "surname": "Ochando de Layanda",
+    "forename": "Franz",
+    "title": "",
+    "occupation": "Rentier",
+    "address": "II, 129",
+    "quarter": "II",
+    "street": "",
+    "house_no": "129",
+    "origin": "Murcia in Spanien",
+    "birth_year": "",
+    "household": "1 T. — Pauline.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Franz, Rentier, a. Murcia in Spanien — II, 129. 1 T. — Pauline."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Ochs.",
+    "place": "Bern",
+    "surname": "Ochs",
+    "forename": "Jakob Peter",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 20",
+    "quarter": "V",
+    "street": "",
+    "house_no": "20",
+    "origin": "Pizy, K. Waadt",
+    "birth_year": "1786",
+    "household": "5 K. — 809 Anna Verena. — Nr. 4. — 13 Kath. Magd. — 15 Joh. Samuel. — 22 August Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 786 Jakob Peter, Schneider, a. Pizy, K. Waadt — V, 20. 5 K. — 809 Anna Verena. — Nr. 4. — 13 Kath. Magd. — 15 Joh. Samuel. — 22 August Friedrich."
+   },
+   {
+    "line_from": 28,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Ochs.",
+    "place": "Bern",
+    "surname": "Ochs",
+    "forename": "Heinrich Ludwig",
+    "title": "",
+    "occupation": "Revisor auf der Kantonsbuchhalterei",
+    "address": "IV, 47",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "47",
+    "origin": "Pizy",
+    "birth_year": "1821",
+    "household": "820 Fr. — Maria Elis. Bigler. 2 K. — Gerhard Heinrich Ludwig. — (Das zweite ist nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "2 821 Heinrich Ludwig, Revisor auf der Kantonsbuchhalterei, a. Pizy — IV, 47. 820 Fr. — Maria Elis. Bigler. 2 K. — Gerhard Heinrich Ludwig. — (Das zweite ist nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 33,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Ochs.",
+    "place": "Bern",
+    "surname": "Ochs",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Flachmaler",
+    "address": "II, 3",
+    "quarter": "II",
+    "street": "",
+    "house_no": "3",
+    "origin": "Pizy",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 810 Joh. Jakob, Flachmaler, a. Pizy — II, 3."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Ochs.",
+    "place": "Bern",
+    "surname": "Ochs",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 36",
+    "quarter": "V",
+    "street": "",
+    "house_no": "36",
+    "origin": "",
+    "birth_year": "1810",
+    "household": "806 Fr. — Anna Urwyler.",
+    "note": "Name aus Zwischentitel; S v. 1",
+    "text": "4 810 Jakob, Schneider, S v. 1 — V, 36. 806 Fr. — Anna Urwyler."
+   },
+   {
+    "line_from": 37,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Ochsner.",
+    "place": "Bern",
+    "surname": "Ochsner",
+    "forename": "Kaspar",
+    "title": "",
+    "occupation": "Steindruckergesell u. Küchler",
+    "address": "III, 9",
+    "quarter": "III",
+    "street": "",
+    "house_no": "9",
+    "origin": "",
+    "birth_year": "1815",
+    "household": "Fr. — Elis. Gosteli. 3 K. — 839 Joh. Jakob. — 44 Wilhelm Friedrich. — 45 Elis. Rosina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 815 Kaspar, Steindruckergesell u. Küchler — III, 9. Fr. — Elis. Gosteli. 3 K. — 839 Joh. Jakob. — 44 Wilhelm Friedrich. — 45 Elis. Rosina."
+   },
+   {
+    "line_from": 42,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Oelhafen.",
+    "place": "Bern",
+    "surname": "Oelhafen",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 290",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "290",
+    "origin": "Mooslerau, K. Aargau",
+    "birth_year": "1789",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 789 Jakob, Schneider, a. Mooslerau, K. Aargau — IV, 290."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:55:04+01:00",
+ "last_error": null
+}

@@ -1,0 +1,529 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 16,
+ "section": "berufe",
+ "started": "2026-11-10T21:13:51+01:00",
+ "thinking": "low",
+ "seconds": 27.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2188,
+  "output": 4335,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"8\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"8\"},\n    {\"n\": 2, \"text\": \"Nro.\"},\n    {\"n\": 3, \"text\": \"Simon, J. Daniel, Junkerngaße … 174\"},\n    {\"n\": 4, \"text\": \"Simon, J. Georg, Neuengaße … 88\"},\n    {\"n\": 5, \"text\": \"Rüetschi, Samuel, Kramgaße … 283\"},\n    {\"n\": 6, \"text\": \"Fabrikanten von Strümpfen.\"},\n    {\"n\": 7, \"text\": \"Nägeli und Comp., Judengaße … 126\"},\n    {\"n\": 8, \"text\": \"Fabrikanten von Tabak.\"},\n    {\"n\": 9, \"text\": \"Dünz, Albrecht, auf dem Bollwerk … 84\"},\n    {\"n\": 10, \"text\": \"Frey, Frau, Spitalgaße … 178\"},\n    {\"n\": 11, \"text\": \"Keller, Simon, Schauplatzgaße … 221\"},\n    {\"n\": 12, \"text\": \"Sonderegger, Johannes, Spitalgaße … 137\"},\n    {\"n\": 13, \"text\": \"Beyre, M. A., Zwiebelngäßlein … 62\"},\n    {\"n\": 14, \"text\": \"Fabrikanten von Tuch.\"},\n    {\"n\": 15, \"text\": \"Siegfried, Vater und Sohn, zu Dießbach,\"},\n    {\"n\": 16, \"text\": \"Verlag, Marktgaße … 39\"},\n    {\"n\": 17, \"text\": \"Straub, Bendicht, zu Belp, Verlag, Marktgaße 85\"},\n    {\"n\": 18, \"text\": \"Fabrikant von Watten.\"},\n    {\"n\": 19, \"text\": \"Köhli, Peter, zu Wabern.\"},\n    {\"n\": 20, \"text\": \"Geschäftsmänner, die mit Geldanwendungen,\"},\n    {\"n\": 21, \"text\": \"Güterverkäufen u. dgl. sich beschäftigen.\"},\n    {\"n\": 22, \"text\": \"Einiger, Rudolf, Keßlergaße … 280\"},\n    {\"n\": 23, \"text\": \"Flükiger, Jakob, (vorzüglich in Verrichtungen\"},\n    {\"n\": 24, \"text\": \"auf dem Lande), Brunngaße … 33\"},\n    {\"n\": 25, \"text\": \"Geyser, Friedrich, Gerechtigkeitgaße … 144\"},\n    {\"n\": 26, \"text\": \"Grieser, Daniel Em., Notarius, Keschigäßlein 27\"},\n    {\"n\": 27, \"text\": \"Gutmann, Samuel, Aarberggaße … 63\"},\n    {\"n\": 28, \"text\": \"Kramer, Johann Friedrich, Kramgaße … 149\"},\n    {\"n\": 29, \"text\": \"Oswald, Notarius, Junkerngaße … 191\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Simon\",\n      \"forename\": \"J. Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Junkerngaße 174\",\n      \"quarter\": \"\",\n      \"street\": \"Junkerngaße\",\n      \"house_no\": \"174\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Simon, J. Daniel, Junkerngaße 174\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Simon\",\n      \"forename\": \"J. Georg\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Neuengaße 88\",\n      \"quarter\": \"\",\n      \"street\": \"Neuengaße\",\n      \"house_no\": \"88\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Simon, J. Georg, Neuengaße 88\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Rüetschi\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 283\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"283\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rüetschi, Samuel, Kramgaße 283\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"Fabrikanten von Strümpfen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nägeli\",\n      \"forename\": \"\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"\",\n      \"address\": \"Judengaße 126\",\n      \"quarter\": \"\",\n      \"street\": \"Judengaße\",\n      \"house_no\": \"126\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Nägeli und Comp., Judengaße 126\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Tabak.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünz\",\n      \"forename\": \"Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"auf dem Bollwerk 84\",\n      \"quarter\": \"\",\n      \"street\": \"auf dem Bollwerk\",\n      \"house_no\": \"84\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dünz, Albrecht, auf dem Bollwerk 84\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Tabak.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\",\n      \"forename\": \"\",\n      \"title\": \"Frau\",\n      \"occupation\": \"\",\n      \"address\": \"Spitalgaße 178\",\n      \"quarter\": \"\",\n      \"street\": \"Spitalgaße\",\n      \"house_no\": \"178\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Frey, Frau, Spitalgaße 178\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Tabak.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Keller\",\n      \"forename\": \"Simon\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Schauplatzgaße 221\",\n      \"quarter\": \"\",\n      \"street\": \"Schauplatzgaße\",\n      \"house_no\": \"221\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Keller, Simon, Schauplatzgaße 221\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Tabak.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sonderegger\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Spitalgaße 137\",\n      \"quarter\": \"\",\n      \"street\": \"Spitalgaße\",\n      \"house_no\": \"137\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sonderegger, Johannes, Spitalgaße 137\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Tabak.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Beyre\",\n      \"forename\": \"M. A.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Zwiebelngäßlein 62\",\n      \"quarter\": \"\",\n      \"street\": \"Zwiebelngäßlein\",\n      \"house_no\": \"62\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Beyre, M. A., Zwiebelngäßlein 62\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Fabrikanten von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Siegfried\",\n      \"forename\": \"\",\n      \"title\": \"Vater und Sohn\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 39\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"39\",\n      \"origin\": \"zu Dießbach\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Verlag\",\n      \"text\": \"Siegfried, Vater und Sohn, zu Dießbach, Verlag, Marktgaße 39\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Straub\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 85\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"85\",\n      \"origin\": \"zu Belp\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Verlag\",\n      \"text\": \"Straub, Bendicht, zu Belp, Verlag, Marktgaße 85\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikant von Watten.\",\n      \"place\": \"Wabern\",\n      \"surname\": \"Köhli\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zu Wabern\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"zu Wabern\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Köhli, Peter, zu Wabern.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Einiger\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Keßlergaße 280\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaße\",\n      \"house_no\": \"280\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Einiger, Rudolf, Keßlergaße 280\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Flükiger\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"(vorzüglich in Verrichtungen auf dem Lande)\",\n      \"address\": \"Brunngaße 33\",\n      \"quarter\": \"\",\n      \"street\": \"Brunngaße\",\n      \"house_no\": \"33\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Flükiger, Jakob, (vorzüglich in Verrichtungen auf dem Lande), Brunngaße 33\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Geyser\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgaße 144\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"144\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Geyser, Friedrich, Gerechtigkeitgaße 144\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grieser\",\n      \"forename\": \"Daniel Em.\",\n      \"title\": \"Notarius\",\n      \"occupation\": \"\",\n      \"address\": \"Keschigäßlein 27\",\n      \"quarter\": \"\",\n      \"street\": \"Keschigäßlein\",\n      \"house_no\": \"27\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Grieser, Daniel Em., Notarius, Keschigäßlein 27\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gutmann\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 63\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"63\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gutmann, Samuel, Aarberggaße 63\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kramer\",\n      \"forename\": \"Johann Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 149\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"149\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kramer, Johann Friedrich, Kramgaße 149\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Oswald\",\n      \"forename\": \"\",\n      \"title\": \"Notarius\",\n      \"occupation\": \"\",\n      \"address\": \"Junkerngaße 191\",\n      \"quarter\": \"\",\n      \"street\": \"Junkerngaße\",\n      \"house_no\": \"191\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Oswald, Notarius, Junkerngaße 191\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "8",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "8"
+   },
+   {
+    "n": 2,
+    "text": "Nro."
+   },
+   {
+    "n": 3,
+    "text": "Simon, J. Daniel, Junkerngaße … 174"
+   },
+   {
+    "n": 4,
+    "text": "Simon, J. Georg, Neuengaße … 88"
+   },
+   {
+    "n": 5,
+    "text": "Rüetschi, Samuel, Kramgaße … 283"
+   },
+   {
+    "n": 6,
+    "text": "Fabrikanten von Strümpfen."
+   },
+   {
+    "n": 7,
+    "text": "Nägeli und Comp., Judengaße … 126"
+   },
+   {
+    "n": 8,
+    "text": "Fabrikanten von Tabak."
+   },
+   {
+    "n": 9,
+    "text": "Dünz, Albrecht, auf dem Bollwerk … 84"
+   },
+   {
+    "n": 10,
+    "text": "Frey, Frau, Spitalgaße … 178"
+   },
+   {
+    "n": 11,
+    "text": "Keller, Simon, Schauplatzgaße … 221"
+   },
+   {
+    "n": 12,
+    "text": "Sonderegger, Johannes, Spitalgaße … 137"
+   },
+   {
+    "n": 13,
+    "text": "Beyre, M. A., Zwiebelngäßlein … 62"
+   },
+   {
+    "n": 14,
+    "text": "Fabrikanten von Tuch."
+   },
+   {
+    "n": 15,
+    "text": "Siegfried, Vater und Sohn, zu Dießbach,"
+   },
+   {
+    "n": 16,
+    "text": "Verlag, Marktgaße … 39"
+   },
+   {
+    "n": 17,
+    "text": "Straub, Bendicht, zu Belp, Verlag, Marktgaße 85"
+   },
+   {
+    "n": 18,
+    "text": "Fabrikant von Watten."
+   },
+   {
+    "n": 19,
+    "text": "Köhli, Peter, zu Wabern."
+   },
+   {
+    "n": 20,
+    "text": "Geschäftsmänner, die mit Geldanwendungen,"
+   },
+   {
+    "n": 21,
+    "text": "Güterverkäufen u. dgl. sich beschäftigen."
+   },
+   {
+    "n": 22,
+    "text": "Einiger, Rudolf, Keßlergaße … 280"
+   },
+   {
+    "n": 23,
+    "text": "Flükiger, Jakob, (vorzüglich in Verrichtungen"
+   },
+   {
+    "n": 24,
+    "text": "auf dem Lande), Brunngaße … 33"
+   },
+   {
+    "n": 25,
+    "text": "Geyser, Friedrich, Gerechtigkeitgaße … 144"
+   },
+   {
+    "n": 26,
+    "text": "Grieser, Daniel Em., Notarius, Keschigäßlein 27"
+   },
+   {
+    "n": 27,
+    "text": "Gutmann, Samuel, Aarberggaße … 63"
+   },
+   {
+    "n": 28,
+    "text": "Kramer, Johann Friedrich, Kramgaße … 149"
+   },
+   {
+    "n": 29,
+    "text": "Oswald, Notarius, Junkerngaße … 191"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Simon",
+    "forename": "J. Daniel",
+    "title": "",
+    "occupation": "",
+    "address": "Junkerngaße 174",
+    "quarter": "",
+    "street": "Junkerngaße",
+    "house_no": "174",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Simon, J. Daniel, Junkerngaße 174"
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Simon",
+    "forename": "J. Georg",
+    "title": "",
+    "occupation": "",
+    "address": "Neuengaße 88",
+    "quarter": "",
+    "street": "Neuengaße",
+    "house_no": "88",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Simon, J. Georg, Neuengaße 88"
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Rüetschi",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 283",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "283",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rüetschi, Samuel, Kramgaße 283"
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "Fabrikanten von Strümpfen.",
+    "place": "Bern",
+    "surname": "Nägeli",
+    "forename": "",
+    "title": "und Comp.",
+    "occupation": "",
+    "address": "Judengaße 126",
+    "quarter": "",
+    "street": "Judengaße",
+    "house_no": "126",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nägeli und Comp., Judengaße 126"
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Fabrikanten von Tabak.",
+    "place": "Bern",
+    "surname": "Dünz",
+    "forename": "Albrecht",
+    "title": "",
+    "occupation": "",
+    "address": "auf dem Bollwerk 84",
+    "quarter": "",
+    "street": "auf dem Bollwerk",
+    "house_no": "84",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dünz, Albrecht, auf dem Bollwerk 84"
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Fabrikanten von Tabak.",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "",
+    "title": "Frau",
+    "occupation": "",
+    "address": "Spitalgaße 178",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "178",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Frey, Frau, Spitalgaße 178"
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Fabrikanten von Tabak.",
+    "place": "Bern",
+    "surname": "Keller",
+    "forename": "Simon",
+    "title": "",
+    "occupation": "",
+    "address": "Schauplatzgaße 221",
+    "quarter": "",
+    "street": "Schauplatzgaße",
+    "house_no": "221",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Keller, Simon, Schauplatzgaße 221"
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Fabrikanten von Tabak.",
+    "place": "Bern",
+    "surname": "Sonderegger",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "",
+    "address": "Spitalgaße 137",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "137",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sonderegger, Johannes, Spitalgaße 137"
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Fabrikanten von Tabak.",
+    "place": "Bern",
+    "surname": "Beyre",
+    "forename": "M. A.",
+    "title": "",
+    "occupation": "",
+    "address": "Zwiebelngäßlein 62",
+    "quarter": "",
+    "street": "Zwiebelngäßlein",
+    "house_no": "62",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Beyre, M. A., Zwiebelngäßlein 62"
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Fabrikanten von Tuch.",
+    "place": "Bern",
+    "surname": "Siegfried",
+    "forename": "",
+    "title": "Vater und Sohn",
+    "occupation": "",
+    "address": "Marktgaße 39",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "39",
+    "origin": "zu Dießbach",
+    "birth_year": "",
+    "household": "",
+    "note": "Verlag",
+    "text": "Siegfried, Vater und Sohn, zu Dießbach, Verlag, Marktgaße 39"
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Fabrikanten von Tuch.",
+    "place": "Bern",
+    "surname": "Straub",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 85",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "85",
+    "origin": "zu Belp",
+    "birth_year": "",
+    "household": "",
+    "note": "Verlag",
+    "text": "Straub, Bendicht, zu Belp, Verlag, Marktgaße 85"
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Fabrikant von Watten.",
+    "place": "Wabern",
+    "surname": "Köhli",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "",
+    "address": "zu Wabern",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "zu Wabern",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Köhli, Peter, zu Wabern."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.",
+    "place": "Bern",
+    "surname": "Einiger",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "",
+    "address": "Keßlergaße 280",
+    "quarter": "",
+    "street": "Keßlergaße",
+    "house_no": "280",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Einiger, Rudolf, Keßlergaße 280"
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.",
+    "place": "Bern",
+    "surname": "Flükiger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "(vorzüglich in Verrichtungen auf dem Lande)",
+    "address": "Brunngaße 33",
+    "quarter": "",
+    "street": "Brunngaße",
+    "house_no": "33",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Flükiger, Jakob, (vorzüglich in Verrichtungen auf dem Lande), Brunngaße 33"
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.",
+    "place": "Bern",
+    "surname": "Geyser",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "",
+    "address": "Gerechtigkeitgaße 144",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "144",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Geyser, Friedrich, Gerechtigkeitgaße 144"
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.",
+    "place": "Bern",
+    "surname": "Grieser",
+    "forename": "Daniel Em.",
+    "title": "Notarius",
+    "occupation": "",
+    "address": "Keschigäßlein 27",
+    "quarter": "",
+    "street": "Keschigäßlein",
+    "house_no": "27",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Grieser, Daniel Em., Notarius, Keschigäßlein 27"
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.",
+    "place": "Bern",
+    "surname": "Gutmann",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "Aarberggaße 63",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "63",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gutmann, Samuel, Aarberggaße 63"
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.",
+    "place": "Bern",
+    "surname": "Kramer",
+    "forename": "Johann Friedrich",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 149",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "149",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kramer, Johann Friedrich, Kramgaße 149"
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Geschäftsmänner, die mit Geldanwendungen, Güterverkäufen u. dgl. sich beschäftigen.",
+    "place": "Bern",
+    "surname": "Oswald",
+    "forename": "",
+    "title": "Notarius",
+    "occupation": "",
+    "address": "Junkerngaße 191",
+    "quarter": "",
+    "street": "Junkerngaße",
+    "house_no": "191",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Oswald, Notarius, Junkerngaße 191"
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:14:18+01:00",
+ "last_error": null
+}

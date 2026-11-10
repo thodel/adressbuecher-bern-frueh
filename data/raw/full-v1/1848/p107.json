@@ -1,0 +1,513 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 107,
+ "section": "einsassen",
+ "started": "2026-11-10T21:53:18+01:00",
+ "thinking": "low",
+ "seconds": 30.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 5188,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"94\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 94 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Lauper.\"},\n    {\"n\": 4, \"text\": \"1 809 Anna, geb. Bodmer, Speziererin, des Müllerknechts\"},\n    {\"n\": 5, \"text\": \"Frau, a. Seedorf — III, 26.\"},\n    {\"n\": 6, \"text\": \"Leemann.\"},\n    {\"n\": 7, \"text\": \"1 810 Ed. Heinrich, Sekretär, a. Zürich — II, 122 b.\"},\n    {\"n\": 8, \"text\": \"Fr. — Maria Marg. Landolt a. Aarau.\"},\n    {\"n\": 9, \"text\": \"2 K. — 832 Ed. Gottfried. — 41 Sophie Johanna.\"},\n    {\"n\": 10, \"text\": \"Lehmann.\"},\n    {\"n\": 11, \"text\": \"1 809 Christen, Uhrenmacher, a. Vechigen — III, 37.\"},\n    {\"n\": 12, \"text\": \"806 Fr. — Sus. Kormann a. Gerzensee.\"},\n    {\"n\": 13, \"text\": \"2 802 Daniel, Gastwirth, a. Worb — III, 10.\"},\n    {\"n\": 14, \"text\": \"805 Fr. — Elis. Holzer a. Moosseedorf.\"},\n    {\"n\": 15, \"text\": \"6 K. — 829 Karl Friedrich. — 31 Joh. Gottlieb. —\"},\n    {\"n\": 16, \"text\": \"33 Joh. Friedrich. — 36 Joh. Daniel. — 39 Karl. —\"},\n    {\"n\": 17, \"text\": \"42 Verena Maria.\"},\n    {\"n\": 18, \"text\": \"3 794 Peter, Kutscher, a. Kirchlindach — III, 109.\"},\n    {\"n\": 19, \"text\": \"803 Fr. — Elisabetha Häberli a. Münchenbuchsee.\"},\n    {\"n\": 20, \"text\": \"4 800 Kath. Marg., geb. Cornaz, a. Langnau — IV, 91.\"},\n    {\"n\": 21, \"text\": \"5 806 Christian, Gypser u. Flachmaler, a. Worb — V, 226.\"},\n    {\"n\": 22, \"text\": \"803 Fr. — Elis. Liechti a. Biglen.\"},\n    {\"n\": 23, \"text\": \"5 K. — 826 Anna Maria. — 28 Elisabetha. — 30 Sam.\"},\n    {\"n\": 24, \"text\": \"Rud. — 38 Anna Marg. — 42 Karl Friedrich.\"},\n    {\"n\": 25, \"text\": \"6 799 Johann, gew. Müller, a. Hindelbank — VI, 28.\"},\n    {\"n\": 26, \"text\": \"811 Fr. — Magd. Dähler a. Seftigen.\"},\n    {\"n\": 27, \"text\": \"2 T. — 835 Magd. Elis. — 43 Sophie Louise.\"},\n    {\"n\": 28, \"text\": \"7 785 Peter, Hauseigenthümer, a. Worb — V, 217.\"},\n    {\"n\": 29, \"text\": \"8 802 Samuel, Müller, a. Hindelbank — I, 104.\"},\n    {\"n\": 30, \"text\": \"802 Fr. — Anna Barb. Rufener.\"},\n    {\"n\": 31, \"text\": \"7 K. — 826 Samuel. — 28 Johann. — 31 Maria Elis.\"},\n    {\"n\": 32, \"text\": \"— 33 Gottlieb. — 35 Rudolf. — 39 Anna Marg. —\"},\n    {\"n\": 33, \"text\": \"41 Friedrich.\"},\n    {\"n\": 34, \"text\": \"9 795 Anna, geb. Walther, Gürtlerin, a. Obergraswyl — I, 252.\"},\n    {\"n\": 35, \"text\": \"6 K. — 812 Johann. — 20 Joh. Jakob. — 21 Christian.\"},\n    {\"n\": 36, \"text\": \"— 28 Gottlieb. — 30 Rudolf. — 32 Friedrich.\"},\n    {\"n\": 37, \"text\": \"10 816 Jakob, Seidenweber, a. Signau — VI, 108.\"},\n    {\"n\": 38, \"text\": \"11 813 Joh. Emanuel, Sattler u. Storrenmacher, a. Kirch-\"},\n    {\"n\": 39, \"text\": \"berg — II, 122 a.\"},\n    {\"n\": 40, \"text\": \"Leibzig.\"},\n    {\"n\": 41, \"text\": \"1 814 Heinrich Philipp, Weinhändler, a. Estavayer — II, 62\"},\n    {\"n\": 42, \"text\": \"Lengacher.\"},\n    {\"n\": 43, \"text\": \"1 811 Jakob, Schuhmacher, a. Aeschi — IV, 301.\"},\n    {\"n\": 44, \"text\": \"817 Fr. — Magd. Bürki a. Unterlangeneck.\"},\n    {\"n\": 45, \"text\": \"2 S. — 842 Christian. — 44 Joh. Jakob.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Lauper.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lauper\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Speziererin, des Müllerknechts Frau\",\n      \"address\": \"III, 26\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"26\",\n      \"origin\": \"Seedorf\",\n      \"birth_year\": \"1809\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Bodmer\",\n      \"text\": \"1 809 Anna, geb. Bodmer, Speziererin, des Müllerknechts Frau, a. Seedorf — III, 26.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Leemann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leemann\",\n      \"forename\": \"Ed. Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Sekretär\",\n      \"address\": \"II, 122 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 b\",\n      \"origin\": \"Zürich\",\n      \"birth_year\": \"1810\",\n      \"household\": \"Fr. — Maria Marg. Landolt a. Aarau. 2 K. — 832 Ed. Gottfried. — 41 Sophie Johanna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Ed. Heinrich, Sekretär, a. Zürich — II, 122 b. Fr. — Maria Marg. Landolt a. Aarau. 2 K. — 832 Ed. Gottfried. — 41 Sophie Johanna.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher\",\n      \"address\": \"III, 37\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"37\",\n      \"origin\": \"Vechigen\",\n      \"birth_year\": \"1809\",\n      \"household\": \"806 Fr. — Sus. Kormann a. Gerzensee.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Christen, Uhrenmacher, a. Vechigen — III, 37. 806 Fr. — Sus. Kormann a. Gerzensee.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirth\",\n      \"address\": \"III, 10\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"10\",\n      \"origin\": \"Worb\",\n      \"birth_year\": \"1802\",\n      \"household\": \"805 Fr. — Elis. Holzer a. Moosseedorf. 6 K. — 829 Karl Friedrich. — 31 Joh. Gottlieb. — 33 Joh. Friedrich. — 36 Joh. Daniel. — 39 Karl. — 42 Verena Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 802 Daniel, Gastwirth, a. Worb — III, 10. 805 Fr. — Elis. Holzer a. Moosseedorf. 6 K. — 829 Karl Friedrich. — 31 Joh. Gottlieb. — 33 Joh. Friedrich. — 36 Joh. Daniel. — 39 Karl. — 42 Verena Maria.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Kutscher\",\n      \"address\": \"III, 109\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"109\",\n      \"origin\": \"Kirchlindach\",\n      \"birth_year\": \"1794\",\n      \"household\": \"803 Fr. — Elisabetha Häberli a. Münchenbuchsee.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 794 Peter, Kutscher, a. Kirchlindach — III, 109. 803 Fr. — Elisabetha Häberli a. Münchenbuchsee.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Kath. Marg.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"IV, 91\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"91\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1800\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Cornaz\",\n      \"text\": \"4 800 Kath. Marg., geb. Cornaz, a. Langnau — IV, 91.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Gypser u. Flachmaler\",\n      \"address\": \"V, 226\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"226\",\n      \"origin\": \"Worb\",\n      \"birth_year\": \"1806\",\n      \"household\": \"803 Fr. — Elis. Liechti a. Biglen. 5 K. — 826 Anna Maria. — 28 Elisabetha. — 30 Sam. Rud. — 38 Anna Marg. — 42 Karl Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 806 Christian, Gypser u. Flachmaler, a. Worb — V, 226. 803 Fr. — Elis. Liechti a. Biglen. 5 K. — 826 Anna Maria. — 28 Elisabetha. — 30 Sam. Rud. — 38 Anna Marg. — 42 Karl Friedrich.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Müller\",\n      \"address\": \"VI, 28\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"28\",\n      \"origin\": \"Hindelbank\",\n      \"birth_year\": \"1799\",\n      \"household\": \"811 Fr. — Magd. Dähler a. Seftigen. 2 T. — 835 Magd. Elis. — 43 Sophie Louise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 799 Johann, gew. Müller, a. Hindelbank — VI, 28. 811 Fr. — Magd. Dähler a. Seftigen. 2 T. — 835 Magd. Elis. — 43 Sophie Louise.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Hauseigenthümer\",\n      \"address\": \"V, 217\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"217\",\n      \"origin\": \"Worb\",\n      \"birth_year\": \"1785\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 785 Peter, Hauseigenthümer, a. Worb — V, 217.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"I, 104\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"104\",\n      \"origin\": \"Hindelbank\",\n      \"birth_year\": \"1802\",\n      \"household\": \"802 Fr. — Anna Barb. Rufener. 7 K. — 826 Samuel. — 28 Johann. — 31 Maria Elis. — 33 Gottlieb. — 35 Rudolf. — 39 Anna Marg. — 41 Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"8 802 Samuel, Müller, a. Hindelbank — I, 104. 802 Fr. — Anna Barb. Rufener. 7 K. — 826 Samuel. — 28 Johann. — 31 Maria Elis. — 33 Gottlieb. — 35 Rudolf. — 39 Anna Marg. — 41 Friedrich.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Gürtlerin\",\n      \"address\": \"I, 252\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"252\",\n      \"origin\": \"Obergraswyl\",\n      \"birth_year\": \"1795\",\n      \"household\": \"6 K. — 812 Johann. — 20 Joh. Jakob. — 21 Christian. — 28 Gottlieb. — 30 Rudolf. — 32 Friedrich.\",\n      \"note\": \"Name aus Zwischentitel; geb. Walther\",\n      \"text\": \"9 795 Anna, geb. Walther, Gürtlerin, a. Obergraswyl — I, 252. 6 K. — 812 Johann. — 20 Joh. Jakob. — 21 Christian. — 28 Gottlieb. — 30 Rudolf. — 32 Friedrich.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Seidenweber\",\n      \"address\": \"VI, 108\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"108\",\n      \"origin\": \"Signau\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"10 816 Jakob, Seidenweber, a. Signau — VI, 108.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Lehmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Joh. Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler u. Storrenmacher\",\n      \"address\": \"II, 122 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 a\",\n      \"origin\": \"Kirchberg\",\n      \"birth_year\": \"1813\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"11 813 Joh. Emanuel, Sattler u. Storrenmacher, a. Kirchberg — II, 122 a.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Leibzig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leibzig\",\n      \"forename\": \"Heinrich Philipp\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhändler\",\n      \"address\": \"II, 62\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"Estavayer\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Heinrich Philipp, Weinhändler, a. Estavayer — II, 62\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Lengacher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lengacher\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 301\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"301\",\n      \"origin\": \"Aeschi\",\n      \"birth_year\": \"1811\",\n      \"household\": \"817 Fr. — Magd. Bürki a. Unterlangeneck. 2 S. — 842 Christian. — 44 Joh. Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Jakob, Schuhmacher, a. Aeschi — IV, 301. 817 Fr. — Magd. Bürki a. Unterlangeneck. 2 S. — 842 Christian. — 44 Joh. Jakob.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "94",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 94 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Lauper."
+   },
+   {
+    "n": 4,
+    "text": "1 809 Anna, geb. Bodmer, Speziererin, des Müllerknechts"
+   },
+   {
+    "n": 5,
+    "text": "Frau, a. Seedorf — III, 26."
+   },
+   {
+    "n": 6,
+    "text": "Leemann."
+   },
+   {
+    "n": 7,
+    "text": "1 810 Ed. Heinrich, Sekretär, a. Zürich — II, 122 b."
+   },
+   {
+    "n": 8,
+    "text": "Fr. — Maria Marg. Landolt a. Aarau."
+   },
+   {
+    "n": 9,
+    "text": "2 K. — 832 Ed. Gottfried. — 41 Sophie Johanna."
+   },
+   {
+    "n": 10,
+    "text": "Lehmann."
+   },
+   {
+    "n": 11,
+    "text": "1 809 Christen, Uhrenmacher, a. Vechigen — III, 37."
+   },
+   {
+    "n": 12,
+    "text": "806 Fr. — Sus. Kormann a. Gerzensee."
+   },
+   {
+    "n": 13,
+    "text": "2 802 Daniel, Gastwirth, a. Worb — III, 10."
+   },
+   {
+    "n": 14,
+    "text": "805 Fr. — Elis. Holzer a. Moosseedorf."
+   },
+   {
+    "n": 15,
+    "text": "6 K. — 829 Karl Friedrich. — 31 Joh. Gottlieb. —"
+   },
+   {
+    "n": 16,
+    "text": "33 Joh. Friedrich. — 36 Joh. Daniel. — 39 Karl. —"
+   },
+   {
+    "n": 17,
+    "text": "42 Verena Maria."
+   },
+   {
+    "n": 18,
+    "text": "3 794 Peter, Kutscher, a. Kirchlindach — III, 109."
+   },
+   {
+    "n": 19,
+    "text": "803 Fr. — Elisabetha Häberli a. Münchenbuchsee."
+   },
+   {
+    "n": 20,
+    "text": "4 800 Kath. Marg., geb. Cornaz, a. Langnau — IV, 91."
+   },
+   {
+    "n": 21,
+    "text": "5 806 Christian, Gypser u. Flachmaler, a. Worb — V, 226."
+   },
+   {
+    "n": 22,
+    "text": "803 Fr. — Elis. Liechti a. Biglen."
+   },
+   {
+    "n": 23,
+    "text": "5 K. — 826 Anna Maria. — 28 Elisabetha. — 30 Sam."
+   },
+   {
+    "n": 24,
+    "text": "Rud. — 38 Anna Marg. — 42 Karl Friedrich."
+   },
+   {
+    "n": 25,
+    "text": "6 799 Johann, gew. Müller, a. Hindelbank — VI, 28."
+   },
+   {
+    "n": 26,
+    "text": "811 Fr. — Magd. Dähler a. Seftigen."
+   },
+   {
+    "n": 27,
+    "text": "2 T. — 835 Magd. Elis. — 43 Sophie Louise."
+   },
+   {
+    "n": 28,
+    "text": "7 785 Peter, Hauseigenthümer, a. Worb — V, 217."
+   },
+   {
+    "n": 29,
+    "text": "8 802 Samuel, Müller, a. Hindelbank — I, 104."
+   },
+   {
+    "n": 30,
+    "text": "802 Fr. — Anna Barb. Rufener."
+   },
+   {
+    "n": 31,
+    "text": "7 K. — 826 Samuel. — 28 Johann. — 31 Maria Elis."
+   },
+   {
+    "n": 32,
+    "text": "— 33 Gottlieb. — 35 Rudolf. — 39 Anna Marg. —"
+   },
+   {
+    "n": 33,
+    "text": "41 Friedrich."
+   },
+   {
+    "n": 34,
+    "text": "9 795 Anna, geb. Walther, Gürtlerin, a. Obergraswyl — I, 252."
+   },
+   {
+    "n": 35,
+    "text": "6 K. — 812 Johann. — 20 Joh. Jakob. — 21 Christian."
+   },
+   {
+    "n": 36,
+    "text": "— 28 Gottlieb. — 30 Rudolf. — 32 Friedrich."
+   },
+   {
+    "n": 37,
+    "text": "10 816 Jakob, Seidenweber, a. Signau — VI, 108."
+   },
+   {
+    "n": 38,
+    "text": "11 813 Joh. Emanuel, Sattler u. Storrenmacher, a. Kirch-"
+   },
+   {
+    "n": 39,
+    "text": "berg — II, 122 a."
+   },
+   {
+    "n": 40,
+    "text": "Leibzig."
+   },
+   {
+    "n": 41,
+    "text": "1 814 Heinrich Philipp, Weinhändler, a. Estavayer — II, 62"
+   },
+   {
+    "n": 42,
+    "text": "Lengacher."
+   },
+   {
+    "n": 43,
+    "text": "1 811 Jakob, Schuhmacher, a. Aeschi — IV, 301."
+   },
+   {
+    "n": 44,
+    "text": "817 Fr. — Magd. Bürki a. Unterlangeneck."
+   },
+   {
+    "n": 45,
+    "text": "2 S. — 842 Christian. — 44 Joh. Jakob."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Lauper.",
+    "place": "Bern",
+    "surname": "Lauper",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Speziererin, des Müllerknechts Frau",
+    "address": "III, 26",
+    "quarter": "III",
+    "street": "",
+    "house_no": "26",
+    "origin": "Seedorf",
+    "birth_year": "1809",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Bodmer",
+    "text": "1 809 Anna, geb. Bodmer, Speziererin, des Müllerknechts Frau, a. Seedorf — III, 26."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Leemann.",
+    "place": "Bern",
+    "surname": "Leemann",
+    "forename": "Ed. Heinrich",
+    "title": "",
+    "occupation": "Sekretär",
+    "address": "II, 122 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 b",
+    "origin": "Zürich",
+    "birth_year": "1810",
+    "household": "Fr. — Maria Marg. Landolt a. Aarau. 2 K. — 832 Ed. Gottfried. — 41 Sophie Johanna.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Ed. Heinrich, Sekretär, a. Zürich — II, 122 b. Fr. — Maria Marg. Landolt a. Aarau. 2 K. — 832 Ed. Gottfried. — 41 Sophie Johanna."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Uhrenmacher",
+    "address": "III, 37",
+    "quarter": "III",
+    "street": "",
+    "house_no": "37",
+    "origin": "Vechigen",
+    "birth_year": "1809",
+    "household": "806 Fr. — Sus. Kormann a. Gerzensee.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Christen, Uhrenmacher, a. Vechigen — III, 37. 806 Fr. — Sus. Kormann a. Gerzensee."
+   },
+   {
+    "line_from": 13,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Gastwirth",
+    "address": "III, 10",
+    "quarter": "III",
+    "street": "",
+    "house_no": "10",
+    "origin": "Worb",
+    "birth_year": "1802",
+    "household": "805 Fr. — Elis. Holzer a. Moosseedorf. 6 K. — 829 Karl Friedrich. — 31 Joh. Gottlieb. — 33 Joh. Friedrich. — 36 Joh. Daniel. — 39 Karl. — 42 Verena Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 802 Daniel, Gastwirth, a. Worb — III, 10. 805 Fr. — Elis. Holzer a. Moosseedorf. 6 K. — 829 Karl Friedrich. — 31 Joh. Gottlieb. — 33 Joh. Friedrich. — 36 Joh. Daniel. — 39 Karl. — 42 Verena Maria."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Kutscher",
+    "address": "III, 109",
+    "quarter": "III",
+    "street": "",
+    "house_no": "109",
+    "origin": "Kirchlindach",
+    "birth_year": "1794",
+    "household": "803 Fr. — Elisabetha Häberli a. Münchenbuchsee.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 794 Peter, Kutscher, a. Kirchlindach — III, 109. 803 Fr. — Elisabetha Häberli a. Münchenbuchsee."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Kath. Marg.",
+    "title": "",
+    "occupation": "",
+    "address": "IV, 91",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "91",
+    "origin": "Langnau",
+    "birth_year": "1800",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Cornaz",
+    "text": "4 800 Kath. Marg., geb. Cornaz, a. Langnau — IV, 91."
+   },
+   {
+    "line_from": 21,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Gypser u. Flachmaler",
+    "address": "V, 226",
+    "quarter": "V",
+    "street": "",
+    "house_no": "226",
+    "origin": "Worb",
+    "birth_year": "1806",
+    "household": "803 Fr. — Elis. Liechti a. Biglen. 5 K. — 826 Anna Maria. — 28 Elisabetha. — 30 Sam. Rud. — 38 Anna Marg. — 42 Karl Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 806 Christian, Gypser u. Flachmaler, a. Worb — V, 226. 803 Fr. — Elis. Liechti a. Biglen. 5 K. — 826 Anna Maria. — 28 Elisabetha. — 30 Sam. Rud. — 38 Anna Marg. — 42 Karl Friedrich."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "gew. Müller",
+    "address": "VI, 28",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "28",
+    "origin": "Hindelbank",
+    "birth_year": "1799",
+    "household": "811 Fr. — Magd. Dähler a. Seftigen. 2 T. — 835 Magd. Elis. — 43 Sophie Louise.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 799 Johann, gew. Müller, a. Hindelbank — VI, 28. 811 Fr. — Magd. Dähler a. Seftigen. 2 T. — 835 Magd. Elis. — 43 Sophie Louise."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Hauseigenthümer",
+    "address": "V, 217",
+    "quarter": "V",
+    "street": "",
+    "house_no": "217",
+    "origin": "Worb",
+    "birth_year": "1785",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "7 785 Peter, Hauseigenthümer, a. Worb — V, 217."
+   },
+   {
+    "line_from": 29,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Müller",
+    "address": "I, 104",
+    "quarter": "I",
+    "street": "",
+    "house_no": "104",
+    "origin": "Hindelbank",
+    "birth_year": "1802",
+    "household": "802 Fr. — Anna Barb. Rufener. 7 K. — 826 Samuel. — 28 Johann. — 31 Maria Elis. — 33 Gottlieb. — 35 Rudolf. — 39 Anna Marg. — 41 Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "8 802 Samuel, Müller, a. Hindelbank — I, 104. 802 Fr. — Anna Barb. Rufener. 7 K. — 826 Samuel. — 28 Johann. — 31 Maria Elis. — 33 Gottlieb. — 35 Rudolf. — 39 Anna Marg. — 41 Friedrich."
+   },
+   {
+    "line_from": 34,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Gürtlerin",
+    "address": "I, 252",
+    "quarter": "I",
+    "street": "",
+    "house_no": "252",
+    "origin": "Obergraswyl",
+    "birth_year": "1795",
+    "household": "6 K. — 812 Johann. — 20 Joh. Jakob. — 21 Christian. — 28 Gottlieb. — 30 Rudolf. — 32 Friedrich.",
+    "note": "Name aus Zwischentitel; geb. Walther",
+    "text": "9 795 Anna, geb. Walther, Gürtlerin, a. Obergraswyl — I, 252. 6 K. — 812 Johann. — 20 Joh. Jakob. — 21 Christian. — 28 Gottlieb. — 30 Rudolf. — 32 Friedrich."
+   },
+   {
+    "line_from": 37,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Seidenweber",
+    "address": "VI, 108",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "108",
+    "origin": "Signau",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "10 816 Jakob, Seidenweber, a. Signau — VI, 108."
+   },
+   {
+    "line_from": 38,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Lehmann.",
+    "place": "Bern",
+    "surname": "Lehmann",
+    "forename": "Joh. Emanuel",
+    "title": "",
+    "occupation": "Sattler u. Storrenmacher",
+    "address": "II, 122 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 a",
+    "origin": "Kirchberg",
+    "birth_year": "1813",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "11 813 Joh. Emanuel, Sattler u. Storrenmacher, a. Kirchberg — II, 122 a."
+   },
+   {
+    "line_from": 41,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Leibzig.",
+    "place": "Bern",
+    "surname": "Leibzig",
+    "forename": "Heinrich Philipp",
+    "title": "",
+    "occupation": "Weinhändler",
+    "address": "II, 62",
+    "quarter": "II",
+    "street": "",
+    "house_no": "62",
+    "origin": "Estavayer",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Heinrich Philipp, Weinhändler, a. Estavayer — II, 62"
+   },
+   {
+    "line_from": 43,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Lengacher.",
+    "place": "Bern",
+    "surname": "Lengacher",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 301",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "301",
+    "origin": "Aeschi",
+    "birth_year": "1811",
+    "household": "817 Fr. — Magd. Bürki a. Unterlangeneck. 2 S. — 842 Christian. — 44 Joh. Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Jakob, Schuhmacher, a. Aeschi — IV, 301. 817 Fr. — Magd. Bürki a. Unterlangeneck. 2 S. — 842 Christian. — 44 Joh. Jakob."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:53:48+01:00",
+ "last_error": null
+}

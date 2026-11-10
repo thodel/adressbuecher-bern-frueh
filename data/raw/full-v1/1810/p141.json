@@ -1,0 +1,277 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 141,
+ "section": "additions",
+ "started": "2026-11-10T21:13:34+01:00",
+ "thinking": "low",
+ "seconds": 15.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2299,
+  "output": 2316,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": null,\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"ADDITIONS.\"},\n    {\"n\": 2, \"text\": \"A. Aux Adresses de la Ville.\"},\n    {\"n\": 3, \"text\": \"Page 16. Commission de Commerce, ajoutez:\"},\n    {\"n\": 4, \"text\": \"Ulrich, l’aîné, Négociant. Q. r. Nro. 149.\"},\n    {\"n\": 5, \"text\": \"Page 9. Aubergistes, lisez en place de Stouder:\"},\n    {\"n\": 6, \"text\": \"Flugel, Samuel, à l'Abbaye des Boulan-\"},\n    {\"n\": 7, \"text\": \"gers, Q. v. Nro. 52.\"},\n    {\"n\": 8, \"text\": \"Page 34. et 35. Notaires stipulants etc., notés:\"},\n    {\"n\": 9, \"text\": \"que M. M. Meyer et de Vigneulle ont trans-\"},\n    {\"n\": 10, \"text\": \"porté leur bureau du Nro. 244. Q. r. au\"},\n    {\"n\": 11, \"text\": \"Nro. 129. Q. j., et Mr. Kœnig le sien du\"},\n    {\"n\": 12, \"text\": \"Nro. 53. Q. r. au Nro. 327. Q. v.\"},\n    {\"n\": 13, \"text\": \"Page 47. Verreries, lisez Charles en place\"},\n    {\"n\": 14, \"text\": \"de Jaques Guder.\"},\n    {\"n\": 15, \"text\": \"A l'article Peintres page 38. ligne 12. lisez\"},\n    {\"n\": 16, \"text\": \"Louis Ducros, et page 39. ligne 8. lisez\"},\n    {\"n\": 17, \"text\": \"Henri Rieter en place de Samuel.\"},\n    {\"n\": 18, \"text\": \"Ajoutez encore à cette classe; Mind, Gott-\"},\n    {\"n\": 19, \"text\": \"frède, élève de Freudenberger, dessine et\"},\n    {\"n\": 20, \"text\": \"peint au lavis, la petite figure et des sujets\"},\n    {\"n\": 21, \"text\": \"naifs, Q. r. Nro. 165.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Commission de Commerce\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ulrich\",\n      \"forename\": \"\",\n      \"title\": \"l’aîné\",\n      \"occupation\": \"Négociant\",\n      \"address\": \"Q. r. Nro. 149\",\n      \"quarter\": \"Q. r.\",\n      \"street\": \"\",\n      \"house_no\": \"149\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Page 16. Commission de Commerce, ajoutez: Ulrich, l’aîné, Négociant. Q. r. Nro. 149.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Aubergistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Flugel\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"à l'Abbaye des Boulangers, Q. v. Nro. 52\",\n      \"quarter\": \"Q. v.\",\n      \"street\": \"\",\n      \"house_no\": \"52\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"lisez en place de Stouder\",\n      \"text\": \"Page 9. Aubergistes, lisez en place de Stouder: Flugel, Samuel, à l'Abbaye des Boulangers, Q. v. Nro. 52.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires stipulants etc.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Meyer et de Vigneulle\",\n      \"forename\": \"\",\n      \"title\": \"M. M.\",\n      \"occupation\": \"Notaires stipulants\",\n      \"address\": \"Nro. 129. Q. j.\",\n      \"quarter\": \"Q. j.\",\n      \"street\": \"\",\n      \"house_no\": \"129\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"ont transporté leur bureau du Nro. 244. Q. r. au Nro. 129. Q. j.\",\n      \"text\": \"Page 34. et 35. Notaires stipulants etc., notés: que M. M. Meyer et de Vigneulle ont transporté leur bureau du Nro. 244. Q. r. au Nro. 129. Q. j.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires stipulants etc.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kœnig\",\n      \"forename\": \"\",\n      \"title\": \"Mr.\",\n      \"occupation\": \"Notaire stipulant\",\n      \"address\": \"Nro. 327. Q. v.\",\n      \"quarter\": \"Q. v.\",\n      \"street\": \"\",\n      \"house_no\": \"327\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"le sien du Nro. 53. Q. r. au Nro. 327. Q. v.\",\n      \"text\": \"et Mr. Kœnig le sien du Nro. 53. Q. r. au Nro. 327. Q. v.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Verreries\",\n      \"place\": \"Bern\",\n      \"surname\": \"Guder\",\n      \"forename\": \"Charles\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"lisez Charles en place de Jaques Guder\",\n      \"text\": \"Page 47. Verreries, lisez Charles en place de Jaques Guder.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ducros\",\n      \"forename\": \"Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Peintre\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"A l'article Peintres page 38. ligne 12. lisez Louis Ducros\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rieter\",\n      \"forename\": \"Henri\",\n      \"title\": \"\",\n      \"occupation\": \"Peintre\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"en place de Samuel\",\n      \"text\": \"et page 39. ligne 8. lisez Henri Rieter en place de Samuel.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mind\",\n      \"forename\": \"Gottfrède\",\n      \"title\": \"\",\n      \"occupation\": \"dessine et peint au lavis, la petite figure et des sujets naifs\",\n      \"address\": \"Q. r. Nro. 165\",\n      \"quarter\": \"Q. r.\",\n      \"street\": \"\",\n      \"house_no\": \"165\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"élève de Freudenberger\",\n      \"text\": \"Ajoutez encore à cette classe; Mind, Gottfrède, élève de Freudenberger, dessine et peint au lavis, la petite figure et des sujets naifs, Q. r. Nro. 165.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": null,
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "ADDITIONS."
+   },
+   {
+    "n": 2,
+    "text": "A. Aux Adresses de la Ville."
+   },
+   {
+    "n": 3,
+    "text": "Page 16. Commission de Commerce, ajoutez:"
+   },
+   {
+    "n": 4,
+    "text": "Ulrich, l’aîné, Négociant. Q. r. Nro. 149."
+   },
+   {
+    "n": 5,
+    "text": "Page 9. Aubergistes, lisez en place de Stouder:"
+   },
+   {
+    "n": 6,
+    "text": "Flugel, Samuel, à l'Abbaye des Boulan-"
+   },
+   {
+    "n": 7,
+    "text": "gers, Q. v. Nro. 52."
+   },
+   {
+    "n": 8,
+    "text": "Page 34. et 35. Notaires stipulants etc., notés:"
+   },
+   {
+    "n": 9,
+    "text": "que M. M. Meyer et de Vigneulle ont trans-"
+   },
+   {
+    "n": 10,
+    "text": "porté leur bureau du Nro. 244. Q. r. au"
+   },
+   {
+    "n": 11,
+    "text": "Nro. 129. Q. j., et Mr. Kœnig le sien du"
+   },
+   {
+    "n": 12,
+    "text": "Nro. 53. Q. r. au Nro. 327. Q. v."
+   },
+   {
+    "n": 13,
+    "text": "Page 47. Verreries, lisez Charles en place"
+   },
+   {
+    "n": 14,
+    "text": "de Jaques Guder."
+   },
+   {
+    "n": 15,
+    "text": "A l'article Peintres page 38. ligne 12. lisez"
+   },
+   {
+    "n": 16,
+    "text": "Louis Ducros, et page 39. ligne 8. lisez"
+   },
+   {
+    "n": 17,
+    "text": "Henri Rieter en place de Samuel."
+   },
+   {
+    "n": 18,
+    "text": "Ajoutez encore à cette classe; Mind, Gott-"
+   },
+   {
+    "n": 19,
+    "text": "frède, élève de Freudenberger, dessine et"
+   },
+   {
+    "n": 20,
+    "text": "peint au lavis, la petite figure et des sujets"
+   },
+   {
+    "n": 21,
+    "text": "naifs, Q. r. Nro. 165."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Commission de Commerce",
+    "place": "Bern",
+    "surname": "Ulrich",
+    "forename": "",
+    "title": "l’aîné",
+    "occupation": "Négociant",
+    "address": "Q. r. Nro. 149",
+    "quarter": "Q. r.",
+    "street": "",
+    "house_no": "149",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Page 16. Commission de Commerce, ajoutez: Ulrich, l’aîné, Négociant. Q. r. Nro. 149."
+   },
+   {
+    "line_from": 5,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Aubergistes",
+    "place": "Bern",
+    "surname": "Flugel",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "à l'Abbaye des Boulangers, Q. v. Nro. 52",
+    "quarter": "Q. v.",
+    "street": "",
+    "house_no": "52",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "lisez en place de Stouder",
+    "text": "Page 9. Aubergistes, lisez en place de Stouder: Flugel, Samuel, à l'Abbaye des Boulangers, Q. v. Nro. 52."
+   },
+   {
+    "line_from": 8,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Notaires stipulants etc.",
+    "place": "Bern",
+    "surname": "Meyer et de Vigneulle",
+    "forename": "",
+    "title": "M. M.",
+    "occupation": "Notaires stipulants",
+    "address": "Nro. 129. Q. j.",
+    "quarter": "Q. j.",
+    "street": "",
+    "house_no": "129",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "ont transporté leur bureau du Nro. 244. Q. r. au Nro. 129. Q. j.",
+    "text": "Page 34. et 35. Notaires stipulants etc., notés: que M. M. Meyer et de Vigneulle ont transporté leur bureau du Nro. 244. Q. r. au Nro. 129. Q. j."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Notaires stipulants etc.",
+    "place": "Bern",
+    "surname": "Kœnig",
+    "forename": "",
+    "title": "Mr.",
+    "occupation": "Notaire stipulant",
+    "address": "Nro. 327. Q. v.",
+    "quarter": "Q. v.",
+    "street": "",
+    "house_no": "327",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "le sien du Nro. 53. Q. r. au Nro. 327. Q. v.",
+    "text": "et Mr. Kœnig le sien du Nro. 53. Q. r. au Nro. 327. Q. v."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Verreries",
+    "place": "Bern",
+    "surname": "Guder",
+    "forename": "Charles",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "lisez Charles en place de Jaques Guder",
+    "text": "Page 47. Verreries, lisez Charles en place de Jaques Guder."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Peintres",
+    "place": "Bern",
+    "surname": "Ducros",
+    "forename": "Louis",
+    "title": "",
+    "occupation": "Peintre",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "A l'article Peintres page 38. ligne 12. lisez Louis Ducros"
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Peintres",
+    "place": "Bern",
+    "surname": "Rieter",
+    "forename": "Henri",
+    "title": "",
+    "occupation": "Peintre",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "en place de Samuel",
+    "text": "et page 39. ligne 8. lisez Henri Rieter en place de Samuel."
+   },
+   {
+    "line_from": 18,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Peintres",
+    "place": "Bern",
+    "surname": "Mind",
+    "forename": "Gottfrède",
+    "title": "",
+    "occupation": "dessine et peint au lavis, la petite figure et des sujets naifs",
+    "address": "Q. r. Nro. 165",
+    "quarter": "Q. r.",
+    "street": "",
+    "house_no": "165",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "élève de Freudenberger",
+    "text": "Ajoutez encore à cette classe; Mind, Gottfrède, élève de Freudenberger, dessine et peint au lavis, la petite figure et des sujets naifs, Q. r. Nro. 165."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:13:50+01:00",
+ "last_error": null
+}

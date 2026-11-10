@@ -1,0 +1,501 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 128,
+ "section": "einsassen",
+ "started": "2026-11-10T21:54:31+01:00",
+ "thinking": "low",
+ "seconds": 31.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 5142,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"115\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 115 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"2 810 Isaak, Bandhändler, a. Hegenheim — IV, 131.\"},\n    {\"n\": 4, \"text\": \"818 Fr. — Pauline Piccard.\"},\n    {\"n\": 5, \"text\": \"2 K. — 842 Melanie. — 43 Jules.\"},\n    {\"n\": 6, \"text\": \"3 818 Joseph, Associrter der Bandwaarenhandlung der Gebr.\"},\n    {\"n\": 7, \"text\": \"Nordemann — a. Hegenheim — IV, 255.\"},\n    {\"n\": 8, \"text\": \"4 792 Jakob, Kostgeber u. Grempler, a. Oberhagenthal — II, 53.\"},\n    {\"n\": 9, \"text\": \"6 K. — 823 Doucette. — 24 Madelaine. — 26 Eduard.\"},\n    {\"n\": 10, \"text\": \"— 28 Rosine. — 30 Felix. — 38 Emilie.\"},\n    {\"n\": 11, \"text\": \"5 807 Bernhard, Bandhändler, a. Hegenheim — IV, 124.\"},\n    {\"n\": 12, \"text\": \"817 Fr. II Ehe. — Charlotte Hauser.\"},\n    {\"n\": 13, \"text\": \"3 T. — Aus I Ehe: 837 Babette. — 39 Karoline. —\"},\n    {\"n\": 14, \"text\": \"Aus II Ehe: 41 Henriette.\"},\n    {\"n\": 15, \"text\": \"6 803 Theodor, Associrter der Bandwaarenhandlung d. Gebr.\"},\n    {\"n\": 16, \"text\": \"Nordemann, a. Hegenheim — IV, 255.\"},\n    {\"n\": 17, \"text\": \"809 Fr. — Marianne Bloch.\"},\n    {\"n\": 18, \"text\": \"2 K. — 839 Pauline. — 40 Isidor.\"},\n    {\"n\": 19, \"text\": \"Noth.\"},\n    {\"n\": 20, \"text\": \"1 814 Joh. Joseph, Gypser u. Maler, a. Burg Aesche, K.\"},\n    {\"n\": 21, \"text\": \"Solothurn — II, 262.\"},\n    {\"n\": 22, \"text\": \"811 Fr. Anna Maria Ros. Merz a. Menziken.\"},\n    {\"n\": 23, \"text\": \"Nüesch, a. Balgach, K. St. Gallen.\"},\n    {\"n\": 24, \"text\": \"1 805 Joh. Bendicht, Schreiner — VII, 173 a.\"},\n    {\"n\": 25, \"text\": \"7 K. — 830 Elis. — 33 Joh. Christian. — 34 Maria\"},\n    {\"n\": 26, \"text\": \"Marg. — 35 A. M. Barb. — 39 Maria Ros. — 40 Sus.\"},\n    {\"n\": 27, \"text\": \"— 41 Karl Ludwig.\"},\n    {\"n\": 28, \"text\": \"2 807 Karl Albrecht, Drechsler — IV, 333.\"},\n    {\"n\": 29, \"text\": \"815 Fr. — Elis. Schlub a. Wengi.\"},\n    {\"n\": 30, \"text\": \"4 K. — 842 Karl Ed. — 43 Anna Elis. — 45 Jakob\"},\n    {\"n\": 31, \"text\": \"Friedrich. — 47 Maria Adele.\"},\n    {\"n\": 32, \"text\": \"3 815 Samuel Johann, Kaminfeger — V, 15.\"},\n    {\"n\": 33, \"text\": \"824 Fr. — Maria Lüthi.\"},\n    {\"n\": 34, \"text\": \"4 Anna Böhlen, geb. Hunziker, Ausschenkerin — III, 101.\"},\n    {\"n\": 35, \"text\": \"Nußbaum.\"},\n    {\"n\": 36, \"text\": \"1 781 Joh. Ulrich, Commis u. Associrter der Weinhandlung\"},\n    {\"n\": 37, \"text\": \"D. Plattel, a. Dentschbüren — IV, 188.\"},\n    {\"n\": 38, \"text\": \"822 Johann, Säckler, a. Schloßwyl — II, 31.\"},\n    {\"n\": 39, \"text\": \"2 815 Fr. — Anna Nüfli a. Langnau.\"},\n    {\"n\": 40, \"text\": \"1 T. — 847 Bertha.\"},\n    {\"n\": 41, \"text\": \"807 Anna Maria, geb. Friedli, des Commis Frau, Laden-\"},\n    {\"n\": 42, \"text\": \"3 gehülfin, a. Dentschbüren, K. Aargau — III, 26.\"},\n    {\"n\": 43, \"text\": \"4 K. — 837 Maria Elw. Natal. — 38 Johann Franz\"},\n    {\"n\": 44, \"text\": \"Emil. — 41 Maria Emma Julie. — 42 Joh. Alfr. Arthur.\"},\n    {\"n\": 45, \"text\": \"Nußbaumer.\"},\n    {\"n\": 46, \"text\": \"1 Maria Cleopha Barbara, Schneiderin, a. Mümliswyl,\"},\n    {\"n\": 47, \"text\": \"K. Solothurn — IV, 286.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Nordemann\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nordemann\",\n      \"forename\": \"Isaak\",\n      \"title\": \"\",\n      \"occupation\": \"Bandhändler\",\n      \"address\": \"IV, 131\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"131\",\n      \"origin\": \"Hegenheim\",\n      \"birth_year\": \"1810\",\n      \"household\": \"818 Fr. — Pauline Piccard. 2 K. — 842 Melanie. — 43 Jules.\",\n      \"note\": \"Name aus Vorseite\",\n      \"text\": \"2 810 Isaak, Bandhändler, a. Hegenheim — IV, 131. 818 Fr. — Pauline Piccard. 2 K. — 842 Melanie. — 43 Jules.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Nordemann\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nordemann\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Associrter der Bandwaarenhandlung der Gebr. Nordemann\",\n      \"address\": \"IV, 255\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"255\",\n      \"origin\": \"Hegenheim\",\n      \"birth_year\": \"1818\",\n      \"household\": \"\",\n      \"note\": \"Name aus Vorseite\",\n      \"text\": \"3 818 Joseph, Associrter der Bandwaarenhandlung der Gebr. Nordemann — a. Hegenheim — IV, 255.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Nordemann\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nordemann\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Kostgeber u. Grempler\",\n      \"address\": \"II, 53\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"53\",\n      \"origin\": \"Oberhagenthal\",\n      \"birth_year\": \"1792\",\n      \"household\": \"6 K. — 823 Doucette. — 24 Madelaine. — 26 Eduard. — 28 Rosine. — 30 Felix. — 38 Emilie.\",\n      \"note\": \"Name aus Vorseite\",\n      \"text\": \"4 792 Jakob, Kostgeber u. Grempler, a. Oberhagenthal — II, 53. 6 K. — 823 Doucette. — 24 Madelaine. — 26 Eduard. — 28 Rosine. — 30 Felix. — 38 Emilie.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Nordemann\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nordemann\",\n      \"forename\": \"Bernhard\",\n      \"title\": \"\",\n      \"occupation\": \"Bandhändler\",\n      \"address\": \"IV, 124\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"124\",\n      \"origin\": \"Hegenheim\",\n      \"birth_year\": \"1807\",\n      \"household\": \"817 Fr. II Ehe. — Charlotte Hauser. 3 T. — Aus I Ehe: 837 Babette. — 39 Karoline. — Aus II Ehe: 41 Henriette.\",\n      \"note\": \"Name aus Vorseite\",\n      \"text\": \"5 807 Bernhard, Bandhändler, a. Hegenheim — IV, 124. 817 Fr. II Ehe. — Charlotte Hauser. 3 T. — Aus I Ehe: 837 Babette. — 39 Karoline. — Aus II Ehe: 41 Henriette.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Nordemann\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nordemann\",\n      \"forename\": \"Theodor\",\n      \"title\": \"\",\n      \"occupation\": \"Associrter der Bandwaarenhandlung d. Gebr. Nordemann\",\n      \"address\": \"IV, 255\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"255\",\n      \"origin\": \"Hegenheim\",\n      \"birth_year\": \"1803\",\n      \"household\": \"809 Fr. — Marianne Bloch. 2 K. — 839 Pauline. — 40 Isidor.\",\n      \"note\": \"Name aus Vorseite\",\n      \"text\": \"6 803 Theodor, Associrter der Bandwaarenhandlung d. Gebr. Nordemann, a. Hegenheim — IV, 255. 809 Fr. — Marianne Bloch. 2 K. — 839 Pauline. — 40 Isidor.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Noth\",\n      \"place\": \"Bern\",\n      \"surname\": \"Noth\",\n      \"forename\": \"Joh. Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Gypser u. Maler\",\n      \"address\": \"II, 262\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"262\",\n      \"origin\": \"Burg Aesche, K. Solothurn\",\n      \"birth_year\": \"1814\",\n      \"household\": \"811 Fr. Anna Maria Ros. Merz a. Menziken.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Joh. Joseph, Gypser u. Maler, a. Burg Aesche, K. Solothurn — II, 262. 811 Fr. Anna Maria Ros. Merz a. Menziken.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Nüesch, a. Balgach, K. St. Gallen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nüesch\",\n      \"forename\": \"Joh. Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"VII, 173 a\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"173 a\",\n      \"origin\": \"Balgach, K. St. Gallen\",\n      \"birth_year\": \"1805\",\n      \"household\": \"7 K. — 830 Elis. — 33 Joh. Christian. — 34 Maria Marg. — 35 A. M. Barb. — 39 Maria Ros. — 40 Sus. — 41 Karl Ludwig.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Joh. Bendicht, Schreiner — VII, 173 a. 7 K. — 830 Elis. — 33 Joh. Christian. — 34 Maria Marg. — 35 A. M. Barb. — 39 Maria Ros. — 40 Sus. — 41 Karl Ludwig.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Nüesch, a. Balgach, K. St. Gallen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nüesch\",\n      \"forename\": \"Karl Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"IV, 333\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"333\",\n      \"origin\": \"Balgach, K. St. Gallen\",\n      \"birth_year\": \"1807\",\n      \"household\": \"815 Fr. — Elis. Schlub a. Wengi. 4 K. — 842 Karl Ed. — 43 Anna Elis. — 45 Jakob Friedrich. — 47 Maria Adele.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 807 Karl Albrecht, Drechsler — IV, 333. 815 Fr. — Elis. Schlub a. Wengi. 4 K. — 842 Karl Ed. — 43 Anna Elis. — 45 Jakob Friedrich. — 47 Maria Adele.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Nüesch, a. Balgach, K. St. Gallen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nüesch\",\n      \"forename\": \"Samuel Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Kaminfeger\",\n      \"address\": \"V, 15\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"15\",\n      \"origin\": \"Balgach, K. St. Gallen\",\n      \"birth_year\": \"1815\",\n      \"household\": \"824 Fr. — Maria Lüthi.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 815 Samuel Johann, Kaminfeger — V, 15. 824 Fr. — Maria Lüthi.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Nüesch, a. Balgach, K. St. Gallen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Böhlen\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Ausschenkerin\",\n      \"address\": \"III, 101\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"101\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"4 Anna Böhlen, geb. Hunziker, Ausschenkerin — III, 101.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Nußbaum\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nußbaum\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Commis u. Associrter der Weinhandlung D. Plattel\",\n      \"address\": \"IV, 188\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"188\",\n      \"origin\": \"Dentschbüren\",\n      \"birth_year\": \"1781\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 781 Joh. Ulrich, Commis u. Associrter der Weinhandlung D. Plattel, a. Dentschbüren — IV, 188.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Nußbaum\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nußbaum\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Säckler\",\n      \"address\": \"II, 31\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"31\",\n      \"origin\": \"Schloßwyl\",\n      \"birth_year\": \"1822\",\n      \"household\": \"815 Fr. — Anna Nüfli a. Langnau. 1 T. — 847 Bertha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"822 Johann, Säckler, a. Schloßwyl — II, 31. 2 815 Fr. — Anna Nüfli a. Langnau. 1 T. — 847 Bertha.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Nußbaum\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nußbaum\",\n      \"forename\": \"Anna Maria\",\n      \"title\": \"des Commis Frau\",\n      \"occupation\": \"Laden-gehülfin\",\n      \"address\": \"III, 26\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"26\",\n      \"origin\": \"Dentschbüren, K. Aargau\",\n      \"birth_year\": \"1807\",\n      \"household\": \"4 K. — 837 Maria Elw. Natal. — 38 Johann Franz Emil. — 41 Maria Emma Julie. — 42 Joh. Alfr. Arthur.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"807 Anna Maria, geb. Friedli, des Commis Frau, Ladengehülfin, a. Dentschbüren, K. Aargau — III, 26. 4 K. — 837 Maria Elw. Natal. — 38 Johann Franz Emil. — 41 Maria Emma Julie. — 42 Joh. Alfr. Arthur.\"\n    },\n    {\n      \"line_from\": 46,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Nußbaumer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nußbaumer\",\n      \"forename\": \"Maria Cleopha Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"IV, 286\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"286\",\n      \"origin\": \"Mümliswyl, K. Solothurn\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Maria Cleopha Barbara, Schneiderin, a. Mümliswyl, K. Solothurn — IV, 286.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "115",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 115 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "2 810 Isaak, Bandhändler, a. Hegenheim — IV, 131."
+   },
+   {
+    "n": 4,
+    "text": "818 Fr. — Pauline Piccard."
+   },
+   {
+    "n": 5,
+    "text": "2 K. — 842 Melanie. — 43 Jules."
+   },
+   {
+    "n": 6,
+    "text": "3 818 Joseph, Associrter der Bandwaarenhandlung der Gebr."
+   },
+   {
+    "n": 7,
+    "text": "Nordemann — a. Hegenheim — IV, 255."
+   },
+   {
+    "n": 8,
+    "text": "4 792 Jakob, Kostgeber u. Grempler, a. Oberhagenthal — II, 53."
+   },
+   {
+    "n": 9,
+    "text": "6 K. — 823 Doucette. — 24 Madelaine. — 26 Eduard."
+   },
+   {
+    "n": 10,
+    "text": "— 28 Rosine. — 30 Felix. — 38 Emilie."
+   },
+   {
+    "n": 11,
+    "text": "5 807 Bernhard, Bandhändler, a. Hegenheim — IV, 124."
+   },
+   {
+    "n": 12,
+    "text": "817 Fr. II Ehe. — Charlotte Hauser."
+   },
+   {
+    "n": 13,
+    "text": "3 T. — Aus I Ehe: 837 Babette. — 39 Karoline. —"
+   },
+   {
+    "n": 14,
+    "text": "Aus II Ehe: 41 Henriette."
+   },
+   {
+    "n": 15,
+    "text": "6 803 Theodor, Associrter der Bandwaarenhandlung d. Gebr."
+   },
+   {
+    "n": 16,
+    "text": "Nordemann, a. Hegenheim — IV, 255."
+   },
+   {
+    "n": 17,
+    "text": "809 Fr. — Marianne Bloch."
+   },
+   {
+    "n": 18,
+    "text": "2 K. — 839 Pauline. — 40 Isidor."
+   },
+   {
+    "n": 19,
+    "text": "Noth."
+   },
+   {
+    "n": 20,
+    "text": "1 814 Joh. Joseph, Gypser u. Maler, a. Burg Aesche, K."
+   },
+   {
+    "n": 21,
+    "text": "Solothurn — II, 262."
+   },
+   {
+    "n": 22,
+    "text": "811 Fr. Anna Maria Ros. Merz a. Menziken."
+   },
+   {
+    "n": 23,
+    "text": "Nüesch, a. Balgach, K. St. Gallen."
+   },
+   {
+    "n": 24,
+    "text": "1 805 Joh. Bendicht, Schreiner — VII, 173 a."
+   },
+   {
+    "n": 25,
+    "text": "7 K. — 830 Elis. — 33 Joh. Christian. — 34 Maria"
+   },
+   {
+    "n": 26,
+    "text": "Marg. — 35 A. M. Barb. — 39 Maria Ros. — 40 Sus."
+   },
+   {
+    "n": 27,
+    "text": "— 41 Karl Ludwig."
+   },
+   {
+    "n": 28,
+    "text": "2 807 Karl Albrecht, Drechsler — IV, 333."
+   },
+   {
+    "n": 29,
+    "text": "815 Fr. — Elis. Schlub a. Wengi."
+   },
+   {
+    "n": 30,
+    "text": "4 K. — 842 Karl Ed. — 43 Anna Elis. — 45 Jakob"
+   },
+   {
+    "n": 31,
+    "text": "Friedrich. — 47 Maria Adele."
+   },
+   {
+    "n": 32,
+    "text": "3 815 Samuel Johann, Kaminfeger — V, 15."
+   },
+   {
+    "n": 33,
+    "text": "824 Fr. — Maria Lüthi."
+   },
+   {
+    "n": 34,
+    "text": "4 Anna Böhlen, geb. Hunziker, Ausschenkerin — III, 101."
+   },
+   {
+    "n": 35,
+    "text": "Nußbaum."
+   },
+   {
+    "n": 36,
+    "text": "1 781 Joh. Ulrich, Commis u. Associrter der Weinhandlung"
+   },
+   {
+    "n": 37,
+    "text": "D. Plattel, a. Dentschbüren — IV, 188."
+   },
+   {
+    "n": 38,
+    "text": "822 Johann, Säckler, a. Schloßwyl — II, 31."
+   },
+   {
+    "n": 39,
+    "text": "2 815 Fr. — Anna Nüfli a. Langnau."
+   },
+   {
+    "n": 40,
+    "text": "1 T. — 847 Bertha."
+   },
+   {
+    "n": 41,
+    "text": "807 Anna Maria, geb. Friedli, des Commis Frau, Laden-"
+   },
+   {
+    "n": 42,
+    "text": "3 gehülfin, a. Dentschbüren, K. Aargau — III, 26."
+   },
+   {
+    "n": 43,
+    "text": "4 K. — 837 Maria Elw. Natal. — 38 Johann Franz"
+   },
+   {
+    "n": 44,
+    "text": "Emil. — 41 Maria Emma Julie. — 42 Joh. Alfr. Arthur."
+   },
+   {
+    "n": 45,
+    "text": "Nußbaumer."
+   },
+   {
+    "n": 46,
+    "text": "1 Maria Cleopha Barbara, Schneiderin, a. Mümliswyl,"
+   },
+   {
+    "n": 47,
+    "text": "K. Solothurn — IV, 286."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Nordemann",
+    "place": "Bern",
+    "surname": "Nordemann",
+    "forename": "Isaak",
+    "title": "",
+    "occupation": "Bandhändler",
+    "address": "IV, 131",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "131",
+    "origin": "Hegenheim",
+    "birth_year": "1810",
+    "household": "818 Fr. — Pauline Piccard. 2 K. — 842 Melanie. — 43 Jules.",
+    "note": "Name aus Vorseite",
+    "text": "2 810 Isaak, Bandhändler, a. Hegenheim — IV, 131. 818 Fr. — Pauline Piccard. 2 K. — 842 Melanie. — 43 Jules."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Nordemann",
+    "place": "Bern",
+    "surname": "Nordemann",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Associrter der Bandwaarenhandlung der Gebr. Nordemann",
+    "address": "IV, 255",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "255",
+    "origin": "Hegenheim",
+    "birth_year": "1818",
+    "household": "",
+    "note": "Name aus Vorseite",
+    "text": "3 818 Joseph, Associrter der Bandwaarenhandlung der Gebr. Nordemann — a. Hegenheim — IV, 255."
+   },
+   {
+    "line_from": 8,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Nordemann",
+    "place": "Bern",
+    "surname": "Nordemann",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Kostgeber u. Grempler",
+    "address": "II, 53",
+    "quarter": "II",
+    "street": "",
+    "house_no": "53",
+    "origin": "Oberhagenthal",
+    "birth_year": "1792",
+    "household": "6 K. — 823 Doucette. — 24 Madelaine. — 26 Eduard. — 28 Rosine. — 30 Felix. — 38 Emilie.",
+    "note": "Name aus Vorseite",
+    "text": "4 792 Jakob, Kostgeber u. Grempler, a. Oberhagenthal — II, 53. 6 K. — 823 Doucette. — 24 Madelaine. — 26 Eduard. — 28 Rosine. — 30 Felix. — 38 Emilie."
+   },
+   {
+    "line_from": 11,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Nordemann",
+    "place": "Bern",
+    "surname": "Nordemann",
+    "forename": "Bernhard",
+    "title": "",
+    "occupation": "Bandhändler",
+    "address": "IV, 124",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "124",
+    "origin": "Hegenheim",
+    "birth_year": "1807",
+    "household": "817 Fr. II Ehe. — Charlotte Hauser. 3 T. — Aus I Ehe: 837 Babette. — 39 Karoline. — Aus II Ehe: 41 Henriette.",
+    "note": "Name aus Vorseite",
+    "text": "5 807 Bernhard, Bandhändler, a. Hegenheim — IV, 124. 817 Fr. II Ehe. — Charlotte Hauser. 3 T. — Aus I Ehe: 837 Babette. — 39 Karoline. — Aus II Ehe: 41 Henriette."
+   },
+   {
+    "line_from": 15,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Nordemann",
+    "place": "Bern",
+    "surname": "Nordemann",
+    "forename": "Theodor",
+    "title": "",
+    "occupation": "Associrter der Bandwaarenhandlung d. Gebr. Nordemann",
+    "address": "IV, 255",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "255",
+    "origin": "Hegenheim",
+    "birth_year": "1803",
+    "household": "809 Fr. — Marianne Bloch. 2 K. — 839 Pauline. — 40 Isidor.",
+    "note": "Name aus Vorseite",
+    "text": "6 803 Theodor, Associrter der Bandwaarenhandlung d. Gebr. Nordemann, a. Hegenheim — IV, 255. 809 Fr. — Marianne Bloch. 2 K. — 839 Pauline. — 40 Isidor."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Noth",
+    "place": "Bern",
+    "surname": "Noth",
+    "forename": "Joh. Joseph",
+    "title": "",
+    "occupation": "Gypser u. Maler",
+    "address": "II, 262",
+    "quarter": "II",
+    "street": "",
+    "house_no": "262",
+    "origin": "Burg Aesche, K. Solothurn",
+    "birth_year": "1814",
+    "household": "811 Fr. Anna Maria Ros. Merz a. Menziken.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Joh. Joseph, Gypser u. Maler, a. Burg Aesche, K. Solothurn — II, 262. 811 Fr. Anna Maria Ros. Merz a. Menziken."
+   },
+   {
+    "line_from": 24,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Nüesch, a. Balgach, K. St. Gallen",
+    "place": "Bern",
+    "surname": "Nüesch",
+    "forename": "Joh. Bendicht",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "VII, 173 a",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "173 a",
+    "origin": "Balgach, K. St. Gallen",
+    "birth_year": "1805",
+    "household": "7 K. — 830 Elis. — 33 Joh. Christian. — 34 Maria Marg. — 35 A. M. Barb. — 39 Maria Ros. — 40 Sus. — 41 Karl Ludwig.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Joh. Bendicht, Schreiner — VII, 173 a. 7 K. — 830 Elis. — 33 Joh. Christian. — 34 Maria Marg. — 35 A. M. Barb. — 39 Maria Ros. — 40 Sus. — 41 Karl Ludwig."
+   },
+   {
+    "line_from": 28,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Nüesch, a. Balgach, K. St. Gallen",
+    "place": "Bern",
+    "surname": "Nüesch",
+    "forename": "Karl Albrecht",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "IV, 333",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "333",
+    "origin": "Balgach, K. St. Gallen",
+    "birth_year": "1807",
+    "household": "815 Fr. — Elis. Schlub a. Wengi. 4 K. — 842 Karl Ed. — 43 Anna Elis. — 45 Jakob Friedrich. — 47 Maria Adele.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 807 Karl Albrecht, Drechsler — IV, 333. 815 Fr. — Elis. Schlub a. Wengi. 4 K. — 842 Karl Ed. — 43 Anna Elis. — 45 Jakob Friedrich. — 47 Maria Adele."
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Nüesch, a. Balgach, K. St. Gallen",
+    "place": "Bern",
+    "surname": "Nüesch",
+    "forename": "Samuel Johann",
+    "title": "",
+    "occupation": "Kaminfeger",
+    "address": "V, 15",
+    "quarter": "V",
+    "street": "",
+    "house_no": "15",
+    "origin": "Balgach, K. St. Gallen",
+    "birth_year": "1815",
+    "household": "824 Fr. — Maria Lüthi.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 815 Samuel Johann, Kaminfeger — V, 15. 824 Fr. — Maria Lüthi."
+   },
+   {
+    "line_from": 34,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Nüesch, a. Balgach, K. St. Gallen",
+    "place": "Bern",
+    "surname": "Böhlen",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Ausschenkerin",
+    "address": "III, 101",
+    "quarter": "III",
+    "street": "",
+    "house_no": "101",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "4 Anna Böhlen, geb. Hunziker, Ausschenkerin — III, 101."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Nußbaum",
+    "place": "Bern",
+    "surname": "Nußbaum",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "Commis u. Associrter der Weinhandlung D. Plattel",
+    "address": "IV, 188",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "188",
+    "origin": "Dentschbüren",
+    "birth_year": "1781",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 781 Joh. Ulrich, Commis u. Associrter der Weinhandlung D. Plattel, a. Dentschbüren — IV, 188."
+   },
+   {
+    "line_from": 38,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Nußbaum",
+    "place": "Bern",
+    "surname": "Nußbaum",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Säckler",
+    "address": "II, 31",
+    "quarter": "II",
+    "street": "",
+    "house_no": "31",
+    "origin": "Schloßwyl",
+    "birth_year": "1822",
+    "household": "815 Fr. — Anna Nüfli a. Langnau. 1 T. — 847 Bertha.",
+    "note": "Name aus Zwischentitel",
+    "text": "822 Johann, Säckler, a. Schloßwyl — II, 31. 2 815 Fr. — Anna Nüfli a. Langnau. 1 T. — 847 Bertha."
+   },
+   {
+    "line_from": 41,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Nußbaum",
+    "place": "Bern",
+    "surname": "Nußbaum",
+    "forename": "Anna Maria",
+    "title": "des Commis Frau",
+    "occupation": "Laden-gehülfin",
+    "address": "III, 26",
+    "quarter": "III",
+    "street": "",
+    "house_no": "26",
+    "origin": "Dentschbüren, K. Aargau",
+    "birth_year": "1807",
+    "household": "4 K. — 837 Maria Elw. Natal. — 38 Johann Franz Emil. — 41 Maria Emma Julie. — 42 Joh. Alfr. Arthur.",
+    "note": "Name aus Zwischentitel",
+    "text": "807 Anna Maria, geb. Friedli, des Commis Frau, Ladengehülfin, a. Dentschbüren, K. Aargau — III, 26. 4 K. — 837 Maria Elw. Natal. — 38 Johann Franz Emil. — 41 Maria Emma Julie. — 42 Joh. Alfr. Arthur."
+   },
+   {
+    "line_from": 46,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Nußbaumer",
+    "place": "Bern",
+    "surname": "Nußbaumer",
+    "forename": "Maria Cleopha Barbara",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "IV, 286",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "286",
+    "origin": "Mümliswyl, K. Solothurn",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Maria Cleopha Barbara, Schneiderin, a. Mümliswyl, K. Solothurn — IV, 286."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:55:03+01:00",
+ "last_error": null
+}

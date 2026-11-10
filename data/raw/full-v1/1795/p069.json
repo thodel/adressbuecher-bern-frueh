@@ -1,0 +1,293 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 69,
+ "section": "fortsetzung",
+ "started": "2026-11-10T21:11:13+01:00",
+ "thinking": "low",
+ "seconds": 13.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2297,
+  "output": 2062,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"69\",\n  \"running_head\": \"Groß Höchstetten.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Groß Höchstetten. 69\"},\n    {\"n\": 2, \"text\": \"Groß Höchstetten.\"},\n    {\"n\": 3, \"text\": \"Herr\"},\n    {\"n\": 4, \"text\": \"Niklaus Augspurger fabriziert weiße und\"},\n    {\"n\": 5, \"text\": \"graue Seife, und verkauft solche ins Große und\"},\n    {\"n\": 6, \"text\": \"ins Kleine.\"},\n    {\"n\": 7, \"text\": \"Kirchberg.\"},\n    {\"n\": 8, \"text\": \"Tschanz und Comp. zu Kirchberg (vier Stund\"},\n    {\"n\": 9, \"text\": \"von Bern) haben eine wohleingerichtete Indienne-\"},\n    {\"n\": 10, \"text\": \"Fabrik, und beschäftigen viele Personen.\"},\n    {\"n\": 11, \"text\": \"Langnau.\"},\n    {\"n\": 12, \"text\": \"Hans Ulrich Joot, handelt mit Leinwand\"},\n    {\"n\": 13, \"text\": \"und Käs en gros.\"},\n    {\"n\": 14, \"text\": \"Christ. Probst, fabriziert Leinwand, Scheid-\"},\n    {\"n\": 15, \"text\": \"wasser, und dergleichen; handelt auch mit Käs\"},\n    {\"n\": 16, \"text\": \"en gros.\"},\n    {\"n\": 17, \"text\": \"Jakob Neuenschwan-\"},\n    {\"n\": 18, \"text\": \"der, älterer.\"},\n    {\"n\": 19, \"text\": \"Jakob Neuenschwan- Chimisten und Scheid-\"},\n    {\"n\": 20, \"text\": \"der, jüngerer. wasserbrenner.\"},\n    {\"n\": 21, \"text\": \"Hans Ulrich Neuen-\"},\n    {\"n\": 22, \"text\": \"schwander.\"},\n    {\"n\": 23, \"text\": \"Joh. Lehmann, Hutmacher en gros und\"},\n    {\"n\": 24, \"text\": \"en détail.\"},\n    {\"n\": 25, \"text\": \"E 3\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Groß Höchstetten.\",\n      \"place\": \"Groß Höchstetten\",\n      \"surname\": \"Augspurger\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"Herr\",\n      \"occupation\": \"fabriziert weiße und graue Seife, und verkauft solche ins Große und ins Kleine\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Niklaus Augspurger fabriziert weiße und graue Seife, und verkauft solche ins Große und ins Kleine.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 10,\n      \"kind\": \"firma\",\n      \"heading\": \"Kirchberg.\",\n      \"place\": \"Kirchberg\",\n      \"surname\": \"Tschanz\",\n      \"forename\": \"\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"Indienne-Fabrik\",\n      \"address\": \"zu Kirchberg (vier Stund von Bern)\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tschanz und Comp. zu Kirchberg (vier Stund von Bern) haben eine wohleingerichtete Indienne-Fabrik, und beschäftigen viele Personen.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau.\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Joot\",\n      \"forename\": \"Hans Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"handelt mit Leinwand und Käs en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hans Ulrich Joot, handelt mit Leinwand und Käs en gros.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau.\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Probst\",\n      \"forename\": \"Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"fabriziert Leinwand, Scheidwasser, und dergleichen; handelt auch mit Käs en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Christ. Probst, fabriziert Leinwand, Scheidwasser, und dergleichen; handelt auch mit Käs en gros.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau.\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Neuenschwander\",\n      \"forename\": \"Jakob\",\n      \"title\": \"älterer\",\n      \"occupation\": \"Chimisten und Scheidwasserbrenner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Klammer mit Jakob Neuenschwander, jüngerer und Hans Ulrich Neuenschwander\",\n      \"text\": \"Jakob Neuenschwander, älterer. Chimisten und Scheidwasserbrenner.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau.\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Neuenschwander\",\n      \"forename\": \"Jakob\",\n      \"title\": \"jüngerer\",\n      \"occupation\": \"Chimisten und Scheidwasserbrenner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Klammer mit Jakob Neuenschwander, älterer und Hans Ulrich Neuenschwander\",\n      \"text\": \"Jakob Neuenschwander, jüngerer. Chimisten und Scheidwasserbrenner.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau.\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Neuenschwander\",\n      \"forename\": \"Hans Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Chimisten und Scheidwasserbrenner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Klammer mit Jakob Neuenschwander, älterer und Jakob Neuenschwander, jüngerer\",\n      \"text\": \"Hans Ulrich Neuenschwander. Chimisten und Scheidwasserbrenner.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau.\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Hutmacher en gros und en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Lehmann, Hutmacher en gros und en détail.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "69",
+  "running_head": "Groß Höchstetten.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Groß Höchstetten. 69"
+   },
+   {
+    "n": 2,
+    "text": "Groß Höchstetten."
+   },
+   {
+    "n": 3,
+    "text": "Herr"
+   },
+   {
+    "n": 4,
+    "text": "Niklaus Augspurger fabriziert weiße und"
+   },
+   {
+    "n": 5,
+    "text": "graue Seife, und verkauft solche ins Große und"
+   },
+   {
+    "n": 6,
+    "text": "ins Kleine."
+   },
+   {
+    "n": 7,
+    "text": "Kirchberg."
+   },
+   {
+    "n": 8,
+    "text": "Tschanz und Comp. zu Kirchberg (vier Stund"
+   },
+   {
+    "n": 9,
+    "text": "von Bern) haben eine wohleingerichtete Indienne-"
+   },
+   {
+    "n": 10,
+    "text": "Fabrik, und beschäftigen viele Personen."
+   },
+   {
+    "n": 11,
+    "text": "Langnau."
+   },
+   {
+    "n": 12,
+    "text": "Hans Ulrich Joot, handelt mit Leinwand"
+   },
+   {
+    "n": 13,
+    "text": "und Käs en gros."
+   },
+   {
+    "n": 14,
+    "text": "Christ. Probst, fabriziert Leinwand, Scheid-"
+   },
+   {
+    "n": 15,
+    "text": "wasser, und dergleichen; handelt auch mit Käs"
+   },
+   {
+    "n": 16,
+    "text": "en gros."
+   },
+   {
+    "n": 17,
+    "text": "Jakob Neuenschwan-"
+   },
+   {
+    "n": 18,
+    "text": "der, älterer."
+   },
+   {
+    "n": 19,
+    "text": "Jakob Neuenschwan- Chimisten und Scheid-"
+   },
+   {
+    "n": 20,
+    "text": "der, jüngerer. wasserbrenner."
+   },
+   {
+    "n": 21,
+    "text": "Hans Ulrich Neuen-"
+   },
+   {
+    "n": 22,
+    "text": "schwander."
+   },
+   {
+    "n": 23,
+    "text": "Joh. Lehmann, Hutmacher en gros und"
+   },
+   {
+    "n": 24,
+    "text": "en détail."
+   },
+   {
+    "n": 25,
+    "text": "E 3"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Groß Höchstetten.",
+    "place": "Groß Höchstetten",
+    "surname": "Augspurger",
+    "forename": "Niklaus",
+    "title": "Herr",
+    "occupation": "fabriziert weiße und graue Seife, und verkauft solche ins Große und ins Kleine",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Niklaus Augspurger fabriziert weiße und graue Seife, und verkauft solche ins Große und ins Kleine."
+   },
+   {
+    "line_from": 8,
+    "line_to": 10,
+    "kind": "firma",
+    "heading": "Kirchberg.",
+    "place": "Kirchberg",
+    "surname": "Tschanz",
+    "forename": "",
+    "title": "und Comp.",
+    "occupation": "Indienne-Fabrik",
+    "address": "zu Kirchberg (vier Stund von Bern)",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tschanz und Comp. zu Kirchberg (vier Stund von Bern) haben eine wohleingerichtete Indienne-Fabrik, und beschäftigen viele Personen."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Langnau.",
+    "place": "Langnau",
+    "surname": "Joot",
+    "forename": "Hans Ulrich",
+    "title": "",
+    "occupation": "handelt mit Leinwand und Käs en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hans Ulrich Joot, handelt mit Leinwand und Käs en gros."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Langnau.",
+    "place": "Langnau",
+    "surname": "Probst",
+    "forename": "Christ.",
+    "title": "",
+    "occupation": "fabriziert Leinwand, Scheidwasser, und dergleichen; handelt auch mit Käs en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Christ. Probst, fabriziert Leinwand, Scheidwasser, und dergleichen; handelt auch mit Käs en gros."
+   },
+   {
+    "line_from": 17,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Langnau.",
+    "place": "Langnau",
+    "surname": "Neuenschwander",
+    "forename": "Jakob",
+    "title": "älterer",
+    "occupation": "Chimisten und Scheidwasserbrenner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Klammer mit Jakob Neuenschwander, jüngerer und Hans Ulrich Neuenschwander",
+    "text": "Jakob Neuenschwander, älterer. Chimisten und Scheidwasserbrenner."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Langnau.",
+    "place": "Langnau",
+    "surname": "Neuenschwander",
+    "forename": "Jakob",
+    "title": "jüngerer",
+    "occupation": "Chimisten und Scheidwasserbrenner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Klammer mit Jakob Neuenschwander, älterer und Hans Ulrich Neuenschwander",
+    "text": "Jakob Neuenschwander, jüngerer. Chimisten und Scheidwasserbrenner."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Langnau.",
+    "place": "Langnau",
+    "surname": "Neuenschwander",
+    "forename": "Hans Ulrich",
+    "title": "",
+    "occupation": "Chimisten und Scheidwasserbrenner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Klammer mit Jakob Neuenschwander, älterer und Jakob Neuenschwander, jüngerer",
+    "text": "Hans Ulrich Neuenschwander. Chimisten und Scheidwasserbrenner."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Langnau.",
+    "place": "Langnau",
+    "surname": "Lehmann",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Hutmacher en gros und en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Lehmann, Hutmacher en gros und en détail."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:11:26+01:00",
+ "last_error": null
+}

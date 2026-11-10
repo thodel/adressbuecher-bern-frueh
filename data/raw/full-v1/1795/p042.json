@@ -1,0 +1,241 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 42,
+ "section": "handbuch",
+ "started": "2026-11-10T21:10:12+01:00",
+ "thinking": "low",
+ "seconds": 11.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 1483,
+  "thoughts": null
+ },
+ "response_text": "{\"printed_page\": \"40\", \"running_head\": \"Worb.\", \"lines\": [{\"n\": 1, \"text\": \"40 Worb.\"}, {\"n\": 2, \"text\": \"Worb.\"}, {\"n\": 3, \"text\": \"Herr\"}, {\"n\": 4, \"text\": \"Christian Bürky, Uhrenmacher, sowohl in höl-\"}, {\"n\": 5, \"text\": \"zernen als meßingnen Repetier-Uhren.\"}, {\"n\": 6, \"text\": \"Niclaus Lederach zu Rüed bey Worb, Schrei-\"}, {\"n\": 7, \"text\": \"ner, Orgelmacher und Mahler.\"}, {\"n\": 8, \"text\": \"Gebrüder Röthlisperger, fabricieren alle\"}, {\"n\": 9, \"text\": \"Sorten glatte und gebildete hänfene und flächsene\"}, {\"n\": 10, \"text\": \"Tücher, Servietten und Zwilche, desgleichen Kü-\"}, {\"n\": 11, \"text\": \"belizeug, hänfenes und flächsenes Garn, rohes, ge-\"}, {\"n\": 12, \"text\": \"bauchtes und gebleichtes, alles von hiesiger Lan-\"}, {\"n\": 13, \"text\": \"desart.\"}, {\"n\": 14, \"text\": \"Benedikt Siegfrid in Schluchbühl ohnweit\"}, {\"n\": 15, \"text\": \"Worb, fabriciert sehr feines Guttuch.\"}, {\"n\": 16, \"text\": \"Worblaufen.\"}, {\"n\": 17, \"text\": \"Gabriel Grog, hat einen wohleingerichteten Ei-\"}, {\"n\": 18, \"text\": \"senhammer, wo alle Hämmer durch das Wasser ge-\"}, {\"n\": 19, \"text\": \"trieben werden.\"}, {\"n\": 20, \"text\": \"Zofingen.\"}, {\"n\": 21, \"text\": \"Apotheken und Droguerie-Handlungen en détail:\"}, {\"n\": 22, \"text\": \"Rud. Emanuel Seelmatter, Med. Doktor.\"}], \"entries\": [{\"line_from\": 3, \"line_to\": 5, \"kind\": \"person\", \"heading\": \"Worb.\", \"place\": \"Worb\", \"surname\": \"Bürky\", \"forename\": \"Christian\", \"title\": \"Herr\", \"occupation\": \"Uhrenmacher, sowohl in hölzernen als meßingnen Repetier-Uhren\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Herr Christian Bürky, Uhrenmacher, sowohl in hölzernen als meßingnen Repetier-Uhren.\"}, {\"line_from\": 6, \"line_to\": 7, \"kind\": \"person\", \"heading\": \"Worb.\", \"place\": \"Worb\", \"surname\": \"Lederach\", \"forename\": \"Niclaus\", \"title\": \"\", \"occupation\": \"Schreiner, Orgelmacher und Mahler\", \"address\": \"zu Rüed bey Worb\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Niclaus Lederach zu Rüed bey Worb, Schreiner, Orgelmacher und Mahler.\"}, {\"line_from\": 8, \"line_to\": 13, \"kind\": \"firma\", \"heading\": \"Worb.\", \"place\": \"Worb\", \"surname\": \"Röthlisperger\", \"forename\": \"\", \"title\": \"Gebrüder\", \"occupation\": \"fabricieren alle Sorten glatte und gebildete hänfene und flächsene Tücher, Servietten und Zwilche, desgleichen Kübelizeug, hänfenes und flächsenes Garn, rohes, gebauchtes und gebleichtes, alles von hiesiger Landesart\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Gebrüder Röthlisperger, fabricieren alle Sorten glatte und gebildete hänfene und flächsene Tücher, Servietten und Zwilche, desgleichen Kübelizeug, hänfenes und flächsenes Garn, rohes, gebauchtes und gebleichtes, alles von hiesiger Landesart.\"}, {\"line_from\": 14, \"line_to\": 15, \"kind\": \"person\", \"heading\": \"Worb.\", \"place\": \"Worb\", \"surname\": \"Siegfrid\", \"forename\": \"Benedikt\", \"title\": \"\", \"occupation\": \"fabriciert sehr feines Guttuch\", \"address\": \"in Schluchbühl ohnweit Worb\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Benedikt Siegfrid in Schluchbühl ohnweit Worb, fabriciert sehr feines Guttuch.\"}, {\"line_from\": 17, \"line_to\": 19, \"kind\": \"person\", \"heading\": \"Worblaufen.\", \"place\": \"Worblaufen\", \"surname\": \"Grog\", \"forename\": \"Gabriel\", \"title\": \"\", \"occupation\": \"hat einen wohleingerichteten Eisenhammer, wo alle Hämmer durch das Wasser getrieben werden\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Gabriel Grog, hat einen wohleingerichteten Eisenhammer, wo alle Hämmer durch das Wasser getrieben werden.\"}, {\"line_from\": 22, \"line_to\": 22, \"kind\": \"person\", \"heading\": \"Zofingen. Apotheken und Droguerie-Handlungen en détail\", \"place\": \"Zofingen\", \"surname\": \"Seelmatter\", \"forename\": \"Rud. Emanuel\", \"title\": \"Med. Doktor\", \"occupation\": \"\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Rud. Emanuel Seelmatter, Med. Doktor.\"}], \"first_entry_continues\": false, \"last_entry_continues\": false, \"complete\": true}",
+ "parsed": {
+  "printed_page": "40",
+  "running_head": "Worb.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "40 Worb."
+   },
+   {
+    "n": 2,
+    "text": "Worb."
+   },
+   {
+    "n": 3,
+    "text": "Herr"
+   },
+   {
+    "n": 4,
+    "text": "Christian Bürky, Uhrenmacher, sowohl in höl-"
+   },
+   {
+    "n": 5,
+    "text": "zernen als meßingnen Repetier-Uhren."
+   },
+   {
+    "n": 6,
+    "text": "Niclaus Lederach zu Rüed bey Worb, Schrei-"
+   },
+   {
+    "n": 7,
+    "text": "ner, Orgelmacher und Mahler."
+   },
+   {
+    "n": 8,
+    "text": "Gebrüder Röthlisperger, fabricieren alle"
+   },
+   {
+    "n": 9,
+    "text": "Sorten glatte und gebildete hänfene und flächsene"
+   },
+   {
+    "n": 10,
+    "text": "Tücher, Servietten und Zwilche, desgleichen Kü-"
+   },
+   {
+    "n": 11,
+    "text": "belizeug, hänfenes und flächsenes Garn, rohes, ge-"
+   },
+   {
+    "n": 12,
+    "text": "bauchtes und gebleichtes, alles von hiesiger Lan-"
+   },
+   {
+    "n": 13,
+    "text": "desart."
+   },
+   {
+    "n": 14,
+    "text": "Benedikt Siegfrid in Schluchbühl ohnweit"
+   },
+   {
+    "n": 15,
+    "text": "Worb, fabriciert sehr feines Guttuch."
+   },
+   {
+    "n": 16,
+    "text": "Worblaufen."
+   },
+   {
+    "n": 17,
+    "text": "Gabriel Grog, hat einen wohleingerichteten Ei-"
+   },
+   {
+    "n": 18,
+    "text": "senhammer, wo alle Hämmer durch das Wasser ge-"
+   },
+   {
+    "n": 19,
+    "text": "trieben werden."
+   },
+   {
+    "n": 20,
+    "text": "Zofingen."
+   },
+   {
+    "n": 21,
+    "text": "Apotheken und Droguerie-Handlungen en détail:"
+   },
+   {
+    "n": 22,
+    "text": "Rud. Emanuel Seelmatter, Med. Doktor."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Worb.",
+    "place": "Worb",
+    "surname": "Bürky",
+    "forename": "Christian",
+    "title": "Herr",
+    "occupation": "Uhrenmacher, sowohl in hölzernen als meßingnen Repetier-Uhren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Christian Bürky, Uhrenmacher, sowohl in hölzernen als meßingnen Repetier-Uhren."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Worb.",
+    "place": "Worb",
+    "surname": "Lederach",
+    "forename": "Niclaus",
+    "title": "",
+    "occupation": "Schreiner, Orgelmacher und Mahler",
+    "address": "zu Rüed bey Worb",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Niclaus Lederach zu Rüed bey Worb, Schreiner, Orgelmacher und Mahler."
+   },
+   {
+    "line_from": 8,
+    "line_to": 13,
+    "kind": "firma",
+    "heading": "Worb.",
+    "place": "Worb",
+    "surname": "Röthlisperger",
+    "forename": "",
+    "title": "Gebrüder",
+    "occupation": "fabricieren alle Sorten glatte und gebildete hänfene und flächsene Tücher, Servietten und Zwilche, desgleichen Kübelizeug, hänfenes und flächsenes Garn, rohes, gebauchtes und gebleichtes, alles von hiesiger Landesart",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gebrüder Röthlisperger, fabricieren alle Sorten glatte und gebildete hänfene und flächsene Tücher, Servietten und Zwilche, desgleichen Kübelizeug, hänfenes und flächsenes Garn, rohes, gebauchtes und gebleichtes, alles von hiesiger Landesart."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Worb.",
+    "place": "Worb",
+    "surname": "Siegfrid",
+    "forename": "Benedikt",
+    "title": "",
+    "occupation": "fabriciert sehr feines Guttuch",
+    "address": "in Schluchbühl ohnweit Worb",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Benedikt Siegfrid in Schluchbühl ohnweit Worb, fabriciert sehr feines Guttuch."
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Worblaufen.",
+    "place": "Worblaufen",
+    "surname": "Grog",
+    "forename": "Gabriel",
+    "title": "",
+    "occupation": "hat einen wohleingerichteten Eisenhammer, wo alle Hämmer durch das Wasser getrieben werden",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gabriel Grog, hat einen wohleingerichteten Eisenhammer, wo alle Hämmer durch das Wasser getrieben werden."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Zofingen. Apotheken und Droguerie-Handlungen en détail",
+    "place": "Zofingen",
+    "surname": "Seelmatter",
+    "forename": "Rud. Emanuel",
+    "title": "Med. Doktor",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rud. Emanuel Seelmatter, Med. Doktor."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:10:24+01:00",
+ "last_error": null
+}

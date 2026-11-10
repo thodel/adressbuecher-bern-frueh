@@ -1,0 +1,429 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 136,
+ "section": "einsassen",
+ "started": "2026-11-10T21:55:03+01:00",
+ "thinking": "low",
+ "seconds": 24.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4006,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"123\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 123 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Preisig.\"},\n    {\"n\": 4, \"text\": \"1 814 Johann, Zuckerbäcker, a. Schwellenbrunn, K. Appen-\"},\n    {\"n\": 5, \"text\": \"zell — IV, 249.\"},\n    {\"n\": 6, \"text\": \"828 Fr. — Kath. Maurer a. Vechigen.\"},\n    {\"n\": 7, \"text\": \"1 K. — 843 Karl Emil.\"},\n    {\"n\": 8, \"text\": \"Preschle.\"},\n    {\"n\": 9, \"text\": \"1 817 Wilhelm, Schlosser, a. Kippenheim in Baden — II, 38.\"},\n    {\"n\": 10, \"text\": \"Prisi.\"},\n    {\"n\": 11, \"text\": \"1 809 Anna Barbara, geb. Leutwyler, Wochenmarktkrämerin,\"},\n    {\"n\": 12, \"text\": \"a. Uebischi — IV, 25.\"},\n    {\"n\": 13, \"text\": \"3 K. — 822 Karl Friedrich. — 36 Nikl. Friedr. Wilh.\"},\n    {\"n\": 14, \"text\": \"— 44 Maria Rosine.\"},\n    {\"n\": 15, \"text\": \"Probst.\"},\n    {\"n\": 16, \"text\": \"1 Elis., geb. Nubeli, Ausschenkerin, a. Tschugg — II, 17.\"},\n    {\"n\": 17, \"text\": \"Brunet a. Vivis.\"},\n    {\"n\": 18, \"text\": \"1 801 Franz, gew. Pfarrer, B. v. 2 — V, 124.\"},\n    {\"n\": 19, \"text\": \"2 806 Adele Marg. Louise, privat., Schw. v. 1 — 180.\"},\n    {\"n\": 20, \"text\": \"Pugin.\"},\n    {\"n\": 21, \"text\": \"1 785 Anton François, Vergolder, a. Paris — II, 158.\"},\n    {\"n\": 22, \"text\": \"803 Fr. — Marie Sophie Fallot a. Montbeillard.\"},\n    {\"n\": 23, \"text\": \"Pulfer a. Rüggisberg.\"},\n    {\"n\": 24, \"text\": \"1 802 David Alex., Leihbibliothekar u. Papierhändler — III, 8.\"},\n    {\"n\": 25, \"text\": \"798 Fr. — Joh. Elis. Wyß a. Biglen.\"},\n    {\"n\": 26, \"text\": \"2 T. — 829 Sus. Elis. Maria. — 30 Marg. Rosine.\"},\n    {\"n\": 27, \"text\": \"2 807 Joh. Ludwig, Hausbesitzer u. Lebküchler — I, 194.\"},\n    {\"n\": 28, \"text\": \"806 Fr. — Kath. Wittwer a. Oberlangeneck.\"},\n    {\"n\": 29, \"text\": \"1 T. — 827 Elisabetha.\"},\n    {\"n\": 30, \"text\": \"Puppelin.\"},\n    {\"n\": 31, \"text\": \"1 772 Kath., geb. Fruting, a. Regensburg, privat. — II, 268.\"},\n    {\"n\": 32, \"text\": \"Pursch.\"},\n    {\"n\": 33, \"text\": \"1 795 Joh. Jos. August, Lehrer der Mathematik und Musik,\"},\n    {\"n\": 34, \"text\": \"a. Malapalud, K. Waadt — II, 139.\"},\n    {\"n\": 35, \"text\": \"de Quervain a. Burgdorf.\"},\n    {\"n\": 36, \"text\": \"1 795 Ludwig, Handelsmann mit Baumwollenwaaren, B. v. 2\"},\n    {\"n\": 37, \"text\": \"— IV, 209.\"},\n    {\"n\": 38, \"text\": \"798 Fr. — Julie Dürig.\"},\n    {\"n\": 39, \"text\": \"2 K. — 33 Maria Julie. — 35 Rud. Alfred.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Preisig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Preisig\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Zuckerbäcker\",\n      \"address\": \"IV, 249\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"249\",\n      \"origin\": \"Schwellenbrunn, K. Appenzell\",\n      \"birth_year\": \"1814\",\n      \"household\": \"828 Fr. — Kath. Maurer a. Vechigen.; 1 K. — 843 Karl Emil.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Johann, Zuckerbäcker, a. Schwellenbrunn, K. Appenzell — IV, 249. 828 Fr. — Kath. Maurer a. Vechigen. 1 K. — 843 Karl Emil.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Preschle.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Preschle\",\n      \"forename\": \"Wilhelm\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"II, 38\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"38\",\n      \"origin\": \"Kippenheim in Baden\",\n      \"birth_year\": \"1817\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 817 Wilhelm, Schlosser, a. Kippenheim in Baden — II, 38.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Prisi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Prisi\",\n      \"forename\": \"Anna Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Wochenmarktkrämerin\",\n      \"address\": \"IV, 25\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"25\",\n      \"origin\": \"Uebischi\",\n      \"birth_year\": \"1809\",\n      \"household\": \"3 K. — 822 Karl Friedrich. — 36 Nikl. Friedr. Wilh. — 44 Maria Rosine.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Anna Barbara, geb. Leutwyler, Wochenmarktkrämerin, a. Uebischi — IV, 25. 3 K. — 822 Karl Friedrich. — 36 Nikl. Friedr. Wilh. — 44 Maria Rosine.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Probst.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Probst\",\n      \"forename\": \"Elis.\",\n      \"title\": \"\",\n      \"occupation\": \"Ausschenkerin\",\n      \"address\": \"II, 17\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"17\",\n      \"origin\": \"Tschugg\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Elis., geb. Nubeli, Ausschenkerin, a. Tschugg — II, 17.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Brunet a. Vivis.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunet\",\n      \"forename\": \"Franz\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Pfarrer\",\n      \"address\": \"V, 124\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"124\",\n      \"origin\": \"Vivis\",\n      \"birth_year\": \"1801\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel; B. v. 2\",\n      \"text\": \"1 801 Franz, gew. Pfarrer, B. v. 2 — V, 124.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Brunet a. Vivis.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunet\",\n      \"forename\": \"Adele Marg. Louise\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"180\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"180\",\n      \"origin\": \"Vivis\",\n      \"birth_year\": \"1806\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel; Schw. v. 1\",\n      \"text\": \"2 806 Adele Marg. Louise, privat., Schw. v. 1 — 180.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Pugin.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pugin\",\n      \"forename\": \"Anton François\",\n      \"title\": \"\",\n      \"occupation\": \"Vergolder\",\n      \"address\": \"II, 158\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"158\",\n      \"origin\": \"Paris\",\n      \"birth_year\": \"1785\",\n      \"household\": \"803 Fr. — Marie Sophie Fallot a. Montbeillard.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 785 Anton François, Vergolder, a. Paris — II, 158. 803 Fr. — Marie Sophie Fallot a. Montbeillard.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Pulfer a. Rüggisberg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pulfer\",\n      \"forename\": \"David Alex.\",\n      \"title\": \"\",\n      \"occupation\": \"Leihbibliothekar u. Papierhändler\",\n      \"address\": \"III, 8\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"8\",\n      \"origin\": \"Rüggisberg\",\n      \"birth_year\": \"1802\",\n      \"household\": \"798 Fr. — Joh. Elis. Wyß a. Biglen.; 2 T. — 829 Sus. Elis. Maria. — 30 Marg. Rosine.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 802 David Alex., Leihbibliothekar u. Papierhändler — III, 8. 798 Fr. — Joh. Elis. Wyß a. Biglen. 2 T. — 829 Sus. Elis. Maria. — 30 Marg. Rosine.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Pulfer a. Rüggisberg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pulfer\",\n      \"forename\": \"Joh. Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Hausbesitzer u. Lebküchler\",\n      \"address\": \"I, 194\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"194\",\n      \"origin\": \"Rüggisberg\",\n      \"birth_year\": \"1807\",\n      \"household\": \"806 Fr. — Kath. Wittwer a. Oberlangeneck.; 1 T. — 827 Elisabetha.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"2 807 Joh. Ludwig, Hausbesitzer u. Lebküchler — I, 194. 806 Fr. — Kath. Wittwer a. Oberlangeneck. 1 T. — 827 Elisabetha.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Puppelin.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Puppelin\",\n      \"forename\": \"Kath.\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"II, 268\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"268\",\n      \"origin\": \"Regensburg\",\n      \"birth_year\": \"1772\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 772 Kath., geb. Fruting, a. Regensburg, privat. — II, 268.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Pursch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pursch\",\n      \"forename\": \"Joh. Jos. August\",\n      \"title\": \"\",\n      \"occupation\": \"Lehrer der Mathematik und Musik\",\n      \"address\": \"II, 139\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"139\",\n      \"origin\": \"Malapalud, K. Waadt\",\n      \"birth_year\": \"1795\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 795 Joh. Jos. August, Lehrer der Mathematik und Musik, a. Malapalud, K. Waadt — II, 139.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"de Quervain a. Burgdorf.\",\n      \"place\": \"Bern\",\n      \"surname\": \"de Quervain\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann mit Baumwollenwaaren\",\n      \"address\": \"IV, 209\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"209\",\n      \"origin\": \"Burgdorf\",\n      \"birth_year\": \"1795\",\n      \"household\": \"798 Fr. — Julie Dürig.; 2 K. — 33 Maria Julie. — 35 Rud. Alfred.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel; B. v. 2\",\n      \"text\": \"1 795 Ludwig, Handelsmann mit Baumwollenwaaren, B. v. 2 — IV, 209. 798 Fr. — Julie Dürig. 2 K. — 33 Maria Julie. — 35 Rud. Alfred.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "123",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 123 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Preisig."
+   },
+   {
+    "n": 4,
+    "text": "1 814 Johann, Zuckerbäcker, a. Schwellenbrunn, K. Appen-"
+   },
+   {
+    "n": 5,
+    "text": "zell — IV, 249."
+   },
+   {
+    "n": 6,
+    "text": "828 Fr. — Kath. Maurer a. Vechigen."
+   },
+   {
+    "n": 7,
+    "text": "1 K. — 843 Karl Emil."
+   },
+   {
+    "n": 8,
+    "text": "Preschle."
+   },
+   {
+    "n": 9,
+    "text": "1 817 Wilhelm, Schlosser, a. Kippenheim in Baden — II, 38."
+   },
+   {
+    "n": 10,
+    "text": "Prisi."
+   },
+   {
+    "n": 11,
+    "text": "1 809 Anna Barbara, geb. Leutwyler, Wochenmarktkrämerin,"
+   },
+   {
+    "n": 12,
+    "text": "a. Uebischi — IV, 25."
+   },
+   {
+    "n": 13,
+    "text": "3 K. — 822 Karl Friedrich. — 36 Nikl. Friedr. Wilh."
+   },
+   {
+    "n": 14,
+    "text": "— 44 Maria Rosine."
+   },
+   {
+    "n": 15,
+    "text": "Probst."
+   },
+   {
+    "n": 16,
+    "text": "1 Elis., geb. Nubeli, Ausschenkerin, a. Tschugg — II, 17."
+   },
+   {
+    "n": 17,
+    "text": "Brunet a. Vivis."
+   },
+   {
+    "n": 18,
+    "text": "1 801 Franz, gew. Pfarrer, B. v. 2 — V, 124."
+   },
+   {
+    "n": 19,
+    "text": "2 806 Adele Marg. Louise, privat., Schw. v. 1 — 180."
+   },
+   {
+    "n": 20,
+    "text": "Pugin."
+   },
+   {
+    "n": 21,
+    "text": "1 785 Anton François, Vergolder, a. Paris — II, 158."
+   },
+   {
+    "n": 22,
+    "text": "803 Fr. — Marie Sophie Fallot a. Montbeillard."
+   },
+   {
+    "n": 23,
+    "text": "Pulfer a. Rüggisberg."
+   },
+   {
+    "n": 24,
+    "text": "1 802 David Alex., Leihbibliothekar u. Papierhändler — III, 8."
+   },
+   {
+    "n": 25,
+    "text": "798 Fr. — Joh. Elis. Wyß a. Biglen."
+   },
+   {
+    "n": 26,
+    "text": "2 T. — 829 Sus. Elis. Maria. — 30 Marg. Rosine."
+   },
+   {
+    "n": 27,
+    "text": "2 807 Joh. Ludwig, Hausbesitzer u. Lebküchler — I, 194."
+   },
+   {
+    "n": 28,
+    "text": "806 Fr. — Kath. Wittwer a. Oberlangeneck."
+   },
+   {
+    "n": 29,
+    "text": "1 T. — 827 Elisabetha."
+   },
+   {
+    "n": 30,
+    "text": "Puppelin."
+   },
+   {
+    "n": 31,
+    "text": "1 772 Kath., geb. Fruting, a. Regensburg, privat. — II, 268."
+   },
+   {
+    "n": 32,
+    "text": "Pursch."
+   },
+   {
+    "n": 33,
+    "text": "1 795 Joh. Jos. August, Lehrer der Mathematik und Musik,"
+   },
+   {
+    "n": 34,
+    "text": "a. Malapalud, K. Waadt — II, 139."
+   },
+   {
+    "n": 35,
+    "text": "de Quervain a. Burgdorf."
+   },
+   {
+    "n": 36,
+    "text": "1 795 Ludwig, Handelsmann mit Baumwollenwaaren, B. v. 2"
+   },
+   {
+    "n": 37,
+    "text": "— IV, 209."
+   },
+   {
+    "n": 38,
+    "text": "798 Fr. — Julie Dürig."
+   },
+   {
+    "n": 39,
+    "text": "2 K. — 33 Maria Julie. — 35 Rud. Alfred."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Preisig.",
+    "place": "Bern",
+    "surname": "Preisig",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Zuckerbäcker",
+    "address": "IV, 249",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "249",
+    "origin": "Schwellenbrunn, K. Appenzell",
+    "birth_year": "1814",
+    "household": "828 Fr. — Kath. Maurer a. Vechigen.; 1 K. — 843 Karl Emil.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Johann, Zuckerbäcker, a. Schwellenbrunn, K. Appenzell — IV, 249. 828 Fr. — Kath. Maurer a. Vechigen. 1 K. — 843 Karl Emil."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Preschle.",
+    "place": "Bern",
+    "surname": "Preschle",
+    "forename": "Wilhelm",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "II, 38",
+    "quarter": "II",
+    "street": "",
+    "house_no": "38",
+    "origin": "Kippenheim in Baden",
+    "birth_year": "1817",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 817 Wilhelm, Schlosser, a. Kippenheim in Baden — II, 38."
+   },
+   {
+    "line_from": 11,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Prisi.",
+    "place": "Bern",
+    "surname": "Prisi",
+    "forename": "Anna Barbara",
+    "title": "",
+    "occupation": "Wochenmarktkrämerin",
+    "address": "IV, 25",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "25",
+    "origin": "Uebischi",
+    "birth_year": "1809",
+    "household": "3 K. — 822 Karl Friedrich. — 36 Nikl. Friedr. Wilh. — 44 Maria Rosine.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Anna Barbara, geb. Leutwyler, Wochenmarktkrämerin, a. Uebischi — IV, 25. 3 K. — 822 Karl Friedrich. — 36 Nikl. Friedr. Wilh. — 44 Maria Rosine."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Probst.",
+    "place": "Bern",
+    "surname": "Probst",
+    "forename": "Elis.",
+    "title": "",
+    "occupation": "Ausschenkerin",
+    "address": "II, 17",
+    "quarter": "II",
+    "street": "",
+    "house_no": "17",
+    "origin": "Tschugg",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Elis., geb. Nubeli, Ausschenkerin, a. Tschugg — II, 17."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Brunet a. Vivis.",
+    "place": "Bern",
+    "surname": "Brunet",
+    "forename": "Franz",
+    "title": "",
+    "occupation": "gew. Pfarrer",
+    "address": "V, 124",
+    "quarter": "V",
+    "street": "",
+    "house_no": "124",
+    "origin": "Vivis",
+    "birth_year": "1801",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel; B. v. 2",
+    "text": "1 801 Franz, gew. Pfarrer, B. v. 2 — V, 124."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Brunet a. Vivis.",
+    "place": "Bern",
+    "surname": "Brunet",
+    "forename": "Adele Marg. Louise",
+    "title": "",
+    "occupation": "privat.",
+    "address": "180",
+    "quarter": "",
+    "street": "",
+    "house_no": "180",
+    "origin": "Vivis",
+    "birth_year": "1806",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel; Schw. v. 1",
+    "text": "2 806 Adele Marg. Louise, privat., Schw. v. 1 — 180."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Pugin.",
+    "place": "Bern",
+    "surname": "Pugin",
+    "forename": "Anton François",
+    "title": "",
+    "occupation": "Vergolder",
+    "address": "II, 158",
+    "quarter": "II",
+    "street": "",
+    "house_no": "158",
+    "origin": "Paris",
+    "birth_year": "1785",
+    "household": "803 Fr. — Marie Sophie Fallot a. Montbeillard.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 785 Anton François, Vergolder, a. Paris — II, 158. 803 Fr. — Marie Sophie Fallot a. Montbeillard."
+   },
+   {
+    "line_from": 24,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Pulfer a. Rüggisberg.",
+    "place": "Bern",
+    "surname": "Pulfer",
+    "forename": "David Alex.",
+    "title": "",
+    "occupation": "Leihbibliothekar u. Papierhändler",
+    "address": "III, 8",
+    "quarter": "III",
+    "street": "",
+    "house_no": "8",
+    "origin": "Rüggisberg",
+    "birth_year": "1802",
+    "household": "798 Fr. — Joh. Elis. Wyß a. Biglen.; 2 T. — 829 Sus. Elis. Maria. — 30 Marg. Rosine.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 802 David Alex., Leihbibliothekar u. Papierhändler — III, 8. 798 Fr. — Joh. Elis. Wyß a. Biglen. 2 T. — 829 Sus. Elis. Maria. — 30 Marg. Rosine."
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Pulfer a. Rüggisberg.",
+    "place": "Bern",
+    "surname": "Pulfer",
+    "forename": "Joh. Ludwig",
+    "title": "",
+    "occupation": "Hausbesitzer u. Lebküchler",
+    "address": "I, 194",
+    "quarter": "I",
+    "street": "",
+    "house_no": "194",
+    "origin": "Rüggisberg",
+    "birth_year": "1807",
+    "household": "806 Fr. — Kath. Wittwer a. Oberlangeneck.; 1 T. — 827 Elisabetha.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "2 807 Joh. Ludwig, Hausbesitzer u. Lebküchler — I, 194. 806 Fr. — Kath. Wittwer a. Oberlangeneck. 1 T. — 827 Elisabetha."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Puppelin.",
+    "place": "Bern",
+    "surname": "Puppelin",
+    "forename": "Kath.",
+    "title": "",
+    "occupation": "privat.",
+    "address": "II, 268",
+    "quarter": "II",
+    "street": "",
+    "house_no": "268",
+    "origin": "Regensburg",
+    "birth_year": "1772",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 772 Kath., geb. Fruting, a. Regensburg, privat. — II, 268."
+   },
+   {
+    "line_from": 33,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Pursch.",
+    "place": "Bern",
+    "surname": "Pursch",
+    "forename": "Joh. Jos. August",
+    "title": "",
+    "occupation": "Lehrer der Mathematik und Musik",
+    "address": "II, 139",
+    "quarter": "II",
+    "street": "",
+    "house_no": "139",
+    "origin": "Malapalud, K. Waadt",
+    "birth_year": "1795",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 795 Joh. Jos. August, Lehrer der Mathematik und Musik, a. Malapalud, K. Waadt — II, 139."
+   },
+   {
+    "line_from": 36,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "de Quervain a. Burgdorf.",
+    "place": "Bern",
+    "surname": "de Quervain",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Handelsmann mit Baumwollenwaaren",
+    "address": "IV, 209",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "209",
+    "origin": "Burgdorf",
+    "birth_year": "1795",
+    "household": "798 Fr. — Julie Dürig.; 2 K. — 33 Maria Julie. — 35 Rud. Alfred.",
+    "note": "Name und Herkunft aus Zwischentitel; B. v. 2",
+    "text": "1 795 Ludwig, Handelsmann mit Baumwollenwaaren, B. v. 2 — IV, 209. 798 Fr. — Julie Dürig. 2 K. — 33 Maria Julie. — 35 Rud. Alfred."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:55:27+01:00",
+ "last_error": null
+}

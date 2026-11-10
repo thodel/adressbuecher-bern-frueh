@@ -1,0 +1,513 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 27,
+ "section": "einsassen",
+ "started": "2026-11-10T21:48:51+01:00",
+ "thinking": "low",
+ "seconds": 31.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4941,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"14\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 14 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Bigler.\"},\n    {\"n\": 4, \"text\": \"1 782 Peter Franz, Mobilienhändler u. Lohnbedienter, a. Viel-\"},\n    {\"n\": 5, \"text\": \"bringen - II, 95.\"},\n    {\"n\": 6, \"text\": \"793 Fr. II Ehe. - Anna Maria Großniklaus, verw. Hofer,\"},\n    {\"n\": 7, \"text\": \"a. Diemerswyl.\"},\n    {\"n\": 8, \"text\": \"2 Jakob, Dachdecker, a. Worb - II, 53.\"},\n    {\"n\": 9, \"text\": \"805 Fr. - Maria Katharina Suchomel, Näherin.\"},\n    {\"n\": 10, \"text\": \"3 815 Sam. Friedr. Jakob, Störschneider, a. Worb - II, 23.\"},\n    {\"n\": 11, \"text\": \"811 Fr. - Anna Barbara Widmer a. Oberburg.\"},\n    {\"n\": 12, \"text\": \"4 808 Jakob, Weinhändler, a. Worb - II, 60.\"},\n    {\"n\": 13, \"text\": \"806 Fr. II Ehe. - Elisabetha Schmocker a. Unterseen.\"},\n    {\"n\": 14, \"text\": \"3 K. - 841 Christ. Friedrich. - 43 Sus. Elisabetha.\"},\n    {\"n\": 15, \"text\": \"- 44 Karl.\"},\n    {\"n\": 16, \"text\": \"5 808 Magdalena, Obsthändlerin, a. Eggiwyl - II, 205.\"},\n    {\"n\": 17, \"text\": \"6 814 Joh., Gastgeber z. Sternen, a. Allmendingen - II, 34.\"},\n    {\"n\": 18, \"text\": \"822 Fr. - Maria Louise Egger a Thunstetten.\"},\n    {\"n\": 19, \"text\": \"1 K. - 843 Gottlieb.\"},\n    {\"n\": 20, \"text\": \"7 806 Elisabetha, geb. Lehmann, a. Worb, Hauseigenthümerin,\"},\n    {\"n\": 21, \"text\": \"Wittwe - VI, 44.\"},\n    {\"n\": 22, \"text\": \"6 K. - 830 Christian. - 34 Joh. Karl. - 36 Maria\"},\n    {\"n\": 23, \"text\": \"Rosina Elis. - 38 Maria Marg. - 44 Elisabetha und\"},\n    {\"n\": 24, \"text\": \"Alexander, Zwillinge.\"},\n    {\"n\": 25, \"text\": \"8 795 Anna Barbara, geb. Frank, Krämerin, a. Oberthal -\"},\n    {\"n\": 26, \"text\": \"IV, 75.\"},\n    {\"n\": 27, \"text\": \"(Ein Kind nicht eingeschrieben.)\"},\n    {\"n\": 28, \"text\": \"Bill.\"},\n    {\"n\": 29, \"text\": \"1 813 Samuel, Schuhmacher, a. Münchenbuchsee - V, 171.\"},\n    {\"n\": 30, \"text\": \"812 Fr. - Anna Elisabetha Aeschbacher a. Trachselwald.\"},\n    {\"n\": 31, \"text\": \"2 822 Johannes, Tabakfabrikant, a. Münchenbuchsee - I, 200.\"},\n    {\"n\": 32, \"text\": \"3 812 Johannes, Krämer, a. Moosseedorf - II, 147.\"},\n    {\"n\": 33, \"text\": \"819 Fr. - Elisabetha Junker.\"},\n    {\"n\": 34, \"text\": \"3 K. - 841 Christian Johann. - 43 Jakob Karl. -\"},\n    {\"n\": 35, \"text\": \"46 Elis. Maria Rosalie.\"},\n    {\"n\": 36, \"text\": \"4 809 Jakob, Spezierer, a. Münchenbuchsee - V, 90.\"},\n    {\"n\": 37, \"text\": \"825 Fr. - Elisabetha Kiener a. Bolligen.\"},\n    {\"n\": 38, \"text\": \"2 K. - 845 Jakob. - 47 Elisa.\"},\n    {\"n\": 39, \"text\": \"5 806 Magdalena, geb. Bichsel, Gärtnerin, a. Moosseedorf,\"},\n    {\"n\": 40, \"text\": \"Wittwe - II, 151.\"},\n    {\"n\": 41, \"text\": \"1 S. - 831 Jakob.\"},\n    {\"n\": 42, \"text\": \"Binz.\"},\n    {\"n\": 43, \"text\": \"1 817 Meinrad Rudolf, Schreiner u. Dachschieferhändler, a.\"},\n    {\"n\": 44, \"text\": \"Dürrenroth - VI, 42 c.\"},\n    {\"n\": 45, \"text\": \"816 Fr. - Joh. Magd. Gehrig a. Großhöchstetten.\"},\n    {\"n\": 46, \"text\": \"3 K. - 844 Anna Elis. - 46 Maria. - 47 Friedrich\"},\n    {\"n\": 47, \"text\": \"Samuel Rudolf.\"},\n    {\"n\": 48, \"text\": \"\"},\n    {\"n\": 49, \"text\": \"\"},\n    {\"n\": 50, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Bigler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"Peter Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Mobilienhändler u. Lohnbedienter\",\n      \"address\": \"II, 95\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"Vielbringen\",\n      \"birth_year\": \"1782\",\n      \"household\": \"793 Fr. II Ehe. - Anna Maria Großniklaus, verw. Hofer, a. Diemerswyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 782 Peter Franz, Mobilienhändler u. Lohnbedienter, a. Vielbringen - II, 95. 793 Fr. II Ehe. - Anna Maria Großniklaus, verw. Hofer, a. Diemerswyl.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Bigler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"II, 53\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"53\",\n      \"origin\": \"Worb\",\n      \"birth_year\": \"\",\n      \"household\": \"805 Fr. - Maria Katharina Suchomel, Näherin.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 Jakob, Dachdecker, a. Worb - II, 53. 805 Fr. - Maria Katharina Suchomel, Näherin.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Bigler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"Sam. Friedr. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Störschneider\",\n      \"address\": \"II, 23\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"23\",\n      \"origin\": \"Worb\",\n      \"birth_year\": \"1815\",\n      \"household\": \"811 Fr. - Anna Barbara Widmer a. Oberburg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 815 Sam. Friedr. Jakob, Störschneider, a. Worb - II, 23. 811 Fr. - Anna Barbara Widmer a. Oberburg.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Bigler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhändler\",\n      \"address\": \"II, 60\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"60\",\n      \"origin\": \"Worb\",\n      \"birth_year\": \"1808\",\n      \"household\": \"806 Fr. II Ehe. - Elisabetha Schmocker a. Unterseen. 3 K. - 841 Christ. Friedrich. - 43 Sus. Elisabetha. - 44 Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 808 Jakob, Weinhändler, a. Worb - II, 60. 806 Fr. II Ehe. - Elisabetha Schmocker a. Unterseen. 3 K. - 841 Christ. Friedrich. - 43 Sus. Elisabetha. - 44 Karl.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Bigler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"\",\n      \"occupation\": \"Obsthändlerin\",\n      \"address\": \"II, 205\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"205\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1808\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 808 Magdalena, Obsthändlerin, a. Eggiwyl - II, 205.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Bigler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Gastgeber z. Sternen\",\n      \"address\": \"II, 34\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"34\",\n      \"origin\": \"Allmendingen\",\n      \"birth_year\": \"1814\",\n      \"household\": \"822 Fr. - Maria Louise Egger a Thunstetten. 1 K. - 843 Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 814 Joh., Gastgeber z. Sternen, a. Allmendingen - II, 34. 822 Fr. - Maria Louise Egger a Thunstetten. 1 K. - 843 Gottlieb.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Bigler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"Hauseigenthümerin\",\n      \"address\": \"VI, 44\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"44\",\n      \"origin\": \"Worb\",\n      \"birth_year\": \"1806\",\n      \"household\": \"6 K. - 830 Christian. - 34 Joh. Karl. - 36 Maria Rosina Elis. - 38 Maria Marg. - 44 Elisabetha und Alexander, Zwillinge.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 806 Elisabetha, geb. Lehmann, a. Worb, Hauseigenthümerin, Wittwe - VI, 44. 6 K. - 830 Christian. - 34 Joh. Karl. - 36 Maria Rosina Elis. - 38 Maria Marg. - 44 Elisabetha und Alexander, Zwillinge.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Bigler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"Anna Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"IV, 75\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"Oberthal\",\n      \"birth_year\": \"1795\",\n      \"household\": \"(Ein Kind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"8 795 Anna Barbara, geb. Frank, Krämerin, a. Oberthal - IV, 75. (Ein Kind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Bill.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bill\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 171\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"171\",\n      \"origin\": \"Münchenbuchsee\",\n      \"birth_year\": \"1813\",\n      \"household\": \"812 Fr. - Anna Elisabetha Aeschbacher a. Trachselwald.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Samuel, Schuhmacher, a. Münchenbuchsee - V, 171. 812 Fr. - Anna Elisabetha Aeschbacher a. Trachselwald.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Bill.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bill\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Tabakfabrikant\",\n      \"address\": \"I, 200\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"200\",\n      \"origin\": \"Münchenbuchsee\",\n      \"birth_year\": \"1822\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 822 Johannes, Tabakfabrikant, a. Münchenbuchsee - I, 200.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Bill.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bill\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"II, 147\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"147\",\n      \"origin\": \"Moosseedorf\",\n      \"birth_year\": \"1812\",\n      \"household\": \"819 Fr. - Elisabetha Junker. 3 K. - 841 Christian Johann. - 43 Jakob Karl. - 46 Elis. Maria Rosalie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 812 Johannes, Krämer, a. Moosseedorf - II, 147. 819 Fr. - Elisabetha Junker. 3 K. - 841 Christian Johann. - 43 Jakob Karl. - 46 Elis. Maria Rosalie.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Bill.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bill\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Spezierer\",\n      \"address\": \"V, 90\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"90\",\n      \"origin\": \"Münchenbuchsee\",\n      \"birth_year\": \"1809\",\n      \"household\": \"825 Fr. - Elisabetha Kiener a. Bolligen. 2 K. - 845 Jakob. - 47 Elisa.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 809 Jakob, Spezierer, a. Münchenbuchsee - V, 90. 825 Fr. - Elisabetha Kiener a. Bolligen. 2 K. - 845 Jakob. - 47 Elisa.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Bill.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bill\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"Gärtnerin\",\n      \"address\": \"II, 151\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"151\",\n      \"origin\": \"Moosseedorf\",\n      \"birth_year\": \"1806\",\n      \"household\": \"1 S. - 831 Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 806 Magdalena, geb. Bichsel, Gärtnerin, a. Moosseedorf, Wittwe - II, 151. 1 S. - 831 Jakob.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Binz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Binz\",\n      \"forename\": \"Meinrad Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner u. Dachschieferhändler\",\n      \"address\": \"VI, 42 c\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"42 c\",\n      \"origin\": \"Dürrenroth\",\n      \"birth_year\": \"1817\",\n      \"household\": \"816 Fr. - Joh. Magd. Gehrig a. Großhöchstetten. 3 K. - 844 Anna Elis. - 46 Maria. - 47 Friedrich Samuel Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 817 Meinrad Rudolf, Schreiner u. Dachschieferhändler, a. Dürrenroth - VI, 42 c. 816 Fr. - Joh. Magd. Gehrig a. Großhöchstetten. 3 K. - 844 Anna Elis. - 46 Maria. - 47 Friedrich Samuel Rudolf.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "14",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 14 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Bigler."
+   },
+   {
+    "n": 4,
+    "text": "1 782 Peter Franz, Mobilienhändler u. Lohnbedienter, a. Viel-"
+   },
+   {
+    "n": 5,
+    "text": "bringen - II, 95."
+   },
+   {
+    "n": 6,
+    "text": "793 Fr. II Ehe. - Anna Maria Großniklaus, verw. Hofer,"
+   },
+   {
+    "n": 7,
+    "text": "a. Diemerswyl."
+   },
+   {
+    "n": 8,
+    "text": "2 Jakob, Dachdecker, a. Worb - II, 53."
+   },
+   {
+    "n": 9,
+    "text": "805 Fr. - Maria Katharina Suchomel, Näherin."
+   },
+   {
+    "n": 10,
+    "text": "3 815 Sam. Friedr. Jakob, Störschneider, a. Worb - II, 23."
+   },
+   {
+    "n": 11,
+    "text": "811 Fr. - Anna Barbara Widmer a. Oberburg."
+   },
+   {
+    "n": 12,
+    "text": "4 808 Jakob, Weinhändler, a. Worb - II, 60."
+   },
+   {
+    "n": 13,
+    "text": "806 Fr. II Ehe. - Elisabetha Schmocker a. Unterseen."
+   },
+   {
+    "n": 14,
+    "text": "3 K. - 841 Christ. Friedrich. - 43 Sus. Elisabetha."
+   },
+   {
+    "n": 15,
+    "text": "- 44 Karl."
+   },
+   {
+    "n": 16,
+    "text": "5 808 Magdalena, Obsthändlerin, a. Eggiwyl - II, 205."
+   },
+   {
+    "n": 17,
+    "text": "6 814 Joh., Gastgeber z. Sternen, a. Allmendingen - II, 34."
+   },
+   {
+    "n": 18,
+    "text": "822 Fr. - Maria Louise Egger a Thunstetten."
+   },
+   {
+    "n": 19,
+    "text": "1 K. - 843 Gottlieb."
+   },
+   {
+    "n": 20,
+    "text": "7 806 Elisabetha, geb. Lehmann, a. Worb, Hauseigenthümerin,"
+   },
+   {
+    "n": 21,
+    "text": "Wittwe - VI, 44."
+   },
+   {
+    "n": 22,
+    "text": "6 K. - 830 Christian. - 34 Joh. Karl. - 36 Maria"
+   },
+   {
+    "n": 23,
+    "text": "Rosina Elis. - 38 Maria Marg. - 44 Elisabetha und"
+   },
+   {
+    "n": 24,
+    "text": "Alexander, Zwillinge."
+   },
+   {
+    "n": 25,
+    "text": "8 795 Anna Barbara, geb. Frank, Krämerin, a. Oberthal -"
+   },
+   {
+    "n": 26,
+    "text": "IV, 75."
+   },
+   {
+    "n": 27,
+    "text": "(Ein Kind nicht eingeschrieben.)"
+   },
+   {
+    "n": 28,
+    "text": "Bill."
+   },
+   {
+    "n": 29,
+    "text": "1 813 Samuel, Schuhmacher, a. Münchenbuchsee - V, 171."
+   },
+   {
+    "n": 30,
+    "text": "812 Fr. - Anna Elisabetha Aeschbacher a. Trachselwald."
+   },
+   {
+    "n": 31,
+    "text": "2 822 Johannes, Tabakfabrikant, a. Münchenbuchsee - I, 200."
+   },
+   {
+    "n": 32,
+    "text": "3 812 Johannes, Krämer, a. Moosseedorf - II, 147."
+   },
+   {
+    "n": 33,
+    "text": "819 Fr. - Elisabetha Junker."
+   },
+   {
+    "n": 34,
+    "text": "3 K. - 841 Christian Johann. - 43 Jakob Karl. -"
+   },
+   {
+    "n": 35,
+    "text": "46 Elis. Maria Rosalie."
+   },
+   {
+    "n": 36,
+    "text": "4 809 Jakob, Spezierer, a. Münchenbuchsee - V, 90."
+   },
+   {
+    "n": 37,
+    "text": "825 Fr. - Elisabetha Kiener a. Bolligen."
+   },
+   {
+    "n": 38,
+    "text": "2 K. - 845 Jakob. - 47 Elisa."
+   },
+   {
+    "n": 39,
+    "text": "5 806 Magdalena, geb. Bichsel, Gärtnerin, a. Moosseedorf,"
+   },
+   {
+    "n": 40,
+    "text": "Wittwe - II, 151."
+   },
+   {
+    "n": 41,
+    "text": "1 S. - 831 Jakob."
+   },
+   {
+    "n": 42,
+    "text": "Binz."
+   },
+   {
+    "n": 43,
+    "text": "1 817 Meinrad Rudolf, Schreiner u. Dachschieferhändler, a."
+   },
+   {
+    "n": 44,
+    "text": "Dürrenroth - VI, 42 c."
+   },
+   {
+    "n": 45,
+    "text": "816 Fr. - Joh. Magd. Gehrig a. Großhöchstetten."
+   },
+   {
+    "n": 46,
+    "text": "3 K. - 844 Anna Elis. - 46 Maria. - 47 Friedrich"
+   },
+   {
+    "n": 47,
+    "text": "Samuel Rudolf."
+   },
+   {
+    "n": 48,
+    "text": ""
+   },
+   {
+    "n": 49,
+    "text": ""
+   },
+   {
+    "n": 50,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Bigler.",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "Peter Franz",
+    "title": "",
+    "occupation": "Mobilienhändler u. Lohnbedienter",
+    "address": "II, 95",
+    "quarter": "II",
+    "street": "",
+    "house_no": "95",
+    "origin": "Vielbringen",
+    "birth_year": "1782",
+    "household": "793 Fr. II Ehe. - Anna Maria Großniklaus, verw. Hofer, a. Diemerswyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 782 Peter Franz, Mobilienhändler u. Lohnbedienter, a. Vielbringen - II, 95. 793 Fr. II Ehe. - Anna Maria Großniklaus, verw. Hofer, a. Diemerswyl."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Bigler.",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "II, 53",
+    "quarter": "II",
+    "street": "",
+    "house_no": "53",
+    "origin": "Worb",
+    "birth_year": "",
+    "household": "805 Fr. - Maria Katharina Suchomel, Näherin.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 Jakob, Dachdecker, a. Worb - II, 53. 805 Fr. - Maria Katharina Suchomel, Näherin."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Bigler.",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "Sam. Friedr. Jakob",
+    "title": "",
+    "occupation": "Störschneider",
+    "address": "II, 23",
+    "quarter": "II",
+    "street": "",
+    "house_no": "23",
+    "origin": "Worb",
+    "birth_year": "1815",
+    "household": "811 Fr. - Anna Barbara Widmer a. Oberburg.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 815 Sam. Friedr. Jakob, Störschneider, a. Worb - II, 23. 811 Fr. - Anna Barbara Widmer a. Oberburg."
+   },
+   {
+    "line_from": 12,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Bigler.",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Weinhändler",
+    "address": "II, 60",
+    "quarter": "II",
+    "street": "",
+    "house_no": "60",
+    "origin": "Worb",
+    "birth_year": "1808",
+    "household": "806 Fr. II Ehe. - Elisabetha Schmocker a. Unterseen. 3 K. - 841 Christ. Friedrich. - 43 Sus. Elisabetha. - 44 Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 808 Jakob, Weinhändler, a. Worb - II, 60. 806 Fr. II Ehe. - Elisabetha Schmocker a. Unterseen. 3 K. - 841 Christ. Friedrich. - 43 Sus. Elisabetha. - 44 Karl."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Bigler.",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "Magdalena",
+    "title": "",
+    "occupation": "Obsthändlerin",
+    "address": "II, 205",
+    "quarter": "II",
+    "street": "",
+    "house_no": "205",
+    "origin": "Eggiwyl",
+    "birth_year": "1808",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "5 808 Magdalena, Obsthändlerin, a. Eggiwyl - II, 205."
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Bigler.",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Gastgeber z. Sternen",
+    "address": "II, 34",
+    "quarter": "II",
+    "street": "",
+    "house_no": "34",
+    "origin": "Allmendingen",
+    "birth_year": "1814",
+    "household": "822 Fr. - Maria Louise Egger a Thunstetten. 1 K. - 843 Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 814 Joh., Gastgeber z. Sternen, a. Allmendingen - II, 34. 822 Fr. - Maria Louise Egger a Thunstetten. 1 K. - 843 Gottlieb."
+   },
+   {
+    "line_from": 20,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Bigler.",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "Elisabetha",
+    "title": "Wittwe",
+    "occupation": "Hauseigenthümerin",
+    "address": "VI, 44",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "44",
+    "origin": "Worb",
+    "birth_year": "1806",
+    "household": "6 K. - 830 Christian. - 34 Joh. Karl. - 36 Maria Rosina Elis. - 38 Maria Marg. - 44 Elisabetha und Alexander, Zwillinge.",
+    "note": "Name aus Zwischentitel",
+    "text": "7 806 Elisabetha, geb. Lehmann, a. Worb, Hauseigenthümerin, Wittwe - VI, 44. 6 K. - 830 Christian. - 34 Joh. Karl. - 36 Maria Rosina Elis. - 38 Maria Marg. - 44 Elisabetha und Alexander, Zwillinge."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Bigler.",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "Anna Barbara",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "IV, 75",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "75",
+    "origin": "Oberthal",
+    "birth_year": "1795",
+    "household": "(Ein Kind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "8 795 Anna Barbara, geb. Frank, Krämerin, a. Oberthal - IV, 75. (Ein Kind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Bill.",
+    "place": "Bern",
+    "surname": "Bill",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 171",
+    "quarter": "V",
+    "street": "",
+    "house_no": "171",
+    "origin": "Münchenbuchsee",
+    "birth_year": "1813",
+    "household": "812 Fr. - Anna Elisabetha Aeschbacher a. Trachselwald.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Samuel, Schuhmacher, a. Münchenbuchsee - V, 171. 812 Fr. - Anna Elisabetha Aeschbacher a. Trachselwald."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Bill.",
+    "place": "Bern",
+    "surname": "Bill",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Tabakfabrikant",
+    "address": "I, 200",
+    "quarter": "I",
+    "street": "",
+    "house_no": "200",
+    "origin": "Münchenbuchsee",
+    "birth_year": "1822",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 822 Johannes, Tabakfabrikant, a. Münchenbuchsee - I, 200."
+   },
+   {
+    "line_from": 32,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Bill.",
+    "place": "Bern",
+    "surname": "Bill",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "II, 147",
+    "quarter": "II",
+    "street": "",
+    "house_no": "147",
+    "origin": "Moosseedorf",
+    "birth_year": "1812",
+    "household": "819 Fr. - Elisabetha Junker. 3 K. - 841 Christian Johann. - 43 Jakob Karl. - 46 Elis. Maria Rosalie.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 812 Johannes, Krämer, a. Moosseedorf - II, 147. 819 Fr. - Elisabetha Junker. 3 K. - 841 Christian Johann. - 43 Jakob Karl. - 46 Elis. Maria Rosalie."
+   },
+   {
+    "line_from": 36,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Bill.",
+    "place": "Bern",
+    "surname": "Bill",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Spezierer",
+    "address": "V, 90",
+    "quarter": "V",
+    "street": "",
+    "house_no": "90",
+    "origin": "Münchenbuchsee",
+    "birth_year": "1809",
+    "household": "825 Fr. - Elisabetha Kiener a. Bolligen. 2 K. - 845 Jakob. - 47 Elisa.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 809 Jakob, Spezierer, a. Münchenbuchsee - V, 90. 825 Fr. - Elisabetha Kiener a. Bolligen. 2 K. - 845 Jakob. - 47 Elisa."
+   },
+   {
+    "line_from": 39,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Bill.",
+    "place": "Bern",
+    "surname": "Bill",
+    "forename": "Magdalena",
+    "title": "Wittwe",
+    "occupation": "Gärtnerin",
+    "address": "II, 151",
+    "quarter": "II",
+    "street": "",
+    "house_no": "151",
+    "origin": "Moosseedorf",
+    "birth_year": "1806",
+    "household": "1 S. - 831 Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 806 Magdalena, geb. Bichsel, Gärtnerin, a. Moosseedorf, Wittwe - II, 151. 1 S. - 831 Jakob."
+   },
+   {
+    "line_from": 43,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Binz.",
+    "place": "Bern",
+    "surname": "Binz",
+    "forename": "Meinrad Rudolf",
+    "title": "",
+    "occupation": "Schreiner u. Dachschieferhändler",
+    "address": "VI, 42 c",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "42 c",
+    "origin": "Dürrenroth",
+    "birth_year": "1817",
+    "household": "816 Fr. - Joh. Magd. Gehrig a. Großhöchstetten. 3 K. - 844 Anna Elis. - 46 Maria. - 47 Friedrich Samuel Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 817 Meinrad Rudolf, Schreiner u. Dachschieferhändler, a. Dürrenroth - VI, 42 c. 816 Fr. - Joh. Magd. Gehrig a. Großhöchstetten. 3 K. - 844 Anna Elis. - 46 Maria. - 47 Friedrich Samuel Rudolf."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:49:23+01:00",
+ "last_error": null
+}

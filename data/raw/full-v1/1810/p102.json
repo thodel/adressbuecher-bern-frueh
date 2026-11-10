@@ -1,0 +1,369 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 102,
+ "section": "ville",
+ "started": "2026-11-10T21:12:11+01:00",
+ "thinking": "low",
+ "seconds": 17.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2301,
+  "output": 2796,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"29\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"29\" },\n    { \"n\": 2, \"text\": \"Langues.\" },\n    { \"n\": 3, \"text\": \"Maîtres enseignants :\" },\n    { \"n\": 4, \"text\": \"Bassy, Louis, pour les langues\" },\n    { \"n\": 5, \"text\": \"éspagnole, italienne et française. Q. v. 73.\" },\n    { \"n\": 6, \"text\": \"Fontanez, Abr. Ant., pour la lan-\" },\n    { \"n\": 7, \"text\": \"gue française. — — — r. 31.\" },\n    { \"n\": 8, \"text\": \"Lörtscher, Jean, pour la langue\" },\n    { \"n\": 9, \"text\": \"française. — — — bl. 144.\" },\n    { \"n\": 10, \"text\": \"Naumbourger, pour la langue angloise.— v. 240.\" },\n    { \"n\": 11, \"text\": \"Richard, J. J. pour la langue\" },\n    { \"n\": 12, \"text\": \"française. — — — v. 310.\" },\n    { \"n\": 13, \"text\": \"Voyez aussi rédactions et traductions.\" },\n    { \"n\": 14, \"text\": \"Libraires.\" },\n    { \"n\": 15, \"text\": \"Bourgdorfer, J. J., Marchand d'és-\" },\n    { \"n\": 16, \"text\": \"tampes. — — — v. 52.\" },\n    { \"n\": 17, \"text\": \"Gaudard et Leuenberger, Mar-\" },\n    { \"n\": 18, \"text\": \"chands de papier. — — v. 199.\" },\n    { \"n\": 19, \"text\": \"Haller, Bernh. Albr., Marchand\" },\n    { \"n\": 20, \"text\": \"de papier. — — — j. 91.\" },\n    { \"n\": 21, \"text\": \"Société typographique. — — — v. 223.\" },\n    { \"n\": 22, \"text\": \"Walthard, Rodolphe. — — — v. 229.\" },\n    { \"n\": 23, \"text\": \"Lunettes, voyez Instruments\" },\n    { \"n\": 24, \"text\": \"de physique.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Langues. Maîtres enseignants\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bassy\",\n      \"forename\": \"Louis\",\n      \"title\": \"\",\n      \"occupation\": \"pour les langues éspagnole, italienne et française\",\n      \"address\": \"Q. v. 73.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"73\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bassy, Louis, pour les langues éspagnole, italienne et française. Q. v. 73.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Langues. Maîtres enseignants\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fontanez\",\n      \"forename\": \"Abr. Ant.\",\n      \"title\": \"\",\n      \"occupation\": \"pour la langue française\",\n      \"address\": \"r. 31.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"31\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fontanez, Abr. Ant., pour la langue française. … r. 31.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Langues. Maîtres enseignants\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lörtscher\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"pour la langue française\",\n      \"address\": \"bl. 144.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"144\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lörtscher, Jean, pour la langue française. … bl. 144.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Langues. Maîtres enseignants\",\n      \"place\": \"Bern\",\n      \"surname\": \"Naumbourger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"pour la langue angloise\",\n      \"address\": \"v. 240.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"240\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Naumbourger, pour la langue angloise. … v. 240.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Langues. Maîtres enseignants\",\n      \"place\": \"Bern\",\n      \"surname\": \"Richard\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"pour la langue française\",\n      \"address\": \"v. 310.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"310\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Richard, J. J. pour la langue française. … v. 310.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"verweis\",\n      \"heading\": \"Langues. Maîtres enseignants\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Voyez aussi rédactions et traductions.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Libraires\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bourgdorfer\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"Marchand d'éstampes\",\n      \"address\": \"v. 52.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"52\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bourgdorfer, J. J., Marchand d'éstampes. … v. 52.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"firma\",\n      \"heading\": \"Libraires\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gaudard et Leuenberger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands de papier\",\n      \"address\": \"v. 199.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"199\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gaudard et Leuenberger, Marchands de papier. … v. 199.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Libraires\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"Bernh. Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"Marchand de papier\",\n      \"address\": \"j. 91.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"91\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haller, Bernh. Albr., Marchand de papier. … j. 91.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"firma\",\n      \"heading\": \"Libraires\",\n      \"place\": \"Bern\",\n      \"surname\": \"Société typographique\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 223.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"223\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Société typographique. … v. 223.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Libraires\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walthard\",\n      \"forename\": \"Rodolphe\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 229.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"229\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Walthard, Rodolphe. … v. 229.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"verweis\",\n      \"heading\": \"Lunettes\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lunettes, voyez Instruments de physique.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "29",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "29"
+   },
+   {
+    "n": 2,
+    "text": "Langues."
+   },
+   {
+    "n": 3,
+    "text": "Maîtres enseignants :"
+   },
+   {
+    "n": 4,
+    "text": "Bassy, Louis, pour les langues"
+   },
+   {
+    "n": 5,
+    "text": "éspagnole, italienne et française. Q. v. 73."
+   },
+   {
+    "n": 6,
+    "text": "Fontanez, Abr. Ant., pour la lan-"
+   },
+   {
+    "n": 7,
+    "text": "gue française. — — — r. 31."
+   },
+   {
+    "n": 8,
+    "text": "Lörtscher, Jean, pour la langue"
+   },
+   {
+    "n": 9,
+    "text": "française. — — — bl. 144."
+   },
+   {
+    "n": 10,
+    "text": "Naumbourger, pour la langue angloise.— v. 240."
+   },
+   {
+    "n": 11,
+    "text": "Richard, J. J. pour la langue"
+   },
+   {
+    "n": 12,
+    "text": "française. — — — v. 310."
+   },
+   {
+    "n": 13,
+    "text": "Voyez aussi rédactions et traductions."
+   },
+   {
+    "n": 14,
+    "text": "Libraires."
+   },
+   {
+    "n": 15,
+    "text": "Bourgdorfer, J. J., Marchand d'és-"
+   },
+   {
+    "n": 16,
+    "text": "tampes. — — — v. 52."
+   },
+   {
+    "n": 17,
+    "text": "Gaudard et Leuenberger, Mar-"
+   },
+   {
+    "n": 18,
+    "text": "chands de papier. — — v. 199."
+   },
+   {
+    "n": 19,
+    "text": "Haller, Bernh. Albr., Marchand"
+   },
+   {
+    "n": 20,
+    "text": "de papier. — — — j. 91."
+   },
+   {
+    "n": 21,
+    "text": "Société typographique. — — — v. 223."
+   },
+   {
+    "n": 22,
+    "text": "Walthard, Rodolphe. — — — v. 229."
+   },
+   {
+    "n": 23,
+    "text": "Lunettes, voyez Instruments"
+   },
+   {
+    "n": 24,
+    "text": "de physique."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Langues. Maîtres enseignants",
+    "place": "Bern",
+    "surname": "Bassy",
+    "forename": "Louis",
+    "title": "",
+    "occupation": "pour les langues éspagnole, italienne et française",
+    "address": "Q. v. 73.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "73",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bassy, Louis, pour les langues éspagnole, italienne et française. Q. v. 73."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Langues. Maîtres enseignants",
+    "place": "Bern",
+    "surname": "Fontanez",
+    "forename": "Abr. Ant.",
+    "title": "",
+    "occupation": "pour la langue française",
+    "address": "r. 31.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "31",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fontanez, Abr. Ant., pour la langue française. … r. 31."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Langues. Maîtres enseignants",
+    "place": "Bern",
+    "surname": "Lörtscher",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "pour la langue française",
+    "address": "bl. 144.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "144",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lörtscher, Jean, pour la langue française. … bl. 144."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Langues. Maîtres enseignants",
+    "place": "Bern",
+    "surname": "Naumbourger",
+    "forename": "",
+    "title": "",
+    "occupation": "pour la langue angloise",
+    "address": "v. 240.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "240",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Naumbourger, pour la langue angloise. … v. 240."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Langues. Maîtres enseignants",
+    "place": "Bern",
+    "surname": "Richard",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "pour la langue française",
+    "address": "v. 310.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "310",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Richard, J. J. pour la langue française. … v. 310."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "verweis",
+    "heading": "Langues. Maîtres enseignants",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Voyez aussi rédactions et traductions."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Libraires",
+    "place": "Bern",
+    "surname": "Bourgdorfer",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "Marchand d'éstampes",
+    "address": "v. 52.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "52",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bourgdorfer, J. J., Marchand d'éstampes. … v. 52."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "firma",
+    "heading": "Libraires",
+    "place": "Bern",
+    "surname": "Gaudard et Leuenberger",
+    "forename": "",
+    "title": "",
+    "occupation": "Marchands de papier",
+    "address": "v. 199.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "199",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gaudard et Leuenberger, Marchands de papier. … v. 199."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Libraires",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "Bernh. Albr.",
+    "title": "",
+    "occupation": "Marchand de papier",
+    "address": "j. 91.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "91",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haller, Bernh. Albr., Marchand de papier. … j. 91."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "firma",
+    "heading": "Libraires",
+    "place": "Bern",
+    "surname": "Société typographique",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "v. 223.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "223",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Société typographique. … v. 223."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Libraires",
+    "place": "Bern",
+    "surname": "Walthard",
+    "forename": "Rodolphe",
+    "title": "",
+    "occupation": "",
+    "address": "v. 229.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "229",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Walthard, Rodolphe. … v. 229."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "verweis",
+    "heading": "Lunettes",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lunettes, voyez Instruments de physique."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:12:29+01:00",
+ "last_error": null
+}

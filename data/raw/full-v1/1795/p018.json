@@ -1,0 +1,369 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 18,
+ "section": "handbuch",
+ "started": "2026-11-10T21:09:21+01:00",
+ "thinking": "low",
+ "seconds": 18.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 2855,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"16\",\n  \"running_head\": \"Arau.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"16 Arau.\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"dern, Flaum 2c. und verfertiget neues Bettzeug,\"},\n    {\"n\": 4, \"text\": \"thut auch in Specereywaaren.\"},\n    {\"n\": 5, \"text\": \"Johannes Oehlhafen, Seidenband-Fabrikant.\"},\n    {\"n\": 6, \"text\": \"Daniel Pfleger und Comp. führen eine Stahl,\"},\n    {\"n\": 7, \"text\": \"Eisen, Zinn, Bley, Meßing und Specereyhandlung.\"},\n    {\"n\": 8, \"text\": \"Joh. Heinrich Rothpletz, führt eine Indien-\"},\n    {\"n\": 9, \"text\": \"nen = Fabrik und Baumwollenhandlung.\"},\n    {\"n\": 10, \"text\": \"Arnold Reifft, führt Baumwoll und baum-\"},\n    {\"n\": 11, \"text\": \"wollene Tücher, hat auch eine Spedition-und Com-\"},\n    {\"n\": 12, \"text\": \"missionshandlung.\"},\n    {\"n\": 13, \"text\": \"Joh. Jakob Reifft, führt einen Handel mit\"},\n    {\"n\": 14, \"text\": \"Spiegeln, Meerrohr, Rauchtabak, und allen Arten\"},\n    {\"n\": 15, \"text\": \"Tabakpfeiffen.\"},\n    {\"n\": 16, \"text\": \"Johannes Rychener, führt Eisen, Specerey,\"},\n    {\"n\": 17, \"text\": \"Baumwolle und wollene Waaren.\"},\n    {\"n\": 18, \"text\": \"Daniel Siebenmann, jünger, führt Baum-\"},\n    {\"n\": 19, \"text\": \"wolle und baumwollene Tücher, und hält eine Fuh-\"},\n    {\"n\": 20, \"text\": \"re (welche alle 14 Tage den Sonntag von hier\"},\n    {\"n\": 21, \"text\": \"abfährt) für das ganze Pays de Vaud.\"},\n    {\"n\": 22, \"text\": \"Hieronymus Saxer, führt eine Leinwand,\"},\n    {\"n\": 23, \"text\": \"Baumwollen und baumwollene Tücherhandlung, hat\"},\n    {\"n\": 24, \"text\": \"zugleich eine Weißbleiche.\"},\n    {\"n\": 25, \"text\": \"Joh. Jacob Stephani, verkauft Specerey und\"},\n    {\"n\": 26, \"text\": \"alle Arten Federflaum, und verfertiget neues Bett-\"},\n    {\"n\": 27, \"text\": \"zeug, übernimmt auch Commission und Spedition.\"},\n    {\"n\": 28, \"text\": \"Stephani (die Töchter,) halten einen Mon-\"},\n    {\"n\": 29, \"text\": \"tirla-\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"thut auch in Specereywaaren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"dern, Flaum 2c. und verfertiget neues Bettzeug, thut auch in Specereywaaren.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"Oehlhafen\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Seidenband-Fabrikant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Oehlhafen, Seidenband-Fabrikant.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"Pfleger\",\n      \"forename\": \"Daniel\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"führen eine Stahl, Eisen, Zinn, Bley, Meßing und Specereyhandlung\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Pfleger und Comp. führen eine Stahl, Eisen, Zinn, Bley, Meßing und Specereyhandlung.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"Rothpletz\",\n      \"forename\": \"Joh. Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"führt eine Indiennen-Fabrik und Baumwollenhandlung\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Heinrich Rothpletz, führt eine Indiennen-Fabrik und Baumwollenhandlung.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"Reifft\",\n      \"forename\": \"Arnold\",\n      \"title\": \"\",\n      \"occupation\": \"führt Baumwoll und baumwollene Tücher, hat auch eine Spedition-und Commissionshandlung\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Arnold Reifft, führt Baumwoll und baumwollene Tücher, hat auch eine Spedition-und Commissionshandlung.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"Reifft\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"führt einen Handel mit Spiegeln, Meerrohr, Rauchtabak, und allen Arten Tabakpfeiffen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Reifft, führt einen Handel mit Spiegeln, Meerrohr, Rauchtabak, und allen Arten Tabakpfeiffen.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"Rychener\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"führt Eisen, Specerey, Baumwolle und wollene Waaren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Rychener, führt Eisen, Specerey, Baumwolle und wollene Waaren.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"Siebenmann\",\n      \"forename\": \"Daniel\",\n      \"title\": \"jünger\",\n      \"occupation\": \"führt Baumwolle und baumwollene Tücher, und hält eine Fuhre (welche alle 14 Tage den Sonntag von hier abfährt) für das ganze Pays de Vaud\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Siebenmann, jünger, führt Baumwolle und baumwollene Tücher, und hält eine Fuhre (welche alle 14 Tage den Sonntag von hier abfährt) für das ganze Pays de Vaud.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"Saxer\",\n      \"forename\": \"Hieronymus\",\n      \"title\": \"\",\n      \"occupation\": \"führt eine Leinwand, Baumwollen und baumwollene Tücherhandlung, hat zugleich eine Weißbleiche\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hieronymus Saxer, führt eine Leinwand, Baumwollen und baumwollene Tücherhandlung, hat zugleich eine Weißbleiche.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"Stephani\",\n      \"forename\": \"Joh. Jacob\",\n      \"title\": \"\",\n      \"occupation\": \"verkauft Specerey und alle Arten Federflaum, und verfertiget neues Bettzeug, übernimmt auch Commission und Spedition\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jacob Stephani, verkauft Specerey und alle Arten Federflaum, und verfertiget neues Bettzeug, übernimmt auch Commission und Spedition.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Arau.\",\n      \"place\": \"Arau\",\n      \"surname\": \"Stephani\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"halten einen Montirla-\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"die Töchter\",\n      \"note\": \"\",\n      \"text\": \"Stephani (die Töchter,) halten einen Montirla-\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "16",
+  "running_head": "Arau.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "16 Arau."
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "dern, Flaum 2c. und verfertiget neues Bettzeug,"
+   },
+   {
+    "n": 4,
+    "text": "thut auch in Specereywaaren."
+   },
+   {
+    "n": 5,
+    "text": "Johannes Oehlhafen, Seidenband-Fabrikant."
+   },
+   {
+    "n": 6,
+    "text": "Daniel Pfleger und Comp. führen eine Stahl,"
+   },
+   {
+    "n": 7,
+    "text": "Eisen, Zinn, Bley, Meßing und Specereyhandlung."
+   },
+   {
+    "n": 8,
+    "text": "Joh. Heinrich Rothpletz, führt eine Indien-"
+   },
+   {
+    "n": 9,
+    "text": "nen = Fabrik und Baumwollenhandlung."
+   },
+   {
+    "n": 10,
+    "text": "Arnold Reifft, führt Baumwoll und baum-"
+   },
+   {
+    "n": 11,
+    "text": "wollene Tücher, hat auch eine Spedition-und Com-"
+   },
+   {
+    "n": 12,
+    "text": "missionshandlung."
+   },
+   {
+    "n": 13,
+    "text": "Joh. Jakob Reifft, führt einen Handel mit"
+   },
+   {
+    "n": 14,
+    "text": "Spiegeln, Meerrohr, Rauchtabak, und allen Arten"
+   },
+   {
+    "n": 15,
+    "text": "Tabakpfeiffen."
+   },
+   {
+    "n": 16,
+    "text": "Johannes Rychener, führt Eisen, Specerey,"
+   },
+   {
+    "n": 17,
+    "text": "Baumwolle und wollene Waaren."
+   },
+   {
+    "n": 18,
+    "text": "Daniel Siebenmann, jünger, führt Baum-"
+   },
+   {
+    "n": 19,
+    "text": "wolle und baumwollene Tücher, und hält eine Fuh-"
+   },
+   {
+    "n": 20,
+    "text": "re (welche alle 14 Tage den Sonntag von hier"
+   },
+   {
+    "n": 21,
+    "text": "abfährt) für das ganze Pays de Vaud."
+   },
+   {
+    "n": 22,
+    "text": "Hieronymus Saxer, führt eine Leinwand,"
+   },
+   {
+    "n": 23,
+    "text": "Baumwollen und baumwollene Tücherhandlung, hat"
+   },
+   {
+    "n": 24,
+    "text": "zugleich eine Weißbleiche."
+   },
+   {
+    "n": 25,
+    "text": "Joh. Jacob Stephani, verkauft Specerey und"
+   },
+   {
+    "n": 26,
+    "text": "alle Arten Federflaum, und verfertiget neues Bett-"
+   },
+   {
+    "n": 27,
+    "text": "zeug, übernimmt auch Commission und Spedition."
+   },
+   {
+    "n": 28,
+    "text": "Stephani (die Töchter,) halten einen Mon-"
+   },
+   {
+    "n": 29,
+    "text": "tirla-"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "thut auch in Specereywaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "dern, Flaum 2c. und verfertiget neues Bettzeug, thut auch in Specereywaaren."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Oehlhafen",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Seidenband-Fabrikant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Oehlhafen, Seidenband-Fabrikant."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Pfleger",
+    "forename": "Daniel",
+    "title": "und Comp.",
+    "occupation": "führen eine Stahl, Eisen, Zinn, Bley, Meßing und Specereyhandlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Pfleger und Comp. führen eine Stahl, Eisen, Zinn, Bley, Meßing und Specereyhandlung."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Rothpletz",
+    "forename": "Joh. Heinrich",
+    "title": "",
+    "occupation": "führt eine Indiennen-Fabrik und Baumwollenhandlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Heinrich Rothpletz, führt eine Indiennen-Fabrik und Baumwollenhandlung."
+   },
+   {
+    "line_from": 10,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Reifft",
+    "forename": "Arnold",
+    "title": "",
+    "occupation": "führt Baumwoll und baumwollene Tücher, hat auch eine Spedition-und Commissionshandlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Arnold Reifft, führt Baumwoll und baumwollene Tücher, hat auch eine Spedition-und Commissionshandlung."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Reifft",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "führt einen Handel mit Spiegeln, Meerrohr, Rauchtabak, und allen Arten Tabakpfeiffen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Reifft, führt einen Handel mit Spiegeln, Meerrohr, Rauchtabak, und allen Arten Tabakpfeiffen."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Rychener",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "führt Eisen, Specerey, Baumwolle und wollene Waaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Rychener, führt Eisen, Specerey, Baumwolle und wollene Waaren."
+   },
+   {
+    "line_from": 18,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Siebenmann",
+    "forename": "Daniel",
+    "title": "jünger",
+    "occupation": "führt Baumwolle und baumwollene Tücher, und hält eine Fuhre (welche alle 14 Tage den Sonntag von hier abfährt) für das ganze Pays de Vaud",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Siebenmann, jünger, führt Baumwolle und baumwollene Tücher, und hält eine Fuhre (welche alle 14 Tage den Sonntag von hier abfährt) für das ganze Pays de Vaud."
+   },
+   {
+    "line_from": 22,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Saxer",
+    "forename": "Hieronymus",
+    "title": "",
+    "occupation": "führt eine Leinwand, Baumwollen und baumwollene Tücherhandlung, hat zugleich eine Weißbleiche",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hieronymus Saxer, führt eine Leinwand, Baumwollen und baumwollene Tücherhandlung, hat zugleich eine Weißbleiche."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Stephani",
+    "forename": "Joh. Jacob",
+    "title": "",
+    "occupation": "verkauft Specerey und alle Arten Federflaum, und verfertiget neues Bettzeug, übernimmt auch Commission und Spedition",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jacob Stephani, verkauft Specerey und alle Arten Federflaum, und verfertiget neues Bettzeug, übernimmt auch Commission und Spedition."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Stephani",
+    "forename": "",
+    "title": "",
+    "occupation": "halten einen Montirla-",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "die Töchter",
+    "note": "",
+    "text": "Stephani (die Töchter,) halten einen Montirla-"
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:09:40+01:00",
+ "last_error": null
+}

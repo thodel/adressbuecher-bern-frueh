@@ -1,0 +1,345 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 128,
+ "section": "canton",
+ "started": "2026-11-10T21:13:11+01:00",
+ "thinking": "low",
+ "seconds": 16.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2322,
+  "output": 2598,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"55\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"55\"},\n    {\"n\": 2, \"text\": \"Préfecture de Froutigen.\"},\n    {\"n\": 3, \"text\": \"Froutigen.\"},\n    {\"n\": 4, \"text\": \"Buhler, Pièrre, Epicerie et Mercerie.\"},\n    {\"n\": 5, \"text\": \"Klopfenstein, Jean, Teinturier.\"},\n    {\"n\": 6, \"text\": \"Künzi, Gilgian, au Hasle, Fabricant d'Etof-\"},\n    {\"n\": 7, \"text\": \"fes de l'Oberland.\"},\n    {\"n\": 8, \"text\": \"Richen, Antoine, Epicerie et Mercerie.\"},\n    {\"n\": 9, \"text\": \"Schneider, les frères, Fabricant d'Etoffes de\"},\n    {\"n\": 10, \"text\": \"l'Oberland, détail d'autres Etoffes et d'Epi-\"},\n    {\"n\": 11, \"text\": \"cerie.\"},\n    {\"n\": 12, \"text\": \"Schneider, Jean, Fabricant d'Etoffes de l'Ober-\"},\n    {\"n\": 13, \"text\": \"land.\"},\n    {\"n\": 14, \"text\": \"Wæffler, Pièrre, Epicerie et Mercerie.\"},\n    {\"n\": 15, \"text\": \"Zourbrugg, Melchior, Epicerie, Droguerie,\"},\n    {\"n\": 16, \"text\": \"Mercerie.\"},\n    {\"n\": 17, \"text\": \"Zurcher, Daniel, Cuirs, Epicerie, Mercerie.\"},\n    {\"n\": 18, \"text\": \"Kanderbrougg.\"},\n    {\"n\": 19, \"text\": \"Reichen, Gilgian, Cuirs, Epicerie, Etoffes de\"},\n    {\"n\": 20, \"text\": \"l'Oberland.\"},\n    {\"n\": 21, \"text\": \"Schwanden.\"},\n    {\"n\": 22, \"text\": \"Witwer, Pièrre, et Chrétien Roubin, Etoffes\"},\n    {\"n\": 23, \"text\": \"de l'Oberland.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Froutigen. Froutigen.\",\n      \"place\": \"Froutigen\",\n      \"surname\": \"Buhler\",\n      \"forename\": \"Pièrre\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie et Mercerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Buhler, Pièrre, Epicerie et Mercerie.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Froutigen. Froutigen.\",\n      \"place\": \"Froutigen\",\n      \"surname\": \"Klopfenstein\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Teinturier\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Klopfenstein, Jean, Teinturier.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Froutigen. Froutigen.\",\n      \"place\": \"Froutigen\",\n      \"surname\": \"Künzi\",\n      \"forename\": \"Gilgian\",\n      \"title\": \"\",\n      \"occupation\": \"Fabricant d'Etoffes de l'Oberland\",\n      \"address\": \"au Hasle\",\n      \"quarter\": \"\",\n      \"street\": \"au Hasle\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Künzi, Gilgian, au Hasle, Fabricant d'Etoffes de l'Oberland.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Froutigen. Froutigen.\",\n      \"place\": \"Froutigen\",\n      \"surname\": \"Richen\",\n      \"forename\": \"Antoine\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie et Mercerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Richen, Antoine, Epicerie et Mercerie.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Préfecture de Froutigen. Froutigen.\",\n      \"place\": \"Froutigen\",\n      \"surname\": \"Schneider\",\n      \"forename\": \"\",\n      \"title\": \"les frères\",\n      \"occupation\": \"Fabricant d'Etoffes de l'Oberland, détail d'autres Etoffes et d'Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schneider, les frères, Fabricant d'Etoffes de l'Oberland, détail d'autres Etoffes et d'Epicerie.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Froutigen. Froutigen.\",\n      \"place\": \"Froutigen\",\n      \"surname\": \"Schneider\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Fabricant d'Etoffes de l'Oberland\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schneider, Jean, Fabricant d'Etoffes de l'Oberland.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Froutigen. Froutigen.\",\n      \"place\": \"Froutigen\",\n      \"surname\": \"Wæffler\",\n      \"forename\": \"Pièrre\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie et Mercerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wæffler, Pièrre, Epicerie et Mercerie.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Froutigen. Froutigen.\",\n      \"place\": \"Froutigen\",\n      \"surname\": \"Zourbrugg\",\n      \"forename\": \"Melchior\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie, Droguerie, Mercerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zourbrugg, Melchior, Epicerie, Droguerie, Mercerie.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Froutigen. Froutigen.\",\n      \"place\": \"Froutigen\",\n      \"surname\": \"Zurcher\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Cuirs, Epicerie, Mercerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zurcher, Daniel, Cuirs, Epicerie, Mercerie.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Froutigen. Kanderbrougg.\",\n      \"place\": \"Kanderbrougg\",\n      \"surname\": \"Reichen\",\n      \"forename\": \"Gilgian\",\n      \"title\": \"\",\n      \"occupation\": \"Cuirs, Epicerie, Etoffes de l'Oberland\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reichen, Gilgian, Cuirs, Epicerie, Etoffes de l'Oberland.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"firma\",\n      \"heading\": \"Préfecture de Froutigen. Schwanden.\",\n      \"place\": \"Schwanden\",\n      \"surname\": \"Witwer\",\n      \"forename\": \"Pièrre\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes de l'Oberland\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"mit Chrétien Roubin\",\n      \"text\": \"Witwer, Pièrre, et Chrétien Roubin, Etoffes de l'Oberland.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "55",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "55"
+   },
+   {
+    "n": 2,
+    "text": "Préfecture de Froutigen."
+   },
+   {
+    "n": 3,
+    "text": "Froutigen."
+   },
+   {
+    "n": 4,
+    "text": "Buhler, Pièrre, Epicerie et Mercerie."
+   },
+   {
+    "n": 5,
+    "text": "Klopfenstein, Jean, Teinturier."
+   },
+   {
+    "n": 6,
+    "text": "Künzi, Gilgian, au Hasle, Fabricant d'Etof-"
+   },
+   {
+    "n": 7,
+    "text": "fes de l'Oberland."
+   },
+   {
+    "n": 8,
+    "text": "Richen, Antoine, Epicerie et Mercerie."
+   },
+   {
+    "n": 9,
+    "text": "Schneider, les frères, Fabricant d'Etoffes de"
+   },
+   {
+    "n": 10,
+    "text": "l'Oberland, détail d'autres Etoffes et d'Epi-"
+   },
+   {
+    "n": 11,
+    "text": "cerie."
+   },
+   {
+    "n": 12,
+    "text": "Schneider, Jean, Fabricant d'Etoffes de l'Ober-"
+   },
+   {
+    "n": 13,
+    "text": "land."
+   },
+   {
+    "n": 14,
+    "text": "Wæffler, Pièrre, Epicerie et Mercerie."
+   },
+   {
+    "n": 15,
+    "text": "Zourbrugg, Melchior, Epicerie, Droguerie,"
+   },
+   {
+    "n": 16,
+    "text": "Mercerie."
+   },
+   {
+    "n": 17,
+    "text": "Zurcher, Daniel, Cuirs, Epicerie, Mercerie."
+   },
+   {
+    "n": 18,
+    "text": "Kanderbrougg."
+   },
+   {
+    "n": 19,
+    "text": "Reichen, Gilgian, Cuirs, Epicerie, Etoffes de"
+   },
+   {
+    "n": 20,
+    "text": "l'Oberland."
+   },
+   {
+    "n": 21,
+    "text": "Schwanden."
+   },
+   {
+    "n": 22,
+    "text": "Witwer, Pièrre, et Chrétien Roubin, Etoffes"
+   },
+   {
+    "n": 23,
+    "text": "de l'Oberland."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Préfecture de Froutigen. Froutigen.",
+    "place": "Froutigen",
+    "surname": "Buhler",
+    "forename": "Pièrre",
+    "title": "",
+    "occupation": "Epicerie et Mercerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Buhler, Pièrre, Epicerie et Mercerie."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Préfecture de Froutigen. Froutigen.",
+    "place": "Froutigen",
+    "surname": "Klopfenstein",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Teinturier",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Klopfenstein, Jean, Teinturier."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Préfecture de Froutigen. Froutigen.",
+    "place": "Froutigen",
+    "surname": "Künzi",
+    "forename": "Gilgian",
+    "title": "",
+    "occupation": "Fabricant d'Etoffes de l'Oberland",
+    "address": "au Hasle",
+    "quarter": "",
+    "street": "au Hasle",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Künzi, Gilgian, au Hasle, Fabricant d'Etoffes de l'Oberland."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Préfecture de Froutigen. Froutigen.",
+    "place": "Froutigen",
+    "surname": "Richen",
+    "forename": "Antoine",
+    "title": "",
+    "occupation": "Epicerie et Mercerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Richen, Antoine, Epicerie et Mercerie."
+   },
+   {
+    "line_from": 9,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Préfecture de Froutigen. Froutigen.",
+    "place": "Froutigen",
+    "surname": "Schneider",
+    "forename": "",
+    "title": "les frères",
+    "occupation": "Fabricant d'Etoffes de l'Oberland, détail d'autres Etoffes et d'Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schneider, les frères, Fabricant d'Etoffes de l'Oberland, détail d'autres Etoffes et d'Epicerie."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Préfecture de Froutigen. Froutigen.",
+    "place": "Froutigen",
+    "surname": "Schneider",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Fabricant d'Etoffes de l'Oberland",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schneider, Jean, Fabricant d'Etoffes de l'Oberland."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Préfecture de Froutigen. Froutigen.",
+    "place": "Froutigen",
+    "surname": "Wæffler",
+    "forename": "Pièrre",
+    "title": "",
+    "occupation": "Epicerie et Mercerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wæffler, Pièrre, Epicerie et Mercerie."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Préfecture de Froutigen. Froutigen.",
+    "place": "Froutigen",
+    "surname": "Zourbrugg",
+    "forename": "Melchior",
+    "title": "",
+    "occupation": "Epicerie, Droguerie, Mercerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zourbrugg, Melchior, Epicerie, Droguerie, Mercerie."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Préfecture de Froutigen. Froutigen.",
+    "place": "Froutigen",
+    "surname": "Zurcher",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Cuirs, Epicerie, Mercerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zurcher, Daniel, Cuirs, Epicerie, Mercerie."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Préfecture de Froutigen. Kanderbrougg.",
+    "place": "Kanderbrougg",
+    "surname": "Reichen",
+    "forename": "Gilgian",
+    "title": "",
+    "occupation": "Cuirs, Epicerie, Etoffes de l'Oberland",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reichen, Gilgian, Cuirs, Epicerie, Etoffes de l'Oberland."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "firma",
+    "heading": "Préfecture de Froutigen. Schwanden.",
+    "place": "Schwanden",
+    "surname": "Witwer",
+    "forename": "Pièrre",
+    "title": "",
+    "occupation": "Etoffes de l'Oberland",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "mit Chrétien Roubin",
+    "text": "Witwer, Pièrre, et Chrétien Roubin, Etoffes de l'Oberland."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:13:28+01:00",
+ "last_error": null
+}

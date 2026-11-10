@@ -1,0 +1,377 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 147,
+ "section": "einsassen",
+ "started": "2026-11-10T21:55:36+01:00",
+ "thinking": "low",
+ "seconds": 19.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 3610,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"134\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 134 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Nupp.\"},\n    {\"n\": 4, \"text\": \"1 797 Christian, Gärtner, a. Steffisburg — I, 12.\"},\n    {\"n\": 5, \"text\": \"Fr. — Maria Labhard a. Bursinel.\"},\n    {\"n\": 6, \"text\": \"3 K. — 820 Anna Maria. — 23 Joh. Ludw. — 25 Elise.\"},\n    {\"n\": 7, \"text\": \"2 781 Susanna, Speziererin, a. Neutigen — II, 91 u. 92.\"},\n    {\"n\": 8, \"text\": \"Nusch.\"},\n    {\"n\": 9, \"text\": \"1 804 Samuel, Schuhmacher, a. Oftringen, K. Aargau — IV, 303.\"},\n    {\"n\": 10, \"text\": \"6 K. — 823 Verena. — 29 Samuel. — 32 Gottlieb. —\"},\n    {\"n\": 11, \"text\": \"34 Wilhelmine. — 37 Maria Louise. — 39 Wilhelm.\"},\n    {\"n\": 12, \"text\": \"Nusterholz.\"},\n    {\"n\": 13, \"text\": \"1 Johann, Spezierer, a. Wädenschwyl, K. Zürich — IV, 140.\"},\n    {\"n\": 14, \"text\": \"Fr. — Kath. Scheidegger a. Huttwyl.\"},\n    {\"n\": 15, \"text\": \"Nutershauser.\"},\n    {\"n\": 16, \"text\": \"1 801 Philipp, Schlosser, a. Altnau, K. Thurgau — II, 151.\"},\n    {\"n\": 17, \"text\": \"813 Fr. — Elis. Verben a. Saanen.\"},\n    {\"n\": 18, \"text\": \"2 T. — 840 Phil. Kath. — 44 Maria Ludovika.\"},\n    {\"n\": 19, \"text\": \"Nutschmann.\"},\n    {\"n\": 20, \"text\": \"1 799 Joh., Leinweber u. Krämer, a. Madiswyl — VI, 36.\"},\n    {\"n\": 21, \"text\": \"Nyffel.\"},\n    {\"n\": 22, \"text\": \"1 814 Jakob, Schneider, a. Stäfa, K. Zürich — IV, 15.\"},\n    {\"n\": 23, \"text\": \"811 Fr. — Kath. Iseli a. Rüegsau.\"},\n    {\"n\": 24, \"text\": \"Nyf.\"},\n    {\"n\": 25, \"text\": \"1 808 Jakob, Speisewirth, a. Attiswyl — IV, 42.\"},\n    {\"n\": 26, \"text\": \"818 Fr. — Elis. Hofmann a. Worb.\"},\n    {\"n\": 27, \"text\": \"1 T. — 837 Elisabetha.\"},\n    {\"n\": 28, \"text\": \"Nyser.\"},\n    {\"n\": 29, \"text\": \"1 802 Joh., Weinausschenk u. Seiler, a. Ursenbach — II, 189.\"},\n    {\"n\": 30, \"text\": \"804 Fr. III Ehe. — Elis. Dafen.\"},\n    {\"n\": 31, \"text\": \"3 K. früherer Ehen: 832 Louis. — 41 Math. Rud. —\"},\n    {\"n\": 32, \"text\": \"36 Karl.\"},\n    {\"n\": 33, \"text\": \"Nyß.\"},\n    {\"n\": 34, \"text\": \"1 771 Elisabetha, geb. Dik, Pfarrerswittwe, a. Brugg, K.\"},\n    {\"n\": 35, \"text\": \"Aargau — IV, 40.\"},\n    {\"n\": 36, \"text\": \"1 T. — 798 Julie, Privatlehrerin.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Nupp.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nupp\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Gärtner\",\n      \"address\": \"I, 12\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"12\",\n      \"origin\": \"Steffisburg\",\n      \"birth_year\": \"1797\",\n      \"household\": \"Fr. — Maria Labhard a. Bursinel. ; 3 K. — 820 Anna Maria. — 23 Joh. Ludw. — 25 Elise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 Christian, Gärtner, a. Steffisburg — I, 12. Fr. — Maria Labhard a. Bursinel. 3 K. — 820 Anna Maria. — 23 Joh. Ludw. — 25 Elise.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Nupp.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nupp\",\n      \"forename\": \"Susanna\",\n      \"title\": \"\",\n      \"occupation\": \"Speziererin\",\n      \"address\": \"II, 91 u. 92\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"91 u. 92\",\n      \"origin\": \"Neutigen\",\n      \"birth_year\": \"1781\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 781 Susanna, Speziererin, a. Neutigen — II, 91 u. 92.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Nusch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nusch\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 303\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"303\",\n      \"origin\": \"Oftringen, K. Aargau\",\n      \"birth_year\": \"1804\",\n      \"household\": \"6 K. — 823 Verena. — 29 Samuel. — 32 Gottlieb. — 34 Wilhelmine. — 37 Maria Louise. — 39 Wilhelm.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Samuel, Schuhmacher, a. Oftringen, K. Aargau — IV, 303. 6 K. — 823 Verena. — 29 Samuel. — 32 Gottlieb. — 34 Wilhelmine. — 37 Maria Louise. — 39 Wilhelm.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Nusterholz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nusterholz\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Spezierer\",\n      \"address\": \"IV, 140\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"140\",\n      \"origin\": \"Wädenschwyl, K. Zürich\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. — Kath. Scheidegger a. Huttwyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Johann, Spezierer, a. Wädenschwyl, K. Zürich — IV, 140. Fr. — Kath. Scheidegger a. Huttwyl.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Nutershauser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nutershauser\",\n      \"forename\": \"Philipp\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"II, 151\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"151\",\n      \"origin\": \"Altnau, K. Thurgau\",\n      \"birth_year\": \"1801\",\n      \"household\": \"813 Fr. — Elis. Verben a. Saanen. ; 2 T. — 840 Phil. Kath. — 44 Maria Ludovika.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 801 Philipp, Schlosser, a. Altnau, K. Thurgau — II, 151. 813 Fr. — Elis. Verben a. Saanen. 2 T. — 840 Phil. Kath. — 44 Maria Ludovika.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Nutschmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nutschmann\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Leinweber u. Krämer\",\n      \"address\": \"VI, 36\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"Madiswyl\",\n      \"birth_year\": \"1799\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Joh., Leinweber u. Krämer, a. Madiswyl — VI, 36.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Nyffel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nyffel\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 15\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"15\",\n      \"origin\": \"Stäfa, K. Zürich\",\n      \"birth_year\": \"1814\",\n      \"household\": \"811 Fr. — Kath. Iseli a. Rüegsau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Jakob, Schneider, a. Stäfa, K. Zürich — IV, 15. 811 Fr. — Kath. Iseli a. Rüegsau.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Nyf.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nyf\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth\",\n      \"address\": \"IV, 42\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"42\",\n      \"origin\": \"Attiswyl\",\n      \"birth_year\": \"1808\",\n      \"household\": \"818 Fr. — Elis. Hofmann a. Worb. ; 1 T. — 837 Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 808 Jakob, Speisewirth, a. Attiswyl — IV, 42. 818 Fr. — Elis. Hofmann a. Worb. 1 T. — 837 Elisabetha.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Nyser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nyser\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Weinausschenk u. Seiler\",\n      \"address\": \"II, 189\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"189\",\n      \"origin\": \"Ursenbach\",\n      \"birth_year\": \"1802\",\n      \"household\": \"804 Fr. III Ehe. — Elis. Dafen. ; 3 K. früherer Ehen: 832 Louis. — 41 Math. Rud. — 36 Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Joh., Weinausschenk u. Seiler, a. Ursenbach — II, 189. 804 Fr. III Ehe. — Elis. Dafen. 3 K. früherer Ehen: 832 Louis. — 41 Math. Rud. — 36 Karl.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Nyß.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nyß\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"geb. Dik , Pfarrerswittwe\",\n      \"occupation\": \"\",\n      \"address\": \"IV, 40\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"40\",\n      \"origin\": \"Brugg, K. Aargau\",\n      \"birth_year\": \"1771\",\n      \"household\": \"1 T. — 798 Julie, Privatlehrerin.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 771 Elisabetha, geb. Dik, Pfarrerswittwe, a. Brugg, K. Aargau — IV, 40. 1 T. — 798 Julie, Privatlehrerin.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "134",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 134 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Nupp."
+   },
+   {
+    "n": 4,
+    "text": "1 797 Christian, Gärtner, a. Steffisburg — I, 12."
+   },
+   {
+    "n": 5,
+    "text": "Fr. — Maria Labhard a. Bursinel."
+   },
+   {
+    "n": 6,
+    "text": "3 K. — 820 Anna Maria. — 23 Joh. Ludw. — 25 Elise."
+   },
+   {
+    "n": 7,
+    "text": "2 781 Susanna, Speziererin, a. Neutigen — II, 91 u. 92."
+   },
+   {
+    "n": 8,
+    "text": "Nusch."
+   },
+   {
+    "n": 9,
+    "text": "1 804 Samuel, Schuhmacher, a. Oftringen, K. Aargau — IV, 303."
+   },
+   {
+    "n": 10,
+    "text": "6 K. — 823 Verena. — 29 Samuel. — 32 Gottlieb. —"
+   },
+   {
+    "n": 11,
+    "text": "34 Wilhelmine. — 37 Maria Louise. — 39 Wilhelm."
+   },
+   {
+    "n": 12,
+    "text": "Nusterholz."
+   },
+   {
+    "n": 13,
+    "text": "1 Johann, Spezierer, a. Wädenschwyl, K. Zürich — IV, 140."
+   },
+   {
+    "n": 14,
+    "text": "Fr. — Kath. Scheidegger a. Huttwyl."
+   },
+   {
+    "n": 15,
+    "text": "Nutershauser."
+   },
+   {
+    "n": 16,
+    "text": "1 801 Philipp, Schlosser, a. Altnau, K. Thurgau — II, 151."
+   },
+   {
+    "n": 17,
+    "text": "813 Fr. — Elis. Verben a. Saanen."
+   },
+   {
+    "n": 18,
+    "text": "2 T. — 840 Phil. Kath. — 44 Maria Ludovika."
+   },
+   {
+    "n": 19,
+    "text": "Nutschmann."
+   },
+   {
+    "n": 20,
+    "text": "1 799 Joh., Leinweber u. Krämer, a. Madiswyl — VI, 36."
+   },
+   {
+    "n": 21,
+    "text": "Nyffel."
+   },
+   {
+    "n": 22,
+    "text": "1 814 Jakob, Schneider, a. Stäfa, K. Zürich — IV, 15."
+   },
+   {
+    "n": 23,
+    "text": "811 Fr. — Kath. Iseli a. Rüegsau."
+   },
+   {
+    "n": 24,
+    "text": "Nyf."
+   },
+   {
+    "n": 25,
+    "text": "1 808 Jakob, Speisewirth, a. Attiswyl — IV, 42."
+   },
+   {
+    "n": 26,
+    "text": "818 Fr. — Elis. Hofmann a. Worb."
+   },
+   {
+    "n": 27,
+    "text": "1 T. — 837 Elisabetha."
+   },
+   {
+    "n": 28,
+    "text": "Nyser."
+   },
+   {
+    "n": 29,
+    "text": "1 802 Joh., Weinausschenk u. Seiler, a. Ursenbach — II, 189."
+   },
+   {
+    "n": 30,
+    "text": "804 Fr. III Ehe. — Elis. Dafen."
+   },
+   {
+    "n": 31,
+    "text": "3 K. früherer Ehen: 832 Louis. — 41 Math. Rud. —"
+   },
+   {
+    "n": 32,
+    "text": "36 Karl."
+   },
+   {
+    "n": 33,
+    "text": "Nyß."
+   },
+   {
+    "n": 34,
+    "text": "1 771 Elisabetha, geb. Dik, Pfarrerswittwe, a. Brugg, K."
+   },
+   {
+    "n": 35,
+    "text": "Aargau — IV, 40."
+   },
+   {
+    "n": 36,
+    "text": "1 T. — 798 Julie, Privatlehrerin."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Nupp.",
+    "place": "Bern",
+    "surname": "Nupp",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Gärtner",
+    "address": "I, 12",
+    "quarter": "I",
+    "street": "",
+    "house_no": "12",
+    "origin": "Steffisburg",
+    "birth_year": "1797",
+    "household": "Fr. — Maria Labhard a. Bursinel. ; 3 K. — 820 Anna Maria. — 23 Joh. Ludw. — 25 Elise.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 Christian, Gärtner, a. Steffisburg — I, 12. Fr. — Maria Labhard a. Bursinel. 3 K. — 820 Anna Maria. — 23 Joh. Ludw. — 25 Elise."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Nupp.",
+    "place": "Bern",
+    "surname": "Nupp",
+    "forename": "Susanna",
+    "title": "",
+    "occupation": "Speziererin",
+    "address": "II, 91 u. 92",
+    "quarter": "II",
+    "street": "",
+    "house_no": "91 u. 92",
+    "origin": "Neutigen",
+    "birth_year": "1781",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 781 Susanna, Speziererin, a. Neutigen — II, 91 u. 92."
+   },
+   {
+    "line_from": 9,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Nusch.",
+    "place": "Bern",
+    "surname": "Nusch",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 303",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "303",
+    "origin": "Oftringen, K. Aargau",
+    "birth_year": "1804",
+    "household": "6 K. — 823 Verena. — 29 Samuel. — 32 Gottlieb. — 34 Wilhelmine. — 37 Maria Louise. — 39 Wilhelm.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Samuel, Schuhmacher, a. Oftringen, K. Aargau — IV, 303. 6 K. — 823 Verena. — 29 Samuel. — 32 Gottlieb. — 34 Wilhelmine. — 37 Maria Louise. — 39 Wilhelm."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Nusterholz.",
+    "place": "Bern",
+    "surname": "Nusterholz",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Spezierer",
+    "address": "IV, 140",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "140",
+    "origin": "Wädenschwyl, K. Zürich",
+    "birth_year": "",
+    "household": "Fr. — Kath. Scheidegger a. Huttwyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Johann, Spezierer, a. Wädenschwyl, K. Zürich — IV, 140. Fr. — Kath. Scheidegger a. Huttwyl."
+   },
+   {
+    "line_from": 16,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Nutershauser.",
+    "place": "Bern",
+    "surname": "Nutershauser",
+    "forename": "Philipp",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "II, 151",
+    "quarter": "II",
+    "street": "",
+    "house_no": "151",
+    "origin": "Altnau, K. Thurgau",
+    "birth_year": "1801",
+    "household": "813 Fr. — Elis. Verben a. Saanen. ; 2 T. — 840 Phil. Kath. — 44 Maria Ludovika.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 801 Philipp, Schlosser, a. Altnau, K. Thurgau — II, 151. 813 Fr. — Elis. Verben a. Saanen. 2 T. — 840 Phil. Kath. — 44 Maria Ludovika."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Nutschmann.",
+    "place": "Bern",
+    "surname": "Nutschmann",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Leinweber u. Krämer",
+    "address": "VI, 36",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "36",
+    "origin": "Madiswyl",
+    "birth_year": "1799",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Joh., Leinweber u. Krämer, a. Madiswyl — VI, 36."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Nyffel.",
+    "place": "Bern",
+    "surname": "Nyffel",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 15",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "15",
+    "origin": "Stäfa, K. Zürich",
+    "birth_year": "1814",
+    "household": "811 Fr. — Kath. Iseli a. Rüegsau.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Jakob, Schneider, a. Stäfa, K. Zürich — IV, 15. 811 Fr. — Kath. Iseli a. Rüegsau."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Nyf.",
+    "place": "Bern",
+    "surname": "Nyf",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Speisewirth",
+    "address": "IV, 42",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "42",
+    "origin": "Attiswyl",
+    "birth_year": "1808",
+    "household": "818 Fr. — Elis. Hofmann a. Worb. ; 1 T. — 837 Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 808 Jakob, Speisewirth, a. Attiswyl — IV, 42. 818 Fr. — Elis. Hofmann a. Worb. 1 T. — 837 Elisabetha."
+   },
+   {
+    "line_from": 29,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Nyser.",
+    "place": "Bern",
+    "surname": "Nyser",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Weinausschenk u. Seiler",
+    "address": "II, 189",
+    "quarter": "II",
+    "street": "",
+    "house_no": "189",
+    "origin": "Ursenbach",
+    "birth_year": "1802",
+    "household": "804 Fr. III Ehe. — Elis. Dafen. ; 3 K. früherer Ehen: 832 Louis. — 41 Math. Rud. — 36 Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Joh., Weinausschenk u. Seiler, a. Ursenbach — II, 189. 804 Fr. III Ehe. — Elis. Dafen. 3 K. früherer Ehen: 832 Louis. — 41 Math. Rud. — 36 Karl."
+   },
+   {
+    "line_from": 34,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Nyß.",
+    "place": "Bern",
+    "surname": "Nyß",
+    "forename": "Elisabetha",
+    "title": "geb. Dik , Pfarrerswittwe",
+    "occupation": "",
+    "address": "IV, 40",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "40",
+    "origin": "Brugg, K. Aargau",
+    "birth_year": "1771",
+    "household": "1 T. — 798 Julie, Privatlehrerin.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 771 Elisabetha, geb. Dik, Pfarrerswittwe, a. Brugg, K. Aargau — IV, 40. 1 T. — 798 Julie, Privatlehrerin."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:55:55+01:00",
+ "last_error": null
+}

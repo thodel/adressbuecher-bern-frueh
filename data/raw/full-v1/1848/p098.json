@@ -1,0 +1,485 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 98,
+ "section": "einsassen",
+ "started": "2026-11-10T21:52:52+01:00",
+ "thinking": "low",
+ "seconds": 25.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4537,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"85\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 85 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Köhli.\"},\n    {\"n\": 4, \"text\": \"1 816 Rudolf, Müller u. Hausbesitzer, a. Kallnach - IV, 121.\"},\n    {\"n\": 5, \"text\": \"Kölliker.\"},\n    {\"n\": 6, \"text\": \"1 820 Maria u. 22 Rosine, Schneiderinnen, a. Thalwyl, K.\"},\n    {\"n\": 7, \"text\": \"Zürich - III, 81.\"},\n    {\"n\": 8, \"text\": \"Köng.\"},\n    {\"n\": 9, \"text\": \"1 803 Barb., geb. Galey, Näherin u. Krämerin, a. Hettiswyl\"},\n    {\"n\": 10, \"text\": \"- II, 223.\"},\n    {\"n\": 11, \"text\": \"5 T. — 833 Maria Augusta. — 34 Marg. Elis. — 37\"},\n    {\"n\": 12, \"text\": \"Maria Magd. — 40 Anna Barb. — 42 Elisabetha.\"},\n    {\"n\": 13, \"text\": \"König.\"},\n    {\"n\": 14, \"text\": \"1 775 Niklaus, Gutsbesitzer, a. Deisswyl - VII, 10.\"},\n    {\"n\": 15, \"text\": \"782 Fr. - Magd. Dietrich a. Mühleberg.\"},\n    {\"n\": 16, \"text\": \"2 798 Ulrich, Lohnkutscher, a. Münchenbuchsee - III, 15.\"},\n    {\"n\": 17, \"text\": \"797 Fr. - Maria Zumbrunn a. Zweisimmen.\"},\n    {\"n\": 18, \"text\": \"1 T. — 827 Ros. Elis.\"},\n    {\"n\": 19, \"text\": \"3 820 Joh. Albrecht, Silberarbeiter, a. Iffwyl - III, 37.\"},\n    {\"n\": 20, \"text\": \"Körber.\"},\n    {\"n\": 21, \"text\": \"1 Johann, Buchhändler unter der Firma: Huber u. Comp.,\"},\n    {\"n\": 22, \"text\": \"a. Twann - V, 195.\"},\n    {\"n\": 23, \"text\": \"(Die Familie ist nicht eingeschrieben.)\"},\n    {\"n\": 24, \"text\": \"Kohler.\"},\n    {\"n\": 25, \"text\": \"1 794 Jakob, Schneider, a. Jegenstorf - II, 95.\"},\n    {\"n\": 26, \"text\": \"794 Fr. - Anna Fürst a. Kerzerz.\"},\n    {\"n\": 27, \"text\": \"4 K. — 816 Anna Elis. — 18 Jakob. — 25 Chr. Jakob\"},\n    {\"n\": 28, \"text\": \"Friedrich. — 27 Johann Karl.\"},\n    {\"n\": 29, \"text\": \"2 785 Anna, geb. Steinhauer, verw. Aebi, Gypshändlerin, a.\"},\n    {\"n\": 30, \"text\": \"Jegenstorf - II, 196.\"},\n    {\"n\": 31, \"text\": \"(1 S. nicht eingeschrieben.)\"},\n    {\"n\": 32, \"text\": \"3 797 Julie Henriette, geb. Cartier, aus Elay, Geschirr-\"},\n    {\"n\": 33, \"text\": \"händlerin - II, 129.\"},\n    {\"n\": 34, \"text\": \"4 789 Charl. Marg., geb. Nis, Pfarrerswittwe, a. Nidau\"},\n    {\"n\": 35, \"text\": \"- II, 163.\"},\n    {\"n\": 36, \"text\": \"1 T. — 821 Henriette Amalie.\"},\n    {\"n\": 37, \"text\": \"5 809 Anna, geb. König, Hebamme, Bendichts Frau, a. Je-\"},\n    {\"n\": 38, \"text\": \"genstorf - III, 82.\"},\n    {\"n\": 39, \"text\": \"6 805 Christian, Sägenfeiler, a. Biglen - II, 224 a.\"},\n    {\"n\": 40, \"text\": \"Fr. - Kath. Schneider.\"},\n    {\"n\": 41, \"text\": \"(5 Kinder nicht eingeschrieben - in Biglen.)\"},\n    {\"n\": 42, \"text\": \"7 783 Friedrich, gew. Salzhandlungsverwalter, a. Büren -\"},\n    {\"n\": 43, \"text\": \"II, 122 c.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Köhli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Köhli\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Müller u. Hausbesitzer\",\n      \"address\": \"IV, 121\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"121\",\n      \"origin\": \"Kallnach\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Rudolf, Müller u. Hausbesitzer, a. Kallnach - IV, 121.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Kölliker.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kölliker\",\n      \"forename\": \"Maria u. Rosine\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderinnen\",\n      \"address\": \"III, 81\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"81\",\n      \"origin\": \"Thalwyl, K. Zürich\",\n      \"birth_year\": \"1820\",\n      \"household\": \"22 Rosine\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 820 Maria u. 22 Rosine, Schneiderinnen, a. Thalwyl, K. Zürich - III, 81.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Köng.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Köng\",\n      \"forename\": \"Barb.\",\n      \"title\": \"\",\n      \"occupation\": \"Näherin u. Krämerin\",\n      \"address\": \"II, 223\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"223\",\n      \"origin\": \"Hettiswyl\",\n      \"birth_year\": \"1803\",\n      \"household\": \"5 T. — 833 Maria Augusta. — 34 Marg. Elis. — 37 Maria Magd. — 40 Anna Barb. — 42 Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel, geb. Galey\",\n      \"text\": \"1 803 Barb., geb. Galey, Näherin u. Krämerin, a. Hettiswyl - II, 223. 5 T. — 833 Maria Augusta. — 34 Marg. Elis. — 37 Maria Magd. — 40 Anna Barb. — 42 Elisabetha.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"König.\",\n      \"place\": \"Bern\",\n      \"surname\": \"König\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Gutsbesitzer\",\n      \"address\": \"VII, 10\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"10\",\n      \"origin\": \"Deisswyl\",\n      \"birth_year\": \"1775\",\n      \"household\": \"782 Fr. - Magd. Dietrich a. Mühleberg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 775 Niklaus, Gutsbesitzer, a. Deisswyl - VII, 10. 782 Fr. - Magd. Dietrich a. Mühleberg.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"König.\",\n      \"place\": \"Bern\",\n      \"surname\": \"König\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnkutscher\",\n      \"address\": \"III, 15\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"15\",\n      \"origin\": \"Münchenbuchsee\",\n      \"birth_year\": \"1798\",\n      \"household\": \"797 Fr. - Maria Zumbrunn a. Zweisimmen. 1 T. — 827 Ros. Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 798 Ulrich, Lohnkutscher, a. Münchenbuchsee - III, 15. 797 Fr. - Maria Zumbrunn a. Zweisimmen. 1 T. — 827 Ros. Elis.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"König.\",\n      \"place\": \"Bern\",\n      \"surname\": \"König\",\n      \"forename\": \"Joh. Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"Silberarbeiter\",\n      \"address\": \"III, 37\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"37\",\n      \"origin\": \"Iffwyl\",\n      \"birth_year\": \"1820\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 820 Joh. Albrecht, Silberarbeiter, a. Iffwyl - III, 37.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Körber.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Körber\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Buchhändler unter der Firma: Huber u. Comp.\",\n      \"address\": \"V, 195\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"195\",\n      \"origin\": \"Twann\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; (Die Familie ist nicht eingeschrieben.)\",\n      \"text\": \"1 Johann, Buchhändler unter der Firma: Huber u. Comp., a. Twann - V, 195. (Die Familie ist nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Kohler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kohler\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"II, 95\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"Jegenstorf\",\n      \"birth_year\": \"1794\",\n      \"household\": \"794 Fr. - Anna Fürst a. Kerzerz. 4 K. — 816 Anna Elis. — 18 Jakob. — 25 Chr. Jakob Friedrich. — 27 Johann Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 794 Jakob, Schneider, a. Jegenstorf - II, 95. 794 Fr. - Anna Fürst a. Kerzerz. 4 K. — 816 Anna Elis. — 18 Jakob. — 25 Chr. Jakob Friedrich. — 27 Johann Karl.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Kohler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kohler\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Gypshändlerin\",\n      \"address\": \"II, 196\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"196\",\n      \"origin\": \"Jegenstorf\",\n      \"birth_year\": \"1785\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel, geb. Steinhauer, verw. Aebi; (1 S. nicht eingeschrieben.)\",\n      \"text\": \"2 785 Anna, geb. Steinhauer, verw. Aebi, Gypshändlerin, a. Jegenstorf - II, 196. (1 S. nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Kohler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kohler\",\n      \"forename\": \"Julie Henriette\",\n      \"title\": \"\",\n      \"occupation\": \"Geschirrhändlerin\",\n      \"address\": \"II, 129\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"129\",\n      \"origin\": \"aus Elay\",\n      \"birth_year\": \"1797\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel, geb. Cartier\",\n      \"text\": \"3 797 Julie Henriette, geb. Cartier, aus Elay, Geschirrhändlerin - II, 129.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Kohler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kohler\",\n      \"forename\": \"Charl. Marg.\",\n      \"title\": \"\",\n      \"occupation\": \"Pfarrerswittwe\",\n      \"address\": \"II, 163\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"163\",\n      \"origin\": \"Nidau\",\n      \"birth_year\": \"1789\",\n      \"household\": \"1 T. — 821 Henriette Amalie.\",\n      \"note\": \"Name aus Zwischentitel, geb. Nis\",\n      \"text\": \"4 789 Charl. Marg., geb. Nis, Pfarrerswittwe, a. Nidau - II, 163. 1 T. — 821 Henriette Amalie.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Kohler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kohler\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Hebamme\",\n      \"address\": \"III, 82\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"82\",\n      \"origin\": \"Jegenstorf\",\n      \"birth_year\": \"1809\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel, geb. König, Bendichts Frau\",\n      \"text\": \"5 809 Anna, geb. König, Hebamme, Bendichts Frau, a. Jegenstorf - III, 82.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Kohler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kohler\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Sägenfeiler\",\n      \"address\": \"II, 224 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"224 a\",\n      \"origin\": \"Biglen\",\n      \"birth_year\": \"1805\",\n      \"household\": \"Fr. - Kath. Schneider. (5 Kinder nicht eingeschrieben - in Biglen.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 805 Christian, Sägenfeiler, a. Biglen - II, 224 a. Fr. - Kath. Schneider. (5 Kinder nicht eingeschrieben - in Biglen.)\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Kohler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kohler\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Salzhandlungsverwalter\",\n      \"address\": \"II, 122 c\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 c\",\n      \"origin\": \"Büren\",\n      \"birth_year\": \"1783\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 783 Friedrich, gew. Salzhandlungsverwalter, a. Büren - II, 122 c.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "85",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 85 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Köhli."
+   },
+   {
+    "n": 4,
+    "text": "1 816 Rudolf, Müller u. Hausbesitzer, a. Kallnach - IV, 121."
+   },
+   {
+    "n": 5,
+    "text": "Kölliker."
+   },
+   {
+    "n": 6,
+    "text": "1 820 Maria u. 22 Rosine, Schneiderinnen, a. Thalwyl, K."
+   },
+   {
+    "n": 7,
+    "text": "Zürich - III, 81."
+   },
+   {
+    "n": 8,
+    "text": "Köng."
+   },
+   {
+    "n": 9,
+    "text": "1 803 Barb., geb. Galey, Näherin u. Krämerin, a. Hettiswyl"
+   },
+   {
+    "n": 10,
+    "text": "- II, 223."
+   },
+   {
+    "n": 11,
+    "text": "5 T. — 833 Maria Augusta. — 34 Marg. Elis. — 37"
+   },
+   {
+    "n": 12,
+    "text": "Maria Magd. — 40 Anna Barb. — 42 Elisabetha."
+   },
+   {
+    "n": 13,
+    "text": "König."
+   },
+   {
+    "n": 14,
+    "text": "1 775 Niklaus, Gutsbesitzer, a. Deisswyl - VII, 10."
+   },
+   {
+    "n": 15,
+    "text": "782 Fr. - Magd. Dietrich a. Mühleberg."
+   },
+   {
+    "n": 16,
+    "text": "2 798 Ulrich, Lohnkutscher, a. Münchenbuchsee - III, 15."
+   },
+   {
+    "n": 17,
+    "text": "797 Fr. - Maria Zumbrunn a. Zweisimmen."
+   },
+   {
+    "n": 18,
+    "text": "1 T. — 827 Ros. Elis."
+   },
+   {
+    "n": 19,
+    "text": "3 820 Joh. Albrecht, Silberarbeiter, a. Iffwyl - III, 37."
+   },
+   {
+    "n": 20,
+    "text": "Körber."
+   },
+   {
+    "n": 21,
+    "text": "1 Johann, Buchhändler unter der Firma: Huber u. Comp.,"
+   },
+   {
+    "n": 22,
+    "text": "a. Twann - V, 195."
+   },
+   {
+    "n": 23,
+    "text": "(Die Familie ist nicht eingeschrieben.)"
+   },
+   {
+    "n": 24,
+    "text": "Kohler."
+   },
+   {
+    "n": 25,
+    "text": "1 794 Jakob, Schneider, a. Jegenstorf - II, 95."
+   },
+   {
+    "n": 26,
+    "text": "794 Fr. - Anna Fürst a. Kerzerz."
+   },
+   {
+    "n": 27,
+    "text": "4 K. — 816 Anna Elis. — 18 Jakob. — 25 Chr. Jakob"
+   },
+   {
+    "n": 28,
+    "text": "Friedrich. — 27 Johann Karl."
+   },
+   {
+    "n": 29,
+    "text": "2 785 Anna, geb. Steinhauer, verw. Aebi, Gypshändlerin, a."
+   },
+   {
+    "n": 30,
+    "text": "Jegenstorf - II, 196."
+   },
+   {
+    "n": 31,
+    "text": "(1 S. nicht eingeschrieben.)"
+   },
+   {
+    "n": 32,
+    "text": "3 797 Julie Henriette, geb. Cartier, aus Elay, Geschirr-"
+   },
+   {
+    "n": 33,
+    "text": "händlerin - II, 129."
+   },
+   {
+    "n": 34,
+    "text": "4 789 Charl. Marg., geb. Nis, Pfarrerswittwe, a. Nidau"
+   },
+   {
+    "n": 35,
+    "text": "- II, 163."
+   },
+   {
+    "n": 36,
+    "text": "1 T. — 821 Henriette Amalie."
+   },
+   {
+    "n": 37,
+    "text": "5 809 Anna, geb. König, Hebamme, Bendichts Frau, a. Je-"
+   },
+   {
+    "n": 38,
+    "text": "genstorf - III, 82."
+   },
+   {
+    "n": 39,
+    "text": "6 805 Christian, Sägenfeiler, a. Biglen - II, 224 a."
+   },
+   {
+    "n": 40,
+    "text": "Fr. - Kath. Schneider."
+   },
+   {
+    "n": 41,
+    "text": "(5 Kinder nicht eingeschrieben - in Biglen.)"
+   },
+   {
+    "n": 42,
+    "text": "7 783 Friedrich, gew. Salzhandlungsverwalter, a. Büren -"
+   },
+   {
+    "n": 43,
+    "text": "II, 122 c."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Köhli.",
+    "place": "Bern",
+    "surname": "Köhli",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Müller u. Hausbesitzer",
+    "address": "IV, 121",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "121",
+    "origin": "Kallnach",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Rudolf, Müller u. Hausbesitzer, a. Kallnach - IV, 121."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Kölliker.",
+    "place": "Bern",
+    "surname": "Kölliker",
+    "forename": "Maria u. Rosine",
+    "title": "",
+    "occupation": "Schneiderinnen",
+    "address": "III, 81",
+    "quarter": "III",
+    "street": "",
+    "house_no": "81",
+    "origin": "Thalwyl, K. Zürich",
+    "birth_year": "1820",
+    "household": "22 Rosine",
+    "note": "Name aus Zwischentitel",
+    "text": "1 820 Maria u. 22 Rosine, Schneiderinnen, a. Thalwyl, K. Zürich - III, 81."
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Köng.",
+    "place": "Bern",
+    "surname": "Köng",
+    "forename": "Barb.",
+    "title": "",
+    "occupation": "Näherin u. Krämerin",
+    "address": "II, 223",
+    "quarter": "II",
+    "street": "",
+    "house_no": "223",
+    "origin": "Hettiswyl",
+    "birth_year": "1803",
+    "household": "5 T. — 833 Maria Augusta. — 34 Marg. Elis. — 37 Maria Magd. — 40 Anna Barb. — 42 Elisabetha.",
+    "note": "Name aus Zwischentitel, geb. Galey",
+    "text": "1 803 Barb., geb. Galey, Näherin u. Krämerin, a. Hettiswyl - II, 223. 5 T. — 833 Maria Augusta. — 34 Marg. Elis. — 37 Maria Magd. — 40 Anna Barb. — 42 Elisabetha."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "König.",
+    "place": "Bern",
+    "surname": "König",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Gutsbesitzer",
+    "address": "VII, 10",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "10",
+    "origin": "Deisswyl",
+    "birth_year": "1775",
+    "household": "782 Fr. - Magd. Dietrich a. Mühleberg.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 775 Niklaus, Gutsbesitzer, a. Deisswyl - VII, 10. 782 Fr. - Magd. Dietrich a. Mühleberg."
+   },
+   {
+    "line_from": 16,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "König.",
+    "place": "Bern",
+    "surname": "König",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Lohnkutscher",
+    "address": "III, 15",
+    "quarter": "III",
+    "street": "",
+    "house_no": "15",
+    "origin": "Münchenbuchsee",
+    "birth_year": "1798",
+    "household": "797 Fr. - Maria Zumbrunn a. Zweisimmen. 1 T. — 827 Ros. Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 798 Ulrich, Lohnkutscher, a. Münchenbuchsee - III, 15. 797 Fr. - Maria Zumbrunn a. Zweisimmen. 1 T. — 827 Ros. Elis."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "König.",
+    "place": "Bern",
+    "surname": "König",
+    "forename": "Joh. Albrecht",
+    "title": "",
+    "occupation": "Silberarbeiter",
+    "address": "III, 37",
+    "quarter": "III",
+    "street": "",
+    "house_no": "37",
+    "origin": "Iffwyl",
+    "birth_year": "1820",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 820 Joh. Albrecht, Silberarbeiter, a. Iffwyl - III, 37."
+   },
+   {
+    "line_from": 21,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Körber.",
+    "place": "Bern",
+    "surname": "Körber",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Buchhändler unter der Firma: Huber u. Comp.",
+    "address": "V, 195",
+    "quarter": "V",
+    "street": "",
+    "house_no": "195",
+    "origin": "Twann",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel; (Die Familie ist nicht eingeschrieben.)",
+    "text": "1 Johann, Buchhändler unter der Firma: Huber u. Comp., a. Twann - V, 195. (Die Familie ist nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 25,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Kohler.",
+    "place": "Bern",
+    "surname": "Kohler",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "II, 95",
+    "quarter": "II",
+    "street": "",
+    "house_no": "95",
+    "origin": "Jegenstorf",
+    "birth_year": "1794",
+    "household": "794 Fr. - Anna Fürst a. Kerzerz. 4 K. — 816 Anna Elis. — 18 Jakob. — 25 Chr. Jakob Friedrich. — 27 Johann Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 794 Jakob, Schneider, a. Jegenstorf - II, 95. 794 Fr. - Anna Fürst a. Kerzerz. 4 K. — 816 Anna Elis. — 18 Jakob. — 25 Chr. Jakob Friedrich. — 27 Johann Karl."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Kohler.",
+    "place": "Bern",
+    "surname": "Kohler",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Gypshändlerin",
+    "address": "II, 196",
+    "quarter": "II",
+    "street": "",
+    "house_no": "196",
+    "origin": "Jegenstorf",
+    "birth_year": "1785",
+    "household": "",
+    "note": "Name aus Zwischentitel, geb. Steinhauer, verw. Aebi; (1 S. nicht eingeschrieben.)",
+    "text": "2 785 Anna, geb. Steinhauer, verw. Aebi, Gypshändlerin, a. Jegenstorf - II, 196. (1 S. nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Kohler.",
+    "place": "Bern",
+    "surname": "Kohler",
+    "forename": "Julie Henriette",
+    "title": "",
+    "occupation": "Geschirrhändlerin",
+    "address": "II, 129",
+    "quarter": "II",
+    "street": "",
+    "house_no": "129",
+    "origin": "aus Elay",
+    "birth_year": "1797",
+    "household": "",
+    "note": "Name aus Zwischentitel, geb. Cartier",
+    "text": "3 797 Julie Henriette, geb. Cartier, aus Elay, Geschirrhändlerin - II, 129."
+   },
+   {
+    "line_from": 34,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Kohler.",
+    "place": "Bern",
+    "surname": "Kohler",
+    "forename": "Charl. Marg.",
+    "title": "",
+    "occupation": "Pfarrerswittwe",
+    "address": "II, 163",
+    "quarter": "II",
+    "street": "",
+    "house_no": "163",
+    "origin": "Nidau",
+    "birth_year": "1789",
+    "household": "1 T. — 821 Henriette Amalie.",
+    "note": "Name aus Zwischentitel, geb. Nis",
+    "text": "4 789 Charl. Marg., geb. Nis, Pfarrerswittwe, a. Nidau - II, 163. 1 T. — 821 Henriette Amalie."
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Kohler.",
+    "place": "Bern",
+    "surname": "Kohler",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Hebamme",
+    "address": "III, 82",
+    "quarter": "III",
+    "street": "",
+    "house_no": "82",
+    "origin": "Jegenstorf",
+    "birth_year": "1809",
+    "household": "",
+    "note": "Name aus Zwischentitel, geb. König, Bendichts Frau",
+    "text": "5 809 Anna, geb. König, Hebamme, Bendichts Frau, a. Jegenstorf - III, 82."
+   },
+   {
+    "line_from": 39,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Kohler.",
+    "place": "Bern",
+    "surname": "Kohler",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Sägenfeiler",
+    "address": "II, 224 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "224 a",
+    "origin": "Biglen",
+    "birth_year": "1805",
+    "household": "Fr. - Kath. Schneider. (5 Kinder nicht eingeschrieben - in Biglen.)",
+    "note": "Name aus Zwischentitel",
+    "text": "6 805 Christian, Sägenfeiler, a. Biglen - II, 224 a. Fr. - Kath. Schneider. (5 Kinder nicht eingeschrieben - in Biglen.)"
+   },
+   {
+    "line_from": 42,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Kohler.",
+    "place": "Bern",
+    "surname": "Kohler",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "gew. Salzhandlungsverwalter",
+    "address": "II, 122 c",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 c",
+    "origin": "Büren",
+    "birth_year": "1783",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "7 783 Friedrich, gew. Salzhandlungsverwalter, a. Büren - II, 122 c."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:53:18+01:00",
+ "last_error": null
+}

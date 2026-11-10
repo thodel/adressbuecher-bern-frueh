@@ -1,0 +1,417 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 72,
+ "section": "fortsetzung",
+ "started": "2026-11-10T21:11:19+01:00",
+ "thinking": "low",
+ "seconds": 21.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2338,
+  "output": 3179,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"72\",\n  \"running_head\": \"Pays-de Vaud.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"72\"},\n    {\"n\": 2, \"text\": \"Pays-de Vaud.\"},\n    {\"n\": 3, \"text\": \"Lausanne. M. Helmold a succedé à M. Stoupan\"},\n    {\"n\": 4, \"text\": \"dans la propriété de la fabrique de pastel, qui fait\"},\n    {\"n\": 5, \"text\": \"aujourd'hui de grandes expéditions de cette mar-\"},\n    {\"n\": 6, \"text\": \"chandise en Russie & même en Amérique. —\"},\n    {\"n\": 7, \"text\": \"Weibel, possède une fabrique de chapeaux,\"},\n    {\"n\": 8, \"text\": \"qui est une des meilleures de la Suisse. — Coste\"},\n    {\"n\": 9, \"text\": \"& Perégaux font toutes sortes de travaux en\"},\n    {\"n\": 10, \"text\": \"yvoire garnis de bijoux.\"},\n    {\"n\": 11, \"text\": \"Nyon: — MM. Gaillard, freres, & Henry\"},\n    {\"n\": 12, \"text\": \"Veret & Piachaud, commissionaires & spécu-\"},\n    {\"n\": 13, \"text\": \"lateurs. — Giral l'ainé, fabricant de chandel-\"},\n    {\"n\": 14, \"text\": \"les. — Adam Conte, marchand de Verrerie. —\"},\n    {\"n\": 15, \"text\": \"Veuve Levrier, Bonnard & Comp. outre le\"},\n    {\"n\": 16, \"text\": \"trafic en soyerie en gros, font aussi des affaires de\"},\n    {\"n\": 17, \"text\": \"Banque. — Soulier & Comp.; Jos. Grosjean,\"},\n    {\"n\": 18, \"text\": \"Cadet & Comp. Epicèries en gros. — Jean Jaq.\"},\n    {\"n\": 19, \"text\": \"Lullin & Comp. toillerie en gros & mousseline.\"},\n    {\"n\": 20, \"text\": \"Papéteries: La Papéterie à la Motte, près\"},\n    {\"n\": 21, \"text\": \"Yverdon, dans le baillage de Grandson; — la Papé-\"},\n    {\"n\": 22, \"text\": \"terie de Clarens; dans le Voisinage de la Ville de\"},\n    {\"n\": 23, \"text\": \"Nyon; — Papéterie à Bierre, Village dans le\"},\n    {\"n\": 24, \"text\": \"baillage de Morges; toutes très bien assorties.\"},\n    {\"n\": 25, \"text\": \"(NB. Les deux Papéteries voisines de la Capitale\"},\n    {\"n\": 26, \"text\": \"de Berne font aussi supérieurement bien établies.)\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Helmold\",\n      \"forename\": \"\",\n      \"title\": \"M.\",\n      \"occupation\": \"fabrique de pastel\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lausanne. M. Helmold a succedé à M. Stoupan dans la propriété de la fabrique de pastel, qui fait aujourd'hui de grandes expéditions de cette marchandise en Russie & même en Amérique.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Weibel\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"fabrique de chapeaux\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Weibel, possède une fabrique de chapeaux, qui est une des meilleures de la Suisse.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 10,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Coste & Perégaux\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"font toutes sortes de travaux en yvoire garnis de bijoux\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Coste & Perégaux font toutes sortes de travaux en yvoire garnis de bijoux.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"firma\",\n      \"heading\": \"Nyon\",\n      \"place\": \"Nyon\",\n      \"surname\": \"Gaillard & Henry Veret & Piachaud\",\n      \"forename\": \"\",\n      \"title\": \"MM. … freres\",\n      \"occupation\": \"commissionaires & spéculateurs\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Nyon: — MM. Gaillard, freres, & Henry Veret & Piachaud, commissionaires & spéculateurs.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Nyon\",\n      \"place\": \"Nyon\",\n      \"surname\": \"Giral\",\n      \"forename\": \"\",\n      \"title\": \"l'ainé\",\n      \"occupation\": \"fabricant de chandelles\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Giral l'ainé, fabricant de chandelles.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Nyon\",\n      \"place\": \"Nyon\",\n      \"surname\": \"Conte\",\n      \"forename\": \"Adam\",\n      \"title\": \"\",\n      \"occupation\": \"marchand de Verrerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Adam Conte, marchand de Verrerie.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Nyon\",\n      \"place\": \"Nyon\",\n      \"surname\": \"Levrier, Bonnard & Comp.\",\n      \"forename\": \"\",\n      \"title\": \"Veuve\",\n      \"occupation\": \"trafic en soyerie en gros, font aussi des affaires de Banque\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Veuve Levrier, Bonnard & Comp. outre le trafic en soyerie en gros, font aussi des affaires de Banque.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Nyon\",\n      \"place\": \"Nyon\",\n      \"surname\": \"Soulier & Comp.\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Epicèries en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Soulier & Comp.;\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"firma\",\n      \"heading\": \"Nyon\",\n      \"place\": \"Nyon\",\n      \"surname\": \"Grosjean, Cadet & Comp.\",\n      \"forename\": \"Jos.\",\n      \"title\": \"\",\n      \"occupation\": \"Epicèries en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jos. Grosjean, Cadet & Comp. Epicèries en gros.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"Nyon\",\n      \"place\": \"Nyon\",\n      \"surname\": \"Lullin & Comp.\",\n      \"forename\": \"Jean Jaq.\",\n      \"title\": \"\",\n      \"occupation\": \"toillerie en gros & mousseline\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jean Jaq. Lullin & Comp. toillerie en gros & mousseline.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"institution\",\n      \"heading\": \"Papéteries\",\n      \"place\": \"Grandson\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Papéterie\",\n      \"address\": \"à la Motte, près Yverdon, dans le baillage de Grandson\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"La Papéterie à la Motte, près Yverdon, dans le baillage de Grandson;\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 23,\n      \"kind\": \"institution\",\n      \"heading\": \"Papéteries\",\n      \"place\": \"Nyon\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Papéterie\",\n      \"address\": \"de Clarens; dans le Voisinage de la Ville de Nyon\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"la Papéterie de Clarens; dans le Voisinage de la Ville de Nyon;\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"institution\",\n      \"heading\": \"Papéteries\",\n      \"place\": \"Morges\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Papéterie\",\n      \"address\": \"à Bierre, Village dans le baillage de Morges\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Papéterie à Bierre, Village dans le baillage de Morges; toutes très bien assorties.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"sonst\",\n      \"heading\": \"Papéteries\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"(NB. Les deux Papéteries voisines de la Capitale de Berne font aussi supérieurement bien établies.)\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "72",
+  "running_head": "Pays-de Vaud.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "72"
+   },
+   {
+    "n": 2,
+    "text": "Pays-de Vaud."
+   },
+   {
+    "n": 3,
+    "text": "Lausanne. M. Helmold a succedé à M. Stoupan"
+   },
+   {
+    "n": 4,
+    "text": "dans la propriété de la fabrique de pastel, qui fait"
+   },
+   {
+    "n": 5,
+    "text": "aujourd'hui de grandes expéditions de cette mar-"
+   },
+   {
+    "n": 6,
+    "text": "chandise en Russie & même en Amérique. —"
+   },
+   {
+    "n": 7,
+    "text": "Weibel, possède une fabrique de chapeaux,"
+   },
+   {
+    "n": 8,
+    "text": "qui est une des meilleures de la Suisse. — Coste"
+   },
+   {
+    "n": 9,
+    "text": "& Perégaux font toutes sortes de travaux en"
+   },
+   {
+    "n": 10,
+    "text": "yvoire garnis de bijoux."
+   },
+   {
+    "n": 11,
+    "text": "Nyon: — MM. Gaillard, freres, & Henry"
+   },
+   {
+    "n": 12,
+    "text": "Veret & Piachaud, commissionaires & spécu-"
+   },
+   {
+    "n": 13,
+    "text": "lateurs. — Giral l'ainé, fabricant de chandel-"
+   },
+   {
+    "n": 14,
+    "text": "les. — Adam Conte, marchand de Verrerie. —"
+   },
+   {
+    "n": 15,
+    "text": "Veuve Levrier, Bonnard & Comp. outre le"
+   },
+   {
+    "n": 16,
+    "text": "trafic en soyerie en gros, font aussi des affaires de"
+   },
+   {
+    "n": 17,
+    "text": "Banque. — Soulier & Comp.; Jos. Grosjean,"
+   },
+   {
+    "n": 18,
+    "text": "Cadet & Comp. Epicèries en gros. — Jean Jaq."
+   },
+   {
+    "n": 19,
+    "text": "Lullin & Comp. toillerie en gros & mousseline."
+   },
+   {
+    "n": 20,
+    "text": "Papéteries: La Papéterie à la Motte, près"
+   },
+   {
+    "n": 21,
+    "text": "Yverdon, dans le baillage de Grandson; — la Papé-"
+   },
+   {
+    "n": 22,
+    "text": "terie de Clarens; dans le Voisinage de la Ville de"
+   },
+   {
+    "n": 23,
+    "text": "Nyon; — Papéterie à Bierre, Village dans le"
+   },
+   {
+    "n": 24,
+    "text": "baillage de Morges; toutes très bien assorties."
+   },
+   {
+    "n": 25,
+    "text": "(NB. Les deux Papéteries voisines de la Capitale"
+   },
+   {
+    "n": 26,
+    "text": "de Berne font aussi supérieurement bien établies.)"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Helmold",
+    "forename": "",
+    "title": "M.",
+    "occupation": "fabrique de pastel",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lausanne. M. Helmold a succedé à M. Stoupan dans la propriété de la fabrique de pastel, qui fait aujourd'hui de grandes expéditions de cette marchandise en Russie & même en Amérique."
+   },
+   {
+    "line_from": 6,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Weibel",
+    "forename": "",
+    "title": "",
+    "occupation": "fabrique de chapeaux",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Weibel, possède une fabrique de chapeaux, qui est une des meilleures de la Suisse."
+   },
+   {
+    "line_from": 8,
+    "line_to": 10,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Coste & Perégaux",
+    "forename": "",
+    "title": "",
+    "occupation": "font toutes sortes de travaux en yvoire garnis de bijoux",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Coste & Perégaux font toutes sortes de travaux en yvoire garnis de bijoux."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "firma",
+    "heading": "Nyon",
+    "place": "Nyon",
+    "surname": "Gaillard & Henry Veret & Piachaud",
+    "forename": "",
+    "title": "MM. … freres",
+    "occupation": "commissionaires & spéculateurs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nyon: — MM. Gaillard, freres, & Henry Veret & Piachaud, commissionaires & spéculateurs."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Nyon",
+    "place": "Nyon",
+    "surname": "Giral",
+    "forename": "",
+    "title": "l'ainé",
+    "occupation": "fabricant de chandelles",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Giral l'ainé, fabricant de chandelles."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Nyon",
+    "place": "Nyon",
+    "surname": "Conte",
+    "forename": "Adam",
+    "title": "",
+    "occupation": "marchand de Verrerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Adam Conte, marchand de Verrerie."
+   },
+   {
+    "line_from": 14,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Nyon",
+    "place": "Nyon",
+    "surname": "Levrier, Bonnard & Comp.",
+    "forename": "",
+    "title": "Veuve",
+    "occupation": "trafic en soyerie en gros, font aussi des affaires de Banque",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Veuve Levrier, Bonnard & Comp. outre le trafic en soyerie en gros, font aussi des affaires de Banque."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Nyon",
+    "place": "Nyon",
+    "surname": "Soulier & Comp.",
+    "forename": "",
+    "title": "",
+    "occupation": "Epicèries en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Soulier & Comp.;"
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "firma",
+    "heading": "Nyon",
+    "place": "Nyon",
+    "surname": "Grosjean, Cadet & Comp.",
+    "forename": "Jos.",
+    "title": "",
+    "occupation": "Epicèries en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jos. Grosjean, Cadet & Comp. Epicèries en gros."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "Nyon",
+    "place": "Nyon",
+    "surname": "Lullin & Comp.",
+    "forename": "Jean Jaq.",
+    "title": "",
+    "occupation": "toillerie en gros & mousseline",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jean Jaq. Lullin & Comp. toillerie en gros & mousseline."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "institution",
+    "heading": "Papéteries",
+    "place": "Grandson",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Papéterie",
+    "address": "à la Motte, près Yverdon, dans le baillage de Grandson",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "La Papéterie à la Motte, près Yverdon, dans le baillage de Grandson;"
+   },
+   {
+    "line_from": 21,
+    "line_to": 23,
+    "kind": "institution",
+    "heading": "Papéteries",
+    "place": "Nyon",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Papéterie",
+    "address": "de Clarens; dans le Voisinage de la Ville de Nyon",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "la Papéterie de Clarens; dans le Voisinage de la Ville de Nyon;"
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "institution",
+    "heading": "Papéteries",
+    "place": "Morges",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Papéterie",
+    "address": "à Bierre, Village dans le baillage de Morges",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Papéterie à Bierre, Village dans le baillage de Morges; toutes très bien assorties."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "sonst",
+    "heading": "Papéteries",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "(NB. Les deux Papéteries voisines de la Capitale de Berne font aussi supérieurement bien établies.)"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:11:40+01:00",
+ "last_error": null
+}

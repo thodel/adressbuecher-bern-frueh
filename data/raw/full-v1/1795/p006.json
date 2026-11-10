@@ -1,0 +1,349 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 6,
+ "section": "handbuch",
+ "started": "2026-11-10T21:09:02+01:00",
+ "thinking": "low",
+ "seconds": 19.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2344,
+  "output": 2796,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"4\",\n  \"running_head\": \"Bern.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"4 Bern.\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Devigneulle, (Frau) née Jonquière, Specerey-\"},\n    {\"n\": 4, \"text\": \"handel en détail.\"},\n    {\"n\": 5, \"text\": \"Diwy, (Wittib) Spiegelladen, böhmisch Glas\"},\n    {\"n\": 6, \"text\": \"für Kupferstiche und Gemälde; Bildhauerarbeiten,\"},\n    {\"n\": 7, \"text\": \"Vergoldungen, Einfassungen zu Verzierungen ꝛc.\"},\n    {\"n\": 8, \"text\": \"Dupan und Comp. fabriciren Wollentuch; und\"},\n    {\"n\": 9, \"text\": \"eine en gros Draperie - Handlung.\"},\n    {\"n\": 10, \"text\": \"Joh. Rud. Ernst, Epiceries en gros & en détail.\"},\n    {\"n\": 11, \"text\": \"Frau Catharina Fassnacht, Tuchladen en dé-\"},\n    {\"n\": 12, \"text\": \"tail, auch alle Arten von Seidenzeuge.\"},\n    {\"n\": 13, \"text\": \"David Fueter, Successor der Gebrüdere Fue-\"},\n    {\"n\": 14, \"text\": \"ter, in Specerey, vorzüglich bekannt wegen füh-\"},\n    {\"n\": 15, \"text\": \"renden guten Theesorten, auch in- und ausländischen\"},\n    {\"n\": 16, \"text\": \"Papieren, Siegellak, Schreibfedern und dergleichen.\"},\n    {\"n\": 17, \"text\": \"NB. Er etabliert auch grosse Kirchen-Orgeln,\"},\n    {\"n\": 18, \"text\": \"als Kenner dieses Faches.\"},\n    {\"n\": 19, \"text\": \"Samuel Gabriel Furer, führt einen klein Han-\"},\n    {\"n\": 20, \"text\": \"del in seidenen, halbseidenen, wollenen, baumwolle-\"},\n    {\"n\": 21, \"text\": \"nen Zeugen, Bändern und Strümpfen. Desgleichen\"},\n    {\"n\": 22, \"text\": \"Strichzeug, Wachstücher, Beuteltücher ꝛc.\"},\n    {\"n\": 23, \"text\": \"N. G. Gaudard, hält alle Sorten Papiere,\"},\n    {\"n\": 24, \"text\": \"Schreibbücher, Schul- und andre Bücher.\"},\n    {\"n\": 25, \"text\": \"Samuel Gerber und Comp. fabricieren alle\"},\n    {\"n\": 26, \"text\": \"Gattungen Nastücher, Tischtücher, Cottone, und\"},\n    {\"n\": 27, \"text\": \"handeln mit Baumwolle und Türkengarn en gros\"},\n    {\"n\": 28, \"text\": \"und en détail.\"},\n    {\"n\": 29, \"text\": \"Sam. Em. Gruner, Papierfabrikant (zu Worb-\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Herr\",\n      \"place\": \"Bern\",\n      \"surname\": \"Devigneulle\",\n      \"forename\": \"\",\n      \"title\": \"Frau\",\n      \"occupation\": \"Specereyhandel en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"née Jonquière\",\n      \"text\": \"Herr Devigneulle, (Frau) née Jonquière, Specereyhandel en détail.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Herr\",\n      \"place\": \"Bern\",\n      \"surname\": \"Diwy\",\n      \"forename\": \"\",\n      \"title\": \"Wittib\",\n      \"occupation\": \"Spiegelladen, böhmisch Glas für Kupferstiche und Gemälde; Bildhauerarbeiten, Vergoldungen, Einfassungen zu Verzierungen ꝛc.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Diwy, (Wittib) Spiegelladen, böhmisch Glas für Kupferstiche und Gemälde; Bildhauerarbeiten, Vergoldungen, Einfassungen zu Verzierungen ꝛc.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"firma\",\n      \"heading\": \"Herr\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dupan\",\n      \"forename\": \"\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"fabriciren Wollentuch; und eine en gros Draperie - Handlung\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dupan und Comp. fabriciren Wollentuch; und eine en gros Draperie - Handlung.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Herr\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ernst\",\n      \"forename\": \"Joh. Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Epiceries en gros & en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Rud. Ernst, Epiceries en gros & en détail.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Herr\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fassnacht\",\n      \"forename\": \"Catharina\",\n      \"title\": \"Frau\",\n      \"occupation\": \"Tuchladen en détail, auch alle Arten von Seidenzeuge\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Frau Catharina Fassnacht, Tuchladen en détail, auch alle Arten von Seidenzeuge.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Herr\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fueter\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"in Specerey, vorzüglich bekannt wegen führenden guten Theesorten, auch in- und ausländischen Papieren, Siegellak, Schreibfedern und dergleichen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Successor der Gebrüdere Fueter; Er etabliert auch grosse Kirchen-Orgeln, als Kenner dieses Faches\",\n      \"text\": \"David Fueter, Successor der Gebrüdere Fueter, in Specerey, vorzüglich bekannt wegen führenden guten Theesorten, auch in- und ausländischen Papieren, Siegellak, Schreibfedern und dergleichen. NB. Er etabliert auch grosse Kirchen-Orgeln, als Kenner dieses Faches.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Herr\",\n      \"place\": \"Bern\",\n      \"surname\": \"Furer\",\n      \"forename\": \"Samuel Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"führt einen klein Handel in seidenen, halbseidenen, wollenen, baumwollenen Zeugen, Bändern und Strümpfen. Desgleichen Strichzeug, Wachstücher, Beuteltücher ꝛc.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Gabriel Furer, führt einen klein Handel in seidenen, halbseidenen, wollenen, baumwollenen Zeugen, Bändern und Strümpfen. Desgleichen Strichzeug, Wachstücher, Beuteltücher ꝛc.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Herr\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gaudard\",\n      \"forename\": \"N. G.\",\n      \"title\": \"\",\n      \"occupation\": \"hält alle Sorten Papiere, Schreibbücher, Schul- und andre Bücher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"N. G. Gaudard, hält alle Sorten Papiere, Schreibbücher, Schul- und andre Bücher.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 28,\n      \"kind\": \"firma\",\n      \"heading\": \"Herr\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerber\",\n      \"forename\": \"Samuel\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"fabricieren alle Gattungen Nastücher, Tischtücher, Cottone, und handeln mit Baumwolle und Türkengarn en gros und en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Gerber und Comp. fabricieren alle Gattungen Nastücher, Tischtücher, Cottone, und handeln mit Baumwolle und Türkengarn en gros und en détail.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Herr\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gruner\",\n      \"forename\": \"Sam. Em.\",\n      \"title\": \"\",\n      \"occupation\": \"Papierfabrikant\",\n      \"address\": \"zu Worb-\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sam. Em. Gruner, Papierfabrikant (zu Worb-\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "4",
+  "running_head": "Bern.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "4 Bern."
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Devigneulle, (Frau) née Jonquière, Specerey-"
+   },
+   {
+    "n": 4,
+    "text": "handel en détail."
+   },
+   {
+    "n": 5,
+    "text": "Diwy, (Wittib) Spiegelladen, böhmisch Glas"
+   },
+   {
+    "n": 6,
+    "text": "für Kupferstiche und Gemälde; Bildhauerarbeiten,"
+   },
+   {
+    "n": 7,
+    "text": "Vergoldungen, Einfassungen zu Verzierungen ꝛc."
+   },
+   {
+    "n": 8,
+    "text": "Dupan und Comp. fabriciren Wollentuch; und"
+   },
+   {
+    "n": 9,
+    "text": "eine en gros Draperie - Handlung."
+   },
+   {
+    "n": 10,
+    "text": "Joh. Rud. Ernst, Epiceries en gros & en détail."
+   },
+   {
+    "n": 11,
+    "text": "Frau Catharina Fassnacht, Tuchladen en dé-"
+   },
+   {
+    "n": 12,
+    "text": "tail, auch alle Arten von Seidenzeuge."
+   },
+   {
+    "n": 13,
+    "text": "David Fueter, Successor der Gebrüdere Fue-"
+   },
+   {
+    "n": 14,
+    "text": "ter, in Specerey, vorzüglich bekannt wegen füh-"
+   },
+   {
+    "n": 15,
+    "text": "renden guten Theesorten, auch in- und ausländischen"
+   },
+   {
+    "n": 16,
+    "text": "Papieren, Siegellak, Schreibfedern und dergleichen."
+   },
+   {
+    "n": 17,
+    "text": "NB. Er etabliert auch grosse Kirchen-Orgeln,"
+   },
+   {
+    "n": 18,
+    "text": "als Kenner dieses Faches."
+   },
+   {
+    "n": 19,
+    "text": "Samuel Gabriel Furer, führt einen klein Han-"
+   },
+   {
+    "n": 20,
+    "text": "del in seidenen, halbseidenen, wollenen, baumwolle-"
+   },
+   {
+    "n": 21,
+    "text": "nen Zeugen, Bändern und Strümpfen. Desgleichen"
+   },
+   {
+    "n": 22,
+    "text": "Strichzeug, Wachstücher, Beuteltücher ꝛc."
+   },
+   {
+    "n": 23,
+    "text": "N. G. Gaudard, hält alle Sorten Papiere,"
+   },
+   {
+    "n": 24,
+    "text": "Schreibbücher, Schul- und andre Bücher."
+   },
+   {
+    "n": 25,
+    "text": "Samuel Gerber und Comp. fabricieren alle"
+   },
+   {
+    "n": 26,
+    "text": "Gattungen Nastücher, Tischtücher, Cottone, und"
+   },
+   {
+    "n": 27,
+    "text": "handeln mit Baumwolle und Türkengarn en gros"
+   },
+   {
+    "n": 28,
+    "text": "und en détail."
+   },
+   {
+    "n": 29,
+    "text": "Sam. Em. Gruner, Papierfabrikant (zu Worb-"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Herr",
+    "place": "Bern",
+    "surname": "Devigneulle",
+    "forename": "",
+    "title": "Frau",
+    "occupation": "Specereyhandel en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "née Jonquière",
+    "text": "Herr Devigneulle, (Frau) née Jonquière, Specereyhandel en détail."
+   },
+   {
+    "line_from": 5,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Herr",
+    "place": "Bern",
+    "surname": "Diwy",
+    "forename": "",
+    "title": "Wittib",
+    "occupation": "Spiegelladen, böhmisch Glas für Kupferstiche und Gemälde; Bildhauerarbeiten, Vergoldungen, Einfassungen zu Verzierungen ꝛc.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Diwy, (Wittib) Spiegelladen, böhmisch Glas für Kupferstiche und Gemälde; Bildhauerarbeiten, Vergoldungen, Einfassungen zu Verzierungen ꝛc."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "firma",
+    "heading": "Herr",
+    "place": "Bern",
+    "surname": "Dupan",
+    "forename": "",
+    "title": "und Comp.",
+    "occupation": "fabriciren Wollentuch; und eine en gros Draperie - Handlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dupan und Comp. fabriciren Wollentuch; und eine en gros Draperie - Handlung."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Herr",
+    "place": "Bern",
+    "surname": "Ernst",
+    "forename": "Joh. Rud.",
+    "title": "",
+    "occupation": "Epiceries en gros & en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Rud. Ernst, Epiceries en gros & en détail."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Herr",
+    "place": "Bern",
+    "surname": "Fassnacht",
+    "forename": "Catharina",
+    "title": "Frau",
+    "occupation": "Tuchladen en détail, auch alle Arten von Seidenzeuge",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Frau Catharina Fassnacht, Tuchladen en détail, auch alle Arten von Seidenzeuge."
+   },
+   {
+    "line_from": 13,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Herr",
+    "place": "Bern",
+    "surname": "Fueter",
+    "forename": "David",
+    "title": "",
+    "occupation": "in Specerey, vorzüglich bekannt wegen führenden guten Theesorten, auch in- und ausländischen Papieren, Siegellak, Schreibfedern und dergleichen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Successor der Gebrüdere Fueter; Er etabliert auch grosse Kirchen-Orgeln, als Kenner dieses Faches",
+    "text": "David Fueter, Successor der Gebrüdere Fueter, in Specerey, vorzüglich bekannt wegen führenden guten Theesorten, auch in- und ausländischen Papieren, Siegellak, Schreibfedern und dergleichen. NB. Er etabliert auch grosse Kirchen-Orgeln, als Kenner dieses Faches."
+   },
+   {
+    "line_from": 19,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Herr",
+    "place": "Bern",
+    "surname": "Furer",
+    "forename": "Samuel Gabriel",
+    "title": "",
+    "occupation": "führt einen klein Handel in seidenen, halbseidenen, wollenen, baumwollenen Zeugen, Bändern und Strümpfen. Desgleichen Strichzeug, Wachstücher, Beuteltücher ꝛc.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Gabriel Furer, führt einen klein Handel in seidenen, halbseidenen, wollenen, baumwollenen Zeugen, Bändern und Strümpfen. Desgleichen Strichzeug, Wachstücher, Beuteltücher ꝛc."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Herr",
+    "place": "Bern",
+    "surname": "Gaudard",
+    "forename": "N. G.",
+    "title": "",
+    "occupation": "hält alle Sorten Papiere, Schreibbücher, Schul- und andre Bücher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "N. G. Gaudard, hält alle Sorten Papiere, Schreibbücher, Schul- und andre Bücher."
+   },
+   {
+    "line_from": 25,
+    "line_to": 28,
+    "kind": "firma",
+    "heading": "Herr",
+    "place": "Bern",
+    "surname": "Gerber",
+    "forename": "Samuel",
+    "title": "und Comp.",
+    "occupation": "fabricieren alle Gattungen Nastücher, Tischtücher, Cottone, und handeln mit Baumwolle und Türkengarn en gros und en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Gerber und Comp. fabricieren alle Gattungen Nastücher, Tischtücher, Cottone, und handeln mit Baumwolle und Türkengarn en gros und en détail."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Herr",
+    "place": "Bern",
+    "surname": "Gruner",
+    "forename": "Sam. Em.",
+    "title": "",
+    "occupation": "Papierfabrikant",
+    "address": "zu Worb-",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sam. Em. Gruner, Papierfabrikant (zu Worb-"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:09:21+01:00",
+ "last_error": null
+}

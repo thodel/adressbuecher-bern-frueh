@@ -1,0 +1,477 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 109,
+ "section": "einsassen",
+ "started": "2026-11-10T21:53:24+01:00",
+ "thinking": "low",
+ "seconds": 29.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4724,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"96\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 96 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"2 u. 3 819 Heinrich, u. 821 Melchior, Baumwollenwaarenhändler,\"},\n    {\"n\": 4, \"text\": \"S. v. 1 - IV, 200.\"},\n    {\"n\": 5, \"text\": \"Levacon.\"},\n    {\"n\": 6, \"text\": \"1 804 Jean Pierre, Buchbinder, a. Pleine haute in Frank-\"},\n    {\"n\": 7, \"text\": \"reich - V, 122.\"},\n    {\"n\": 8, \"text\": \"804 Fr. - Maria Marg. Brison ebendaher.\"},\n    {\"n\": 9, \"text\": \"1 T. - 831 Amalie Maria.\"},\n    {\"n\": 10, \"text\": \"Levaillant.\"},\n    {\"n\": 11, \"text\": \"1 813 Salomon, Pferdekäufer, a. Hegenheim in Frankreich -\"},\n    {\"n\": 12, \"text\": \"II, 212.\"},\n    {\"n\": 13, \"text\": \"807 Fr. - Josephine Speinzle, geb. Wyler.\"},\n    {\"n\": 14, \"text\": \"Levi.\"},\n    {\"n\": 15, \"text\": \"1 796 Theodor, Pferdehändler, a. Oberhagenthal - II, 177.\"},\n    {\"n\": 16, \"text\": \"Fr. - Rahel Guggenheim a. Oberendingen.\"},\n    {\"n\": 17, \"text\": \"1 S. - 827 Salomon Levi.\"},\n    {\"n\": 18, \"text\": \"2 810 Joseph, Pferdehändler, a. Hegenheim im Elsaß - II, 21.\"},\n    {\"n\": 19, \"text\": \"815 Fr. - Henriette Sommer.\"},\n    {\"n\": 20, \"text\": \"2 K. - 844 Klara. - 47 Charles.\"},\n    {\"n\": 21, \"text\": \"Liechti.\"},\n    {\"n\": 22, \"text\": \"1 805 Christian, Wagner, a. Lauperswyl - I, 126.\"},\n    {\"n\": 23, \"text\": \"791 Fr. - Sus. Wenger a. Strättligen.\"},\n    {\"n\": 24, \"text\": \"2 799 Abr. Sam., Quartieraufseher, a. Biglen - VI, 107.\"},\n    {\"n\": 25, \"text\": \"802 Fr. - Kath. Brand a. Trachselwald.\"},\n    {\"n\": 26, \"text\": \"2 S. - 832 Joh. Gottlieb. - 36 Abr. Friedrich.\"},\n    {\"n\": 27, \"text\": \"3 813 Friedrich Christ., Spengler, a. Biglen - II, 207.\"},\n    {\"n\": 28, \"text\": \"815 Fr. - Anna Stuber a. Tschäppach.\"},\n    {\"n\": 29, \"text\": \"4 S. - 840 Friedrich Karl Jakob. - 42 Karl Ferd. -\"},\n    {\"n\": 30, \"text\": \"43 Ed. Alexander. - 45 Rudolf Bend.\"},\n    {\"n\": 31, \"text\": \"4 785 Barbara, geb. Henzer, Kantinewirthin in der Kaserne\"},\n    {\"n\": 32, \"text\": \"Nr. I, Wittwe, a. Biglen - III, 5.\"},\n    {\"n\": 33, \"text\": \"7 K. - 812 Karl Samuel, Sekretär des Chefs des\"},\n    {\"n\": 34, \"text\": \"Stabes. - 14 David Emanuel, Kanzleiläufer. - 16\"},\n    {\"n\": 35, \"text\": \"Karl Friedrich, Konducteur. - Nr. 5. - 21 Franz\"},\n    {\"n\": 36, \"text\": \"Alex. - 23 Alex. Niklaus. - 25 Henriette.\"},\n    {\"n\": 37, \"text\": \"5 819 Joh. Jakob, Abwärter d. Militärdirektion, S. v. 4 - IV, 314.\"},\n    {\"n\": 38, \"text\": \"821 Fr. - Barb. Elis. Ammeter a. Gsteig b. I.\"},\n    {\"n\": 39, \"text\": \"1 S. - 844 Bernhard Jakob.\"},\n    {\"n\": 40, \"text\": \"6 780 Niklaus, Tabakfabrikant und Wochenmarktkrämer, a.\"},\n    {\"n\": 41, \"text\": \"Landiswyl - II, 33.\"},\n    {\"n\": 42, \"text\": \"785 Fr. - Kath. Wälti.\"},\n    {\"n\": 43, \"text\": \"7 815 Maria, Schneiderin, a. Rüderswyl - III, 140.\"},\n    {\"n\": 44, \"text\": \"Liederbach.\"},\n    {\"n\": 45, \"text\": \"1 824 Heinrich, Sattler, a. Sprendlingen in Hessen - II, 56.\"},\n    {\"n\": 46, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Heinrich, u. Melchior\",\n      \"title\": \"\",\n      \"occupation\": \"Baumwollenwaarenhändler\",\n      \"address\": \"IV, 200\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"200\",\n      \"origin\": \"\",\n      \"birth_year\": \"1819\",\n      \"household\": \"S. v. 1\",\n      \"note\": \"Fortsetzung von vorheriger Seite\",\n      \"text\": \"2 u. 3 819 Heinrich, u. 821 Melchior, Baumwollenwaarenhändler, S. v. 1 - IV, 200.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Levacon.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Levacon\",\n      \"forename\": \"Jean Pierre\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"V, 122\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"122\",\n      \"origin\": \"Pleine haute in Frankreich\",\n      \"birth_year\": \"1804\",\n      \"household\": \"804 Fr. - Maria Marg. Brison ebendaher.; 1 T. - 831 Amalie Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Jean Pierre, Buchbinder, a. Pleine haute in Frankreich - V, 122. 804 Fr. - Maria Marg. Brison ebendaher. 1 T. - 831 Amalie Maria.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Levaillant.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Levaillant\",\n      \"forename\": \"Salomon\",\n      \"title\": \"\",\n      \"occupation\": \"Pferdekäufer\",\n      \"address\": \"II, 212\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"212\",\n      \"origin\": \"Hegenheim in Frankreich\",\n      \"birth_year\": \"1813\",\n      \"household\": \"807 Fr. - Josephine Speinzle, geb. Wyler.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Salomon, Pferdekäufer, a. Hegenheim in Frankreich - II, 212. 807 Fr. - Josephine Speinzle, geb. Wyler.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Levi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Levi\",\n      \"forename\": \"Theodor\",\n      \"title\": \"\",\n      \"occupation\": \"Pferdehändler\",\n      \"address\": \"II, 177\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"177\",\n      \"origin\": \"Oberhagenthal\",\n      \"birth_year\": \"1796\",\n      \"household\": \"Fr. - Rahel Guggenheim a. Oberendingen.; 1 S. - 827 Salomon Levi.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Theodor, Pferdehändler, a. Oberhagenthal - II, 177. Fr. - Rahel Guggenheim a. Oberendingen. 1 S. - 827 Salomon Levi.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Levi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Levi\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Pferdehändler\",\n      \"address\": \"II, 21\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"21\",\n      \"origin\": \"Hegenheim im Elsaß\",\n      \"birth_year\": \"1810\",\n      \"household\": \"815 Fr. - Henriette Sommer.; 2 K. - 844 Klara. - 47 Charles.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 810 Joseph, Pferdehändler, a. Hegenheim im Elsaß - II, 21. 815 Fr. - Henriette Sommer. 2 K. - 844 Klara. - 47 Charles.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Liechti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Liechti\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Wagner\",\n      \"address\": \"I, 126\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"126\",\n      \"origin\": \"Lauperswyl\",\n      \"birth_year\": \"1805\",\n      \"household\": \"791 Fr. - Sus. Wenger a. Strättligen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Christian, Wagner, a. Lauperswyl - I, 126. 791 Fr. - Sus. Wenger a. Strättligen.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Liechti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Liechti\",\n      \"forename\": \"Abr. Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Quartieraufseher\",\n      \"address\": \"VI, 107\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"107\",\n      \"origin\": \"Biglen\",\n      \"birth_year\": \"1799\",\n      \"household\": \"802 Fr. - Kath. Brand a. Trachselwald.; 2 S. - 832 Joh. Gottlieb. - 36 Abr. Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 799 Abr. Sam., Quartieraufseher, a. Biglen - VI, 107. 802 Fr. - Kath. Brand a. Trachselwald. 2 S. - 832 Joh. Gottlieb. - 36 Abr. Friedrich.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Liechti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Liechti\",\n      \"forename\": \"Friedrich Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Spengler\",\n      \"address\": \"II, 207\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"207\",\n      \"origin\": \"Biglen\",\n      \"birth_year\": \"1813\",\n      \"household\": \"815 Fr. - Anna Stuber a. Tschäppach.; 4 S. - 840 Friedrich Karl Jakob. - 42 Karl Ferd. - 43 Ed. Alexander. - 45 Rudolf Bend.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 813 Friedrich Christ., Spengler, a. Biglen - II, 207. 815 Fr. - Anna Stuber a. Tschäppach. 4 S. - 840 Friedrich Karl Jakob. - 42 Karl Ferd. - 43 Ed. Alexander. - 45 Rudolf Bend.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Liechti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Liechti\",\n      \"forename\": \"Barbara\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"Kantinewirthin in der Kaserne Nr. I\",\n      \"address\": \"III, 5\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"5\",\n      \"origin\": \"Biglen\",\n      \"birth_year\": \"1785\",\n      \"household\": \"7 K. - 812 Karl Samuel, Sekretär des Chefs des Stabes. - 14 David Emanuel, Kanzleiläufer. - 16 Karl Friedrich, Konducteur. - Nr. 5. - 21 Franz Alex. - 23 Alex. Niklaus. - 25 Henriette.\",\n      \"note\": \"Name aus Zwischentitel; geb. Henzer\",\n      \"text\": \"4 785 Barbara, geb. Henzer, Kantinewirthin in der Kaserne Nr. I, Wittwe, a. Biglen - III, 5. 7 K. - 812 Karl Samuel, Sekretär des Chefs des Stabes. - 14 David Emanuel, Kanzleiläufer. - 16 Karl Friedrich, Konducteur. - Nr. 5. - 21 Franz Alex. - 23 Alex. Niklaus. - 25 Henriette.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Liechti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Liechti\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Abwärter d. Militärdirektion\",\n      \"address\": \"IV, 314\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"314\",\n      \"origin\": \"\",\n      \"birth_year\": \"1819\",\n      \"household\": \"821 Fr. - Barb. Elis. Ammeter a. Gsteig b. I.; 1 S. - 844 Bernhard Jakob.\",\n      \"note\": \"Name aus Zwischentitel; S. v. 4\",\n      \"text\": \"5 819 Joh. Jakob, Abwärter d. Militärdirektion, S. v. 4 - IV, 314. 821 Fr. - Barb. Elis. Ammeter a. Gsteig b. I. 1 S. - 844 Bernhard Jakob.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Liechti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Liechti\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Tabakfabrikant und Wochenmarktkrämer\",\n      \"address\": \"II, 33\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"33\",\n      \"origin\": \"Landiswyl\",\n      \"birth_year\": \"1780\",\n      \"household\": \"785 Fr. - Kath. Wälti.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 780 Niklaus, Tabakfabrikant und Wochenmarktkrämer, a. Landiswyl - II, 33. 785 Fr. - Kath. Wälti.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Liechti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Liechti\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"III, 140\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"140\",\n      \"origin\": \"Rüderswyl\",\n      \"birth_year\": \"1815\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 815 Maria, Schneiderin, a. Rüderswyl - III, 140.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Liederbach.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Liederbach\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"II, 56\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"56\",\n      \"origin\": \"Sprendlingen in Hessen\",\n      \"birth_year\": \"1824\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 824 Heinrich, Sattler, a. Sprendlingen in Hessen - II, 56.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "96",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 96 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "2 u. 3 819 Heinrich, u. 821 Melchior, Baumwollenwaarenhändler,"
+   },
+   {
+    "n": 4,
+    "text": "S. v. 1 - IV, 200."
+   },
+   {
+    "n": 5,
+    "text": "Levacon."
+   },
+   {
+    "n": 6,
+    "text": "1 804 Jean Pierre, Buchbinder, a. Pleine haute in Frank-"
+   },
+   {
+    "n": 7,
+    "text": "reich - V, 122."
+   },
+   {
+    "n": 8,
+    "text": "804 Fr. - Maria Marg. Brison ebendaher."
+   },
+   {
+    "n": 9,
+    "text": "1 T. - 831 Amalie Maria."
+   },
+   {
+    "n": 10,
+    "text": "Levaillant."
+   },
+   {
+    "n": 11,
+    "text": "1 813 Salomon, Pferdekäufer, a. Hegenheim in Frankreich -"
+   },
+   {
+    "n": 12,
+    "text": "II, 212."
+   },
+   {
+    "n": 13,
+    "text": "807 Fr. - Josephine Speinzle, geb. Wyler."
+   },
+   {
+    "n": 14,
+    "text": "Levi."
+   },
+   {
+    "n": 15,
+    "text": "1 796 Theodor, Pferdehändler, a. Oberhagenthal - II, 177."
+   },
+   {
+    "n": 16,
+    "text": "Fr. - Rahel Guggenheim a. Oberendingen."
+   },
+   {
+    "n": 17,
+    "text": "1 S. - 827 Salomon Levi."
+   },
+   {
+    "n": 18,
+    "text": "2 810 Joseph, Pferdehändler, a. Hegenheim im Elsaß - II, 21."
+   },
+   {
+    "n": 19,
+    "text": "815 Fr. - Henriette Sommer."
+   },
+   {
+    "n": 20,
+    "text": "2 K. - 844 Klara. - 47 Charles."
+   },
+   {
+    "n": 21,
+    "text": "Liechti."
+   },
+   {
+    "n": 22,
+    "text": "1 805 Christian, Wagner, a. Lauperswyl - I, 126."
+   },
+   {
+    "n": 23,
+    "text": "791 Fr. - Sus. Wenger a. Strättligen."
+   },
+   {
+    "n": 24,
+    "text": "2 799 Abr. Sam., Quartieraufseher, a. Biglen - VI, 107."
+   },
+   {
+    "n": 25,
+    "text": "802 Fr. - Kath. Brand a. Trachselwald."
+   },
+   {
+    "n": 26,
+    "text": "2 S. - 832 Joh. Gottlieb. - 36 Abr. Friedrich."
+   },
+   {
+    "n": 27,
+    "text": "3 813 Friedrich Christ., Spengler, a. Biglen - II, 207."
+   },
+   {
+    "n": 28,
+    "text": "815 Fr. - Anna Stuber a. Tschäppach."
+   },
+   {
+    "n": 29,
+    "text": "4 S. - 840 Friedrich Karl Jakob. - 42 Karl Ferd. -"
+   },
+   {
+    "n": 30,
+    "text": "43 Ed. Alexander. - 45 Rudolf Bend."
+   },
+   {
+    "n": 31,
+    "text": "4 785 Barbara, geb. Henzer, Kantinewirthin in der Kaserne"
+   },
+   {
+    "n": 32,
+    "text": "Nr. I, Wittwe, a. Biglen - III, 5."
+   },
+   {
+    "n": 33,
+    "text": "7 K. - 812 Karl Samuel, Sekretär des Chefs des"
+   },
+   {
+    "n": 34,
+    "text": "Stabes. - 14 David Emanuel, Kanzleiläufer. - 16"
+   },
+   {
+    "n": 35,
+    "text": "Karl Friedrich, Konducteur. - Nr. 5. - 21 Franz"
+   },
+   {
+    "n": 36,
+    "text": "Alex. - 23 Alex. Niklaus. - 25 Henriette."
+   },
+   {
+    "n": 37,
+    "text": "5 819 Joh. Jakob, Abwärter d. Militärdirektion, S. v. 4 - IV, 314."
+   },
+   {
+    "n": 38,
+    "text": "821 Fr. - Barb. Elis. Ammeter a. Gsteig b. I."
+   },
+   {
+    "n": 39,
+    "text": "1 S. - 844 Bernhard Jakob."
+   },
+   {
+    "n": 40,
+    "text": "6 780 Niklaus, Tabakfabrikant und Wochenmarktkrämer, a."
+   },
+   {
+    "n": 41,
+    "text": "Landiswyl - II, 33."
+   },
+   {
+    "n": 42,
+    "text": "785 Fr. - Kath. Wälti."
+   },
+   {
+    "n": 43,
+    "text": "7 815 Maria, Schneiderin, a. Rüderswyl - III, 140."
+   },
+   {
+    "n": 44,
+    "text": "Liederbach."
+   },
+   {
+    "n": 45,
+    "text": "1 824 Heinrich, Sattler, a. Sprendlingen in Hessen - II, 56."
+   },
+   {
+    "n": 46,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Heinrich, u. Melchior",
+    "title": "",
+    "occupation": "Baumwollenwaarenhändler",
+    "address": "IV, 200",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "200",
+    "origin": "",
+    "birth_year": "1819",
+    "household": "S. v. 1",
+    "note": "Fortsetzung von vorheriger Seite",
+    "text": "2 u. 3 819 Heinrich, u. 821 Melchior, Baumwollenwaarenhändler, S. v. 1 - IV, 200."
+   },
+   {
+    "line_from": 5,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Levacon.",
+    "place": "Bern",
+    "surname": "Levacon",
+    "forename": "Jean Pierre",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "V, 122",
+    "quarter": "V",
+    "street": "",
+    "house_no": "122",
+    "origin": "Pleine haute in Frankreich",
+    "birth_year": "1804",
+    "household": "804 Fr. - Maria Marg. Brison ebendaher.; 1 T. - 831 Amalie Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Jean Pierre, Buchbinder, a. Pleine haute in Frankreich - V, 122. 804 Fr. - Maria Marg. Brison ebendaher. 1 T. - 831 Amalie Maria."
+   },
+   {
+    "line_from": 10,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Levaillant.",
+    "place": "Bern",
+    "surname": "Levaillant",
+    "forename": "Salomon",
+    "title": "",
+    "occupation": "Pferdekäufer",
+    "address": "II, 212",
+    "quarter": "II",
+    "street": "",
+    "house_no": "212",
+    "origin": "Hegenheim in Frankreich",
+    "birth_year": "1813",
+    "household": "807 Fr. - Josephine Speinzle, geb. Wyler.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Salomon, Pferdekäufer, a. Hegenheim in Frankreich - II, 212. 807 Fr. - Josephine Speinzle, geb. Wyler."
+   },
+   {
+    "line_from": 14,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Levi.",
+    "place": "Bern",
+    "surname": "Levi",
+    "forename": "Theodor",
+    "title": "",
+    "occupation": "Pferdehändler",
+    "address": "II, 177",
+    "quarter": "II",
+    "street": "",
+    "house_no": "177",
+    "origin": "Oberhagenthal",
+    "birth_year": "1796",
+    "household": "Fr. - Rahel Guggenheim a. Oberendingen.; 1 S. - 827 Salomon Levi.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Theodor, Pferdehändler, a. Oberhagenthal - II, 177. Fr. - Rahel Guggenheim a. Oberendingen. 1 S. - 827 Salomon Levi."
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Levi.",
+    "place": "Bern",
+    "surname": "Levi",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Pferdehändler",
+    "address": "II, 21",
+    "quarter": "II",
+    "street": "",
+    "house_no": "21",
+    "origin": "Hegenheim im Elsaß",
+    "birth_year": "1810",
+    "household": "815 Fr. - Henriette Sommer.; 2 K. - 844 Klara. - 47 Charles.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 810 Joseph, Pferdehändler, a. Hegenheim im Elsaß - II, 21. 815 Fr. - Henriette Sommer. 2 K. - 844 Klara. - 47 Charles."
+   },
+   {
+    "line_from": 21,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Liechti.",
+    "place": "Bern",
+    "surname": "Liechti",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Wagner",
+    "address": "I, 126",
+    "quarter": "I",
+    "street": "",
+    "house_no": "126",
+    "origin": "Lauperswyl",
+    "birth_year": "1805",
+    "household": "791 Fr. - Sus. Wenger a. Strättligen.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Christian, Wagner, a. Lauperswyl - I, 126. 791 Fr. - Sus. Wenger a. Strättligen."
+   },
+   {
+    "line_from": 24,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Liechti.",
+    "place": "Bern",
+    "surname": "Liechti",
+    "forename": "Abr. Sam.",
+    "title": "",
+    "occupation": "Quartieraufseher",
+    "address": "VI, 107",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "107",
+    "origin": "Biglen",
+    "birth_year": "1799",
+    "household": "802 Fr. - Kath. Brand a. Trachselwald.; 2 S. - 832 Joh. Gottlieb. - 36 Abr. Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 799 Abr. Sam., Quartieraufseher, a. Biglen - VI, 107. 802 Fr. - Kath. Brand a. Trachselwald. 2 S. - 832 Joh. Gottlieb. - 36 Abr. Friedrich."
+   },
+   {
+    "line_from": 27,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Liechti.",
+    "place": "Bern",
+    "surname": "Liechti",
+    "forename": "Friedrich Christ.",
+    "title": "",
+    "occupation": "Spengler",
+    "address": "II, 207",
+    "quarter": "II",
+    "street": "",
+    "house_no": "207",
+    "origin": "Biglen",
+    "birth_year": "1813",
+    "household": "815 Fr. - Anna Stuber a. Tschäppach.; 4 S. - 840 Friedrich Karl Jakob. - 42 Karl Ferd. - 43 Ed. Alexander. - 45 Rudolf Bend.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 813 Friedrich Christ., Spengler, a. Biglen - II, 207. 815 Fr. - Anna Stuber a. Tschäppach. 4 S. - 840 Friedrich Karl Jakob. - 42 Karl Ferd. - 43 Ed. Alexander. - 45 Rudolf Bend."
+   },
+   {
+    "line_from": 31,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Liechti.",
+    "place": "Bern",
+    "surname": "Liechti",
+    "forename": "Barbara",
+    "title": "Wittwe",
+    "occupation": "Kantinewirthin in der Kaserne Nr. I",
+    "address": "III, 5",
+    "quarter": "III",
+    "street": "",
+    "house_no": "5",
+    "origin": "Biglen",
+    "birth_year": "1785",
+    "household": "7 K. - 812 Karl Samuel, Sekretär des Chefs des Stabes. - 14 David Emanuel, Kanzleiläufer. - 16 Karl Friedrich, Konducteur. - Nr. 5. - 21 Franz Alex. - 23 Alex. Niklaus. - 25 Henriette.",
+    "note": "Name aus Zwischentitel; geb. Henzer",
+    "text": "4 785 Barbara, geb. Henzer, Kantinewirthin in der Kaserne Nr. I, Wittwe, a. Biglen - III, 5. 7 K. - 812 Karl Samuel, Sekretär des Chefs des Stabes. - 14 David Emanuel, Kanzleiläufer. - 16 Karl Friedrich, Konducteur. - Nr. 5. - 21 Franz Alex. - 23 Alex. Niklaus. - 25 Henriette."
+   },
+   {
+    "line_from": 37,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Liechti.",
+    "place": "Bern",
+    "surname": "Liechti",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Abwärter d. Militärdirektion",
+    "address": "IV, 314",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "314",
+    "origin": "",
+    "birth_year": "1819",
+    "household": "821 Fr. - Barb. Elis. Ammeter a. Gsteig b. I.; 1 S. - 844 Bernhard Jakob.",
+    "note": "Name aus Zwischentitel; S. v. 4",
+    "text": "5 819 Joh. Jakob, Abwärter d. Militärdirektion, S. v. 4 - IV, 314. 821 Fr. - Barb. Elis. Ammeter a. Gsteig b. I. 1 S. - 844 Bernhard Jakob."
+   },
+   {
+    "line_from": 40,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Liechti.",
+    "place": "Bern",
+    "surname": "Liechti",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Tabakfabrikant und Wochenmarktkrämer",
+    "address": "II, 33",
+    "quarter": "II",
+    "street": "",
+    "house_no": "33",
+    "origin": "Landiswyl",
+    "birth_year": "1780",
+    "household": "785 Fr. - Kath. Wälti.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 780 Niklaus, Tabakfabrikant und Wochenmarktkrämer, a. Landiswyl - II, 33. 785 Fr. - Kath. Wälti."
+   },
+   {
+    "line_from": 43,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Liechti.",
+    "place": "Bern",
+    "surname": "Liechti",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "III, 140",
+    "quarter": "III",
+    "street": "",
+    "house_no": "140",
+    "origin": "Rüderswyl",
+    "birth_year": "1815",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "7 815 Maria, Schneiderin, a. Rüderswyl - III, 140."
+   },
+   {
+    "line_from": 44,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Liederbach.",
+    "place": "Bern",
+    "surname": "Liederbach",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "II, 56",
+    "quarter": "II",
+    "street": "",
+    "house_no": "56",
+    "origin": "Sprendlingen in Hessen",
+    "birth_year": "1824",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 824 Heinrich, Sattler, a. Sprendlingen in Hessen - II, 56."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:53:53+01:00",
+ "last_error": null
+}

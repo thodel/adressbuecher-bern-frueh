@@ -1,0 +1,405 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 121,
+ "section": "einsassen",
+ "started": "2026-11-10T21:54:09+01:00",
+ "thinking": "low",
+ "seconds": 22.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 3697,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"108\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 108 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Mörikofer.\"},\n    {\"n\": 4, \"text\": \"1 813 Karl Anton, Antiquar, a. Frauenfeld — II, 197.\"},\n    {\"n\": 5, \"text\": \"816 Fr. — Magdalena Karrer.\"},\n    {\"n\": 6, \"text\": \"4 K. — 841 Karl Jakob Albrecht. — 43 Anna Magdalena\"},\n    {\"n\": 7, \"text\": \"Karoline. — 45 Karl Eduard. — 46 Joh. Maria Magd.\"},\n    {\"n\": 8, \"text\": \"Mörker.\"},\n    {\"n\": 9, \"text\": \"1 811 Johann, Wagner, a. Langnau — II, 14.\"},\n    {\"n\": 10, \"text\": \"811 Fr. — Anna Schmuz a. Vechigen.\"},\n    {\"n\": 11, \"text\": \"1 S. — 838 Johann Gottlieb.\"},\n    {\"n\": 12, \"text\": \"Mollet.\"},\n    {\"n\": 13, \"text\": \"1 810 Jakob, Bäcker, a. Schnottwyl, K. Solothurn — VI, 53.\"},\n    {\"n\": 14, \"text\": \"Mollinet.\"},\n    {\"n\": 15, \"text\": \"1 815 Rudolf, Mezger, a. Basel — IV, 3.\"},\n    {\"n\": 16, \"text\": \"Fr. — Elisabetha Landi.\"},\n    {\"n\": 17, \"text\": \"Molz.\"},\n    {\"n\": 18, \"text\": \"1 790 Abraham Friedrich, gew. Pfarrer, a. Biel — III, 94.\"},\n    {\"n\": 19, \"text\": \"Fr. — Emilie Watt a. Biel.\"},\n    {\"n\": 20, \"text\": \"Monteil.\"},\n    {\"n\": 21, \"text\": \"1 Antoine, älter, Schirmfabrikant, a. Brageac in Frank-\"},\n    {\"n\": 22, \"text\": \"reich — IV, 174.\"},\n    {\"n\": 23, \"text\": \"Morgenthaler.\"},\n    {\"n\": 24, \"text\": \"1 794 Elisabetha, Weinausschenkin, a. Eriswyl — II, 236.\"},\n    {\"n\": 25, \"text\": \"2 814 Daniel Rudolf, Speisewirth, a. Walterswyl — II, 23.\"},\n    {\"n\": 26, \"text\": \"Fr. — Elis. Junker.\"},\n    {\"n\": 27, \"text\": \"1 S. — 841 Ed. Alb. Gottlieb.\"},\n    {\"n\": 28, \"text\": \"Mori.\"},\n    {\"n\": 29, \"text\": \"1 817 Samuel, Zuckerbäcker, a. Kallnach — II, 140.\"},\n    {\"n\": 30, \"text\": \"815 Fr. — Elis. Brauen.\"},\n    {\"n\": 31, \"text\": \"2 T. — 844 Elis. Maria. — 45 Adele Kath. Elisabetha.\"},\n    {\"n\": 32, \"text\": \"Moser.\"},\n    {\"n\": 33, \"text\": \"1 783 Albrecht, Lehenmann, a. Zäziwyl — VII, 172.\"},\n    {\"n\": 34, \"text\": \"781 Fr. — Anna Friedli a. Ersigen.\"},\n    {\"n\": 35, \"text\": \"4 K. — 805 Elis. — 807 Christian. — 809 Anna. — 19\"},\n    {\"n\": 36, \"text\": \"Friedrich.\"},\n    {\"n\": 37, \"text\": \"2 786 Anna, gew. Zaugg, geb. Stauffer, Krämerin, a. Herb-\"},\n    {\"n\": 38, \"text\": \"ligen — IV, 32.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Mörikofer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mörikofer\",\n      \"forename\": \"Karl Anton\",\n      \"title\": \"\",\n      \"occupation\": \"Antiquar\",\n      \"address\": \"II, 197\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"197\",\n      \"origin\": \"Frauenfeld\",\n      \"birth_year\": \"1813\",\n      \"household\": \"816 Fr. — Magdalena Karrer. 4 K. — 841 Karl Jakob Albrecht. — 43 Anna Magdalena Karoline. — 45 Karl Eduard. — 46 Joh. Maria Magd.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Karl Anton, Antiquar, a. Frauenfeld — II, 197. 816 Fr. — Magdalena Karrer. 4 K. — 841 Karl Jakob Albrecht. — 43 Anna Magdalena Karoline. — 45 Karl Eduard. — 46 Joh. Maria Magd.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Mörker\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mörker\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Wagner\",\n      \"address\": \"II, 14\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"14\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1811\",\n      \"household\": \"811 Fr. — Anna Schmuz a. Vechigen. 1 S. — 838 Johann Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Johann, Wagner, a. Langnau — II, 14. 811 Fr. — Anna Schmuz a. Vechigen. 1 S. — 838 Johann Gottlieb.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Mollet\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mollet\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"VI, 53\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"53\",\n      \"origin\": \"Schnottwyl, K. Solothurn\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Jakob, Bäcker, a. Schnottwyl, K. Solothurn — VI, 53.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Mollinet\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mollinet\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Mezger\",\n      \"address\": \"IV, 3\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"3\",\n      \"origin\": \"Basel\",\n      \"birth_year\": \"1815\",\n      \"household\": \"Fr. — Elisabetha Landi.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 815 Rudolf, Mezger, a. Basel — IV, 3. Fr. — Elisabetha Landi.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Molz\",\n      \"place\": \"Bern\",\n      \"surname\": \"Molz\",\n      \"forename\": \"Abraham Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Pfarrer\",\n      \"address\": \"III, 94\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"94\",\n      \"origin\": \"Biel\",\n      \"birth_year\": \"1790\",\n      \"household\": \"Fr. — Emilie Watt a. Biel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Abraham Friedrich, gew. Pfarrer, a. Biel — III, 94. Fr. — Emilie Watt a. Biel.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Monteil\",\n      \"place\": \"Bern\",\n      \"surname\": \"Monteil\",\n      \"forename\": \"Antoine\",\n      \"title\": \"älter\",\n      \"occupation\": \"Schirmfabrikant\",\n      \"address\": \"IV, 174\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"174\",\n      \"origin\": \"Brageac in Frankreich\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Antoine, älter, Schirmfabrikant, a. Brageac in Frankreich — IV, 174.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Morgenthaler\",\n      \"place\": \"Bern\",\n      \"surname\": \"Morgenthaler\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Weinausschenkin\",\n      \"address\": \"II, 236\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"236\",\n      \"origin\": \"Eriswyl\",\n      \"birth_year\": \"1794\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 794 Elisabetha, Weinausschenkin, a. Eriswyl — II, 236.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Morgenthaler\",\n      \"place\": \"Bern\",\n      \"surname\": \"Morgenthaler\",\n      \"forename\": \"Daniel Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth\",\n      \"address\": \"II, 23\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"23\",\n      \"origin\": \"Walterswyl\",\n      \"birth_year\": \"1814\",\n      \"household\": \"Fr. — Elis. Junker. 1 S. — 841 Ed. Alb. Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 814 Daniel Rudolf, Speisewirth, a. Walterswyl — II, 23. Fr. — Elis. Junker. 1 S. — 841 Ed. Alb. Gottlieb.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Mori\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mori\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Zuckerbäcker\",\n      \"address\": \"II, 140\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"140\",\n      \"origin\": \"Kallnach\",\n      \"birth_year\": \"1817\",\n      \"household\": \"815 Fr. — Elis. Brauen. 2 T. — 844 Elis. Maria. — 45 Adele Kath. Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 817 Samuel, Zuckerbäcker, a. Kallnach — II, 140. 815 Fr. — Elis. Brauen. 2 T. — 844 Elis. Maria. — 45 Adele Kath. Elisabetha.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Moser\",\n      \"place\": \"Bern\",\n      \"surname\": \"Moser\",\n      \"forename\": \"Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"Lehenmann\",\n      \"address\": \"VII, 172\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"172\",\n      \"origin\": \"Zäziwyl\",\n      \"birth_year\": \"1783\",\n      \"household\": \"781 Fr. — Anna Friedli a. Ersigen. 4 K. — 805 Elis. — 807 Christian. — 809 Anna. — 19 Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 783 Albrecht, Lehenmann, a. Zäziwyl — VII, 172. 781 Fr. — Anna Friedli a. Ersigen. 4 K. — 805 Elis. — 807 Christian. — 809 Anna. — 19 Friedrich.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Moser\",\n      \"place\": \"Bern\",\n      \"surname\": \"Moser\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"IV, 32\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"32\",\n      \"origin\": \"Herbligen\",\n      \"birth_year\": \"1786\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; gew. Zaugg, geb. Stauffer\",\n      \"text\": \"2 786 Anna, gew. Zaugg, geb. Stauffer, Krämerin, a. Herbligen — IV, 32.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "108",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 108 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Mörikofer."
+   },
+   {
+    "n": 4,
+    "text": "1 813 Karl Anton, Antiquar, a. Frauenfeld — II, 197."
+   },
+   {
+    "n": 5,
+    "text": "816 Fr. — Magdalena Karrer."
+   },
+   {
+    "n": 6,
+    "text": "4 K. — 841 Karl Jakob Albrecht. — 43 Anna Magdalena"
+   },
+   {
+    "n": 7,
+    "text": "Karoline. — 45 Karl Eduard. — 46 Joh. Maria Magd."
+   },
+   {
+    "n": 8,
+    "text": "Mörker."
+   },
+   {
+    "n": 9,
+    "text": "1 811 Johann, Wagner, a. Langnau — II, 14."
+   },
+   {
+    "n": 10,
+    "text": "811 Fr. — Anna Schmuz a. Vechigen."
+   },
+   {
+    "n": 11,
+    "text": "1 S. — 838 Johann Gottlieb."
+   },
+   {
+    "n": 12,
+    "text": "Mollet."
+   },
+   {
+    "n": 13,
+    "text": "1 810 Jakob, Bäcker, a. Schnottwyl, K. Solothurn — VI, 53."
+   },
+   {
+    "n": 14,
+    "text": "Mollinet."
+   },
+   {
+    "n": 15,
+    "text": "1 815 Rudolf, Mezger, a. Basel — IV, 3."
+   },
+   {
+    "n": 16,
+    "text": "Fr. — Elisabetha Landi."
+   },
+   {
+    "n": 17,
+    "text": "Molz."
+   },
+   {
+    "n": 18,
+    "text": "1 790 Abraham Friedrich, gew. Pfarrer, a. Biel — III, 94."
+   },
+   {
+    "n": 19,
+    "text": "Fr. — Emilie Watt a. Biel."
+   },
+   {
+    "n": 20,
+    "text": "Monteil."
+   },
+   {
+    "n": 21,
+    "text": "1 Antoine, älter, Schirmfabrikant, a. Brageac in Frank-"
+   },
+   {
+    "n": 22,
+    "text": "reich — IV, 174."
+   },
+   {
+    "n": 23,
+    "text": "Morgenthaler."
+   },
+   {
+    "n": 24,
+    "text": "1 794 Elisabetha, Weinausschenkin, a. Eriswyl — II, 236."
+   },
+   {
+    "n": 25,
+    "text": "2 814 Daniel Rudolf, Speisewirth, a. Walterswyl — II, 23."
+   },
+   {
+    "n": 26,
+    "text": "Fr. — Elis. Junker."
+   },
+   {
+    "n": 27,
+    "text": "1 S. — 841 Ed. Alb. Gottlieb."
+   },
+   {
+    "n": 28,
+    "text": "Mori."
+   },
+   {
+    "n": 29,
+    "text": "1 817 Samuel, Zuckerbäcker, a. Kallnach — II, 140."
+   },
+   {
+    "n": 30,
+    "text": "815 Fr. — Elis. Brauen."
+   },
+   {
+    "n": 31,
+    "text": "2 T. — 844 Elis. Maria. — 45 Adele Kath. Elisabetha."
+   },
+   {
+    "n": 32,
+    "text": "Moser."
+   },
+   {
+    "n": 33,
+    "text": "1 783 Albrecht, Lehenmann, a. Zäziwyl — VII, 172."
+   },
+   {
+    "n": 34,
+    "text": "781 Fr. — Anna Friedli a. Ersigen."
+   },
+   {
+    "n": 35,
+    "text": "4 K. — 805 Elis. — 807 Christian. — 809 Anna. — 19"
+   },
+   {
+    "n": 36,
+    "text": "Friedrich."
+   },
+   {
+    "n": 37,
+    "text": "2 786 Anna, gew. Zaugg, geb. Stauffer, Krämerin, a. Herb-"
+   },
+   {
+    "n": 38,
+    "text": "ligen — IV, 32."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Mörikofer",
+    "place": "Bern",
+    "surname": "Mörikofer",
+    "forename": "Karl Anton",
+    "title": "",
+    "occupation": "Antiquar",
+    "address": "II, 197",
+    "quarter": "II",
+    "street": "",
+    "house_no": "197",
+    "origin": "Frauenfeld",
+    "birth_year": "1813",
+    "household": "816 Fr. — Magdalena Karrer. 4 K. — 841 Karl Jakob Albrecht. — 43 Anna Magdalena Karoline. — 45 Karl Eduard. — 46 Joh. Maria Magd.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Karl Anton, Antiquar, a. Frauenfeld — II, 197. 816 Fr. — Magdalena Karrer. 4 K. — 841 Karl Jakob Albrecht. — 43 Anna Magdalena Karoline. — 45 Karl Eduard. — 46 Joh. Maria Magd."
+   },
+   {
+    "line_from": 9,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Mörker",
+    "place": "Bern",
+    "surname": "Mörker",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Wagner",
+    "address": "II, 14",
+    "quarter": "II",
+    "street": "",
+    "house_no": "14",
+    "origin": "Langnau",
+    "birth_year": "1811",
+    "household": "811 Fr. — Anna Schmuz a. Vechigen. 1 S. — 838 Johann Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Johann, Wagner, a. Langnau — II, 14. 811 Fr. — Anna Schmuz a. Vechigen. 1 S. — 838 Johann Gottlieb."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Mollet",
+    "place": "Bern",
+    "surname": "Mollet",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "VI, 53",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "53",
+    "origin": "Schnottwyl, K. Solothurn",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Jakob, Bäcker, a. Schnottwyl, K. Solothurn — VI, 53."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Mollinet",
+    "place": "Bern",
+    "surname": "Mollinet",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Mezger",
+    "address": "IV, 3",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "3",
+    "origin": "Basel",
+    "birth_year": "1815",
+    "household": "Fr. — Elisabetha Landi.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 815 Rudolf, Mezger, a. Basel — IV, 3. Fr. — Elisabetha Landi."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Molz",
+    "place": "Bern",
+    "surname": "Molz",
+    "forename": "Abraham Friedrich",
+    "title": "",
+    "occupation": "gew. Pfarrer",
+    "address": "III, 94",
+    "quarter": "III",
+    "street": "",
+    "house_no": "94",
+    "origin": "Biel",
+    "birth_year": "1790",
+    "household": "Fr. — Emilie Watt a. Biel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Abraham Friedrich, gew. Pfarrer, a. Biel — III, 94. Fr. — Emilie Watt a. Biel."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Monteil",
+    "place": "Bern",
+    "surname": "Monteil",
+    "forename": "Antoine",
+    "title": "älter",
+    "occupation": "Schirmfabrikant",
+    "address": "IV, 174",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "174",
+    "origin": "Brageac in Frankreich",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Antoine, älter, Schirmfabrikant, a. Brageac in Frankreich — IV, 174."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Morgenthaler",
+    "place": "Bern",
+    "surname": "Morgenthaler",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Weinausschenkin",
+    "address": "II, 236",
+    "quarter": "II",
+    "street": "",
+    "house_no": "236",
+    "origin": "Eriswyl",
+    "birth_year": "1794",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 794 Elisabetha, Weinausschenkin, a. Eriswyl — II, 236."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Morgenthaler",
+    "place": "Bern",
+    "surname": "Morgenthaler",
+    "forename": "Daniel Rudolf",
+    "title": "",
+    "occupation": "Speisewirth",
+    "address": "II, 23",
+    "quarter": "II",
+    "street": "",
+    "house_no": "23",
+    "origin": "Walterswyl",
+    "birth_year": "1814",
+    "household": "Fr. — Elis. Junker. 1 S. — 841 Ed. Alb. Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 814 Daniel Rudolf, Speisewirth, a. Walterswyl — II, 23. Fr. — Elis. Junker. 1 S. — 841 Ed. Alb. Gottlieb."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Mori",
+    "place": "Bern",
+    "surname": "Mori",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Zuckerbäcker",
+    "address": "II, 140",
+    "quarter": "II",
+    "street": "",
+    "house_no": "140",
+    "origin": "Kallnach",
+    "birth_year": "1817",
+    "household": "815 Fr. — Elis. Brauen. 2 T. — 844 Elis. Maria. — 45 Adele Kath. Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 817 Samuel, Zuckerbäcker, a. Kallnach — II, 140. 815 Fr. — Elis. Brauen. 2 T. — 844 Elis. Maria. — 45 Adele Kath. Elisabetha."
+   },
+   {
+    "line_from": 33,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Moser",
+    "place": "Bern",
+    "surname": "Moser",
+    "forename": "Albrecht",
+    "title": "",
+    "occupation": "Lehenmann",
+    "address": "VII, 172",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "172",
+    "origin": "Zäziwyl",
+    "birth_year": "1783",
+    "household": "781 Fr. — Anna Friedli a. Ersigen. 4 K. — 805 Elis. — 807 Christian. — 809 Anna. — 19 Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 783 Albrecht, Lehenmann, a. Zäziwyl — VII, 172. 781 Fr. — Anna Friedli a. Ersigen. 4 K. — 805 Elis. — 807 Christian. — 809 Anna. — 19 Friedrich."
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Moser",
+    "place": "Bern",
+    "surname": "Moser",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "IV, 32",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "32",
+    "origin": "Herbligen",
+    "birth_year": "1786",
+    "household": "",
+    "note": "Name aus Zwischentitel; gew. Zaugg, geb. Stauffer",
+    "text": "2 786 Anna, gew. Zaugg, geb. Stauffer, Krämerin, a. Herbligen — IV, 32."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:54:31+01:00",
+ "last_error": null
+}

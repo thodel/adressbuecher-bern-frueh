@@ -1,0 +1,353 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 91,
+ "section": "ville",
+ "started": "2026-11-10T21:11:45+01:00",
+ "thinking": "low",
+ "seconds": 16.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2300,
+  "output": 2669,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"81\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"81\"},\n    {\"n\": 2, \"text\": \"Dentelles et Blondes , voyez\"},\n    {\"n\": 3, \"text\": \"Mercerie.\"},\n    {\"n\": 4, \"text\": \"Dessin.\"},\n    {\"n\": 5, \"text\": \"Sonnenschein , Valentin , Prof. du\"},\n    {\"n\": 6, \"text\": \"dessin academique. — — Q. bl. 100.\"},\n    {\"n\": 7, \"text\": \"Doreurs et miroitiers.\"},\n    {\"n\": 8, \"text\": \"Baumann , J. B. — — — Q. r. 159.\"},\n    {\"n\": 9, \"text\": \"Duwy , Charles , et Fr. M. Pugin ,\"},\n    {\"n\": 10, \"text\": \"Sculpteurs , tiennent magazin\"},\n    {\"n\": 11, \"text\": \"de glaces pour miroirs. — — j. 139.\"},\n    {\"n\": 12, \"text\": \"Drapiers.\"},\n    {\"n\": 13, \"text\": \"Bay et Comp. — — Q. j. 61.\"},\n    {\"n\": 14, \"text\": \"Brounner , Bürki et Comp. — — j. 46.\"},\n    {\"n\": 15, \"text\": \"Hartmann , J. R. — — — j. 80.\"},\n    {\"n\": 16, \"text\": \"Küpfer , Frèd. et Rod. — — — j. 57.\"},\n    {\"n\": 17, \"text\": \"Lauterbourg-Edelstein. — — — j. 84.\"},\n    {\"n\": 18, \"text\": \"Simon , Em. et fils. — — — r. 154.\"},\n    {\"n\": 19, \"text\": \"Sinner , Wyttenbach et Thillmann. — v. 209.\"},\n    {\"n\": 20, \"text\": \"Droguistes , voyez Epicerie.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"verweis\",\n      \"heading\": \"Dentelles et Blondes\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dentelles et Blondes , voyez Mercerie.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Dessin\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sonnenschein\",\n      \"forename\": \"Valentin\",\n      \"title\": \"\",\n      \"occupation\": \"Prof. du dessin academique\",\n      \"address\": \"Q. bl. 100\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"100\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sonnenschein , Valentin , Prof. du dessin academique. — — Q. bl. 100.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Doreurs et miroitiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumann\",\n      \"forename\": \"J. B.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. r. 159\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"159\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Baumann , J. B. — — — Q. r. 159.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Doreurs et miroitiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Duwy et Pugin\",\n      \"forename\": \"Charles et Fr. M.\",\n      \"title\": \"\",\n      \"occupation\": \"Sculpteurs , tiennent magazin de glaces pour miroirs\",\n      \"address\": \"j. 139\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"139\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Duwy , Charles , et Fr. M. Pugin , Sculpteurs , tiennent magazin de glaces pour miroirs. — — j. 139.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"firma\",\n      \"heading\": \"Drapiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bay\",\n      \"forename\": \"\",\n      \"title\": \"et Comp.\",\n      \"occupation\": \"\",\n      \"address\": \"Q. j. 61\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bay et Comp. — — Q. j. 61.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Drapiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brounner et Bürki\",\n      \"forename\": \"\",\n      \"title\": \"et Comp.\",\n      \"occupation\": \"\",\n      \"address\": \"j. 46\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"46\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brounner , Bürki et Comp. — — j. 46.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Drapiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hartmann\",\n      \"forename\": \"J. R.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 80\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"80\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hartmann , J. R. — — — j. 80.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Drapiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Küpfer\",\n      \"forename\": \"Frèd. et Rod.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 57\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"57\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Küpfer , Frèd. et Rod. — — — j. 57.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Drapiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lauterbourg-Edelstein\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 84\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"84\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lauterbourg-Edelstein. — — — j. 84.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"firma\",\n      \"heading\": \"Drapiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Simon\",\n      \"forename\": \"Em.\",\n      \"title\": \"et fils\",\n      \"occupation\": \"\",\n      \"address\": \"r. 154\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"154\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Simon , Em. et fils. — — — r. 154.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"Drapiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sinner, Wyttenbach et Thillmann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 209\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"209\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sinner , Wyttenbach et Thillmann. — v. 209.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"verweis\",\n      \"heading\": \"Droguistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Droguistes , voyez Epicerie.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "81",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "81"
+   },
+   {
+    "n": 2,
+    "text": "Dentelles et Blondes , voyez"
+   },
+   {
+    "n": 3,
+    "text": "Mercerie."
+   },
+   {
+    "n": 4,
+    "text": "Dessin."
+   },
+   {
+    "n": 5,
+    "text": "Sonnenschein , Valentin , Prof. du"
+   },
+   {
+    "n": 6,
+    "text": "dessin academique. — — Q. bl. 100."
+   },
+   {
+    "n": 7,
+    "text": "Doreurs et miroitiers."
+   },
+   {
+    "n": 8,
+    "text": "Baumann , J. B. — — — Q. r. 159."
+   },
+   {
+    "n": 9,
+    "text": "Duwy , Charles , et Fr. M. Pugin ,"
+   },
+   {
+    "n": 10,
+    "text": "Sculpteurs , tiennent magazin"
+   },
+   {
+    "n": 11,
+    "text": "de glaces pour miroirs. — — j. 139."
+   },
+   {
+    "n": 12,
+    "text": "Drapiers."
+   },
+   {
+    "n": 13,
+    "text": "Bay et Comp. — — Q. j. 61."
+   },
+   {
+    "n": 14,
+    "text": "Brounner , Bürki et Comp. — — j. 46."
+   },
+   {
+    "n": 15,
+    "text": "Hartmann , J. R. — — — j. 80."
+   },
+   {
+    "n": 16,
+    "text": "Küpfer , Frèd. et Rod. — — — j. 57."
+   },
+   {
+    "n": 17,
+    "text": "Lauterbourg-Edelstein. — — — j. 84."
+   },
+   {
+    "n": 18,
+    "text": "Simon , Em. et fils. — — — r. 154."
+   },
+   {
+    "n": 19,
+    "text": "Sinner , Wyttenbach et Thillmann. — v. 209."
+   },
+   {
+    "n": 20,
+    "text": "Droguistes , voyez Epicerie."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "verweis",
+    "heading": "Dentelles et Blondes",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dentelles et Blondes , voyez Mercerie."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Dessin",
+    "place": "Bern",
+    "surname": "Sonnenschein",
+    "forename": "Valentin",
+    "title": "",
+    "occupation": "Prof. du dessin academique",
+    "address": "Q. bl. 100",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "100",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sonnenschein , Valentin , Prof. du dessin academique. — — Q. bl. 100."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Doreurs et miroitiers",
+    "place": "Bern",
+    "surname": "Baumann",
+    "forename": "J. B.",
+    "title": "",
+    "occupation": "",
+    "address": "Q. r. 159",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "159",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Baumann , J. B. — — — Q. r. 159."
+   },
+   {
+    "line_from": 9,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Doreurs et miroitiers",
+    "place": "Bern",
+    "surname": "Duwy et Pugin",
+    "forename": "Charles et Fr. M.",
+    "title": "",
+    "occupation": "Sculpteurs , tiennent magazin de glaces pour miroirs",
+    "address": "j. 139",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "139",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Duwy , Charles , et Fr. M. Pugin , Sculpteurs , tiennent magazin de glaces pour miroirs. — — j. 139."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "firma",
+    "heading": "Drapiers",
+    "place": "Bern",
+    "surname": "Bay",
+    "forename": "",
+    "title": "et Comp.",
+    "occupation": "",
+    "address": "Q. j. 61",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "61",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bay et Comp. — — Q. j. 61."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Drapiers",
+    "place": "Bern",
+    "surname": "Brounner et Bürki",
+    "forename": "",
+    "title": "et Comp.",
+    "occupation": "",
+    "address": "j. 46",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "46",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brounner , Bürki et Comp. — — j. 46."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Drapiers",
+    "place": "Bern",
+    "surname": "Hartmann",
+    "forename": "J. R.",
+    "title": "",
+    "occupation": "",
+    "address": "j. 80",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "80",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hartmann , J. R. — — — j. 80."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Drapiers",
+    "place": "Bern",
+    "surname": "Küpfer",
+    "forename": "Frèd. et Rod.",
+    "title": "",
+    "occupation": "",
+    "address": "j. 57",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "57",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Küpfer , Frèd. et Rod. — — — j. 57."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Drapiers",
+    "place": "Bern",
+    "surname": "Lauterbourg-Edelstein",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "j. 84",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "84",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lauterbourg-Edelstein. — — — j. 84."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "firma",
+    "heading": "Drapiers",
+    "place": "Bern",
+    "surname": "Simon",
+    "forename": "Em.",
+    "title": "et fils",
+    "occupation": "",
+    "address": "r. 154",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "154",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Simon , Em. et fils. — — — r. 154."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "Drapiers",
+    "place": "Bern",
+    "surname": "Sinner, Wyttenbach et Thillmann",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "v. 209",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "209",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sinner , Wyttenbach et Thillmann. — v. 209."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "verweis",
+    "heading": "Droguistes",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Droguistes , voyez Epicerie."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:12:01+01:00",
+ "last_error": null
+}

@@ -1,0 +1,553 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 151,
+ "section": "einsassen",
+ "started": "2026-11-10T21:55:46+01:00",
+ "thinking": "low",
+ "seconds": 30.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 5514,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"138\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 138 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Scheidegger.\"},\n    {\"n\": 4, \"text\": \"1 796 Samuel, Tabakfabrikant, a. Sumiswald - III, 90.\"},\n    {\"n\": 5, \"text\": \"802 Fr. - A. Barb. Schär a. Dürrenroth.\"},\n    {\"n\": 6, \"text\": \"2 824 Anna Maria, Schneiderin, a. Huttwyl - V, 41.\"},\n    {\"n\": 7, \"text\": \"3 815 Jakob, Küher, a. Lützelflüh - VII, 107.\"},\n    {\"n\": 8, \"text\": \"817 Fr. - Magd. Häberli a. Münchenbuchsee.\"},\n    {\"n\": 9, \"text\": \"2 S. - 844 Jakob. - 46 Friedrich.\"},\n    {\"n\": 10, \"text\": \"Schenk.\"},\n    {\"n\": 11, \"text\": \"1 770 Elisabetha, geb. Howald, privat., a. Eggiwyl - V, 120.\"},\n    {\"n\": 12, \"text\": \"2 785 Joh. Gabriel, gew. Lohnkutscher, a. Langnau - IV, 102.\"},\n    {\"n\": 13, \"text\": \"781 Fr. - Elis. Rauber a. Windisch, K. Aargau.\"},\n    {\"n\": 14, \"text\": \"3 812 Joh. Ulrich, Wagner, a. Unterlangenegg - II, 173.\"},\n    {\"n\": 15, \"text\": \"806 Fr. - Marg. Wyß a. Habkern.\"},\n    {\"n\": 16, \"text\": \"4 811 Karl Friedr. Alb., Graveur u. Goldarbeiter, a. Signau\"},\n    {\"n\": 17, \"text\": \"- VI, 27.\"},\n    {\"n\": 18, \"text\": \"814 Fr. - Elis. Marti a. Mülchi.\"},\n    {\"n\": 19, \"text\": \"5 814 Johann, Speisewirth, a. Unterlangenegg - IV, 135.\"},\n    {\"n\": 20, \"text\": \"807 Fr. - A. B. Ohnmacht.\"},\n    {\"n\": 21, \"text\": \"1 S. - 842 Joh. Rudolf.\"},\n    {\"n\": 22, \"text\": \"6 812 Friedr. Ulrich, Mechaniker, a. Signau - VI, 53.\"},\n    {\"n\": 23, \"text\": \"806 Fr. - Sus. Phil. Weber, geb. Hählen.\"},\n    {\"n\": 24, \"text\": \"7 809 Peter, Käshändler, a. Eggiwyl - II, 106.\"},\n    {\"n\": 25, \"text\": \"8 821 Bendicht, Tabakfabrikant, a. Signau - VI, 18.\"},\n    {\"n\": 26, \"text\": \"Schenker.\"},\n    {\"n\": 27, \"text\": \"1 797 Ludwig, Küfer, a. Schönenwerth, K. Solothurn-IV, 85.\"},\n    {\"n\": 28, \"text\": \"1 S. - 826 Gottlieb.\"},\n    {\"n\": 29, \"text\": \"2 815 Franz, Schneider, a. Däniken, K. Solothurn - IV, 305.\"},\n    {\"n\": 30, \"text\": \"814 Fr. - Elis. Schorer a. Wangen.\"},\n    {\"n\": 31, \"text\": \"3 K. - 837 Karl Franz. - 39 Elis. Karol. - 47 Emilie\"},\n    {\"n\": 32, \"text\": \"Wilhelmine.\"},\n    {\"n\": 33, \"text\": \"Scherrer.\"},\n    {\"n\": 34, \"text\": \"1 Joh. Baptist, Kutscher, a. Strittmatt in Baden - III, 10.\"},\n    {\"n\": 35, \"text\": \"820 Fr. II Ehe. - Anna Mathys a. Koppigen.\"},\n    {\"n\": 36, \"text\": \"Scherz a. Aeschi.\"},\n    {\"n\": 37, \"text\": \"1 818 Jakob, Fürsprecher u. Notar - II, 137 u. 138.\"},\n    {\"n\": 38, \"text\": \"Fr. - Rosalie Zürcher.\"},\n    {\"n\": 39, \"text\": \"1 S. - 847 Ernst Alfred.\"},\n    {\"n\": 40, \"text\": \"2 Cölestine, geb. Juillerat, privat. - V, 78.\"},\n    {\"n\": 41, \"text\": \"Scheuch a. Luſtorf, K. Thurgau.\"},\n    {\"n\": 42, \"text\": \"1 786 Konrad, Schuhmacher, B. v. 2 - II, 91 u. 92.\"},\n    {\"n\": 43, \"text\": \"Fr. II Ehe. - Elis. Treyer, bern. Landsassin.\"},\n    {\"n\": 44, \"text\": \"3 K. - Aus I Ehe: 818 A. Barb. - Aus II Ehe: 832\"},\n    {\"n\": 45, \"text\": \"Kath. Maria Louise. - 33 Joh. Konrad.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Scheidegger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Scheidegger\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Tabakfabrikant\",\n      \"address\": \"III, 90\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"90\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1796\",\n      \"household\": \"802 Fr. - A. Barb. Schär a. Dürrenroth.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Samuel, Tabakfabrikant, a. Sumiswald - III, 90. 802 Fr. - A. Barb. Schär a. Dürrenroth.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Scheidegger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Scheidegger\",\n      \"forename\": \"Anna Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"V, 41\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"41\",\n      \"origin\": \"Huttwyl\",\n      \"birth_year\": \"1824\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 824 Anna Maria, Schneiderin, a. Huttwyl - V, 41.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Scheidegger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Scheidegger\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Küher\",\n      \"address\": \"VII, 107\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"107\",\n      \"origin\": \"Lützelflüh\",\n      \"birth_year\": \"1815\",\n      \"household\": \"817 Fr. - Magd. Häberli a. Münchenbuchsee. 2 S. - 844 Jakob. - 46 Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 815 Jakob, Küher, a. Lützelflüh - VII, 107. 817 Fr. - Magd. Häberli a. Münchenbuchsee. 2 S. - 844 Jakob. - 46 Friedrich.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Schenk.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"V, 120\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"120\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1770\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 770 Elisabetha, geb. Howald, privat., a. Eggiwyl - V, 120.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Schenk.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Joh. Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Lohnkutscher\",\n      \"address\": \"IV, 102\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"102\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1785\",\n      \"household\": \"781 Fr. - Elis. Rauber a. Windisch, K. Aargau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 785 Joh. Gabriel, gew. Lohnkutscher, a. Langnau - IV, 102. 781 Fr. - Elis. Rauber a. Windisch, K. Aargau.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Schenk.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Wagner\",\n      \"address\": \"II, 173\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"173\",\n      \"origin\": \"Unterlangenegg\",\n      \"birth_year\": \"1812\",\n      \"household\": \"806 Fr. - Marg. Wyß a. Habkern.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 812 Joh. Ulrich, Wagner, a. Unterlangenegg - II, 173. 806 Fr. - Marg. Wyß a. Habkern.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Schenk.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Karl Friedr. Alb.\",\n      \"title\": \"\",\n      \"occupation\": \"Graveur u. Goldarbeiter\",\n      \"address\": \"VI, 27\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"27\",\n      \"origin\": \"Signau\",\n      \"birth_year\": \"1811\",\n      \"household\": \"814 Fr. - Elis. Marti a. Mülchi.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 811 Karl Friedr. Alb., Graveur u. Goldarbeiter, a. Signau - VI, 27. 814 Fr. - Elis. Marti a. Mülchi.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Schenk.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth\",\n      \"address\": \"IV, 135\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"135\",\n      \"origin\": \"Unterlangenegg\",\n      \"birth_year\": \"1814\",\n      \"household\": \"807 Fr. - A. B. Ohnmacht. 1 S. - 842 Joh. Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 814 Johann, Speisewirth, a. Unterlangenegg - IV, 135. 807 Fr. - A. B. Ohnmacht. 1 S. - 842 Joh. Rudolf.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Schenk.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Friedr. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Mechaniker\",\n      \"address\": \"VI, 53\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"53\",\n      \"origin\": \"Signau\",\n      \"birth_year\": \"1812\",\n      \"household\": \"806 Fr. - Sus. Phil. Weber, geb. Hählen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 812 Friedr. Ulrich, Mechaniker, a. Signau - VI, 53. 806 Fr. - Sus. Phil. Weber, geb. Hählen.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Schenk.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Käshändler\",\n      \"address\": \"II, 106\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"106\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1809\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 809 Peter, Käshändler, a. Eggiwyl - II, 106.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Schenk.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Tabakfabrikant\",\n      \"address\": \"VI, 18\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"18\",\n      \"origin\": \"Signau\",\n      \"birth_year\": \"1821\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"8 821 Bendicht, Tabakfabrikant, a. Signau - VI, 18.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Schenker.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenker\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Küfer\",\n      \"address\": \"IV, 85\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"85\",\n      \"origin\": \"Schönenwerth, K. Solothurn\",\n      \"birth_year\": \"1797\",\n      \"household\": \"1 S. - 826 Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 Ludwig, Küfer, a. Schönenwerth, K. Solothurn-IV, 85. 1 S. - 826 Gottlieb.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Schenker.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenker\",\n      \"forename\": \"Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 305\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"305\",\n      \"origin\": \"Däniken, K. Solothurn\",\n      \"birth_year\": \"1815\",\n      \"household\": \"814 Fr. - Elis. Schorer a. Wangen. 3 K. - 837 Karl Franz. - 39 Elis. Karol. - 47 Emilie Wilhelmine.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 815 Franz, Schneider, a. Däniken, K. Solothurn - IV, 305. 814 Fr. - Elis. Schorer a. Wangen. 3 K. - 837 Karl Franz. - 39 Elis. Karol. - 47 Emilie Wilhelmine.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Scherrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Scherrer\",\n      \"forename\": \"Joh. Baptist\",\n      \"title\": \"\",\n      \"occupation\": \"Kutscher\",\n      \"address\": \"III, 10\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"10\",\n      \"origin\": \"Strittmatt in Baden\",\n      \"birth_year\": \"\",\n      \"household\": \"820 Fr. II Ehe. - Anna Mathys a. Koppigen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Joh. Baptist, Kutscher, a. Strittmatt in Baden - III, 10. 820 Fr. II Ehe. - Anna Mathys a. Koppigen.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Scherz a. Aeschi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Scherz\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Fürsprecher u. Notar\",\n      \"address\": \"II, 137 u. 138\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"137 u. 138\",\n      \"origin\": \"Aeschi\",\n      \"birth_year\": \"1818\",\n      \"household\": \"Fr. - Rosalie Zürcher. 1 S. - 847 Ernst Alfred.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 818 Jakob, Fürsprecher u. Notar - II, 137 u. 138. Fr. - Rosalie Zürcher. 1 S. - 847 Ernst Alfred.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Scherz a. Aeschi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Scherz\",\n      \"forename\": \"Cölestine\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"V, 78\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"78\",\n      \"origin\": \"Aeschi\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"2 Cölestine, geb. Juillerat, privat. - V, 78.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Scheuch a. Luſtorf, K. Thurgau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Scheuch\",\n      \"forename\": \"Konrad\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 91 u. 92\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"91 u. 92\",\n      \"origin\": \"Luſtorf, K. Thurgau\",\n      \"birth_year\": \"1786\",\n      \"household\": \"Fr. II Ehe. - Elis. Treyer, bern. Landsassin. 3 K. - Aus I Ehe: 818 A. Barb. - Aus II Ehe: 832 Kath. Maria Louise. - 33 Joh. Konrad.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel; B. v. 2\",\n      \"text\": \"1 786 Konrad, Schuhmacher, B. v. 2 - II, 91 u. 92. Fr. II Ehe. - Elis. Treyer, bern. Landsassin. 3 K. - Aus I Ehe: 818 A. Barb. - Aus II Ehe: 832 Kath. Maria Louise. - 33 Joh. Konrad.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "138",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 138 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Scheidegger."
+   },
+   {
+    "n": 4,
+    "text": "1 796 Samuel, Tabakfabrikant, a. Sumiswald - III, 90."
+   },
+   {
+    "n": 5,
+    "text": "802 Fr. - A. Barb. Schär a. Dürrenroth."
+   },
+   {
+    "n": 6,
+    "text": "2 824 Anna Maria, Schneiderin, a. Huttwyl - V, 41."
+   },
+   {
+    "n": 7,
+    "text": "3 815 Jakob, Küher, a. Lützelflüh - VII, 107."
+   },
+   {
+    "n": 8,
+    "text": "817 Fr. - Magd. Häberli a. Münchenbuchsee."
+   },
+   {
+    "n": 9,
+    "text": "2 S. - 844 Jakob. - 46 Friedrich."
+   },
+   {
+    "n": 10,
+    "text": "Schenk."
+   },
+   {
+    "n": 11,
+    "text": "1 770 Elisabetha, geb. Howald, privat., a. Eggiwyl - V, 120."
+   },
+   {
+    "n": 12,
+    "text": "2 785 Joh. Gabriel, gew. Lohnkutscher, a. Langnau - IV, 102."
+   },
+   {
+    "n": 13,
+    "text": "781 Fr. - Elis. Rauber a. Windisch, K. Aargau."
+   },
+   {
+    "n": 14,
+    "text": "3 812 Joh. Ulrich, Wagner, a. Unterlangenegg - II, 173."
+   },
+   {
+    "n": 15,
+    "text": "806 Fr. - Marg. Wyß a. Habkern."
+   },
+   {
+    "n": 16,
+    "text": "4 811 Karl Friedr. Alb., Graveur u. Goldarbeiter, a. Signau"
+   },
+   {
+    "n": 17,
+    "text": "- VI, 27."
+   },
+   {
+    "n": 18,
+    "text": "814 Fr. - Elis. Marti a. Mülchi."
+   },
+   {
+    "n": 19,
+    "text": "5 814 Johann, Speisewirth, a. Unterlangenegg - IV, 135."
+   },
+   {
+    "n": 20,
+    "text": "807 Fr. - A. B. Ohnmacht."
+   },
+   {
+    "n": 21,
+    "text": "1 S. - 842 Joh. Rudolf."
+   },
+   {
+    "n": 22,
+    "text": "6 812 Friedr. Ulrich, Mechaniker, a. Signau - VI, 53."
+   },
+   {
+    "n": 23,
+    "text": "806 Fr. - Sus. Phil. Weber, geb. Hählen."
+   },
+   {
+    "n": 24,
+    "text": "7 809 Peter, Käshändler, a. Eggiwyl - II, 106."
+   },
+   {
+    "n": 25,
+    "text": "8 821 Bendicht, Tabakfabrikant, a. Signau - VI, 18."
+   },
+   {
+    "n": 26,
+    "text": "Schenker."
+   },
+   {
+    "n": 27,
+    "text": "1 797 Ludwig, Küfer, a. Schönenwerth, K. Solothurn-IV, 85."
+   },
+   {
+    "n": 28,
+    "text": "1 S. - 826 Gottlieb."
+   },
+   {
+    "n": 29,
+    "text": "2 815 Franz, Schneider, a. Däniken, K. Solothurn - IV, 305."
+   },
+   {
+    "n": 30,
+    "text": "814 Fr. - Elis. Schorer a. Wangen."
+   },
+   {
+    "n": 31,
+    "text": "3 K. - 837 Karl Franz. - 39 Elis. Karol. - 47 Emilie"
+   },
+   {
+    "n": 32,
+    "text": "Wilhelmine."
+   },
+   {
+    "n": 33,
+    "text": "Scherrer."
+   },
+   {
+    "n": 34,
+    "text": "1 Joh. Baptist, Kutscher, a. Strittmatt in Baden - III, 10."
+   },
+   {
+    "n": 35,
+    "text": "820 Fr. II Ehe. - Anna Mathys a. Koppigen."
+   },
+   {
+    "n": 36,
+    "text": "Scherz a. Aeschi."
+   },
+   {
+    "n": 37,
+    "text": "1 818 Jakob, Fürsprecher u. Notar - II, 137 u. 138."
+   },
+   {
+    "n": 38,
+    "text": "Fr. - Rosalie Zürcher."
+   },
+   {
+    "n": 39,
+    "text": "1 S. - 847 Ernst Alfred."
+   },
+   {
+    "n": 40,
+    "text": "2 Cölestine, geb. Juillerat, privat. - V, 78."
+   },
+   {
+    "n": 41,
+    "text": "Scheuch a. Luſtorf, K. Thurgau."
+   },
+   {
+    "n": 42,
+    "text": "1 786 Konrad, Schuhmacher, B. v. 2 - II, 91 u. 92."
+   },
+   {
+    "n": 43,
+    "text": "Fr. II Ehe. - Elis. Treyer, bern. Landsassin."
+   },
+   {
+    "n": 44,
+    "text": "3 K. - Aus I Ehe: 818 A. Barb. - Aus II Ehe: 832"
+   },
+   {
+    "n": 45,
+    "text": "Kath. Maria Louise. - 33 Joh. Konrad."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Scheidegger.",
+    "place": "Bern",
+    "surname": "Scheidegger",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Tabakfabrikant",
+    "address": "III, 90",
+    "quarter": "III",
+    "street": "",
+    "house_no": "90",
+    "origin": "Sumiswald",
+    "birth_year": "1796",
+    "household": "802 Fr. - A. Barb. Schär a. Dürrenroth.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Samuel, Tabakfabrikant, a. Sumiswald - III, 90. 802 Fr. - A. Barb. Schär a. Dürrenroth."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Scheidegger.",
+    "place": "Bern",
+    "surname": "Scheidegger",
+    "forename": "Anna Maria",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "V, 41",
+    "quarter": "V",
+    "street": "",
+    "house_no": "41",
+    "origin": "Huttwyl",
+    "birth_year": "1824",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 824 Anna Maria, Schneiderin, a. Huttwyl - V, 41."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Scheidegger.",
+    "place": "Bern",
+    "surname": "Scheidegger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Küher",
+    "address": "VII, 107",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "107",
+    "origin": "Lützelflüh",
+    "birth_year": "1815",
+    "household": "817 Fr. - Magd. Häberli a. Münchenbuchsee. 2 S. - 844 Jakob. - 46 Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 815 Jakob, Küher, a. Lützelflüh - VII, 107. 817 Fr. - Magd. Häberli a. Münchenbuchsee. 2 S. - 844 Jakob. - 46 Friedrich."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Schenk.",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "privat.",
+    "address": "V, 120",
+    "quarter": "V",
+    "street": "",
+    "house_no": "120",
+    "origin": "Eggiwyl",
+    "birth_year": "1770",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 770 Elisabetha, geb. Howald, privat., a. Eggiwyl - V, 120."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Schenk.",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Joh. Gabriel",
+    "title": "",
+    "occupation": "gew. Lohnkutscher",
+    "address": "IV, 102",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "102",
+    "origin": "Langnau",
+    "birth_year": "1785",
+    "household": "781 Fr. - Elis. Rauber a. Windisch, K. Aargau.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 785 Joh. Gabriel, gew. Lohnkutscher, a. Langnau - IV, 102. 781 Fr. - Elis. Rauber a. Windisch, K. Aargau."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Schenk.",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "Wagner",
+    "address": "II, 173",
+    "quarter": "II",
+    "street": "",
+    "house_no": "173",
+    "origin": "Unterlangenegg",
+    "birth_year": "1812",
+    "household": "806 Fr. - Marg. Wyß a. Habkern.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 812 Joh. Ulrich, Wagner, a. Unterlangenegg - II, 173. 806 Fr. - Marg. Wyß a. Habkern."
+   },
+   {
+    "line_from": 16,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Schenk.",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Karl Friedr. Alb.",
+    "title": "",
+    "occupation": "Graveur u. Goldarbeiter",
+    "address": "VI, 27",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "27",
+    "origin": "Signau",
+    "birth_year": "1811",
+    "household": "814 Fr. - Elis. Marti a. Mülchi.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 811 Karl Friedr. Alb., Graveur u. Goldarbeiter, a. Signau - VI, 27. 814 Fr. - Elis. Marti a. Mülchi."
+   },
+   {
+    "line_from": 19,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Schenk.",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Speisewirth",
+    "address": "IV, 135",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "135",
+    "origin": "Unterlangenegg",
+    "birth_year": "1814",
+    "household": "807 Fr. - A. B. Ohnmacht. 1 S. - 842 Joh. Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 814 Johann, Speisewirth, a. Unterlangenegg - IV, 135. 807 Fr. - A. B. Ohnmacht. 1 S. - 842 Joh. Rudolf."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Schenk.",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Friedr. Ulrich",
+    "title": "",
+    "occupation": "Mechaniker",
+    "address": "VI, 53",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "53",
+    "origin": "Signau",
+    "birth_year": "1812",
+    "household": "806 Fr. - Sus. Phil. Weber, geb. Hählen.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 812 Friedr. Ulrich, Mechaniker, a. Signau - VI, 53. 806 Fr. - Sus. Phil. Weber, geb. Hählen."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Schenk.",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Käshändler",
+    "address": "II, 106",
+    "quarter": "II",
+    "street": "",
+    "house_no": "106",
+    "origin": "Eggiwyl",
+    "birth_year": "1809",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "7 809 Peter, Käshändler, a. Eggiwyl - II, 106."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Schenk.",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Tabakfabrikant",
+    "address": "VI, 18",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "18",
+    "origin": "Signau",
+    "birth_year": "1821",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "8 821 Bendicht, Tabakfabrikant, a. Signau - VI, 18."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Schenker.",
+    "place": "Bern",
+    "surname": "Schenker",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Küfer",
+    "address": "IV, 85",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "85",
+    "origin": "Schönenwerth, K. Solothurn",
+    "birth_year": "1797",
+    "household": "1 S. - 826 Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 Ludwig, Küfer, a. Schönenwerth, K. Solothurn-IV, 85. 1 S. - 826 Gottlieb."
+   },
+   {
+    "line_from": 29,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Schenker.",
+    "place": "Bern",
+    "surname": "Schenker",
+    "forename": "Franz",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 305",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "305",
+    "origin": "Däniken, K. Solothurn",
+    "birth_year": "1815",
+    "household": "814 Fr. - Elis. Schorer a. Wangen. 3 K. - 837 Karl Franz. - 39 Elis. Karol. - 47 Emilie Wilhelmine.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 815 Franz, Schneider, a. Däniken, K. Solothurn - IV, 305. 814 Fr. - Elis. Schorer a. Wangen. 3 K. - 837 Karl Franz. - 39 Elis. Karol. - 47 Emilie Wilhelmine."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Scherrer.",
+    "place": "Bern",
+    "surname": "Scherrer",
+    "forename": "Joh. Baptist",
+    "title": "",
+    "occupation": "Kutscher",
+    "address": "III, 10",
+    "quarter": "III",
+    "street": "",
+    "house_no": "10",
+    "origin": "Strittmatt in Baden",
+    "birth_year": "",
+    "household": "820 Fr. II Ehe. - Anna Mathys a. Koppigen.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Joh. Baptist, Kutscher, a. Strittmatt in Baden - III, 10. 820 Fr. II Ehe. - Anna Mathys a. Koppigen."
+   },
+   {
+    "line_from": 37,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Scherz a. Aeschi.",
+    "place": "Bern",
+    "surname": "Scherz",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Fürsprecher u. Notar",
+    "address": "II, 137 u. 138",
+    "quarter": "II",
+    "street": "",
+    "house_no": "137 u. 138",
+    "origin": "Aeschi",
+    "birth_year": "1818",
+    "household": "Fr. - Rosalie Zürcher. 1 S. - 847 Ernst Alfred.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 818 Jakob, Fürsprecher u. Notar - II, 137 u. 138. Fr. - Rosalie Zürcher. 1 S. - 847 Ernst Alfred."
+   },
+   {
+    "line_from": 40,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Scherz a. Aeschi.",
+    "place": "Bern",
+    "surname": "Scherz",
+    "forename": "Cölestine",
+    "title": "",
+    "occupation": "privat.",
+    "address": "V, 78",
+    "quarter": "V",
+    "street": "",
+    "house_no": "78",
+    "origin": "Aeschi",
+    "birth_year": "",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "2 Cölestine, geb. Juillerat, privat. - V, 78."
+   },
+   {
+    "line_from": 42,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Scheuch a. Luſtorf, K. Thurgau.",
+    "place": "Bern",
+    "surname": "Scheuch",
+    "forename": "Konrad",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 91 u. 92",
+    "quarter": "II",
+    "street": "",
+    "house_no": "91 u. 92",
+    "origin": "Luſtorf, K. Thurgau",
+    "birth_year": "1786",
+    "household": "Fr. II Ehe. - Elis. Treyer, bern. Landsassin. 3 K. - Aus I Ehe: 818 A. Barb. - Aus II Ehe: 832 Kath. Maria Louise. - 33 Joh. Konrad.",
+    "note": "Name und Herkunft aus Zwischentitel; B. v. 2",
+    "text": "1 786 Konrad, Schuhmacher, B. v. 2 - II, 91 u. 92. Fr. II Ehe. - Elis. Treyer, bern. Landsassin. 3 K. - Aus I Ehe: 818 A. Barb. - Aus II Ehe: 832 Kath. Maria Louise. - 33 Joh. Konrad."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:56:17+01:00",
+ "last_error": null
+}

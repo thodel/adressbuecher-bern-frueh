@@ -1,0 +1,385 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 9,
+ "section": "berufe",
+ "started": "2026-11-10T21:13:40+01:00",
+ "thinking": "low",
+ "seconds": 20.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2187,
+  "output": 3033,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": null,\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Erste Abtheilung.\"},\n    {\"n\": 2, \"text\": \"Advokaten, Aerzte, Handlungen u. s. w.\"},\n    {\"n\": 3, \"text\": \"Advokaten vor dem obersten Appellations = Gericht.\"},\n    {\"n\": 4, \"text\": \"Nro.\"},\n    {\"n\": 5, \"text\": \"Bay, Ludwig, Dekan der Rechten, Postgasse … 37\"},\n    {\"n\": 6, \"text\": \"Fischer, Carl Emanuel, Gerechtigkeitgasse … 81\"},\n    {\"n\": 7, \"text\": \"Gerwer, Emanuel, Kramgasse … 167\"},\n    {\"n\": 8, \"text\": \"Gruber, Gottlieb Emanuel, Bureau im Kesichgäß-\"},\n    {\"n\": 9, \"text\": \"lein … 23\"},\n    {\"n\": 10, \"text\": \"Hermann, Bernhard, Doktor der Rechten, Kirch-\"},\n    {\"n\": 11, \"text\": \"platz … 275\"},\n    {\"n\": 12, \"text\": \"Jonquiere, Emanuel, Kornhausplatz … 49\"},\n    {\"n\": 13, \"text\": \"Koch, Carl, Gerechtigkeitgasse … 79\"},\n    {\"n\": 14, \"text\": \"Lüthardt, Friedrich, Doktor der Rechten, Juden-\"},\n    {\"n\": 15, \"text\": \"gasse … 112\"},\n    {\"n\": 16, \"text\": \"Meßmer, Beat Ludwig, Gerechtigkeitgasse … 78\"},\n    {\"n\": 17, \"text\": \"Schnell, Samuel Ludwig, Professor und Doktor\"},\n    {\"n\": 18, \"text\": \"der Rechte, Inselgasse … 135\"},\n    {\"n\": 19, \"text\": \"Wildbolz, Rudolf, Kramgasse … 195\"},\n    {\"n\": 20, \"text\": \"A. Aerzte.\"},\n    {\"n\": 21, \"text\": \"Benoit, Daniel Gottlieb, Keßlergasse … 262\"},\n    {\"n\": 22, \"text\": \"Brunner, Professor, Gerechtigkeitgasse … 130\"},\n    {\"n\": 23, \"text\": \"1\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bay\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Dekan der Rechten\",\n      \"address\": \"Postgasse 37\",\n      \"quarter\": \"\",\n      \"street\": \"Postgasse\",\n      \"house_no\": \"37\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bay, Ludwig, Dekan der Rechten, Postgasse 37\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fischer\",\n      \"forename\": \"Carl Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgasse 81\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgasse\",\n      \"house_no\": \"81\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fischer, Carl Emanuel, Gerechtigkeitgasse 81\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerwer\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgasse 167\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgasse\",\n      \"house_no\": \"167\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gerwer, Emanuel, Kramgasse 167\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gruber\",\n      \"forename\": \"Gottlieb Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Bureau im Kesichgäßlein 23\",\n      \"quarter\": \"\",\n      \"street\": \"Kesichgäßlein\",\n      \"house_no\": \"23\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gruber, Gottlieb Emanuel, Bureau im Kesichgäßlein 23\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hermann\",\n      \"forename\": \"Bernhard\",\n      \"title\": \"\",\n      \"occupation\": \"Doktor der Rechten\",\n      \"address\": \"Kirchplatz 275\",\n      \"quarter\": \"\",\n      \"street\": \"Kirchplatz\",\n      \"house_no\": \"275\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hermann, Bernhard, Doktor der Rechten, Kirchplatz 275\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jonquiere\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kornhausplatz 49\",\n      \"quarter\": \"\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"49\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jonquiere, Emanuel, Kornhausplatz 49\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Koch\",\n      \"forename\": \"Carl\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgasse 79\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgasse\",\n      \"house_no\": \"79\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Koch, Carl, Gerechtigkeitgasse 79\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lüthardt\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Doktor der Rechten\",\n      \"address\": \"Judengasse 112\",\n      \"quarter\": \"\",\n      \"street\": \"Judengasse\",\n      \"house_no\": \"112\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lüthardt, Friedrich, Doktor der Rechten, Judengasse 112\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Meßmer\",\n      \"forename\": \"Beat Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgasse 78\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgasse\",\n      \"house_no\": \"78\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Meßmer, Beat Ludwig, Gerechtigkeitgasse 78\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schnell\",\n      \"forename\": \"Samuel Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Professor und Doktor der Rechte\",\n      \"address\": \"Inselgasse 135\",\n      \"quarter\": \"\",\n      \"street\": \"Inselgasse\",\n      \"house_no\": \"135\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schnell, Samuel Ludwig, Professor und Doktor der Rechte, Inselgasse 135\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Advokaten vor dem obersten Appellations = Gericht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wildbolz\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgasse 195\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgasse\",\n      \"house_no\": \"195\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wildbolz, Rudolf, Kramgasse 195\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"A. Aerzte.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Benoit\",\n      \"forename\": \"Daniel Gottlieb\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Keßlergasse 262\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergasse\",\n      \"house_no\": \"262\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Benoit, Daniel Gottlieb, Keßlergasse 262\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"A. Aerzte.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunner\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Professor\",\n      \"address\": \"Gerechtigkeitgasse 130\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgasse\",\n      \"house_no\": \"130\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brunner, Professor, Gerechtigkeitgasse 130\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": null,
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "Erste Abtheilung."
+   },
+   {
+    "n": 2,
+    "text": "Advokaten, Aerzte, Handlungen u. s. w."
+   },
+   {
+    "n": 3,
+    "text": "Advokaten vor dem obersten Appellations = Gericht."
+   },
+   {
+    "n": 4,
+    "text": "Nro."
+   },
+   {
+    "n": 5,
+    "text": "Bay, Ludwig, Dekan der Rechten, Postgasse … 37"
+   },
+   {
+    "n": 6,
+    "text": "Fischer, Carl Emanuel, Gerechtigkeitgasse … 81"
+   },
+   {
+    "n": 7,
+    "text": "Gerwer, Emanuel, Kramgasse … 167"
+   },
+   {
+    "n": 8,
+    "text": "Gruber, Gottlieb Emanuel, Bureau im Kesichgäß-"
+   },
+   {
+    "n": 9,
+    "text": "lein … 23"
+   },
+   {
+    "n": 10,
+    "text": "Hermann, Bernhard, Doktor der Rechten, Kirch-"
+   },
+   {
+    "n": 11,
+    "text": "platz … 275"
+   },
+   {
+    "n": 12,
+    "text": "Jonquiere, Emanuel, Kornhausplatz … 49"
+   },
+   {
+    "n": 13,
+    "text": "Koch, Carl, Gerechtigkeitgasse … 79"
+   },
+   {
+    "n": 14,
+    "text": "Lüthardt, Friedrich, Doktor der Rechten, Juden-"
+   },
+   {
+    "n": 15,
+    "text": "gasse … 112"
+   },
+   {
+    "n": 16,
+    "text": "Meßmer, Beat Ludwig, Gerechtigkeitgasse … 78"
+   },
+   {
+    "n": 17,
+    "text": "Schnell, Samuel Ludwig, Professor und Doktor"
+   },
+   {
+    "n": 18,
+    "text": "der Rechte, Inselgasse … 135"
+   },
+   {
+    "n": 19,
+    "text": "Wildbolz, Rudolf, Kramgasse … 195"
+   },
+   {
+    "n": 20,
+    "text": "A. Aerzte."
+   },
+   {
+    "n": 21,
+    "text": "Benoit, Daniel Gottlieb, Keßlergasse … 262"
+   },
+   {
+    "n": 22,
+    "text": "Brunner, Professor, Gerechtigkeitgasse … 130"
+   },
+   {
+    "n": 23,
+    "text": "1"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Bay",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Dekan der Rechten",
+    "address": "Postgasse 37",
+    "quarter": "",
+    "street": "Postgasse",
+    "house_no": "37",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bay, Ludwig, Dekan der Rechten, Postgasse 37"
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Fischer",
+    "forename": "Carl Emanuel",
+    "title": "",
+    "occupation": "",
+    "address": "Gerechtigkeitgasse 81",
+    "quarter": "",
+    "street": "Gerechtigkeitgasse",
+    "house_no": "81",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fischer, Carl Emanuel, Gerechtigkeitgasse 81"
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Gerwer",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgasse 167",
+    "quarter": "",
+    "street": "Kramgasse",
+    "house_no": "167",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gerwer, Emanuel, Kramgasse 167"
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Gruber",
+    "forename": "Gottlieb Emanuel",
+    "title": "",
+    "occupation": "",
+    "address": "Bureau im Kesichgäßlein 23",
+    "quarter": "",
+    "street": "Kesichgäßlein",
+    "house_no": "23",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gruber, Gottlieb Emanuel, Bureau im Kesichgäßlein 23"
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Hermann",
+    "forename": "Bernhard",
+    "title": "",
+    "occupation": "Doktor der Rechten",
+    "address": "Kirchplatz 275",
+    "quarter": "",
+    "street": "Kirchplatz",
+    "house_no": "275",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hermann, Bernhard, Doktor der Rechten, Kirchplatz 275"
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Jonquiere",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "",
+    "address": "Kornhausplatz 49",
+    "quarter": "",
+    "street": "Kornhausplatz",
+    "house_no": "49",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jonquiere, Emanuel, Kornhausplatz 49"
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Koch",
+    "forename": "Carl",
+    "title": "",
+    "occupation": "",
+    "address": "Gerechtigkeitgasse 79",
+    "quarter": "",
+    "street": "Gerechtigkeitgasse",
+    "house_no": "79",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Koch, Carl, Gerechtigkeitgasse 79"
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Lüthardt",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Doktor der Rechten",
+    "address": "Judengasse 112",
+    "quarter": "",
+    "street": "Judengasse",
+    "house_no": "112",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lüthardt, Friedrich, Doktor der Rechten, Judengasse 112"
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Meßmer",
+    "forename": "Beat Ludwig",
+    "title": "",
+    "occupation": "",
+    "address": "Gerechtigkeitgasse 78",
+    "quarter": "",
+    "street": "Gerechtigkeitgasse",
+    "house_no": "78",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Meßmer, Beat Ludwig, Gerechtigkeitgasse 78"
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Schnell",
+    "forename": "Samuel Ludwig",
+    "title": "",
+    "occupation": "Professor und Doktor der Rechte",
+    "address": "Inselgasse 135",
+    "quarter": "",
+    "street": "Inselgasse",
+    "house_no": "135",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schnell, Samuel Ludwig, Professor und Doktor der Rechte, Inselgasse 135"
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Advokaten vor dem obersten Appellations = Gericht.",
+    "place": "Bern",
+    "surname": "Wildbolz",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgasse 195",
+    "quarter": "",
+    "street": "Kramgasse",
+    "house_no": "195",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wildbolz, Rudolf, Kramgasse 195"
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "A. Aerzte.",
+    "place": "Bern",
+    "surname": "Benoit",
+    "forename": "Daniel Gottlieb",
+    "title": "",
+    "occupation": "",
+    "address": "Keßlergasse 262",
+    "quarter": "",
+    "street": "Keßlergasse",
+    "house_no": "262",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Benoit, Daniel Gottlieb, Keßlergasse 262"
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "A. Aerzte.",
+    "place": "Bern",
+    "surname": "Brunner",
+    "forename": "",
+    "title": "",
+    "occupation": "Professor",
+    "address": "Gerechtigkeitgasse 130",
+    "quarter": "",
+    "street": "Gerechtigkeitgasse",
+    "house_no": "130",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brunner, Professor, Gerechtigkeitgasse 130"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:14:00+01:00",
+ "last_error": null
+}

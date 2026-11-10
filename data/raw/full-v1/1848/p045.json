@@ -1,0 +1,457 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 45,
+ "section": "einsassen",
+ "started": "2026-11-10T21:49:51+01:00",
+ "thinking": "low",
+ "seconds": 28.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4624,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"32\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"— 32 —\" },\n    { \"n\": 2, \"text\": \"Nr. Geb.\" },\n    { \"n\": 3, \"text\": \"Dambach.\" },\n    { \"n\": 4, \"text\": \"1 809 Samuel, Schreiner, a. Dentschbüren - III, 31.\" },\n    { \"n\": 5, \"text\": \"Fr. II Ehe. — Anna Maria Teuscher a. Limpach.\" },\n    { \"n\": 6, \"text\": \"1 S. aus I Ehe: 834 Samuel. — Aus II Ehe: 47 Anna\" },\n    { \"n\": 7, \"text\": \"Maria.\" },\n    { \"n\": 8, \"text\": \"2 800 Niklaus, Schreiber, a. Urfenbach - I, 87.\" },\n    { \"n\": 9, \"text\": \"Fr. - Maria Frei a. Gontenschwyl, K. Aargau.\" },\n    { \"n\": 10, \"text\": \"7 K. — 832 Joh. Samuel. — 33 Rosina. — 34 Maria\" },\n    { \"n\": 11, \"text\": \"Elisabetha. — 36 Maria Anna. — 37 Jakob Nikl. —\" },\n    { \"n\": 12, \"text\": \"39 Margaritha. — 46 Joh. Friedrich.\" },\n    { \"n\": 13, \"text\": \"Darnehl.\" },\n    { \"n\": 14, \"text\": \"1 803 Johann Christ., Schlosser, a. Oesterfingen, K. Schaff-\" },\n    { \"n\": 15, \"text\": \"hausen - II, 74.\" },\n    { \"n\": 16, \"text\": \"810 Fr. - Maria Rüfenacht a. Walkringen.\" },\n    { \"n\": 17, \"text\": \"2 T. — 838 Maria Elis. — 47 Louise Kath. Rosina.\" },\n    { \"n\": 18, \"text\": \"Dasen.\" },\n    { \"n\": 19, \"text\": \"1 809 Johann Rudolf, Metzer u. Speisewirth, a. Gerlafin-\" },\n    { \"n\": 20, \"text\": \"gen - III, 22.\" },\n    { \"n\": 21, \"text\": \"813 Fr. III Ehe. - Christina Niem a. Kirchdorf.\" },\n    { \"n\": 22, \"text\": \"3 K. II Ehe. — 837 Anna Rosina. — 39 Wilh. Heinr.\" },\n    { \"n\": 23, \"text\": \"— 42 Sophie Elisabetha.\" },\n    { \"n\": 24, \"text\": \"2 770 Barbara, geb. Bürki, Schweinmetzgerin, a. Gerla-\" },\n    { \"n\": 25, \"text\": \"singen - VI, 14.\" },\n    { \"n\": 26, \"text\": \"3 819 Sam. Friedrich, Schreiber, a. Täuffelen - III, 142.\" },\n    { \"n\": 27, \"text\": \"820 Fr. - Elisabetha Wenger a. Thurnen, Krämerin.\" },\n    { \"n\": 28, \"text\": \"2 K. - 844 Elisabetha Rosina. - 45 Joh. Friedrich.\" },\n    { \"n\": 29, \"text\": \"4 798 Samuel, Metzger u. Fleischverkäufer, a. Gerlafingen -\" },\n    { \"n\": 30, \"text\": \"II, 5 d.\" },\n    { \"n\": 31, \"text\": \"David a. Rueyres, K. Waadt.\" },\n    { \"n\": 32, \"text\": \"1 779 Pierre François, Lohnbedienter - V, 29.\" },\n    { \"n\": 33, \"text\": \"1 S. — 811 Franz Ferdinand.\" },\n    { \"n\": 34, \"text\": \"2 807 Charles François, Caffeewirth - IV, 167.\" },\n    { \"n\": 35, \"text\": \"813 Fr. - Anna Bassaux a. Cudrefin.\" },\n    { \"n\": 36, \"text\": \"2 K. — 839 F. Franz. — 41 Marie Uranie.\" },\n    { \"n\": 37, \"text\": \"3 811 François, Caffeewirth - V, 101.\" },\n    { \"n\": 38, \"text\": \"(Frau u. ein Kind nicht eingeschrieben.)\" },\n    { \"n\": 39, \"text\": \"Davoine.\" },\n    { \"n\": 40, \"text\": \"1 807 Joh. Jakob, Spezierer, a. Maurins, K. Neuenburg -\" },\n    { \"n\": 41, \"text\": \"II, 127.\" },\n    { \"n\": 42, \"text\": \"Fr. - Marie Anne Delaprez.\" },\n    { \"n\": 43, \"text\": \"Delley.\" },\n    { \"n\": 44, \"text\": \"1 790 Ludwig, Casinowirth, a. Delley - III, 131 b.\" },\n    { \"n\": 45, \"text\": \"793 Fr. - Christ. Sus. Müller a. Trub.\" },\n    { \"n\": 46, \"text\": \"2 K. — 829 Ludovika Christ. — 30 Ludwig August.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Dambach\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dambach\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"III, 31\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"31\",\n      \"origin\": \"Dentschbüren\",\n      \"birth_year\": \"1809\",\n      \"household\": \"Fr. II Ehe. — Anna Maria Teuscher a. Limpach. 1 S. aus I Ehe: 834 Samuel. — Aus II Ehe: 47 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Samuel, Schreiner, a. Dentschbüren - III, 31. Fr. II Ehe. — Anna Maria Teuscher a. Limpach. 1 S. aus I Ehe: 834 Samuel. — Aus II Ehe: 47 Anna Maria.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Dambach\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dambach\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"I, 87\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"87\",\n      \"origin\": \"Urfenbach\",\n      \"birth_year\": \"1800\",\n      \"household\": \"Fr. - Maria Frei a. Gontenschwyl, K. Aargau. 7 K. — 832 Joh. Samuel. — 33 Rosina. — 34 Maria Elisabetha. — 36 Maria Anna. — 37 Jakob Nikl. — 39 Margaritha. — 46 Joh. Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 800 Niklaus, Schreiber, a. Urfenbach - I, 87. Fr. - Maria Frei a. Gontenschwyl, K. Aargau. 7 K. — 832 Joh. Samuel. — 33 Rosina. — 34 Maria Elisabetha. — 36 Maria Anna. — 37 Jakob Nikl. — 39 Margaritha. — 46 Joh. Friedrich.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Darnehl\",\n      \"place\": \"Bern\",\n      \"surname\": \"Darnehl\",\n      \"forename\": \"Johann Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"II, 74\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"74\",\n      \"origin\": \"Oesterfingen, K. Schaffhausen\",\n      \"birth_year\": \"1803\",\n      \"household\": \"810 Fr. - Maria Rüfenacht a. Walkringen. 2 T. — 838 Maria Elis. — 47 Louise Kath. Rosina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 Johann Christ., Schlosser, a. Oesterfingen, K. Schaffhausen - II, 74. 810 Fr. - Maria Rüfenacht a. Walkringen. 2 T. — 838 Maria Elis. — 47 Louise Kath. Rosina.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Dasen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dasen\",\n      \"forename\": \"Johann Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Metzger u. Speisewirth\",\n      \"address\": \"III, 22\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"22\",\n      \"origin\": \"Gerlafingen\",\n      \"birth_year\": \"1809\",\n      \"household\": \"813 Fr. III Ehe. - Christina Niem a. Kirchdorf. 3 K. II Ehe. — 837 Anna Rosina. — 39 Wilh. Heinr. — 42 Sophie Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Johann Rudolf, Metzger u. Speisewirth, a. Gerlafingen - III, 22. 813 Fr. III Ehe. - Christina Niem a. Kirchdorf. 3 K. II Ehe. — 837 Anna Rosina. — 39 Wilh. Heinr. — 42 Sophie Elisabetha.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Dasen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dasen\",\n      \"forename\": \"Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzgerin\",\n      \"address\": \"VI, 14\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"14\",\n      \"origin\": \"Gerlafingen\",\n      \"birth_year\": \"1770\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Bürki\",\n      \"text\": \"2 770 Barbara, geb. Bürki, Schweinmetzgerin, a. Gerlafingen - VI, 14.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Dasen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dasen\",\n      \"forename\": \"Sam. Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"III, 142\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"142\",\n      \"origin\": \"Täuffelen\",\n      \"birth_year\": \"1819\",\n      \"household\": \"820 Fr. - Elisabetha Wenger a. Thurnen, Krämerin. 2 K. - 844 Elisabetha Rosina. - 45 Joh. Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 819 Sam. Friedrich, Schreiber, a. Täuffelen - III, 142. 820 Fr. - Elisabetha Wenger a. Thurnen, Krämerin. 2 K. - 844 Elisabetha Rosina. - 45 Joh. Friedrich.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Dasen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dasen\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Metzger u. Fleischverkäufer\",\n      \"address\": \"II, 5 d\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"5 d\",\n      \"origin\": \"Gerlafingen\",\n      \"birth_year\": \"1798\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 798 Samuel, Metzger u. Fleischverkäufer, a. Gerlafingen - II, 5 d.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"David a. Rueyres, K. Waadt\",\n      \"place\": \"Bern\",\n      \"surname\": \"David\",\n      \"forename\": \"Pierre François\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnbedienter\",\n      \"address\": \"V, 29\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"29\",\n      \"origin\": \"Rueyres, K. Waadt\",\n      \"birth_year\": \"1779\",\n      \"household\": \"1 S. — 811 Franz Ferdinand.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 779 Pierre François, Lohnbedienter - V, 29. 1 S. — 811 Franz Ferdinand.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"David a. Rueyres, K. Waadt\",\n      \"place\": \"Bern\",\n      \"surname\": \"David\",\n      \"forename\": \"Charles François\",\n      \"title\": \"\",\n      \"occupation\": \"Caffeewirth\",\n      \"address\": \"IV, 167\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"167\",\n      \"origin\": \"Rueyres, K. Waadt\",\n      \"birth_year\": \"1807\",\n      \"household\": \"813 Fr. - Anna Bassaux a. Cudrefin. 2 K. — 839 F. Franz. — 41 Marie Uranie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 807 Charles François, Caffeewirth - IV, 167. 813 Fr. - Anna Bassaux a. Cudrefin. 2 K. — 839 F. Franz. — 41 Marie Uranie.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"David a. Rueyres, K. Waadt\",\n      \"place\": \"Bern\",\n      \"surname\": \"David\",\n      \"forename\": \"François\",\n      \"title\": \"\",\n      \"occupation\": \"Caffeewirth\",\n      \"address\": \"V, 101\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"101\",\n      \"origin\": \"Rueyres, K. Waadt\",\n      \"birth_year\": \"1811\",\n      \"household\": \"(Frau u. ein Kind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 811 François, Caffeewirth - V, 101. (Frau u. ein Kind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Davoine\",\n      \"place\": \"Bern\",\n      \"surname\": \"Davoine\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Spezierer\",\n      \"address\": \"II, 127\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"127\",\n      \"origin\": \"Maurins, K. Neuenburg\",\n      \"birth_year\": \"1807\",\n      \"household\": \"Fr. - Marie Anne Delaprez.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Joh. Jakob, Spezierer, a. Maurins, K. Neuenburg - II, 127. Fr. - Marie Anne Delaprez.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"Delley\",\n      \"place\": \"Bern\",\n      \"surname\": \"Delley\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Casinowirth\",\n      \"address\": \"III, 131 b\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"131 b\",\n      \"origin\": \"Delley\",\n      \"birth_year\": \"1790\",\n      \"household\": \"793 Fr. - Christ. Sus. Müller a. Trub. 2 K. — 829 Ludovika Christ. — 30 Ludwig August.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Ludwig, Casinowirth, a. Delley - III, 131 b. 793 Fr. - Christ. Sus. Müller a. Trub. 2 K. — 829 Ludovika Christ. — 30 Ludwig August.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "32",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 32 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Dambach."
+   },
+   {
+    "n": 4,
+    "text": "1 809 Samuel, Schreiner, a. Dentschbüren - III, 31."
+   },
+   {
+    "n": 5,
+    "text": "Fr. II Ehe. — Anna Maria Teuscher a. Limpach."
+   },
+   {
+    "n": 6,
+    "text": "1 S. aus I Ehe: 834 Samuel. — Aus II Ehe: 47 Anna"
+   },
+   {
+    "n": 7,
+    "text": "Maria."
+   },
+   {
+    "n": 8,
+    "text": "2 800 Niklaus, Schreiber, a. Urfenbach - I, 87."
+   },
+   {
+    "n": 9,
+    "text": "Fr. - Maria Frei a. Gontenschwyl, K. Aargau."
+   },
+   {
+    "n": 10,
+    "text": "7 K. — 832 Joh. Samuel. — 33 Rosina. — 34 Maria"
+   },
+   {
+    "n": 11,
+    "text": "Elisabetha. — 36 Maria Anna. — 37 Jakob Nikl. —"
+   },
+   {
+    "n": 12,
+    "text": "39 Margaritha. — 46 Joh. Friedrich."
+   },
+   {
+    "n": 13,
+    "text": "Darnehl."
+   },
+   {
+    "n": 14,
+    "text": "1 803 Johann Christ., Schlosser, a. Oesterfingen, K. Schaff-"
+   },
+   {
+    "n": 15,
+    "text": "hausen - II, 74."
+   },
+   {
+    "n": 16,
+    "text": "810 Fr. - Maria Rüfenacht a. Walkringen."
+   },
+   {
+    "n": 17,
+    "text": "2 T. — 838 Maria Elis. — 47 Louise Kath. Rosina."
+   },
+   {
+    "n": 18,
+    "text": "Dasen."
+   },
+   {
+    "n": 19,
+    "text": "1 809 Johann Rudolf, Metzer u. Speisewirth, a. Gerlafin-"
+   },
+   {
+    "n": 20,
+    "text": "gen - III, 22."
+   },
+   {
+    "n": 21,
+    "text": "813 Fr. III Ehe. - Christina Niem a. Kirchdorf."
+   },
+   {
+    "n": 22,
+    "text": "3 K. II Ehe. — 837 Anna Rosina. — 39 Wilh. Heinr."
+   },
+   {
+    "n": 23,
+    "text": "— 42 Sophie Elisabetha."
+   },
+   {
+    "n": 24,
+    "text": "2 770 Barbara, geb. Bürki, Schweinmetzgerin, a. Gerla-"
+   },
+   {
+    "n": 25,
+    "text": "singen - VI, 14."
+   },
+   {
+    "n": 26,
+    "text": "3 819 Sam. Friedrich, Schreiber, a. Täuffelen - III, 142."
+   },
+   {
+    "n": 27,
+    "text": "820 Fr. - Elisabetha Wenger a. Thurnen, Krämerin."
+   },
+   {
+    "n": 28,
+    "text": "2 K. - 844 Elisabetha Rosina. - 45 Joh. Friedrich."
+   },
+   {
+    "n": 29,
+    "text": "4 798 Samuel, Metzger u. Fleischverkäufer, a. Gerlafingen -"
+   },
+   {
+    "n": 30,
+    "text": "II, 5 d."
+   },
+   {
+    "n": 31,
+    "text": "David a. Rueyres, K. Waadt."
+   },
+   {
+    "n": 32,
+    "text": "1 779 Pierre François, Lohnbedienter - V, 29."
+   },
+   {
+    "n": 33,
+    "text": "1 S. — 811 Franz Ferdinand."
+   },
+   {
+    "n": 34,
+    "text": "2 807 Charles François, Caffeewirth - IV, 167."
+   },
+   {
+    "n": 35,
+    "text": "813 Fr. - Anna Bassaux a. Cudrefin."
+   },
+   {
+    "n": 36,
+    "text": "2 K. — 839 F. Franz. — 41 Marie Uranie."
+   },
+   {
+    "n": 37,
+    "text": "3 811 François, Caffeewirth - V, 101."
+   },
+   {
+    "n": 38,
+    "text": "(Frau u. ein Kind nicht eingeschrieben.)"
+   },
+   {
+    "n": 39,
+    "text": "Davoine."
+   },
+   {
+    "n": 40,
+    "text": "1 807 Joh. Jakob, Spezierer, a. Maurins, K. Neuenburg -"
+   },
+   {
+    "n": 41,
+    "text": "II, 127."
+   },
+   {
+    "n": 42,
+    "text": "Fr. - Marie Anne Delaprez."
+   },
+   {
+    "n": 43,
+    "text": "Delley."
+   },
+   {
+    "n": 44,
+    "text": "1 790 Ludwig, Casinowirth, a. Delley - III, 131 b."
+   },
+   {
+    "n": 45,
+    "text": "793 Fr. - Christ. Sus. Müller a. Trub."
+   },
+   {
+    "n": 46,
+    "text": "2 K. — 829 Ludovika Christ. — 30 Ludwig August."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Dambach",
+    "place": "Bern",
+    "surname": "Dambach",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "III, 31",
+    "quarter": "III",
+    "street": "",
+    "house_no": "31",
+    "origin": "Dentschbüren",
+    "birth_year": "1809",
+    "household": "Fr. II Ehe. — Anna Maria Teuscher a. Limpach. 1 S. aus I Ehe: 834 Samuel. — Aus II Ehe: 47 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Samuel, Schreiner, a. Dentschbüren - III, 31. Fr. II Ehe. — Anna Maria Teuscher a. Limpach. 1 S. aus I Ehe: 834 Samuel. — Aus II Ehe: 47 Anna Maria."
+   },
+   {
+    "line_from": 8,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Dambach",
+    "place": "Bern",
+    "surname": "Dambach",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "I, 87",
+    "quarter": "I",
+    "street": "",
+    "house_no": "87",
+    "origin": "Urfenbach",
+    "birth_year": "1800",
+    "household": "Fr. - Maria Frei a. Gontenschwyl, K. Aargau. 7 K. — 832 Joh. Samuel. — 33 Rosina. — 34 Maria Elisabetha. — 36 Maria Anna. — 37 Jakob Nikl. — 39 Margaritha. — 46 Joh. Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 800 Niklaus, Schreiber, a. Urfenbach - I, 87. Fr. - Maria Frei a. Gontenschwyl, K. Aargau. 7 K. — 832 Joh. Samuel. — 33 Rosina. — 34 Maria Elisabetha. — 36 Maria Anna. — 37 Jakob Nikl. — 39 Margaritha. — 46 Joh. Friedrich."
+   },
+   {
+    "line_from": 14,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Darnehl",
+    "place": "Bern",
+    "surname": "Darnehl",
+    "forename": "Johann Christ.",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "II, 74",
+    "quarter": "II",
+    "street": "",
+    "house_no": "74",
+    "origin": "Oesterfingen, K. Schaffhausen",
+    "birth_year": "1803",
+    "household": "810 Fr. - Maria Rüfenacht a. Walkringen. 2 T. — 838 Maria Elis. — 47 Louise Kath. Rosina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 Johann Christ., Schlosser, a. Oesterfingen, K. Schaffhausen - II, 74. 810 Fr. - Maria Rüfenacht a. Walkringen. 2 T. — 838 Maria Elis. — 47 Louise Kath. Rosina."
+   },
+   {
+    "line_from": 19,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Dasen",
+    "place": "Bern",
+    "surname": "Dasen",
+    "forename": "Johann Rudolf",
+    "title": "",
+    "occupation": "Metzger u. Speisewirth",
+    "address": "III, 22",
+    "quarter": "III",
+    "street": "",
+    "house_no": "22",
+    "origin": "Gerlafingen",
+    "birth_year": "1809",
+    "household": "813 Fr. III Ehe. - Christina Niem a. Kirchdorf. 3 K. II Ehe. — 837 Anna Rosina. — 39 Wilh. Heinr. — 42 Sophie Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Johann Rudolf, Metzger u. Speisewirth, a. Gerlafingen - III, 22. 813 Fr. III Ehe. - Christina Niem a. Kirchdorf. 3 K. II Ehe. — 837 Anna Rosina. — 39 Wilh. Heinr. — 42 Sophie Elisabetha."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Dasen",
+    "place": "Bern",
+    "surname": "Dasen",
+    "forename": "Barbara",
+    "title": "",
+    "occupation": "Schweinmetzgerin",
+    "address": "VI, 14",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "14",
+    "origin": "Gerlafingen",
+    "birth_year": "1770",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Bürki",
+    "text": "2 770 Barbara, geb. Bürki, Schweinmetzgerin, a. Gerlafingen - VI, 14."
+   },
+   {
+    "line_from": 26,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Dasen",
+    "place": "Bern",
+    "surname": "Dasen",
+    "forename": "Sam. Friedrich",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "III, 142",
+    "quarter": "III",
+    "street": "",
+    "house_no": "142",
+    "origin": "Täuffelen",
+    "birth_year": "1819",
+    "household": "820 Fr. - Elisabetha Wenger a. Thurnen, Krämerin. 2 K. - 844 Elisabetha Rosina. - 45 Joh. Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 819 Sam. Friedrich, Schreiber, a. Täuffelen - III, 142. 820 Fr. - Elisabetha Wenger a. Thurnen, Krämerin. 2 K. - 844 Elisabetha Rosina. - 45 Joh. Friedrich."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Dasen",
+    "place": "Bern",
+    "surname": "Dasen",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Metzger u. Fleischverkäufer",
+    "address": "II, 5 d",
+    "quarter": "II",
+    "street": "",
+    "house_no": "5 d",
+    "origin": "Gerlafingen",
+    "birth_year": "1798",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "4 798 Samuel, Metzger u. Fleischverkäufer, a. Gerlafingen - II, 5 d."
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "David a. Rueyres, K. Waadt",
+    "place": "Bern",
+    "surname": "David",
+    "forename": "Pierre François",
+    "title": "",
+    "occupation": "Lohnbedienter",
+    "address": "V, 29",
+    "quarter": "V",
+    "street": "",
+    "house_no": "29",
+    "origin": "Rueyres, K. Waadt",
+    "birth_year": "1779",
+    "household": "1 S. — 811 Franz Ferdinand.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 779 Pierre François, Lohnbedienter - V, 29. 1 S. — 811 Franz Ferdinand."
+   },
+   {
+    "line_from": 34,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "David a. Rueyres, K. Waadt",
+    "place": "Bern",
+    "surname": "David",
+    "forename": "Charles François",
+    "title": "",
+    "occupation": "Caffeewirth",
+    "address": "IV, 167",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "167",
+    "origin": "Rueyres, K. Waadt",
+    "birth_year": "1807",
+    "household": "813 Fr. - Anna Bassaux a. Cudrefin. 2 K. — 839 F. Franz. — 41 Marie Uranie.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 807 Charles François, Caffeewirth - IV, 167. 813 Fr. - Anna Bassaux a. Cudrefin. 2 K. — 839 F. Franz. — 41 Marie Uranie."
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "David a. Rueyres, K. Waadt",
+    "place": "Bern",
+    "surname": "David",
+    "forename": "François",
+    "title": "",
+    "occupation": "Caffeewirth",
+    "address": "V, 101",
+    "quarter": "V",
+    "street": "",
+    "house_no": "101",
+    "origin": "Rueyres, K. Waadt",
+    "birth_year": "1811",
+    "household": "(Frau u. ein Kind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "3 811 François, Caffeewirth - V, 101. (Frau u. ein Kind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 40,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Davoine",
+    "place": "Bern",
+    "surname": "Davoine",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Spezierer",
+    "address": "II, 127",
+    "quarter": "II",
+    "street": "",
+    "house_no": "127",
+    "origin": "Maurins, K. Neuenburg",
+    "birth_year": "1807",
+    "household": "Fr. - Marie Anne Delaprez.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Joh. Jakob, Spezierer, a. Maurins, K. Neuenburg - II, 127. Fr. - Marie Anne Delaprez."
+   },
+   {
+    "line_from": 44,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "Delley",
+    "place": "Bern",
+    "surname": "Delley",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Casinowirth",
+    "address": "III, 131 b",
+    "quarter": "III",
+    "street": "",
+    "house_no": "131 b",
+    "origin": "Delley",
+    "birth_year": "1790",
+    "household": "793 Fr. - Christ. Sus. Müller a. Trub. 2 K. — 829 Ludovika Christ. — 30 Ludwig August.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Ludwig, Casinowirth, a. Delley - III, 131 b. 793 Fr. - Christ. Sus. Müller a. Trub. 2 K. — 829 Ludovika Christ. — 30 Ludwig August."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:50:19+01:00",
+ "last_error": null
+}

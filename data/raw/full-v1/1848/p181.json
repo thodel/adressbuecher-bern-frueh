@@ -1,0 +1,465 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 181,
+ "section": "einsassen",
+ "started": "2026-11-10T21:57:27+01:00",
+ "thinking": "low",
+ "seconds": 27.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4746,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"168\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 168 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Walder.\"},\n    {\"n\": 4, \"text\": \"1 796 Hans Konrad, Schreiner, a. Glattfelden, K. Zürich - I, 141.\"},\n    {\"n\": 5, \"text\": \"799 Fr. - Magd. Zysset a. Heiligenschwendi.\"},\n    {\"n\": 6, \"text\": \"1 S. — 830 Rudolf.\"},\n    {\"n\": 7, \"text\": \"2 811 Samuel Friedr., Schuhmacher, a. Glattfelden - II, 33.\"},\n    {\"n\": 8, \"text\": \"6 K. - 836 Josephine Elis. - 37 Elis. Friedr. Louise.\"},\n    {\"n\": 9, \"text\": \"- 38 Joh. Karl Friedr. - 41 Aug. Konrad Samuel.\"},\n    {\"n\": 10, \"text\": \"- 45 Maria Sophia. - 46 Sophia Maria.\"},\n    {\"n\": 11, \"text\": \"Walker.\"},\n    {\"n\": 12, \"text\": \"1 814 Joh. Georg, Küfer u. Bierbrauer, a. Schaitdorf in\"},\n    {\"n\": 13, \"text\": \"Würtemberg - VI, 92.\"},\n    {\"n\": 14, \"text\": \"819 Fr. - Anna Lendi a. Tamins.\"},\n    {\"n\": 15, \"text\": \"Walther.\"},\n    {\"n\": 16, \"text\": \"1 807 Johann, Schreiber, a. Zauggenried - VII, 172.\"},\n    {\"n\": 17, \"text\": \"803 Fr. - Anna Barbara Nitter a. Trachselwald.\"},\n    {\"n\": 18, \"text\": \"2 790 Christen, gewes. Schuhmacher, a. Wohlen - I, 232.\"},\n    {\"n\": 19, \"text\": \"784 Fr. - Maria Kneubühler, gew. Huber, a. Frauenkappelen.\"},\n    {\"n\": 20, \"text\": \"3 818 Albrecht, Schneider, a. Wohlen - II, 234.\"},\n    {\"n\": 21, \"text\": \"816 Fr. - Rosina Schüri a. Neiben.\"},\n    {\"n\": 22, \"text\": \"3 K. - 840 Ed. - 43 Elis. Marg. - 46 Alb. Ludwig.\"},\n    {\"n\": 23, \"text\": \"4 795 Elis., geb. Maurer, Lohnwascherin, a. Wohlen - IV, 13.\"},\n    {\"n\": 24, \"text\": \"11 K. - 816 Elis. - 18 Karl Alb. - 20 Marg. Ros. - 22\"},\n    {\"n\": 25, \"text\": \"Magd. - 24 Maria Elis. - 26 Joh. Christ. - 28 Friedr.\"},\n    {\"n\": 26, \"text\": \"Heinrich. - 32 Charl. Elis. - 36 Kath. Anna.\"},\n    {\"n\": 27, \"text\": \"Wanner a. Ezelkofen.\"},\n    {\"n\": 28, \"text\": \"1 805 Johann, Sattler - I, 173.\"},\n    {\"n\": 29, \"text\": \"813 Fr. - Kath. Magd. Bürki.\"},\n    {\"n\": 30, \"text\": \"4 K. - 838 Kath. Magd. - 40 Anna Maria. - 42\"},\n    {\"n\": 31, \"text\": \"Anna. - 46 Joh. Niklaus.\"},\n    {\"n\": 32, \"text\": \"2 818 Niklaus, Sattler - II, 122 a.\"},\n    {\"n\": 33, \"text\": \"Wanzenried.\"},\n    {\"n\": 34, \"text\": \"1 788 Johann, Schweinmäster, a. Münsigen - II, 18.\"},\n    {\"n\": 35, \"text\": \"Fr. - Kath. Faller a. Hüfingen, GH. Baden.\"},\n    {\"n\": 36, \"text\": \"Waser.\"},\n    {\"n\": 37, \"text\": \"1 789 Cleopha, geb. Ziegler, privat., a. Zürich - IV, 275.\"},\n    {\"n\": 38, \"text\": \"Weber.\"},\n    {\"n\": 39, \"text\": \"1 774 Irenäus W. M., Krämer, a. Geuensee - III, 9.\"},\n    {\"n\": 40, \"text\": \"2 794 Jakob, Pastetenbäcker, a. Nettstall, K. Glarus - IV, 261.\"},\n    {\"n\": 41, \"text\": \"Fr. II Ehe. - Kath. Oppliger a. Röthenbach.\"},\n    {\"n\": 42, \"text\": \"3 K. - Aus I Ehe: 829 Jost. - 30 Elisabetha. - Aus\"},\n    {\"n\": 43, \"text\": \"II Ehe: 42 Karolina Katharina.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Walder.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walder\",\n      \"forename\": \"Hans Konrad\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"I, 141\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"141\",\n      \"origin\": \"Glattfelden, K. Zürich\",\n      \"birth_year\": \"1796\",\n      \"household\": \"799 Fr. - Magd. Zysset a. Heiligenschwendi. 1 S. — 830 Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Hans Konrad, Schreiner, a. Glattfelden, K. Zürich - I, 141. 799 Fr. - Magd. Zysset a. Heiligenschwendi. 1 S. — 830 Rudolf.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Walder.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walder\",\n      \"forename\": \"Samuel Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 33\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"33\",\n      \"origin\": \"Glattfelden\",\n      \"birth_year\": \"1811\",\n      \"household\": \"6 K. - 836 Josephine Elis. - 37 Elis. Friedr. Louise. - 38 Joh. Karl Friedr. - 41 Aug. Konrad Samuel. - 45 Maria Sophia. - 46 Sophia Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 811 Samuel Friedr., Schuhmacher, a. Glattfelden - II, 33. 6 K. - 836 Josephine Elis. - 37 Elis. Friedr. Louise. - 38 Joh. Karl Friedr. - 41 Aug. Konrad Samuel. - 45 Maria Sophia. - 46 Sophia Maria.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Walker.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walker\",\n      \"forename\": \"Joh. Georg\",\n      \"title\": \"\",\n      \"occupation\": \"Küfer u. Bierbrauer\",\n      \"address\": \"VI, 92\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"92\",\n      \"origin\": \"Schaitdorf in Würtemberg\",\n      \"birth_year\": \"1814\",\n      \"household\": \"819 Fr. - Anna Lendi a. Tamins.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Joh. Georg, Küfer u. Bierbrauer, a. Schaitdorf in Würtemberg - VI, 92. 819 Fr. - Anna Lendi a. Tamins.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Walther.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"VII, 172\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"172\",\n      \"origin\": \"Zauggenried\",\n      \"birth_year\": \"1807\",\n      \"household\": \"803 Fr. - Anna Barbara Nitter a. Trachselwald.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Johann, Schreiber, a. Zauggenried - VII, 172. 803 Fr. - Anna Barbara Nitter a. Trachselwald.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Walther.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"gewes. Schuhmacher\",\n      \"address\": \"I, 232\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"232\",\n      \"origin\": \"Wohlen\",\n      \"birth_year\": \"1790\",\n      \"household\": \"784 Fr. - Maria Kneubühler, gew. Huber, a. Frauenkappelen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 790 Christen, gewes. Schuhmacher, a. Wohlen - I, 232. 784 Fr. - Maria Kneubühler, gew. Huber, a. Frauenkappelen.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Walther.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"II, 234\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"234\",\n      \"origin\": \"Wohlen\",\n      \"birth_year\": \"1818\",\n      \"household\": \"816 Fr. - Rosina Schüri a. Neiben. 3 K. - 840 Ed. - 43 Elis. Marg. - 46 Alb. Ludwig.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 818 Albrecht, Schneider, a. Wohlen - II, 234. 816 Fr. - Rosina Schüri a. Neiben. 3 K. - 840 Ed. - 43 Elis. Marg. - 46 Alb. Ludwig.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Walther.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Elis.\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnwascherin\",\n      \"address\": \"IV, 13\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"13\",\n      \"origin\": \"Wohlen\",\n      \"birth_year\": \"1795\",\n      \"household\": \"11 K. - 816 Elis. - 18 Karl Alb. - 20 Marg. Ros. - 22 Magd. - 24 Maria Elis. - 26 Joh. Christ. - 28 Friedr. Heinrich. - 32 Charl. Elis. - 36 Kath. Anna.\",\n      \"note\": \"Name aus Zwischentitel; geb. Maurer\",\n      \"text\": \"4 795 Elis., geb. Maurer, Lohnwascherin, a. Wohlen - IV, 13. 11 K. - 816 Elis. - 18 Karl Alb. - 20 Marg. Ros. - 22 Magd. - 24 Maria Elis. - 26 Joh. Christ. - 28 Friedr. Heinrich. - 32 Charl. Elis. - 36 Kath. Anna.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Wanner a. Ezelkofen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wanner\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"I, 173\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"173\",\n      \"origin\": \"Ezelkofen\",\n      \"birth_year\": \"1805\",\n      \"household\": \"813 Fr. - Kath. Magd. Bürki. 4 K. - 838 Kath. Magd. - 40 Anna Maria. - 42 Anna. - 46 Joh. Niklaus.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Johann, Sattler - I, 173. 813 Fr. - Kath. Magd. Bürki. 4 K. - 838 Kath. Magd. - 40 Anna Maria. - 42 Anna. - 46 Joh. Niklaus.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Wanner a. Ezelkofen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wanner\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"II, 122 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 a\",\n      \"origin\": \"Ezelkofen\",\n      \"birth_year\": \"1818\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 818 Niklaus, Sattler - II, 122 a.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Wanzenried.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wanzenried\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmäster\",\n      \"address\": \"II, 18\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"18\",\n      \"origin\": \"Münsigen\",\n      \"birth_year\": \"1788\",\n      \"household\": \"Fr. - Kath. Faller a. Hüfingen, GH. Baden.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 788 Johann, Schweinmäster, a. Münsigen - II, 18. Fr. - Kath. Faller a. Hüfingen, GH. Baden.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Waser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Waser\",\n      \"forename\": \"Cleopha\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"IV, 275\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"275\",\n      \"origin\": \"Zürich\",\n      \"birth_year\": \"1789\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Ziegler\",\n      \"text\": \"1 789 Cleopha, geb. Ziegler, privat., a. Zürich - IV, 275.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Weber.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Weber\",\n      \"forename\": \"Irenäus W. M.\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"III, 9\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"9\",\n      \"origin\": \"Geuensee\",\n      \"birth_year\": \"1774\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 774 Irenäus W. M., Krämer, a. Geuensee - III, 9.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Weber.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Weber\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Pastetenbäcker\",\n      \"address\": \"IV, 261\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"261\",\n      \"origin\": \"Nettstall, K. Glarus\",\n      \"birth_year\": \"1794\",\n      \"household\": \"Fr. II Ehe. - Kath. Oppliger a. Röthenbach. 3 K. - Aus I Ehe: 829 Jost. - 30 Elisabetha. - Aus II Ehe: 42 Karolina Katharina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 794 Jakob, Pastetenbäcker, a. Nettstall, K. Glarus - IV, 261. Fr. II Ehe. - Kath. Oppliger a. Röthenbach. 3 K. - Aus I Ehe: 829 Jost. - 30 Elisabetha. - Aus II Ehe: 42 Karolina Katharina.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "168",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 168 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Walder."
+   },
+   {
+    "n": 4,
+    "text": "1 796 Hans Konrad, Schreiner, a. Glattfelden, K. Zürich - I, 141."
+   },
+   {
+    "n": 5,
+    "text": "799 Fr. - Magd. Zysset a. Heiligenschwendi."
+   },
+   {
+    "n": 6,
+    "text": "1 S. — 830 Rudolf."
+   },
+   {
+    "n": 7,
+    "text": "2 811 Samuel Friedr., Schuhmacher, a. Glattfelden - II, 33."
+   },
+   {
+    "n": 8,
+    "text": "6 K. - 836 Josephine Elis. - 37 Elis. Friedr. Louise."
+   },
+   {
+    "n": 9,
+    "text": "- 38 Joh. Karl Friedr. - 41 Aug. Konrad Samuel."
+   },
+   {
+    "n": 10,
+    "text": "- 45 Maria Sophia. - 46 Sophia Maria."
+   },
+   {
+    "n": 11,
+    "text": "Walker."
+   },
+   {
+    "n": 12,
+    "text": "1 814 Joh. Georg, Küfer u. Bierbrauer, a. Schaitdorf in"
+   },
+   {
+    "n": 13,
+    "text": "Würtemberg - VI, 92."
+   },
+   {
+    "n": 14,
+    "text": "819 Fr. - Anna Lendi a. Tamins."
+   },
+   {
+    "n": 15,
+    "text": "Walther."
+   },
+   {
+    "n": 16,
+    "text": "1 807 Johann, Schreiber, a. Zauggenried - VII, 172."
+   },
+   {
+    "n": 17,
+    "text": "803 Fr. - Anna Barbara Nitter a. Trachselwald."
+   },
+   {
+    "n": 18,
+    "text": "2 790 Christen, gewes. Schuhmacher, a. Wohlen - I, 232."
+   },
+   {
+    "n": 19,
+    "text": "784 Fr. - Maria Kneubühler, gew. Huber, a. Frauenkappelen."
+   },
+   {
+    "n": 20,
+    "text": "3 818 Albrecht, Schneider, a. Wohlen - II, 234."
+   },
+   {
+    "n": 21,
+    "text": "816 Fr. - Rosina Schüri a. Neiben."
+   },
+   {
+    "n": 22,
+    "text": "3 K. - 840 Ed. - 43 Elis. Marg. - 46 Alb. Ludwig."
+   },
+   {
+    "n": 23,
+    "text": "4 795 Elis., geb. Maurer, Lohnwascherin, a. Wohlen - IV, 13."
+   },
+   {
+    "n": 24,
+    "text": "11 K. - 816 Elis. - 18 Karl Alb. - 20 Marg. Ros. - 22"
+   },
+   {
+    "n": 25,
+    "text": "Magd. - 24 Maria Elis. - 26 Joh. Christ. - 28 Friedr."
+   },
+   {
+    "n": 26,
+    "text": "Heinrich. - 32 Charl. Elis. - 36 Kath. Anna."
+   },
+   {
+    "n": 27,
+    "text": "Wanner a. Ezelkofen."
+   },
+   {
+    "n": 28,
+    "text": "1 805 Johann, Sattler - I, 173."
+   },
+   {
+    "n": 29,
+    "text": "813 Fr. - Kath. Magd. Bürki."
+   },
+   {
+    "n": 30,
+    "text": "4 K. - 838 Kath. Magd. - 40 Anna Maria. - 42"
+   },
+   {
+    "n": 31,
+    "text": "Anna. - 46 Joh. Niklaus."
+   },
+   {
+    "n": 32,
+    "text": "2 818 Niklaus, Sattler - II, 122 a."
+   },
+   {
+    "n": 33,
+    "text": "Wanzenried."
+   },
+   {
+    "n": 34,
+    "text": "1 788 Johann, Schweinmäster, a. Münsigen - II, 18."
+   },
+   {
+    "n": 35,
+    "text": "Fr. - Kath. Faller a. Hüfingen, GH. Baden."
+   },
+   {
+    "n": 36,
+    "text": "Waser."
+   },
+   {
+    "n": 37,
+    "text": "1 789 Cleopha, geb. Ziegler, privat., a. Zürich - IV, 275."
+   },
+   {
+    "n": 38,
+    "text": "Weber."
+   },
+   {
+    "n": 39,
+    "text": "1 774 Irenäus W. M., Krämer, a. Geuensee - III, 9."
+   },
+   {
+    "n": 40,
+    "text": "2 794 Jakob, Pastetenbäcker, a. Nettstall, K. Glarus - IV, 261."
+   },
+   {
+    "n": 41,
+    "text": "Fr. II Ehe. - Kath. Oppliger a. Röthenbach."
+   },
+   {
+    "n": 42,
+    "text": "3 K. - Aus I Ehe: 829 Jost. - 30 Elisabetha. - Aus"
+   },
+   {
+    "n": 43,
+    "text": "II Ehe: 42 Karolina Katharina."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Walder.",
+    "place": "Bern",
+    "surname": "Walder",
+    "forename": "Hans Konrad",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "I, 141",
+    "quarter": "I",
+    "street": "",
+    "house_no": "141",
+    "origin": "Glattfelden, K. Zürich",
+    "birth_year": "1796",
+    "household": "799 Fr. - Magd. Zysset a. Heiligenschwendi. 1 S. — 830 Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Hans Konrad, Schreiner, a. Glattfelden, K. Zürich - I, 141. 799 Fr. - Magd. Zysset a. Heiligenschwendi. 1 S. — 830 Rudolf."
+   },
+   {
+    "line_from": 7,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Walder.",
+    "place": "Bern",
+    "surname": "Walder",
+    "forename": "Samuel Friedr.",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 33",
+    "quarter": "II",
+    "street": "",
+    "house_no": "33",
+    "origin": "Glattfelden",
+    "birth_year": "1811",
+    "household": "6 K. - 836 Josephine Elis. - 37 Elis. Friedr. Louise. - 38 Joh. Karl Friedr. - 41 Aug. Konrad Samuel. - 45 Maria Sophia. - 46 Sophia Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 811 Samuel Friedr., Schuhmacher, a. Glattfelden - II, 33. 6 K. - 836 Josephine Elis. - 37 Elis. Friedr. Louise. - 38 Joh. Karl Friedr. - 41 Aug. Konrad Samuel. - 45 Maria Sophia. - 46 Sophia Maria."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Walker.",
+    "place": "Bern",
+    "surname": "Walker",
+    "forename": "Joh. Georg",
+    "title": "",
+    "occupation": "Küfer u. Bierbrauer",
+    "address": "VI, 92",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "92",
+    "origin": "Schaitdorf in Würtemberg",
+    "birth_year": "1814",
+    "household": "819 Fr. - Anna Lendi a. Tamins.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Joh. Georg, Küfer u. Bierbrauer, a. Schaitdorf in Würtemberg - VI, 92. 819 Fr. - Anna Lendi a. Tamins."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Walther.",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "VII, 172",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "172",
+    "origin": "Zauggenried",
+    "birth_year": "1807",
+    "household": "803 Fr. - Anna Barbara Nitter a. Trachselwald.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Johann, Schreiber, a. Zauggenried - VII, 172. 803 Fr. - Anna Barbara Nitter a. Trachselwald."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Walther.",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "gewes. Schuhmacher",
+    "address": "I, 232",
+    "quarter": "I",
+    "street": "",
+    "house_no": "232",
+    "origin": "Wohlen",
+    "birth_year": "1790",
+    "household": "784 Fr. - Maria Kneubühler, gew. Huber, a. Frauenkappelen.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 790 Christen, gewes. Schuhmacher, a. Wohlen - I, 232. 784 Fr. - Maria Kneubühler, gew. Huber, a. Frauenkappelen."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Walther.",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Albrecht",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "II, 234",
+    "quarter": "II",
+    "street": "",
+    "house_no": "234",
+    "origin": "Wohlen",
+    "birth_year": "1818",
+    "household": "816 Fr. - Rosina Schüri a. Neiben. 3 K. - 840 Ed. - 43 Elis. Marg. - 46 Alb. Ludwig.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 818 Albrecht, Schneider, a. Wohlen - II, 234. 816 Fr. - Rosina Schüri a. Neiben. 3 K. - 840 Ed. - 43 Elis. Marg. - 46 Alb. Ludwig."
+   },
+   {
+    "line_from": 23,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Walther.",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Elis.",
+    "title": "",
+    "occupation": "Lohnwascherin",
+    "address": "IV, 13",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "13",
+    "origin": "Wohlen",
+    "birth_year": "1795",
+    "household": "11 K. - 816 Elis. - 18 Karl Alb. - 20 Marg. Ros. - 22 Magd. - 24 Maria Elis. - 26 Joh. Christ. - 28 Friedr. Heinrich. - 32 Charl. Elis. - 36 Kath. Anna.",
+    "note": "Name aus Zwischentitel; geb. Maurer",
+    "text": "4 795 Elis., geb. Maurer, Lohnwascherin, a. Wohlen - IV, 13. 11 K. - 816 Elis. - 18 Karl Alb. - 20 Marg. Ros. - 22 Magd. - 24 Maria Elis. - 26 Joh. Christ. - 28 Friedr. Heinrich. - 32 Charl. Elis. - 36 Kath. Anna."
+   },
+   {
+    "line_from": 28,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Wanner a. Ezelkofen.",
+    "place": "Bern",
+    "surname": "Wanner",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "I, 173",
+    "quarter": "I",
+    "street": "",
+    "house_no": "173",
+    "origin": "Ezelkofen",
+    "birth_year": "1805",
+    "household": "813 Fr. - Kath. Magd. Bürki. 4 K. - 838 Kath. Magd. - 40 Anna Maria. - 42 Anna. - 46 Joh. Niklaus.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Johann, Sattler - I, 173. 813 Fr. - Kath. Magd. Bürki. 4 K. - 838 Kath. Magd. - 40 Anna Maria. - 42 Anna. - 46 Joh. Niklaus."
+   },
+   {
+    "line_from": 32,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Wanner a. Ezelkofen.",
+    "place": "Bern",
+    "surname": "Wanner",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "II, 122 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 a",
+    "origin": "Ezelkofen",
+    "birth_year": "1818",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 818 Niklaus, Sattler - II, 122 a."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Wanzenried.",
+    "place": "Bern",
+    "surname": "Wanzenried",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schweinmäster",
+    "address": "II, 18",
+    "quarter": "II",
+    "street": "",
+    "house_no": "18",
+    "origin": "Münsigen",
+    "birth_year": "1788",
+    "household": "Fr. - Kath. Faller a. Hüfingen, GH. Baden.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 788 Johann, Schweinmäster, a. Münsigen - II, 18. Fr. - Kath. Faller a. Hüfingen, GH. Baden."
+   },
+   {
+    "line_from": 37,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Waser.",
+    "place": "Bern",
+    "surname": "Waser",
+    "forename": "Cleopha",
+    "title": "",
+    "occupation": "privat.",
+    "address": "IV, 275",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "275",
+    "origin": "Zürich",
+    "birth_year": "1789",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Ziegler",
+    "text": "1 789 Cleopha, geb. Ziegler, privat., a. Zürich - IV, 275."
+   },
+   {
+    "line_from": 39,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Weber.",
+    "place": "Bern",
+    "surname": "Weber",
+    "forename": "Irenäus W. M.",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "III, 9",
+    "quarter": "III",
+    "street": "",
+    "house_no": "9",
+    "origin": "Geuensee",
+    "birth_year": "1774",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 774 Irenäus W. M., Krämer, a. Geuensee - III, 9."
+   },
+   {
+    "line_from": 40,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Weber.",
+    "place": "Bern",
+    "surname": "Weber",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Pastetenbäcker",
+    "address": "IV, 261",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "261",
+    "origin": "Nettstall, K. Glarus",
+    "birth_year": "1794",
+    "household": "Fr. II Ehe. - Kath. Oppliger a. Röthenbach. 3 K. - Aus I Ehe: 829 Jost. - 30 Elisabetha. - Aus II Ehe: 42 Karolina Katharina.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 794 Jakob, Pastetenbäcker, a. Nettstall, K. Glarus - IV, 261. Fr. II Ehe. - Kath. Oppliger a. Röthenbach. 3 K. - Aus I Ehe: 829 Jost. - 30 Elisabetha. - Aus II Ehe: 42 Karolina Katharina."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:57:55+01:00",
+ "last_error": null
+}

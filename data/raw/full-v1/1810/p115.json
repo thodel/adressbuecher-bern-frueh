@@ -1,0 +1,353 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 115,
+ "section": "ville",
+ "started": "2026-11-10T21:12:41+01:00",
+ "thinking": "low",
+ "seconds": 16.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2301,
+  "output": 2580,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"42\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"42\"},\n    {\"n\": 2, \"text\": \"Houber, Wernhard, homme de\"},\n    {\"n\": 3, \"text\": \"lettres. — — Q. v. 202.\"},\n    {\"n\": 4, \"text\": \"Redactions et traductions, en langues allemande,\"},\n    {\"n\": 5, \"text\": \"francaise et latine, corrections, correspondance,\"},\n    {\"n\": 6, \"text\": \"confection de catalogues et de registres, com-\"},\n    {\"n\": 7, \"text\": \"missions et travaux littéraires.\"},\n    {\"n\": 8, \"text\": \"Relieurs.\"},\n    {\"n\": 9, \"text\": \"Bollin, Em. — — — Q. v. 244.\"},\n    {\"n\": 10, \"text\": \"Bollin, Sam. Albr. — — — r. 50.\"},\n    {\"n\": 11, \"text\": \"Eyen, J. J. Bouquiniste. — — v. 250.\"},\n    {\"n\": 12, \"text\": \"Freudenberger, François. — — v. 40.\"},\n    {\"n\": 13, \"text\": \"Halder, J. J. — — — j. 62.\"},\n    {\"n\": 14, \"text\": \"Hintz, Bernh. — — — j. 30.\"},\n    {\"n\": 15, \"text\": \"Kannmacher, Charles Reinhard. — bl. 97.\"},\n    {\"n\": 16, \"text\": \"Knieling, Jaques. — — — v. 157.\"},\n    {\"n\": 17, \"text\": \"Körber, Daniel. — — — v. 55.\"},\n    {\"n\": 18, \"text\": \"Rubanerie, voyez Mercerie et\"},\n    {\"n\": 19, \"text\": \"Passementiers.\"},\n    {\"n\": 20, \"text\": \"Salpêtre, voyez Poudres.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Houber\",\n      \"forename\": \"Wernhard\",\n      \"title\": \"\",\n      \"occupation\": \"homme de lettres\",\n      \"address\": \"Q. v. 202.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"202\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Houber, Wernhard, homme de lettres. Q. v. 202. Redactions et traductions, en langues allemande, francaise et latine, corrections, correspondance, confection de catalogues et de registres, commissions et travaux littéraires.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Relieurs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bollin\",\n      \"forename\": \"Em.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 244.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"244\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bollin, Em. Q. v. 244.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Relieurs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bollin\",\n      \"forename\": \"Sam. Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"r. 50.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"50\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bollin, Sam. Albr. r. 50.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Relieurs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eyen\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"Bouquiniste\",\n      \"address\": \"v. 250.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"250\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eyen, J. J. Bouquiniste. v. 250.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Relieurs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Freudenberger\",\n      \"forename\": \"François\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 40.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"40\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Freudenberger, François. v. 40.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Relieurs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Halder\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 62.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Halder, J. J. j. 62.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Relieurs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hintz\",\n      \"forename\": \"Bernh.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 30.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"30\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hintz, Bernh. j. 30.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Relieurs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kannmacher\",\n      \"forename\": \"Charles Reinhard\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"bl. 97.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"97\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kannmacher, Charles Reinhard. bl. 97.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Relieurs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Knieling\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 157.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"157\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Knieling, Jaques. v. 157.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Relieurs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Körber\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 55.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"55\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Körber, Daniel. v. 55.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"verweis\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rubanerie, voyez Mercerie et Passementiers.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"verweis\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Salpêtre, voyez Poudres.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "42",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "42"
+   },
+   {
+    "n": 2,
+    "text": "Houber, Wernhard, homme de"
+   },
+   {
+    "n": 3,
+    "text": "lettres. — — Q. v. 202."
+   },
+   {
+    "n": 4,
+    "text": "Redactions et traductions, en langues allemande,"
+   },
+   {
+    "n": 5,
+    "text": "francaise et latine, corrections, correspondance,"
+   },
+   {
+    "n": 6,
+    "text": "confection de catalogues et de registres, com-"
+   },
+   {
+    "n": 7,
+    "text": "missions et travaux littéraires."
+   },
+   {
+    "n": 8,
+    "text": "Relieurs."
+   },
+   {
+    "n": 9,
+    "text": "Bollin, Em. — — — Q. v. 244."
+   },
+   {
+    "n": 10,
+    "text": "Bollin, Sam. Albr. — — — r. 50."
+   },
+   {
+    "n": 11,
+    "text": "Eyen, J. J. Bouquiniste. — — v. 250."
+   },
+   {
+    "n": 12,
+    "text": "Freudenberger, François. — — v. 40."
+   },
+   {
+    "n": 13,
+    "text": "Halder, J. J. — — — j. 62."
+   },
+   {
+    "n": 14,
+    "text": "Hintz, Bernh. — — — j. 30."
+   },
+   {
+    "n": 15,
+    "text": "Kannmacher, Charles Reinhard. — bl. 97."
+   },
+   {
+    "n": 16,
+    "text": "Knieling, Jaques. — — — v. 157."
+   },
+   {
+    "n": 17,
+    "text": "Körber, Daniel. — — — v. 55."
+   },
+   {
+    "n": 18,
+    "text": "Rubanerie, voyez Mercerie et"
+   },
+   {
+    "n": 19,
+    "text": "Passementiers."
+   },
+   {
+    "n": 20,
+    "text": "Salpêtre, voyez Poudres."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 7,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Houber",
+    "forename": "Wernhard",
+    "title": "",
+    "occupation": "homme de lettres",
+    "address": "Q. v. 202.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "202",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Houber, Wernhard, homme de lettres. Q. v. 202. Redactions et traductions, en langues allemande, francaise et latine, corrections, correspondance, confection de catalogues et de registres, commissions et travaux littéraires."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Relieurs.",
+    "place": "Bern",
+    "surname": "Bollin",
+    "forename": "Em.",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 244.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "244",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bollin, Em. Q. v. 244."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Relieurs.",
+    "place": "Bern",
+    "surname": "Bollin",
+    "forename": "Sam. Albr.",
+    "title": "",
+    "occupation": "",
+    "address": "r. 50.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "50",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bollin, Sam. Albr. r. 50."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Relieurs.",
+    "place": "Bern",
+    "surname": "Eyen",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "Bouquiniste",
+    "address": "v. 250.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "250",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eyen, J. J. Bouquiniste. v. 250."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Relieurs.",
+    "place": "Bern",
+    "surname": "Freudenberger",
+    "forename": "François",
+    "title": "",
+    "occupation": "",
+    "address": "v. 40.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "40",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Freudenberger, François. v. 40."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Relieurs.",
+    "place": "Bern",
+    "surname": "Halder",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "",
+    "address": "j. 62.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "62",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Halder, J. J. j. 62."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Relieurs.",
+    "place": "Bern",
+    "surname": "Hintz",
+    "forename": "Bernh.",
+    "title": "",
+    "occupation": "",
+    "address": "j. 30.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "30",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hintz, Bernh. j. 30."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Relieurs.",
+    "place": "Bern",
+    "surname": "Kannmacher",
+    "forename": "Charles Reinhard",
+    "title": "",
+    "occupation": "",
+    "address": "bl. 97.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "97",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kannmacher, Charles Reinhard. bl. 97."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Relieurs.",
+    "place": "Bern",
+    "surname": "Knieling",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "",
+    "address": "v. 157.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "157",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Knieling, Jaques. v. 157."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Relieurs.",
+    "place": "Bern",
+    "surname": "Körber",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "",
+    "address": "v. 55.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "55",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Körber, Daniel. v. 55."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "verweis",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rubanerie, voyez Mercerie et Passementiers."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "verweis",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Salpêtre, voyez Poudres."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:12:57+01:00",
+ "last_error": null
+}

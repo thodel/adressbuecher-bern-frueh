@@ -1,0 +1,485 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 39,
+ "section": "einsassen",
+ "started": "2026-11-10T21:49:23+01:00",
+ "thinking": "low",
+ "seconds": 29.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 5125,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"26\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"- 26 -\" },\n    { \"n\": 2, \"text\": \"Nr. Geb.\" },\n    { \"n\": 3, \"text\": \"Buffa.\" },\n    { \"n\": 4, \"text\": \"1 Joh. Baptist, Kunsthändler, a. Baden, Gh. Baden -\" },\n    { \"n\": 5, \"text\": \"IV, 177.\" },\n    { \"n\": 6, \"text\": \"Burger, a. Burg bei Kulm, K. Aargau.\" },\n    { \"n\": 7, \"text\": \"1 798 Johannes, Schuhmacher - II, 10 b.\" },\n    { \"n\": 8, \"text\": \"798 Fr. - Elis. Bühlmann a. Schangnau.\" },\n    { \"n\": 9, \"text\": \"5 K. - 823 Anna Barbara. - 25 Elisabetha. - 28\" },\n    { \"n\": 10, \"text\": \"Maria. - 31 Joh. Eduard. - 41 Maria Louise.\" },\n    { \"n\": 11, \"text\": \"2 809 Melchior, Graveur - IV, 157.\" },\n    { \"n\": 12, \"text\": \"808 Fr. - Anna Maria Stalder a. Escholzmatt, Negotiantin\" },\n    { \"n\": 13, \"text\": \"mit Ellenwaaren.\" },\n    { \"n\": 14, \"text\": \"7 K. - 833 Johann Adolf. - 34 Louise. - 36 Theodor.\" },\n    { \"n\": 15, \"text\": \"- 37 Johann Heinrich. - 39 Emilie Christina. - 41\" },\n    { \"n\": 16, \"text\": \"Eduard. - (Das siebente ist nicht eingeschrieben.)\" },\n    { \"n\": 17, \"text\": \"3 802 Rud. Friedr., Buchdrucker u. Hauseigenthümer - VI, 96.\" },\n    { \"n\": 18, \"text\": \"804 Fr. - Marg. Kober, verw. Kref a. Hüttlingen.\" },\n    { \"n\": 19, \"text\": \"2 T. - 837 Anna Elisabetha. - 44 Marg. Sophie.\" },\n    { \"n\": 20, \"text\": \"Burgdorfer, a. Eggiwyl.\" },\n    { \"n\": 21, \"text\": \"1 791 Kath. Elisabetha, Besizerin eines Lesekabinets, Schw.\" },\n    { \"n\": 22, \"text\": \"v. 2 - IV, 232.\" },\n    { \"n\": 23, \"text\": \"2 812 Joh. Friedr., Kunst- u. Buchhändler, B. v. 1 - IV, 232.\" },\n    { \"n\": 24, \"text\": \"Buri.\" },\n    { \"n\": 25, \"text\": \"1 816 Jakob, Wagner, a. Bangerten - V, 4.\" },\n    { \"n\": 26, \"text\": \"2 798 Christen, Wildenmannwirth, a. Seewyl, Kh. Rap-\" },\n    { \"n\": 27, \"text\": \"perswyl - II, 69.\" },\n    { \"n\": 28, \"text\": \"797 Fr. - Anna Maria Wahlen a. Trimstein.\" },\n    { \"n\": 29, \"text\": \"1 K. - 832 Anna Elisabetha.\" },\n    { \"n\": 30, \"text\": \"3 788 Johann, Granitsteinhauer, a. Schüpfen - IV, 17.\" },\n    { \"n\": 31, \"text\": \"790 Fr. - Barbara Ramseyer a. Rügsau.\" },\n    { \"n\": 32, \"text\": \"7 K. - 814 Bendicht. - 16 Johann Ulrich. - 19 Maria.\" },\n    { \"n\": 33, \"text\": \"- 25 Anna Elisab. - 27 Johannes. - 29 Friedrich.\" },\n    { \"n\": 34, \"text\": \"- 32 Karl.\" },\n    { \"n\": 35, \"text\": \"4 799 Rudolf, Schweinmetzger, a. Seewyl - IV, 84.\" },\n    { \"n\": 36, \"text\": \"805 Fr. - Barbara Bauder a. Mett.\" },\n    { \"n\": 37, \"text\": \"5 805 Joh., Kaffewirth, a. Niederried, Kh. Kallnach - III, 13.\" },\n    { \"n\": 38, \"text\": \"803 Fr. - Ros. Hosteli a. Bolligen.\" },\n    { \"n\": 39, \"text\": \"7 K. - 828 Johann. - 31 Anna Maria. - 33 Jakob\" },\n    { \"n\": 40, \"text\": \"Karl. - 38 Rud. Fidel. - 39 Jakob Friedrich. -\" },\n    { \"n\": 41, \"text\": \"41 Marg. Barbara. - 43 Ed. Ferdinand.\" },\n    { \"n\": 42, \"text\": \"6 802 Rudolf, Pächter, a. Rapperswyl - I, 68.\" },\n    { \"n\": 43, \"text\": \"816 Fr. - Kath. Beck a. Sumiswald.\" },\n    { \"n\": 44, \"text\": \"4 S. - 839 Rudolf. - 42 Johannes. - 44 Samuel\" },\n    { \"n\": 45, \"text\": \"Gottlieb. - 46 Ulrich Jakob.\" },\n    { \"n\": 46, \"text\": \"Burkhalter.\" },\n    { \"n\": 47, \"text\": \"1 790 Maria, geb. Häsler, a. Lützelflüh, W., Kellerhalterin\" },\n    { \"n\": 48, \"text\": \"- II, 125.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Buffa.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Buffa\",\n      \"forename\": \"Joh. Baptist\",\n      \"title\": \"\",\n      \"occupation\": \"Kunsthändler\",\n      \"address\": \"IV, 177\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"177\",\n      \"origin\": \"Baden, Gh. Baden\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Joh. Baptist, Kunsthändler, a. Baden, Gh. Baden - IV, 177.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Burger, a. Burg bei Kulm, K. Aargau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Burger\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 10 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"10 b\",\n      \"origin\": \"Burg bei Kulm, K. Aargau\",\n      \"birth_year\": \"1798\",\n      \"household\": \"798 Fr. - Elis. Bühlmann a. Schangnau. 5 K. - 823 Anna Barbara. - 25 Elisabetha. - 28 Maria. - 31 Joh. Eduard. - 41 Maria Louise.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 798 Johannes, Schuhmacher - II, 10 b. 798 Fr. - Elis. Bühlmann a. Schangnau. 5 K. - 823 Anna Barbara. - 25 Elisabetha. - 28 Maria. - 31 Joh. Eduard. - 41 Maria Louise.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Burger, a. Burg bei Kulm, K. Aargau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Burger\",\n      \"forename\": \"Melchior\",\n      \"title\": \"\",\n      \"occupation\": \"Graveur\",\n      \"address\": \"IV, 157\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"157\",\n      \"origin\": \"Burg bei Kulm, K. Aargau\",\n      \"birth_year\": \"1809\",\n      \"household\": \"808 Fr. - Anna Maria Stalder a. Escholzmatt, Negotiantin mit Ellenwaaren. 7 K. - 833 Johann Adolf. - 34 Louise. - 36 Theodor. - 37 Johann Heinrich. - 39 Emilie Christina. - 41 Eduard. - (Das siebente ist nicht eingeschrieben.)\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"2 809 Melchior, Graveur - IV, 157. 808 Fr. - Anna Maria Stalder a. Escholzmatt, Negotiantin mit Ellenwaaren. 7 K. - 833 Johann Adolf. - 34 Louise. - 36 Theodor. - 37 Johann Heinrich. - 39 Emilie Christina. - 41 Eduard. - (Das siebente ist nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Burger, a. Burg bei Kulm, K. Aargau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Burger\",\n      \"forename\": \"Rud. Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Buchdrucker u. Hauseigenthümer\",\n      \"address\": \"VI, 96\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"96\",\n      \"origin\": \"Burg bei Kulm, K. Aargau\",\n      \"birth_year\": \"1802\",\n      \"household\": \"804 Fr. - Marg. Kober, verw. Kref a. Hüttlingen. 2 T. - 837 Anna Elisabetha. - 44 Marg. Sophie.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"3 802 Rud. Friedr., Buchdrucker u. Hauseigenthümer - VI, 96. 804 Fr. - Marg. Kober, verw. Kref a. Hüttlingen. 2 T. - 837 Anna Elisabetha. - 44 Marg. Sophie.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorfer, a. Eggiwyl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Burgdorfer\",\n      \"forename\": \"Kath. Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Besizerin eines Lesekabinets\",\n      \"address\": \"IV, 232\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"232\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1791\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel; Schw. v. 2\",\n      \"text\": \"1 791 Kath. Elisabetha, Besizerin eines Lesekabinets, Schw. v. 2 - IV, 232.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorfer, a. Eggiwyl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Burgdorfer\",\n      \"forename\": \"Joh. Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Kunst- u. Buchhändler\",\n      \"address\": \"IV, 232\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"232\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1812\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel; B. v. 1\",\n      \"text\": \"2 812 Joh. Friedr., Kunst- u. Buchhändler, B. v. 1 - IV, 232.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Buri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Buri\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Wagner\",\n      \"address\": \"V, 4\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"4\",\n      \"origin\": \"Bangerten\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Jakob, Wagner, a. Bangerten - V, 4.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Buri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Buri\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Wildenmannwirth\",\n      \"address\": \"II, 69\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"69\",\n      \"origin\": \"Seewyl, Kh. Rapperswyl\",\n      \"birth_year\": \"1798\",\n      \"household\": \"797 Fr. - Anna Maria Wahlen a. Trimstein. 1 K. - 832 Anna Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 798 Christen, Wildenmannwirth, a. Seewyl, Kh. Rapperswyl - II, 69. 797 Fr. - Anna Maria Wahlen a. Trimstein. 1 K. - 832 Anna Elisabetha.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Buri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Buri\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Granitsteinhauer\",\n      \"address\": \"IV, 17\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"17\",\n      \"origin\": \"Schüpfen\",\n      \"birth_year\": \"1788\",\n      \"household\": \"790 Fr. - Barbara Ramseyer a. Rügsau. 7 K. - 814 Bendicht. - 16 Johann Ulrich. - 19 Maria. - 25 Anna Elisab. - 27 Johannes. - 29 Friedrich. - 32 Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 788 Johann, Granitsteinhauer, a. Schüpfen - IV, 17. 790 Fr. - Barbara Ramseyer a. Rügsau. 7 K. - 814 Bendicht. - 16 Johann Ulrich. - 19 Maria. - 25 Anna Elisab. - 27 Johannes. - 29 Friedrich. - 32 Karl.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Buri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Buri\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzger\",\n      \"address\": \"IV, 84\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"84\",\n      \"origin\": \"Seewyl\",\n      \"birth_year\": \"1799\",\n      \"household\": \"805 Fr. - Barbara Bauder a. Mett.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 799 Rudolf, Schweinmetzger, a. Seewyl - IV, 84. 805 Fr. - Barbara Bauder a. Mett.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Buri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Buri\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Kaffewirth\",\n      \"address\": \"III, 13\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"13\",\n      \"origin\": \"Niederried, Kh. Kallnach\",\n      \"birth_year\": \"1805\",\n      \"household\": \"803 Fr. - Ros. Hosteli a. Bolligen. 7 K. - 828 Johann. - 31 Anna Maria. - 33 Jakob Karl. - 38 Rud. Fidel. - 39 Jakob Friedrich. - 41 Marg. Barbara. - 43 Ed. Ferdinand.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 805 Joh., Kaffewirth, a. Niederried, Kh. Kallnach - III, 13. 803 Fr. - Ros. Hosteli a. Bolligen. 7 K. - 828 Johann. - 31 Anna Maria. - 33 Jakob Karl. - 38 Rud. Fidel. - 39 Jakob Friedrich. - 41 Marg. Barbara. - 43 Ed. Ferdinand.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Buri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Buri\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Pächter\",\n      \"address\": \"I, 68\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"68\",\n      \"origin\": \"Rapperswyl\",\n      \"birth_year\": \"1802\",\n      \"household\": \"816 Fr. - Kath. Beck a. Sumiswald. 4 S. - 839 Rudolf. - 42 Johannes. - 44 Samuel Gottlieb. - 46 Ulrich Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 802 Rudolf, Pächter, a. Rapperswyl - I, 68. 816 Fr. - Kath. Beck a. Sumiswald. 4 S. - 839 Rudolf. - 42 Johannes. - 44 Samuel Gottlieb. - 46 Ulrich Jakob.\"\n    },\n    {\n      \"line_from\": 47,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"Burkhalter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Burkhalter\",\n      \"forename\": \"Maria\",\n      \"title\": \"W.\",\n      \"occupation\": \"Kellerhalterin\",\n      \"address\": \"II, 125\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"125\",\n      \"origin\": \"Lützelflüh\",\n      \"birth_year\": \"1790\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Häsler\",\n      \"text\": \"1 790 Maria, geb. Häsler, a. Lützelflüh, W., Kellerhalterin - II, 125.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "26",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "- 26 -"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Buffa."
+   },
+   {
+    "n": 4,
+    "text": "1 Joh. Baptist, Kunsthändler, a. Baden, Gh. Baden -"
+   },
+   {
+    "n": 5,
+    "text": "IV, 177."
+   },
+   {
+    "n": 6,
+    "text": "Burger, a. Burg bei Kulm, K. Aargau."
+   },
+   {
+    "n": 7,
+    "text": "1 798 Johannes, Schuhmacher - II, 10 b."
+   },
+   {
+    "n": 8,
+    "text": "798 Fr. - Elis. Bühlmann a. Schangnau."
+   },
+   {
+    "n": 9,
+    "text": "5 K. - 823 Anna Barbara. - 25 Elisabetha. - 28"
+   },
+   {
+    "n": 10,
+    "text": "Maria. - 31 Joh. Eduard. - 41 Maria Louise."
+   },
+   {
+    "n": 11,
+    "text": "2 809 Melchior, Graveur - IV, 157."
+   },
+   {
+    "n": 12,
+    "text": "808 Fr. - Anna Maria Stalder a. Escholzmatt, Negotiantin"
+   },
+   {
+    "n": 13,
+    "text": "mit Ellenwaaren."
+   },
+   {
+    "n": 14,
+    "text": "7 K. - 833 Johann Adolf. - 34 Louise. - 36 Theodor."
+   },
+   {
+    "n": 15,
+    "text": "- 37 Johann Heinrich. - 39 Emilie Christina. - 41"
+   },
+   {
+    "n": 16,
+    "text": "Eduard. - (Das siebente ist nicht eingeschrieben.)"
+   },
+   {
+    "n": 17,
+    "text": "3 802 Rud. Friedr., Buchdrucker u. Hauseigenthümer - VI, 96."
+   },
+   {
+    "n": 18,
+    "text": "804 Fr. - Marg. Kober, verw. Kref a. Hüttlingen."
+   },
+   {
+    "n": 19,
+    "text": "2 T. - 837 Anna Elisabetha. - 44 Marg. Sophie."
+   },
+   {
+    "n": 20,
+    "text": "Burgdorfer, a. Eggiwyl."
+   },
+   {
+    "n": 21,
+    "text": "1 791 Kath. Elisabetha, Besizerin eines Lesekabinets, Schw."
+   },
+   {
+    "n": 22,
+    "text": "v. 2 - IV, 232."
+   },
+   {
+    "n": 23,
+    "text": "2 812 Joh. Friedr., Kunst- u. Buchhändler, B. v. 1 - IV, 232."
+   },
+   {
+    "n": 24,
+    "text": "Buri."
+   },
+   {
+    "n": 25,
+    "text": "1 816 Jakob, Wagner, a. Bangerten - V, 4."
+   },
+   {
+    "n": 26,
+    "text": "2 798 Christen, Wildenmannwirth, a. Seewyl, Kh. Rap-"
+   },
+   {
+    "n": 27,
+    "text": "perswyl - II, 69."
+   },
+   {
+    "n": 28,
+    "text": "797 Fr. - Anna Maria Wahlen a. Trimstein."
+   },
+   {
+    "n": 29,
+    "text": "1 K. - 832 Anna Elisabetha."
+   },
+   {
+    "n": 30,
+    "text": "3 788 Johann, Granitsteinhauer, a. Schüpfen - IV, 17."
+   },
+   {
+    "n": 31,
+    "text": "790 Fr. - Barbara Ramseyer a. Rügsau."
+   },
+   {
+    "n": 32,
+    "text": "7 K. - 814 Bendicht. - 16 Johann Ulrich. - 19 Maria."
+   },
+   {
+    "n": 33,
+    "text": "- 25 Anna Elisab. - 27 Johannes. - 29 Friedrich."
+   },
+   {
+    "n": 34,
+    "text": "- 32 Karl."
+   },
+   {
+    "n": 35,
+    "text": "4 799 Rudolf, Schweinmetzger, a. Seewyl - IV, 84."
+   },
+   {
+    "n": 36,
+    "text": "805 Fr. - Barbara Bauder a. Mett."
+   },
+   {
+    "n": 37,
+    "text": "5 805 Joh., Kaffewirth, a. Niederried, Kh. Kallnach - III, 13."
+   },
+   {
+    "n": 38,
+    "text": "803 Fr. - Ros. Hosteli a. Bolligen."
+   },
+   {
+    "n": 39,
+    "text": "7 K. - 828 Johann. - 31 Anna Maria. - 33 Jakob"
+   },
+   {
+    "n": 40,
+    "text": "Karl. - 38 Rud. Fidel. - 39 Jakob Friedrich. -"
+   },
+   {
+    "n": 41,
+    "text": "41 Marg. Barbara. - 43 Ed. Ferdinand."
+   },
+   {
+    "n": 42,
+    "text": "6 802 Rudolf, Pächter, a. Rapperswyl - I, 68."
+   },
+   {
+    "n": 43,
+    "text": "816 Fr. - Kath. Beck a. Sumiswald."
+   },
+   {
+    "n": 44,
+    "text": "4 S. - 839 Rudolf. - 42 Johannes. - 44 Samuel"
+   },
+   {
+    "n": 45,
+    "text": "Gottlieb. - 46 Ulrich Jakob."
+   },
+   {
+    "n": 46,
+    "text": "Burkhalter."
+   },
+   {
+    "n": 47,
+    "text": "1 790 Maria, geb. Häsler, a. Lützelflüh, W., Kellerhalterin"
+   },
+   {
+    "n": 48,
+    "text": "- II, 125."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Buffa.",
+    "place": "Bern",
+    "surname": "Buffa",
+    "forename": "Joh. Baptist",
+    "title": "",
+    "occupation": "Kunsthändler",
+    "address": "IV, 177",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "177",
+    "origin": "Baden, Gh. Baden",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Joh. Baptist, Kunsthändler, a. Baden, Gh. Baden - IV, 177."
+   },
+   {
+    "line_from": 7,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Burger, a. Burg bei Kulm, K. Aargau.",
+    "place": "Bern",
+    "surname": "Burger",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 10 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "10 b",
+    "origin": "Burg bei Kulm, K. Aargau",
+    "birth_year": "1798",
+    "household": "798 Fr. - Elis. Bühlmann a. Schangnau. 5 K. - 823 Anna Barbara. - 25 Elisabetha. - 28 Maria. - 31 Joh. Eduard. - 41 Maria Louise.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 798 Johannes, Schuhmacher - II, 10 b. 798 Fr. - Elis. Bühlmann a. Schangnau. 5 K. - 823 Anna Barbara. - 25 Elisabetha. - 28 Maria. - 31 Joh. Eduard. - 41 Maria Louise."
+   },
+   {
+    "line_from": 11,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Burger, a. Burg bei Kulm, K. Aargau.",
+    "place": "Bern",
+    "surname": "Burger",
+    "forename": "Melchior",
+    "title": "",
+    "occupation": "Graveur",
+    "address": "IV, 157",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "157",
+    "origin": "Burg bei Kulm, K. Aargau",
+    "birth_year": "1809",
+    "household": "808 Fr. - Anna Maria Stalder a. Escholzmatt, Negotiantin mit Ellenwaaren. 7 K. - 833 Johann Adolf. - 34 Louise. - 36 Theodor. - 37 Johann Heinrich. - 39 Emilie Christina. - 41 Eduard. - (Das siebente ist nicht eingeschrieben.)",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "2 809 Melchior, Graveur - IV, 157. 808 Fr. - Anna Maria Stalder a. Escholzmatt, Negotiantin mit Ellenwaaren. 7 K. - 833 Johann Adolf. - 34 Louise. - 36 Theodor. - 37 Johann Heinrich. - 39 Emilie Christina. - 41 Eduard. - (Das siebente ist nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Burger, a. Burg bei Kulm, K. Aargau.",
+    "place": "Bern",
+    "surname": "Burger",
+    "forename": "Rud. Friedr.",
+    "title": "",
+    "occupation": "Buchdrucker u. Hauseigenthümer",
+    "address": "VI, 96",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "96",
+    "origin": "Burg bei Kulm, K. Aargau",
+    "birth_year": "1802",
+    "household": "804 Fr. - Marg. Kober, verw. Kref a. Hüttlingen. 2 T. - 837 Anna Elisabetha. - 44 Marg. Sophie.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "3 802 Rud. Friedr., Buchdrucker u. Hauseigenthümer - VI, 96. 804 Fr. - Marg. Kober, verw. Kref a. Hüttlingen. 2 T. - 837 Anna Elisabetha. - 44 Marg. Sophie."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Burgdorfer, a. Eggiwyl.",
+    "place": "Bern",
+    "surname": "Burgdorfer",
+    "forename": "Kath. Elisabetha",
+    "title": "",
+    "occupation": "Besizerin eines Lesekabinets",
+    "address": "IV, 232",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "232",
+    "origin": "Eggiwyl",
+    "birth_year": "1791",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel; Schw. v. 2",
+    "text": "1 791 Kath. Elisabetha, Besizerin eines Lesekabinets, Schw. v. 2 - IV, 232."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Burgdorfer, a. Eggiwyl.",
+    "place": "Bern",
+    "surname": "Burgdorfer",
+    "forename": "Joh. Friedr.",
+    "title": "",
+    "occupation": "Kunst- u. Buchhändler",
+    "address": "IV, 232",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "232",
+    "origin": "Eggiwyl",
+    "birth_year": "1812",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel; B. v. 1",
+    "text": "2 812 Joh. Friedr., Kunst- u. Buchhändler, B. v. 1 - IV, 232."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Buri.",
+    "place": "Bern",
+    "surname": "Buri",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Wagner",
+    "address": "V, 4",
+    "quarter": "V",
+    "street": "",
+    "house_no": "4",
+    "origin": "Bangerten",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Jakob, Wagner, a. Bangerten - V, 4."
+   },
+   {
+    "line_from": 26,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Buri.",
+    "place": "Bern",
+    "surname": "Buri",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Wildenmannwirth",
+    "address": "II, 69",
+    "quarter": "II",
+    "street": "",
+    "house_no": "69",
+    "origin": "Seewyl, Kh. Rapperswyl",
+    "birth_year": "1798",
+    "household": "797 Fr. - Anna Maria Wahlen a. Trimstein. 1 K. - 832 Anna Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 798 Christen, Wildenmannwirth, a. Seewyl, Kh. Rapperswyl - II, 69. 797 Fr. - Anna Maria Wahlen a. Trimstein. 1 K. - 832 Anna Elisabetha."
+   },
+   {
+    "line_from": 30,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Buri.",
+    "place": "Bern",
+    "surname": "Buri",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Granitsteinhauer",
+    "address": "IV, 17",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "17",
+    "origin": "Schüpfen",
+    "birth_year": "1788",
+    "household": "790 Fr. - Barbara Ramseyer a. Rügsau. 7 K. - 814 Bendicht. - 16 Johann Ulrich. - 19 Maria. - 25 Anna Elisab. - 27 Johannes. - 29 Friedrich. - 32 Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 788 Johann, Granitsteinhauer, a. Schüpfen - IV, 17. 790 Fr. - Barbara Ramseyer a. Rügsau. 7 K. - 814 Bendicht. - 16 Johann Ulrich. - 19 Maria. - 25 Anna Elisab. - 27 Johannes. - 29 Friedrich. - 32 Karl."
+   },
+   {
+    "line_from": 35,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Buri.",
+    "place": "Bern",
+    "surname": "Buri",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schweinmetzger",
+    "address": "IV, 84",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "84",
+    "origin": "Seewyl",
+    "birth_year": "1799",
+    "household": "805 Fr. - Barbara Bauder a. Mett.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 799 Rudolf, Schweinmetzger, a. Seewyl - IV, 84. 805 Fr. - Barbara Bauder a. Mett."
+   },
+   {
+    "line_from": 37,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Buri.",
+    "place": "Bern",
+    "surname": "Buri",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Kaffewirth",
+    "address": "III, 13",
+    "quarter": "III",
+    "street": "",
+    "house_no": "13",
+    "origin": "Niederried, Kh. Kallnach",
+    "birth_year": "1805",
+    "household": "803 Fr. - Ros. Hosteli a. Bolligen. 7 K. - 828 Johann. - 31 Anna Maria. - 33 Jakob Karl. - 38 Rud. Fidel. - 39 Jakob Friedrich. - 41 Marg. Barbara. - 43 Ed. Ferdinand.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 805 Joh., Kaffewirth, a. Niederried, Kh. Kallnach - III, 13. 803 Fr. - Ros. Hosteli a. Bolligen. 7 K. - 828 Johann. - 31 Anna Maria. - 33 Jakob Karl. - 38 Rud. Fidel. - 39 Jakob Friedrich. - 41 Marg. Barbara. - 43 Ed. Ferdinand."
+   },
+   {
+    "line_from": 42,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Buri.",
+    "place": "Bern",
+    "surname": "Buri",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Pächter",
+    "address": "I, 68",
+    "quarter": "I",
+    "street": "",
+    "house_no": "68",
+    "origin": "Rapperswyl",
+    "birth_year": "1802",
+    "household": "816 Fr. - Kath. Beck a. Sumiswald. 4 S. - 839 Rudolf. - 42 Johannes. - 44 Samuel Gottlieb. - 46 Ulrich Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 802 Rudolf, Pächter, a. Rapperswyl - I, 68. 816 Fr. - Kath. Beck a. Sumiswald. 4 S. - 839 Rudolf. - 42 Johannes. - 44 Samuel Gottlieb. - 46 Ulrich Jakob."
+   },
+   {
+    "line_from": 47,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "Burkhalter.",
+    "place": "Bern",
+    "surname": "Burkhalter",
+    "forename": "Maria",
+    "title": "W.",
+    "occupation": "Kellerhalterin",
+    "address": "II, 125",
+    "quarter": "II",
+    "street": "",
+    "house_no": "125",
+    "origin": "Lützelflüh",
+    "birth_year": "1790",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Häsler",
+    "text": "1 790 Maria, geb. Häsler, a. Lützelflüh, W., Kellerhalterin - II, 125."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:49:52+01:00",
+ "last_error": null
+}

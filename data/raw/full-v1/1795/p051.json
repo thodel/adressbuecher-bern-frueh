@@ -1,0 +1,573 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 51,
+ "section": "handbuch",
+ "started": "2026-11-10T21:10:28+01:00",
+ "thinking": "low",
+ "seconds": 25.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 4250,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"49\",\n  \"running_head\": \"LAUSANNE.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"LAUSANNE. 49\"},\n    {\"n\": 2, \"text\": \"Monsieur\"},\n    {\"n\": 3, \"text\": \"Isaac Sauvage,\"},\n    {\"n\": 4, \"text\": \"Francillon, Veuve, &\"},\n    {\"n\": 5, \"text\": \"Fils, } Ferretiers.\"},\n    {\"n\": 6, \"text\": \"Ulmer,\"},\n    {\"n\": 7, \"text\": \"Roquemolle,\"},\n    {\"n\": 8, \"text\": \"Pluger, Fabricant de Chandelles.\"},\n    {\"n\": 9, \"text\": \"Froidevau, } tiennent des Magazins de Soie-\"},\n    {\"n\": 10, \"text\": \"André Bellamy } ries & Etoffes en gros & en\"},\n    {\"n\": 11, \"text\": \"& Comp. } détail.\"},\n    {\"n\": 12, \"text\": \"Mad. Barrat,\"},\n    {\"n\": 13, \"text\": \"Mesd. Bujard,\"},\n    {\"n\": 14, \"text\": \"Mad. Lunel,\"},\n    {\"n\": 15, \"text\": \"Johannot née Mas-\"},\n    {\"n\": 16, \"text\": \"mejean, } March. de Mode.\"},\n    {\"n\": 17, \"text\": \"Bailly née Oboussier,\"},\n    {\"n\": 18, \"text\": \"Rochat au Pont,\"},\n    {\"n\": 19, \"text\": \"les Sœurs Panchaud,\"},\n    {\"n\": 20, \"text\": \"Mad. A. Boucherle }\"},\n    {\"n\": 21, \"text\": \"née Augier. }\"},\n    {\"n\": 22, \"text\": \"J. J. Collet, } Moussel. & Toiliers\"},\n    {\"n\": 23, \"text\": \"Frossard Weibel, } en détail.\"},\n    {\"n\": 24, \"text\": \"Em. Houser, }\"},\n    {\"n\": 25, \"text\": \"Tillmann, }\"},\n    {\"n\": 26, \"text\": \"Allaman, } Apoticaires.\"},\n    {\"n\": 27, \"text\": \"Jean Jaques Mercier fait un grand Com-\"},\n    {\"n\": 28, \"text\": \"merce en Chamoiserie & peaux travaillées de toute\"},\n    {\"n\": 29, \"text\": \"espèce, qu'il fait fabriquer lui-même; c'est un hom-\"},\n    {\"n\": 30, \"text\": \"D\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Monsieur / Ferretiers\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Sauvage\",\n      \"forename\": \"Isaac\",\n      \"title\": \"\",\n      \"occupation\": \"Ferretiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Monsieur Isaac Sauvage, Ferretiers.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"firma\",\n      \"heading\": \"Monsieur / Ferretiers\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Francillon\",\n      \"forename\": \"\",\n      \"title\": \"Veuve, & Fils\",\n      \"occupation\": \"Ferretiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Francillon, Veuve, & Fils, Ferretiers.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Monsieur / Ferretiers\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Ulmer\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Ferretiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ulmer, Ferretiers.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Monsieur / Ferretiers\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Roquemolle\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Ferretiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Roquemolle, Ferretiers.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Monsieur\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Pluger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Fabricant de Chandelles\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pluger, Fabricant de Chandelles.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Monsieur\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Froidevau\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"tiennent des Magazins de Soieries & Etoffes en gros & en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Froidevau, tiennent des Magazins de Soieries & Etoffes en gros & en détail.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Monsieur\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Bellamy\",\n      \"forename\": \"André\",\n      \"title\": \"& Comp.\",\n      \"occupation\": \"tiennent des Magazins de Soieries & Etoffes en gros & en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"André Bellamy & Comp. tiennent des Magazins de Soieries & Etoffes en gros & en détail.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"March. de Mode\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Barrat\",\n      \"forename\": \"\",\n      \"title\": \"Mad.\",\n      \"occupation\": \"March. de Mode\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mad. Barrat, March. de Mode.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"March. de Mode\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Bujard\",\n      \"forename\": \"\",\n      \"title\": \"Mesd.\",\n      \"occupation\": \"March. de Mode\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mesd. Bujard, March. de Mode.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"March. de Mode\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Lunel\",\n      \"forename\": \"\",\n      \"title\": \"Mad.\",\n      \"occupation\": \"March. de Mode\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mad. Lunel, March. de Mode.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"March. de Mode\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Johannot\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"March. de Mode\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"née Masmejean\",\n      \"text\": \"Johannot née Masmejean, March. de Mode.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"March. de Mode\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Bailly\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"March. de Mode\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"née Oboussier\",\n      \"text\": \"Bailly née Oboussier, March. de Mode.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"March. de Mode\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Rochat\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"March. de Mode\",\n      \"address\": \"au Pont\",\n      \"quarter\": \"\",\n      \"street\": \"au Pont\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rochat au Pont, March. de Mode.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"March. de Mode\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Panchaud\",\n      \"forename\": \"\",\n      \"title\": \"les Sœurs\",\n      \"occupation\": \"March. de Mode\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"les Sœurs Panchaud, March. de Mode.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Moussel. & Toiliers en détail\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Boucherle\",\n      \"forename\": \"A.\",\n      \"title\": \"Mad.\",\n      \"occupation\": \"Moussel. & Toiliers en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"née Augier\",\n      \"text\": \"Mad. A. Boucherle née Augier. Moussel. & Toiliers en détail.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Moussel. & Toiliers en détail\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Collet\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"Moussel. & Toiliers en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. J. Collet, Moussel. & Toiliers en détail.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Moussel. & Toiliers en détail\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Frossard Weibel\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Moussel. & Toiliers en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Frossard Weibel, Moussel. & Toiliers en détail.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Moussel. & Toiliers en détail\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Houser\",\n      \"forename\": \"Em.\",\n      \"title\": \"\",\n      \"occupation\": \"Moussel. & Toiliers en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Em. Houser, Moussel. & Toiliers en détail.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Apoticaires\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Tillmann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Apoticaires\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tillmann, Apoticaires.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Apoticaires\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Allaman\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Apoticaires\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Allaman, Apoticaires.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Mercier\",\n      \"forename\": \"Jean Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"fait un grand Commerce en Chamoiserie & peaux travaillées de toute espèce, qu'il fait fabriquer lui-même\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jean Jaques Mercier fait un grand Commerce en Chamoiserie & peaux travaillées de toute espèce, qu'il fait fabriquer lui-même; c'est un hom-\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "49",
+  "running_head": "LAUSANNE.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "LAUSANNE. 49"
+   },
+   {
+    "n": 2,
+    "text": "Monsieur"
+   },
+   {
+    "n": 3,
+    "text": "Isaac Sauvage,"
+   },
+   {
+    "n": 4,
+    "text": "Francillon, Veuve, &"
+   },
+   {
+    "n": 5,
+    "text": "Fils, } Ferretiers."
+   },
+   {
+    "n": 6,
+    "text": "Ulmer,"
+   },
+   {
+    "n": 7,
+    "text": "Roquemolle,"
+   },
+   {
+    "n": 8,
+    "text": "Pluger, Fabricant de Chandelles."
+   },
+   {
+    "n": 9,
+    "text": "Froidevau, } tiennent des Magazins de Soie-"
+   },
+   {
+    "n": 10,
+    "text": "André Bellamy } ries & Etoffes en gros & en"
+   },
+   {
+    "n": 11,
+    "text": "& Comp. } détail."
+   },
+   {
+    "n": 12,
+    "text": "Mad. Barrat,"
+   },
+   {
+    "n": 13,
+    "text": "Mesd. Bujard,"
+   },
+   {
+    "n": 14,
+    "text": "Mad. Lunel,"
+   },
+   {
+    "n": 15,
+    "text": "Johannot née Mas-"
+   },
+   {
+    "n": 16,
+    "text": "mejean, } March. de Mode."
+   },
+   {
+    "n": 17,
+    "text": "Bailly née Oboussier,"
+   },
+   {
+    "n": 18,
+    "text": "Rochat au Pont,"
+   },
+   {
+    "n": 19,
+    "text": "les Sœurs Panchaud,"
+   },
+   {
+    "n": 20,
+    "text": "Mad. A. Boucherle }"
+   },
+   {
+    "n": 21,
+    "text": "née Augier. }"
+   },
+   {
+    "n": 22,
+    "text": "J. J. Collet, } Moussel. & Toiliers"
+   },
+   {
+    "n": 23,
+    "text": "Frossard Weibel, } en détail."
+   },
+   {
+    "n": 24,
+    "text": "Em. Houser, }"
+   },
+   {
+    "n": 25,
+    "text": "Tillmann, }"
+   },
+   {
+    "n": 26,
+    "text": "Allaman, } Apoticaires."
+   },
+   {
+    "n": 27,
+    "text": "Jean Jaques Mercier fait un grand Com-"
+   },
+   {
+    "n": 28,
+    "text": "merce en Chamoiserie & peaux travaillées de toute"
+   },
+   {
+    "n": 29,
+    "text": "espèce, qu'il fait fabriquer lui-même; c'est un hom-"
+   },
+   {
+    "n": 30,
+    "text": "D"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Monsieur / Ferretiers",
+    "place": "Lausanne",
+    "surname": "Sauvage",
+    "forename": "Isaac",
+    "title": "",
+    "occupation": "Ferretiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Monsieur Isaac Sauvage, Ferretiers."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "firma",
+    "heading": "Monsieur / Ferretiers",
+    "place": "Lausanne",
+    "surname": "Francillon",
+    "forename": "",
+    "title": "Veuve, & Fils",
+    "occupation": "Ferretiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Francillon, Veuve, & Fils, Ferretiers."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Monsieur / Ferretiers",
+    "place": "Lausanne",
+    "surname": "Ulmer",
+    "forename": "",
+    "title": "",
+    "occupation": "Ferretiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ulmer, Ferretiers."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Monsieur / Ferretiers",
+    "place": "Lausanne",
+    "surname": "Roquemolle",
+    "forename": "",
+    "title": "",
+    "occupation": "Ferretiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Roquemolle, Ferretiers."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Monsieur",
+    "place": "Lausanne",
+    "surname": "Pluger",
+    "forename": "",
+    "title": "",
+    "occupation": "Fabricant de Chandelles",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pluger, Fabricant de Chandelles."
+   },
+   {
+    "line_from": 9,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Monsieur",
+    "place": "Lausanne",
+    "surname": "Froidevau",
+    "forename": "",
+    "title": "",
+    "occupation": "tiennent des Magazins de Soieries & Etoffes en gros & en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Froidevau, tiennent des Magazins de Soieries & Etoffes en gros & en détail."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Monsieur",
+    "place": "Lausanne",
+    "surname": "Bellamy",
+    "forename": "André",
+    "title": "& Comp.",
+    "occupation": "tiennent des Magazins de Soieries & Etoffes en gros & en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "André Bellamy & Comp. tiennent des Magazins de Soieries & Etoffes en gros & en détail."
+   },
+   {
+    "line_from": 12,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "March. de Mode",
+    "place": "Lausanne",
+    "surname": "Barrat",
+    "forename": "",
+    "title": "Mad.",
+    "occupation": "March. de Mode",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mad. Barrat, March. de Mode."
+   },
+   {
+    "line_from": 13,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "March. de Mode",
+    "place": "Lausanne",
+    "surname": "Bujard",
+    "forename": "",
+    "title": "Mesd.",
+    "occupation": "March. de Mode",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mesd. Bujard, March. de Mode."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "March. de Mode",
+    "place": "Lausanne",
+    "surname": "Lunel",
+    "forename": "",
+    "title": "Mad.",
+    "occupation": "March. de Mode",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mad. Lunel, March. de Mode."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "March. de Mode",
+    "place": "Lausanne",
+    "surname": "Johannot",
+    "forename": "",
+    "title": "",
+    "occupation": "March. de Mode",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "née Masmejean",
+    "text": "Johannot née Masmejean, March. de Mode."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "March. de Mode",
+    "place": "Lausanne",
+    "surname": "Bailly",
+    "forename": "",
+    "title": "",
+    "occupation": "March. de Mode",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "née Oboussier",
+    "text": "Bailly née Oboussier, March. de Mode."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "March. de Mode",
+    "place": "Lausanne",
+    "surname": "Rochat",
+    "forename": "",
+    "title": "",
+    "occupation": "March. de Mode",
+    "address": "au Pont",
+    "quarter": "",
+    "street": "au Pont",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rochat au Pont, March. de Mode."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "March. de Mode",
+    "place": "Lausanne",
+    "surname": "Panchaud",
+    "forename": "",
+    "title": "les Sœurs",
+    "occupation": "March. de Mode",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "les Sœurs Panchaud, March. de Mode."
+   },
+   {
+    "line_from": 20,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Moussel. & Toiliers en détail",
+    "place": "Lausanne",
+    "surname": "Boucherle",
+    "forename": "A.",
+    "title": "Mad.",
+    "occupation": "Moussel. & Toiliers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "née Augier",
+    "text": "Mad. A. Boucherle née Augier. Moussel. & Toiliers en détail."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Moussel. & Toiliers en détail",
+    "place": "Lausanne",
+    "surname": "Collet",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "Moussel. & Toiliers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. J. Collet, Moussel. & Toiliers en détail."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Moussel. & Toiliers en détail",
+    "place": "Lausanne",
+    "surname": "Frossard Weibel",
+    "forename": "",
+    "title": "",
+    "occupation": "Moussel. & Toiliers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Frossard Weibel, Moussel. & Toiliers en détail."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Moussel. & Toiliers en détail",
+    "place": "Lausanne",
+    "surname": "Houser",
+    "forename": "Em.",
+    "title": "",
+    "occupation": "Moussel. & Toiliers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Em. Houser, Moussel. & Toiliers en détail."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Apoticaires",
+    "place": "Lausanne",
+    "surname": "Tillmann",
+    "forename": "",
+    "title": "",
+    "occupation": "Apoticaires",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tillmann, Apoticaires."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Apoticaires",
+    "place": "Lausanne",
+    "surname": "Allaman",
+    "forename": "",
+    "title": "",
+    "occupation": "Apoticaires",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Allaman, Apoticaires."
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Mercier",
+    "forename": "Jean Jaques",
+    "title": "",
+    "occupation": "fait un grand Commerce en Chamoiserie & peaux travaillées de toute espèce, qu'il fait fabriquer lui-même",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jean Jaques Mercier fait un grand Commerce en Chamoiserie & peaux travaillées de toute espèce, qu'il fait fabriquer lui-même; c'est un hom-"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:10:53+01:00",
+ "last_error": null
+}

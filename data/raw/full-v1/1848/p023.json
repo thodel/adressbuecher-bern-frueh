@@ -1,0 +1,417 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 23,
+ "section": "einsassen",
+ "started": "2026-11-10T21:48:32+01:00",
+ "thinking": "low",
+ "seconds": 22.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3759,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"10\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"10\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Baumgartner.\"},\n    {\"n\": 4, \"text\": \"1 809 Johannes, Tuchhändler, a. Trub - III, 73.\"},\n    {\"n\": 5, \"text\": \"812 Fr. - Maria Marg. Wyttenbach a. Kirchdorf.\"},\n    {\"n\": 6, \"text\": \"3 K. - 839 Maria Karoline. - 40 Karl Rudolf. -\"},\n    {\"n\": 7, \"text\": \"42 Fanny.\"},\n    {\"n\": 8, \"text\": \"Becher.\"},\n    {\"n\": 9, \"text\": \"1 798 Anna, geb. Schlapbach, Käshändlerin, a. Steffis-\"},\n    {\"n\": 10, \"text\": \"burg - II, 39.\"},\n    {\"n\": 11, \"text\": \"2 K. - 823 Jakob Friedr., Handelscommis. - 34 Maria\"},\n    {\"n\": 12, \"text\": \"Elisabetha.\"},\n    {\"n\": 13, \"text\": \"Bechter.\"},\n    {\"n\": 14, \"text\": \"1 805 Joh. Peter, Gypser, a. Hittisau in Oesterreich - II, 195.\"},\n    {\"n\": 15, \"text\": \"Beetschen.\"},\n    {\"n\": 16, \"text\": \"1 812 Johannes, Schreiner, a. Lenk - II, 162.\"},\n    {\"n\": 17, \"text\": \"Fr. - Anna Graber a. Oberburg, Strohhutputzerin.\"},\n    {\"n\": 18, \"text\": \"1 S. - 838 Joh. Phil. Jakob.\"},\n    {\"n\": 19, \"text\": \"Bein.\"},\n    {\"n\": 20, \"text\": \"1 Georg Philipp, Wollenwaarenhändler, a. Kuffstadt im\"},\n    {\"n\": 21, \"text\": \"Tyrol - IV, 175.\"},\n    {\"n\": 22, \"text\": \"805 Fr. - Maria Standl.\"},\n    {\"n\": 23, \"text\": \"1 T. - 840 Bertha.\"},\n    {\"n\": 24, \"text\": \"Beck.\"},\n    {\"n\": 25, \"text\": \"1 u. 2 807 Ulrich u. 813 Andreas, Gebrüder, Leinwandhändler, a.\"},\n    {\"n\": 26, \"text\": \"Sumiswald - III, 68.\"},\n    {\"n\": 27, \"text\": \"3 793 Maria, geb. Rufener, a. Radelfingen, Gastgeberin a. d.\"},\n    {\"n\": 28, \"text\": \"Brückfeldwirthshause, Gottl. d. Hufschmieds Ehefrau.\"},\n    {\"n\": 29, \"text\": \"3 S. - 832 Aug. Eduard. - 34 Albr. Jakob Ferdinand.\"},\n    {\"n\": 30, \"text\": \"36 Karl.\"},\n    {\"n\": 31, \"text\": \"4 820 Eduard, Relifarbeiter, a. Bruchsal, GH. Baden - IV, 10.\"},\n    {\"n\": 32, \"text\": \"Becker.\"},\n    {\"n\": 33, \"text\": \"1 Johann Simon, Spielzeughändler, a. Bauern, GH.\"},\n    {\"n\": 34, \"text\": \"Baden - IV, 177.\"},\n    {\"n\": 35, \"text\": \"Fr. - Magdalena Stuffleser.\"},\n    {\"n\": 36, \"text\": \"Bellmond.\"},\n    {\"n\": 37, \"text\": \"1 764 Karl Gottlieb, gew. Postkassier, a. Ependes, K. Waadt\"},\n    {\"n\": 38, \"text\": \"- VI, 47.\"},\n    {\"n\": 39, \"text\": \"Bender.\"},\n    {\"n\": 40, \"text\": \"1 808 Georg, Schneider, a. Buzwyler im Elsaß - I, 148.\"},\n    {\"n\": 41, \"text\": \"802 Fr. - Elisabetha Wyß a. Saanen.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Baumgartner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumgartner\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Tuchhändler\",\n      \"address\": \"III, 73\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"73\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1809\",\n      \"household\": \"812 Fr. - Maria Marg. Wyttenbach a. Kirchdorf. 3 K. - 839 Maria Karoline. - 40 Karl Rudolf. - 42 Fanny.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Johannes, Tuchhändler, a. Trub - III, 73. 812 Fr. - Maria Marg. Wyttenbach a. Kirchdorf. 3 K. - 839 Maria Karoline. - 40 Karl Rudolf. - 42 Fanny.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Becher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Becher\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Käshändlerin\",\n      \"address\": \"II, 39\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"39\",\n      \"origin\": \"Steffisburg\",\n      \"birth_year\": \"1798\",\n      \"household\": \"geb. Schlapbach; 2 K. - 823 Jakob Friedr., Handelscommis. - 34 Maria Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 798 Anna, geb. Schlapbach, Käshändlerin, a. Steffisburg - II, 39. 2 K. - 823 Jakob Friedr., Handelscommis. - 34 Maria Elisabetha.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Bechter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bechter\",\n      \"forename\": \"Joh. Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Gypser\",\n      \"address\": \"II, 195\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"195\",\n      \"origin\": \"Hittisau in Oesterreich\",\n      \"birth_year\": \"1805\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Joh. Peter, Gypser, a. Hittisau in Oesterreich - II, 195.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Beetschen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Beetschen\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"II, 162\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"162\",\n      \"origin\": \"Lenk\",\n      \"birth_year\": \"1812\",\n      \"household\": \"Fr. - Anna Graber a. Oberburg, Strohhutputzerin. 1 S. - 838 Joh. Phil. Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Johannes, Schreiner, a. Lenk - II, 162. Fr. - Anna Graber a. Oberburg, Strohhutputzerin. 1 S. - 838 Joh. Phil. Jakob.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Bein.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bein\",\n      \"forename\": \"Georg Philipp\",\n      \"title\": \"\",\n      \"occupation\": \"Wollenwaarenhändler\",\n      \"address\": \"IV, 175\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"175\",\n      \"origin\": \"Kuffstadt im Tyrol\",\n      \"birth_year\": \"\",\n      \"household\": \"805 Fr. - Maria Standl. 1 T. - 840 Bertha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Georg Philipp, Wollenwaarenhändler, a. Kuffstadt im Tyrol - IV, 175. 805 Fr. - Maria Standl. 1 T. - 840 Bertha.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Beck.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Beck\",\n      \"forename\": \"Ulrich u. Andreas\",\n      \"title\": \"Gebrüder\",\n      \"occupation\": \"Leinwandhändler\",\n      \"address\": \"III, 68\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"68\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1807\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 u. 2 807 Ulrich u. 813 Andreas, Gebrüder, Leinwandhändler, a. Sumiswald - III, 68.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Beck.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Beck\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Gastgeberin a. d. Brückfeldwirthshause\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"Radelfingen\",\n      \"birth_year\": \"1793\",\n      \"household\": \"geb. Rufener, Gottl. d. Hufschmieds Ehefrau; 3 S. - 832 Aug. Eduard. - 34 Albr. Jakob Ferdinand. 36 Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 793 Maria, geb. Rufener, a. Radelfingen, Gastgeberin a. d. Brückfeldwirthshause, Gottl. d. Hufschmieds Ehefrau. 3 S. - 832 Aug. Eduard. - 34 Albr. Jakob Ferdinand. 36 Karl.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Beck.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Beck\",\n      \"forename\": \"Eduard\",\n      \"title\": \"\",\n      \"occupation\": \"Relifarbeiter\",\n      \"address\": \"IV, 10\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"10\",\n      \"origin\": \"Bruchsal, GH. Baden\",\n      \"birth_year\": \"1820\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 820 Eduard, Relifarbeiter, a. Bruchsal, GH. Baden - IV, 10.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Becker.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Becker\",\n      \"forename\": \"Johann Simon\",\n      \"title\": \"\",\n      \"occupation\": \"Spielzeughändler\",\n      \"address\": \"IV, 177\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"177\",\n      \"origin\": \"Bauern, GH. Baden\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. - Magdalena Stuffleser.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Johann Simon, Spielzeughändler, a. Bauern, GH. Baden - IV, 177. Fr. - Magdalena Stuffleser.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Bellmond.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bellmond\",\n      \"forename\": \"Karl Gottlieb\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Postkassier\",\n      \"address\": \"VI, 47\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"47\",\n      \"origin\": \"Ependes, K. Waadt\",\n      \"birth_year\": \"1764\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 764 Karl Gottlieb, gew. Postkassier, a. Ependes, K. Waadt - VI, 47.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Bender.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bender\",\n      \"forename\": \"Georg\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"I, 148\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"148\",\n      \"origin\": \"Buzwyler im Elsaß\",\n      \"birth_year\": \"1808\",\n      \"household\": \"802 Fr. - Elisabetha Wyß a. Saanen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 808 Georg, Schneider, a. Buzwyler im Elsaß - I, 148. 802 Fr. - Elisabetha Wyß a. Saanen.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "10",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "10"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Baumgartner."
+   },
+   {
+    "n": 4,
+    "text": "1 809 Johannes, Tuchhändler, a. Trub - III, 73."
+   },
+   {
+    "n": 5,
+    "text": "812 Fr. - Maria Marg. Wyttenbach a. Kirchdorf."
+   },
+   {
+    "n": 6,
+    "text": "3 K. - 839 Maria Karoline. - 40 Karl Rudolf. -"
+   },
+   {
+    "n": 7,
+    "text": "42 Fanny."
+   },
+   {
+    "n": 8,
+    "text": "Becher."
+   },
+   {
+    "n": 9,
+    "text": "1 798 Anna, geb. Schlapbach, Käshändlerin, a. Steffis-"
+   },
+   {
+    "n": 10,
+    "text": "burg - II, 39."
+   },
+   {
+    "n": 11,
+    "text": "2 K. - 823 Jakob Friedr., Handelscommis. - 34 Maria"
+   },
+   {
+    "n": 12,
+    "text": "Elisabetha."
+   },
+   {
+    "n": 13,
+    "text": "Bechter."
+   },
+   {
+    "n": 14,
+    "text": "1 805 Joh. Peter, Gypser, a. Hittisau in Oesterreich - II, 195."
+   },
+   {
+    "n": 15,
+    "text": "Beetschen."
+   },
+   {
+    "n": 16,
+    "text": "1 812 Johannes, Schreiner, a. Lenk - II, 162."
+   },
+   {
+    "n": 17,
+    "text": "Fr. - Anna Graber a. Oberburg, Strohhutputzerin."
+   },
+   {
+    "n": 18,
+    "text": "1 S. - 838 Joh. Phil. Jakob."
+   },
+   {
+    "n": 19,
+    "text": "Bein."
+   },
+   {
+    "n": 20,
+    "text": "1 Georg Philipp, Wollenwaarenhändler, a. Kuffstadt im"
+   },
+   {
+    "n": 21,
+    "text": "Tyrol - IV, 175."
+   },
+   {
+    "n": 22,
+    "text": "805 Fr. - Maria Standl."
+   },
+   {
+    "n": 23,
+    "text": "1 T. - 840 Bertha."
+   },
+   {
+    "n": 24,
+    "text": "Beck."
+   },
+   {
+    "n": 25,
+    "text": "1 u. 2 807 Ulrich u. 813 Andreas, Gebrüder, Leinwandhändler, a."
+   },
+   {
+    "n": 26,
+    "text": "Sumiswald - III, 68."
+   },
+   {
+    "n": 27,
+    "text": "3 793 Maria, geb. Rufener, a. Radelfingen, Gastgeberin a. d."
+   },
+   {
+    "n": 28,
+    "text": "Brückfeldwirthshause, Gottl. d. Hufschmieds Ehefrau."
+   },
+   {
+    "n": 29,
+    "text": "3 S. - 832 Aug. Eduard. - 34 Albr. Jakob Ferdinand."
+   },
+   {
+    "n": 30,
+    "text": "36 Karl."
+   },
+   {
+    "n": 31,
+    "text": "4 820 Eduard, Relifarbeiter, a. Bruchsal, GH. Baden - IV, 10."
+   },
+   {
+    "n": 32,
+    "text": "Becker."
+   },
+   {
+    "n": 33,
+    "text": "1 Johann Simon, Spielzeughändler, a. Bauern, GH."
+   },
+   {
+    "n": 34,
+    "text": "Baden - IV, 177."
+   },
+   {
+    "n": 35,
+    "text": "Fr. - Magdalena Stuffleser."
+   },
+   {
+    "n": 36,
+    "text": "Bellmond."
+   },
+   {
+    "n": 37,
+    "text": "1 764 Karl Gottlieb, gew. Postkassier, a. Ependes, K. Waadt"
+   },
+   {
+    "n": 38,
+    "text": "- VI, 47."
+   },
+   {
+    "n": 39,
+    "text": "Bender."
+   },
+   {
+    "n": 40,
+    "text": "1 808 Georg, Schneider, a. Buzwyler im Elsaß - I, 148."
+   },
+   {
+    "n": 41,
+    "text": "802 Fr. - Elisabetha Wyß a. Saanen."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Baumgartner.",
+    "place": "Bern",
+    "surname": "Baumgartner",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Tuchhändler",
+    "address": "III, 73",
+    "quarter": "III",
+    "street": "",
+    "house_no": "73",
+    "origin": "Trub",
+    "birth_year": "1809",
+    "household": "812 Fr. - Maria Marg. Wyttenbach a. Kirchdorf. 3 K. - 839 Maria Karoline. - 40 Karl Rudolf. - 42 Fanny.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Johannes, Tuchhändler, a. Trub - III, 73. 812 Fr. - Maria Marg. Wyttenbach a. Kirchdorf. 3 K. - 839 Maria Karoline. - 40 Karl Rudolf. - 42 Fanny."
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Becher.",
+    "place": "Bern",
+    "surname": "Becher",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Käshändlerin",
+    "address": "II, 39",
+    "quarter": "II",
+    "street": "",
+    "house_no": "39",
+    "origin": "Steffisburg",
+    "birth_year": "1798",
+    "household": "geb. Schlapbach; 2 K. - 823 Jakob Friedr., Handelscommis. - 34 Maria Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 798 Anna, geb. Schlapbach, Käshändlerin, a. Steffisburg - II, 39. 2 K. - 823 Jakob Friedr., Handelscommis. - 34 Maria Elisabetha."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Bechter.",
+    "place": "Bern",
+    "surname": "Bechter",
+    "forename": "Joh. Peter",
+    "title": "",
+    "occupation": "Gypser",
+    "address": "II, 195",
+    "quarter": "II",
+    "street": "",
+    "house_no": "195",
+    "origin": "Hittisau in Oesterreich",
+    "birth_year": "1805",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Joh. Peter, Gypser, a. Hittisau in Oesterreich - II, 195."
+   },
+   {
+    "line_from": 16,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Beetschen.",
+    "place": "Bern",
+    "surname": "Beetschen",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "II, 162",
+    "quarter": "II",
+    "street": "",
+    "house_no": "162",
+    "origin": "Lenk",
+    "birth_year": "1812",
+    "household": "Fr. - Anna Graber a. Oberburg, Strohhutputzerin. 1 S. - 838 Joh. Phil. Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Johannes, Schreiner, a. Lenk - II, 162. Fr. - Anna Graber a. Oberburg, Strohhutputzerin. 1 S. - 838 Joh. Phil. Jakob."
+   },
+   {
+    "line_from": 20,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Bein.",
+    "place": "Bern",
+    "surname": "Bein",
+    "forename": "Georg Philipp",
+    "title": "",
+    "occupation": "Wollenwaarenhändler",
+    "address": "IV, 175",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "175",
+    "origin": "Kuffstadt im Tyrol",
+    "birth_year": "",
+    "household": "805 Fr. - Maria Standl. 1 T. - 840 Bertha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Georg Philipp, Wollenwaarenhändler, a. Kuffstadt im Tyrol - IV, 175. 805 Fr. - Maria Standl. 1 T. - 840 Bertha."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Beck.",
+    "place": "Bern",
+    "surname": "Beck",
+    "forename": "Ulrich u. Andreas",
+    "title": "Gebrüder",
+    "occupation": "Leinwandhändler",
+    "address": "III, 68",
+    "quarter": "III",
+    "street": "",
+    "house_no": "68",
+    "origin": "Sumiswald",
+    "birth_year": "1807",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 u. 2 807 Ulrich u. 813 Andreas, Gebrüder, Leinwandhändler, a. Sumiswald - III, 68."
+   },
+   {
+    "line_from": 27,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Beck.",
+    "place": "Bern",
+    "surname": "Beck",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Gastgeberin a. d. Brückfeldwirthshause",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "Radelfingen",
+    "birth_year": "1793",
+    "household": "geb. Rufener, Gottl. d. Hufschmieds Ehefrau; 3 S. - 832 Aug. Eduard. - 34 Albr. Jakob Ferdinand. 36 Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 793 Maria, geb. Rufener, a. Radelfingen, Gastgeberin a. d. Brückfeldwirthshause, Gottl. d. Hufschmieds Ehefrau. 3 S. - 832 Aug. Eduard. - 34 Albr. Jakob Ferdinand. 36 Karl."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Beck.",
+    "place": "Bern",
+    "surname": "Beck",
+    "forename": "Eduard",
+    "title": "",
+    "occupation": "Relifarbeiter",
+    "address": "IV, 10",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "10",
+    "origin": "Bruchsal, GH. Baden",
+    "birth_year": "1820",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "4 820 Eduard, Relifarbeiter, a. Bruchsal, GH. Baden - IV, 10."
+   },
+   {
+    "line_from": 33,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Becker.",
+    "place": "Bern",
+    "surname": "Becker",
+    "forename": "Johann Simon",
+    "title": "",
+    "occupation": "Spielzeughändler",
+    "address": "IV, 177",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "177",
+    "origin": "Bauern, GH. Baden",
+    "birth_year": "",
+    "household": "Fr. - Magdalena Stuffleser.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Johann Simon, Spielzeughändler, a. Bauern, GH. Baden - IV, 177. Fr. - Magdalena Stuffleser."
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Bellmond.",
+    "place": "Bern",
+    "surname": "Bellmond",
+    "forename": "Karl Gottlieb",
+    "title": "",
+    "occupation": "gew. Postkassier",
+    "address": "VI, 47",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "47",
+    "origin": "Ependes, K. Waadt",
+    "birth_year": "1764",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 764 Karl Gottlieb, gew. Postkassier, a. Ependes, K. Waadt - VI, 47."
+   },
+   {
+    "line_from": 40,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Bender.",
+    "place": "Bern",
+    "surname": "Bender",
+    "forename": "Georg",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "I, 148",
+    "quarter": "I",
+    "street": "",
+    "house_no": "148",
+    "origin": "Buzwyler im Elsaß",
+    "birth_year": "1808",
+    "household": "802 Fr. - Elisabetha Wyß a. Saanen.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 808 Georg, Schneider, a. Buzwyler im Elsaß - I, 148. 802 Fr. - Elisabetha Wyß a. Saanen."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:48:55+01:00",
+ "last_error": null
+}

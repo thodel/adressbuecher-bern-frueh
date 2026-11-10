@@ -1,0 +1,393 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 9,
+ "section": "handbuch",
+ "started": "2026-11-10T21:09:02+01:00",
+ "thinking": "low",
+ "seconds": 20.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2303,
+  "output": 2983,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"7\",\n  \"running_head\": \"Bern.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Bern. 7\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Sammlung gebundener Bücher, kauft alte Biblio-\"},\n    {\"n\": 4, \"text\": \"theken, und hat auch Schreibmaterialien zum Ver-\"},\n    {\"n\": 5, \"text\": \"kauf: als Dinten, Papier, Sigellak, Bleystifte 2c.\"},\n    {\"n\": 6, \"text\": \"Joh. David Riß, in Hänfen- und Leinentücher,\"},\n    {\"n\": 7, \"text\": \"Schweizer- und Ostindische Mouselinhandlung.\"},\n    {\"n\": 8, \"text\": \"Roselet, Sohn, Speculations-Handlung.\"},\n    {\"n\": 9, \"text\": \"Schönsiegel, handelt mit allen Arten mi-\"},\n    {\"n\": 10, \"text\": \"neralischer Wasser 2c.\"},\n    {\"n\": 11, \"text\": \"Vinz. Schumacher, fabricirt alle Arten fei-\"},\n    {\"n\": 12, \"text\": \"ner Hüte, und handelt mit Borden.\"},\n    {\"n\": 13, \"text\": \"Sibold, Glasmagazin an der Spitalgaße.\"},\n    {\"n\": 14, \"text\": \"Joh. Rudolf Simon, Fabrikant in Seiden-\"},\n    {\"n\": 15, \"text\": \"waaren.\"},\n    {\"n\": 16, \"text\": \"Emanuel Simon, fabricirt gewalkte wollene\"},\n    {\"n\": 17, \"text\": \"Strümpfe und Guttücher en gros; (wohnt im Sul-\"},\n    {\"n\": 18, \"text\": \"genbach.)\"},\n    {\"n\": 19, \"text\": \"J. R. Simon (der jüngere) fängt an in Wol-\"},\n    {\"n\": 20, \"text\": \"lentüchern zu fabriciren.\"},\n    {\"n\": 21, \"text\": \"Rud. Sprüngli, Specerey und Farbwaaren,\"},\n    {\"n\": 22, \"text\": \"besonders in Oehl.\"},\n    {\"n\": 23, \"text\": \"Stanz und Hahn, Specerey en gros.\"},\n    {\"n\": 24, \"text\": \"Steinhäuslin und Ryff, in hier fabricie-\"},\n    {\"n\": 25, \"text\": \"renden wollenen Strümpfen, Kappen, Handschuh,\"},\n    {\"n\": 26, \"text\": \"Garn 2c. Sie haben durch Uebernahme der Strümpf-\"},\n    {\"n\": 27, \"text\": \"fabrique der Herrn Dupan und Comp. (die sich al-\"},\n    {\"n\": 28, \"text\": \"leine der Strümpf- nicht aber der Tuchfabrication\"},\n    {\"n\": 29, \"text\": \"des Wollenhandels und en gros Draperie Hand-\"},\n    {\"n\": 30, \"text\": \"A 4\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"Herr\",\n      \"occupation\": \"Sammlung gebundener Bücher, kauft alte Bibliotheken, und hat auch Schreibmaterialien zum Verkauf: als Dinten, Papier, Sigellak, Bleystifte 2c.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Sammlung gebundener Bücher, kauft alte Bibliotheken, und hat auch Schreibmaterialien zum Verkauf: als Dinten, Papier, Sigellak, Bleystifte 2c.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Riß\",\n      \"forename\": \"Joh. David\",\n      \"title\": \"\",\n      \"occupation\": \"in Hänfen- und Leinentücher, Schweizer- und Ostindische Mouselinhandlung\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. David Riß, in Hänfen- und Leinentücher, Schweizer- und Ostindische Mouselinhandlung.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Roselet\",\n      \"forename\": \"\",\n      \"title\": \"Sohn\",\n      \"occupation\": \"Speculations-Handlung\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Roselet, Sohn, Speculations-Handlung.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schönsiegel\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"handelt mit allen Arten mineralischer Wasser 2c.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schönsiegel, handelt mit allen Arten mineralischer Wasser 2c.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schumacher\",\n      \"forename\": \"Vinz.\",\n      \"title\": \"\",\n      \"occupation\": \"fabricirt alle Arten feiner Hüte, und handelt mit Borden\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Vinz. Schumacher, fabricirt alle Arten feiner Hüte, und handelt mit Borden.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sibold\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Glasmagazin\",\n      \"address\": \"an der Spitalgaße\",\n      \"quarter\": \"\",\n      \"street\": \"Spitalgaße\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sibold, Glasmagazin an der Spitalgaße.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Simon\",\n      \"forename\": \"Joh. Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrikant in Seidenwaaren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Rudolf Simon, Fabrikant in Seidenwaaren.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Simon\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"fabricirt gewalkte wollene Strümpfe und Guttücher en gros\",\n      \"address\": \"wohnt im Sulgenbach\",\n      \"quarter\": \"\",\n      \"street\": \"Sulgenbach\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Emanuel Simon, fabricirt gewalkte wollene Strümpfe und Guttücher en gros; (wohnt im Sulgenbach.)\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Simon\",\n      \"forename\": \"J. R.\",\n      \"title\": \"der jüngere\",\n      \"occupation\": \"fängt an in Wollentüchern zu fabriciren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. R. Simon (der jüngere) fängt an in Wollentüchern zu fabriciren.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sprüngli\",\n      \"forename\": \"Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Farbwaaren, besonders in Oehl\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rud. Sprüngli, Specerey und Farbwaaren, besonders in Oehl.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stanz und Hahn\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stanz und Hahn, Specerey en gros.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 29,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steinhäuslin und Ryff\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"in hier fabricierenden wollenen Strümpfen, Kappen, Handschuh, Garn 2c.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Steinhäuslin und Ryff, in hier fabricierenden wollenen Strümpfen, Kappen, Handschuh, Garn 2c. Sie haben durch Uebernahme der Strümpffabrique der Herrn Dupan und Comp. (die sich alleine der Strümpf- nicht aber der Tuchfabrication des Wollenhandels und en gros Draperie Hand-\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "7",
+  "running_head": "Bern.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Bern. 7"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Sammlung gebundener Bücher, kauft alte Biblio-"
+   },
+   {
+    "n": 4,
+    "text": "theken, und hat auch Schreibmaterialien zum Ver-"
+   },
+   {
+    "n": 5,
+    "text": "kauf: als Dinten, Papier, Sigellak, Bleystifte 2c."
+   },
+   {
+    "n": 6,
+    "text": "Joh. David Riß, in Hänfen- und Leinentücher,"
+   },
+   {
+    "n": 7,
+    "text": "Schweizer- und Ostindische Mouselinhandlung."
+   },
+   {
+    "n": 8,
+    "text": "Roselet, Sohn, Speculations-Handlung."
+   },
+   {
+    "n": 9,
+    "text": "Schönsiegel, handelt mit allen Arten mi-"
+   },
+   {
+    "n": 10,
+    "text": "neralischer Wasser 2c."
+   },
+   {
+    "n": 11,
+    "text": "Vinz. Schumacher, fabricirt alle Arten fei-"
+   },
+   {
+    "n": 12,
+    "text": "ner Hüte, und handelt mit Borden."
+   },
+   {
+    "n": 13,
+    "text": "Sibold, Glasmagazin an der Spitalgaße."
+   },
+   {
+    "n": 14,
+    "text": "Joh. Rudolf Simon, Fabrikant in Seiden-"
+   },
+   {
+    "n": 15,
+    "text": "waaren."
+   },
+   {
+    "n": 16,
+    "text": "Emanuel Simon, fabricirt gewalkte wollene"
+   },
+   {
+    "n": 17,
+    "text": "Strümpfe und Guttücher en gros; (wohnt im Sul-"
+   },
+   {
+    "n": 18,
+    "text": "genbach.)"
+   },
+   {
+    "n": 19,
+    "text": "J. R. Simon (der jüngere) fängt an in Wol-"
+   },
+   {
+    "n": 20,
+    "text": "lentüchern zu fabriciren."
+   },
+   {
+    "n": 21,
+    "text": "Rud. Sprüngli, Specerey und Farbwaaren,"
+   },
+   {
+    "n": 22,
+    "text": "besonders in Oehl."
+   },
+   {
+    "n": 23,
+    "text": "Stanz und Hahn, Specerey en gros."
+   },
+   {
+    "n": 24,
+    "text": "Steinhäuslin und Ryff, in hier fabricie-"
+   },
+   {
+    "n": 25,
+    "text": "renden wollenen Strümpfen, Kappen, Handschuh,"
+   },
+   {
+    "n": 26,
+    "text": "Garn 2c. Sie haben durch Uebernahme der Strümpf-"
+   },
+   {
+    "n": 27,
+    "text": "fabrique der Herrn Dupan und Comp. (die sich al-"
+   },
+   {
+    "n": 28,
+    "text": "leine der Strümpf- nicht aber der Tuchfabrication"
+   },
+   {
+    "n": 29,
+    "text": "des Wollenhandels und en gros Draperie Hand-"
+   },
+   {
+    "n": 30,
+    "text": "A 4"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "Herr",
+    "occupation": "Sammlung gebundener Bücher, kauft alte Bibliotheken, und hat auch Schreibmaterialien zum Verkauf: als Dinten, Papier, Sigellak, Bleystifte 2c.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Sammlung gebundener Bücher, kauft alte Bibliotheken, und hat auch Schreibmaterialien zum Verkauf: als Dinten, Papier, Sigellak, Bleystifte 2c."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Riß",
+    "forename": "Joh. David",
+    "title": "",
+    "occupation": "in Hänfen- und Leinentücher, Schweizer- und Ostindische Mouselinhandlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. David Riß, in Hänfen- und Leinentücher, Schweizer- und Ostindische Mouselinhandlung."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "firma",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Roselet",
+    "forename": "",
+    "title": "Sohn",
+    "occupation": "Speculations-Handlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Roselet, Sohn, Speculations-Handlung."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Schönsiegel",
+    "forename": "",
+    "title": "",
+    "occupation": "handelt mit allen Arten mineralischer Wasser 2c.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schönsiegel, handelt mit allen Arten mineralischer Wasser 2c."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Schumacher",
+    "forename": "Vinz.",
+    "title": "",
+    "occupation": "fabricirt alle Arten feiner Hüte, und handelt mit Borden",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Vinz. Schumacher, fabricirt alle Arten feiner Hüte, und handelt mit Borden."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Sibold",
+    "forename": "",
+    "title": "",
+    "occupation": "Glasmagazin",
+    "address": "an der Spitalgaße",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sibold, Glasmagazin an der Spitalgaße."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Simon",
+    "forename": "Joh. Rudolf",
+    "title": "",
+    "occupation": "Fabrikant in Seidenwaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Rudolf Simon, Fabrikant in Seidenwaaren."
+   },
+   {
+    "line_from": 16,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Simon",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "fabricirt gewalkte wollene Strümpfe und Guttücher en gros",
+    "address": "wohnt im Sulgenbach",
+    "quarter": "",
+    "street": "Sulgenbach",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Emanuel Simon, fabricirt gewalkte wollene Strümpfe und Guttücher en gros; (wohnt im Sulgenbach.)"
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Simon",
+    "forename": "J. R.",
+    "title": "der jüngere",
+    "occupation": "fängt an in Wollentüchern zu fabriciren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. R. Simon (der jüngere) fängt an in Wollentüchern zu fabriciren."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Sprüngli",
+    "forename": "Rud.",
+    "title": "",
+    "occupation": "Specerey und Farbwaaren, besonders in Oehl",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rud. Sprüngli, Specerey und Farbwaaren, besonders in Oehl."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "firma",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Stanz und Hahn",
+    "forename": "",
+    "title": "",
+    "occupation": "Specerey en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stanz und Hahn, Specerey en gros."
+   },
+   {
+    "line_from": 24,
+    "line_to": 29,
+    "kind": "firma",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Steinhäuslin und Ryff",
+    "forename": "",
+    "title": "",
+    "occupation": "in hier fabricierenden wollenen Strümpfen, Kappen, Handschuh, Garn 2c.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Steinhäuslin und Ryff, in hier fabricierenden wollenen Strümpfen, Kappen, Handschuh, Garn 2c. Sie haben durch Uebernahme der Strümpffabrique der Herrn Dupan und Comp. (die sich alleine der Strümpf- nicht aber der Tuchfabrication des Wollenhandels und en gros Draperie Hand-"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:09:22+01:00",
+ "last_error": null
+}

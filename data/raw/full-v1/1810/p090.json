@@ -1,0 +1,313 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 90,
+ "section": "ville",
+ "started": "2026-11-10T21:11:45+01:00",
+ "thinking": "low",
+ "seconds": 16.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2300,
+  "output": 2411,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"17\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"17\" },\n    { \"n\": 2, \"text\": \"Couteliers.\" },\n    { \"n\": 3, \"text\": \"Dünz, Nicolas. … Q. r. 84.\" },\n    { \"n\": 4, \"text\": \"Ganting, Samuel. … — j. 94.\" },\n    { \"n\": 5, \"text\": \"Müller, Dan. … — bl. 4.\" },\n    { \"n\": 6, \"text\": \"Crin.\" },\n    { \"n\": 7, \"text\": \"Lemp, Dours, Fabricant, … Q. n. 14.\" },\n    { \"n\": 8, \"text\": \"Wæchter, Abr. Fabric. Quart. d’Arzihli 10.\" },\n    { \"n\": 9, \"text\": \"Cuirs et Maroquins.\" },\n    { \"n\": 10, \"text\": \"Desgouttes et Walthard, Fabrique\" },\n    { \"n\": 11, \"text\": \"et Commerce de toutes sortes de\" },\n    { \"n\": 12, \"text\": \"cuirs et de maroquins, … Q. j. 44.\" },\n    { \"n\": 13, \"text\": \"Güiot, Commerce de Cuirs en tout\" },\n    { \"n\": 14, \"text\": \"genre. … — r. 182.\" },\n    { \"n\": 15, \"text\": \"Welthi, les Frères, Tanneurs et\" },\n    { \"n\": 16, \"text\": \"Commerce de cuirs. … — j. 140.\" },\n    { \"n\": 17, \"text\": \"Wyss, David, Fabr. et Commerce\" },\n    { \"n\": 18, \"text\": \"de cuirs et maroquins, … — j. 143.\" },\n    { \"n\": 19, \"text\": \"Cuivre.\" },\n    { \"n\": 20, \"text\": \"Jonquière, J. G. Martinet de cuivre. Q. n. 99.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Couteliers.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünz\",\n      \"forename\": \"Nicolas\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. r. 84.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"84\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dünz, Nicolas. Q. r. 84.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Couteliers.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ganting\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— j. 94.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"94\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ganting, Samuel. — j. 94.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Couteliers.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Dan.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— bl. 4.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"4\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Müller, Dan. — bl. 4.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Crin.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lemp\",\n      \"forename\": \"Dours\",\n      \"title\": \"\",\n      \"occupation\": \"Fabricant\",\n      \"address\": \"Q. n. 14.\",\n      \"quarter\": \"n.\",\n      \"street\": \"\",\n      \"house_no\": \"14\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lemp, Dours, Fabricant, Q. n. 14.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Crin.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wæchter\",\n      \"forename\": \"Abr.\",\n      \"title\": \"\",\n      \"occupation\": \"Fabric.\",\n      \"address\": \"Quart. d’Arzihli 10.\",\n      \"quarter\": \"Quart. d’Arzihli\",\n      \"street\": \"\",\n      \"house_no\": \"10\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wæchter, Abr. Fabric. Quart. d’Arzihli 10.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 12,\n      \"kind\": \"firma\",\n      \"heading\": \"Cuirs et Maroquins.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Desgouttes et Walthard\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrique et Commerce de toutes sortes de cuirs et de maroquins\",\n      \"address\": \"Q. j. 44.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"44\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Desgouttes et Walthard, Fabrique et Commerce de toutes sortes de cuirs et de maroquins, Q. j. 44.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Cuirs et Maroquins.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Güiot\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Commerce de Cuirs en tout genre\",\n      \"address\": \"— r. 182.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"182\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Güiot, Commerce de Cuirs en tout genre. — r. 182.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Cuirs et Maroquins.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Welthi\",\n      \"forename\": \"\",\n      \"title\": \"les Frères\",\n      \"occupation\": \"Tanneurs et Commerce de cuirs\",\n      \"address\": \"— j. 140.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"140\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Welthi, les Frères, Tanneurs et Commerce de cuirs. — j. 140.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Cuirs et Maroquins.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wyss\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Fabr. et Commerce de cuirs et maroquins\",\n      \"address\": \"— j. 143.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"143\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wyss, David, Fabr. et Commerce de cuirs et maroquins, — j. 143.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Cuivre.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jonquière\",\n      \"forename\": \"J. G.\",\n      \"title\": \"\",\n      \"occupation\": \"Martinet de cuivre\",\n      \"address\": \"Q. n. 99.\",\n      \"quarter\": \"n.\",\n      \"street\": \"\",\n      \"house_no\": \"99\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jonquière, J. G. Martinet de cuivre. Q. n. 99.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "17",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "17"
+   },
+   {
+    "n": 2,
+    "text": "Couteliers."
+   },
+   {
+    "n": 3,
+    "text": "Dünz, Nicolas. … Q. r. 84."
+   },
+   {
+    "n": 4,
+    "text": "Ganting, Samuel. … — j. 94."
+   },
+   {
+    "n": 5,
+    "text": "Müller, Dan. … — bl. 4."
+   },
+   {
+    "n": 6,
+    "text": "Crin."
+   },
+   {
+    "n": 7,
+    "text": "Lemp, Dours, Fabricant, … Q. n. 14."
+   },
+   {
+    "n": 8,
+    "text": "Wæchter, Abr. Fabric. Quart. d’Arzihli 10."
+   },
+   {
+    "n": 9,
+    "text": "Cuirs et Maroquins."
+   },
+   {
+    "n": 10,
+    "text": "Desgouttes et Walthard, Fabrique"
+   },
+   {
+    "n": 11,
+    "text": "et Commerce de toutes sortes de"
+   },
+   {
+    "n": 12,
+    "text": "cuirs et de maroquins, … Q. j. 44."
+   },
+   {
+    "n": 13,
+    "text": "Güiot, Commerce de Cuirs en tout"
+   },
+   {
+    "n": 14,
+    "text": "genre. … — r. 182."
+   },
+   {
+    "n": 15,
+    "text": "Welthi, les Frères, Tanneurs et"
+   },
+   {
+    "n": 16,
+    "text": "Commerce de cuirs. … — j. 140."
+   },
+   {
+    "n": 17,
+    "text": "Wyss, David, Fabr. et Commerce"
+   },
+   {
+    "n": 18,
+    "text": "de cuirs et maroquins, … — j. 143."
+   },
+   {
+    "n": 19,
+    "text": "Cuivre."
+   },
+   {
+    "n": 20,
+    "text": "Jonquière, J. G. Martinet de cuivre. Q. n. 99."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Couteliers.",
+    "place": "Bern",
+    "surname": "Dünz",
+    "forename": "Nicolas",
+    "title": "",
+    "occupation": "",
+    "address": "Q. r. 84.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "84",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dünz, Nicolas. Q. r. 84."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Couteliers.",
+    "place": "Bern",
+    "surname": "Ganting",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "— j. 94.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "94",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ganting, Samuel. — j. 94."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Couteliers.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Dan.",
+    "title": "",
+    "occupation": "",
+    "address": "— bl. 4.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "4",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müller, Dan. — bl. 4."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Crin.",
+    "place": "Bern",
+    "surname": "Lemp",
+    "forename": "Dours",
+    "title": "",
+    "occupation": "Fabricant",
+    "address": "Q. n. 14.",
+    "quarter": "n.",
+    "street": "",
+    "house_no": "14",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lemp, Dours, Fabricant, Q. n. 14."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Crin.",
+    "place": "Bern",
+    "surname": "Wæchter",
+    "forename": "Abr.",
+    "title": "",
+    "occupation": "Fabric.",
+    "address": "Quart. d’Arzihli 10.",
+    "quarter": "Quart. d’Arzihli",
+    "street": "",
+    "house_no": "10",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wæchter, Abr. Fabric. Quart. d’Arzihli 10."
+   },
+   {
+    "line_from": 10,
+    "line_to": 12,
+    "kind": "firma",
+    "heading": "Cuirs et Maroquins.",
+    "place": "Bern",
+    "surname": "Desgouttes et Walthard",
+    "forename": "",
+    "title": "",
+    "occupation": "Fabrique et Commerce de toutes sortes de cuirs et de maroquins",
+    "address": "Q. j. 44.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "44",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Desgouttes et Walthard, Fabrique et Commerce de toutes sortes de cuirs et de maroquins, Q. j. 44."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Cuirs et Maroquins.",
+    "place": "Bern",
+    "surname": "Güiot",
+    "forename": "",
+    "title": "",
+    "occupation": "Commerce de Cuirs en tout genre",
+    "address": "— r. 182.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "182",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Güiot, Commerce de Cuirs en tout genre. — r. 182."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Cuirs et Maroquins.",
+    "place": "Bern",
+    "surname": "Welthi",
+    "forename": "",
+    "title": "les Frères",
+    "occupation": "Tanneurs et Commerce de cuirs",
+    "address": "— j. 140.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "140",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Welthi, les Frères, Tanneurs et Commerce de cuirs. — j. 140."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Cuirs et Maroquins.",
+    "place": "Bern",
+    "surname": "Wyss",
+    "forename": "David",
+    "title": "",
+    "occupation": "Fabr. et Commerce de cuirs et maroquins",
+    "address": "— j. 143.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "143",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wyss, David, Fabr. et Commerce de cuirs et maroquins, — j. 143."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Cuivre.",
+    "place": "Bern",
+    "surname": "Jonquière",
+    "forename": "J. G.",
+    "title": "",
+    "occupation": "Martinet de cuivre",
+    "address": "Q. n. 99.",
+    "quarter": "n.",
+    "street": "",
+    "house_no": "99",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jonquière, J. G. Martinet de cuivre. Q. n. 99."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:12:01+01:00",
+ "last_error": null
+}

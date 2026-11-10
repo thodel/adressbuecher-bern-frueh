@@ -1,0 +1,449 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 157,
+ "section": "einsassen",
+ "started": "2026-11-10T21:56:04+01:00",
+ "thinking": "low",
+ "seconds": 23.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4223,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"144\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 144 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"3 802 David, Milchträger, a. Amsoldingen - II: 172.\"},\n    {\"n\": 4, \"text\": \"Fr. - Elis. Soltermann a. Seftigen.\"},\n    {\"n\": 5, \"text\": \"2 T. - 841 Elisabetha. - 45 Maria.\"},\n    {\"n\": 6, \"text\": \"4 805 Friedrich, Bierbrauer, a. Fahrni - VII, 156.\"},\n    {\"n\": 7, \"text\": \"801 Fr. - Magd. Stähli a. Oberhofen.\"},\n    {\"n\": 8, \"text\": \"1 S. - 825 Alex. Rud. Friedrich.\"},\n    {\"n\": 9, \"text\": \"Schnell.\"},\n    {\"n\": 10, \"text\": \"1 778 A. Maria, geb. Krummen, privat. a. Burgdorf- VII, 115.\"},\n    {\"n\": 11, \"text\": \"2 774 Samuel Ludwig, Dr. Jur. - III, 135.\"},\n    {\"n\": 12, \"text\": \"Schnepf.\"},\n    {\"n\": 13, \"text\": \"1 803 Celestine, geb. Dähner, a. Chavannes de Bogis, K. Waadt\"},\n    {\"n\": 14, \"text\": \"- IV, 15.\"},\n    {\"n\": 15, \"text\": \"3 K. - 827 Rosina. - 29 Jakob Friedrich. - 38 Julins\"},\n    {\"n\": 16, \"text\": \"Johann Peter.\"},\n    {\"n\": 17, \"text\": \"Schnyder.\"},\n    {\"n\": 18, \"text\": \"1 814 Julien Ferd., Kaufmann, Associrter der Kommissions=\"},\n    {\"n\": 19, \"text\": \"handlung Schnyder u. Gaudard, a. Neuenstadt - III, 84.\"},\n    {\"n\": 20, \"text\": \"Schoch.\"},\n    {\"n\": 21, \"text\": \"1 806 Rudolf, Gärtner, a. Fischenthal, K. Zürich - II, 185.\"},\n    {\"n\": 22, \"text\": \"804 Fr. - Maria Siegfried.\"},\n    {\"n\": 23, \"text\": \"1 T. - 840 Verena Rosa.\"},\n    {\"n\": 24, \"text\": \"2 801 Joh. Peter, Gypser, a. Krumbach in Oesterreich - II, 101.\"},\n    {\"n\": 25, \"text\": \"Schönauer a. Zäziwyl.\"},\n    {\"n\": 26, \"text\": \"1 775 Niklaus Rudolf, Degenschmied - II, 80.\"},\n    {\"n\": 27, \"text\": \"787 Fr. - Maria Dittlinger a. Bern.\"},\n    {\"n\": 28, \"text\": \"2 826 Christ. Niklaus, Buchbinder - II, 122 a.\"},\n    {\"n\": 29, \"text\": \"Schöni.\"},\n    {\"n\": 30, \"text\": \"1 812 Peter, Milchkellerhalter, a. Innerbirrmoos - V, 211.\"},\n    {\"n\": 31, \"text\": \"812 Fr. - Maria Streit, Milchhändlerin, a. Englisberg.\"},\n    {\"n\": 32, \"text\": \"1 T. - 846 Elisabetha.\"},\n    {\"n\": 33, \"text\": \"2 820 Barb. Elis. u. 823 Anna Elis. Christ., Schneiderinnen,\"},\n    {\"n\": 34, \"text\": \"a. Langnau - II, 228.\"},\n    {\"n\": 35, \"text\": \"Schorer.\"},\n    {\"n\": 36, \"text\": \"1 811 Andreas, Gypser u. Maler, a. Wangen - V, 92.\"},\n    {\"n\": 37, \"text\": \"808 Fr. - Adele Philise Greter, a. Brevine.\"},\n    {\"n\": 38, \"text\": \"1 S. - 834 Andreas Alexander.\"},\n    {\"n\": 39, \"text\": \"Ot\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"II: 172\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"172\",\n      \"origin\": \"Amsoldingen\",\n      \"birth_year\": \"1802\",\n      \"household\": \"Fr. - Elis. Soltermann a. Seftigen.; 2 T. - 841 Elisabetha. - 45 Maria.\",\n      \"note\": \"\",\n      \"text\": \"3 802 David, Milchträger, a. Amsoldingen - II: 172. Fr. - Elis. Soltermann a. Seftigen. 2 T. - 841 Elisabetha. - 45 Maria.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Bierbrauer\",\n      \"address\": \"VII, 156\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"156\",\n      \"origin\": \"Fahrni\",\n      \"birth_year\": \"1805\",\n      \"household\": \"801 Fr. - Magd. Stähli a. Oberhofen.; 1 S. - 825 Alex. Rud. Friedrich.\",\n      \"note\": \"\",\n      \"text\": \"4 805 Friedrich, Bierbrauer, a. Fahrni - VII, 156. 801 Fr. - Magd. Stähli a. Oberhofen. 1 S. - 825 Alex. Rud. Friedrich.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Schnell\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schnell\",\n      \"forename\": \"A. Maria\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"VII, 115\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"115\",\n      \"origin\": \"Burgdorf\",\n      \"birth_year\": \"1778\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Krummen\",\n      \"text\": \"1 778 A. Maria, geb. Krummen, privat. a. Burgdorf- VII, 115.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Schnell\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schnell\",\n      \"forename\": \"Samuel Ludwig\",\n      \"title\": \"Dr. Jur.\",\n      \"occupation\": \"\",\n      \"address\": \"III, 135\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"135\",\n      \"origin\": \"\",\n      \"birth_year\": \"1774\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 774 Samuel Ludwig, Dr. Jur. - III, 135.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Schnepf\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schnepf\",\n      \"forename\": \"Celestine\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"IV, 15\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"15\",\n      \"origin\": \"Chavannes de Bogis, K. Waadt\",\n      \"birth_year\": \"1803\",\n      \"household\": \"3 K. - 827 Rosina. - 29 Jakob Friedrich. - 38 Julins Johann Peter.\",\n      \"note\": \"Name aus Zwischentitel; geb. Dähner\",\n      \"text\": \"1 803 Celestine, geb. Dähner, a. Chavannes de Bogis, K. Waadt - IV, 15. 3 K. - 827 Rosina. - 29 Jakob Friedrich. - 38 Julins Johann Peter.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Schnyder\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schnyder\",\n      \"forename\": \"Julien Ferd.\",\n      \"title\": \"\",\n      \"occupation\": \"Kaufmann, Associrter der Kommissionshandlung Schnyder u. Gaudard\",\n      \"address\": \"III, 84\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"84\",\n      \"origin\": \"Neuenstadt\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Julien Ferd., Kaufmann, Associrter der Kommissionshandlung Schnyder u. Gaudard, a. Neuenstadt - III, 84.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Schoch\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schoch\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Gärtner\",\n      \"address\": \"II, 185\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"185\",\n      \"origin\": \"Fischenthal, K. Zürich\",\n      \"birth_year\": \"1806\",\n      \"household\": \"804 Fr. - Maria Siegfried.; 1 T. - 840 Verena Rosa.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 806 Rudolf, Gärtner, a. Fischenthal, K. Zürich - II, 185. 804 Fr. - Maria Siegfried. 1 T. - 840 Verena Rosa.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Schoch\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schoch\",\n      \"forename\": \"Joh. Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Gypser\",\n      \"address\": \"II, 101\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"101\",\n      \"origin\": \"Krumbach in Oesterreich\",\n      \"birth_year\": \"1801\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 801 Joh. Peter, Gypser, a. Krumbach in Oesterreich - II, 101.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Schönauer a. Zäziwyl\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schönauer\",\n      \"forename\": \"Niklaus Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Degenschmied\",\n      \"address\": \"II, 80\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"80\",\n      \"origin\": \"Zäziwyl\",\n      \"birth_year\": \"1775\",\n      \"household\": \"787 Fr. - Maria Dittlinger a. Bern.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 775 Niklaus Rudolf, Degenschmied - II, 80. 787 Fr. - Maria Dittlinger a. Bern.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Schönauer a. Zäziwyl\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schönauer\",\n      \"forename\": \"Christ. Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"II, 122 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 a\",\n      \"origin\": \"Zäziwyl\",\n      \"birth_year\": \"1826\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 826 Christ. Niklaus, Buchbinder - II, 122 a.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Schöni\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schöni\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Milchkellerhalter\",\n      \"address\": \"V, 211\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"211\",\n      \"origin\": \"Innerbirrmoos\",\n      \"birth_year\": \"1812\",\n      \"household\": \"812 Fr. - Maria Streit, Milchhändlerin, a. Englisberg.; 1 T. - 846 Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Peter, Milchkellerhalter, a. Innerbirrmoos - V, 211. 812 Fr. - Maria Streit, Milchhändlerin, a. Englisberg. 1 T. - 846 Elisabetha.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Schöni\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schöni\",\n      \"forename\": \"Barb. Elis. u. Anna Elis. Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderinnen\",\n      \"address\": \"II, 228\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"228\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1820\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; Geburtsjahr Anna Elis. Christ.: 1823\",\n      \"text\": \"2 820 Barb. Elis. u. 823 Anna Elis. Christ., Schneiderinnen, a. Langnau - II, 228.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Schorer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schorer\",\n      \"forename\": \"Andreas\",\n      \"title\": \"\",\n      \"occupation\": \"Gypser u. Maler\",\n      \"address\": \"V, 92\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"92\",\n      \"origin\": \"Wangen\",\n      \"birth_year\": \"1811\",\n      \"household\": \"808 Fr. - Adele Philise Greter, a. Brevine.; 1 S. - 834 Andreas Alexander.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Andreas, Gypser u. Maler, a. Wangen - V, 92. 808 Fr. - Adele Philise Greter, a. Brevine. 1 S. - 834 Andreas Alexander.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "144",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 144 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "3 802 David, Milchträger, a. Amsoldingen - II: 172."
+   },
+   {
+    "n": 4,
+    "text": "Fr. - Elis. Soltermann a. Seftigen."
+   },
+   {
+    "n": 5,
+    "text": "2 T. - 841 Elisabetha. - 45 Maria."
+   },
+   {
+    "n": 6,
+    "text": "4 805 Friedrich, Bierbrauer, a. Fahrni - VII, 156."
+   },
+   {
+    "n": 7,
+    "text": "801 Fr. - Magd. Stähli a. Oberhofen."
+   },
+   {
+    "n": 8,
+    "text": "1 S. - 825 Alex. Rud. Friedrich."
+   },
+   {
+    "n": 9,
+    "text": "Schnell."
+   },
+   {
+    "n": 10,
+    "text": "1 778 A. Maria, geb. Krummen, privat. a. Burgdorf- VII, 115."
+   },
+   {
+    "n": 11,
+    "text": "2 774 Samuel Ludwig, Dr. Jur. - III, 135."
+   },
+   {
+    "n": 12,
+    "text": "Schnepf."
+   },
+   {
+    "n": 13,
+    "text": "1 803 Celestine, geb. Dähner, a. Chavannes de Bogis, K. Waadt"
+   },
+   {
+    "n": 14,
+    "text": "- IV, 15."
+   },
+   {
+    "n": 15,
+    "text": "3 K. - 827 Rosina. - 29 Jakob Friedrich. - 38 Julins"
+   },
+   {
+    "n": 16,
+    "text": "Johann Peter."
+   },
+   {
+    "n": 17,
+    "text": "Schnyder."
+   },
+   {
+    "n": 18,
+    "text": "1 814 Julien Ferd., Kaufmann, Associrter der Kommissions="
+   },
+   {
+    "n": 19,
+    "text": "handlung Schnyder u. Gaudard, a. Neuenstadt - III, 84."
+   },
+   {
+    "n": 20,
+    "text": "Schoch."
+   },
+   {
+    "n": 21,
+    "text": "1 806 Rudolf, Gärtner, a. Fischenthal, K. Zürich - II, 185."
+   },
+   {
+    "n": 22,
+    "text": "804 Fr. - Maria Siegfried."
+   },
+   {
+    "n": 23,
+    "text": "1 T. - 840 Verena Rosa."
+   },
+   {
+    "n": 24,
+    "text": "2 801 Joh. Peter, Gypser, a. Krumbach in Oesterreich - II, 101."
+   },
+   {
+    "n": 25,
+    "text": "Schönauer a. Zäziwyl."
+   },
+   {
+    "n": 26,
+    "text": "1 775 Niklaus Rudolf, Degenschmied - II, 80."
+   },
+   {
+    "n": 27,
+    "text": "787 Fr. - Maria Dittlinger a. Bern."
+   },
+   {
+    "n": 28,
+    "text": "2 826 Christ. Niklaus, Buchbinder - II, 122 a."
+   },
+   {
+    "n": 29,
+    "text": "Schöni."
+   },
+   {
+    "n": 30,
+    "text": "1 812 Peter, Milchkellerhalter, a. Innerbirrmoos - V, 211."
+   },
+   {
+    "n": 31,
+    "text": "812 Fr. - Maria Streit, Milchhändlerin, a. Englisberg."
+   },
+   {
+    "n": 32,
+    "text": "1 T. - 846 Elisabetha."
+   },
+   {
+    "n": 33,
+    "text": "2 820 Barb. Elis. u. 823 Anna Elis. Christ., Schneiderinnen,"
+   },
+   {
+    "n": 34,
+    "text": "a. Langnau - II, 228."
+   },
+   {
+    "n": 35,
+    "text": "Schorer."
+   },
+   {
+    "n": 36,
+    "text": "1 811 Andreas, Gypser u. Maler, a. Wangen - V, 92."
+   },
+   {
+    "n": 37,
+    "text": "808 Fr. - Adele Philise Greter, a. Brevine."
+   },
+   {
+    "n": 38,
+    "text": "1 S. - 834 Andreas Alexander."
+   },
+   {
+    "n": 39,
+    "text": "Ot"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "David",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "II: 172",
+    "quarter": "II",
+    "street": "",
+    "house_no": "172",
+    "origin": "Amsoldingen",
+    "birth_year": "1802",
+    "household": "Fr. - Elis. Soltermann a. Seftigen.; 2 T. - 841 Elisabetha. - 45 Maria.",
+    "note": "",
+    "text": "3 802 David, Milchträger, a. Amsoldingen - II: 172. Fr. - Elis. Soltermann a. Seftigen. 2 T. - 841 Elisabetha. - 45 Maria."
+   },
+   {
+    "line_from": 6,
+    "line_to": 8,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Bierbrauer",
+    "address": "VII, 156",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "156",
+    "origin": "Fahrni",
+    "birth_year": "1805",
+    "household": "801 Fr. - Magd. Stähli a. Oberhofen.; 1 S. - 825 Alex. Rud. Friedrich.",
+    "note": "",
+    "text": "4 805 Friedrich, Bierbrauer, a. Fahrni - VII, 156. 801 Fr. - Magd. Stähli a. Oberhofen. 1 S. - 825 Alex. Rud. Friedrich."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Schnell",
+    "place": "Bern",
+    "surname": "Schnell",
+    "forename": "A. Maria",
+    "title": "",
+    "occupation": "privat.",
+    "address": "VII, 115",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "115",
+    "origin": "Burgdorf",
+    "birth_year": "1778",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Krummen",
+    "text": "1 778 A. Maria, geb. Krummen, privat. a. Burgdorf- VII, 115."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Schnell",
+    "place": "Bern",
+    "surname": "Schnell",
+    "forename": "Samuel Ludwig",
+    "title": "Dr. Jur.",
+    "occupation": "",
+    "address": "III, 135",
+    "quarter": "III",
+    "street": "",
+    "house_no": "135",
+    "origin": "",
+    "birth_year": "1774",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 774 Samuel Ludwig, Dr. Jur. - III, 135."
+   },
+   {
+    "line_from": 13,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Schnepf",
+    "place": "Bern",
+    "surname": "Schnepf",
+    "forename": "Celestine",
+    "title": "",
+    "occupation": "",
+    "address": "IV, 15",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "15",
+    "origin": "Chavannes de Bogis, K. Waadt",
+    "birth_year": "1803",
+    "household": "3 K. - 827 Rosina. - 29 Jakob Friedrich. - 38 Julins Johann Peter.",
+    "note": "Name aus Zwischentitel; geb. Dähner",
+    "text": "1 803 Celestine, geb. Dähner, a. Chavannes de Bogis, K. Waadt - IV, 15. 3 K. - 827 Rosina. - 29 Jakob Friedrich. - 38 Julins Johann Peter."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Schnyder",
+    "place": "Bern",
+    "surname": "Schnyder",
+    "forename": "Julien Ferd.",
+    "title": "",
+    "occupation": "Kaufmann, Associrter der Kommissionshandlung Schnyder u. Gaudard",
+    "address": "III, 84",
+    "quarter": "III",
+    "street": "",
+    "house_no": "84",
+    "origin": "Neuenstadt",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Julien Ferd., Kaufmann, Associrter der Kommissionshandlung Schnyder u. Gaudard, a. Neuenstadt - III, 84."
+   },
+   {
+    "line_from": 21,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Schoch",
+    "place": "Bern",
+    "surname": "Schoch",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Gärtner",
+    "address": "II, 185",
+    "quarter": "II",
+    "street": "",
+    "house_no": "185",
+    "origin": "Fischenthal, K. Zürich",
+    "birth_year": "1806",
+    "household": "804 Fr. - Maria Siegfried.; 1 T. - 840 Verena Rosa.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 806 Rudolf, Gärtner, a. Fischenthal, K. Zürich - II, 185. 804 Fr. - Maria Siegfried. 1 T. - 840 Verena Rosa."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Schoch",
+    "place": "Bern",
+    "surname": "Schoch",
+    "forename": "Joh. Peter",
+    "title": "",
+    "occupation": "Gypser",
+    "address": "II, 101",
+    "quarter": "II",
+    "street": "",
+    "house_no": "101",
+    "origin": "Krumbach in Oesterreich",
+    "birth_year": "1801",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 801 Joh. Peter, Gypser, a. Krumbach in Oesterreich - II, 101."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Schönauer a. Zäziwyl",
+    "place": "Bern",
+    "surname": "Schönauer",
+    "forename": "Niklaus Rudolf",
+    "title": "",
+    "occupation": "Degenschmied",
+    "address": "II, 80",
+    "quarter": "II",
+    "street": "",
+    "house_no": "80",
+    "origin": "Zäziwyl",
+    "birth_year": "1775",
+    "household": "787 Fr. - Maria Dittlinger a. Bern.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 775 Niklaus Rudolf, Degenschmied - II, 80. 787 Fr. - Maria Dittlinger a. Bern."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Schönauer a. Zäziwyl",
+    "place": "Bern",
+    "surname": "Schönauer",
+    "forename": "Christ. Niklaus",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "II, 122 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 a",
+    "origin": "Zäziwyl",
+    "birth_year": "1826",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 826 Christ. Niklaus, Buchbinder - II, 122 a."
+   },
+   {
+    "line_from": 30,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Schöni",
+    "place": "Bern",
+    "surname": "Schöni",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Milchkellerhalter",
+    "address": "V, 211",
+    "quarter": "V",
+    "street": "",
+    "house_no": "211",
+    "origin": "Innerbirrmoos",
+    "birth_year": "1812",
+    "household": "812 Fr. - Maria Streit, Milchhändlerin, a. Englisberg.; 1 T. - 846 Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Peter, Milchkellerhalter, a. Innerbirrmoos - V, 211. 812 Fr. - Maria Streit, Milchhändlerin, a. Englisberg. 1 T. - 846 Elisabetha."
+   },
+   {
+    "line_from": 33,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Schöni",
+    "place": "Bern",
+    "surname": "Schöni",
+    "forename": "Barb. Elis. u. Anna Elis. Christ.",
+    "title": "",
+    "occupation": "Schneiderinnen",
+    "address": "II, 228",
+    "quarter": "II",
+    "street": "",
+    "house_no": "228",
+    "origin": "Langnau",
+    "birth_year": "1820",
+    "household": "",
+    "note": "Name aus Zwischentitel; Geburtsjahr Anna Elis. Christ.: 1823",
+    "text": "2 820 Barb. Elis. u. 823 Anna Elis. Christ., Schneiderinnen, a. Langnau - II, 228."
+   },
+   {
+    "line_from": 36,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Schorer",
+    "place": "Bern",
+    "surname": "Schorer",
+    "forename": "Andreas",
+    "title": "",
+    "occupation": "Gypser u. Maler",
+    "address": "V, 92",
+    "quarter": "V",
+    "street": "",
+    "house_no": "92",
+    "origin": "Wangen",
+    "birth_year": "1811",
+    "household": "808 Fr. - Adele Philise Greter, a. Brevine.; 1 S. - 834 Andreas Alexander.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Andreas, Gypser u. Maler, a. Wangen - V, 92. 808 Fr. - Adele Philise Greter, a. Brevine. 1 S. - 834 Andreas Alexander."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:56:28+01:00",
+ "last_error": null
+}

@@ -1,0 +1,241 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 127,
+ "section": "canton",
+ "started": "2026-11-10T21:13:07+01:00",
+ "thinking": "low",
+ "seconds": 11.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2305,
+  "output": 1581,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"54\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"54\" },\n    { \"n\": 2, \"text\": \"Hasli.\" },\n    { \"n\": 3, \"text\": \"Widmer, Chrétien, Fabricant de linge de\" },\n    { \"n\": 4, \"text\": \"table.\" },\n    { \"n\": 5, \"text\": \"Hindelbank.\" },\n    { \"n\": 6, \"text\": \"Siegenthaler, Jean, Fromages.\" },\n    { \"n\": 7, \"text\": \"Préfecture de Buren.\" },\n    { \"n\": 8, \"text\": \"Buren.\" },\n    { \"n\": 9, \"text\": \"Kocher, J. Jaques, Commerce de Vin.\" },\n    { \"n\": 10, \"text\": \"Kohler, Jean, Commerce de Vin.\" },\n    { \"n\": 11, \"text\": \"Préfecture de Cerlier.\" },\n    { \"n\": 12, \"text\": \"Anet.\" },\n    { \"n\": 13, \"text\": \"Probst, Jaques, Commerce de Vin.\" },\n    { \"n\": 14, \"text\": \"Cerlier.\" },\n    { \"n\": 15, \"text\": \"Mæschberger, Ulric, Etoffes, Mercerie, Epi-\" },\n    { \"n\": 16, \"text\": \"cerie.\" },\n    { \"n\": 17, \"text\": \"Siegeri, Jaques, Etoffes diverses.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Hasli.\",\n      \"place\": \"Hasli\",\n      \"surname\": \"Widmer\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Fabricant de linge de table\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Widmer, Chrétien, Fabricant de linge de table.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Hindelbank.\",\n      \"place\": \"Hindelbank\",\n      \"surname\": \"Siegenthaler\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Fromages\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Siegenthaler, Jean, Fromages.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Buren. Buren.\",\n      \"place\": \"Buren\",\n      \"surname\": \"Kocher\",\n      \"forename\": \"J. Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kocher, J. Jaques, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Buren. Buren.\",\n      \"place\": \"Buren\",\n      \"surname\": \"Kohler\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kohler, Jean, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Cerlier. Anet.\",\n      \"place\": \"Anet\",\n      \"surname\": \"Probst\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Probst, Jaques, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Cerlier. Cerlier.\",\n      \"place\": \"Cerlier\",\n      \"surname\": \"Mæschberger\",\n      \"forename\": \"Ulric\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes, Mercerie, Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mæschberger, Ulric, Etoffes, Mercerie, Epicerie.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Cerlier. Cerlier.\",\n      \"place\": \"Cerlier\",\n      \"surname\": \"Siegeri\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes diverses\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Siegeri, Jaques, Etoffes diverses.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "54",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "54"
+   },
+   {
+    "n": 2,
+    "text": "Hasli."
+   },
+   {
+    "n": 3,
+    "text": "Widmer, Chrétien, Fabricant de linge de"
+   },
+   {
+    "n": 4,
+    "text": "table."
+   },
+   {
+    "n": 5,
+    "text": "Hindelbank."
+   },
+   {
+    "n": 6,
+    "text": "Siegenthaler, Jean, Fromages."
+   },
+   {
+    "n": 7,
+    "text": "Préfecture de Buren."
+   },
+   {
+    "n": 8,
+    "text": "Buren."
+   },
+   {
+    "n": 9,
+    "text": "Kocher, J. Jaques, Commerce de Vin."
+   },
+   {
+    "n": 10,
+    "text": "Kohler, Jean, Commerce de Vin."
+   },
+   {
+    "n": 11,
+    "text": "Préfecture de Cerlier."
+   },
+   {
+    "n": 12,
+    "text": "Anet."
+   },
+   {
+    "n": 13,
+    "text": "Probst, Jaques, Commerce de Vin."
+   },
+   {
+    "n": 14,
+    "text": "Cerlier."
+   },
+   {
+    "n": 15,
+    "text": "Mæschberger, Ulric, Etoffes, Mercerie, Epi-"
+   },
+   {
+    "n": 16,
+    "text": "cerie."
+   },
+   {
+    "n": 17,
+    "text": "Siegeri, Jaques, Etoffes diverses."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Hasli.",
+    "place": "Hasli",
+    "surname": "Widmer",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Fabricant de linge de table",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Widmer, Chrétien, Fabricant de linge de table."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Hindelbank.",
+    "place": "Hindelbank",
+    "surname": "Siegenthaler",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Fromages",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Siegenthaler, Jean, Fromages."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Préfecture de Buren. Buren.",
+    "place": "Buren",
+    "surname": "Kocher",
+    "forename": "J. Jaques",
+    "title": "",
+    "occupation": "Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kocher, J. Jaques, Commerce de Vin."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Préfecture de Buren. Buren.",
+    "place": "Buren",
+    "surname": "Kohler",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kohler, Jean, Commerce de Vin."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Préfecture de Cerlier. Anet.",
+    "place": "Anet",
+    "surname": "Probst",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Probst, Jaques, Commerce de Vin."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Préfecture de Cerlier. Cerlier.",
+    "place": "Cerlier",
+    "surname": "Mæschberger",
+    "forename": "Ulric",
+    "title": "",
+    "occupation": "Etoffes, Mercerie, Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mæschberger, Ulric, Etoffes, Mercerie, Epicerie."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Préfecture de Cerlier. Cerlier.",
+    "place": "Cerlier",
+    "surname": "Siegeri",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "Etoffes diverses",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Siegeri, Jaques, Etoffes diverses."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:13:19+01:00",
+ "last_error": null
+}

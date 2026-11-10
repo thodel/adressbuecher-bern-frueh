@@ -1,0 +1,369 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 21,
+ "section": "handbuch",
+ "started": "2026-11-10T21:09:32+01:00",
+ "thinking": "low",
+ "seconds": 17.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 2723,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"19\",\n  \"running_head\": \"Arburg.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Arburg. 19\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Johannes Haberstich, Trüllmeister in Entfel-\"},\n    {\"n\": 4, \"text\": \"den bey Arau, verkauft Streichen für rohe Baum-\"},\n    {\"n\": 5, \"text\": \"wolle zu kämmen, welche auf den dortigen sehr\"},\n    {\"n\": 6, \"text\": \"künstlich eingerichteten Kartenzahnmühlen gemacht\"},\n    {\"n\": 7, \"text\": \"werden. Auf Bestellungen hin verfertiget er auch\"},\n    {\"n\": 8, \"text\": \"Mühlen.\"},\n    {\"n\": 9, \"text\": \"Arburg (Stadt und Amt.)\"},\n    {\"n\": 10, \"text\": \"Hans Ulrich Bär,\"},\n    {\"n\": 11, \"text\": \"Joh. Jakob Schmid, Sohn\"},\n    {\"n\": 12, \"text\": \"Joh. Jakob Kunz,\"},\n    {\"n\": 13, \"text\": \"Jakob Großmann, } Strichwaaren-\"},\n    {\"n\": 14, \"text\": \"Samuel Bohnenblust, } Fabrikanten.\"},\n    {\"n\": 15, \"text\": \"Jakob Rüegger,\"},\n    {\"n\": 16, \"text\": \"Joh. Jakob Fehlmann, Jgr. Negot. in Hanf\"},\n    {\"n\": 17, \"text\": \"und Leinwand.\"},\n    {\"n\": 18, \"text\": \"Joh. Antoni Aerni, Spedition und Commision.\"},\n    {\"n\": 19, \"text\": \"Jakob Schmid, Fabrikant in wollenen Strüm-\"},\n    {\"n\": 20, \"text\": \"pfen.\"},\n    {\"n\": 21, \"text\": \"Joh. Jakob Schmid, Verwalter der Kupfer-\"},\n    {\"n\": 22, \"text\": \"hammerschmidten, welche der Gemeinde gehört.\"},\n    {\"n\": 23, \"text\": \"David Egg, Eisenhammerschmid.\"},\n    {\"n\": 24, \"text\": \"B 2\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg\",\n      \"place\": \"Entfelden bey Arau\",\n      \"surname\": \"Haberstich\",\n      \"forename\": \"Johannes\",\n      \"title\": \"Herr\",\n      \"occupation\": \"Trüllmeister\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Johannes Haberstich, Trüllmeister in Entfelden bey Arau, verkauft Streichen für rohe Baumwolle zu kämmen, welche auf den dortigen sehr künstlich eingerichteten Kartenzahnmühlen gemacht werden. Auf Bestellungen hin verfertiget er auch Mühlen.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Bär\",\n      \"forename\": \"Hans Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Strichwaaren-Fabrikant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hans Ulrich Bär, Strichwaaren-Fabrikanten.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"Sohn\",\n      \"occupation\": \"Strichwaaren-Fabrikant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Schmid, Sohn, Strichwaaren-Fabrikanten.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Kunz\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Strichwaaren-Fabrikant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Kunz, Strichwaaren-Fabrikanten.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Großmann\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Strichwaaren-Fabrikant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Großmann, Strichwaaren-Fabrikanten.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Bohnenblust\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Strichwaaren-Fabrikant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Bohnenblust, Strichwaaren-Fabrikanten.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Rüegger\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Strichwaaren-Fabrikant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Rüegger, Strichwaaren-Fabrikanten.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Fehlmann\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"Jgr.\",\n      \"occupation\": \"Negot. in Hanf und Leinwand\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Fehlmann, Jgr. Negot. in Hanf und Leinwand.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Aerni\",\n      \"forename\": \"Joh. Antoni\",\n      \"title\": \"\",\n      \"occupation\": \"Spedition und Commision\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Antoni Aerni, Spedition und Commision.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrikant in wollenen Strümpfen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Schmid, Fabrikant in wollenen Strümpfen.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Verwalter der Kupferhammerschmidten, welche der Gemeinde gehört\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Schmid, Verwalter der Kupferhammerschmidten, welche der Gemeinde gehört.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Arburg (Stadt und Amt.)\",\n      \"place\": \"Arburg\",\n      \"surname\": \"Egg\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Eisenhammerschmid\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"David Egg, Eisenhammerschmid.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "19",
+  "running_head": "Arburg.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Arburg. 19"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Johannes Haberstich, Trüllmeister in Entfel-"
+   },
+   {
+    "n": 4,
+    "text": "den bey Arau, verkauft Streichen für rohe Baum-"
+   },
+   {
+    "n": 5,
+    "text": "wolle zu kämmen, welche auf den dortigen sehr"
+   },
+   {
+    "n": 6,
+    "text": "künstlich eingerichteten Kartenzahnmühlen gemacht"
+   },
+   {
+    "n": 7,
+    "text": "werden. Auf Bestellungen hin verfertiget er auch"
+   },
+   {
+    "n": 8,
+    "text": "Mühlen."
+   },
+   {
+    "n": 9,
+    "text": "Arburg (Stadt und Amt.)"
+   },
+   {
+    "n": 10,
+    "text": "Hans Ulrich Bär,"
+   },
+   {
+    "n": 11,
+    "text": "Joh. Jakob Schmid, Sohn"
+   },
+   {
+    "n": 12,
+    "text": "Joh. Jakob Kunz,"
+   },
+   {
+    "n": 13,
+    "text": "Jakob Großmann, } Strichwaaren-"
+   },
+   {
+    "n": 14,
+    "text": "Samuel Bohnenblust, } Fabrikanten."
+   },
+   {
+    "n": 15,
+    "text": "Jakob Rüegger,"
+   },
+   {
+    "n": 16,
+    "text": "Joh. Jakob Fehlmann, Jgr. Negot. in Hanf"
+   },
+   {
+    "n": 17,
+    "text": "und Leinwand."
+   },
+   {
+    "n": 18,
+    "text": "Joh. Antoni Aerni, Spedition und Commision."
+   },
+   {
+    "n": 19,
+    "text": "Jakob Schmid, Fabrikant in wollenen Strüm-"
+   },
+   {
+    "n": 20,
+    "text": "pfen."
+   },
+   {
+    "n": 21,
+    "text": "Joh. Jakob Schmid, Verwalter der Kupfer-"
+   },
+   {
+    "n": 22,
+    "text": "hammerschmidten, welche der Gemeinde gehört."
+   },
+   {
+    "n": 23,
+    "text": "David Egg, Eisenhammerschmid."
+   },
+   {
+    "n": 24,
+    "text": "B 2"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Arburg",
+    "place": "Entfelden bey Arau",
+    "surname": "Haberstich",
+    "forename": "Johannes",
+    "title": "Herr",
+    "occupation": "Trüllmeister",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Johannes Haberstich, Trüllmeister in Entfelden bey Arau, verkauft Streichen für rohe Baumwolle zu kämmen, welche auf den dortigen sehr künstlich eingerichteten Kartenzahnmühlen gemacht werden. Auf Bestellungen hin verfertiget er auch Mühlen."
+   },
+   {
+    "line_from": 10,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Bär",
+    "forename": "Hans Ulrich",
+    "title": "",
+    "occupation": "Strichwaaren-Fabrikant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hans Ulrich Bär, Strichwaaren-Fabrikanten."
+   },
+   {
+    "line_from": 11,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Schmid",
+    "forename": "Joh. Jakob",
+    "title": "Sohn",
+    "occupation": "Strichwaaren-Fabrikant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Schmid, Sohn, Strichwaaren-Fabrikanten."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Kunz",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Strichwaaren-Fabrikant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Kunz, Strichwaaren-Fabrikanten."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Großmann",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Strichwaaren-Fabrikant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Großmann, Strichwaaren-Fabrikanten."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Bohnenblust",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Strichwaaren-Fabrikant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Bohnenblust, Strichwaaren-Fabrikanten."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Rüegger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Strichwaaren-Fabrikant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Rüegger, Strichwaaren-Fabrikanten."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Fehlmann",
+    "forename": "Joh. Jakob",
+    "title": "Jgr.",
+    "occupation": "Negot. in Hanf und Leinwand",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Fehlmann, Jgr. Negot. in Hanf und Leinwand."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Aerni",
+    "forename": "Joh. Antoni",
+    "title": "",
+    "occupation": "Spedition und Commision",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Antoni Aerni, Spedition und Commision."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Schmid",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Fabrikant in wollenen Strümpfen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Schmid, Fabrikant in wollenen Strümpfen."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Schmid",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Verwalter der Kupferhammerschmidten, welche der Gemeinde gehört",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Schmid, Verwalter der Kupferhammerschmidten, welche der Gemeinde gehört."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Arburg (Stadt und Amt.)",
+    "place": "Arburg",
+    "surname": "Egg",
+    "forename": "David",
+    "title": "",
+    "occupation": "Eisenhammerschmid",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "David Egg, Eisenhammerschmid."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:09:50+01:00",
+ "last_error": null
+}

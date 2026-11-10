@@ -1,0 +1,377 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 65,
+ "section": "einsassen",
+ "started": "2026-11-10T21:50:58+01:00",
+ "thinking": "low",
+ "seconds": 22.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3455,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"52\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 52 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Gosteli.\"},\n    {\"n\": 4, \"text\": \"1 799 Johannes, Schuhmacher, a. Bolligen - IV, 57.\"},\n    {\"n\": 5, \"text\": \"797 Fr. - Anna Barbara Aeschlimann a. Langnau.\"},\n    {\"n\": 6, \"text\": \"Gottschall.\"},\n    {\"n\": 7, \"text\": \"1 800 Jakob Rudolf, Schreiber, a. Kirchdorf - V, 75.\"},\n    {\"n\": 8, \"text\": \"799 Fr. - Maria Katharina Schenk, Näherin.\"},\n    {\"n\": 9, \"text\": \"4 K. - 828 Anna Ros. - 31 Ferdinand Jakob. - 37\"},\n    {\"n\": 10, \"text\": \"Friedr. Christ. Rud. - 40 Jakob Johann Friedrich.\"},\n    {\"n\": 11, \"text\": \"Graber.\"},\n    {\"n\": 12, \"text\": \"1 809 Kaspar, Schreiner, a. Sigriswyl - II, 263 c.\"},\n    {\"n\": 13, \"text\": \"804 Fr. - Elis. Tschiegg, bern. Landsassin.\"},\n    {\"n\": 14, \"text\": \"Gräf, a. Chevroux, K. Waadt.\"},\n    {\"n\": 15, \"text\": \"1 787 Ludwig Heinrich, Schreiner - IV, 136.\"},\n    {\"n\": 16, \"text\": \"2 Katharina, geb. v. Bergen, Barbiererin, W. - VI, 54.\"},\n    {\"n\": 17, \"text\": \"1 S. - 827 Rudolf Peter.\"},\n    {\"n\": 18, \"text\": \"Gräflein.\"},\n    {\"n\": 19, \"text\": \"1 804 Hans Jakob, Schuhmacher, a. Steckborn, K. Thurgau\"},\n    {\"n\": 20, \"text\": \"- VII, 184.\"},\n    {\"n\": 21, \"text\": \"796 Fr. - Kath. Sprunger a. Oberwangen, K. Thurgau.\"},\n    {\"n\": 22, \"text\": \"Gräve.\"},\n    {\"n\": 23, \"text\": \"1 Anna Marg. Helena, geb. Chevalier, Bierschenkerin, a.\"},\n    {\"n\": 24, \"text\": \"Landau, W. - IV, 121.\"},\n    {\"n\": 25, \"text\": \"1 T. - 829 Emma.\"},\n    {\"n\": 26, \"text\": \"Graf.\"},\n    {\"n\": 27, \"text\": \"1 800 Niklaus, Schneider, a. Häutligen, W. - II, 165.\"},\n    {\"n\": 28, \"text\": \"1 S. - 833 Niklaus Emanuel.\"},\n    {\"n\": 29, \"text\": \"Graydon.\"},\n    {\"n\": 30, \"text\": \"1 791 James Nevenham, Bibelverkäufer, a. England - II, 183.\"},\n    {\"n\": 31, \"text\": \"Fr. - Elisabetha Acton.\"},\n    {\"n\": 32, \"text\": \"Greif.\"},\n    {\"n\": 33, \"text\": \"1 777 J. Konrad, Kommissionär u. Lumpenhändler, a. Rheinau,\"},\n    {\"n\": 34, \"text\": \"K. Zürich - II, 174.\"},\n    {\"n\": 35, \"text\": \"784 Fr. - Cäcil. Schmid a. Untersikingen.\"},\n    {\"n\": 36, \"text\": \"1 T. - 822 Maria Mathilde.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Gosteli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gosteli\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 57\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"57\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1799\",\n      \"household\": \"797 Fr. - Anna Barbara Aeschlimann a. Langnau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Johannes, Schuhmacher, a. Bolligen - IV, 57. 797 Fr. - Anna Barbara Aeschlimann a. Langnau.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Gottschall.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gottschall\",\n      \"forename\": \"Jakob Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"V, 75\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"Kirchdorf\",\n      \"birth_year\": \"1800\",\n      \"household\": \"799 Fr. - Maria Katharina Schenk, Näherin. 4 K. - 828 Anna Ros. - 31 Ferdinand Jakob. - 37 Friedr. Christ. Rud. - 40 Jakob Johann Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 800 Jakob Rudolf, Schreiber, a. Kirchdorf - V, 75. 799 Fr. - Maria Katharina Schenk, Näherin. 4 K. - 828 Anna Ros. - 31 Ferdinand Jakob. - 37 Friedr. Christ. Rud. - 40 Jakob Johann Friedrich.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Graber.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Graber\",\n      \"forename\": \"Kaspar\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"II, 263 c\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"263 c\",\n      \"origin\": \"Sigriswyl\",\n      \"birth_year\": \"1809\",\n      \"household\": \"804 Fr. - Elis. Tschiegg, bern. Landsassin.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Kaspar, Schreiner, a. Sigriswyl - II, 263 c. 804 Fr. - Elis. Tschiegg, bern. Landsassin.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Gräf, a. Chevroux, K. Waadt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gräf\",\n      \"forename\": \"Ludwig Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"IV, 136\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"136\",\n      \"origin\": \"Chevroux, K. Waadt\",\n      \"birth_year\": \"1787\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 787 Ludwig Heinrich, Schreiner - IV, 136.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Gräf, a. Chevroux, K. Waadt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gräf\",\n      \"forename\": \"Katharina\",\n      \"title\": \"W.\",\n      \"occupation\": \"Barbiererin\",\n      \"address\": \"VI, 54\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"54\",\n      \"origin\": \"Chevroux, K. Waadt\",\n      \"birth_year\": \"\",\n      \"household\": \"1 S. - 827 Rudolf Peter.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel; geb. v. Bergen\",\n      \"text\": \"2 Katharina, geb. v. Bergen, Barbiererin, W. - VI, 54. 1 S. - 827 Rudolf Peter.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Gräflein.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gräflein\",\n      \"forename\": \"Hans Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"VII, 184\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"184\",\n      \"origin\": \"Steckborn, K. Thurgau\",\n      \"birth_year\": \"1804\",\n      \"household\": \"796 Fr. - Kath. Sprunger a. Oberwangen, K. Thurgau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Hans Jakob, Schuhmacher, a. Steckborn, K. Thurgau - VII, 184. 796 Fr. - Kath. Sprunger a. Oberwangen, K. Thurgau.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Gräve.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gräve\",\n      \"forename\": \"Anna Marg. Helena\",\n      \"title\": \"W.\",\n      \"occupation\": \"Bierschenkerin\",\n      \"address\": \"IV, 121\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"121\",\n      \"origin\": \"Landau\",\n      \"birth_year\": \"\",\n      \"household\": \"1 T. - 829 Emma.\",\n      \"note\": \"Name aus Zwischentitel; geb. Chevalier\",\n      \"text\": \"1 Anna Marg. Helena, geb. Chevalier, Bierschenkerin, a. Landau, W. - IV, 121. 1 T. - 829 Emma.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Graf.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Graf\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"W.\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"II, 165\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"165\",\n      \"origin\": \"Häutligen\",\n      \"birth_year\": \"1800\",\n      \"household\": \"1 S. - 833 Niklaus Emanuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 800 Niklaus, Schneider, a. Häutligen, W. - II, 165. 1 S. - 833 Niklaus Emanuel.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Graydon.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Graydon\",\n      \"forename\": \"James Nevenham\",\n      \"title\": \"\",\n      \"occupation\": \"Bibelverkäufer\",\n      \"address\": \"II, 183\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"183\",\n      \"origin\": \"England\",\n      \"birth_year\": \"1791\",\n      \"household\": \"Fr. - Elisabetha Acton.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 791 James Nevenham, Bibelverkäufer, a. England - II, 183. Fr. - Elisabetha Acton.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Greif.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Greif\",\n      \"forename\": \"J. Konrad\",\n      \"title\": \"\",\n      \"occupation\": \"Kommissionär u. Lumpenhändler\",\n      \"address\": \"II, 174\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"174\",\n      \"origin\": \"Rheinau, K. Zürich\",\n      \"birth_year\": \"1777\",\n      \"household\": \"784 Fr. - Cäcil. Schmid a. Untersikingen. 1 T. - 822 Maria Mathilde.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 777 J. Konrad, Kommissionär u. Lumpenhändler, a. Rheinau, K. Zürich - II, 174. 784 Fr. - Cäcil. Schmid a. Untersikingen. 1 T. - 822 Maria Mathilde.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "52",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 52 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Gosteli."
+   },
+   {
+    "n": 4,
+    "text": "1 799 Johannes, Schuhmacher, a. Bolligen - IV, 57."
+   },
+   {
+    "n": 5,
+    "text": "797 Fr. - Anna Barbara Aeschlimann a. Langnau."
+   },
+   {
+    "n": 6,
+    "text": "Gottschall."
+   },
+   {
+    "n": 7,
+    "text": "1 800 Jakob Rudolf, Schreiber, a. Kirchdorf - V, 75."
+   },
+   {
+    "n": 8,
+    "text": "799 Fr. - Maria Katharina Schenk, Näherin."
+   },
+   {
+    "n": 9,
+    "text": "4 K. - 828 Anna Ros. - 31 Ferdinand Jakob. - 37"
+   },
+   {
+    "n": 10,
+    "text": "Friedr. Christ. Rud. - 40 Jakob Johann Friedrich."
+   },
+   {
+    "n": 11,
+    "text": "Graber."
+   },
+   {
+    "n": 12,
+    "text": "1 809 Kaspar, Schreiner, a. Sigriswyl - II, 263 c."
+   },
+   {
+    "n": 13,
+    "text": "804 Fr. - Elis. Tschiegg, bern. Landsassin."
+   },
+   {
+    "n": 14,
+    "text": "Gräf, a. Chevroux, K. Waadt."
+   },
+   {
+    "n": 15,
+    "text": "1 787 Ludwig Heinrich, Schreiner - IV, 136."
+   },
+   {
+    "n": 16,
+    "text": "2 Katharina, geb. v. Bergen, Barbiererin, W. - VI, 54."
+   },
+   {
+    "n": 17,
+    "text": "1 S. - 827 Rudolf Peter."
+   },
+   {
+    "n": 18,
+    "text": "Gräflein."
+   },
+   {
+    "n": 19,
+    "text": "1 804 Hans Jakob, Schuhmacher, a. Steckborn, K. Thurgau"
+   },
+   {
+    "n": 20,
+    "text": "- VII, 184."
+   },
+   {
+    "n": 21,
+    "text": "796 Fr. - Kath. Sprunger a. Oberwangen, K. Thurgau."
+   },
+   {
+    "n": 22,
+    "text": "Gräve."
+   },
+   {
+    "n": 23,
+    "text": "1 Anna Marg. Helena, geb. Chevalier, Bierschenkerin, a."
+   },
+   {
+    "n": 24,
+    "text": "Landau, W. - IV, 121."
+   },
+   {
+    "n": 25,
+    "text": "1 T. - 829 Emma."
+   },
+   {
+    "n": 26,
+    "text": "Graf."
+   },
+   {
+    "n": 27,
+    "text": "1 800 Niklaus, Schneider, a. Häutligen, W. - II, 165."
+   },
+   {
+    "n": 28,
+    "text": "1 S. - 833 Niklaus Emanuel."
+   },
+   {
+    "n": 29,
+    "text": "Graydon."
+   },
+   {
+    "n": 30,
+    "text": "1 791 James Nevenham, Bibelverkäufer, a. England - II, 183."
+   },
+   {
+    "n": 31,
+    "text": "Fr. - Elisabetha Acton."
+   },
+   {
+    "n": 32,
+    "text": "Greif."
+   },
+   {
+    "n": 33,
+    "text": "1 777 J. Konrad, Kommissionär u. Lumpenhändler, a. Rheinau,"
+   },
+   {
+    "n": 34,
+    "text": "K. Zürich - II, 174."
+   },
+   {
+    "n": 35,
+    "text": "784 Fr. - Cäcil. Schmid a. Untersikingen."
+   },
+   {
+    "n": 36,
+    "text": "1 T. - 822 Maria Mathilde."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Gosteli.",
+    "place": "Bern",
+    "surname": "Gosteli",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 57",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "57",
+    "origin": "Bolligen",
+    "birth_year": "1799",
+    "household": "797 Fr. - Anna Barbara Aeschlimann a. Langnau.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Johannes, Schuhmacher, a. Bolligen - IV, 57. 797 Fr. - Anna Barbara Aeschlimann a. Langnau."
+   },
+   {
+    "line_from": 7,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Gottschall.",
+    "place": "Bern",
+    "surname": "Gottschall",
+    "forename": "Jakob Rudolf",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "V, 75",
+    "quarter": "V",
+    "street": "",
+    "house_no": "75",
+    "origin": "Kirchdorf",
+    "birth_year": "1800",
+    "household": "799 Fr. - Maria Katharina Schenk, Näherin. 4 K. - 828 Anna Ros. - 31 Ferdinand Jakob. - 37 Friedr. Christ. Rud. - 40 Jakob Johann Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 800 Jakob Rudolf, Schreiber, a. Kirchdorf - V, 75. 799 Fr. - Maria Katharina Schenk, Näherin. 4 K. - 828 Anna Ros. - 31 Ferdinand Jakob. - 37 Friedr. Christ. Rud. - 40 Jakob Johann Friedrich."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Graber.",
+    "place": "Bern",
+    "surname": "Graber",
+    "forename": "Kaspar",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "II, 263 c",
+    "quarter": "II",
+    "street": "",
+    "house_no": "263 c",
+    "origin": "Sigriswyl",
+    "birth_year": "1809",
+    "household": "804 Fr. - Elis. Tschiegg, bern. Landsassin.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Kaspar, Schreiner, a. Sigriswyl - II, 263 c. 804 Fr. - Elis. Tschiegg, bern. Landsassin."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Gräf, a. Chevroux, K. Waadt.",
+    "place": "Bern",
+    "surname": "Gräf",
+    "forename": "Ludwig Heinrich",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "IV, 136",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "136",
+    "origin": "Chevroux, K. Waadt",
+    "birth_year": "1787",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 787 Ludwig Heinrich, Schreiner - IV, 136."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Gräf, a. Chevroux, K. Waadt.",
+    "place": "Bern",
+    "surname": "Gräf",
+    "forename": "Katharina",
+    "title": "W.",
+    "occupation": "Barbiererin",
+    "address": "VI, 54",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "54",
+    "origin": "Chevroux, K. Waadt",
+    "birth_year": "",
+    "household": "1 S. - 827 Rudolf Peter.",
+    "note": "Name und Herkunft aus Zwischentitel; geb. v. Bergen",
+    "text": "2 Katharina, geb. v. Bergen, Barbiererin, W. - VI, 54. 1 S. - 827 Rudolf Peter."
+   },
+   {
+    "line_from": 19,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Gräflein.",
+    "place": "Bern",
+    "surname": "Gräflein",
+    "forename": "Hans Jakob",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "VII, 184",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "184",
+    "origin": "Steckborn, K. Thurgau",
+    "birth_year": "1804",
+    "household": "796 Fr. - Kath. Sprunger a. Oberwangen, K. Thurgau.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Hans Jakob, Schuhmacher, a. Steckborn, K. Thurgau - VII, 184. 796 Fr. - Kath. Sprunger a. Oberwangen, K. Thurgau."
+   },
+   {
+    "line_from": 23,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Gräve.",
+    "place": "Bern",
+    "surname": "Gräve",
+    "forename": "Anna Marg. Helena",
+    "title": "W.",
+    "occupation": "Bierschenkerin",
+    "address": "IV, 121",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "121",
+    "origin": "Landau",
+    "birth_year": "",
+    "household": "1 T. - 829 Emma.",
+    "note": "Name aus Zwischentitel; geb. Chevalier",
+    "text": "1 Anna Marg. Helena, geb. Chevalier, Bierschenkerin, a. Landau, W. - IV, 121. 1 T. - 829 Emma."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Graf.",
+    "place": "Bern",
+    "surname": "Graf",
+    "forename": "Niklaus",
+    "title": "W.",
+    "occupation": "Schneider",
+    "address": "II, 165",
+    "quarter": "II",
+    "street": "",
+    "house_no": "165",
+    "origin": "Häutligen",
+    "birth_year": "1800",
+    "household": "1 S. - 833 Niklaus Emanuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 800 Niklaus, Schneider, a. Häutligen, W. - II, 165. 1 S. - 833 Niklaus Emanuel."
+   },
+   {
+    "line_from": 30,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Graydon.",
+    "place": "Bern",
+    "surname": "Graydon",
+    "forename": "James Nevenham",
+    "title": "",
+    "occupation": "Bibelverkäufer",
+    "address": "II, 183",
+    "quarter": "II",
+    "street": "",
+    "house_no": "183",
+    "origin": "England",
+    "birth_year": "1791",
+    "household": "Fr. - Elisabetha Acton.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 791 James Nevenham, Bibelverkäufer, a. England - II, 183. Fr. - Elisabetha Acton."
+   },
+   {
+    "line_from": 33,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Greif.",
+    "place": "Bern",
+    "surname": "Greif",
+    "forename": "J. Konrad",
+    "title": "",
+    "occupation": "Kommissionär u. Lumpenhändler",
+    "address": "II, 174",
+    "quarter": "II",
+    "street": "",
+    "house_no": "174",
+    "origin": "Rheinau, K. Zürich",
+    "birth_year": "1777",
+    "household": "784 Fr. - Cäcil. Schmid a. Untersikingen. 1 T. - 822 Maria Mathilde.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 777 J. Konrad, Kommissionär u. Lumpenhändler, a. Rheinau, K. Zürich - II, 174. 784 Fr. - Cäcil. Schmid a. Untersikingen. 1 T. - 822 Maria Mathilde."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:51:21+01:00",
+ "last_error": null
+}

@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -98,6 +99,10 @@ def main() -> None:
             row.update({k: clean(e.get(k)) for k in FIELDS})
             if inherited:
                 row["note"] = "; ".join(x for x in (row["note"], inherited) if x)
+            if vol == "1848" and row["kind"] == "person" and not row["surname"] and row["heading"]:
+                # Haushalt oben auf der Seite: Familienname steht als Zwischentitel auf der Vorseite
+                row["surname"] = re.split(r"\s+a\.\s", row["heading"])[0].strip(" .")
+                row["note"] = "; ".join(x for x in (row["note"], "Name aus Zwischentitel der Vorseite") if x)
             row.update({"continues": cont, "text": clean(e.get("text")), "erara_url": erara,
                         "reader": rec.get("model"), "run": args.run})
             entries_out.append(row)

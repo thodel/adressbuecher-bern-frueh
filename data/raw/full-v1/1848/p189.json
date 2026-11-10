@@ -1,0 +1,501 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 189,
+ "section": "neue_einsassen",
+ "started": "2026-11-10T21:58:00+01:00",
+ "thinking": "low",
+ "seconds": 30.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2437,
+  "output": 4911,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"176\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 176 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"10 801 Elisabetha, geb. Soltermann, des Pächters Wittwe, a.\"},\n    {\"n\": 4, \"text\": \"Außerbirrmoos — VII, 114.\"},\n    {\"n\": 5, \"text\": \"4 K. — 832 Niklaus. — 33 Magdalena. — 35 Friedrich.\"},\n    {\"n\": 6, \"text\": \"— 36 Elisabetha.\"},\n    {\"n\": 7, \"text\": \"11 817 Georg Gustav, Schreiber, a. Trub — V, 75.\"},\n    {\"n\": 8, \"text\": \"820 Fr. — Elis. Steiner a. Oberwyl, K. Solothurn.\"},\n    {\"n\": 9, \"text\": \"12 809 Niklaus, Milchträger, a. Außerbirrmoos — I, 115.\"},\n    {\"n\": 10, \"text\": \"818 Fr. — Elis. Reusser.\"},\n    {\"n\": 11, \"text\": \"4 K. — 840 Johann. — 42 Anna. — 43 Elisabetha. —\"},\n    {\"n\": 12, \"text\": \"45 Magdalena.\"},\n    {\"n\": 13, \"text\": \"13 804 Rudolf Emanuel, Angestellter auf dem Stempelamt, a.\"},\n    {\"n\": 14, \"text\": \"Trub, B. v. 14 — V, 148.\"},\n    {\"n\": 15, \"text\": \"14 801 Maria Margaretha, Schw. v. 13.\"},\n    {\"n\": 16, \"text\": \"Wolf.\"},\n    {\"n\": 17, \"text\": \"1 814 Christian, Schuhmacher, a. Spiez — IV, 264.\"},\n    {\"n\": 18, \"text\": \"1 S. — 841 Joh. Jakob.\"},\n    {\"n\": 19, \"text\": \"2 789 Bernhard, Handelsmann, a. Oberhagenthal — II, 230.\"},\n    {\"n\": 20, \"text\": \"796 Fr. — Agatha Levi.\"},\n    {\"n\": 21, \"text\": \"1 S. — 832 Felix.\"},\n    {\"n\": 22, \"text\": \"3 820 Heinrich, Schriftsetzer u. Krämer, a. Darmstadt — II, 71.\"},\n    {\"n\": 23, \"text\": \"807 Fr. — Elis. Bolliger a. Wittwyl, K. Aargau.\"},\n    {\"n\": 24, \"text\": \"2 K. — 845 Amalie Louise. — 47 Joh. Simon.\"},\n    {\"n\": 25, \"text\": \"Woodtli.\"},\n    {\"n\": 26, \"text\": \"1 814 Johann, Schreiner, a. Oftringen, K. Aargau — VII, 117.\"},\n    {\"n\": 27, \"text\": \"813 Fr. — Elis. Beck a. Sumiswald.\"},\n    {\"n\": 28, \"text\": \"2 T. — 839 Elisabetha. — 42 Katharina.\"},\n    {\"n\": 29, \"text\": \"Woog.\"},\n    {\"n\": 30, \"text\": \"1 767 Borrach, Handelsmann mit Tuchwaaren, a. Buschwyler\"},\n    {\"n\": 31, \"text\": \"in Frankreich — III, 78.\"},\n    {\"n\": 32, \"text\": \"Fr. — Keyen Levi a. Blozheim.\"},\n    {\"n\": 33, \"text\": \"3 S. — Nr. 2, Naphtali und Samuel.\"},\n    {\"n\": 34, \"text\": \"2 812 Moses, S. u. Associirter v. 1 — III, 78.\"},\n    {\"n\": 35, \"text\": \"3 Benjamin, Antiquar, a. Oberhagenthal in Frankreich\"},\n    {\"n\": 36, \"text\": \"— II, 163.\"},\n    {\"n\": 37, \"text\": \"Fr. — Genoveva Ullmann a. Sierenz im Elsaß.\"},\n    {\"n\": 38, \"text\": \"4 K. — Aus I Ehe: 821 Maria Anna. — 24 Jakob. —\"},\n    {\"n\": 39, \"text\": \"Aus II Ehe: 26 Isaak. — 32 Gustav.\"},\n    {\"n\": 40, \"text\": \"Wüscher.\"},\n    {\"n\": 41, \"text\": \"1 815 Jakob, Kürschner, a. Schaffhausen — IV, 254.\"},\n    {\"n\": 42, \"text\": \"815 Fr. — Louise Ith a. Bern.\"},\n    {\"n\": 43, \"text\": \"4 K. — 842 Karl Konrad Alphons. — 43 Maria Louise\"},\n    {\"n\": 44, \"text\": \"Ida. — 45 Sophie Helena Mathilde. — 48 Eleon. Adele.\"},\n    {\"n\": 45, \"text\": \"Wüthrich.\"},\n    {\"n\": 46, \"text\": \"1 786 Rudolf, Schuhmacher, a. Trub — II, 118.\"},\n    {\"n\": 47, \"text\": \"1 S. aus II Ehe. — 823 Jakob Christ. Friedrich.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"des Pächters Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"VII, 114\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"114\",\n      \"origin\": \"Außerbirrmoos\",\n      \"birth_year\": \"1801\",\n      \"household\": \"4 K. — 832 Niklaus. — 33 Magdalena. — 35 Friedrich. — 36 Elisabetha.\",\n      \"note\": \"geb. Soltermann\",\n      \"text\": \"10 801 Elisabetha, geb. Soltermann, des Pächters Wittwe, a. Außerbirrmoos — VII, 114. 4 K. — 832 Niklaus. — 33 Magdalena. — 35 Friedrich. — 36 Elisabetha.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Georg Gustav\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"V, 75\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1817\",\n      \"household\": \"820 Fr. — Elis. Steiner a. Oberwyl, K. Solothurn.\",\n      \"note\": \"\",\n      \"text\": \"11 817 Georg Gustav, Schreiber, a. Trub — V, 75. 820 Fr. — Elis. Steiner a. Oberwyl, K. Solothurn.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"I, 115\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"115\",\n      \"origin\": \"Außerbirrmoos\",\n      \"birth_year\": \"1809\",\n      \"household\": \"818 Fr. — Elis. Reusser. 4 K. — 840 Johann. — 42 Anna. — 43 Elisabetha. — 45 Magdalena.\",\n      \"note\": \"\",\n      \"text\": \"12 809 Niklaus, Milchträger, a. Außerbirrmoos — I, 115. 818 Fr. — Elis. Reusser. 4 K. — 840 Johann. — 42 Anna. — 43 Elisabetha. — 45 Magdalena.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Rudolf Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Angestellter auf dem Stempelamt\",\n      \"address\": \"V, 148\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"148\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1804\",\n      \"household\": \"\",\n      \"note\": \"B. v. 14\",\n      \"text\": \"13 804 Rudolf Emanuel, Angestellter auf dem Stempelamt, a. Trub, B. v. 14 — V, 148.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Maria Margaretha\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"1801\",\n      \"household\": \"\",\n      \"note\": \"Schw. v. 13.\",\n      \"text\": \"14 801 Maria Margaretha, Schw. v. 13.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Wolf.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wolf\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 264\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"264\",\n      \"origin\": \"Spiez\",\n      \"birth_year\": \"1814\",\n      \"household\": \"1 S. — 841 Joh. Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Christian, Schuhmacher, a. Spiez — IV, 264. 1 S. — 841 Joh. Jakob.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Wolf.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wolf\",\n      \"forename\": \"Bernhard\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"II, 230\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"230\",\n      \"origin\": \"Oberhagenthal\",\n      \"birth_year\": \"1789\",\n      \"household\": \"796 Fr. — Agatha Levi. 1 S. — 832 Felix.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 789 Bernhard, Handelsmann, a. Oberhagenthal — II, 230. 796 Fr. — Agatha Levi. 1 S. — 832 Felix.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Wolf.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wolf\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schriftsetzer u. Krämer\",\n      \"address\": \"II, 71\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"71\",\n      \"origin\": \"Darmstadt\",\n      \"birth_year\": \"1820\",\n      \"household\": \"807 Fr. — Elis. Bolliger a. Wittwyl, K. Aargau. 2 K. — 845 Amalie Louise. — 47 Joh. Simon.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 820 Heinrich, Schriftsetzer u. Krämer, a. Darmstadt — II, 71. 807 Fr. — Elis. Bolliger a. Wittwyl, K. Aargau. 2 K. — 845 Amalie Louise. — 47 Joh. Simon.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Woodtli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Woodtli\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"VII, 117\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"117\",\n      \"origin\": \"Oftringen, K. Aargau\",\n      \"birth_year\": \"1814\",\n      \"household\": \"813 Fr. — Elis. Beck a. Sumiswald. 2 T. — 839 Elisabetha. — 42 Katharina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Johann, Schreiner, a. Oftringen, K. Aargau — VII, 117. 813 Fr. — Elis. Beck a. Sumiswald. 2 T. — 839 Elisabetha. — 42 Katharina.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Woog.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Woog\",\n      \"forename\": \"Borrach\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann mit Tuchwaaren\",\n      \"address\": \"III, 78\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"78\",\n      \"origin\": \"Buschwyler in Frankreich\",\n      \"birth_year\": \"1767\",\n      \"household\": \"Fr. — Keyen Levi a. Blozheim. 3 S. — Nr. 2, Naphtali und Samuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 767 Borrach, Handelsmann mit Tuchwaaren, a. Buschwyler in Frankreich — III, 78. Fr. — Keyen Levi a. Blozheim. 3 S. — Nr. 2, Naphtali und Samuel.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Woog.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Woog\",\n      \"forename\": \"Moses\",\n      \"title\": \"\",\n      \"occupation\": \"Associirter v. 1\",\n      \"address\": \"III, 78\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"78\",\n      \"origin\": \"\",\n      \"birth_year\": \"1812\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; S. u. Associirter v. 1\",\n      \"text\": \"2 812 Moses, S. u. Associirter v. 1 — III, 78.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Woog.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Woog\",\n      \"forename\": \"Benjamin\",\n      \"title\": \"\",\n      \"occupation\": \"Antiquar\",\n      \"address\": \"II, 163\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"163\",\n      \"origin\": \"Oberhagenthal in Frankreich\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. — Genoveva Ullmann a. Sierenz im Elsaß. 4 K. — Aus I Ehe: 821 Maria Anna. — 24 Jakob. — Aus II Ehe: 26 Isaak. — 32 Gustav.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 Benjamin, Antiquar, a. Oberhagenthal in Frankreich — II, 163. Fr. — Genoveva Ullmann a. Sierenz im Elsaß. 4 K. — Aus I Ehe: 821 Maria Anna. — 24 Jakob. — Aus II Ehe: 26 Isaak. — 32 Gustav.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Wüscher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wüscher\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Kürschner\",\n      \"address\": \"IV, 254\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"254\",\n      \"origin\": \"Schaffhausen\",\n      \"birth_year\": \"1815\",\n      \"household\": \"815 Fr. — Louise Ith a. Bern. 4 K. — 842 Karl Konrad Alphons. — 43 Maria Louise Ida. — 45 Sophie Helena Mathilde. — 48 Eleon. Adele.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 815 Jakob, Kürschner, a. Schaffhausen — IV, 254. 815 Fr. — Louise Ith a. Bern. 4 K. — 842 Karl Konrad Alphons. — 43 Maria Louise Ida. — 45 Sophie Helena Mathilde. — 48 Eleon. Adele.\"\n    },\n    {\n      \"line_from\": 46,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Wüthrich.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wüthrich\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 118\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"118\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1786\",\n      \"household\": \"1 S. aus II Ehe. — 823 Jakob Christ. Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 786 Rudolf, Schuhmacher, a. Trub — II, 118. 1 S. aus II Ehe. — 823 Jakob Christ. Friedrich.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "176",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 176 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "10 801 Elisabetha, geb. Soltermann, des Pächters Wittwe, a."
+   },
+   {
+    "n": 4,
+    "text": "Außerbirrmoos — VII, 114."
+   },
+   {
+    "n": 5,
+    "text": "4 K. — 832 Niklaus. — 33 Magdalena. — 35 Friedrich."
+   },
+   {
+    "n": 6,
+    "text": "— 36 Elisabetha."
+   },
+   {
+    "n": 7,
+    "text": "11 817 Georg Gustav, Schreiber, a. Trub — V, 75."
+   },
+   {
+    "n": 8,
+    "text": "820 Fr. — Elis. Steiner a. Oberwyl, K. Solothurn."
+   },
+   {
+    "n": 9,
+    "text": "12 809 Niklaus, Milchträger, a. Außerbirrmoos — I, 115."
+   },
+   {
+    "n": 10,
+    "text": "818 Fr. — Elis. Reusser."
+   },
+   {
+    "n": 11,
+    "text": "4 K. — 840 Johann. — 42 Anna. — 43 Elisabetha. —"
+   },
+   {
+    "n": 12,
+    "text": "45 Magdalena."
+   },
+   {
+    "n": 13,
+    "text": "13 804 Rudolf Emanuel, Angestellter auf dem Stempelamt, a."
+   },
+   {
+    "n": 14,
+    "text": "Trub, B. v. 14 — V, 148."
+   },
+   {
+    "n": 15,
+    "text": "14 801 Maria Margaretha, Schw. v. 13."
+   },
+   {
+    "n": 16,
+    "text": "Wolf."
+   },
+   {
+    "n": 17,
+    "text": "1 814 Christian, Schuhmacher, a. Spiez — IV, 264."
+   },
+   {
+    "n": 18,
+    "text": "1 S. — 841 Joh. Jakob."
+   },
+   {
+    "n": 19,
+    "text": "2 789 Bernhard, Handelsmann, a. Oberhagenthal — II, 230."
+   },
+   {
+    "n": 20,
+    "text": "796 Fr. — Agatha Levi."
+   },
+   {
+    "n": 21,
+    "text": "1 S. — 832 Felix."
+   },
+   {
+    "n": 22,
+    "text": "3 820 Heinrich, Schriftsetzer u. Krämer, a. Darmstadt — II, 71."
+   },
+   {
+    "n": 23,
+    "text": "807 Fr. — Elis. Bolliger a. Wittwyl, K. Aargau."
+   },
+   {
+    "n": 24,
+    "text": "2 K. — 845 Amalie Louise. — 47 Joh. Simon."
+   },
+   {
+    "n": 25,
+    "text": "Woodtli."
+   },
+   {
+    "n": 26,
+    "text": "1 814 Johann, Schreiner, a. Oftringen, K. Aargau — VII, 117."
+   },
+   {
+    "n": 27,
+    "text": "813 Fr. — Elis. Beck a. Sumiswald."
+   },
+   {
+    "n": 28,
+    "text": "2 T. — 839 Elisabetha. — 42 Katharina."
+   },
+   {
+    "n": 29,
+    "text": "Woog."
+   },
+   {
+    "n": 30,
+    "text": "1 767 Borrach, Handelsmann mit Tuchwaaren, a. Buschwyler"
+   },
+   {
+    "n": 31,
+    "text": "in Frankreich — III, 78."
+   },
+   {
+    "n": 32,
+    "text": "Fr. — Keyen Levi a. Blozheim."
+   },
+   {
+    "n": 33,
+    "text": "3 S. — Nr. 2, Naphtali und Samuel."
+   },
+   {
+    "n": 34,
+    "text": "2 812 Moses, S. u. Associirter v. 1 — III, 78."
+   },
+   {
+    "n": 35,
+    "text": "3 Benjamin, Antiquar, a. Oberhagenthal in Frankreich"
+   },
+   {
+    "n": 36,
+    "text": "— II, 163."
+   },
+   {
+    "n": 37,
+    "text": "Fr. — Genoveva Ullmann a. Sierenz im Elsaß."
+   },
+   {
+    "n": 38,
+    "text": "4 K. — Aus I Ehe: 821 Maria Anna. — 24 Jakob. —"
+   },
+   {
+    "n": 39,
+    "text": "Aus II Ehe: 26 Isaak. — 32 Gustav."
+   },
+   {
+    "n": 40,
+    "text": "Wüscher."
+   },
+   {
+    "n": 41,
+    "text": "1 815 Jakob, Kürschner, a. Schaffhausen — IV, 254."
+   },
+   {
+    "n": 42,
+    "text": "815 Fr. — Louise Ith a. Bern."
+   },
+   {
+    "n": 43,
+    "text": "4 K. — 842 Karl Konrad Alphons. — 43 Maria Louise"
+   },
+   {
+    "n": 44,
+    "text": "Ida. — 45 Sophie Helena Mathilde. — 48 Eleon. Adele."
+   },
+   {
+    "n": 45,
+    "text": "Wüthrich."
+   },
+   {
+    "n": 46,
+    "text": "1 786 Rudolf, Schuhmacher, a. Trub — II, 118."
+   },
+   {
+    "n": 47,
+    "text": "1 S. aus II Ehe. — 823 Jakob Christ. Friedrich."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Elisabetha",
+    "title": "des Pächters Wittwe",
+    "occupation": "",
+    "address": "VII, 114",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "114",
+    "origin": "Außerbirrmoos",
+    "birth_year": "1801",
+    "household": "4 K. — 832 Niklaus. — 33 Magdalena. — 35 Friedrich. — 36 Elisabetha.",
+    "note": "geb. Soltermann",
+    "text": "10 801 Elisabetha, geb. Soltermann, des Pächters Wittwe, a. Außerbirrmoos — VII, 114. 4 K. — 832 Niklaus. — 33 Magdalena. — 35 Friedrich. — 36 Elisabetha."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Georg Gustav",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "V, 75",
+    "quarter": "V",
+    "street": "",
+    "house_no": "75",
+    "origin": "Trub",
+    "birth_year": "1817",
+    "household": "820 Fr. — Elis. Steiner a. Oberwyl, K. Solothurn.",
+    "note": "",
+    "text": "11 817 Georg Gustav, Schreiber, a. Trub — V, 75. 820 Fr. — Elis. Steiner a. Oberwyl, K. Solothurn."
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "I, 115",
+    "quarter": "I",
+    "street": "",
+    "house_no": "115",
+    "origin": "Außerbirrmoos",
+    "birth_year": "1809",
+    "household": "818 Fr. — Elis. Reusser. 4 K. — 840 Johann. — 42 Anna. — 43 Elisabetha. — 45 Magdalena.",
+    "note": "",
+    "text": "12 809 Niklaus, Milchträger, a. Außerbirrmoos — I, 115. 818 Fr. — Elis. Reusser. 4 K. — 840 Johann. — 42 Anna. — 43 Elisabetha. — 45 Magdalena."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Rudolf Emanuel",
+    "title": "",
+    "occupation": "Angestellter auf dem Stempelamt",
+    "address": "V, 148",
+    "quarter": "V",
+    "street": "",
+    "house_no": "148",
+    "origin": "Trub",
+    "birth_year": "1804",
+    "household": "",
+    "note": "B. v. 14",
+    "text": "13 804 Rudolf Emanuel, Angestellter auf dem Stempelamt, a. Trub, B. v. 14 — V, 148."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Maria Margaretha",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "1801",
+    "household": "",
+    "note": "Schw. v. 13.",
+    "text": "14 801 Maria Margaretha, Schw. v. 13."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Wolf.",
+    "place": "Bern",
+    "surname": "Wolf",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 264",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "264",
+    "origin": "Spiez",
+    "birth_year": "1814",
+    "household": "1 S. — 841 Joh. Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Christian, Schuhmacher, a. Spiez — IV, 264. 1 S. — 841 Joh. Jakob."
+   },
+   {
+    "line_from": 19,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Wolf.",
+    "place": "Bern",
+    "surname": "Wolf",
+    "forename": "Bernhard",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "II, 230",
+    "quarter": "II",
+    "street": "",
+    "house_no": "230",
+    "origin": "Oberhagenthal",
+    "birth_year": "1789",
+    "household": "796 Fr. — Agatha Levi. 1 S. — 832 Felix.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 789 Bernhard, Handelsmann, a. Oberhagenthal — II, 230. 796 Fr. — Agatha Levi. 1 S. — 832 Felix."
+   },
+   {
+    "line_from": 22,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Wolf.",
+    "place": "Bern",
+    "surname": "Wolf",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Schriftsetzer u. Krämer",
+    "address": "II, 71",
+    "quarter": "II",
+    "street": "",
+    "house_no": "71",
+    "origin": "Darmstadt",
+    "birth_year": "1820",
+    "household": "807 Fr. — Elis. Bolliger a. Wittwyl, K. Aargau. 2 K. — 845 Amalie Louise. — 47 Joh. Simon.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 820 Heinrich, Schriftsetzer u. Krämer, a. Darmstadt — II, 71. 807 Fr. — Elis. Bolliger a. Wittwyl, K. Aargau. 2 K. — 845 Amalie Louise. — 47 Joh. Simon."
+   },
+   {
+    "line_from": 26,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Woodtli.",
+    "place": "Bern",
+    "surname": "Woodtli",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "VII, 117",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "117",
+    "origin": "Oftringen, K. Aargau",
+    "birth_year": "1814",
+    "household": "813 Fr. — Elis. Beck a. Sumiswald. 2 T. — 839 Elisabetha. — 42 Katharina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Johann, Schreiner, a. Oftringen, K. Aargau — VII, 117. 813 Fr. — Elis. Beck a. Sumiswald. 2 T. — 839 Elisabetha. — 42 Katharina."
+   },
+   {
+    "line_from": 30,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Woog.",
+    "place": "Bern",
+    "surname": "Woog",
+    "forename": "Borrach",
+    "title": "",
+    "occupation": "Handelsmann mit Tuchwaaren",
+    "address": "III, 78",
+    "quarter": "III",
+    "street": "",
+    "house_no": "78",
+    "origin": "Buschwyler in Frankreich",
+    "birth_year": "1767",
+    "household": "Fr. — Keyen Levi a. Blozheim. 3 S. — Nr. 2, Naphtali und Samuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 767 Borrach, Handelsmann mit Tuchwaaren, a. Buschwyler in Frankreich — III, 78. Fr. — Keyen Levi a. Blozheim. 3 S. — Nr. 2, Naphtali und Samuel."
+   },
+   {
+    "line_from": 34,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Woog.",
+    "place": "Bern",
+    "surname": "Woog",
+    "forename": "Moses",
+    "title": "",
+    "occupation": "Associirter v. 1",
+    "address": "III, 78",
+    "quarter": "III",
+    "street": "",
+    "house_no": "78",
+    "origin": "",
+    "birth_year": "1812",
+    "household": "",
+    "note": "Name aus Zwischentitel; S. u. Associirter v. 1",
+    "text": "2 812 Moses, S. u. Associirter v. 1 — III, 78."
+   },
+   {
+    "line_from": 35,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Woog.",
+    "place": "Bern",
+    "surname": "Woog",
+    "forename": "Benjamin",
+    "title": "",
+    "occupation": "Antiquar",
+    "address": "II, 163",
+    "quarter": "II",
+    "street": "",
+    "house_no": "163",
+    "origin": "Oberhagenthal in Frankreich",
+    "birth_year": "",
+    "household": "Fr. — Genoveva Ullmann a. Sierenz im Elsaß. 4 K. — Aus I Ehe: 821 Maria Anna. — 24 Jakob. — Aus II Ehe: 26 Isaak. — 32 Gustav.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 Benjamin, Antiquar, a. Oberhagenthal in Frankreich — II, 163. Fr. — Genoveva Ullmann a. Sierenz im Elsaß. 4 K. — Aus I Ehe: 821 Maria Anna. — 24 Jakob. — Aus II Ehe: 26 Isaak. — 32 Gustav."
+   },
+   {
+    "line_from": 41,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Wüscher.",
+    "place": "Bern",
+    "surname": "Wüscher",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Kürschner",
+    "address": "IV, 254",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "254",
+    "origin": "Schaffhausen",
+    "birth_year": "1815",
+    "household": "815 Fr. — Louise Ith a. Bern. 4 K. — 842 Karl Konrad Alphons. — 43 Maria Louise Ida. — 45 Sophie Helena Mathilde. — 48 Eleon. Adele.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 815 Jakob, Kürschner, a. Schaffhausen — IV, 254. 815 Fr. — Louise Ith a. Bern. 4 K. — 842 Karl Konrad Alphons. — 43 Maria Louise Ida. — 45 Sophie Helena Mathilde. — 48 Eleon. Adele."
+   },
+   {
+    "line_from": 46,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Wüthrich.",
+    "place": "Bern",
+    "surname": "Wüthrich",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 118",
+    "quarter": "II",
+    "street": "",
+    "house_no": "118",
+    "origin": "Trub",
+    "birth_year": "1786",
+    "household": "1 S. aus II Ehe. — 823 Jakob Christ. Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 786 Rudolf, Schuhmacher, a. Trub — II, 118. 1 S. aus II Ehe. — 823 Jakob Christ. Friedrich."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:58:31+01:00",
+ "last_error": null
+}

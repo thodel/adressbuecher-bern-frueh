@@ -100,6 +100,7 @@ def main() -> None:
     ap.add_argument("--model", default=DEFAULT_MODEL)
     ap.add_argument("--thinking", default="low", help="thinking_level (minimal/low/medium/high) oder leer")
     ap.add_argument("--workers", type=int, default=4)
+    ap.add_argument("--temperature", type=float, default=0.0, help="nur für Wiederholungen nach RECITATION-Abbruch erhöhen")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--list-models", action="store_true")
     args = ap.parse_args()
@@ -146,7 +147,7 @@ def main() -> None:
     if args.thinking:
         thinking = types.ThinkingConfig(thinking_level=getattr(types.ThinkingLevel, args.thinking.upper()))
     config = types.GenerateContentConfig(
-        temperature=0.0,
+        temperature=args.temperature,
         response_mime_type="application/json",
         max_output_tokens=65536,
         thinking_config=thinking,
@@ -163,7 +164,7 @@ def main() -> None:
         parts = [types.Part.from_bytes(data=img, mime_type="image/jpeg"), types.Part.from_text(text=prompt)]
         rec: dict = {"run": args.run, "model": args.model, "prompt_sha": prompt_sha,
                      "volume": p["volume"], "page": int(p["page"]), "section": sec["section"],
-                     "started": now(), "thinking": args.thinking}
+                     "started": now(), "thinking": args.thinking, "temperature": args.temperature}
         last_err = None
         for attempt in range(6):
             try:

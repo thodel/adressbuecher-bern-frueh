@@ -1,0 +1,481 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 161,
+ "section": "einsassen",
+ "started": "2026-11-10T21:56:21+01:00",
+ "thinking": "low",
+ "seconds": 30.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4754,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"148\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 148 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Schweizer.\"},\n    {\"n\": 4, \"text\": \"1 810 Anna, 316 Katharina u. 818 Maria, Krämerinnen, bern.\"},\n    {\"n\": 5, \"text\": \"Landsassinnen - I, 22.\"},\n    {\"n\": 6, \"text\": \"2 806 Jakob, Milchträger, a. Ringgenberg - II, 211.\"},\n    {\"n\": 7, \"text\": \"819 Fr. - Luzia Marg. Wenger a. Forst.\"},\n    {\"n\": 8, \"text\": \"2 K. - 844 Elisabetha. - 46 Niklaus.\"},\n    {\"n\": 9, \"text\": \"3 815 Joh. Heinrich, Schreiber, a. Titterten, K. Baselland -\"},\n    {\"n\": 10, \"text\": \"IV, 30 u. 31.\"},\n    {\"n\": 11, \"text\": \"811 Fr. - Elis. Leiser, Schneiderin, a. Affoltern b. A.\"},\n    {\"n\": 12, \"text\": \"1 S. - 842 Samuel Julius Heinrich.\"},\n    {\"n\": 13, \"text\": \"4 819 Niklaus, Schuhmacher, a. Lützelflüh - V, 207.\"},\n    {\"n\": 14, \"text\": \"Schwob.\"},\n    {\"n\": 15, \"text\": \"1 767 Samuel, Handelsmann, a. Buschwyler - II, 10 b.\"},\n    {\"n\": 16, \"text\": \"794 Fr. II Ehe. - Veronika Grumbach a. Buschwyler.\"},\n    {\"n\": 17, \"text\": \"5 K. - 814 Sarette. - 19 Karoline. - Rosalie. -\"},\n    {\"n\": 18, \"text\": \"Theodor. -- Louis.\"},\n    {\"n\": 19, \"text\": \"2 765 Felix, Pferdhändler, a. Buschwyler in Frankreich - II, 238.\"},\n    {\"n\": 20, \"text\": \"3 K. - 806 Liebmann. - 807 Joseph. - 15 Rosette.\"},\n    {\"n\": 21, \"text\": \"3 767 Aaron', Pferdhändler, a. Buschwyler - II, 177.\"},\n    {\"n\": 22, \"text\": \"2 K. - 816 Raphael. - Elsneer (genannt Gottlieb).\"},\n    {\"n\": 23, \"text\": \"4 806 Gottlieb, Pferdhändler, a. Buschwyler - II, 177.\"},\n    {\"n\": 24, \"text\": \"5 808 Samuel, Pferdhändler, a. Buschwyler - II, 177.\"},\n    {\"n\": 25, \"text\": \"824 Fr. - Maria Ris.\"},\n    {\"n\": 26, \"text\": \"Schwyzer.\"},\n    {\"n\": 27, \"text\": \"1 807 Jakob, Quincailleriehändler, a. Hasle b. B. - I, 171.\"},\n    {\"n\": 28, \"text\": \"787 Fr. - Anna Bähler, geb. v. Gunten.\"},\n    {\"n\": 29, \"text\": \"Seeger.\"},\n    {\"n\": 30, \"text\": \"1 785 Joh. Konrad, Schneider, a. Ermatingen, K. Thurgau\"},\n    {\"n\": 31, \"text\": \"- II, 171.\"},\n    {\"n\": 32, \"text\": \"1 T. - 810 Elis. Marg.\"},\n    {\"n\": 33, \"text\": \"Selhofer.\"},\n    {\"n\": 34, \"text\": \"1 793 Christian, Lithograph u. Grundeigenthümer, a. Gerzensee\"},\n    {\"n\": 35, \"text\": \"- I, 252.\"},\n    {\"n\": 36, \"text\": \"794 Fr. - Sus. Elis. Schneiter a. Fahrni, Kellermagd.\"},\n    {\"n\": 37, \"text\": \"4 K. - 820 Rosina. - 24 Samuel Gottlieb. - 32 Anna\"},\n    {\"n\": 38, \"text\": \"Sus. - 37 Joh. Christian.\"},\n    {\"n\": 39, \"text\": \"2 802 David, Mehlstubenhalter, a. Gisensteinviertel - V, 140.\"},\n    {\"n\": 40, \"text\": \"Sengstag.\"},\n    {\"n\": 41, \"text\": \"1 786 Jakob, Korbmacher, bern. Landsass - II, 59.\"},\n    {\"n\": 42, \"text\": \"Fr. - Magd. Bruni a. Amsoldingen.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Schweizer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schweizer\",\n      \"forename\": \"Anna, Katharina u. Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerinnen\",\n      \"address\": \"I, 22\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"22\",\n      \"origin\": \"bern. Landsassinnen\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel. Geburtsjahre: Anna 810, Katharina 816 (Druckfehler 316?), Maria 818\",\n      \"text\": \"1 810 Anna, 316 Katharina u. 818 Maria, Krämerinnen, bern. Landsassinnen - I, 22.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Schweizer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schweizer\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"II, 211\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"211\",\n      \"origin\": \"Ringgenberg\",\n      \"birth_year\": \"1806\",\n      \"household\": \"819 Fr. - Luzia Marg. Wenger a. Forst. 2 K. - 844 Elisabetha. - 46 Niklaus.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 806 Jakob, Milchträger, a. Ringgenberg - II, 211. 819 Fr. - Luzia Marg. Wenger a. Forst. 2 K. - 844 Elisabetha. - 46 Niklaus.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Schweizer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schweizer\",\n      \"forename\": \"Joh. Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"IV, 30 u. 31\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"30 u. 31\",\n      \"origin\": \"Titterten, K. Baselland\",\n      \"birth_year\": \"1815\",\n      \"household\": \"811 Fr. - Elis. Leiser, Schneiderin, a. Affoltern b. A. 1 S. - 842 Samuel Julius Heinrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 815 Joh. Heinrich, Schreiber, a. Titterten, K. Baselland - IV, 30 u. 31. 811 Fr. - Elis. Leiser, Schneiderin, a. Affoltern b. A. 1 S. - 842 Samuel Julius Heinrich.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Schweizer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schweizer\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 207\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"207\",\n      \"origin\": \"Lützelflüh\",\n      \"birth_year\": \"1819\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 819 Niklaus, Schuhmacher, a. Lützelflüh - V, 207.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Schwob.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schwob\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"II, 10 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"10 b\",\n      \"origin\": \"Buschwyler\",\n      \"birth_year\": \"1767\",\n      \"household\": \"794 Fr. II Ehe. - Veronika Grumbach a. Buschwyler. 5 K. - 814 Sarette. - 19 Karoline. - Rosalie. - Theodor. -- Louis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 767 Samuel, Handelsmann, a. Buschwyler - II, 10 b. 794 Fr. II Ehe. - Veronika Grumbach a. Buschwyler. 5 K. - 814 Sarette. - 19 Karoline. - Rosalie. - Theodor. -- Louis.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Schwob.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schwob\",\n      \"forename\": \"Felix\",\n      \"title\": \"\",\n      \"occupation\": \"Pferdhändler\",\n      \"address\": \"II, 238\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"238\",\n      \"origin\": \"Buschwyler in Frankreich\",\n      \"birth_year\": \"1765\",\n      \"household\": \"3 K. - 806 Liebmann. - 807 Joseph. - 15 Rosette.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 765 Felix, Pferdhändler, a. Buschwyler in Frankreich - II, 238. 3 K. - 806 Liebmann. - 807 Joseph. - 15 Rosette.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Schwob.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schwob\",\n      \"forename\": \"Aaron'\",\n      \"title\": \"\",\n      \"occupation\": \"Pferdhändler\",\n      \"address\": \"II, 177\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"177\",\n      \"origin\": \"Buschwyler\",\n      \"birth_year\": \"1767\",\n      \"household\": \"2 K. - 816 Raphael. - Elsneer (genannt Gottlieb).\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 767 Aaron', Pferdhändler, a. Buschwyler - II, 177. 2 K. - 816 Raphael. - Elsneer (genannt Gottlieb).\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Schwob.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schwob\",\n      \"forename\": \"Gottlieb\",\n      \"title\": \"\",\n      \"occupation\": \"Pferdhändler\",\n      \"address\": \"II, 177\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"177\",\n      \"origin\": \"Buschwyler\",\n      \"birth_year\": \"1806\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 806 Gottlieb, Pferdhändler, a. Buschwyler - II, 177.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Schwob.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schwob\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Pferdhändler\",\n      \"address\": \"II, 177\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"177\",\n      \"origin\": \"Buschwyler\",\n      \"birth_year\": \"1808\",\n      \"household\": \"824 Fr. - Maria Ris.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 808 Samuel, Pferdhändler, a. Buschwyler - II, 177. 824 Fr. - Maria Ris.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Schwyzer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schwyzer\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Quincailleriehändler\",\n      \"address\": \"I, 171\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"171\",\n      \"origin\": \"Hasle b. B.\",\n      \"birth_year\": \"1807\",\n      \"household\": \"787 Fr. - Anna Bähler, geb. v. Gunten.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Jakob, Quincailleriehändler, a. Hasle b. B. - I, 171. 787 Fr. - Anna Bähler, geb. v. Gunten.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Seeger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Seeger\",\n      \"forename\": \"Joh. Konrad\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"II, 171\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"171\",\n      \"origin\": \"Ermatingen, K. Thurgau\",\n      \"birth_year\": \"1785\",\n      \"household\": \"1 T. - 810 Elis. Marg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 785 Joh. Konrad, Schneider, a. Ermatingen, K. Thurgau - II, 171. 1 T. - 810 Elis. Marg.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Selhofer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Selhofer\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Lithograph u. Grundeigenthümer\",\n      \"address\": \"I, 252\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"252\",\n      \"origin\": \"Gerzensee\",\n      \"birth_year\": \"1793\",\n      \"household\": \"794 Fr. - Sus. Elis. Schneiter a. Fahrni, Kellermagd. 4 K. - 820 Rosina. - 24 Samuel Gottlieb. - 32 Anna Sus. - 37 Joh. Christian.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 793 Christian, Lithograph u. Grundeigenthümer, a. Gerzensee - I, 252. 794 Fr. - Sus. Elis. Schneiter a. Fahrni, Kellermagd. 4 K. - 820 Rosina. - 24 Samuel Gottlieb. - 32 Anna Sus. - 37 Joh. Christian.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Selhofer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Selhofer\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlstubenhalter\",\n      \"address\": \"V, 140\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"140\",\n      \"origin\": \"Gisensteinviertel\",\n      \"birth_year\": \"1802\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 802 David, Mehlstubenhalter, a. Gisensteinviertel - V, 140.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Sengstag.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sengstag\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Korbmacher\",\n      \"address\": \"II, 59\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"59\",\n      \"origin\": \"bern. Landsass\",\n      \"birth_year\": \"1786\",\n      \"household\": \"Fr. - Magd. Bruni a. Amsoldingen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 786 Jakob, Korbmacher, bern. Landsass - II, 59. Fr. - Magd. Bruni a. Amsoldingen.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "148",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 148 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Schweizer."
+   },
+   {
+    "n": 4,
+    "text": "1 810 Anna, 316 Katharina u. 818 Maria, Krämerinnen, bern."
+   },
+   {
+    "n": 5,
+    "text": "Landsassinnen - I, 22."
+   },
+   {
+    "n": 6,
+    "text": "2 806 Jakob, Milchträger, a. Ringgenberg - II, 211."
+   },
+   {
+    "n": 7,
+    "text": "819 Fr. - Luzia Marg. Wenger a. Forst."
+   },
+   {
+    "n": 8,
+    "text": "2 K. - 844 Elisabetha. - 46 Niklaus."
+   },
+   {
+    "n": 9,
+    "text": "3 815 Joh. Heinrich, Schreiber, a. Titterten, K. Baselland -"
+   },
+   {
+    "n": 10,
+    "text": "IV, 30 u. 31."
+   },
+   {
+    "n": 11,
+    "text": "811 Fr. - Elis. Leiser, Schneiderin, a. Affoltern b. A."
+   },
+   {
+    "n": 12,
+    "text": "1 S. - 842 Samuel Julius Heinrich."
+   },
+   {
+    "n": 13,
+    "text": "4 819 Niklaus, Schuhmacher, a. Lützelflüh - V, 207."
+   },
+   {
+    "n": 14,
+    "text": "Schwob."
+   },
+   {
+    "n": 15,
+    "text": "1 767 Samuel, Handelsmann, a. Buschwyler - II, 10 b."
+   },
+   {
+    "n": 16,
+    "text": "794 Fr. II Ehe. - Veronika Grumbach a. Buschwyler."
+   },
+   {
+    "n": 17,
+    "text": "5 K. - 814 Sarette. - 19 Karoline. - Rosalie. -"
+   },
+   {
+    "n": 18,
+    "text": "Theodor. -- Louis."
+   },
+   {
+    "n": 19,
+    "text": "2 765 Felix, Pferdhändler, a. Buschwyler in Frankreich - II, 238."
+   },
+   {
+    "n": 20,
+    "text": "3 K. - 806 Liebmann. - 807 Joseph. - 15 Rosette."
+   },
+   {
+    "n": 21,
+    "text": "3 767 Aaron', Pferdhändler, a. Buschwyler - II, 177."
+   },
+   {
+    "n": 22,
+    "text": "2 K. - 816 Raphael. - Elsneer (genannt Gottlieb)."
+   },
+   {
+    "n": 23,
+    "text": "4 806 Gottlieb, Pferdhändler, a. Buschwyler - II, 177."
+   },
+   {
+    "n": 24,
+    "text": "5 808 Samuel, Pferdhändler, a. Buschwyler - II, 177."
+   },
+   {
+    "n": 25,
+    "text": "824 Fr. - Maria Ris."
+   },
+   {
+    "n": 26,
+    "text": "Schwyzer."
+   },
+   {
+    "n": 27,
+    "text": "1 807 Jakob, Quincailleriehändler, a. Hasle b. B. - I, 171."
+   },
+   {
+    "n": 28,
+    "text": "787 Fr. - Anna Bähler, geb. v. Gunten."
+   },
+   {
+    "n": 29,
+    "text": "Seeger."
+   },
+   {
+    "n": 30,
+    "text": "1 785 Joh. Konrad, Schneider, a. Ermatingen, K. Thurgau"
+   },
+   {
+    "n": 31,
+    "text": "- II, 171."
+   },
+   {
+    "n": 32,
+    "text": "1 T. - 810 Elis. Marg."
+   },
+   {
+    "n": 33,
+    "text": "Selhofer."
+   },
+   {
+    "n": 34,
+    "text": "1 793 Christian, Lithograph u. Grundeigenthümer, a. Gerzensee"
+   },
+   {
+    "n": 35,
+    "text": "- I, 252."
+   },
+   {
+    "n": 36,
+    "text": "794 Fr. - Sus. Elis. Schneiter a. Fahrni, Kellermagd."
+   },
+   {
+    "n": 37,
+    "text": "4 K. - 820 Rosina. - 24 Samuel Gottlieb. - 32 Anna"
+   },
+   {
+    "n": 38,
+    "text": "Sus. - 37 Joh. Christian."
+   },
+   {
+    "n": 39,
+    "text": "2 802 David, Mehlstubenhalter, a. Gisensteinviertel - V, 140."
+   },
+   {
+    "n": 40,
+    "text": "Sengstag."
+   },
+   {
+    "n": 41,
+    "text": "1 786 Jakob, Korbmacher, bern. Landsass - II, 59."
+   },
+   {
+    "n": 42,
+    "text": "Fr. - Magd. Bruni a. Amsoldingen."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Schweizer.",
+    "place": "Bern",
+    "surname": "Schweizer",
+    "forename": "Anna, Katharina u. Maria",
+    "title": "",
+    "occupation": "Krämerinnen",
+    "address": "I, 22",
+    "quarter": "I",
+    "street": "",
+    "house_no": "22",
+    "origin": "bern. Landsassinnen",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel. Geburtsjahre: Anna 810, Katharina 816 (Druckfehler 316?), Maria 818",
+    "text": "1 810 Anna, 316 Katharina u. 818 Maria, Krämerinnen, bern. Landsassinnen - I, 22."
+   },
+   {
+    "line_from": 6,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Schweizer.",
+    "place": "Bern",
+    "surname": "Schweizer",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "II, 211",
+    "quarter": "II",
+    "street": "",
+    "house_no": "211",
+    "origin": "Ringgenberg",
+    "birth_year": "1806",
+    "household": "819 Fr. - Luzia Marg. Wenger a. Forst. 2 K. - 844 Elisabetha. - 46 Niklaus.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 806 Jakob, Milchträger, a. Ringgenberg - II, 211. 819 Fr. - Luzia Marg. Wenger a. Forst. 2 K. - 844 Elisabetha. - 46 Niklaus."
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Schweizer.",
+    "place": "Bern",
+    "surname": "Schweizer",
+    "forename": "Joh. Heinrich",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "IV, 30 u. 31",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "30 u. 31",
+    "origin": "Titterten, K. Baselland",
+    "birth_year": "1815",
+    "household": "811 Fr. - Elis. Leiser, Schneiderin, a. Affoltern b. A. 1 S. - 842 Samuel Julius Heinrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 815 Joh. Heinrich, Schreiber, a. Titterten, K. Baselland - IV, 30 u. 31. 811 Fr. - Elis. Leiser, Schneiderin, a. Affoltern b. A. 1 S. - 842 Samuel Julius Heinrich."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Schweizer.",
+    "place": "Bern",
+    "surname": "Schweizer",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 207",
+    "quarter": "V",
+    "street": "",
+    "house_no": "207",
+    "origin": "Lützelflüh",
+    "birth_year": "1819",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "4 819 Niklaus, Schuhmacher, a. Lützelflüh - V, 207."
+   },
+   {
+    "line_from": 15,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Schwob.",
+    "place": "Bern",
+    "surname": "Schwob",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "II, 10 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "10 b",
+    "origin": "Buschwyler",
+    "birth_year": "1767",
+    "household": "794 Fr. II Ehe. - Veronika Grumbach a. Buschwyler. 5 K. - 814 Sarette. - 19 Karoline. - Rosalie. - Theodor. -- Louis.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 767 Samuel, Handelsmann, a. Buschwyler - II, 10 b. 794 Fr. II Ehe. - Veronika Grumbach a. Buschwyler. 5 K. - 814 Sarette. - 19 Karoline. - Rosalie. - Theodor. -- Louis."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Schwob.",
+    "place": "Bern",
+    "surname": "Schwob",
+    "forename": "Felix",
+    "title": "",
+    "occupation": "Pferdhändler",
+    "address": "II, 238",
+    "quarter": "II",
+    "street": "",
+    "house_no": "238",
+    "origin": "Buschwyler in Frankreich",
+    "birth_year": "1765",
+    "household": "3 K. - 806 Liebmann. - 807 Joseph. - 15 Rosette.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 765 Felix, Pferdhändler, a. Buschwyler in Frankreich - II, 238. 3 K. - 806 Liebmann. - 807 Joseph. - 15 Rosette."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Schwob.",
+    "place": "Bern",
+    "surname": "Schwob",
+    "forename": "Aaron'",
+    "title": "",
+    "occupation": "Pferdhändler",
+    "address": "II, 177",
+    "quarter": "II",
+    "street": "",
+    "house_no": "177",
+    "origin": "Buschwyler",
+    "birth_year": "1767",
+    "household": "2 K. - 816 Raphael. - Elsneer (genannt Gottlieb).",
+    "note": "Name aus Zwischentitel",
+    "text": "3 767 Aaron', Pferdhändler, a. Buschwyler - II, 177. 2 K. - 816 Raphael. - Elsneer (genannt Gottlieb)."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Schwob.",
+    "place": "Bern",
+    "surname": "Schwob",
+    "forename": "Gottlieb",
+    "title": "",
+    "occupation": "Pferdhändler",
+    "address": "II, 177",
+    "quarter": "II",
+    "street": "",
+    "house_no": "177",
+    "origin": "Buschwyler",
+    "birth_year": "1806",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "4 806 Gottlieb, Pferdhändler, a. Buschwyler - II, 177."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Schwob.",
+    "place": "Bern",
+    "surname": "Schwob",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Pferdhändler",
+    "address": "II, 177",
+    "quarter": "II",
+    "street": "",
+    "house_no": "177",
+    "origin": "Buschwyler",
+    "birth_year": "1808",
+    "household": "824 Fr. - Maria Ris.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 808 Samuel, Pferdhändler, a. Buschwyler - II, 177. 824 Fr. - Maria Ris."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Schwyzer.",
+    "place": "Bern",
+    "surname": "Schwyzer",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Quincailleriehändler",
+    "address": "I, 171",
+    "quarter": "I",
+    "street": "",
+    "house_no": "171",
+    "origin": "Hasle b. B.",
+    "birth_year": "1807",
+    "household": "787 Fr. - Anna Bähler, geb. v. Gunten.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Jakob, Quincailleriehändler, a. Hasle b. B. - I, 171. 787 Fr. - Anna Bähler, geb. v. Gunten."
+   },
+   {
+    "line_from": 30,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Seeger.",
+    "place": "Bern",
+    "surname": "Seeger",
+    "forename": "Joh. Konrad",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "II, 171",
+    "quarter": "II",
+    "street": "",
+    "house_no": "171",
+    "origin": "Ermatingen, K. Thurgau",
+    "birth_year": "1785",
+    "household": "1 T. - 810 Elis. Marg.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 785 Joh. Konrad, Schneider, a. Ermatingen, K. Thurgau - II, 171. 1 T. - 810 Elis. Marg."
+   },
+   {
+    "line_from": 34,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Selhofer.",
+    "place": "Bern",
+    "surname": "Selhofer",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Lithograph u. Grundeigenthümer",
+    "address": "I, 252",
+    "quarter": "I",
+    "street": "",
+    "house_no": "252",
+    "origin": "Gerzensee",
+    "birth_year": "1793",
+    "household": "794 Fr. - Sus. Elis. Schneiter a. Fahrni, Kellermagd. 4 K. - 820 Rosina. - 24 Samuel Gottlieb. - 32 Anna Sus. - 37 Joh. Christian.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 793 Christian, Lithograph u. Grundeigenthümer, a. Gerzensee - I, 252. 794 Fr. - Sus. Elis. Schneiter a. Fahrni, Kellermagd. 4 K. - 820 Rosina. - 24 Samuel Gottlieb. - 32 Anna Sus. - 37 Joh. Christian."
+   },
+   {
+    "line_from": 39,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Selhofer.",
+    "place": "Bern",
+    "surname": "Selhofer",
+    "forename": "David",
+    "title": "",
+    "occupation": "Mehlstubenhalter",
+    "address": "V, 140",
+    "quarter": "V",
+    "street": "",
+    "house_no": "140",
+    "origin": "Gisensteinviertel",
+    "birth_year": "1802",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 802 David, Mehlstubenhalter, a. Gisensteinviertel - V, 140."
+   },
+   {
+    "line_from": 41,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Sengstag.",
+    "place": "Bern",
+    "surname": "Sengstag",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Korbmacher",
+    "address": "II, 59",
+    "quarter": "II",
+    "street": "",
+    "house_no": "59",
+    "origin": "bern. Landsass",
+    "birth_year": "1786",
+    "household": "Fr. - Magd. Bruni a. Amsoldingen.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 786 Jakob, Korbmacher, bern. Landsass - II, 59. Fr. - Magd. Bruni a. Amsoldingen."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:56:51+01:00",
+ "last_error": null
+}

@@ -1,0 +1,1337 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1836",
+ "page": 297,
+ "section": "kanton",
+ "started": "2026-11-10T21:30:52+01:00",
+ "thinking": "low",
+ "seconds": 53.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 8810,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"46\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"46\"},\n    {\"n\": 2, \"text\": \"Schreiner. Peter Karrer.\"},\n    {\"n\": 3, \"text\": \"„ Frz. Jos. Burger.\"},\n    {\"n\": 4, \"text\": \"„ Jos. Cueni, Heimis.\"},\n    {\"n\": 5, \"text\": \"Wirth. Joseph Meyer.\"},\n    {\"n\": 6, \"text\": \"Zimmermann. Heinrich Weber.\"},\n    {\"n\": 7, \"text\": \"Soihières.\"},\n    {\"n\": 8, \"text\": \"Wirth z. weißen Kreuz. Etienne\"},\n    {\"n\": 9, \"text\": \"Brechet.\"},\n    {\"n\": 10, \"text\": \"Tittingen.\"},\n    {\"n\": 11, \"text\": \"Leinweber. Joh. Cueni, Stellis.\"},\n    {\"n\": 12, \"text\": \"„ Franz Hermann,\"},\n    {\"n\": 13, \"text\": \"Schneiders.\"},\n    {\"n\": 14, \"text\": \"„ Peter Hermann,\"},\n    {\"n\": 15, \"text\": \"Christinen.\"},\n    {\"n\": 16, \"text\": \"„ Niklaus Hermann,\"},\n    {\"n\": 17, \"text\": \"Rothen.\"},\n    {\"n\": 18, \"text\": \"„ Joseph Schmidlin,\"},\n    {\"n\": 19, \"text\": \"Dönis.\"},\n    {\"n\": 20, \"text\": \"Nagelschmied. Franz Jos. Cueni,\"},\n    {\"n\": 21, \"text\": \"Babis.\"},\n    {\"n\": 22, \"text\": \"„ Jos. Cueni, Alten-\"},\n    {\"n\": 23, \"text\": \"meyers.\"},\n    {\"n\": 24, \"text\": \"„ Frz. Cueni, Alten-\"},\n    {\"n\": 25, \"text\": \"meyers.\"},\n    {\"n\": 26, \"text\": \"„ Fr. Jos. Halbeisen,\"},\n    {\"n\": 27, \"text\": \"Franzen.\"},\n    {\"n\": 28, \"text\": \"„ Joseph Halbeisen,\"},\n    {\"n\": 29, \"text\": \"Gredensepp.\"},\n    {\"n\": 30, \"text\": \"„ Georg Halbeisen,\"},\n    {\"n\": 31, \"text\": \"Gredensepp.\"},\n    {\"n\": 32, \"text\": \"„ Joseph Halbeisen,\"},\n    {\"n\": 33, \"text\": \"Ringgenmachers.\"},\n    {\"n\": 34, \"text\": \"„ Georg Halbeisen,\"},\n    {\"n\": 35, \"text\": \"Stierhirten.\"},\n    {\"n\": 36, \"text\": \"„ F. Halbeisen, Geör-\"},\n    {\"n\": 37, \"text\": \"gis Sohn.\"},\n    {\"n\": 38, \"text\": \"„ Fridolin Halbeisen,\"},\n    {\"n\": 39, \"text\": \"Geörgis Sohn.\"},\n    {\"n\": 40, \"text\": \"„ Nikolaus Halbeisen,\"},\n    {\"n\": 41, \"text\": \"Ringgenmachers.\"},\n    {\"n\": 42, \"text\": \"Nagelschmied. Joseph Halbeisen,\"},\n    {\"n\": 43, \"text\": \"Greden.\"},\n    {\"n\": 44, \"text\": \"„ Niklaus Halbeisen,\"},\n    {\"n\": 45, \"text\": \"Stierhirten.\"},\n    {\"n\": 46, \"text\": \"„ Joseph Schmidlin,\"},\n    {\"n\": 47, \"text\": \"Antonis.\"},\n    {\"n\": 48, \"text\": \"„ Johann Schmidlin,\"},\n    {\"n\": 49, \"text\": \"Feris.\"},\n    {\"n\": 50, \"text\": \"„ Niklaus, Georg u.\"},\n    {\"n\": 51, \"text\": \"Jos. Schmidlin.\"},\n    {\"n\": 52, \"text\": \"„ Niklaus Tschäni.\"},\n    {\"n\": 53, \"text\": \"Schmied. Johann Cueni.\"},\n    {\"n\": 54, \"text\": \"Schreiner. Anton Schmidlin.\"},\n    {\"n\": 55, \"text\": \"„ Jos. Cueni, Stellis.\"},\n    {\"n\": 56, \"text\": \"Steinhauer. Frz. Jos. Hermann,\"},\n    {\"n\": 57, \"text\": \"Weberjokis.\"},\n    {\"n\": 58, \"text\": \"„ Fridolin Cueni.\"},\n    {\"n\": 59, \"text\": \"„ Joseph Cueni.\"},\n    {\"n\": 60, \"text\": \"„ Frz. Jos. Cueni.\"},\n    {\"n\": 61, \"text\": \"Wagner. Joseph Schmidlin,\"},\n    {\"n\": 62, \"text\": \"Webers.\"},\n    {\"n\": 63, \"text\": \"Wirth. Joh. Halbeisen (Nagler).\"},\n    {\"n\": 64, \"text\": \"Zirkelschmied. Joh. Halbeisen.\"},\n    {\"n\": 65, \"text\": \"Vermes.\"},\n    {\"n\": 66, \"text\": \"Büchsenschmied. Fleury.\"},\n    {\"n\": 67, \"text\": \"Wahlen.\"},\n    {\"n\": 68, \"text\": \"Leinweber. Niklaus Neierlin.\"},\n    {\"n\": 69, \"text\": \"„ Joh. Halbeisen, Krel-\"},\n    {\"n\": 70, \"text\": \"senfranzen.\"},\n    {\"n\": 71, \"text\": \"Schreiner. Urs Schmidlin, Wink-\"},\n    {\"n\": 72, \"text\": \"lers.\"},\n    {\"n\": 73, \"text\": \"„ Cl. Schmidlin, Ban-\"},\n    {\"n\": 74, \"text\": \"dartshus.\"},\n    {\"n\": 75, \"text\": \"„ Andreas Jefer.\"},\n    {\"n\": 76, \"text\": \"Seiler. Joh. Schmidlin, Wink-\"},\n    {\"n\": 77, \"text\": \"lers.\"},\n    {\"n\": 78, \"text\": \"„ F. Schmidlin, Peters.\"},\n    {\"n\": 79, \"text\": \"Zwingen.\"},\n    {\"n\": 80, \"text\": \"Müller. Johann Anno.\"},\n    {\"n\": 81, \"text\": \"Wirth z. Löwen. G. Feninger.\"},\n    {\"n\": 82, \"text\": \"IX. Amt Erlach.\"},\n    {\"n\": 83, \"text\": \"Einwohnerzahl 9,375. Brandkassenversicherung für 1,751 Ge-\"},\n    {\"n\": 84, \"text\": \"bäude: 2,641,000 Fr. Umfaßt die Kirchspiele: Erlach, Einwoh-\"},\n    {\"n\": 85, \"text\": \"ner 1074; Gampelen, 685; Ins, 2647; Siselen, 874; Vinelz,\"},\n    {\"n\": 86, \"text\": \"799; Diesse, 1131; Neuenstadt, 1365; Nods, 800.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2, \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"Schreiner\",\n      \"place\": \"\",\n      \"surname\": \"Karrer\", \"forename\": \"Peter\", \"title\": \"\",\n      \"occupation\": \"Schreiner\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Schreiner. Peter Karrer.\"\n    },\n    {\n      \"line_from\": 3, \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Schreiner\",\n      \"place\": \"\",\n      \"surname\": \"Burger\", \"forename\": \"Frz. Jos.\", \"title\": \"\",\n      \"occupation\": \"Schreiner\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Frz. Jos. Burger.\"\n    },\n    {\n      \"line_from\": 4, \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Schreiner\",\n      \"place\": \"\",\n      \"surname\": \"Cueni\", \"forename\": \"Jos.\", \"title\": \"Heimis\",\n      \"occupation\": \"Schreiner\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Jos. Cueni, Heimis.\"\n    },\n    {\n      \"line_from\": 5, \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Wirth\",\n      \"place\": \"\",\n      \"surname\": \"Meyer\", \"forename\": \"Joseph\", \"title\": \"\",\n      \"occupation\": \"Wirth\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Wirth. Joseph Meyer.\"\n    },\n    {\n      \"line_from\": 6, \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Zimmermann\",\n      \"place\": \"\",\n      \"surname\": \"Weber\", \"forename\": \"Heinrich\", \"title\": \"\",\n      \"occupation\": \"Zimmermann\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Zimmermann. Heinrich Weber.\"\n    },\n    {\n      \"line_from\": 8, \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Soihières\",\n      \"place\": \"Soihières\",\n      \"surname\": \"Brechet\", \"forename\": \"Etienne\", \"title\": \"\",\n      \"occupation\": \"Wirth z. weißen Kreuz\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Wirth z. weißen Kreuz. Etienne Brechet.\"\n    },\n    {\n      \"line_from\": 11, \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Cueni\", \"forename\": \"Joh.\", \"title\": \"Stellis\",\n      \"occupation\": \"Leinweber\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Leinweber. Joh. Cueni, Stellis.\"\n    },\n    {\n      \"line_from\": 12, \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Hermann\", \"forename\": \"Franz\", \"title\": \"Schneiders\",\n      \"occupation\": \"Leinweber\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Franz Hermann, Schneiders.\"\n    },\n    {\n      \"line_from\": 14, \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Hermann\", \"forename\": \"Peter\", \"title\": \"Christinen\",\n      \"occupation\": \"Leinweber\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Peter Hermann, Christinen.\"\n    },\n    {\n      \"line_from\": 16, \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Hermann\", \"forename\": \"Niklaus\", \"title\": \"Rothen\",\n      \"occupation\": \"Leinweber\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Niklaus Hermann, Rothen.\"\n    },\n    {\n      \"line_from\": 18, \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Schmidlin\", \"forename\": \"Joseph\", \"title\": \"Dönis\",\n      \"occupation\": \"Leinweber\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Joseph Schmidlin, Dönis.\"\n    },\n    {\n      \"line_from\": 20, \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Cueni\", \"forename\": \"Franz Jos.\", \"title\": \"Babis\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Nagelschmied. Franz Jos. Cueni, Babis.\"\n    },\n    {\n      \"line_from\": 22, \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Cueni\", \"forename\": \"Jos.\", \"title\": \"Altenmeyers\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Jos. Cueni, Altenmeyers.\"\n    },\n    {\n      \"line_from\": 24, \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Cueni\", \"forename\": \"Frz.\", \"title\": \"Altenmeyers\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Frz. Cueni, Altenmeyers.\"\n    },\n    {\n      \"line_from\": 26, \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Fr. Jos.\", \"title\": \"Franzen\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Fr. Jos. Halbeisen, Franzen.\"\n    },\n    {\n      \"line_from\": 28, \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Joseph\", \"title\": \"Gredensepp\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Joseph Halbeisen, Gredensepp.\"\n    },\n    {\n      \"line_from\": 30, \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Georg\", \"title\": \"Gredensepp\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Georg Halbeisen, Gredensepp.\"\n    },\n    {\n      \"line_from\": 32, \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Joseph\", \"title\": \"Ringgenmachers\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Joseph Halbeisen, Ringgenmachers.\"\n    },\n    {\n      \"line_from\": 34, \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Georg\", \"title\": \"Stierhirten\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Georg Halbeisen, Stierhirten.\"\n    },\n    {\n      \"line_from\": 36, \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"F.\", \"title\": \"Geörgis Sohn\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ F. Halbeisen, Geörgis Sohn.\"\n    },\n    {\n      \"line_from\": 38, \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Fridolin\", \"title\": \"Geörgis Sohn\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Fridolin Halbeisen, Geörgis Sohn.\"\n    },\n    {\n      \"line_from\": 40, \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Nikolaus\", \"title\": \"Ringgenmachers\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Nikolaus Halbeisen, Ringgenmachers.\"\n    },\n    {\n      \"line_from\": 42, \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Joseph\", \"title\": \"Greden\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Nagelschmied. Joseph Halbeisen, Greden.\"\n    },\n    {\n      \"line_from\": 44, \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Niklaus\", \"title\": \"Stierhirten\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Niklaus Halbeisen, Stierhirten.\"\n    },\n    {\n      \"line_from\": 46, \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Schmidlin\", \"forename\": \"Joseph\", \"title\": \"Antonis\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Joseph Schmidlin, Antonis.\"\n    },\n    {\n      \"line_from\": 48, \"line_to\": 49,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Schmidlin\", \"forename\": \"Johann\", \"title\": \"Feris\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Johann Schmidlin, Feris.\"\n    },\n    {\n      \"line_from\": 50, \"line_to\": 51,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Schmidlin\", \"forename\": \"Niklaus, Georg u. Jos.\", \"title\": \"\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Niklaus, Georg u. Jos. Schmidlin.\"\n    },\n    {\n      \"line_from\": 52, \"line_to\": 52,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Tschäni\", \"forename\": \"Niklaus\", \"title\": \"\",\n      \"occupation\": \"Nagelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Niklaus Tschäni.\"\n    },\n    {\n      \"line_from\": 53, \"line_to\": 53,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Cueni\", \"forename\": \"Johann\", \"title\": \"\",\n      \"occupation\": \"Schmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Schmied. Johann Cueni.\"\n    },\n    {\n      \"line_from\": 54, \"line_to\": 54,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Schmidlin\", \"forename\": \"Anton\", \"title\": \"\",\n      \"occupation\": \"Schreiner\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Schreiner. Anton Schmidlin.\"\n    },\n    {\n      \"line_from\": 55, \"line_to\": 55,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Cueni\", \"forename\": \"Jos.\", \"title\": \"Stellis\",\n      \"occupation\": \"Schreiner\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Jos. Cueni, Stellis.\"\n    },\n    {\n      \"line_from\": 56, \"line_to\": 57,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Hermann\", \"forename\": \"Frz. Jos.\", \"title\": \"Weberjokis\",\n      \"occupation\": \"Steinhauer\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Steinhauer. Frz. Jos. Hermann, Weberjokis.\"\n    },\n    {\n      \"line_from\": 58, \"line_to\": 58,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Cueni\", \"forename\": \"Fridolin\", \"title\": \"\",\n      \"occupation\": \"Steinhauer\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Fridolin Cueni.\"\n    },\n    {\n      \"line_from\": 59, \"line_to\": 59,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Cueni\", \"forename\": \"Joseph\", \"title\": \"\",\n      \"occupation\": \"Steinhauer\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Joseph Cueni.\"\n    },\n    {\n      \"line_from\": 60, \"line_to\": 60,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Cueni\", \"forename\": \"Frz. Jos.\", \"title\": \"\",\n      \"occupation\": \"Steinhauer\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Frz. Jos. Cueni.\"\n    },\n    {\n      \"line_from\": 61, \"line_to\": 62,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Schmidlin\", \"forename\": \"Joseph\", \"title\": \"Webers\",\n      \"occupation\": \"Wagner\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Wagner. Joseph Schmidlin, Webers.\"\n    },\n    {\n      \"line_from\": 63, \"line_to\": 63,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Joh.\", \"title\": \"\",\n      \"occupation\": \"Wirth\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Nagler\",\n      \"text\": \"Wirth. Joh. Halbeisen (Nagler).\"\n    },\n    {\n      \"line_from\": 64, \"line_to\": 64,\n      \"kind\": \"person\",\n      \"heading\": \"Tittingen\",\n      \"place\": \"Tittingen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Joh.\", \"title\": \"\",\n      \"occupation\": \"Zirkelschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Zirkelschmied. Joh. Halbeisen.\"\n    },\n    {\n      \"line_from\": 66, \"line_to\": 66,\n      \"kind\": \"person\",\n      \"heading\": \"Vermes\",\n      \"place\": \"Vermes\",\n      \"surname\": \"Fleury\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"Büchsenschmied\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Büchsenschmied. Fleury.\"\n    },\n    {\n      \"line_from\": 68, \"line_to\": 68,\n      \"kind\": \"person\",\n      \"heading\": \"Wahlen\",\n      \"place\": \"Wahlen\",\n      \"surname\": \"Neierlin\", \"forename\": \"Niklaus\", \"title\": \"\",\n      \"occupation\": \"Leinweber\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Leinweber. Niklaus Neierlin.\"\n    },\n    {\n      \"line_from\": 69, \"line_to\": 70,\n      \"kind\": \"person\",\n      \"heading\": \"Wahlen\",\n      \"place\": \"Wahlen\",\n      \"surname\": \"Halbeisen\", \"forename\": \"Joh.\", \"title\": \"Kreisenfranzen\",\n      \"occupation\": \"Leinweber\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Joh. Halbeisen, Kreisenfranzen.\"\n    },\n    {\n      \"line_from\": 71, \"line_to\": 72,\n      \"kind\": \"person\",\n      \"heading\": \"Wahlen\",\n      \"place\": \"Wahlen\",\n      \"surname\": \"Schmidlin\", \"forename\": \"Urs\", \"title\": \"Winklers\",\n      \"occupation\": \"Schreiner\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Schreiner. Urs Schmidlin, Winklers.\"\n    },\n    {\n      \"line_from\": 73, \"line_to\": 74,\n      \"kind\": \"person\",\n      \"heading\": \"Wahlen\",\n      \"place\": \"Wahlen\",\n      \"surname\": \"Schmidlin\", \"forename\": \"Cl.\", \"title\": \"Bandartshus\",\n      \"occupation\": \"Schreiner\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Cl. Schmidlin, Bandartshus.\"\n    },\n    {\n      \"line_from\": 75, \"line_to\": 75,\n      \"kind\": \"person\",\n      \"heading\": \"Wahlen\",\n      \"place\": \"Wahlen\",\n      \"surname\": \"Jefer\", \"forename\": \"Andreas\", \"title\": \"\",\n      \"occupation\": \"Schreiner\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ Andreas Jefer.\"\n    },\n    {\n      \"line_from\": 76, \"line_to\": 77,\n      \"kind\": \"person\",\n      \"heading\": \"Wahlen\",\n      \"place\": \"Wahlen\",\n      \"surname\": \"Schmidlin\", \"forename\": \"Joh.\", \"title\": \"Winklers\",\n      \"occupation\": \"Seiler\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Seiler. Joh. Schmidlin, Winklers.\"\n    },\n    {\n      \"line_from\": 78, \"line_to\": 78,\n      \"kind\": \"person\",\n      \"heading\": \"Wahlen\",\n      \"place\": \"Wahlen\",\n      \"surname\": \"Schmidlin\", \"forename\": \"F.\", \"title\": \"Peters\",\n      \"occupation\": \"Seiler\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"Beruf aus Vorzeile\",\n      \"text\": \"„ F. Schmidlin, Peters.\"\n    },\n    {\n      \"line_from\": 80, \"line_to\": 80,\n      \"kind\": \"person\",\n      \"heading\": \"Zwingen\",\n      \"place\": \"Zwingen\",\n      \"surname\": \"Anno\", \"forename\": \"Johann\", \"title\": \"\",\n      \"occupation\": \"Müller\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Müller. Johann Anno.\"\n    },\n    {\n      \"line_from\": 81, \"line_to\": 81,\n      \"kind\": \"person\",\n      \"heading\": \"Zwingen\",\n      \"place\": \"Zwingen\",\n      \"surname\": \"Feninger\", \"forename\": \"G.\", \"title\": \"\",\n      \"occupation\": \"Wirth z. Löwen\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Wirth z. Löwen. G. Feninger.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "46",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "46"
+   },
+   {
+    "n": 2,
+    "text": "Schreiner. Peter Karrer."
+   },
+   {
+    "n": 3,
+    "text": "„ Frz. Jos. Burger."
+   },
+   {
+    "n": 4,
+    "text": "„ Jos. Cueni, Heimis."
+   },
+   {
+    "n": 5,
+    "text": "Wirth. Joseph Meyer."
+   },
+   {
+    "n": 6,
+    "text": "Zimmermann. Heinrich Weber."
+   },
+   {
+    "n": 7,
+    "text": "Soihières."
+   },
+   {
+    "n": 8,
+    "text": "Wirth z. weißen Kreuz. Etienne"
+   },
+   {
+    "n": 9,
+    "text": "Brechet."
+   },
+   {
+    "n": 10,
+    "text": "Tittingen."
+   },
+   {
+    "n": 11,
+    "text": "Leinweber. Joh. Cueni, Stellis."
+   },
+   {
+    "n": 12,
+    "text": "„ Franz Hermann,"
+   },
+   {
+    "n": 13,
+    "text": "Schneiders."
+   },
+   {
+    "n": 14,
+    "text": "„ Peter Hermann,"
+   },
+   {
+    "n": 15,
+    "text": "Christinen."
+   },
+   {
+    "n": 16,
+    "text": "„ Niklaus Hermann,"
+   },
+   {
+    "n": 17,
+    "text": "Rothen."
+   },
+   {
+    "n": 18,
+    "text": "„ Joseph Schmidlin,"
+   },
+   {
+    "n": 19,
+    "text": "Dönis."
+   },
+   {
+    "n": 20,
+    "text": "Nagelschmied. Franz Jos. Cueni,"
+   },
+   {
+    "n": 21,
+    "text": "Babis."
+   },
+   {
+    "n": 22,
+    "text": "„ Jos. Cueni, Alten-"
+   },
+   {
+    "n": 23,
+    "text": "meyers."
+   },
+   {
+    "n": 24,
+    "text": "„ Frz. Cueni, Alten-"
+   },
+   {
+    "n": 25,
+    "text": "meyers."
+   },
+   {
+    "n": 26,
+    "text": "„ Fr. Jos. Halbeisen,"
+   },
+   {
+    "n": 27,
+    "text": "Franzen."
+   },
+   {
+    "n": 28,
+    "text": "„ Joseph Halbeisen,"
+   },
+   {
+    "n": 29,
+    "text": "Gredensepp."
+   },
+   {
+    "n": 30,
+    "text": "„ Georg Halbeisen,"
+   },
+   {
+    "n": 31,
+    "text": "Gredensepp."
+   },
+   {
+    "n": 32,
+    "text": "„ Joseph Halbeisen,"
+   },
+   {
+    "n": 33,
+    "text": "Ringgenmachers."
+   },
+   {
+    "n": 34,
+    "text": "„ Georg Halbeisen,"
+   },
+   {
+    "n": 35,
+    "text": "Stierhirten."
+   },
+   {
+    "n": 36,
+    "text": "„ F. Halbeisen, Geör-"
+   },
+   {
+    "n": 37,
+    "text": "gis Sohn."
+   },
+   {
+    "n": 38,
+    "text": "„ Fridolin Halbeisen,"
+   },
+   {
+    "n": 39,
+    "text": "Geörgis Sohn."
+   },
+   {
+    "n": 40,
+    "text": "„ Nikolaus Halbeisen,"
+   },
+   {
+    "n": 41,
+    "text": "Ringgenmachers."
+   },
+   {
+    "n": 42,
+    "text": "Nagelschmied. Joseph Halbeisen,"
+   },
+   {
+    "n": 43,
+    "text": "Greden."
+   },
+   {
+    "n": 44,
+    "text": "„ Niklaus Halbeisen,"
+   },
+   {
+    "n": 45,
+    "text": "Stierhirten."
+   },
+   {
+    "n": 46,
+    "text": "„ Joseph Schmidlin,"
+   },
+   {
+    "n": 47,
+    "text": "Antonis."
+   },
+   {
+    "n": 48,
+    "text": "„ Johann Schmidlin,"
+   },
+   {
+    "n": 49,
+    "text": "Feris."
+   },
+   {
+    "n": 50,
+    "text": "„ Niklaus, Georg u."
+   },
+   {
+    "n": 51,
+    "text": "Jos. Schmidlin."
+   },
+   {
+    "n": 52,
+    "text": "„ Niklaus Tschäni."
+   },
+   {
+    "n": 53,
+    "text": "Schmied. Johann Cueni."
+   },
+   {
+    "n": 54,
+    "text": "Schreiner. Anton Schmidlin."
+   },
+   {
+    "n": 55,
+    "text": "„ Jos. Cueni, Stellis."
+   },
+   {
+    "n": 56,
+    "text": "Steinhauer. Frz. Jos. Hermann,"
+   },
+   {
+    "n": 57,
+    "text": "Weberjokis."
+   },
+   {
+    "n": 58,
+    "text": "„ Fridolin Cueni."
+   },
+   {
+    "n": 59,
+    "text": "„ Joseph Cueni."
+   },
+   {
+    "n": 60,
+    "text": "„ Frz. Jos. Cueni."
+   },
+   {
+    "n": 61,
+    "text": "Wagner. Joseph Schmidlin,"
+   },
+   {
+    "n": 62,
+    "text": "Webers."
+   },
+   {
+    "n": 63,
+    "text": "Wirth. Joh. Halbeisen (Nagler)."
+   },
+   {
+    "n": 64,
+    "text": "Zirkelschmied. Joh. Halbeisen."
+   },
+   {
+    "n": 65,
+    "text": "Vermes."
+   },
+   {
+    "n": 66,
+    "text": "Büchsenschmied. Fleury."
+   },
+   {
+    "n": 67,
+    "text": "Wahlen."
+   },
+   {
+    "n": 68,
+    "text": "Leinweber. Niklaus Neierlin."
+   },
+   {
+    "n": 69,
+    "text": "„ Joh. Halbeisen, Krel-"
+   },
+   {
+    "n": 70,
+    "text": "senfranzen."
+   },
+   {
+    "n": 71,
+    "text": "Schreiner. Urs Schmidlin, Wink-"
+   },
+   {
+    "n": 72,
+    "text": "lers."
+   },
+   {
+    "n": 73,
+    "text": "„ Cl. Schmidlin, Ban-"
+   },
+   {
+    "n": 74,
+    "text": "dartshus."
+   },
+   {
+    "n": 75,
+    "text": "„ Andreas Jefer."
+   },
+   {
+    "n": 76,
+    "text": "Seiler. Joh. Schmidlin, Wink-"
+   },
+   {
+    "n": 77,
+    "text": "lers."
+   },
+   {
+    "n": 78,
+    "text": "„ F. Schmidlin, Peters."
+   },
+   {
+    "n": 79,
+    "text": "Zwingen."
+   },
+   {
+    "n": 80,
+    "text": "Müller. Johann Anno."
+   },
+   {
+    "n": 81,
+    "text": "Wirth z. Löwen. G. Feninger."
+   },
+   {
+    "n": 82,
+    "text": "IX. Amt Erlach."
+   },
+   {
+    "n": 83,
+    "text": "Einwohnerzahl 9,375. Brandkassenversicherung für 1,751 Ge-"
+   },
+   {
+    "n": 84,
+    "text": "bäude: 2,641,000 Fr. Umfaßt die Kirchspiele: Erlach, Einwoh-"
+   },
+   {
+    "n": 85,
+    "text": "ner 1074; Gampelen, 685; Ins, 2647; Siselen, 874; Vinelz,"
+   },
+   {
+    "n": 86,
+    "text": "799; Diesse, 1131; Neuenstadt, 1365; Nods, 800."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "Schreiner",
+    "place": "",
+    "surname": "Karrer",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schreiner. Peter Karrer."
+   },
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Schreiner",
+    "place": "",
+    "surname": "Burger",
+    "forename": "Frz. Jos.",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Frz. Jos. Burger."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Schreiner",
+    "place": "",
+    "surname": "Cueni",
+    "forename": "Jos.",
+    "title": "Heimis",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Jos. Cueni, Heimis."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Wirth",
+    "place": "",
+    "surname": "Meyer",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Wirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wirth. Joseph Meyer."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Zimmermann",
+    "place": "",
+    "surname": "Weber",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Zimmermann",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zimmermann. Heinrich Weber."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Soihières",
+    "place": "Soihières",
+    "surname": "Brechet",
+    "forename": "Etienne",
+    "title": "",
+    "occupation": "Wirth z. weißen Kreuz",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wirth z. weißen Kreuz. Etienne Brechet."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Cueni",
+    "forename": "Joh.",
+    "title": "Stellis",
+    "occupation": "Leinweber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Leinweber. Joh. Cueni, Stellis."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Hermann",
+    "forename": "Franz",
+    "title": "Schneiders",
+    "occupation": "Leinweber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Franz Hermann, Schneiders."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Hermann",
+    "forename": "Peter",
+    "title": "Christinen",
+    "occupation": "Leinweber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Peter Hermann, Christinen."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Hermann",
+    "forename": "Niklaus",
+    "title": "Rothen",
+    "occupation": "Leinweber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Niklaus Hermann, Rothen."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Schmidlin",
+    "forename": "Joseph",
+    "title": "Dönis",
+    "occupation": "Leinweber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Joseph Schmidlin, Dönis."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Cueni",
+    "forename": "Franz Jos.",
+    "title": "Babis",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nagelschmied. Franz Jos. Cueni, Babis."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Cueni",
+    "forename": "Jos.",
+    "title": "Altenmeyers",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Jos. Cueni, Altenmeyers."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Cueni",
+    "forename": "Frz.",
+    "title": "Altenmeyers",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Frz. Cueni, Altenmeyers."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Fr. Jos.",
+    "title": "Franzen",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Fr. Jos. Halbeisen, Franzen."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Joseph",
+    "title": "Gredensepp",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Joseph Halbeisen, Gredensepp."
+   },
+   {
+    "line_from": 30,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Georg",
+    "title": "Gredensepp",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Georg Halbeisen, Gredensepp."
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Joseph",
+    "title": "Ringgenmachers",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Joseph Halbeisen, Ringgenmachers."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Georg",
+    "title": "Stierhirten",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Georg Halbeisen, Stierhirten."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "F.",
+    "title": "Geörgis Sohn",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ F. Halbeisen, Geörgis Sohn."
+   },
+   {
+    "line_from": 38,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Fridolin",
+    "title": "Geörgis Sohn",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Fridolin Halbeisen, Geörgis Sohn."
+   },
+   {
+    "line_from": 40,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Nikolaus",
+    "title": "Ringgenmachers",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Nikolaus Halbeisen, Ringgenmachers."
+   },
+   {
+    "line_from": 42,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Joseph",
+    "title": "Greden",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nagelschmied. Joseph Halbeisen, Greden."
+   },
+   {
+    "line_from": 44,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Niklaus",
+    "title": "Stierhirten",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Niklaus Halbeisen, Stierhirten."
+   },
+   {
+    "line_from": 46,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Schmidlin",
+    "forename": "Joseph",
+    "title": "Antonis",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Joseph Schmidlin, Antonis."
+   },
+   {
+    "line_from": 48,
+    "line_to": 49,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Schmidlin",
+    "forename": "Johann",
+    "title": "Feris",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Johann Schmidlin, Feris."
+   },
+   {
+    "line_from": 50,
+    "line_to": 51,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Schmidlin",
+    "forename": "Niklaus, Georg u. Jos.",
+    "title": "",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Niklaus, Georg u. Jos. Schmidlin."
+   },
+   {
+    "line_from": 52,
+    "line_to": 52,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Tschäni",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Nagelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Niklaus Tschäni."
+   },
+   {
+    "line_from": 53,
+    "line_to": 53,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Cueni",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schmied. Johann Cueni."
+   },
+   {
+    "line_from": 54,
+    "line_to": 54,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Schmidlin",
+    "forename": "Anton",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schreiner. Anton Schmidlin."
+   },
+   {
+    "line_from": 55,
+    "line_to": 55,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Cueni",
+    "forename": "Jos.",
+    "title": "Stellis",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Jos. Cueni, Stellis."
+   },
+   {
+    "line_from": 56,
+    "line_to": 57,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Hermann",
+    "forename": "Frz. Jos.",
+    "title": "Weberjokis",
+    "occupation": "Steinhauer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Steinhauer. Frz. Jos. Hermann, Weberjokis."
+   },
+   {
+    "line_from": 58,
+    "line_to": 58,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Cueni",
+    "forename": "Fridolin",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Fridolin Cueni."
+   },
+   {
+    "line_from": 59,
+    "line_to": 59,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Cueni",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Joseph Cueni."
+   },
+   {
+    "line_from": 60,
+    "line_to": 60,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Cueni",
+    "forename": "Frz. Jos.",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Frz. Jos. Cueni."
+   },
+   {
+    "line_from": 61,
+    "line_to": 62,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Schmidlin",
+    "forename": "Joseph",
+    "title": "Webers",
+    "occupation": "Wagner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wagner. Joseph Schmidlin, Webers."
+   },
+   {
+    "line_from": 63,
+    "line_to": 63,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Wirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Nagler",
+    "text": "Wirth. Joh. Halbeisen (Nagler)."
+   },
+   {
+    "line_from": 64,
+    "line_to": 64,
+    "kind": "person",
+    "heading": "Tittingen",
+    "place": "Tittingen",
+    "surname": "Halbeisen",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Zirkelschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zirkelschmied. Joh. Halbeisen."
+   },
+   {
+    "line_from": 66,
+    "line_to": 66,
+    "kind": "person",
+    "heading": "Vermes",
+    "place": "Vermes",
+    "surname": "Fleury",
+    "forename": "",
+    "title": "",
+    "occupation": "Büchsenschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Büchsenschmied. Fleury."
+   },
+   {
+    "line_from": 68,
+    "line_to": 68,
+    "kind": "person",
+    "heading": "Wahlen",
+    "place": "Wahlen",
+    "surname": "Neierlin",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Leinweber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Leinweber. Niklaus Neierlin."
+   },
+   {
+    "line_from": 69,
+    "line_to": 70,
+    "kind": "person",
+    "heading": "Wahlen",
+    "place": "Wahlen",
+    "surname": "Halbeisen",
+    "forename": "Joh.",
+    "title": "Kreisenfranzen",
+    "occupation": "Leinweber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Joh. Halbeisen, Kreisenfranzen."
+   },
+   {
+    "line_from": 71,
+    "line_to": 72,
+    "kind": "person",
+    "heading": "Wahlen",
+    "place": "Wahlen",
+    "surname": "Schmidlin",
+    "forename": "Urs",
+    "title": "Winklers",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schreiner. Urs Schmidlin, Winklers."
+   },
+   {
+    "line_from": 73,
+    "line_to": 74,
+    "kind": "person",
+    "heading": "Wahlen",
+    "place": "Wahlen",
+    "surname": "Schmidlin",
+    "forename": "Cl.",
+    "title": "Bandartshus",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Cl. Schmidlin, Bandartshus."
+   },
+   {
+    "line_from": 75,
+    "line_to": 75,
+    "kind": "person",
+    "heading": "Wahlen",
+    "place": "Wahlen",
+    "surname": "Jefer",
+    "forename": "Andreas",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ Andreas Jefer."
+   },
+   {
+    "line_from": 76,
+    "line_to": 77,
+    "kind": "person",
+    "heading": "Wahlen",
+    "place": "Wahlen",
+    "surname": "Schmidlin",
+    "forename": "Joh.",
+    "title": "Winklers",
+    "occupation": "Seiler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Seiler. Joh. Schmidlin, Winklers."
+   },
+   {
+    "line_from": 78,
+    "line_to": 78,
+    "kind": "person",
+    "heading": "Wahlen",
+    "place": "Wahlen",
+    "surname": "Schmidlin",
+    "forename": "F.",
+    "title": "Peters",
+    "occupation": "Seiler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Beruf aus Vorzeile",
+    "text": "„ F. Schmidlin, Peters."
+   },
+   {
+    "line_from": 80,
+    "line_to": 80,
+    "kind": "person",
+    "heading": "Zwingen",
+    "place": "Zwingen",
+    "surname": "Anno",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Müller",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müller. Johann Anno."
+   },
+   {
+    "line_from": 81,
+    "line_to": 81,
+    "kind": "person",
+    "heading": "Zwingen",
+    "place": "Zwingen",
+    "surname": "Feninger",
+    "forename": "G.",
+    "title": "",
+    "occupation": "Wirth z. Löwen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wirth z. Löwen. G. Feninger."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:31:46+01:00",
+ "last_error": null
+}

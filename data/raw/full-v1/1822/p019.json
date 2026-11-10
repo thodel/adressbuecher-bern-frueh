@@ -1,0 +1,561 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 19,
+ "section": "berufe",
+ "started": "2026-11-10T21:14:12+01:00",
+ "thinking": "low",
+ "seconds": 28.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2214,
+  "output": 4534,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"11\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"11\"},\n    {\"n\": 2, \"text\": \"Nro.\"},\n    {\"n\": 3, \"text\": \"Oltramare und Comp., Kramgaße … 208\"},\n    {\"n\": 4, \"text\": \"Roder, M. E., Kramgaße … 204\"},\n    {\"n\": 5, \"text\": \"Rüetschi, Samuel, (Seide und Galettes), Kram-\"},\n    {\"n\": 6, \"text\": \"gaße … 183\"},\n    {\"n\": 7, \"text\": \"Schär, Daniel, Marktgaße … 39\"},\n    {\"n\": 8, \"text\": \"Schibli, Johann, (Verlag von Roßhaar), Markt-\"},\n    {\"n\": 9, \"text\": \"gaße … 41\"},\n    {\"n\": 10, \"text\": \"Schlupp, (Wollen- und Seidenartikel), Markt-\"},\n    {\"n\": 11, \"text\": \"gaße … 35\"},\n    {\"n\": 12, \"text\": \"Stäbler, (in Seidenwaaren und Spizen), Markt-\"},\n    {\"n\": 13, \"text\": \"gaße … 92\"},\n    {\"n\": 14, \"text\": \"Wohlthätige Spinn-Anstalt, (Verlag von\"},\n    {\"n\": 15, \"text\": \"Leinwand und Tischzeug), Schulgaße … 327\"},\n    {\"n\": 16, \"text\": \"Wüeterich, Johann, allié Wick, Keßlergaße 236\"},\n    {\"n\": 17, \"text\": \"Zuchthaus-Anstalt, Friedrich Rosselet, Buch-\"},\n    {\"n\": 18, \"text\": \"halter derselben, Marktgaße … 72\"},\n    {\"n\": 19, \"text\": \"Verlag von Spizen, von der Waisen-Armen-Anstalt\"},\n    {\"n\": 20, \"text\": \"aus Locle, zwischen den Thoren … 180\"},\n    {\"n\": 21, \"text\": \"Eisenhandlung.\"},\n    {\"n\": 22, \"text\": \"Grogg, Rudolf, Eisenhammerschmied zu Worb-\"},\n    {\"n\": 23, \"text\": \"lauffen, Verlag, Kornhausplaz … 47\"},\n    {\"n\": 24, \"text\": \"Ingold, Abraham, Eisenhammerschmied, Matten 104\"},\n    {\"n\": 25, \"text\": \"Fonquiere, J. Georg, Zwiebelngäßlein … 54\"},\n    {\"n\": 26, \"text\": \"Schmid, Marc, und Comp., Kramgaße … 190\"},\n    {\"n\": 27, \"text\": \"Walther, Friedrich, Zeughausgaße … 6\"},\n    {\"n\": 28, \"text\": \"Waßmer, Marktgaße … 79\"},\n    {\"n\": 29, \"text\": \"Zieglers Erben, Marktgaße … 70\"},\n    {\"n\": 30, \"text\": \"Handlung von Fayence und Porcelaine.\"},\n    {\"n\": 31, \"text\": \"Bondeli, Keßlergaße … 239\"},\n    {\"n\": 32, \"text\": \"Carrard, Jungfer, Kramgaße … 207\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"firma\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Oltramare\",\n      \"forename\": \"\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 208\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"208\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Oltramare und Comp., Kramgaße 208\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Roder\",\n      \"forename\": \"M. E.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 204\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"204\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Roder, M. E., Kramgaße 204\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Rüetschi\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Seide und Galettes\",\n      \"address\": \"Kramgaße 183\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"183\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rüetschi, Samuel, (Seide und Galettes), Kramgaße 183\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Schär\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 39\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"39\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schär, Daniel, Marktgaße 39\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Schibli\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Verlag von Roßhaar\",\n      \"address\": \"Marktgaße 41\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"41\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schibli, Johann, (Verlag von Roßhaar), Marktgaße 41\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Schlupp\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Wollen- und Seidenartikel\",\n      \"address\": \"Marktgaße 35\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"35\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schlupp, (Wollen- und Seidenartikel), Marktgaße 35\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Stäbler\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"in Seidenwaaren und Spizen\",\n      \"address\": \"Marktgaße 92\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"92\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stäbler, (in Seidenwaaren und Spizen), Marktgaße 92\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Wohlthätige Spinn-Anstalt\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Verlag von Leinwand und Tischzeug\",\n      \"address\": \"Schulgaße 327\",\n      \"quarter\": \"\",\n      \"street\": \"Schulgaße\",\n      \"house_no\": \"327\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wohlthätige Spinn-Anstalt, (Verlag von Leinwand und Tischzeug), Schulgaße 327\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Wüeterich\",\n      \"forename\": \"Johann\",\n      \"title\": \"allié Wick\",\n      \"occupation\": \"\",\n      \"address\": \"Keßlergaße 236\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaße\",\n      \"house_no\": \"236\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wüeterich, Johann, allié Wick, Keßlergaße 236\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Zuchthaus-Anstalt\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Friedrich Rosselet, Buchhalter derselben\",\n      \"address\": \"Marktgaße 72\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"72\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zuchthaus-Anstalt, Friedrich Rosselet, Buchhalter derselben, Marktgaße 72\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Waisen-Armen-Anstalt\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Verlag von Spizen\",\n      \"address\": \"zwischen den Thoren 180\",\n      \"quarter\": \"\",\n      \"street\": \"zwischen den Thoren\",\n      \"house_no\": \"180\",\n      \"origin\": \"Locle\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Verlag von Spizen, von der Waisen-Armen-Anstalt aus Locle, zwischen den Thoren 180\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Eisenhandlung\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grogg\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Eisenhammerschmied zu Worblauffen, Verlag\",\n      \"address\": \"Kornhausplaz 47\",\n      \"quarter\": \"\",\n      \"street\": \"Kornhausplaz\",\n      \"house_no\": \"47\",\n      \"origin\": \"Worblauffen\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Grogg, Rudolf, Eisenhammerschmied zu Worblauffen, Verlag, Kornhausplaz 47\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Eisenhandlung\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ingold\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"Eisenhammerschmied\",\n      \"address\": \"Matten 104\",\n      \"quarter\": \"\",\n      \"street\": \"Matten\",\n      \"house_no\": \"104\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ingold, Abraham, Eisenhammerschmied, Matten 104\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Eisenhandlung\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fonquiere\",\n      \"forename\": \"J. Georg\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Zwiebelngäßlein 54\",\n      \"quarter\": \"\",\n      \"street\": \"Zwiebelngäßlein\",\n      \"house_no\": \"54\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fonquiere, J. Georg, Zwiebelngäßlein 54\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"firma\",\n      \"heading\": \"Eisenhandlung\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"Marc\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 190\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"190\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schmid, Marc, und Comp., Kramgaße 190\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Eisenhandlung\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Zeughausgaße 6\",\n      \"quarter\": \"\",\n      \"street\": \"Zeughausgaße\",\n      \"house_no\": \"6\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Walther, Friedrich, Zeughausgaße 6\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Eisenhandlung\",\n      \"place\": \"Bern\",\n      \"surname\": \"Waßmer\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 79\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"79\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Waßmer, Marktgaße 79\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Eisenhandlung\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ziegler\",\n      \"forename\": \"\",\n      \"title\": \"Erben\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 70\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"70\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zieglers Erben, Marktgaße 70\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Fayence und Porcelaine\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bondeli\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Keßlergaße 239\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaße\",\n      \"house_no\": \"239\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bondeli, Keßlergaße 239\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Fayence und Porcelaine\",\n      \"place\": \"Bern\",\n      \"surname\": \"Carrard\",\n      \"forename\": \"\",\n      \"title\": \"Jungfer\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 207\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"207\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Carrard, Jungfer, Kramgaße 207\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "11",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "11"
+   },
+   {
+    "n": 2,
+    "text": "Nro."
+   },
+   {
+    "n": 3,
+    "text": "Oltramare und Comp., Kramgaße … 208"
+   },
+   {
+    "n": 4,
+    "text": "Roder, M. E., Kramgaße … 204"
+   },
+   {
+    "n": 5,
+    "text": "Rüetschi, Samuel, (Seide und Galettes), Kram-"
+   },
+   {
+    "n": 6,
+    "text": "gaße … 183"
+   },
+   {
+    "n": 7,
+    "text": "Schär, Daniel, Marktgaße … 39"
+   },
+   {
+    "n": 8,
+    "text": "Schibli, Johann, (Verlag von Roßhaar), Markt-"
+   },
+   {
+    "n": 9,
+    "text": "gaße … 41"
+   },
+   {
+    "n": 10,
+    "text": "Schlupp, (Wollen- und Seidenartikel), Markt-"
+   },
+   {
+    "n": 11,
+    "text": "gaße … 35"
+   },
+   {
+    "n": 12,
+    "text": "Stäbler, (in Seidenwaaren und Spizen), Markt-"
+   },
+   {
+    "n": 13,
+    "text": "gaße … 92"
+   },
+   {
+    "n": 14,
+    "text": "Wohlthätige Spinn-Anstalt, (Verlag von"
+   },
+   {
+    "n": 15,
+    "text": "Leinwand und Tischzeug), Schulgaße … 327"
+   },
+   {
+    "n": 16,
+    "text": "Wüeterich, Johann, allié Wick, Keßlergaße 236"
+   },
+   {
+    "n": 17,
+    "text": "Zuchthaus-Anstalt, Friedrich Rosselet, Buch-"
+   },
+   {
+    "n": 18,
+    "text": "halter derselben, Marktgaße … 72"
+   },
+   {
+    "n": 19,
+    "text": "Verlag von Spizen, von der Waisen-Armen-Anstalt"
+   },
+   {
+    "n": 20,
+    "text": "aus Locle, zwischen den Thoren … 180"
+   },
+   {
+    "n": 21,
+    "text": "Eisenhandlung."
+   },
+   {
+    "n": 22,
+    "text": "Grogg, Rudolf, Eisenhammerschmied zu Worb-"
+   },
+   {
+    "n": 23,
+    "text": "lauffen, Verlag, Kornhausplaz … 47"
+   },
+   {
+    "n": 24,
+    "text": "Ingold, Abraham, Eisenhammerschmied, Matten 104"
+   },
+   {
+    "n": 25,
+    "text": "Fonquiere, J. Georg, Zwiebelngäßlein … 54"
+   },
+   {
+    "n": 26,
+    "text": "Schmid, Marc, und Comp., Kramgaße … 190"
+   },
+   {
+    "n": 27,
+    "text": "Walther, Friedrich, Zeughausgaße … 6"
+   },
+   {
+    "n": 28,
+    "text": "Waßmer, Marktgaße … 79"
+   },
+   {
+    "n": 29,
+    "text": "Zieglers Erben, Marktgaße … 70"
+   },
+   {
+    "n": 30,
+    "text": "Handlung von Fayence und Porcelaine."
+   },
+   {
+    "n": 31,
+    "text": "Bondeli, Keßlergaße … 239"
+   },
+   {
+    "n": 32,
+    "text": "Carrard, Jungfer, Kramgaße … 207"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "firma",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Oltramare",
+    "forename": "",
+    "title": "und Comp.",
+    "occupation": "",
+    "address": "Kramgaße 208",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "208",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Oltramare und Comp., Kramgaße 208"
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Roder",
+    "forename": "M. E.",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 204",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "204",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Roder, M. E., Kramgaße 204"
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Rüetschi",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Seide und Galettes",
+    "address": "Kramgaße 183",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "183",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rüetschi, Samuel, (Seide und Galettes), Kramgaße 183"
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Schär",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 39",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "39",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schär, Daniel, Marktgaße 39"
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Schibli",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Verlag von Roßhaar",
+    "address": "Marktgaße 41",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "41",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schibli, Johann, (Verlag von Roßhaar), Marktgaße 41"
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Schlupp",
+    "forename": "",
+    "title": "",
+    "occupation": "Wollen- und Seidenartikel",
+    "address": "Marktgaße 35",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "35",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schlupp, (Wollen- und Seidenartikel), Marktgaße 35"
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Stäbler",
+    "forename": "",
+    "title": "",
+    "occupation": "in Seidenwaaren und Spizen",
+    "address": "Marktgaße 92",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "92",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stäbler, (in Seidenwaaren und Spizen), Marktgaße 92"
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Wohlthätige Spinn-Anstalt",
+    "forename": "",
+    "title": "",
+    "occupation": "Verlag von Leinwand und Tischzeug",
+    "address": "Schulgaße 327",
+    "quarter": "",
+    "street": "Schulgaße",
+    "house_no": "327",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wohlthätige Spinn-Anstalt, (Verlag von Leinwand und Tischzeug), Schulgaße 327"
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Wüeterich",
+    "forename": "Johann",
+    "title": "allié Wick",
+    "occupation": "",
+    "address": "Keßlergaße 236",
+    "quarter": "",
+    "street": "Keßlergaße",
+    "house_no": "236",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wüeterich, Johann, allié Wick, Keßlergaße 236"
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Zuchthaus-Anstalt",
+    "forename": "",
+    "title": "",
+    "occupation": "Friedrich Rosselet, Buchhalter derselben",
+    "address": "Marktgaße 72",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "72",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zuchthaus-Anstalt, Friedrich Rosselet, Buchhalter derselben, Marktgaße 72"
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Waisen-Armen-Anstalt",
+    "forename": "",
+    "title": "",
+    "occupation": "Verlag von Spizen",
+    "address": "zwischen den Thoren 180",
+    "quarter": "",
+    "street": "zwischen den Thoren",
+    "house_no": "180",
+    "origin": "Locle",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Verlag von Spizen, von der Waisen-Armen-Anstalt aus Locle, zwischen den Thoren 180"
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Eisenhandlung",
+    "place": "Bern",
+    "surname": "Grogg",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Eisenhammerschmied zu Worblauffen, Verlag",
+    "address": "Kornhausplaz 47",
+    "quarter": "",
+    "street": "Kornhausplaz",
+    "house_no": "47",
+    "origin": "Worblauffen",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Grogg, Rudolf, Eisenhammerschmied zu Worblauffen, Verlag, Kornhausplaz 47"
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Eisenhandlung",
+    "place": "Bern",
+    "surname": "Ingold",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "Eisenhammerschmied",
+    "address": "Matten 104",
+    "quarter": "",
+    "street": "Matten",
+    "house_no": "104",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ingold, Abraham, Eisenhammerschmied, Matten 104"
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Eisenhandlung",
+    "place": "Bern",
+    "surname": "Fonquiere",
+    "forename": "J. Georg",
+    "title": "",
+    "occupation": "",
+    "address": "Zwiebelngäßlein 54",
+    "quarter": "",
+    "street": "Zwiebelngäßlein",
+    "house_no": "54",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fonquiere, J. Georg, Zwiebelngäßlein 54"
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "firma",
+    "heading": "Eisenhandlung",
+    "place": "Bern",
+    "surname": "Schmid",
+    "forename": "Marc",
+    "title": "und Comp.",
+    "occupation": "",
+    "address": "Kramgaße 190",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "190",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schmid, Marc, und Comp., Kramgaße 190"
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Eisenhandlung",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "",
+    "address": "Zeughausgaße 6",
+    "quarter": "",
+    "street": "Zeughausgaße",
+    "house_no": "6",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Walther, Friedrich, Zeughausgaße 6"
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Eisenhandlung",
+    "place": "Bern",
+    "surname": "Waßmer",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 79",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "79",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Waßmer, Marktgaße 79"
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Eisenhandlung",
+    "place": "Bern",
+    "surname": "Ziegler",
+    "forename": "",
+    "title": "Erben",
+    "occupation": "",
+    "address": "Marktgaße 70",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "70",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zieglers Erben, Marktgaße 70"
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Handlung von Fayence und Porcelaine",
+    "place": "Bern",
+    "surname": "Bondeli",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Keßlergaße 239",
+    "quarter": "",
+    "street": "Keßlergaße",
+    "house_no": "239",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bondeli, Keßlergaße 239"
+   },
+   {
+    "line_from": 32,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Handlung von Fayence und Porcelaine",
+    "place": "Bern",
+    "surname": "Carrard",
+    "forename": "",
+    "title": "Jungfer",
+    "occupation": "",
+    "address": "Kramgaße 207",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "207",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Carrard, Jungfer, Kramgaße 207"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:14:40+01:00",
+ "last_error": null
+}

@@ -1,0 +1,433 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 55,
+ "section": "einsassen",
+ "started": "2026-11-10T21:50:19+01:00",
+ "thinking": "low",
+ "seconds": 26.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4043,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"42\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 42 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Feuerstein.\"},\n    {\"n\": 4, \"text\": \"1 815 Johann, Gypser u. Flachmaler, a. Schwarzenberg im\"},\n    {\"n\": 5, \"text\": \"Tyrol — V, 103.\"},\n    {\"n\": 6, \"text\": \"2 816 Johann, Gypser, a. Bezau in Oesterreich — V, 102.\"},\n    {\"n\": 7, \"text\": \"810 Fr. — Maria Flück a. Brienz.\"},\n    {\"n\": 8, \"text\": \"1 S. — Joh. Ferdinand.\"},\n    {\"n\": 9, \"text\": \"Fiendt.\"},\n    {\"n\": 10, \"text\": \"1 816 Karl Joh., Tapezierer, a. Frutigen — III, 90.\"},\n    {\"n\": 11, \"text\": \"Fierz.\"},\n    {\"n\": 12, \"text\": \"1 807 Joh. Konrad, Handelsmann, a. Herrliberg, K. Zürich\"},\n    {\"n\": 13, \"text\": \"— III, 76.\"},\n    {\"n\": 14, \"text\": \"Fistian a. Köniz.\"},\n    {\"n\": 15, \"text\": \"1 805 Samuel, Wochenmarktkrämer — II, 238.\"},\n    {\"n\": 16, \"text\": \"810 Fr. — Rosina Magd. Hubacher a. Bümpliz.\"},\n    {\"n\": 17, \"text\": \"2 796 Niklaus, Weinhändler — IV, 293.\"},\n    {\"n\": 18, \"text\": \"784 Fr. — Anna Wyttenbach, gew. Kunz.\"},\n    {\"n\": 19, \"text\": \"Figuet.\"},\n    {\"n\": 20, \"text\": \"1 804 Theophil, Tapezierer, a. Petit-Abergemont in Frank-\"},\n    {\"n\": 21, \"text\": \"reich — II, 201.\"},\n    {\"n\": 22, \"text\": \"Finger.\"},\n    {\"n\": 23, \"text\": \"1 816 Abraham, Schneider, a. Eriz Sonnseite — V, 122.\"},\n    {\"n\": 24, \"text\": \"821 Fr. — Joh. Aug. Elisabetha Benz.\"},\n    {\"n\": 25, \"text\": \"2 K. — 843 Maria Aug. Sus. — 45 Maria Josephine\"},\n    {\"n\": 26, \"text\": \"Augustina.\"},\n    {\"n\": 27, \"text\": \"Fischer.\"},\n    {\"n\": 28, \"text\": \"1 805 Joh. Christ. Friedr., Buchhändler, a. Unterseen — V, 102.\"},\n    {\"n\": 29, \"text\": \"815 Fr. — Emilie Stooß a. Bern.\"},\n    {\"n\": 30, \"text\": \"7 K. — 833 Emilie. — 36 Alex. K. Emil. — 37 Maria\"},\n    {\"n\": 31, \"text\": \"Natalie. — 40 Friedrich Ed. — 42 Ida Henriette. —\"},\n    {\"n\": 32, \"text\": \"46 Rud. Albert. — 47 Joh. Gustav Hermann.\"},\n    {\"n\": 33, \"text\": \"2 802 Jakob, Baumwollenhändler, a. Tennwyl, K. Aargau —\"},\n    {\"n\": 34, \"text\": \"II, 91 u. 92.\"},\n    {\"n\": 35, \"text\": \"809 Fr. — Anna Sigrist a. Meisterschwanden.\"},\n    {\"n\": 36, \"text\": \"2 K. — 813 Anna Maria. — 34 Rudolf.\"},\n    {\"n\": 37, \"text\": \"3 804 Franz Karl Theodor, Dr. Juris, a. Gießen — I, 184.\"},\n    {\"n\": 38, \"text\": \"810 Fr. — Eleonore Bauer.\"},\n    {\"n\": 39, \"text\": \"Fisch.\"},\n    {\"n\": 40, \"text\": \"1 Rudolf, Geometer, a. Aarau — III, 62.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Feuerstein.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Feuerstein\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Gypser u. Flachmaler\",\n      \"address\": \"V, 103\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"103\",\n      \"origin\": \"Schwarzenberg im Tyrol\",\n      \"birth_year\": \"1815\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 815 Johann, Gypser u. Flachmaler, a. Schwarzenberg im Tyrol — V, 103.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Feuerstein.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Feuerstein\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Gypser\",\n      \"address\": \"V, 102\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"102\",\n      \"origin\": \"Bezau in Oesterreich\",\n      \"birth_year\": \"1816\",\n      \"household\": \"810 Fr. — Maria Flück a. Brienz.; 1 S. — Joh. Ferdinand.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 816 Johann, Gypser, a. Bezau in Oesterreich — V, 102. 810 Fr. — Maria Flück a. Brienz. 1 S. — Joh. Ferdinand.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Fiendt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fiendt\",\n      \"forename\": \"Karl Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Tapezierer\",\n      \"address\": \"III, 90\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"90\",\n      \"origin\": \"Frutigen\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Karl Joh., Tapezierer, a. Frutigen — III, 90.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Fierz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fierz\",\n      \"forename\": \"Joh. Konrad\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"III, 76\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"76\",\n      \"origin\": \"Herrliberg, K. Zürich\",\n      \"birth_year\": \"1807\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Joh. Konrad, Handelsmann, a. Herrliberg, K. Zürich — III, 76.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Fistian a. Köniz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fistian\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Wochenmarktkrämer\",\n      \"address\": \"II, 238\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"238\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1805\",\n      \"household\": \"810 Fr. — Rosina Magd. Hubacher a. Bümpliz.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 805 Samuel, Wochenmarktkrämer — II, 238. 810 Fr. — Rosina Magd. Hubacher a. Bümpliz.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Fistian a. Köniz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fistian\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhändler\",\n      \"address\": \"IV, 293\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"293\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1796\",\n      \"household\": \"784 Fr. — Anna Wyttenbach, gew. Kunz.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"2 796 Niklaus, Weinhändler — IV, 293. 784 Fr. — Anna Wyttenbach, gew. Kunz.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Figuet.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Figuet\",\n      \"forename\": \"Theophil\",\n      \"title\": \"\",\n      \"occupation\": \"Tapezierer\",\n      \"address\": \"II, 201\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"201\",\n      \"origin\": \"Petit-Abergemont in Frankreich\",\n      \"birth_year\": \"1804\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Theophil, Tapezierer, a. Petit-Abergemont in Frankreich — II, 201.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Finger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Finger\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 122\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"122\",\n      \"origin\": \"Eriz Sonnseite\",\n      \"birth_year\": \"1816\",\n      \"household\": \"821 Fr. — Joh. Aug. Elisabetha Benz.; 2 K. — 843 Maria Aug. Sus. — 45 Maria Josephine Augustina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Abraham, Schneider, a. Eriz Sonnseite — V, 122. 821 Fr. — Joh. Aug. Elisabetha Benz. 2 K. — 843 Maria Aug. Sus. — 45 Maria Josephine Augustina.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Fischer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fischer\",\n      \"forename\": \"Joh. Christ. Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Buchhändler\",\n      \"address\": \"V, 102\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"102\",\n      \"origin\": \"Unterseen\",\n      \"birth_year\": \"1805\",\n      \"household\": \"815 Fr. — Emilie Stooß a. Bern.; 7 K. — 833 Emilie. — 36 Alex. K. Emil. — 37 Maria Natalie. — 40 Friedrich Ed. — 42 Ida Henriette. — 46 Rud. Albert. — 47 Joh. Gustav Hermann.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Joh. Christ. Friedr., Buchhändler, a. Unterseen — V, 102. 815 Fr. — Emilie Stooß a. Bern. 7 K. — 833 Emilie. — 36 Alex. K. Emil. — 37 Maria Natalie. — 40 Friedrich Ed. — 42 Ida Henriette. — 46 Rud. Albert. — 47 Joh. Gustav Hermann.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Fischer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fischer\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Baumwollenhändler\",\n      \"address\": \"II, 91 u. 92\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"91 u. 92\",\n      \"origin\": \"Tennwyl, K. Aargau\",\n      \"birth_year\": \"1802\",\n      \"household\": \"809 Fr. — Anna Sigrist a. Meisterschwanden.; 2 K. — 813 Anna Maria. — 34 Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 802 Jakob, Baumwollenhändler, a. Tennwyl, K. Aargau — II, 91 u. 92. 809 Fr. — Anna Sigrist a. Meisterschwanden. 2 K. — 813 Anna Maria. — 34 Rudolf.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Fischer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fischer\",\n      \"forename\": \"Franz Karl Theodor\",\n      \"title\": \"Dr. Juris\",\n      \"occupation\": \"\",\n      \"address\": \"I, 184\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"184\",\n      \"origin\": \"Gießen\",\n      \"birth_year\": \"1804\",\n      \"household\": \"810 Fr. — Eleonore Bauer.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 804 Franz Karl Theodor, Dr. Juris, a. Gießen — I, 184. 810 Fr. — Eleonore Bauer.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Fisch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fisch\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Geometer\",\n      \"address\": \"III, 62\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"Aarau\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Rudolf, Geometer, a. Aarau — III, 62.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "42",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 42 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Feuerstein."
+   },
+   {
+    "n": 4,
+    "text": "1 815 Johann, Gypser u. Flachmaler, a. Schwarzenberg im"
+   },
+   {
+    "n": 5,
+    "text": "Tyrol — V, 103."
+   },
+   {
+    "n": 6,
+    "text": "2 816 Johann, Gypser, a. Bezau in Oesterreich — V, 102."
+   },
+   {
+    "n": 7,
+    "text": "810 Fr. — Maria Flück a. Brienz."
+   },
+   {
+    "n": 8,
+    "text": "1 S. — Joh. Ferdinand."
+   },
+   {
+    "n": 9,
+    "text": "Fiendt."
+   },
+   {
+    "n": 10,
+    "text": "1 816 Karl Joh., Tapezierer, a. Frutigen — III, 90."
+   },
+   {
+    "n": 11,
+    "text": "Fierz."
+   },
+   {
+    "n": 12,
+    "text": "1 807 Joh. Konrad, Handelsmann, a. Herrliberg, K. Zürich"
+   },
+   {
+    "n": 13,
+    "text": "— III, 76."
+   },
+   {
+    "n": 14,
+    "text": "Fistian a. Köniz."
+   },
+   {
+    "n": 15,
+    "text": "1 805 Samuel, Wochenmarktkrämer — II, 238."
+   },
+   {
+    "n": 16,
+    "text": "810 Fr. — Rosina Magd. Hubacher a. Bümpliz."
+   },
+   {
+    "n": 17,
+    "text": "2 796 Niklaus, Weinhändler — IV, 293."
+   },
+   {
+    "n": 18,
+    "text": "784 Fr. — Anna Wyttenbach, gew. Kunz."
+   },
+   {
+    "n": 19,
+    "text": "Figuet."
+   },
+   {
+    "n": 20,
+    "text": "1 804 Theophil, Tapezierer, a. Petit-Abergemont in Frank-"
+   },
+   {
+    "n": 21,
+    "text": "reich — II, 201."
+   },
+   {
+    "n": 22,
+    "text": "Finger."
+   },
+   {
+    "n": 23,
+    "text": "1 816 Abraham, Schneider, a. Eriz Sonnseite — V, 122."
+   },
+   {
+    "n": 24,
+    "text": "821 Fr. — Joh. Aug. Elisabetha Benz."
+   },
+   {
+    "n": 25,
+    "text": "2 K. — 843 Maria Aug. Sus. — 45 Maria Josephine"
+   },
+   {
+    "n": 26,
+    "text": "Augustina."
+   },
+   {
+    "n": 27,
+    "text": "Fischer."
+   },
+   {
+    "n": 28,
+    "text": "1 805 Joh. Christ. Friedr., Buchhändler, a. Unterseen — V, 102."
+   },
+   {
+    "n": 29,
+    "text": "815 Fr. — Emilie Stooß a. Bern."
+   },
+   {
+    "n": 30,
+    "text": "7 K. — 833 Emilie. — 36 Alex. K. Emil. — 37 Maria"
+   },
+   {
+    "n": 31,
+    "text": "Natalie. — 40 Friedrich Ed. — 42 Ida Henriette. —"
+   },
+   {
+    "n": 32,
+    "text": "46 Rud. Albert. — 47 Joh. Gustav Hermann."
+   },
+   {
+    "n": 33,
+    "text": "2 802 Jakob, Baumwollenhändler, a. Tennwyl, K. Aargau —"
+   },
+   {
+    "n": 34,
+    "text": "II, 91 u. 92."
+   },
+   {
+    "n": 35,
+    "text": "809 Fr. — Anna Sigrist a. Meisterschwanden."
+   },
+   {
+    "n": 36,
+    "text": "2 K. — 813 Anna Maria. — 34 Rudolf."
+   },
+   {
+    "n": 37,
+    "text": "3 804 Franz Karl Theodor, Dr. Juris, a. Gießen — I, 184."
+   },
+   {
+    "n": 38,
+    "text": "810 Fr. — Eleonore Bauer."
+   },
+   {
+    "n": 39,
+    "text": "Fisch."
+   },
+   {
+    "n": 40,
+    "text": "1 Rudolf, Geometer, a. Aarau — III, 62."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Feuerstein.",
+    "place": "Bern",
+    "surname": "Feuerstein",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Gypser u. Flachmaler",
+    "address": "V, 103",
+    "quarter": "V",
+    "street": "",
+    "house_no": "103",
+    "origin": "Schwarzenberg im Tyrol",
+    "birth_year": "1815",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 815 Johann, Gypser u. Flachmaler, a. Schwarzenberg im Tyrol — V, 103."
+   },
+   {
+    "line_from": 6,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Feuerstein.",
+    "place": "Bern",
+    "surname": "Feuerstein",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Gypser",
+    "address": "V, 102",
+    "quarter": "V",
+    "street": "",
+    "house_no": "102",
+    "origin": "Bezau in Oesterreich",
+    "birth_year": "1816",
+    "household": "810 Fr. — Maria Flück a. Brienz.; 1 S. — Joh. Ferdinand.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 816 Johann, Gypser, a. Bezau in Oesterreich — V, 102. 810 Fr. — Maria Flück a. Brienz. 1 S. — Joh. Ferdinand."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Fiendt.",
+    "place": "Bern",
+    "surname": "Fiendt",
+    "forename": "Karl Joh.",
+    "title": "",
+    "occupation": "Tapezierer",
+    "address": "III, 90",
+    "quarter": "III",
+    "street": "",
+    "house_no": "90",
+    "origin": "Frutigen",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Karl Joh., Tapezierer, a. Frutigen — III, 90."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Fierz.",
+    "place": "Bern",
+    "surname": "Fierz",
+    "forename": "Joh. Konrad",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "III, 76",
+    "quarter": "III",
+    "street": "",
+    "house_no": "76",
+    "origin": "Herrliberg, K. Zürich",
+    "birth_year": "1807",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Joh. Konrad, Handelsmann, a. Herrliberg, K. Zürich — III, 76."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Fistian a. Köniz.",
+    "place": "Bern",
+    "surname": "Fistian",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Wochenmarktkrämer",
+    "address": "II, 238",
+    "quarter": "II",
+    "street": "",
+    "house_no": "238",
+    "origin": "Köniz",
+    "birth_year": "1805",
+    "household": "810 Fr. — Rosina Magd. Hubacher a. Bümpliz.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 805 Samuel, Wochenmarktkrämer — II, 238. 810 Fr. — Rosina Magd. Hubacher a. Bümpliz."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Fistian a. Köniz.",
+    "place": "Bern",
+    "surname": "Fistian",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Weinhändler",
+    "address": "IV, 293",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "293",
+    "origin": "Köniz",
+    "birth_year": "1796",
+    "household": "784 Fr. — Anna Wyttenbach, gew. Kunz.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "2 796 Niklaus, Weinhändler — IV, 293. 784 Fr. — Anna Wyttenbach, gew. Kunz."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Figuet.",
+    "place": "Bern",
+    "surname": "Figuet",
+    "forename": "Theophil",
+    "title": "",
+    "occupation": "Tapezierer",
+    "address": "II, 201",
+    "quarter": "II",
+    "street": "",
+    "house_no": "201",
+    "origin": "Petit-Abergemont in Frankreich",
+    "birth_year": "1804",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Theophil, Tapezierer, a. Petit-Abergemont in Frankreich — II, 201."
+   },
+   {
+    "line_from": 23,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Finger.",
+    "place": "Bern",
+    "surname": "Finger",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 122",
+    "quarter": "V",
+    "street": "",
+    "house_no": "122",
+    "origin": "Eriz Sonnseite",
+    "birth_year": "1816",
+    "household": "821 Fr. — Joh. Aug. Elisabetha Benz.; 2 K. — 843 Maria Aug. Sus. — 45 Maria Josephine Augustina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Abraham, Schneider, a. Eriz Sonnseite — V, 122. 821 Fr. — Joh. Aug. Elisabetha Benz. 2 K. — 843 Maria Aug. Sus. — 45 Maria Josephine Augustina."
+   },
+   {
+    "line_from": 28,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Fischer.",
+    "place": "Bern",
+    "surname": "Fischer",
+    "forename": "Joh. Christ. Friedr.",
+    "title": "",
+    "occupation": "Buchhändler",
+    "address": "V, 102",
+    "quarter": "V",
+    "street": "",
+    "house_no": "102",
+    "origin": "Unterseen",
+    "birth_year": "1805",
+    "household": "815 Fr. — Emilie Stooß a. Bern.; 7 K. — 833 Emilie. — 36 Alex. K. Emil. — 37 Maria Natalie. — 40 Friedrich Ed. — 42 Ida Henriette. — 46 Rud. Albert. — 47 Joh. Gustav Hermann.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Joh. Christ. Friedr., Buchhändler, a. Unterseen — V, 102. 815 Fr. — Emilie Stooß a. Bern. 7 K. — 833 Emilie. — 36 Alex. K. Emil. — 37 Maria Natalie. — 40 Friedrich Ed. — 42 Ida Henriette. — 46 Rud. Albert. — 47 Joh. Gustav Hermann."
+   },
+   {
+    "line_from": 33,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Fischer.",
+    "place": "Bern",
+    "surname": "Fischer",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Baumwollenhändler",
+    "address": "II, 91 u. 92",
+    "quarter": "II",
+    "street": "",
+    "house_no": "91 u. 92",
+    "origin": "Tennwyl, K. Aargau",
+    "birth_year": "1802",
+    "household": "809 Fr. — Anna Sigrist a. Meisterschwanden.; 2 K. — 813 Anna Maria. — 34 Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 802 Jakob, Baumwollenhändler, a. Tennwyl, K. Aargau — II, 91 u. 92. 809 Fr. — Anna Sigrist a. Meisterschwanden. 2 K. — 813 Anna Maria. — 34 Rudolf."
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Fischer.",
+    "place": "Bern",
+    "surname": "Fischer",
+    "forename": "Franz Karl Theodor",
+    "title": "Dr. Juris",
+    "occupation": "",
+    "address": "I, 184",
+    "quarter": "I",
+    "street": "",
+    "house_no": "184",
+    "origin": "Gießen",
+    "birth_year": "1804",
+    "household": "810 Fr. — Eleonore Bauer.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 804 Franz Karl Theodor, Dr. Juris, a. Gießen — I, 184. 810 Fr. — Eleonore Bauer."
+   },
+   {
+    "line_from": 40,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Fisch.",
+    "place": "Bern",
+    "surname": "Fisch",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Geometer",
+    "address": "III, 62",
+    "quarter": "III",
+    "street": "",
+    "house_no": "62",
+    "origin": "Aarau",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Rudolf, Geometer, a. Aarau — III, 62."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:50:46+01:00",
+ "last_error": null
+}

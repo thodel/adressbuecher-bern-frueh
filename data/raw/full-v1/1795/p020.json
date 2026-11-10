@@ -1,0 +1,473 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 20,
+ "section": "handbuch",
+ "started": "2026-11-10T21:09:22+01:00",
+ "thinking": "low",
+ "seconds": 20.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 3250,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"18\",\n  \"running_head\": \"Arau.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"18 Arau.\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Johannes Ernst, handelt auch mit allerhand\"},\n    {\"n\": 4, \"text\": \"Wanduhren.\"},\n    {\"n\": 5, \"text\": \"Samuel Fischer.\"},\n    {\"n\": 6, \"text\": \"Daniel Gysi.\"},\n    {\"n\": 7, \"text\": \"Jakob Hagnauer.\"},\n    {\"n\": 8, \"text\": \"Samuel Häfig.\"},\n    {\"n\": 9, \"text\": \"Johannes Mårk.\"},\n    {\"n\": 10, \"text\": \"Rudolf Mårk.\"},\n    {\"n\": 11, \"text\": \"Rychner. } Schaalmacher.\"},\n    {\"n\": 12, \"text\": \"Trog. }\"},\n    {\"n\": 13, \"text\": \"Samuel Rychner.\"},\n    {\"n\": 14, \"text\": \"Hieronymus Seiler.\"},\n    {\"n\": 15, \"text\": \"Daniel Schmutziger.\"},\n    {\"n\": 16, \"text\": \"Die schon seit so vielen Jahren hier rühmlichst\"},\n    {\"n\": 17, \"text\": \"stark getriebene Messerschmid = Profession, geht alle-\"},\n    {\"n\": 18, \"text\": \"zeit mit bestem Erfolg ihren Gang fort, dermahlen\"},\n    {\"n\": 19, \"text\": \"sind arbeitende Meister allhier 35, welche alle\"},\n    {\"n\": 20, \"text\": \"Arten Arbeiten, von der geringsten bis zur feinsten,\"},\n    {\"n\": 21, \"text\": \"in Scheeren, Messern, Scheermessern ?c. verfertigen.\"},\n    {\"n\": 22, \"text\": \"Die Meisterschaft der Weißgerber besteht in 10\"},\n    {\"n\": 23, \"text\": \"Meister, und der arbeitenden Rothgerber aus 8.\"},\n    {\"n\": 24, \"text\": \"Kammacher sind 7, die aus der ganzen Eidgenoß-\"},\n    {\"n\": 25, \"text\": \"schaft Bestellungen erhalten.\"},\n    {\"n\": 26, \"text\": \"In Suhr bey Arau halten Gysi und Comp. ei-\"},\n    {\"n\": 27, \"text\": \"ne privilegirte Geschwind = Bleiche, welche in 14\"},\n    {\"n\": 28, \"text\": \"Tagen Baumwollengarn und andre kleine Artikel,\"},\n    {\"n\": 29, \"text\": \"schön weiß und ohne Nachtheil der Stärke liefert.\"},\n    {\"n\": 30, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Ernst\",\n      \"forename\": \"Johannes\",\n      \"title\": \"Herr\",\n      \"occupation\": \"handelt auch mit allerhand Wanduhren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Johannes Ernst, handelt auch mit allerhand Wanduhren.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Fischer\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Fischer.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Gysi\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Gysi.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Hagnauer\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Hagnauer.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Häfig\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Häfig.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Märk\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Märk.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Märk\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rudolf Märk.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Rychner\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schaalmacher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rychner. Schaalmacher.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Trog\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schaalmacher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Trog. Schaalmacher.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Rychner\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Rychner.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Seiler\",\n      \"forename\": \"Hieronymus\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hieronymus Seiler.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Schmutziger\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Schmutziger.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 21,\n      \"kind\": \"sonst\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Die schon seit so vielen Jahren hier rühmlichst stark getriebene Messerschmid = Profession, geht allezeit mit bestem Erfolg ihren Gang fort, dermahlen sind arbeitende Meister allhier 35, welche alle Arten Arbeiten, von der geringsten bis zur feinsten, in Scheeren, Messern, Scheermessern ?c. verfertigen.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"sonst\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Die Meisterschaft der Weißgerber besteht in 10 Meister, und der arbeitenden Rothgerber aus 8.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"sonst\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kammacher sind 7, die aus der ganzen Eidgenoßschaft Bestellungen erhalten.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 29,\n      \"kind\": \"firma\",\n      \"heading\": \"Arau\",\n      \"place\": \"Suhr bey Arau\",\n      \"surname\": \"Gysi\",\n      \"forename\": \"\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"privilegirte Geschwind = Bleiche\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"In Suhr bey Arau halten Gysi und Comp. eine privilegirte Geschwind = Bleiche, welche in 14 Tagen Baumwollengarn und andre kleine Artikel, schön weiß und ohne Nachtheil der Stärke liefert.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "18",
+  "running_head": "Arau.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "18 Arau."
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Johannes Ernst, handelt auch mit allerhand"
+   },
+   {
+    "n": 4,
+    "text": "Wanduhren."
+   },
+   {
+    "n": 5,
+    "text": "Samuel Fischer."
+   },
+   {
+    "n": 6,
+    "text": "Daniel Gysi."
+   },
+   {
+    "n": 7,
+    "text": "Jakob Hagnauer."
+   },
+   {
+    "n": 8,
+    "text": "Samuel Häfig."
+   },
+   {
+    "n": 9,
+    "text": "Johannes Mårk."
+   },
+   {
+    "n": 10,
+    "text": "Rudolf Mårk."
+   },
+   {
+    "n": 11,
+    "text": "Rychner. } Schaalmacher."
+   },
+   {
+    "n": 12,
+    "text": "Trog. }"
+   },
+   {
+    "n": 13,
+    "text": "Samuel Rychner."
+   },
+   {
+    "n": 14,
+    "text": "Hieronymus Seiler."
+   },
+   {
+    "n": 15,
+    "text": "Daniel Schmutziger."
+   },
+   {
+    "n": 16,
+    "text": "Die schon seit so vielen Jahren hier rühmlichst"
+   },
+   {
+    "n": 17,
+    "text": "stark getriebene Messerschmid = Profession, geht alle-"
+   },
+   {
+    "n": 18,
+    "text": "zeit mit bestem Erfolg ihren Gang fort, dermahlen"
+   },
+   {
+    "n": 19,
+    "text": "sind arbeitende Meister allhier 35, welche alle"
+   },
+   {
+    "n": 20,
+    "text": "Arten Arbeiten, von der geringsten bis zur feinsten,"
+   },
+   {
+    "n": 21,
+    "text": "in Scheeren, Messern, Scheermessern ?c. verfertigen."
+   },
+   {
+    "n": 22,
+    "text": "Die Meisterschaft der Weißgerber besteht in 10"
+   },
+   {
+    "n": 23,
+    "text": "Meister, und der arbeitenden Rothgerber aus 8."
+   },
+   {
+    "n": 24,
+    "text": "Kammacher sind 7, die aus der ganzen Eidgenoß-"
+   },
+   {
+    "n": 25,
+    "text": "schaft Bestellungen erhalten."
+   },
+   {
+    "n": 26,
+    "text": "In Suhr bey Arau halten Gysi und Comp. ei-"
+   },
+   {
+    "n": 27,
+    "text": "ne privilegirte Geschwind = Bleiche, welche in 14"
+   },
+   {
+    "n": 28,
+    "text": "Tagen Baumwollengarn und andre kleine Artikel,"
+   },
+   {
+    "n": 29,
+    "text": "schön weiß und ohne Nachtheil der Stärke liefert."
+   },
+   {
+    "n": 30,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Ernst",
+    "forename": "Johannes",
+    "title": "Herr",
+    "occupation": "handelt auch mit allerhand Wanduhren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Johannes Ernst, handelt auch mit allerhand Wanduhren."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Fischer",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Fischer."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Gysi",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Gysi."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Hagnauer",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Hagnauer."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Häfig",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Häfig."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Märk",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Märk."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Märk",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rudolf Märk."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Rychner",
+    "forename": "",
+    "title": "",
+    "occupation": "Schaalmacher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rychner. Schaalmacher."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Trog",
+    "forename": "",
+    "title": "",
+    "occupation": "Schaalmacher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Trog. Schaalmacher."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Rychner",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Rychner."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Seiler",
+    "forename": "Hieronymus",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hieronymus Seiler."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Schmutziger",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Schmutziger."
+   },
+   {
+    "line_from": 16,
+    "line_to": 21,
+    "kind": "sonst",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Die schon seit so vielen Jahren hier rühmlichst stark getriebene Messerschmid = Profession, geht allezeit mit bestem Erfolg ihren Gang fort, dermahlen sind arbeitende Meister allhier 35, welche alle Arten Arbeiten, von der geringsten bis zur feinsten, in Scheeren, Messern, Scheermessern ?c. verfertigen."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "sonst",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Die Meisterschaft der Weißgerber besteht in 10 Meister, und der arbeitenden Rothgerber aus 8."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "sonst",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kammacher sind 7, die aus der ganzen Eidgenoßschaft Bestellungen erhalten."
+   },
+   {
+    "line_from": 26,
+    "line_to": 29,
+    "kind": "firma",
+    "heading": "Arau",
+    "place": "Suhr bey Arau",
+    "surname": "Gysi",
+    "forename": "",
+    "title": "und Comp.",
+    "occupation": "privilegirte Geschwind = Bleiche",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "In Suhr bey Arau halten Gysi und Comp. eine privilegirte Geschwind = Bleiche, welche in 14 Tagen Baumwollengarn und andre kleine Artikel, schön weiß und ohne Nachtheil der Stärke liefert."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:09:42+01:00",
+ "last_error": null
+}

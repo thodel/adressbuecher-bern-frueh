@@ -1,0 +1,557 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1836",
+ "page": 408,
+ "section": "einwohner_nachtrag",
+ "started": "2026-11-10T21:40:23+01:00",
+ "thinking": "low",
+ "seconds": 30.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2385,
+  "output": 5030,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": null,\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Nachträgliche\"},\n    {\"n\": 2, \"text\": \"Adressenberichtigungen\"},\n    {\"n\": 3, \"text\": \"der\"},\n    {\"n\": 4, \"text\": \"Stadt Bern.\"},\n    {\"n\": 5, \"text\": \"A.\"},\n    {\"n\": 6, \"text\": \"Aeschlimann, Jakob, Lohnwascher, R. Qr. Spitalgasse * Nr. 139.\"},\n    {\"n\": 7, \"text\": \"Aeschlimann, L. G., 7te Zeile auf S. 40, ist erster Salzhandlungs=\"},\n    {\"n\": 8, \"text\": \"commis. H.\"},\n    {\"n\": 9, \"text\": \"B.\"},\n    {\"n\": 10, \"text\": \"Bandelier, J. B., Sprachlehrer, ist von Bern fort und ist zu streichen.\"},\n    {\"n\": 11, \"text\": \"Bandelier, Jos., Sattler u. Tapezierer, Gb. Qr. Marktg. * Nr. 41.\"},\n    {\"n\": 12, \"text\": \"Baumann, Joh., Schneidermstr., W. Qr. Postgasse * Nr. 33.\"},\n    {\"n\": 13, \"text\": \"Bay, Schwestern, wohnen Gb. Qr. Kachelmarkt, und nicht Gerbern=\"},\n    {\"n\": 14, \"text\": \"laube.\"},\n    {\"n\": 15, \"text\": \"Benteli, Amtsnotar, hält ein ausgezeichnetes Notariats- und Com=\"},\n    {\"n\": 16, \"text\": \"missionsbureau, welches alle nur immer vorkommenden\"},\n    {\"n\": 17, \"text\": \"Geschäftszweige besorgt. Münsterplatz Nr. 259, nebst\"},\n    {\"n\": 18, \"text\": \"Antiquarhandlung, Gn. Qr. Kramg. * Nr. 154.\"},\n    {\"n\": 19, \"text\": \"Berard, Georg, Handelsmann, Gn. Qr. Kramg. * Nr. 164.\"},\n    {\"n\": 20, \"text\": \"Besson, Friedr., Schuhmacher, R. Qr. Aarbergerg. S. Nr. 60.\"},\n    {\"n\": 21, \"text\": \"Biland, Schuhmacher, Gn. Qr. Kramg. * Nr. 203, ist unter der\"},\n    {\"n\": 22, \"text\": \"Einwohnerschaft ausgelassen.\"},\n    {\"n\": 23, \"text\": \"Bizius, Friedr. Bernhard, Dienstenzinskasseverwalter u. gew. Amts=\"},\n    {\"n\": 24, \"text\": \"notar, Gn. Qr. Kramg. S. Nr. 210, und Keßlergasse *\"},\n    {\"n\": 25, \"text\": \"Nr. 251. H. u. B.\"},\n    {\"n\": 26, \"text\": \"Blauner, Wittwe, geb. Lutz, Aarzieledrittel. H. u. B.\"},\n    {\"n\": 27, \"text\": \"Blumenstein ist nicht mehr Centr. Polizeidirektor, pag. 44.\"},\n    {\"n\": 28, \"text\": \"Bonnet, Coiffeur, Gn. Qr. Kramg. * Nr. 153. Inventeur des Tou-\"},\n    {\"n\": 29, \"text\": \"pets aërieux.\"},\n    {\"n\": 30, \"text\": \"Brand, F., Schneidermeister, R. Qr. Aarbergerg. * Nr. 37.\"},\n    {\"n\": 31, \"text\": \"Brugger, Eman. Bernh., Negotiant, in Neuenburg. B.\"},\n    {\"n\": 32, \"text\": \"Brügger, David Eduard, Hauptmann und Instructionsadjutant, soll\"},\n    {\"n\": 33, \"text\": \"heißen: Brugger 2c. (s. S. 45.)\"},\n    {\"n\": 34, \"text\": \"Brunner, Friedr., Oberlieut., Negot., und } ist der Gleiche.\"},\n    {\"n\": 35, \"text\": \"Brunner-Gerlach, Friedr., Negot., } ist der Gleiche.\"},\n    {\"n\": 36, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeschlimann\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnwascher\",\n      \"address\": \"R. Qr. Spitalgasse * Nr. 139\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Spitalgasse\",\n      \"house_no\": \"139\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aeschlimann, Jakob, Lohnwascher, R. Qr. Spitalgasse * Nr. 139.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"A.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeschlimann\",\n      \"forename\": \"L. G.\",\n      \"title\": \"\",\n      \"occupation\": \"erster Salzhandlungscommis\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"7te Zeile auf S. 40, ist erster Salzhandlungscommis. H.\",\n      \"text\": \"Aeschlimann, L. G., 7te Zeile auf S. 40, ist erster Salzhandlungscommis. H.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bandelier\",\n      \"forename\": \"J. B.\",\n      \"title\": \"\",\n      \"occupation\": \"Sprachlehrer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"ist von Bern fort und ist zu streichen.\",\n      \"text\": \"Bandelier, J. B., Sprachlehrer, ist von Bern fort und ist zu streichen.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bandelier\",\n      \"forename\": \"Jos.\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler u. Tapezierer\",\n      \"address\": \"Gb. Qr. Marktg. * Nr. 41\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"41\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bandelier, Jos., Sattler u. Tapezierer, Gb. Qr. Marktg. * Nr. 41.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumann\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneidermstr.\",\n      \"address\": \"W. Qr. Postgasse * Nr. 33\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Postgasse\",\n      \"house_no\": \"33\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Baumann, Joh., Schneidermstr., W. Qr. Postgasse * Nr. 33.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bay\",\n      \"forename\": \"\",\n      \"title\": \"Schwestern\",\n      \"occupation\": \"\",\n      \"address\": \"Gb. Qr. Kachelmarkt\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Kachelmarkt\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"wohnen Gb. Qr. Kachelmarkt, und nicht Gerbernlaube.\",\n      \"text\": \"Bay, Schwestern, wohnen Gb. Qr. Kachelmarkt, und nicht Gerbernlaube.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Benteli\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Amtsnotar, hält ein ausgezeichnetes Notariats- und Commissionsbureau, welches alle nur immer vorkommenden Geschäftszweige besorgt. Münsterplatz Nr. 259, nebst Antiquarhandlung\",\n      \"address\": \"Münsterplatz Nr. 259, nebst Antiquarhandlung, Gn. Qr. Kramg. * Nr. 154\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Münsterplatz / Kramg.\",\n      \"house_no\": \"259 / 154\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Benteli, Amtsnotar, hält ein ausgezeichnetes Notariats- und Commissionsbureau, welches alle nur immer vorkommenden Geschäftszweige besorgt. Münsterplatz Nr. 259, nebst Antiquarhandlung, Gn. Qr. Kramg. * Nr. 154.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Berard\",\n      \"forename\": \"Georg\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"Gn. Qr. Kramg. * Nr. 164\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramg.\",\n      \"house_no\": \"164\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Berard, Georg, Handelsmann, Gn. Qr. Kramg. * Nr. 164.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Besson\",\n      \"forename\": \"Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"R. Qr. Aarbergerg. S. Nr. 60\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Aarbergerg.\",\n      \"house_no\": \"60\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Besson, Friedr., Schuhmacher, R. Qr. Aarbergerg. S. Nr. 60.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Biland\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"Gn. Qr. Kramg. * Nr. 203\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramg.\",\n      \"house_no\": \"203\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"ist unter der Einwohnerschaft ausgelassen.\",\n      \"text\": \"Biland, Schuhmacher, Gn. Qr. Kramg. * Nr. 203, ist unter der Einwohnerschaft ausgelassen.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bizius\",\n      \"forename\": \"Friedr. Bernhard\",\n      \"title\": \"\",\n      \"occupation\": \"Dienstenzinskasseverwalter u. gew. Amtsnotar\",\n      \"address\": \"Gn. Qr. Kramg. S. Nr. 210, und Keßlergasse * Nr. 251\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramg. / Keßlergasse\",\n      \"house_no\": \"210 / 251\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Bizius, Friedr. Bernhard, Dienstenzinskasseverwalter u. gew. Amtsnotar, Gn. Qr. Kramg. S. Nr. 210, und Keßlergasse * Nr. 251. H. u. B.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blauner\",\n      \"forename\": \"\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"Aarzieledrittel\",\n      \"quarter\": \"\",\n      \"street\": \"Aarzieledrittel\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Lutz. H. u. B.\",\n      \"text\": \"Blauner, Wittwe, geb. Lutz, Aarzieledrittel. H. u. B.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blumenstein\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"ist nicht mehr Centr. Polizeidirektor, pag. 44.\",\n      \"text\": \"Blumenstein ist nicht mehr Centr. Polizeidirektor, pag. 44.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bonnet\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Coiffeur, Inventeur des Toupets aërieux\",\n      \"address\": \"Gn. Qr. Kramg. * Nr. 153\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramg.\",\n      \"house_no\": \"153\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bonnet, Coiffeur, Gn. Qr. Kramg. * Nr. 153. Inventeur des Toupets aërieux.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brand\",\n      \"forename\": \"F.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneidermeister\",\n      \"address\": \"R. Qr. Aarbergerg. * Nr. 37\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Aarbergerg.\",\n      \"house_no\": \"37\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brand, F., Schneidermeister, R. Qr. Aarbergerg. * Nr. 37.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Neuenburg\",\n      \"surname\": \"Brugger\",\n      \"forename\": \"Eman. Bernh.\",\n      \"title\": \"\",\n      \"occupation\": \"Negotiant\",\n      \"address\": \"in Neuenburg\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Brugger, Eman. Bernh., Negotiant, in Neuenburg. B.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 33,\n      \"kind\": \"verweis\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brügger\",\n      \"forename\": \"David Eduard\",\n      \"title\": \"\",\n      \"occupation\": \"Hauptmann und Instructionsadjutant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"soll heißen: Brugger 2c. (s. S. 45.)\",\n      \"text\": \"Brügger, David Eduard, Hauptmann und Instructionsadjutant, soll heißen: Brugger 2c. (s. S. 45.)\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunner\",\n      \"forename\": \"Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Oberlieut., Negot.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"und Brunner-Gerlach, Friedr., Negot., ist der Gleiche.\",\n      \"text\": \"Brunner, Friedr., Oberlieut., Negot., und Brunner-Gerlach, Friedr., Negot., ist der Gleiche.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"B.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunner-Gerlach\",\n      \"forename\": \"Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Negot.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"mit Brunner, Friedr., Oberlieut., Negot., ist der Gleiche.\",\n      \"text\": \"Brunner-Gerlach, Friedr., Negot., ist der Gleiche.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": null,
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "Nachträgliche"
+   },
+   {
+    "n": 2,
+    "text": "Adressenberichtigungen"
+   },
+   {
+    "n": 3,
+    "text": "der"
+   },
+   {
+    "n": 4,
+    "text": "Stadt Bern."
+   },
+   {
+    "n": 5,
+    "text": "A."
+   },
+   {
+    "n": 6,
+    "text": "Aeschlimann, Jakob, Lohnwascher, R. Qr. Spitalgasse * Nr. 139."
+   },
+   {
+    "n": 7,
+    "text": "Aeschlimann, L. G., 7te Zeile auf S. 40, ist erster Salzhandlungs="
+   },
+   {
+    "n": 8,
+    "text": "commis. H."
+   },
+   {
+    "n": 9,
+    "text": "B."
+   },
+   {
+    "n": 10,
+    "text": "Bandelier, J. B., Sprachlehrer, ist von Bern fort und ist zu streichen."
+   },
+   {
+    "n": 11,
+    "text": "Bandelier, Jos., Sattler u. Tapezierer, Gb. Qr. Marktg. * Nr. 41."
+   },
+   {
+    "n": 12,
+    "text": "Baumann, Joh., Schneidermstr., W. Qr. Postgasse * Nr. 33."
+   },
+   {
+    "n": 13,
+    "text": "Bay, Schwestern, wohnen Gb. Qr. Kachelmarkt, und nicht Gerbern="
+   },
+   {
+    "n": 14,
+    "text": "laube."
+   },
+   {
+    "n": 15,
+    "text": "Benteli, Amtsnotar, hält ein ausgezeichnetes Notariats- und Com="
+   },
+   {
+    "n": 16,
+    "text": "missionsbureau, welches alle nur immer vorkommenden"
+   },
+   {
+    "n": 17,
+    "text": "Geschäftszweige besorgt. Münsterplatz Nr. 259, nebst"
+   },
+   {
+    "n": 18,
+    "text": "Antiquarhandlung, Gn. Qr. Kramg. * Nr. 154."
+   },
+   {
+    "n": 19,
+    "text": "Berard, Georg, Handelsmann, Gn. Qr. Kramg. * Nr. 164."
+   },
+   {
+    "n": 20,
+    "text": "Besson, Friedr., Schuhmacher, R. Qr. Aarbergerg. S. Nr. 60."
+   },
+   {
+    "n": 21,
+    "text": "Biland, Schuhmacher, Gn. Qr. Kramg. * Nr. 203, ist unter der"
+   },
+   {
+    "n": 22,
+    "text": "Einwohnerschaft ausgelassen."
+   },
+   {
+    "n": 23,
+    "text": "Bizius, Friedr. Bernhard, Dienstenzinskasseverwalter u. gew. Amts="
+   },
+   {
+    "n": 24,
+    "text": "notar, Gn. Qr. Kramg. S. Nr. 210, und Keßlergasse *"
+   },
+   {
+    "n": 25,
+    "text": "Nr. 251. H. u. B."
+   },
+   {
+    "n": 26,
+    "text": "Blauner, Wittwe, geb. Lutz, Aarzieledrittel. H. u. B."
+   },
+   {
+    "n": 27,
+    "text": "Blumenstein ist nicht mehr Centr. Polizeidirektor, pag. 44."
+   },
+   {
+    "n": 28,
+    "text": "Bonnet, Coiffeur, Gn. Qr. Kramg. * Nr. 153. Inventeur des Tou-"
+   },
+   {
+    "n": 29,
+    "text": "pets aërieux."
+   },
+   {
+    "n": 30,
+    "text": "Brand, F., Schneidermeister, R. Qr. Aarbergerg. * Nr. 37."
+   },
+   {
+    "n": 31,
+    "text": "Brugger, Eman. Bernh., Negotiant, in Neuenburg. B."
+   },
+   {
+    "n": 32,
+    "text": "Brügger, David Eduard, Hauptmann und Instructionsadjutant, soll"
+   },
+   {
+    "n": 33,
+    "text": "heißen: Brugger 2c. (s. S. 45.)"
+   },
+   {
+    "n": 34,
+    "text": "Brunner, Friedr., Oberlieut., Negot., und } ist der Gleiche."
+   },
+   {
+    "n": 35,
+    "text": "Brunner-Gerlach, Friedr., Negot., } ist der Gleiche."
+   },
+   {
+    "n": 36,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aeschlimann",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Lohnwascher",
+    "address": "R. Qr. Spitalgasse * Nr. 139",
+    "quarter": "R. Qr.",
+    "street": "Spitalgasse",
+    "house_no": "139",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aeschlimann, Jakob, Lohnwascher, R. Qr. Spitalgasse * Nr. 139."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "A.",
+    "place": "Bern",
+    "surname": "Aeschlimann",
+    "forename": "L. G.",
+    "title": "",
+    "occupation": "erster Salzhandlungscommis",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "7te Zeile auf S. 40, ist erster Salzhandlungscommis. H.",
+    "text": "Aeschlimann, L. G., 7te Zeile auf S. 40, ist erster Salzhandlungscommis. H."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Bandelier",
+    "forename": "J. B.",
+    "title": "",
+    "occupation": "Sprachlehrer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "ist von Bern fort und ist zu streichen.",
+    "text": "Bandelier, J. B., Sprachlehrer, ist von Bern fort und ist zu streichen."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Bandelier",
+    "forename": "Jos.",
+    "title": "",
+    "occupation": "Sattler u. Tapezierer",
+    "address": "Gb. Qr. Marktg. * Nr. 41",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "41",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bandelier, Jos., Sattler u. Tapezierer, Gb. Qr. Marktg. * Nr. 41."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Baumann",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Schneidermstr.",
+    "address": "W. Qr. Postgasse * Nr. 33",
+    "quarter": "W. Qr.",
+    "street": "Postgasse",
+    "house_no": "33",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Baumann, Joh., Schneidermstr., W. Qr. Postgasse * Nr. 33."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Bay",
+    "forename": "",
+    "title": "Schwestern",
+    "occupation": "",
+    "address": "Gb. Qr. Kachelmarkt",
+    "quarter": "Gb. Qr.",
+    "street": "Kachelmarkt",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "wohnen Gb. Qr. Kachelmarkt, und nicht Gerbernlaube.",
+    "text": "Bay, Schwestern, wohnen Gb. Qr. Kachelmarkt, und nicht Gerbernlaube."
+   },
+   {
+    "line_from": 15,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Benteli",
+    "forename": "",
+    "title": "",
+    "occupation": "Amtsnotar, hält ein ausgezeichnetes Notariats- und Commissionsbureau, welches alle nur immer vorkommenden Geschäftszweige besorgt. Münsterplatz Nr. 259, nebst Antiquarhandlung",
+    "address": "Münsterplatz Nr. 259, nebst Antiquarhandlung, Gn. Qr. Kramg. * Nr. 154",
+    "quarter": "Gn. Qr.",
+    "street": "Münsterplatz / Kramg.",
+    "house_no": "259 / 154",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Benteli, Amtsnotar, hält ein ausgezeichnetes Notariats- und Commissionsbureau, welches alle nur immer vorkommenden Geschäftszweige besorgt. Münsterplatz Nr. 259, nebst Antiquarhandlung, Gn. Qr. Kramg. * Nr. 154."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Berard",
+    "forename": "Georg",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "Gn. Qr. Kramg. * Nr. 164",
+    "quarter": "Gn. Qr.",
+    "street": "Kramg.",
+    "house_no": "164",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Berard, Georg, Handelsmann, Gn. Qr. Kramg. * Nr. 164."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Besson",
+    "forename": "Friedr.",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "R. Qr. Aarbergerg. S. Nr. 60",
+    "quarter": "R. Qr.",
+    "street": "Aarbergerg.",
+    "house_no": "60",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Besson, Friedr., Schuhmacher, R. Qr. Aarbergerg. S. Nr. 60."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Biland",
+    "forename": "",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "Gn. Qr. Kramg. * Nr. 203",
+    "quarter": "Gn. Qr.",
+    "street": "Kramg.",
+    "house_no": "203",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "ist unter der Einwohnerschaft ausgelassen.",
+    "text": "Biland, Schuhmacher, Gn. Qr. Kramg. * Nr. 203, ist unter der Einwohnerschaft ausgelassen."
+   },
+   {
+    "line_from": 23,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Bizius",
+    "forename": "Friedr. Bernhard",
+    "title": "",
+    "occupation": "Dienstenzinskasseverwalter u. gew. Amtsnotar",
+    "address": "Gn. Qr. Kramg. S. Nr. 210, und Keßlergasse * Nr. 251",
+    "quarter": "Gn. Qr.",
+    "street": "Kramg. / Keßlergasse",
+    "house_no": "210 / 251",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Bizius, Friedr. Bernhard, Dienstenzinskasseverwalter u. gew. Amtsnotar, Gn. Qr. Kramg. S. Nr. 210, und Keßlergasse * Nr. 251. H. u. B."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Blauner",
+    "forename": "",
+    "title": "Wittwe",
+    "occupation": "",
+    "address": "Aarzieledrittel",
+    "quarter": "",
+    "street": "Aarzieledrittel",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Lutz. H. u. B.",
+    "text": "Blauner, Wittwe, geb. Lutz, Aarzieledrittel. H. u. B."
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Blumenstein",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "ist nicht mehr Centr. Polizeidirektor, pag. 44.",
+    "text": "Blumenstein ist nicht mehr Centr. Polizeidirektor, pag. 44."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Bonnet",
+    "forename": "",
+    "title": "",
+    "occupation": "Coiffeur, Inventeur des Toupets aërieux",
+    "address": "Gn. Qr. Kramg. * Nr. 153",
+    "quarter": "Gn. Qr.",
+    "street": "Kramg.",
+    "house_no": "153",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bonnet, Coiffeur, Gn. Qr. Kramg. * Nr. 153. Inventeur des Toupets aërieux."
+   },
+   {
+    "line_from": 30,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Brand",
+    "forename": "F.",
+    "title": "",
+    "occupation": "Schneidermeister",
+    "address": "R. Qr. Aarbergerg. * Nr. 37",
+    "quarter": "R. Qr.",
+    "street": "Aarbergerg.",
+    "house_no": "37",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brand, F., Schneidermeister, R. Qr. Aarbergerg. * Nr. 37."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Neuenburg",
+    "surname": "Brugger",
+    "forename": "Eman. Bernh.",
+    "title": "",
+    "occupation": "Negotiant",
+    "address": "in Neuenburg",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Brugger, Eman. Bernh., Negotiant, in Neuenburg. B."
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "verweis",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Brügger",
+    "forename": "David Eduard",
+    "title": "",
+    "occupation": "Hauptmann und Instructionsadjutant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "soll heißen: Brugger 2c. (s. S. 45.)",
+    "text": "Brügger, David Eduard, Hauptmann und Instructionsadjutant, soll heißen: Brugger 2c. (s. S. 45.)"
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Brunner",
+    "forename": "Friedr.",
+    "title": "",
+    "occupation": "Oberlieut., Negot.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "und Brunner-Gerlach, Friedr., Negot., ist der Gleiche.",
+    "text": "Brunner, Friedr., Oberlieut., Negot., und Brunner-Gerlach, Friedr., Negot., ist der Gleiche."
+   },
+   {
+    "line_from": 35,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "B.",
+    "place": "Bern",
+    "surname": "Brunner-Gerlach",
+    "forename": "Friedr.",
+    "title": "",
+    "occupation": "Negot.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "mit Brunner, Friedr., Oberlieut., Negot., ist der Gleiche.",
+    "text": "Brunner-Gerlach, Friedr., Negot., ist der Gleiche."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:40:54+01:00",
+ "last_error": null
+}

@@ -1,0 +1,465 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 42,
+ "section": "einsassen",
+ "started": "2026-11-10T21:49:38+01:00",
+ "thinking": "low",
+ "seconds": 26.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4678,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"29\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 29 —\"},\n    {\"n\": 2, \"text\": \"Nr.    Geb.\"},\n    {\"n\": 3, \"text\": \"Christen.\"},\n    {\"n\": 4, \"text\": \"1    774 Kaspar, Lehenmann, a. Affoltern - VII, 111.\"},\n    {\"n\": 5, \"text\": \"     775 Fr. - Elis. Wiedmer, a. Eggiwyl.\"},\n    {\"n\": 6, \"text\": \"         4 K. - 805 Samuel. - 808 Anna Susanna. - 11\"},\n    {\"n\": 7, \"text\": \"         Kaspar. - 16 Katharina.\"},\n    {\"n\": 8, \"text\": \"2    804 Anna, Hauseigenthümerin, a. Hasle b. Bern - II, 98.\"},\n    {\"n\": 9, \"text\": \"3    796 David, Dachdecker, a. Thörigen - IV, 321.\"},\n    {\"n\": 10, \"text\": \"     788 Fr. II Ehe. - Marg. Ros. Wenger geb. Schumacher,\"},\n    {\"n\": 11, \"text\": \"         a. Gurzelen.\"},\n    {\"n\": 12, \"text\": \"4    795 Barb. geb. Bühlmann, Käshändlerin, a. Gutenburg -\"},\n    {\"n\": 13, \"text\": \"         II, 110.\"},\n    {\"n\": 14, \"text\": \"         1 S. - 825 Felix.\"},\n    {\"n\": 15, \"text\": \"5    804 Karl Sebast., Straßenbauaufseher, a. Urseren - I, 252.\"},\n    {\"n\": 16, \"text\": \"         Fr. - Josepha Kathry, a. Urseren.\"},\n    {\"n\": 17, \"text\": \"         7 K. - 829 Karl Christ. - 32 Gerold. - 36 Jos.\"},\n    {\"n\": 18, \"text\": \"         Klara. - 38 Karl Joseph. - 40 Dom. Donatian.\"},\n    {\"n\": 19, \"text\": \"         - 42 Karoline. - 47 Maria.\"},\n    {\"n\": 20, \"text\": \"6    816 Magd., Schneiderin, a. Ochlenberg - IV, 299.\"},\n    {\"n\": 21, \"text\": \"Christener.\"},\n    {\"n\": 22, \"text\": \"1    794 Christian, Steinhauergesell und Hauseigenthümer, a.\"},\n    {\"n\": 23, \"text\": \"         Bowyl und Zäziwyl - VII, 146.\"},\n    {\"n\": 24, \"text\": \"     791 Fr. - Sus. Lienhard, a. Buchs.\"},\n    {\"n\": 25, \"text\": \"         3 T. - 824 Maria Susanna. - 29 Maria Elisab.\"},\n    {\"n\": 26, \"text\": \"         - 35 Anna Katharina.\"},\n    {\"n\": 27, \"text\": \"2    816 Jakob, Schneider, a. Bowyl und Zeziwyl - I, 20.\"},\n    {\"n\": 28, \"text\": \"     817 Fr. - Maria Rüfenacht, a. Walkringen.\"},\n    {\"n\": 29, \"text\": \"Ciolina.\"},\n    {\"n\": 30, \"text\": \"1    794 Franz, Quincailleriehändler, a. Craveggio, KN. Sar-\"},\n    {\"n\": 31, \"text\": \"         dinien - IV, 172.\"},\n    {\"n\": 32, \"text\": \"         (Fr. nicht eingeschrieben - in Italien.)\"},\n    {\"n\": 33, \"text\": \"         5 K. - 821 Joh. Baptist. - 31 Anton. - (Die drei\"},\n    {\"n\": 34, \"text\": \"         übrigen in Italien.)\"},\n    {\"n\": 35, \"text\": \"2        Johann Maria, Handelsmann mit Modewaaren, As-\"},\n    {\"n\": 36, \"text\": \"         socirter des Hauses Joseph Ciolina, a. Toceno in\"},\n    {\"n\": 37, \"text\": \"         Piemont - IV, 169.\"},\n    {\"n\": 38, \"text\": \"     804 Fr. - Elis. Hel. Großcamp, a. Düsseldorf.\"},\n    {\"n\": 39, \"text\": \"         4 K. - 829 Jos. Anton. - 835 Joh. Maria Franz.\"},\n    {\"n\": 40, \"text\": \"         - 836 Maria Gertrud. - Louise.\"},\n    {\"n\": 41, \"text\": \"3        Johann Peter, Handelsmann mit Modewaaren, As-\"},\n    {\"n\": 42, \"text\": \"         socirter des Hauses Joseph Ciolina, a. Toceno - IV, 182.\"},\n    {\"n\": 43, \"text\": \"Cloos.\"},\n    {\"n\": 44, \"text\": \"1    810 Joh. Joseph, Buchbinder, a. Enges, K. Neuenburg -\"},\n    {\"n\": 45, \"text\": \"         II, 268.\"},\n    {\"n\": 46, \"text\": \"     808 Fr. - Maria Kath. Zeender.\"},\n    {\"n\": 47, \"text\": \"         3 K. - 837 Maria Kath. Henriette. - 42 Alb. Fr.\"},\n    {\"n\": 48, \"text\": \"         Ernst. - 47 H. Ed. Gustav.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Christen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christen\",\n      \"forename\": \"Kaspar\",\n      \"title\": \"\",\n      \"occupation\": \"Lehenmann\",\n      \"address\": \"VII, 111\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"111\",\n      \"origin\": \"Affoltern\",\n      \"birth_year\": \"1774\",\n      \"household\": \"775 Fr. - Elis. Wiedmer, a. Eggiwyl. 4 K. - 805 Samuel. - 808 Anna Susanna. - 11 Kaspar. - 16 Katharina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 774 Kaspar, Lehenmann, a. Affoltern - VII, 111. 775 Fr. - Elis. Wiedmer, a. Eggiwyl. 4 K. - 805 Samuel. - 808 Anna Susanna. - 11 Kaspar. - 16 Katharina.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Christen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christen\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Hauseigenthümerin\",\n      \"address\": \"II, 98\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"98\",\n      \"origin\": \"Hasle b. Bern\",\n      \"birth_year\": \"1804\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 804 Anna, Hauseigenthümerin, a. Hasle b. Bern - II, 98.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Christen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christen\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"IV, 321\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"321\",\n      \"origin\": \"Thörigen\",\n      \"birth_year\": \"1796\",\n      \"household\": \"788 Fr. II Ehe. - Marg. Ros. Wenger geb. Schumacher, a. Gurzelen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 796 David, Dachdecker, a. Thörigen - IV, 321. 788 Fr. II Ehe. - Marg. Ros. Wenger geb. Schumacher, a. Gurzelen.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Christen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christen\",\n      \"forename\": \"Barb.\",\n      \"title\": \"\",\n      \"occupation\": \"Käshändlerin\",\n      \"address\": \"II, 110\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"110\",\n      \"origin\": \"Gutenburg\",\n      \"birth_year\": \"1795\",\n      \"household\": \"1 S. - 825 Felix.\",\n      \"note\": \"Name aus Zwischentitel; Geburtsname: geb. Bühlmann\",\n      \"text\": \"4 795 Barb. geb. Bühlmann, Käshändlerin, a. Gutenburg - II, 110. 1 S. - 825 Felix.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Christen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christen\",\n      \"forename\": \"Karl Sebast.\",\n      \"title\": \"\",\n      \"occupation\": \"Straßenbauaufseher\",\n      \"address\": \"I, 252\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"252\",\n      \"origin\": \"Urseren\",\n      \"birth_year\": \"1804\",\n      \"household\": \"Fr. - Josepha Kathry, a. Urseren. 7 K. - 829 Karl Christ. - 32 Gerold. - 36 Jos. Klara. - 38 Karl Joseph. - 40 Dom. Donatian. - 42 Karoline. - 47 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 804 Karl Sebast., Straßenbauaufseher, a. Urseren - I, 252. Fr. - Josepha Kathry, a. Urseren. 7 K. - 829 Karl Christ. - 32 Gerold. - 36 Jos. Klara. - 38 Karl Joseph. - 40 Dom. Donatian. - 42 Karoline. - 47 Maria.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Christen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christen\",\n      \"forename\": \"Magd.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"IV, 299\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"299\",\n      \"origin\": \"Ochlenberg\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 816 Magd., Schneiderin, a. Ochlenberg - IV, 299.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Christener.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christener\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauergesell und Hauseigenthümer\",\n      \"address\": \"VII, 146\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"146\",\n      \"origin\": \"Bowyl und Zäziwyl\",\n      \"birth_year\": \"1794\",\n      \"household\": \"791 Fr. - Sus. Lienhard, a. Buchs. 3 T. - 824 Maria Susanna. - 29 Maria Elisab. - 35 Anna Katharina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 794 Christian, Steinhauergesell und Hauseigenthümer, a. Bowyl und Zäziwyl - VII, 146. 791 Fr. - Sus. Lienhard, a. Buchs. 3 T. - 824 Maria Susanna. - 29 Maria Elisab. - 35 Anna Katharina.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Christener.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christener\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"I, 20\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"20\",\n      \"origin\": \"Bowyl und Zeziwyl\",\n      \"birth_year\": \"1816\",\n      \"household\": \"817 Fr. - Maria Rüfenacht, a. Walkringen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 816 Jakob, Schneider, a. Bowyl und Zeziwyl - I, 20. 817 Fr. - Maria Rüfenacht, a. Walkringen.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Ciolina.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ciolina\",\n      \"forename\": \"Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Quincailleriehändler\",\n      \"address\": \"IV, 172\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"172\",\n      \"origin\": \"Craveggio, KN. Sardinien\",\n      \"birth_year\": \"1794\",\n      \"household\": \"(Fr. nicht eingeschrieben - in Italien.) 5 K. - 821 Joh. Baptist. - 31 Anton. - (Die drei übrigen in Italien.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 794 Franz, Quincailleriehändler, a. Craveggio, KN. Sardinien - IV, 172. (Fr. nicht eingeschrieben - in Italien.) 5 K. - 821 Joh. Baptist. - 31 Anton. - (Die drei übrigen in Italien.)\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Ciolina.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ciolina\",\n      \"forename\": \"Johann Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann mit Modewaaren, Associrter des Hauses Joseph Ciolina\",\n      \"address\": \"IV, 169\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"169\",\n      \"origin\": \"Toceno in Piemont\",\n      \"birth_year\": \"\",\n      \"household\": \"804 Fr. - Elis. Hel. Großcamp, a. Düsseldorf. 4 K. - 829 Jos. Anton. - 835 Joh. Maria Franz. - 836 Maria Gertrud. - Louise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 Johann Maria, Handelsmann mit Modewaaren, Associrter des Hauses Joseph Ciolina, a. Toceno in Piemont - IV, 169. 804 Fr. - Elis. Hel. Großcamp, a. Düsseldorf. 4 K. - 829 Jos. Anton. - 835 Joh. Maria Franz. - 836 Maria Gertrud. - Louise.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Ciolina.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ciolina\",\n      \"forename\": \"Johann Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann mit Modewaaren, Associrter des Hauses Joseph Ciolina\",\n      \"address\": \"IV, 182\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"182\",\n      \"origin\": \"Toceno\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 Johann Peter, Handelsmann mit Modewaaren, Associrter des Hauses Joseph Ciolina, a. Toceno - IV, 182.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"Cloos.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Cloos\",\n      \"forename\": \"Joh. Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"II, 268\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"268\",\n      \"origin\": \"Enges, K. Neuenburg\",\n      \"birth_year\": \"1810\",\n      \"household\": \"808 Fr. - Maria Kath. Zeender. 3 K. - 837 Maria Kath. Henriette. - 42 Alb. Fr. Ernst. - 47 H. Ed. Gustav.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Joh. Joseph, Buchbinder, a. Enges, K. Neuenburg - II, 268. 808 Fr. - Maria Kath. Zeender. 3 K. - 837 Maria Kath. Henriette. - 42 Alb. Fr. Ernst. - 47 H. Ed. Gustav.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "29",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 29 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr.    Geb."
+   },
+   {
+    "n": 3,
+    "text": "Christen."
+   },
+   {
+    "n": 4,
+    "text": "1    774 Kaspar, Lehenmann, a. Affoltern - VII, 111."
+   },
+   {
+    "n": 5,
+    "text": "     775 Fr. - Elis. Wiedmer, a. Eggiwyl."
+   },
+   {
+    "n": 6,
+    "text": "         4 K. - 805 Samuel. - 808 Anna Susanna. - 11"
+   },
+   {
+    "n": 7,
+    "text": "         Kaspar. - 16 Katharina."
+   },
+   {
+    "n": 8,
+    "text": "2    804 Anna, Hauseigenthümerin, a. Hasle b. Bern - II, 98."
+   },
+   {
+    "n": 9,
+    "text": "3    796 David, Dachdecker, a. Thörigen - IV, 321."
+   },
+   {
+    "n": 10,
+    "text": "     788 Fr. II Ehe. - Marg. Ros. Wenger geb. Schumacher,"
+   },
+   {
+    "n": 11,
+    "text": "         a. Gurzelen."
+   },
+   {
+    "n": 12,
+    "text": "4    795 Barb. geb. Bühlmann, Käshändlerin, a. Gutenburg -"
+   },
+   {
+    "n": 13,
+    "text": "         II, 110."
+   },
+   {
+    "n": 14,
+    "text": "         1 S. - 825 Felix."
+   },
+   {
+    "n": 15,
+    "text": "5    804 Karl Sebast., Straßenbauaufseher, a. Urseren - I, 252."
+   },
+   {
+    "n": 16,
+    "text": "         Fr. - Josepha Kathry, a. Urseren."
+   },
+   {
+    "n": 17,
+    "text": "         7 K. - 829 Karl Christ. - 32 Gerold. - 36 Jos."
+   },
+   {
+    "n": 18,
+    "text": "         Klara. - 38 Karl Joseph. - 40 Dom. Donatian."
+   },
+   {
+    "n": 19,
+    "text": "         - 42 Karoline. - 47 Maria."
+   },
+   {
+    "n": 20,
+    "text": "6    816 Magd., Schneiderin, a. Ochlenberg - IV, 299."
+   },
+   {
+    "n": 21,
+    "text": "Christener."
+   },
+   {
+    "n": 22,
+    "text": "1    794 Christian, Steinhauergesell und Hauseigenthümer, a."
+   },
+   {
+    "n": 23,
+    "text": "         Bowyl und Zäziwyl - VII, 146."
+   },
+   {
+    "n": 24,
+    "text": "     791 Fr. - Sus. Lienhard, a. Buchs."
+   },
+   {
+    "n": 25,
+    "text": "         3 T. - 824 Maria Susanna. - 29 Maria Elisab."
+   },
+   {
+    "n": 26,
+    "text": "         - 35 Anna Katharina."
+   },
+   {
+    "n": 27,
+    "text": "2    816 Jakob, Schneider, a. Bowyl und Zeziwyl - I, 20."
+   },
+   {
+    "n": 28,
+    "text": "     817 Fr. - Maria Rüfenacht, a. Walkringen."
+   },
+   {
+    "n": 29,
+    "text": "Ciolina."
+   },
+   {
+    "n": 30,
+    "text": "1    794 Franz, Quincailleriehändler, a. Craveggio, KN. Sar-"
+   },
+   {
+    "n": 31,
+    "text": "         dinien - IV, 172."
+   },
+   {
+    "n": 32,
+    "text": "         (Fr. nicht eingeschrieben - in Italien.)"
+   },
+   {
+    "n": 33,
+    "text": "         5 K. - 821 Joh. Baptist. - 31 Anton. - (Die drei"
+   },
+   {
+    "n": 34,
+    "text": "         übrigen in Italien.)"
+   },
+   {
+    "n": 35,
+    "text": "2        Johann Maria, Handelsmann mit Modewaaren, As-"
+   },
+   {
+    "n": 36,
+    "text": "         socirter des Hauses Joseph Ciolina, a. Toceno in"
+   },
+   {
+    "n": 37,
+    "text": "         Piemont - IV, 169."
+   },
+   {
+    "n": 38,
+    "text": "     804 Fr. - Elis. Hel. Großcamp, a. Düsseldorf."
+   },
+   {
+    "n": 39,
+    "text": "         4 K. - 829 Jos. Anton. - 835 Joh. Maria Franz."
+   },
+   {
+    "n": 40,
+    "text": "         - 836 Maria Gertrud. - Louise."
+   },
+   {
+    "n": 41,
+    "text": "3        Johann Peter, Handelsmann mit Modewaaren, As-"
+   },
+   {
+    "n": 42,
+    "text": "         socirter des Hauses Joseph Ciolina, a. Toceno - IV, 182."
+   },
+   {
+    "n": 43,
+    "text": "Cloos."
+   },
+   {
+    "n": 44,
+    "text": "1    810 Joh. Joseph, Buchbinder, a. Enges, K. Neuenburg -"
+   },
+   {
+    "n": 45,
+    "text": "         II, 268."
+   },
+   {
+    "n": 46,
+    "text": "     808 Fr. - Maria Kath. Zeender."
+   },
+   {
+    "n": 47,
+    "text": "         3 K. - 837 Maria Kath. Henriette. - 42 Alb. Fr."
+   },
+   {
+    "n": 48,
+    "text": "         Ernst. - 47 H. Ed. Gustav."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Christen.",
+    "place": "Bern",
+    "surname": "Christen",
+    "forename": "Kaspar",
+    "title": "",
+    "occupation": "Lehenmann",
+    "address": "VII, 111",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "111",
+    "origin": "Affoltern",
+    "birth_year": "1774",
+    "household": "775 Fr. - Elis. Wiedmer, a. Eggiwyl. 4 K. - 805 Samuel. - 808 Anna Susanna. - 11 Kaspar. - 16 Katharina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 774 Kaspar, Lehenmann, a. Affoltern - VII, 111. 775 Fr. - Elis. Wiedmer, a. Eggiwyl. 4 K. - 805 Samuel. - 808 Anna Susanna. - 11 Kaspar. - 16 Katharina."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Christen.",
+    "place": "Bern",
+    "surname": "Christen",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Hauseigenthümerin",
+    "address": "II, 98",
+    "quarter": "II",
+    "street": "",
+    "house_no": "98",
+    "origin": "Hasle b. Bern",
+    "birth_year": "1804",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 804 Anna, Hauseigenthümerin, a. Hasle b. Bern - II, 98."
+   },
+   {
+    "line_from": 9,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Christen.",
+    "place": "Bern",
+    "surname": "Christen",
+    "forename": "David",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "IV, 321",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "321",
+    "origin": "Thörigen",
+    "birth_year": "1796",
+    "household": "788 Fr. II Ehe. - Marg. Ros. Wenger geb. Schumacher, a. Gurzelen.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 796 David, Dachdecker, a. Thörigen - IV, 321. 788 Fr. II Ehe. - Marg. Ros. Wenger geb. Schumacher, a. Gurzelen."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Christen.",
+    "place": "Bern",
+    "surname": "Christen",
+    "forename": "Barb.",
+    "title": "",
+    "occupation": "Käshändlerin",
+    "address": "II, 110",
+    "quarter": "II",
+    "street": "",
+    "house_no": "110",
+    "origin": "Gutenburg",
+    "birth_year": "1795",
+    "household": "1 S. - 825 Felix.",
+    "note": "Name aus Zwischentitel; Geburtsname: geb. Bühlmann",
+    "text": "4 795 Barb. geb. Bühlmann, Käshändlerin, a. Gutenburg - II, 110. 1 S. - 825 Felix."
+   },
+   {
+    "line_from": 15,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Christen.",
+    "place": "Bern",
+    "surname": "Christen",
+    "forename": "Karl Sebast.",
+    "title": "",
+    "occupation": "Straßenbauaufseher",
+    "address": "I, 252",
+    "quarter": "I",
+    "street": "",
+    "house_no": "252",
+    "origin": "Urseren",
+    "birth_year": "1804",
+    "household": "Fr. - Josepha Kathry, a. Urseren. 7 K. - 829 Karl Christ. - 32 Gerold. - 36 Jos. Klara. - 38 Karl Joseph. - 40 Dom. Donatian. - 42 Karoline. - 47 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 804 Karl Sebast., Straßenbauaufseher, a. Urseren - I, 252. Fr. - Josepha Kathry, a. Urseren. 7 K. - 829 Karl Christ. - 32 Gerold. - 36 Jos. Klara. - 38 Karl Joseph. - 40 Dom. Donatian. - 42 Karoline. - 47 Maria."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Christen.",
+    "place": "Bern",
+    "surname": "Christen",
+    "forename": "Magd.",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "IV, 299",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "299",
+    "origin": "Ochlenberg",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "6 816 Magd., Schneiderin, a. Ochlenberg - IV, 299."
+   },
+   {
+    "line_from": 22,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Christener.",
+    "place": "Bern",
+    "surname": "Christener",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Steinhauergesell und Hauseigenthümer",
+    "address": "VII, 146",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "146",
+    "origin": "Bowyl und Zäziwyl",
+    "birth_year": "1794",
+    "household": "791 Fr. - Sus. Lienhard, a. Buchs. 3 T. - 824 Maria Susanna. - 29 Maria Elisab. - 35 Anna Katharina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 794 Christian, Steinhauergesell und Hauseigenthümer, a. Bowyl und Zäziwyl - VII, 146. 791 Fr. - Sus. Lienhard, a. Buchs. 3 T. - 824 Maria Susanna. - 29 Maria Elisab. - 35 Anna Katharina."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Christener.",
+    "place": "Bern",
+    "surname": "Christener",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "I, 20",
+    "quarter": "I",
+    "street": "",
+    "house_no": "20",
+    "origin": "Bowyl und Zeziwyl",
+    "birth_year": "1816",
+    "household": "817 Fr. - Maria Rüfenacht, a. Walkringen.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 816 Jakob, Schneider, a. Bowyl und Zeziwyl - I, 20. 817 Fr. - Maria Rüfenacht, a. Walkringen."
+   },
+   {
+    "line_from": 30,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Ciolina.",
+    "place": "Bern",
+    "surname": "Ciolina",
+    "forename": "Franz",
+    "title": "",
+    "occupation": "Quincailleriehändler",
+    "address": "IV, 172",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "172",
+    "origin": "Craveggio, KN. Sardinien",
+    "birth_year": "1794",
+    "household": "(Fr. nicht eingeschrieben - in Italien.) 5 K. - 821 Joh. Baptist. - 31 Anton. - (Die drei übrigen in Italien.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 794 Franz, Quincailleriehändler, a. Craveggio, KN. Sardinien - IV, 172. (Fr. nicht eingeschrieben - in Italien.) 5 K. - 821 Joh. Baptist. - 31 Anton. - (Die drei übrigen in Italien.)"
+   },
+   {
+    "line_from": 35,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Ciolina.",
+    "place": "Bern",
+    "surname": "Ciolina",
+    "forename": "Johann Maria",
+    "title": "",
+    "occupation": "Handelsmann mit Modewaaren, Associrter des Hauses Joseph Ciolina",
+    "address": "IV, 169",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "169",
+    "origin": "Toceno in Piemont",
+    "birth_year": "",
+    "household": "804 Fr. - Elis. Hel. Großcamp, a. Düsseldorf. 4 K. - 829 Jos. Anton. - 835 Joh. Maria Franz. - 836 Maria Gertrud. - Louise.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 Johann Maria, Handelsmann mit Modewaaren, Associrter des Hauses Joseph Ciolina, a. Toceno in Piemont - IV, 169. 804 Fr. - Elis. Hel. Großcamp, a. Düsseldorf. 4 K. - 829 Jos. Anton. - 835 Joh. Maria Franz. - 836 Maria Gertrud. - Louise."
+   },
+   {
+    "line_from": 41,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Ciolina.",
+    "place": "Bern",
+    "surname": "Ciolina",
+    "forename": "Johann Peter",
+    "title": "",
+    "occupation": "Handelsmann mit Modewaaren, Associrter des Hauses Joseph Ciolina",
+    "address": "IV, 182",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "182",
+    "origin": "Toceno",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 Johann Peter, Handelsmann mit Modewaaren, Associrter des Hauses Joseph Ciolina, a. Toceno - IV, 182."
+   },
+   {
+    "line_from": 44,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "Cloos.",
+    "place": "Bern",
+    "surname": "Cloos",
+    "forename": "Joh. Joseph",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "II, 268",
+    "quarter": "II",
+    "street": "",
+    "house_no": "268",
+    "origin": "Enges, K. Neuenburg",
+    "birth_year": "1810",
+    "household": "808 Fr. - Maria Kath. Zeender. 3 K. - 837 Maria Kath. Henriette. - 42 Alb. Fr. Ernst. - 47 H. Ed. Gustav.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Joh. Joseph, Buchbinder, a. Enges, K. Neuenburg - II, 268. 808 Fr. - Maria Kath. Zeender. 3 K. - 837 Maria Kath. Henriette. - 42 Alb. Fr. Ernst. - 47 H. Ed. Gustav."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:50:04+01:00",
+ "last_error": null
+}

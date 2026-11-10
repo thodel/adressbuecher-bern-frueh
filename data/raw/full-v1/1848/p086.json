@@ -1,0 +1,373 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 86,
+ "section": "einsassen",
+ "started": "2026-11-10T21:52:13+01:00",
+ "thinking": "low",
+ "seconds": 22.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3533,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"73\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 73 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Hurni a. Gurbrü.\"},\n    {\"n\": 4, \"text\": \"1 805 Peter, Zimmermeister - II, 70.\"},\n    {\"n\": 5, \"text\": \"798 Fr. - Elis. Bieri.\"},\n    {\"n\": 6, \"text\": \"1 S. - 831 Peter.\"},\n    {\"n\": 7, \"text\": \"2 810 Jakob, Zimmermeister - VII, 164.\"},\n    {\"n\": 8, \"text\": \"809 Fr. - Magd. Grünig a. Burgistein.\"},\n    {\"n\": 9, \"text\": \"2 K. - 836 Johann Jakob. - 39 Maria Magdalena.\"},\n    {\"n\": 10, \"text\": \"3 811 Jakob, Schuhmacher u. Kaffewirth - II, 58.\"},\n    {\"n\": 11, \"text\": \"818 Fr. - Anna Hurni a. Gurbrü.\"},\n    {\"n\": 12, \"text\": \"Huser.\"},\n    {\"n\": 13, \"text\": \"1 812 Christian, Lehenmann, a. Worb - I, 240.\"},\n    {\"n\": 14, \"text\": \"3 K. - 836 Maria. - 39 Christian. - 42 Rud. Friedr.\"},\n    {\"n\": 15, \"text\": \"Hutmacher.\"},\n    {\"n\": 16, \"text\": \"1 819 Niklaus, Ausschenker und Bäcker, aus Gysenstein -\"},\n    {\"n\": 17, \"text\": \"II, 33.\"},\n    {\"n\": 18, \"text\": \"813 Fr. - Christina Kämpfer.\"},\n    {\"n\": 19, \"text\": \"1 S. - 846 Karl.\"},\n    {\"n\": 20, \"text\": \"Huttenlocher.\"},\n    {\"n\": 21, \"text\": \"1 807 Anna Maria, geb. Weber, Gassenbesezerin, a. Stuttgart\"},\n    {\"n\": 22, \"text\": \"- III, 32.\"},\n    {\"n\": 23, \"text\": \"6 K. - 830 Henriette Sophie. - 32 Wilh. Nanette. -\"},\n    {\"n\": 24, \"text\": \"33 Marie Louise. - 35 Anna Maria. - 37 Friederike\"},\n    {\"n\": 25, \"text\": \"Karoline. - 40 Johann Jakob.\"},\n    {\"n\": 26, \"text\": \"Hutter.\"},\n    {\"n\": 27, \"text\": \"1 775 Magd. Sus., geb. Henz, Geschirrstickerin, a. Aarburg\"},\n    {\"n\": 28, \"text\": \"- VI, 61.\"},\n    {\"n\": 29, \"text\": \"3 S. - 811 Abrah. Is. - 14 Gottlieb. - 19 Gottfried.\"},\n    {\"n\": 30, \"text\": \"Jägli.\"},\n    {\"n\": 31, \"text\": \"1 809 Jakob, Schuhflicker und Grämpler, a. Küßnacht, K.\"},\n    {\"n\": 32, \"text\": \"Zürich - I, 215 c.\"},\n    {\"n\": 33, \"text\": \"804 Fr. - Maria Ramser, bern. Landsaßin.\"},\n    {\"n\": 34, \"text\": \"3 K. - 839 Joh. Jakob. - 42 Maria Elisabetha. -\"},\n    {\"n\": 35, \"text\": \"45 Samuel.\"},\n    {\"n\": 36, \"text\": \"Jaggi.\"},\n    {\"n\": 37, \"text\": \"1 805 Christen, Kleinhändler mit Holz, Strohhutpußer und\"},\n    {\"n\": 38, \"text\": \"Steinhauergesell, a. Reichenbach - V, 41.\"},\n    {\"n\": 39, \"text\": \"Fr. - Esther Spahr a. Benken, K. Basellandschaft.\"},\n    {\"n\": 40, \"text\": \"1 K. - 838 Charlotte.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Hurni a. Gurbrü.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hurni\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Zimmermeister\",\n      \"address\": \"II, 70\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"70\",\n      \"origin\": \"Gurbrü\",\n      \"birth_year\": \"1805\",\n      \"household\": \"798 Fr. - Elis. Bieri. 1 S. - 831 Peter.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Peter, Zimmermeister - II, 70. 798 Fr. - Elis. Bieri. 1 S. - 831 Peter.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Hurni a. Gurbrü.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hurni\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Zimmermeister\",\n      \"address\": \"VII, 164\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"164\",\n      \"origin\": \"Gurbrü\",\n      \"birth_year\": \"1810\",\n      \"household\": \"809 Fr. - Magd. Grünig a. Burgistein. 2 K. - 836 Johann Jakob. - 39 Maria Magdalena.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 810 Jakob, Zimmermeister - VII, 164. 809 Fr. - Magd. Grünig a. Burgistein. 2 K. - 836 Johann Jakob. - 39 Maria Magdalena.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Hurni a. Gurbrü.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hurni\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher u. Kaffewirth\",\n      \"address\": \"II, 58\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"58\",\n      \"origin\": \"Gurbrü\",\n      \"birth_year\": \"1811\",\n      \"household\": \"818 Fr. - Anna Hurni a. Gurbrü.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 811 Jakob, Schuhmacher u. Kaffewirth - II, 58. 818 Fr. - Anna Hurni a. Gurbrü.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Huser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Huser\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Lehenmann\",\n      \"address\": \"I, 240\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"240\",\n      \"origin\": \"Worb\",\n      \"birth_year\": \"1812\",\n      \"household\": \"3 K. - 836 Maria. - 39 Christian. - 42 Rud. Friedr.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Christian, Lehenmann, a. Worb - I, 240. 3 K. - 836 Maria. - 39 Christian. - 42 Rud. Friedr.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Hutmacher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hutmacher\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Ausschenker und Bäcker\",\n      \"address\": \"II, 33\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"33\",\n      \"origin\": \"Gysenstein\",\n      \"birth_year\": \"1819\",\n      \"household\": \"813 Fr. - Christina Kämpfer. 1 S. - 846 Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 819 Niklaus, Ausschenker und Bäcker, aus Gysenstein - II, 33. 813 Fr. - Christina Kämpfer. 1 S. - 846 Karl.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Huttenlocher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Huttenlocher\",\n      \"forename\": \"Anna Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Gassenbesezerin\",\n      \"address\": \"III, 32\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"32\",\n      \"origin\": \"Stuttgart\",\n      \"birth_year\": \"1807\",\n      \"household\": \"6 K. - 830 Henriette Sophie. - 32 Wilh. Nanette. - 33 Marie Louise. - 35 Anna Maria. - 37 Friederike Karoline. - 40 Johann Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Anna Maria, geb. Weber, Gassenbesezerin, a. Stuttgart - III, 32. 6 K. - 830 Henriette Sophie. - 32 Wilh. Nanette. - 33 Marie Louise. - 35 Anna Maria. - 37 Friederike Karoline. - 40 Johann Jakob.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Hutter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hutter\",\n      \"forename\": \"Magd. Sus.\",\n      \"title\": \"\",\n      \"occupation\": \"Geschirrstickerin\",\n      \"address\": \"VI, 61\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"Aarburg\",\n      \"birth_year\": \"1775\",\n      \"household\": \"3 S. - 811 Abrah. Is. - 14 Gottlieb. - 19 Gottfried.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 775 Magd. Sus., geb. Henz, Geschirrstickerin, a. Aarburg - VI, 61. 3 S. - 811 Abrah. Is. - 14 Gottlieb. - 19 Gottfried.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Jägli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jägli\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhflicker und Grämpler\",\n      \"address\": \"I, 215 c\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215 c\",\n      \"origin\": \"Küßnacht, K. Zürich\",\n      \"birth_year\": \"1809\",\n      \"household\": \"804 Fr. - Maria Ramser, bern. Landsaßin. 3 K. - 839 Joh. Jakob. - 42 Maria Elisabetha. - 45 Samuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Jakob, Schuhflicker und Grämpler, a. Küßnacht, K. Zürich - I, 215 c. 804 Fr. - Maria Ramser, bern. Landsaßin. 3 K. - 839 Joh. Jakob. - 42 Maria Elisabetha. - 45 Samuel.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Jaggi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jaggi\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Kleinhändler mit Holz, Strohhutpußer und Steinhauergesell\",\n      \"address\": \"V, 41\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"41\",\n      \"origin\": \"Reichenbach\",\n      \"birth_year\": \"1805\",\n      \"household\": \"Fr. - Esther Spahr a. Benken, K. Basellandschaft. 1 K. - 838 Charlotte.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Christen, Kleinhändler mit Holz, Strohhutpußer und Steinhauergesell, a. Reichenbach - V, 41. Fr. - Esther Spahr a. Benken, K. Basellandschaft. 1 K. - 838 Charlotte.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "73",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 73 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Hurni a. Gurbrü."
+   },
+   {
+    "n": 4,
+    "text": "1 805 Peter, Zimmermeister - II, 70."
+   },
+   {
+    "n": 5,
+    "text": "798 Fr. - Elis. Bieri."
+   },
+   {
+    "n": 6,
+    "text": "1 S. - 831 Peter."
+   },
+   {
+    "n": 7,
+    "text": "2 810 Jakob, Zimmermeister - VII, 164."
+   },
+   {
+    "n": 8,
+    "text": "809 Fr. - Magd. Grünig a. Burgistein."
+   },
+   {
+    "n": 9,
+    "text": "2 K. - 836 Johann Jakob. - 39 Maria Magdalena."
+   },
+   {
+    "n": 10,
+    "text": "3 811 Jakob, Schuhmacher u. Kaffewirth - II, 58."
+   },
+   {
+    "n": 11,
+    "text": "818 Fr. - Anna Hurni a. Gurbrü."
+   },
+   {
+    "n": 12,
+    "text": "Huser."
+   },
+   {
+    "n": 13,
+    "text": "1 812 Christian, Lehenmann, a. Worb - I, 240."
+   },
+   {
+    "n": 14,
+    "text": "3 K. - 836 Maria. - 39 Christian. - 42 Rud. Friedr."
+   },
+   {
+    "n": 15,
+    "text": "Hutmacher."
+   },
+   {
+    "n": 16,
+    "text": "1 819 Niklaus, Ausschenker und Bäcker, aus Gysenstein -"
+   },
+   {
+    "n": 17,
+    "text": "II, 33."
+   },
+   {
+    "n": 18,
+    "text": "813 Fr. - Christina Kämpfer."
+   },
+   {
+    "n": 19,
+    "text": "1 S. - 846 Karl."
+   },
+   {
+    "n": 20,
+    "text": "Huttenlocher."
+   },
+   {
+    "n": 21,
+    "text": "1 807 Anna Maria, geb. Weber, Gassenbesezerin, a. Stuttgart"
+   },
+   {
+    "n": 22,
+    "text": "- III, 32."
+   },
+   {
+    "n": 23,
+    "text": "6 K. - 830 Henriette Sophie. - 32 Wilh. Nanette. -"
+   },
+   {
+    "n": 24,
+    "text": "33 Marie Louise. - 35 Anna Maria. - 37 Friederike"
+   },
+   {
+    "n": 25,
+    "text": "Karoline. - 40 Johann Jakob."
+   },
+   {
+    "n": 26,
+    "text": "Hutter."
+   },
+   {
+    "n": 27,
+    "text": "1 775 Magd. Sus., geb. Henz, Geschirrstickerin, a. Aarburg"
+   },
+   {
+    "n": 28,
+    "text": "- VI, 61."
+   },
+   {
+    "n": 29,
+    "text": "3 S. - 811 Abrah. Is. - 14 Gottlieb. - 19 Gottfried."
+   },
+   {
+    "n": 30,
+    "text": "Jägli."
+   },
+   {
+    "n": 31,
+    "text": "1 809 Jakob, Schuhflicker und Grämpler, a. Küßnacht, K."
+   },
+   {
+    "n": 32,
+    "text": "Zürich - I, 215 c."
+   },
+   {
+    "n": 33,
+    "text": "804 Fr. - Maria Ramser, bern. Landsaßin."
+   },
+   {
+    "n": 34,
+    "text": "3 K. - 839 Joh. Jakob. - 42 Maria Elisabetha. -"
+   },
+   {
+    "n": 35,
+    "text": "45 Samuel."
+   },
+   {
+    "n": 36,
+    "text": "Jaggi."
+   },
+   {
+    "n": 37,
+    "text": "1 805 Christen, Kleinhändler mit Holz, Strohhutpußer und"
+   },
+   {
+    "n": 38,
+    "text": "Steinhauergesell, a. Reichenbach - V, 41."
+   },
+   {
+    "n": 39,
+    "text": "Fr. - Esther Spahr a. Benken, K. Basellandschaft."
+   },
+   {
+    "n": 40,
+    "text": "1 K. - 838 Charlotte."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Hurni a. Gurbrü.",
+    "place": "Bern",
+    "surname": "Hurni",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Zimmermeister",
+    "address": "II, 70",
+    "quarter": "II",
+    "street": "",
+    "house_no": "70",
+    "origin": "Gurbrü",
+    "birth_year": "1805",
+    "household": "798 Fr. - Elis. Bieri. 1 S. - 831 Peter.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Peter, Zimmermeister - II, 70. 798 Fr. - Elis. Bieri. 1 S. - 831 Peter."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Hurni a. Gurbrü.",
+    "place": "Bern",
+    "surname": "Hurni",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Zimmermeister",
+    "address": "VII, 164",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "164",
+    "origin": "Gurbrü",
+    "birth_year": "1810",
+    "household": "809 Fr. - Magd. Grünig a. Burgistein. 2 K. - 836 Johann Jakob. - 39 Maria Magdalena.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 810 Jakob, Zimmermeister - VII, 164. 809 Fr. - Magd. Grünig a. Burgistein. 2 K. - 836 Johann Jakob. - 39 Maria Magdalena."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Hurni a. Gurbrü.",
+    "place": "Bern",
+    "surname": "Hurni",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schuhmacher u. Kaffewirth",
+    "address": "II, 58",
+    "quarter": "II",
+    "street": "",
+    "house_no": "58",
+    "origin": "Gurbrü",
+    "birth_year": "1811",
+    "household": "818 Fr. - Anna Hurni a. Gurbrü.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 811 Jakob, Schuhmacher u. Kaffewirth - II, 58. 818 Fr. - Anna Hurni a. Gurbrü."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Huser.",
+    "place": "Bern",
+    "surname": "Huser",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Lehenmann",
+    "address": "I, 240",
+    "quarter": "I",
+    "street": "",
+    "house_no": "240",
+    "origin": "Worb",
+    "birth_year": "1812",
+    "household": "3 K. - 836 Maria. - 39 Christian. - 42 Rud. Friedr.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Christian, Lehenmann, a. Worb - I, 240. 3 K. - 836 Maria. - 39 Christian. - 42 Rud. Friedr."
+   },
+   {
+    "line_from": 16,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Hutmacher.",
+    "place": "Bern",
+    "surname": "Hutmacher",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Ausschenker und Bäcker",
+    "address": "II, 33",
+    "quarter": "II",
+    "street": "",
+    "house_no": "33",
+    "origin": "Gysenstein",
+    "birth_year": "1819",
+    "household": "813 Fr. - Christina Kämpfer. 1 S. - 846 Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 819 Niklaus, Ausschenker und Bäcker, aus Gysenstein - II, 33. 813 Fr. - Christina Kämpfer. 1 S. - 846 Karl."
+   },
+   {
+    "line_from": 21,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Huttenlocher.",
+    "place": "Bern",
+    "surname": "Huttenlocher",
+    "forename": "Anna Maria",
+    "title": "",
+    "occupation": "Gassenbesezerin",
+    "address": "III, 32",
+    "quarter": "III",
+    "street": "",
+    "house_no": "32",
+    "origin": "Stuttgart",
+    "birth_year": "1807",
+    "household": "6 K. - 830 Henriette Sophie. - 32 Wilh. Nanette. - 33 Marie Louise. - 35 Anna Maria. - 37 Friederike Karoline. - 40 Johann Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Anna Maria, geb. Weber, Gassenbesezerin, a. Stuttgart - III, 32. 6 K. - 830 Henriette Sophie. - 32 Wilh. Nanette. - 33 Marie Louise. - 35 Anna Maria. - 37 Friederike Karoline. - 40 Johann Jakob."
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Hutter.",
+    "place": "Bern",
+    "surname": "Hutter",
+    "forename": "Magd. Sus.",
+    "title": "",
+    "occupation": "Geschirrstickerin",
+    "address": "VI, 61",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "61",
+    "origin": "Aarburg",
+    "birth_year": "1775",
+    "household": "3 S. - 811 Abrah. Is. - 14 Gottlieb. - 19 Gottfried.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 775 Magd. Sus., geb. Henz, Geschirrstickerin, a. Aarburg - VI, 61. 3 S. - 811 Abrah. Is. - 14 Gottlieb. - 19 Gottfried."
+   },
+   {
+    "line_from": 31,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Jägli.",
+    "place": "Bern",
+    "surname": "Jägli",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schuhflicker und Grämpler",
+    "address": "I, 215 c",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215 c",
+    "origin": "Küßnacht, K. Zürich",
+    "birth_year": "1809",
+    "household": "804 Fr. - Maria Ramser, bern. Landsaßin. 3 K. - 839 Joh. Jakob. - 42 Maria Elisabetha. - 45 Samuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Jakob, Schuhflicker und Grämpler, a. Küßnacht, K. Zürich - I, 215 c. 804 Fr. - Maria Ramser, bern. Landsaßin. 3 K. - 839 Joh. Jakob. - 42 Maria Elisabetha. - 45 Samuel."
+   },
+   {
+    "line_from": 37,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Jaggi.",
+    "place": "Bern",
+    "surname": "Jaggi",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Kleinhändler mit Holz, Strohhutpußer und Steinhauergesell",
+    "address": "V, 41",
+    "quarter": "V",
+    "street": "",
+    "house_no": "41",
+    "origin": "Reichenbach",
+    "birth_year": "1805",
+    "household": "Fr. - Esther Spahr a. Benken, K. Basellandschaft. 1 K. - 838 Charlotte.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Christen, Kleinhändler mit Holz, Strohhutpußer und Steinhauergesell, a. Reichenbach - V, 41. Fr. - Esther Spahr a. Benken, K. Basellandschaft. 1 K. - 838 Charlotte."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:52:35+01:00",
+ "last_error": null
+}

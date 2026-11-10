@@ -1,0 +1,529 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 60,
+ "section": "handbuch",
+ "started": "2026-11-10T21:10:53+01:00",
+ "thinking": "low",
+ "seconds": 24.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 3821,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"60\",\n  \"running_head\": \"VEVEY.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"60 VEVEY.\"},\n    {\"n\": 2, \"text\": \"Monsieur\"},\n    {\"n\": 3, \"text\": \"Pachoud aîné, } Teinturiers.\"},\n    {\"n\": 4, \"text\": \"Em. Genaud, }\"},\n    {\"n\": 5, \"text\": \"Grevoulet, Fabricant de Bas de Soye, de\"},\n    {\"n\": 6, \"text\": \"Laine & Cotton..\"},\n    {\"n\": 7, \"text\": \"Berenger & Fils,\"},\n    {\"n\": 8, \"text\": \"Perret & Walther, } Marchands Drapiers.\"},\n    {\"n\": 9, \"text\": \"Louis Rossier,\"},\n    {\"n\": 10, \"text\": \"Curchod, Corboz & Comp., Négociants en\"},\n    {\"n\": 11, \"text\": \"draperie en grand.\"},\n    {\"n\": 12, \"text\": \"Ulric Dietrich, Négociant en fromage, en\"},\n    {\"n\": 13, \"text\": \"quincaille & mercerie, en gros & en détail.\"},\n    {\"n\": 14, \"text\": \"Nicolas Spengler, Négociant en quincaille\"},\n    {\"n\": 15, \"text\": \"& mercerie, en gros & en détail.\"},\n    {\"n\": 16, \"text\": \"Antoine Monet, Négociant en quincaille en\"},\n    {\"n\": 17, \"text\": \"détail.\"},\n    {\"n\": 18, \"text\": \"Collomb, Dietrich & Comp., Banquiers,\"},\n    {\"n\": 19, \"text\": \"Commissionnaires & Spéculateurs.\"},\n    {\"n\": 20, \"text\": \"Veuve Regnier & Corboz, Commissionnai-\"},\n    {\"n\": 21, \"text\": \"res & Distilateurs.\"},\n    {\"n\": 22, \"text\": \"J. D. Delay, Commissionaire.\"},\n    {\"n\": 23, \"text\": \"Muret, Docteur Médecin.\"},\n    {\"n\": 24, \"text\": \"Louis Levade, Médecin & Apoticaire.\"},\n    {\"n\": 25, \"text\": \"Pasteur, Sculpteur.\"},\n    {\"n\": 26, \"text\": \"François Michod & Soeurs, Fabricants de\"},\n    {\"n\": 27, \"text\": \"Pastels.\"},\n    {\"n\": 28, \"text\": \"Dumoulin, } Peintres.\"},\n    {\"n\": 29, \"text\": \"Vagniére, }\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Pachoud\",\n      \"forename\": \"\",\n      \"title\": \"aîné\",\n      \"occupation\": \"Teinturiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pachoud aîné, Teinturiers.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Genaud\",\n      \"forename\": \"Em.\",\n      \"title\": \"\",\n      \"occupation\": \"Teinturiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Em. Genaud, Teinturiers.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Grevoulet\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Fabricant de Bas de Soye, de Laine & Cotton\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Grevoulet, Fabricant de Bas de Soye, de Laine & Cotton..\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Berenger\",\n      \"forename\": \"\",\n      \"title\": \"& Fils\",\n      \"occupation\": \"Marchands Drapiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Berenger & Fils, Marchands Drapiers.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"firma\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Perret\",\n      \"forename\": \"\",\n      \"title\": \"& Walther\",\n      \"occupation\": \"Marchands Drapiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Perret & Walther, Marchands Drapiers.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Rossier\",\n      \"forename\": \"Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands Drapiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Louis Rossier, Marchands Drapiers.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Curchod\",\n      \"forename\": \"\",\n      \"title\": \", Corboz & Comp.\",\n      \"occupation\": \"Négociants en draperie en grand\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Curchod, Corboz & Comp., Négociants en draperie en grand.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Dietrich\",\n      \"forename\": \"Ulric\",\n      \"title\": \"\",\n      \"occupation\": \"Négociant en fromage, en quincaille & mercerie, en gros & en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ulric Dietrich, Négociant en fromage, en quincaille & mercerie, en gros & en détail.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Spengler\",\n      \"forename\": \"Nicolas\",\n      \"title\": \"\",\n      \"occupation\": \"Négociant en quincaille & mercerie, en gros & en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Nicolas Spengler, Négociant en quincaille & mercerie, en gros & en détail.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Monet\",\n      \"forename\": \"Antoine\",\n      \"title\": \"\",\n      \"occupation\": \"Négociant en quincaille en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Antoine Monet, Négociant en quincaille en détail.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Collomb\",\n      \"forename\": \"\",\n      \"title\": \", Dietrich & Comp.\",\n      \"occupation\": \"Banquiers, Commissionnaires & Spéculateurs\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Collomb, Dietrich & Comp., Banquiers, Commissionnaires & Spéculateurs.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"firma\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Regnier\",\n      \"forename\": \"\",\n      \"title\": \"Veuve, & Corboz\",\n      \"occupation\": \"Commissionnaires & Distilateurs\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Veuve Regnier & Corboz, Commissionnaires & Distilateurs.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Delay\",\n      \"forename\": \"J. D.\",\n      \"title\": \"\",\n      \"occupation\": \"Commissionaire\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. D. Delay, Commissionaire.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Muret\",\n      \"forename\": \"\",\n      \"title\": \"Docteur\",\n      \"occupation\": \"Médecin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Muret, Docteur Médecin.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Levade\",\n      \"forename\": \"Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Médecin & Apoticaire\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Louis Levade, Médecin & Apoticaire.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Pasteur\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Sculpteur\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pasteur, Sculpteur.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"firma\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Michod\",\n      \"forename\": \"François\",\n      \"title\": \"& Soeurs\",\n      \"occupation\": \"Fabricants de Pastels\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"François Michod & Soeurs, Fabricants de Pastels.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Dumoulin\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Peintres\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dumoulin, Peintres.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"VEVEY.\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Vagniére\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Peintres\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Vagniére, Peintres.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "60",
+  "running_head": "VEVEY.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "60 VEVEY."
+   },
+   {
+    "n": 2,
+    "text": "Monsieur"
+   },
+   {
+    "n": 3,
+    "text": "Pachoud aîné, } Teinturiers."
+   },
+   {
+    "n": 4,
+    "text": "Em. Genaud, }"
+   },
+   {
+    "n": 5,
+    "text": "Grevoulet, Fabricant de Bas de Soye, de"
+   },
+   {
+    "n": 6,
+    "text": "Laine & Cotton.."
+   },
+   {
+    "n": 7,
+    "text": "Berenger & Fils,"
+   },
+   {
+    "n": 8,
+    "text": "Perret & Walther, } Marchands Drapiers."
+   },
+   {
+    "n": 9,
+    "text": "Louis Rossier,"
+   },
+   {
+    "n": 10,
+    "text": "Curchod, Corboz & Comp., Négociants en"
+   },
+   {
+    "n": 11,
+    "text": "draperie en grand."
+   },
+   {
+    "n": 12,
+    "text": "Ulric Dietrich, Négociant en fromage, en"
+   },
+   {
+    "n": 13,
+    "text": "quincaille & mercerie, en gros & en détail."
+   },
+   {
+    "n": 14,
+    "text": "Nicolas Spengler, Négociant en quincaille"
+   },
+   {
+    "n": 15,
+    "text": "& mercerie, en gros & en détail."
+   },
+   {
+    "n": 16,
+    "text": "Antoine Monet, Négociant en quincaille en"
+   },
+   {
+    "n": 17,
+    "text": "détail."
+   },
+   {
+    "n": 18,
+    "text": "Collomb, Dietrich & Comp., Banquiers,"
+   },
+   {
+    "n": 19,
+    "text": "Commissionnaires & Spéculateurs."
+   },
+   {
+    "n": 20,
+    "text": "Veuve Regnier & Corboz, Commissionnai-"
+   },
+   {
+    "n": 21,
+    "text": "res & Distilateurs."
+   },
+   {
+    "n": 22,
+    "text": "J. D. Delay, Commissionaire."
+   },
+   {
+    "n": 23,
+    "text": "Muret, Docteur Médecin."
+   },
+   {
+    "n": 24,
+    "text": "Louis Levade, Médecin & Apoticaire."
+   },
+   {
+    "n": 25,
+    "text": "Pasteur, Sculpteur."
+   },
+   {
+    "n": 26,
+    "text": "François Michod & Soeurs, Fabricants de"
+   },
+   {
+    "n": 27,
+    "text": "Pastels."
+   },
+   {
+    "n": 28,
+    "text": "Dumoulin, } Peintres."
+   },
+   {
+    "n": 29,
+    "text": "Vagniére, }"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Pachoud",
+    "forename": "",
+    "title": "aîné",
+    "occupation": "Teinturiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pachoud aîné, Teinturiers."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Genaud",
+    "forename": "Em.",
+    "title": "",
+    "occupation": "Teinturiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Em. Genaud, Teinturiers."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Grevoulet",
+    "forename": "",
+    "title": "",
+    "occupation": "Fabricant de Bas de Soye, de Laine & Cotton",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Grevoulet, Fabricant de Bas de Soye, de Laine & Cotton.."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Berenger",
+    "forename": "",
+    "title": "& Fils",
+    "occupation": "Marchands Drapiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Berenger & Fils, Marchands Drapiers."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "firma",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Perret",
+    "forename": "",
+    "title": "& Walther",
+    "occupation": "Marchands Drapiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Perret & Walther, Marchands Drapiers."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Rossier",
+    "forename": "Louis",
+    "title": "",
+    "occupation": "Marchands Drapiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Louis Rossier, Marchands Drapiers."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Curchod",
+    "forename": "",
+    "title": ", Corboz & Comp.",
+    "occupation": "Négociants en draperie en grand",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Curchod, Corboz & Comp., Négociants en draperie en grand."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Dietrich",
+    "forename": "Ulric",
+    "title": "",
+    "occupation": "Négociant en fromage, en quincaille & mercerie, en gros & en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ulric Dietrich, Négociant en fromage, en quincaille & mercerie, en gros & en détail."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Spengler",
+    "forename": "Nicolas",
+    "title": "",
+    "occupation": "Négociant en quincaille & mercerie, en gros & en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nicolas Spengler, Négociant en quincaille & mercerie, en gros & en détail."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Monet",
+    "forename": "Antoine",
+    "title": "",
+    "occupation": "Négociant en quincaille en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Antoine Monet, Négociant en quincaille en détail."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Collomb",
+    "forename": "",
+    "title": ", Dietrich & Comp.",
+    "occupation": "Banquiers, Commissionnaires & Spéculateurs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Collomb, Dietrich & Comp., Banquiers, Commissionnaires & Spéculateurs."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "firma",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Regnier",
+    "forename": "",
+    "title": "Veuve, & Corboz",
+    "occupation": "Commissionnaires & Distilateurs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Veuve Regnier & Corboz, Commissionnaires & Distilateurs."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Delay",
+    "forename": "J. D.",
+    "title": "",
+    "occupation": "Commissionaire",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. D. Delay, Commissionaire."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Muret",
+    "forename": "",
+    "title": "Docteur",
+    "occupation": "Médecin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Muret, Docteur Médecin."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Levade",
+    "forename": "Louis",
+    "title": "",
+    "occupation": "Médecin & Apoticaire",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Louis Levade, Médecin & Apoticaire."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Pasteur",
+    "forename": "",
+    "title": "",
+    "occupation": "Sculpteur",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pasteur, Sculpteur."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "firma",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Michod",
+    "forename": "François",
+    "title": "& Soeurs",
+    "occupation": "Fabricants de Pastels",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "François Michod & Soeurs, Fabricants de Pastels."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Dumoulin",
+    "forename": "",
+    "title": "",
+    "occupation": "Peintres",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dumoulin, Peintres."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "VEVEY.",
+    "place": "Vevey",
+    "surname": "Vagniére",
+    "forename": "",
+    "title": "",
+    "occupation": "Peintres",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Vagniére, Peintres."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:11:18+01:00",
+ "last_error": null
+}

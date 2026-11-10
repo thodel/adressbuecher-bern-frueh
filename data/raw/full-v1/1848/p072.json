@@ -1,0 +1,521 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 72,
+ "section": "einsassen",
+ "started": "2026-11-10T21:51:21+01:00",
+ "thinking": "low",
+ "seconds": 30.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 5184,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"59\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 59 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"3 805 Christian, Instrumentenmacher, a. Sumiswald — III, 53.\"},\n    {\"n\": 4, \"text\": \"Fr. — Anna Maria Schenk.\"},\n    {\"n\": 5, \"text\": \"1 S. — 831 Friedrich Ferdinand.\"},\n    {\"n\": 6, \"text\": \"4 800 Anna Zimmermann, verw. Pfander, Kostgeberin, a.\"},\n    {\"n\": 7, \"text\": \"Seengen — III, 47.\"},\n    {\"n\": 8, \"text\": \"Häfelin.\"},\n    {\"n\": 9, \"text\": \"1 807 Friedrich, Schreiber, a. Nossemaison — IV, 15.\"},\n    {\"n\": 10, \"text\": \"(Fr. u. 1 Kind nicht eingeschrieben.)\"},\n    {\"n\": 11, \"text\": \"Häfliger.\"},\n    {\"n\": 12, \"text\": \"1 801 Joseph, Handelsmann, a. Triengen — IV, 40.\"},\n    {\"n\": 13, \"text\": \"812 Fr. — Maria Arnold.\"},\n    {\"n\": 14, \"text\": \"7 K. — 832 Jos. Joh. Bapt. — 33 Anna Maria Karol.\"},\n    {\"n\": 15, \"text\": \"— 34 Joh. Melchior. — 35 Anna Maria. — 37 Franz\"},\n    {\"n\": 16, \"text\": \"Jakob. — 38 Eduard. — 40 Robert Alois.\"},\n    {\"n\": 17, \"text\": \"Hähni.\"},\n    {\"n\": 18, \"text\": \"1 807 Johann, Amtsnotar, a. Frauchwyl — III, 28.\"},\n    {\"n\": 19, \"text\": \"Fr. — Elis. Zwahlen, geb. Stuki.\"},\n    {\"n\": 20, \"text\": \"Hänni.\"},\n    {\"n\": 21, \"text\": \"1 809 Johann, Schuhmacher, a. Toffen — IV, 285.\"},\n    {\"n\": 22, \"text\": \"808 Fr. — Elis. Zyset, geb. Moser.\"},\n    {\"n\": 23, \"text\": \"2 801 Rosina, geb. Leiser, Krämerin, a. Toffen — VI, 19.\"},\n    {\"n\": 24, \"text\": \"1 T. — 833 Maria.\"},\n    {\"n\": 25, \"text\": \"3 790 Maria, geb. Mosimann, Speisewirthin, a. Gerzensee\"},\n    {\"n\": 26, \"text\": \"— III, 73.\"},\n    {\"n\": 27, \"text\": \"2 T. — 823 Elisabetha. — 31 Marg. Rosa.\"},\n    {\"n\": 28, \"text\": \"4 782 Maria, geb. Jost, Brodiererin, a. Köniz — II, 227.\"},\n    {\"n\": 29, \"text\": \"5 779 Abraham, Lehenmann, a. Toffen — VII, 24.\"},\n    {\"n\": 30, \"text\": \"1 S. — 808 Abraham. (Fr. nicht eingeschrieben.)\"},\n    {\"n\": 31, \"text\": \"Des Sohnes 8 Kinder: 826 Kath. — 28 Abraham. —\"},\n    {\"n\": 32, \"text\": \"32 Rosina. — 36 Karl Johann. — 39 Anna Maria Marg.\"},\n    {\"n\": 33, \"text\": \"— 42 Moriz Karl Samuel. — 44 Magd. Elisabetha. —\"},\n    {\"n\": 34, \"text\": \"46 Anna Maria Margaretha.\"},\n    {\"n\": 35, \"text\": \"6 777 Johann, Cichorienfabrikant, a. Belpberg — V, 36.\"},\n    {\"n\": 36, \"text\": \"798 Fr. II Ehe. — Maria Marg. Schällibaum a. Kappel.\"},\n    {\"n\": 37, \"text\": \"4 K. — 812 Joh. Jakob. — 18 Joh. Heinrich. — 32 Christ.\"},\n    {\"n\": 38, \"text\": \"Johann Friedrich. — 34 Sophie Margaretha Elisabetha.\"},\n    {\"n\": 39, \"text\": \"7 813 Bendicht, Korbhändler, a. Toffen — IV, 20.\"},\n    {\"n\": 40, \"text\": \"790 Fr. — Anna Margaretha Wyß.\"},\n    {\"n\": 41, \"text\": \"8 788 Anna, Saamenhändlerin, a. Kienersrütti — IV, 13.\"},\n    {\"n\": 42, \"text\": \"9 807 Johann, Barbier, a. Toffen — III, 140.\"},\n    {\"n\": 43, \"text\": \"808 Fr. — Elis. Räubi a. Ins.\"},\n    {\"n\": 44, \"text\": \"10 814 Niklaus, Amtsnotar, a. Toffen — III, 75.\"},\n    {\"n\": 45, \"text\": \"Fr. — Maria Elis. Egli.\"},\n    {\"n\": 46, \"text\": \"2 K. — 840 Elise. — 41 Karl.\"},\n    {\"n\": 47, \"text\": \"11 776 Anna, Seidenwäscherin, a. Toffen — II, 118.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Instrumentenmacher\",\n      \"address\": \"III, 53\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"53\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1805\",\n      \"household\": \"Fr. — Anna Maria Schenk. ; 1 S. — 831 Friedrich Ferdinand.\",\n      \"note\": \"\",\n      \"text\": \"3 805 Christian, Instrumentenmacher, a. Sumiswald — III, 53. Fr. — Anna Maria Schenk. 1 S. — 831 Friedrich Ferdinand.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Zimmermann\",\n      \"forename\": \"Anna\",\n      \"title\": \"verw. Pfander\",\n      \"occupation\": \"Kostgeberin\",\n      \"address\": \"III, 47\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"47\",\n      \"origin\": \"Seengen\",\n      \"birth_year\": \"1800\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"4 800 Anna Zimmermann, verw. Pfander, Kostgeberin, a. Seengen — III, 47.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Häfelin.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Häfelin\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"IV, 15\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"15\",\n      \"origin\": \"Nossemaison\",\n      \"birth_year\": \"1807\",\n      \"household\": \"(Fr. u. 1 Kind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Friedrich, Schreiber, a. Nossemaison — IV, 15. (Fr. u. 1 Kind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Häfliger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Häfliger\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"IV, 40\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"40\",\n      \"origin\": \"Triengen\",\n      \"birth_year\": \"1801\",\n      \"household\": \"812 Fr. — Maria Arnold. ; 7 K. — 832 Jos. Joh. Bapt. — 33 Anna Maria Karol. — 34 Joh. Melchior. — 35 Anna Maria. — 37 Franz Jakob. — 38 Eduard. — 40 Robert Alois.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 801 Joseph, Handelsmann, a. Triengen — IV, 40. 812 Fr. — Maria Arnold. 7 K. — 832 Jos. Joh. Bapt. — 33 Anna Maria Karol. — 34 Joh. Melchior. — 35 Anna Maria. — 37 Franz Jakob. — 38 Eduard. — 40 Robert Alois.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Hähni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hähni\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Amtsnotar\",\n      \"address\": \"III, 28\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"28\",\n      \"origin\": \"Frauchwyl\",\n      \"birth_year\": \"1807\",\n      \"household\": \"Fr. — Elis. Zwahlen, geb. Stuki.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Johann, Amtsnotar, a. Frauchwyl — III, 28. Fr. — Elis. Zwahlen, geb. Stuki.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Hänni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 285\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"285\",\n      \"origin\": \"Toffen\",\n      \"birth_year\": \"1809\",\n      \"household\": \"808 Fr. — Elis. Zyset, geb. Moser.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Johann, Schuhmacher, a. Toffen — IV, 285. 808 Fr. — Elis. Zyset, geb. Moser.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Hänni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Rosina\",\n      \"title\": \"geb. Leiser\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"VI, 19\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"19\",\n      \"origin\": \"Toffen\",\n      \"birth_year\": \"1801\",\n      \"household\": \"1 T. — 833 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 801 Rosina, geb. Leiser, Krämerin, a. Toffen — VI, 19. 1 T. — 833 Maria.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Hänni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Maria\",\n      \"title\": \"geb. Mosimann\",\n      \"occupation\": \"Speisewirthin\",\n      \"address\": \"III, 73\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"73\",\n      \"origin\": \"Gerzensee\",\n      \"birth_year\": \"1790\",\n      \"household\": \"2 T. — 823 Elisabetha. — 31 Marg. Rosa.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 790 Maria, geb. Mosimann, Speisewirthin, a. Gerzensee — III, 73. 2 T. — 823 Elisabetha. — 31 Marg. Rosa.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Hänni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Maria\",\n      \"title\": \"geb. Jost\",\n      \"occupation\": \"Brodiererin\",\n      \"address\": \"II, 227\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"227\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1782\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 782 Maria, geb. Jost, Brodiererin, a. Köniz — II, 227.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Hänni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"Lehenmann\",\n      \"address\": \"VII, 24\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"24\",\n      \"origin\": \"Toffen\",\n      \"birth_year\": \"1779\",\n      \"household\": \"1 S. — 808 Abraham. (Fr. nicht eingeschrieben.) ; Des Sohnes 8 Kinder: 826 Kath. — 28 Abraham. — 32 Rosina. — 36 Karl Johann. — 39 Anna Maria Marg. — 42 Moriz Karl Samuel. — 44 Magd. Elisabetha. — 46 Anna Maria Margaretha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 779 Abraham, Lehenmann, a. Toffen — VII, 24. 1 S. — 808 Abraham. (Fr. nicht eingeschrieben.) Des Sohnes 8 Kinder: 826 Kath. — 28 Abraham. — 32 Rosina. — 36 Karl Johann. — 39 Anna Maria Marg. — 42 Moriz Karl Samuel. — 44 Magd. Elisabetha. — 46 Anna Maria Margaretha.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Hänni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Cichorienfabrikant\",\n      \"address\": \"V, 36\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"Belpberg\",\n      \"birth_year\": \"1777\",\n      \"household\": \"798 Fr. II Ehe. — Maria Marg. Schällibaum a. Kappel. ; 4 K. — 812 Joh. Jakob. — 18 Joh. Heinrich. — 32 Christ. Johann Friedrich. — 34 Sophie Margaretha Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 777 Johann, Cichorienfabrikant, a. Belpberg — V, 36. 798 Fr. II Ehe. — Maria Marg. Schällibaum a. Kappel. 4 K. — 812 Joh. Jakob. — 18 Joh. Heinrich. — 32 Christ. Johann Friedrich. — 34 Sophie Margaretha Elisabetha.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Hänni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Korbhändler\",\n      \"address\": \"IV, 20\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"20\",\n      \"origin\": \"Toffen\",\n      \"birth_year\": \"1813\",\n      \"household\": \"790 Fr. — Anna Margaretha Wyß.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 813 Bendicht, Korbhändler, a. Toffen — IV, 20. 790 Fr. — Anna Margaretha Wyß.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Hänni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Saamenhändlerin\",\n      \"address\": \"IV, 13\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"13\",\n      \"origin\": \"Kienersrütti\",\n      \"birth_year\": \"1788\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"8 788 Anna, Saamenhändlerin, a. Kienersrütti — IV, 13.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Hänni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Barbier\",\n      \"address\": \"III, 140\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"140\",\n      \"origin\": \"Toffen\",\n      \"birth_year\": \"1807\",\n      \"household\": \"808 Fr. — Elis. Räubi a. Ins.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"9 807 Johann, Barbier, a. Toffen — III, 140. 808 Fr. — Elis. Räubi a. Ins.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"Hänni.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Amtsnotar\",\n      \"address\": \"III, 75\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"Toffen\",\n      \"birth_year\": \"1814\",\n      \"household\": \"Fr. — Maria Elis. Egli. ; 2 K. — 840 Elise. — 41 Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"10 814 Niklaus, Amtsnotar, a. Toffen — III, 75. Fr. — Maria Elis. Egli. 2 K. — 840 Elise. — 41 Karl.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "59",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 59 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "3 805 Christian, Instrumentenmacher, a. Sumiswald — III, 53."
+   },
+   {
+    "n": 4,
+    "text": "Fr. — Anna Maria Schenk."
+   },
+   {
+    "n": 5,
+    "text": "1 S. — 831 Friedrich Ferdinand."
+   },
+   {
+    "n": 6,
+    "text": "4 800 Anna Zimmermann, verw. Pfander, Kostgeberin, a."
+   },
+   {
+    "n": 7,
+    "text": "Seengen — III, 47."
+   },
+   {
+    "n": 8,
+    "text": "Häfelin."
+   },
+   {
+    "n": 9,
+    "text": "1 807 Friedrich, Schreiber, a. Nossemaison — IV, 15."
+   },
+   {
+    "n": 10,
+    "text": "(Fr. u. 1 Kind nicht eingeschrieben.)"
+   },
+   {
+    "n": 11,
+    "text": "Häfliger."
+   },
+   {
+    "n": 12,
+    "text": "1 801 Joseph, Handelsmann, a. Triengen — IV, 40."
+   },
+   {
+    "n": 13,
+    "text": "812 Fr. — Maria Arnold."
+   },
+   {
+    "n": 14,
+    "text": "7 K. — 832 Jos. Joh. Bapt. — 33 Anna Maria Karol."
+   },
+   {
+    "n": 15,
+    "text": "— 34 Joh. Melchior. — 35 Anna Maria. — 37 Franz"
+   },
+   {
+    "n": 16,
+    "text": "Jakob. — 38 Eduard. — 40 Robert Alois."
+   },
+   {
+    "n": 17,
+    "text": "Hähni."
+   },
+   {
+    "n": 18,
+    "text": "1 807 Johann, Amtsnotar, a. Frauchwyl — III, 28."
+   },
+   {
+    "n": 19,
+    "text": "Fr. — Elis. Zwahlen, geb. Stuki."
+   },
+   {
+    "n": 20,
+    "text": "Hänni."
+   },
+   {
+    "n": 21,
+    "text": "1 809 Johann, Schuhmacher, a. Toffen — IV, 285."
+   },
+   {
+    "n": 22,
+    "text": "808 Fr. — Elis. Zyset, geb. Moser."
+   },
+   {
+    "n": 23,
+    "text": "2 801 Rosina, geb. Leiser, Krämerin, a. Toffen — VI, 19."
+   },
+   {
+    "n": 24,
+    "text": "1 T. — 833 Maria."
+   },
+   {
+    "n": 25,
+    "text": "3 790 Maria, geb. Mosimann, Speisewirthin, a. Gerzensee"
+   },
+   {
+    "n": 26,
+    "text": "— III, 73."
+   },
+   {
+    "n": 27,
+    "text": "2 T. — 823 Elisabetha. — 31 Marg. Rosa."
+   },
+   {
+    "n": 28,
+    "text": "4 782 Maria, geb. Jost, Brodiererin, a. Köniz — II, 227."
+   },
+   {
+    "n": 29,
+    "text": "5 779 Abraham, Lehenmann, a. Toffen — VII, 24."
+   },
+   {
+    "n": 30,
+    "text": "1 S. — 808 Abraham. (Fr. nicht eingeschrieben.)"
+   },
+   {
+    "n": 31,
+    "text": "Des Sohnes 8 Kinder: 826 Kath. — 28 Abraham. —"
+   },
+   {
+    "n": 32,
+    "text": "32 Rosina. — 36 Karl Johann. — 39 Anna Maria Marg."
+   },
+   {
+    "n": 33,
+    "text": "— 42 Moriz Karl Samuel. — 44 Magd. Elisabetha. —"
+   },
+   {
+    "n": 34,
+    "text": "46 Anna Maria Margaretha."
+   },
+   {
+    "n": 35,
+    "text": "6 777 Johann, Cichorienfabrikant, a. Belpberg — V, 36."
+   },
+   {
+    "n": 36,
+    "text": "798 Fr. II Ehe. — Maria Marg. Schällibaum a. Kappel."
+   },
+   {
+    "n": 37,
+    "text": "4 K. — 812 Joh. Jakob. — 18 Joh. Heinrich. — 32 Christ."
+   },
+   {
+    "n": 38,
+    "text": "Johann Friedrich. — 34 Sophie Margaretha Elisabetha."
+   },
+   {
+    "n": 39,
+    "text": "7 813 Bendicht, Korbhändler, a. Toffen — IV, 20."
+   },
+   {
+    "n": 40,
+    "text": "790 Fr. — Anna Margaretha Wyß."
+   },
+   {
+    "n": 41,
+    "text": "8 788 Anna, Saamenhändlerin, a. Kienersrütti — IV, 13."
+   },
+   {
+    "n": 42,
+    "text": "9 807 Johann, Barbier, a. Toffen — III, 140."
+   },
+   {
+    "n": 43,
+    "text": "808 Fr. — Elis. Räubi a. Ins."
+   },
+   {
+    "n": 44,
+    "text": "10 814 Niklaus, Amtsnotar, a. Toffen — III, 75."
+   },
+   {
+    "n": 45,
+    "text": "Fr. — Maria Elis. Egli."
+   },
+   {
+    "n": 46,
+    "text": "2 K. — 840 Elise. — 41 Karl."
+   },
+   {
+    "n": 47,
+    "text": "11 776 Anna, Seidenwäscherin, a. Toffen — II, 118."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Instrumentenmacher",
+    "address": "III, 53",
+    "quarter": "III",
+    "street": "",
+    "house_no": "53",
+    "origin": "Sumiswald",
+    "birth_year": "1805",
+    "household": "Fr. — Anna Maria Schenk. ; 1 S. — 831 Friedrich Ferdinand.",
+    "note": "",
+    "text": "3 805 Christian, Instrumentenmacher, a. Sumiswald — III, 53. Fr. — Anna Maria Schenk. 1 S. — 831 Friedrich Ferdinand."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Zimmermann",
+    "forename": "Anna",
+    "title": "verw. Pfander",
+    "occupation": "Kostgeberin",
+    "address": "III, 47",
+    "quarter": "III",
+    "street": "",
+    "house_no": "47",
+    "origin": "Seengen",
+    "birth_year": "1800",
+    "household": "",
+    "note": "",
+    "text": "4 800 Anna Zimmermann, verw. Pfander, Kostgeberin, a. Seengen — III, 47."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Häfelin.",
+    "place": "Bern",
+    "surname": "Häfelin",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "IV, 15",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "15",
+    "origin": "Nossemaison",
+    "birth_year": "1807",
+    "household": "(Fr. u. 1 Kind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Friedrich, Schreiber, a. Nossemaison — IV, 15. (Fr. u. 1 Kind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 12,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Häfliger.",
+    "place": "Bern",
+    "surname": "Häfliger",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "IV, 40",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "40",
+    "origin": "Triengen",
+    "birth_year": "1801",
+    "household": "812 Fr. — Maria Arnold. ; 7 K. — 832 Jos. Joh. Bapt. — 33 Anna Maria Karol. — 34 Joh. Melchior. — 35 Anna Maria. — 37 Franz Jakob. — 38 Eduard. — 40 Robert Alois.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 801 Joseph, Handelsmann, a. Triengen — IV, 40. 812 Fr. — Maria Arnold. 7 K. — 832 Jos. Joh. Bapt. — 33 Anna Maria Karol. — 34 Joh. Melchior. — 35 Anna Maria. — 37 Franz Jakob. — 38 Eduard. — 40 Robert Alois."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Hähni.",
+    "place": "Bern",
+    "surname": "Hähni",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Amtsnotar",
+    "address": "III, 28",
+    "quarter": "III",
+    "street": "",
+    "house_no": "28",
+    "origin": "Frauchwyl",
+    "birth_year": "1807",
+    "household": "Fr. — Elis. Zwahlen, geb. Stuki.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Johann, Amtsnotar, a. Frauchwyl — III, 28. Fr. — Elis. Zwahlen, geb. Stuki."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Hänni.",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 285",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "285",
+    "origin": "Toffen",
+    "birth_year": "1809",
+    "household": "808 Fr. — Elis. Zyset, geb. Moser.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Johann, Schuhmacher, a. Toffen — IV, 285. 808 Fr. — Elis. Zyset, geb. Moser."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Hänni.",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Rosina",
+    "title": "geb. Leiser",
+    "occupation": "Krämerin",
+    "address": "VI, 19",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "19",
+    "origin": "Toffen",
+    "birth_year": "1801",
+    "household": "1 T. — 833 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 801 Rosina, geb. Leiser, Krämerin, a. Toffen — VI, 19. 1 T. — 833 Maria."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Hänni.",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Maria",
+    "title": "geb. Mosimann",
+    "occupation": "Speisewirthin",
+    "address": "III, 73",
+    "quarter": "III",
+    "street": "",
+    "house_no": "73",
+    "origin": "Gerzensee",
+    "birth_year": "1790",
+    "household": "2 T. — 823 Elisabetha. — 31 Marg. Rosa.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 790 Maria, geb. Mosimann, Speisewirthin, a. Gerzensee — III, 73. 2 T. — 823 Elisabetha. — 31 Marg. Rosa."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Hänni.",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Maria",
+    "title": "geb. Jost",
+    "occupation": "Brodiererin",
+    "address": "II, 227",
+    "quarter": "II",
+    "street": "",
+    "house_no": "227",
+    "origin": "Köniz",
+    "birth_year": "1782",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "4 782 Maria, geb. Jost, Brodiererin, a. Köniz — II, 227."
+   },
+   {
+    "line_from": 29,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Hänni.",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "Lehenmann",
+    "address": "VII, 24",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "24",
+    "origin": "Toffen",
+    "birth_year": "1779",
+    "household": "1 S. — 808 Abraham. (Fr. nicht eingeschrieben.) ; Des Sohnes 8 Kinder: 826 Kath. — 28 Abraham. — 32 Rosina. — 36 Karl Johann. — 39 Anna Maria Marg. — 42 Moriz Karl Samuel. — 44 Magd. Elisabetha. — 46 Anna Maria Margaretha.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 779 Abraham, Lehenmann, a. Toffen — VII, 24. 1 S. — 808 Abraham. (Fr. nicht eingeschrieben.) Des Sohnes 8 Kinder: 826 Kath. — 28 Abraham. — 32 Rosina. — 36 Karl Johann. — 39 Anna Maria Marg. — 42 Moriz Karl Samuel. — 44 Magd. Elisabetha. — 46 Anna Maria Margaretha."
+   },
+   {
+    "line_from": 35,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Hänni.",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Cichorienfabrikant",
+    "address": "V, 36",
+    "quarter": "V",
+    "street": "",
+    "house_no": "36",
+    "origin": "Belpberg",
+    "birth_year": "1777",
+    "household": "798 Fr. II Ehe. — Maria Marg. Schällibaum a. Kappel. ; 4 K. — 812 Joh. Jakob. — 18 Joh. Heinrich. — 32 Christ. Johann Friedrich. — 34 Sophie Margaretha Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 777 Johann, Cichorienfabrikant, a. Belpberg — V, 36. 798 Fr. II Ehe. — Maria Marg. Schällibaum a. Kappel. 4 K. — 812 Joh. Jakob. — 18 Joh. Heinrich. — 32 Christ. Johann Friedrich. — 34 Sophie Margaretha Elisabetha."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Hänni.",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Korbhändler",
+    "address": "IV, 20",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "20",
+    "origin": "Toffen",
+    "birth_year": "1813",
+    "household": "790 Fr. — Anna Margaretha Wyß.",
+    "note": "Name aus Zwischentitel",
+    "text": "7 813 Bendicht, Korbhändler, a. Toffen — IV, 20. 790 Fr. — Anna Margaretha Wyß."
+   },
+   {
+    "line_from": 41,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Hänni.",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Saamenhändlerin",
+    "address": "IV, 13",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "13",
+    "origin": "Kienersrütti",
+    "birth_year": "1788",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "8 788 Anna, Saamenhändlerin, a. Kienersrütti — IV, 13."
+   },
+   {
+    "line_from": 42,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Hänni.",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Barbier",
+    "address": "III, 140",
+    "quarter": "III",
+    "street": "",
+    "house_no": "140",
+    "origin": "Toffen",
+    "birth_year": "1807",
+    "household": "808 Fr. — Elis. Räubi a. Ins.",
+    "note": "Name aus Zwischentitel",
+    "text": "9 807 Johann, Barbier, a. Toffen — III, 140. 808 Fr. — Elis. Räubi a. Ins."
+   },
+   {
+    "line_from": 44,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "Hänni.",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Amtsnotar",
+    "address": "III, 75",
+    "quarter": "III",
+    "street": "",
+    "house_no": "75",
+    "origin": "Toffen",
+    "birth_year": "1814",
+    "household": "Fr. — Maria Elis. Egli. ; 2 K. — 840 Elise. — 41 Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "10 814 Niklaus, Amtsnotar, a. Toffen — III, 75. Fr. — Maria Elis. Egli. 2 K. — 840 Elise. — 41 Karl."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:51:51+01:00",
+ "last_error": null
+}

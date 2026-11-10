@@ -1,0 +1,397 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 24,
+ "section": "einsassen",
+ "started": "2026-11-10T21:48:42+01:00",
+ "thinking": "low",
+ "seconds": 27.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4011,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"11\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 11 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Benteli.\"},\n    {\"n\": 4, \"text\": \"1 802 Heinrich, Schneider, a. Buch, K. Zürich - IV, 21.\"},\n    {\"n\": 5, \"text\": \"811 Fr. II Ehe. - Anna Coendet a. Münchenwyler.\"},\n    {\"n\": 6, \"text\": \"1 T. aus I Ehe. - 827 Maria Julie.\"},\n    {\"n\": 7, \"text\": \"Benz.\"},\n    {\"n\": 8, \"text\": \"1 804 Johann Friedrich, Schweinmetzger u. Weinhändler, a.\"},\n    {\"n\": 9, \"text\": \"Höchstetten - IV, 241.\"},\n    {\"n\": 10, \"text\": \"791 Fr. II Ehe. - Anna Barbara Baumgartner, verw. Zucker\"},\n    {\"n\": 11, \"text\": \"a. Bolligen.\"},\n    {\"n\": 12, \"text\": \"3 K. aus I Ehe. - 829 Ulrich Christoph. - 40 Joh.\"},\n    {\"n\": 13, \"text\": \"Rudolf. - 41 Maria Elise.\"},\n    {\"n\": 14, \"text\": \"Bérard a. Vivis.\"},\n    {\"n\": 15, \"text\": \"1 810 David Ludwig, Hutmacher - V, 152.\"},\n    {\"n\": 16, \"text\": \"(Die Frau und 3 Kinder sind nicht eingeschrieben.)\"},\n    {\"n\": 17, \"text\": \"2 Johann Georg, Kolonialwaarenhändler, Associé von\"},\n    {\"n\": 18, \"text\": \"Häberli u. Bérard - IV, 321.\"},\n    {\"n\": 19, \"text\": \"821 Anna Kath. Drechsler a. Pizy.\"},\n    {\"n\": 20, \"text\": \"2 K. - 843 Louise Sus. Cäcilie. - 44 Karl.\"},\n    {\"n\": 21, \"text\": \"Berchten.\"},\n    {\"n\": 22, \"text\": \"1 806 Rudolf, Hauseigenthümer u. Kantinewirth in der Ka-\"},\n    {\"n\": 23, \"text\": \"serne Nr. 1, a. St. Stephan - III, 5.\"},\n    {\"n\": 24, \"text\": \"Fr. - Anna Barb. Holzer a. St. Stephan, Krämerin.\"},\n    {\"n\": 25, \"text\": \"6 K. - 833 Rudolf. - 36 Joh. Karl. - 39 Maria\"},\n    {\"n\": 26, \"text\": \"Elis. - 42 Albrecht. - 43 Jakob Arnold. - 45 Joh.\"},\n    {\"n\": 27, \"text\": \"Jakob Wilhelm.\"},\n    {\"n\": 28, \"text\": \"Berchenmayer.\"},\n    {\"n\": 29, \"text\": \"1 Bend. Jakob, Sattler, a. Arbon, K. Thurgau - II, 104.\"},\n    {\"n\": 30, \"text\": \"Berger.\"},\n    {\"n\": 31, \"text\": \"1 779 Peter, Krämer, a. Langnau - I, 215.\"},\n    {\"n\": 32, \"text\": \"806 Fr. III Ehe. - Anna Wenger a. Lengenbühl.\"},\n    {\"n\": 33, \"text\": \"9 K. - Aus I Ehe: 811 Elisabetha. - 13 Johann. —\"},\n    {\"n\": 34, \"text\": \"15 Ulrich. - 17 Isaak. - Aus III Ehe: 32 Maria. —\"},\n    {\"n\": 35, \"text\": \"34 Michael. - 36 Samuel Ludwig. - 38 Magdalena.\"},\n    {\"n\": 36, \"text\": \"- 42 Ulrich.\"},\n    {\"n\": 37, \"text\": \"2 788 Christian, Stubenwirth, Holzhändler u. Hauseigen-\"},\n    {\"n\": 38, \"text\": \"thümer, a. Wattenwyl - VI, 95.\"},\n    {\"n\": 39, \"text\": \"803 Fr. II Ehe: Susanna Hasler a. Gsteigwyler.\"},\n    {\"n\": 40, \"text\": \"5 K. - Aus I Ehe: 817 Anna Marg. - 20 Elisabetha\"},\n    {\"n\": 41, \"text\": \"Marg. - Aus II Ehe: 31 Susanna. - 32 Anna Elis.\"},\n    {\"n\": 42, \"text\": \"Marg. - 36 Anna Sophie.\"},\n    {\"n\": 43, \"text\": \"3 775 Ludwig, Kohlenhändler u. Hauseigenthümer, a. Lang-\"},\n    {\"n\": 44, \"text\": \"nau - VI, 130.\"},\n    {\"n\": 45, \"text\": \"774 Fr. - Anna Pfister a. Uetendorf.\"},\n    {\"n\": 46, \"text\": \"2 S. - 805 Samuel Niklaus. - Nr. 4.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Benteli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Benteli\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 21\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"21\",\n      \"origin\": \"Buch, K. Zürich\",\n      \"birth_year\": \"1802\",\n      \"household\": \"811 Fr. II Ehe. - Anna Coendet a. Münchenwyler. 1 T. aus I Ehe. - 827 Maria Julie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Heinrich, Schneider, a. Buch, K. Zürich - IV, 21. 811 Fr. II Ehe. - Anna Coendet a. Münchenwyler. 1 T. aus I Ehe. - 827 Maria Julie.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Benz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Benz\",\n      \"forename\": \"Johann Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzger u. Weinhändler\",\n      \"address\": \"IV, 241\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"241\",\n      \"origin\": \"Höchstetten\",\n      \"birth_year\": \"1804\",\n      \"household\": \"791 Fr. II Ehe. - Anna Barbara Baumgartner, verw. Zucker a. Bolligen. 3 K. aus I Ehe. - 829 Ulrich Christoph. - 40 Joh. Rudolf. - 41 Maria Elise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Johann Friedrich, Schweinmetzger u. Weinhändler, a. Höchstetten - IV, 241. 791 Fr. II Ehe. - Anna Barbara Baumgartner, verw. Zucker a. Bolligen. 3 K. aus I Ehe. - 829 Ulrich Christoph. - 40 Joh. Rudolf. - 41 Maria Elise.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Bérard a. Vivis.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bérard\",\n      \"forename\": \"David Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Hutmacher\",\n      \"address\": \"V, 152\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"152\",\n      \"origin\": \"Vivis\",\n      \"birth_year\": \"1810\",\n      \"household\": \"(Die Frau und 3 Kinder sind nicht eingeschrieben.)\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 810 David Ludwig, Hutmacher - V, 152. (Die Frau und 3 Kinder sind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Bérard a. Vivis.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bérard\",\n      \"forename\": \"Johann Georg\",\n      \"title\": \"\",\n      \"occupation\": \"Kolonialwaarenhändler, Associé von Häberli u. Bérard\",\n      \"address\": \"IV, 321\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"321\",\n      \"origin\": \"Vivis\",\n      \"birth_year\": \"\",\n      \"household\": \"821 Anna Kath. Drechsler a. Pizy. 2 K. - 843 Louise Sus. Cäcilie. - 44 Karl.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"2 Johann Georg, Kolonialwaarenhändler, Associé von Häberli u. Bérard - IV, 321. 821 Anna Kath. Drechsler a. Pizy. 2 K. - 843 Louise Sus. Cäcilie. - 44 Karl.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Berchten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Berchten\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Hauseigenthümer u. Kantinewirth in der Kaserne Nr. 1\",\n      \"address\": \"III, 5\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"5\",\n      \"origin\": \"St. Stephan\",\n      \"birth_year\": \"1806\",\n      \"household\": \"Fr. - Anna Barb. Holzer a. St. Stephan, Krämerin. 6 K. - 833 Rudolf. - 36 Joh. Karl. - 39 Maria Elis. - 42 Albrecht. - 43 Jakob Arnold. - 45 Joh. Jakob Wilhelm.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 806 Rudolf, Hauseigenthümer u. Kantinewirth in der Kaserne Nr. 1, a. St. Stephan - III, 5. Fr. - Anna Barb. Holzer a. St. Stephan, Krämerin. 6 K. - 833 Rudolf. - 36 Joh. Karl. - 39 Maria Elis. - 42 Albrecht. - 43 Jakob Arnold. - 45 Joh. Jakob Wilhelm.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Berchenmayer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Berchenmayer\",\n      \"forename\": \"Bend. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"II, 104\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"104\",\n      \"origin\": \"Arbon, K. Thurgau\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Bend. Jakob, Sattler, a. Arbon, K. Thurgau - II, 104.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Berger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Berger\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"I, 215\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1779\",\n      \"household\": \"806 Fr. III Ehe. - Anna Wenger a. Lengenbühl. 9 K. - Aus I Ehe: 811 Elisabetha. - 13 Johann. — 15 Ulrich. - 17 Isaak. - Aus III Ehe: 32 Maria. — 34 Michael. - 36 Samuel Ludwig. - 38 Magdalena. - 42 Ulrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 779 Peter, Krämer, a. Langnau - I, 215. 806 Fr. III Ehe. - Anna Wenger a. Lengenbühl. 9 K. - Aus I Ehe: 811 Elisabetha. - 13 Johann. — 15 Ulrich. - 17 Isaak. - Aus III Ehe: 32 Maria. — 34 Michael. - 36 Samuel Ludwig. - 38 Magdalena. - 42 Ulrich.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Berger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Berger\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Stubenwirth, Holzhändler u. Hauseigenthümer\",\n      \"address\": \"VI, 95\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"Wattenwyl\",\n      \"birth_year\": \"1788\",\n      \"household\": \"803 Fr. II Ehe: Susanna Hasler a. Gsteigwyler. 5 K. - Aus I Ehe: 817 Anna Marg. - 20 Elisabetha Marg. - Aus II Ehe: 31 Susanna. - 32 Anna Elis. Marg. - 36 Anna Sophie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 788 Christian, Stubenwirth, Holzhändler u. Hauseigenthümer, a. Wattenwyl - VI, 95. 803 Fr. II Ehe: Susanna Hasler a. Gsteigwyler. 5 K. - Aus I Ehe: 817 Anna Marg. - 20 Elisabetha Marg. - Aus II Ehe: 31 Susanna. - 32 Anna Elis. Marg. - 36 Anna Sophie.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"Berger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Berger\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Kohlenhändler u. Hauseigenthümer\",\n      \"address\": \"VI, 130\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"130\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1775\",\n      \"household\": \"774 Fr. - Anna Pfister a. Uetendorf. 2 S. - 805 Samuel Niklaus. - Nr. 4.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 775 Ludwig, Kohlenhändler u. Hauseigenthümer, a. Langnau - VI, 130. 774 Fr. - Anna Pfister a. Uetendorf. 2 S. - 805 Samuel Niklaus. - Nr. 4.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "11",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 11 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Benteli."
+   },
+   {
+    "n": 4,
+    "text": "1 802 Heinrich, Schneider, a. Buch, K. Zürich - IV, 21."
+   },
+   {
+    "n": 5,
+    "text": "811 Fr. II Ehe. - Anna Coendet a. Münchenwyler."
+   },
+   {
+    "n": 6,
+    "text": "1 T. aus I Ehe. - 827 Maria Julie."
+   },
+   {
+    "n": 7,
+    "text": "Benz."
+   },
+   {
+    "n": 8,
+    "text": "1 804 Johann Friedrich, Schweinmetzger u. Weinhändler, a."
+   },
+   {
+    "n": 9,
+    "text": "Höchstetten - IV, 241."
+   },
+   {
+    "n": 10,
+    "text": "791 Fr. II Ehe. - Anna Barbara Baumgartner, verw. Zucker"
+   },
+   {
+    "n": 11,
+    "text": "a. Bolligen."
+   },
+   {
+    "n": 12,
+    "text": "3 K. aus I Ehe. - 829 Ulrich Christoph. - 40 Joh."
+   },
+   {
+    "n": 13,
+    "text": "Rudolf. - 41 Maria Elise."
+   },
+   {
+    "n": 14,
+    "text": "Bérard a. Vivis."
+   },
+   {
+    "n": 15,
+    "text": "1 810 David Ludwig, Hutmacher - V, 152."
+   },
+   {
+    "n": 16,
+    "text": "(Die Frau und 3 Kinder sind nicht eingeschrieben.)"
+   },
+   {
+    "n": 17,
+    "text": "2 Johann Georg, Kolonialwaarenhändler, Associé von"
+   },
+   {
+    "n": 18,
+    "text": "Häberli u. Bérard - IV, 321."
+   },
+   {
+    "n": 19,
+    "text": "821 Anna Kath. Drechsler a. Pizy."
+   },
+   {
+    "n": 20,
+    "text": "2 K. - 843 Louise Sus. Cäcilie. - 44 Karl."
+   },
+   {
+    "n": 21,
+    "text": "Berchten."
+   },
+   {
+    "n": 22,
+    "text": "1 806 Rudolf, Hauseigenthümer u. Kantinewirth in der Ka-"
+   },
+   {
+    "n": 23,
+    "text": "serne Nr. 1, a. St. Stephan - III, 5."
+   },
+   {
+    "n": 24,
+    "text": "Fr. - Anna Barb. Holzer a. St. Stephan, Krämerin."
+   },
+   {
+    "n": 25,
+    "text": "6 K. - 833 Rudolf. - 36 Joh. Karl. - 39 Maria"
+   },
+   {
+    "n": 26,
+    "text": "Elis. - 42 Albrecht. - 43 Jakob Arnold. - 45 Joh."
+   },
+   {
+    "n": 27,
+    "text": "Jakob Wilhelm."
+   },
+   {
+    "n": 28,
+    "text": "Berchenmayer."
+   },
+   {
+    "n": 29,
+    "text": "1 Bend. Jakob, Sattler, a. Arbon, K. Thurgau - II, 104."
+   },
+   {
+    "n": 30,
+    "text": "Berger."
+   },
+   {
+    "n": 31,
+    "text": "1 779 Peter, Krämer, a. Langnau - I, 215."
+   },
+   {
+    "n": 32,
+    "text": "806 Fr. III Ehe. - Anna Wenger a. Lengenbühl."
+   },
+   {
+    "n": 33,
+    "text": "9 K. - Aus I Ehe: 811 Elisabetha. - 13 Johann. —"
+   },
+   {
+    "n": 34,
+    "text": "15 Ulrich. - 17 Isaak. - Aus III Ehe: 32 Maria. —"
+   },
+   {
+    "n": 35,
+    "text": "34 Michael. - 36 Samuel Ludwig. - 38 Magdalena."
+   },
+   {
+    "n": 36,
+    "text": "- 42 Ulrich."
+   },
+   {
+    "n": 37,
+    "text": "2 788 Christian, Stubenwirth, Holzhändler u. Hauseigen-"
+   },
+   {
+    "n": 38,
+    "text": "thümer, a. Wattenwyl - VI, 95."
+   },
+   {
+    "n": 39,
+    "text": "803 Fr. II Ehe: Susanna Hasler a. Gsteigwyler."
+   },
+   {
+    "n": 40,
+    "text": "5 K. - Aus I Ehe: 817 Anna Marg. - 20 Elisabetha"
+   },
+   {
+    "n": 41,
+    "text": "Marg. - Aus II Ehe: 31 Susanna. - 32 Anna Elis."
+   },
+   {
+    "n": 42,
+    "text": "Marg. - 36 Anna Sophie."
+   },
+   {
+    "n": 43,
+    "text": "3 775 Ludwig, Kohlenhändler u. Hauseigenthümer, a. Lang-"
+   },
+   {
+    "n": 44,
+    "text": "nau - VI, 130."
+   },
+   {
+    "n": 45,
+    "text": "774 Fr. - Anna Pfister a. Uetendorf."
+   },
+   {
+    "n": 46,
+    "text": "2 S. - 805 Samuel Niklaus. - Nr. 4."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Benteli.",
+    "place": "Bern",
+    "surname": "Benteli",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 21",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "21",
+    "origin": "Buch, K. Zürich",
+    "birth_year": "1802",
+    "household": "811 Fr. II Ehe. - Anna Coendet a. Münchenwyler. 1 T. aus I Ehe. - 827 Maria Julie.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Heinrich, Schneider, a. Buch, K. Zürich - IV, 21. 811 Fr. II Ehe. - Anna Coendet a. Münchenwyler. 1 T. aus I Ehe. - 827 Maria Julie."
+   },
+   {
+    "line_from": 8,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Benz.",
+    "place": "Bern",
+    "surname": "Benz",
+    "forename": "Johann Friedrich",
+    "title": "",
+    "occupation": "Schweinmetzger u. Weinhändler",
+    "address": "IV, 241",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "241",
+    "origin": "Höchstetten",
+    "birth_year": "1804",
+    "household": "791 Fr. II Ehe. - Anna Barbara Baumgartner, verw. Zucker a. Bolligen. 3 K. aus I Ehe. - 829 Ulrich Christoph. - 40 Joh. Rudolf. - 41 Maria Elise.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Johann Friedrich, Schweinmetzger u. Weinhändler, a. Höchstetten - IV, 241. 791 Fr. II Ehe. - Anna Barbara Baumgartner, verw. Zucker a. Bolligen. 3 K. aus I Ehe. - 829 Ulrich Christoph. - 40 Joh. Rudolf. - 41 Maria Elise."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Bérard a. Vivis.",
+    "place": "Bern",
+    "surname": "Bérard",
+    "forename": "David Ludwig",
+    "title": "",
+    "occupation": "Hutmacher",
+    "address": "V, 152",
+    "quarter": "V",
+    "street": "",
+    "house_no": "152",
+    "origin": "Vivis",
+    "birth_year": "1810",
+    "household": "(Die Frau und 3 Kinder sind nicht eingeschrieben.)",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 810 David Ludwig, Hutmacher - V, 152. (Die Frau und 3 Kinder sind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 17,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Bérard a. Vivis.",
+    "place": "Bern",
+    "surname": "Bérard",
+    "forename": "Johann Georg",
+    "title": "",
+    "occupation": "Kolonialwaarenhändler, Associé von Häberli u. Bérard",
+    "address": "IV, 321",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "321",
+    "origin": "Vivis",
+    "birth_year": "",
+    "household": "821 Anna Kath. Drechsler a. Pizy. 2 K. - 843 Louise Sus. Cäcilie. - 44 Karl.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "2 Johann Georg, Kolonialwaarenhändler, Associé von Häberli u. Bérard - IV, 321. 821 Anna Kath. Drechsler a. Pizy. 2 K. - 843 Louise Sus. Cäcilie. - 44 Karl."
+   },
+   {
+    "line_from": 22,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Berchten.",
+    "place": "Bern",
+    "surname": "Berchten",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Hauseigenthümer u. Kantinewirth in der Kaserne Nr. 1",
+    "address": "III, 5",
+    "quarter": "III",
+    "street": "",
+    "house_no": "5",
+    "origin": "St. Stephan",
+    "birth_year": "1806",
+    "household": "Fr. - Anna Barb. Holzer a. St. Stephan, Krämerin. 6 K. - 833 Rudolf. - 36 Joh. Karl. - 39 Maria Elis. - 42 Albrecht. - 43 Jakob Arnold. - 45 Joh. Jakob Wilhelm.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 806 Rudolf, Hauseigenthümer u. Kantinewirth in der Kaserne Nr. 1, a. St. Stephan - III, 5. Fr. - Anna Barb. Holzer a. St. Stephan, Krämerin. 6 K. - 833 Rudolf. - 36 Joh. Karl. - 39 Maria Elis. - 42 Albrecht. - 43 Jakob Arnold. - 45 Joh. Jakob Wilhelm."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Berchenmayer.",
+    "place": "Bern",
+    "surname": "Berchenmayer",
+    "forename": "Bend. Jakob",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "II, 104",
+    "quarter": "II",
+    "street": "",
+    "house_no": "104",
+    "origin": "Arbon, K. Thurgau",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Bend. Jakob, Sattler, a. Arbon, K. Thurgau - II, 104."
+   },
+   {
+    "line_from": 31,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Berger.",
+    "place": "Bern",
+    "surname": "Berger",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "I, 215",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215",
+    "origin": "Langnau",
+    "birth_year": "1779",
+    "household": "806 Fr. III Ehe. - Anna Wenger a. Lengenbühl. 9 K. - Aus I Ehe: 811 Elisabetha. - 13 Johann. — 15 Ulrich. - 17 Isaak. - Aus III Ehe: 32 Maria. — 34 Michael. - 36 Samuel Ludwig. - 38 Magdalena. - 42 Ulrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 779 Peter, Krämer, a. Langnau - I, 215. 806 Fr. III Ehe. - Anna Wenger a. Lengenbühl. 9 K. - Aus I Ehe: 811 Elisabetha. - 13 Johann. — 15 Ulrich. - 17 Isaak. - Aus III Ehe: 32 Maria. — 34 Michael. - 36 Samuel Ludwig. - 38 Magdalena. - 42 Ulrich."
+   },
+   {
+    "line_from": 37,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Berger.",
+    "place": "Bern",
+    "surname": "Berger",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Stubenwirth, Holzhändler u. Hauseigenthümer",
+    "address": "VI, 95",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "95",
+    "origin": "Wattenwyl",
+    "birth_year": "1788",
+    "household": "803 Fr. II Ehe: Susanna Hasler a. Gsteigwyler. 5 K. - Aus I Ehe: 817 Anna Marg. - 20 Elisabetha Marg. - Aus II Ehe: 31 Susanna. - 32 Anna Elis. Marg. - 36 Anna Sophie.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 788 Christian, Stubenwirth, Holzhändler u. Hauseigenthümer, a. Wattenwyl - VI, 95. 803 Fr. II Ehe: Susanna Hasler a. Gsteigwyler. 5 K. - Aus I Ehe: 817 Anna Marg. - 20 Elisabetha Marg. - Aus II Ehe: 31 Susanna. - 32 Anna Elis. Marg. - 36 Anna Sophie."
+   },
+   {
+    "line_from": 43,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "Berger.",
+    "place": "Bern",
+    "surname": "Berger",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Kohlenhändler u. Hauseigenthümer",
+    "address": "VI, 130",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "130",
+    "origin": "Langnau",
+    "birth_year": "1775",
+    "household": "774 Fr. - Anna Pfister a. Uetendorf. 2 S. - 805 Samuel Niklaus. - Nr. 4.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 775 Ludwig, Kohlenhändler u. Hauseigenthümer, a. Langnau - VI, 130. 774 Fr. - Anna Pfister a. Uetendorf. 2 S. - 805 Samuel Niklaus. - Nr. 4."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:49:09+01:00",
+ "last_error": null
+}

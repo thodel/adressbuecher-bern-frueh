@@ -1,0 +1,545 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 27,
+ "section": "berufe",
+ "started": "2026-11-10T21:14:40+01:00",
+ "thinking": "low",
+ "seconds": 26.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2197,
+  "output": 4394,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"19\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"19\"},\n    {\"n\": 2, \"text\": \"Handlung von Tapeten.\"},\n    {\"n\": 3, \"text\": \"Nro.\"},\n    {\"n\": 4, \"text\": \"Giesa, Peter, Kramgaße … 142\"},\n    {\"n\": 5, \"text\": \"Haller, Bernh. Albrecht, (verkauft auch Kupfer-\"},\n    {\"n\": 6, \"text\": \"stiche), Marktgaße … 91\"},\n    {\"n\": 7, \"text\": \"Wenger, David, Marktgaße … 38\"},\n    {\"n\": 8, \"text\": \"Handlung von Tuch.\"},\n    {\"n\": 9, \"text\": \"Bäy und Comp., Marktgaße … 54\"},\n    {\"n\": 10, \"text\": \"Brunner und Landolt, Marktgaße … 46\"},\n    {\"n\": 11, \"text\": \"Düpan und Comp., Marktgaße … 62\"},\n    {\"n\": 12, \"text\": \"Flügel, Johann Gabriel, Kramgaße … 223\"},\n    {\"n\": 13, \"text\": \"Küpfer, Friedrich und Rudolf, Marktgaße … 57\"},\n    {\"n\": 14, \"text\": \"Lutz, Samuel, Keßlergaße … 243\"},\n    {\"n\": 15, \"text\": \"Simon, Emanuel, und Söhne, Marktgaße … 87\"},\n    {\"n\": 16, \"text\": \"Walthard, Samuel, Weibermarkt … 84\"},\n    {\"n\": 17, \"text\": \"Wyttenbach und Studer, Kramgaße … 209\"},\n    {\"n\": 18, \"text\": \"Handlung von Wassern.\"},\n    {\"n\": 19, \"text\": \"Mineralwasser.\"},\n    {\"n\": 20, \"text\": \"Friedli, Samuel, (Fachinger- und Selters-\"},\n    {\"n\": 21, \"text\": \"wasser), Marktgaße … 55\"},\n    {\"n\": 22, \"text\": \"Maurer, Abraham, (Selterswasser), Kramgaße 192\"},\n    {\"n\": 23, \"text\": \"Morell, Friedrich, Apotheker, (fabrizirt künst-\"},\n    {\"n\": 24, \"text\": \"liche Mineralwasser), Kramgaße … 181\"},\n    {\"n\": 25, \"text\": \"Niklaus, Johann, (Selters- und Fachinger-\"},\n    {\"n\": 26, \"text\": \"wasser), Gerechtigkeitgaße … 108\"},\n    {\"n\": 27, \"text\": \"Pagenstecher, Friedrich, (künstliche Mineral-\"},\n    {\"n\": 28, \"text\": \"wasser), Kramgaße … 193\"},\n    {\"n\": 29, \"text\": \"Rudrauff, Friedrich, (künstliche Mineralwasser),\"},\n    {\"n\": 30, \"text\": \"Marktgaße … 74\"},\n    {\"n\": 31, \"text\": \"Stapfer und Ganguillet, (halten Geilnauer-\"},\n    {\"n\": 32, \"text\": \"und Selterswasser), Kramgaße … 151\"},\n    {\"n\": 33, \"text\": \"2*\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Tapeten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Giesa\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 142\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"142\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Giesa, Peter, Kramgaße 142\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Tapeten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"Bernh. Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"verkauft auch Kupferstiche\",\n      \"address\": \"Marktgaße 91\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"91\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haller, Bernh. Albrecht, (verkauft auch Kupferstiche), Marktgaße 91\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Tapeten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wenger\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 38\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"38\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wenger, David, Marktgaße 38\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"firma\",\n      \"heading\": \"Handlung von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bäy und Comp.\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 54\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"54\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bäy und Comp., Marktgaße 54\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"firma\",\n      \"heading\": \"Handlung von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunner und Landolt\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 46\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"46\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brunner und Landolt, Marktgaße 46\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Handlung von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Düpan und Comp.\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 62\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"62\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Düpan und Comp., Marktgaße 62\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Flügel\",\n      \"forename\": \"Johann Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 223\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"223\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Flügel, Johann Gabriel, Kramgaße 223\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"firma\",\n      \"heading\": \"Handlung von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Küpfer\",\n      \"forename\": \"Friedrich und Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 57\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"57\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Küpfer, Friedrich und Rudolf, Marktgaße 57\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lutz\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Keßlergaße 243\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaße\",\n      \"house_no\": \"243\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lutz, Samuel, Keßlergaße 243\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"firma\",\n      \"heading\": \"Handlung von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Simon\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"und Söhne\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 87\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"87\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Simon, Emanuel, und Söhne, Marktgaße 87\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walthard\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Weibermarkt 84\",\n      \"quarter\": \"\",\n      \"street\": \"Weibermarkt\",\n      \"house_no\": \"84\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Walthard, Samuel, Weibermarkt 84\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Handlung von Tuch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wyttenbach und Studer\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 209\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"209\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wyttenbach und Studer, Kramgaße 209\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Wassern. Mineralwasser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Friedli\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Fachinger- und Selterswasser\",\n      \"address\": \"Marktgaße 55\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"55\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Friedli, Samuel, (Fachinger- und Selterswasser), Marktgaße 55\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Wassern. Mineralwasser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Maurer\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"Selterswasser\",\n      \"address\": \"Kramgaße 192\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"192\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Maurer, Abraham, (Selterswasser), Kramgaße 192\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Wassern. Mineralwasser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Morell\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Apotheker, (fabrizirt künstliche Mineralwasser)\",\n      \"address\": \"Kramgaße 181\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"181\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Morell, Friedrich, Apotheker, (fabrizirt künstliche Mineralwasser), Kramgaße 181\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Wassern. Mineralwasser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Niklaus\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Selters- und Fachingerwasser\",\n      \"address\": \"Gerechtigkeitgaße 108\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"108\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Niklaus, Johann, (Selters- und Fachingerwasser), Gerechtigkeitgaße 108\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Wassern. Mineralwasser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pagenstecher\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"künstliche Mineralwasser\",\n      \"address\": \"Kramgaße 193\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"193\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pagenstecher, Friedrich, (künstliche Mineralwasser), Kramgaße 193\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Handlung von Wassern. Mineralwasser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rudrauff\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"künstliche Mineralwasser\",\n      \"address\": \"Marktgaße 74\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"74\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rudrauff, Friedrich, (künstliche Mineralwasser), Marktgaße 74\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 32,\n      \"kind\": \"firma\",\n      \"heading\": \"Handlung von Wassern. Mineralwasser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stapfer und Ganguillet\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"halten Geilnauer- und Selterswasser\",\n      \"address\": \"Kramgaße 151\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"151\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stapfer und Ganguillet, (halten Geilnauer- und Selterswasser), Kramgaße 151\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "19",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "19"
+   },
+   {
+    "n": 2,
+    "text": "Handlung von Tapeten."
+   },
+   {
+    "n": 3,
+    "text": "Nro."
+   },
+   {
+    "n": 4,
+    "text": "Giesa, Peter, Kramgaße … 142"
+   },
+   {
+    "n": 5,
+    "text": "Haller, Bernh. Albrecht, (verkauft auch Kupfer-"
+   },
+   {
+    "n": 6,
+    "text": "stiche), Marktgaße … 91"
+   },
+   {
+    "n": 7,
+    "text": "Wenger, David, Marktgaße … 38"
+   },
+   {
+    "n": 8,
+    "text": "Handlung von Tuch."
+   },
+   {
+    "n": 9,
+    "text": "Bäy und Comp., Marktgaße … 54"
+   },
+   {
+    "n": 10,
+    "text": "Brunner und Landolt, Marktgaße … 46"
+   },
+   {
+    "n": 11,
+    "text": "Düpan und Comp., Marktgaße … 62"
+   },
+   {
+    "n": 12,
+    "text": "Flügel, Johann Gabriel, Kramgaße … 223"
+   },
+   {
+    "n": 13,
+    "text": "Küpfer, Friedrich und Rudolf, Marktgaße … 57"
+   },
+   {
+    "n": 14,
+    "text": "Lutz, Samuel, Keßlergaße … 243"
+   },
+   {
+    "n": 15,
+    "text": "Simon, Emanuel, und Söhne, Marktgaße … 87"
+   },
+   {
+    "n": 16,
+    "text": "Walthard, Samuel, Weibermarkt … 84"
+   },
+   {
+    "n": 17,
+    "text": "Wyttenbach und Studer, Kramgaße … 209"
+   },
+   {
+    "n": 18,
+    "text": "Handlung von Wassern."
+   },
+   {
+    "n": 19,
+    "text": "Mineralwasser."
+   },
+   {
+    "n": 20,
+    "text": "Friedli, Samuel, (Fachinger- und Selters-"
+   },
+   {
+    "n": 21,
+    "text": "wasser), Marktgaße … 55"
+   },
+   {
+    "n": 22,
+    "text": "Maurer, Abraham, (Selterswasser), Kramgaße 192"
+   },
+   {
+    "n": 23,
+    "text": "Morell, Friedrich, Apotheker, (fabrizirt künst-"
+   },
+   {
+    "n": 24,
+    "text": "liche Mineralwasser), Kramgaße … 181"
+   },
+   {
+    "n": 25,
+    "text": "Niklaus, Johann, (Selters- und Fachinger-"
+   },
+   {
+    "n": 26,
+    "text": "wasser), Gerechtigkeitgaße … 108"
+   },
+   {
+    "n": 27,
+    "text": "Pagenstecher, Friedrich, (künstliche Mineral-"
+   },
+   {
+    "n": 28,
+    "text": "wasser), Kramgaße … 193"
+   },
+   {
+    "n": 29,
+    "text": "Rudrauff, Friedrich, (künstliche Mineralwasser),"
+   },
+   {
+    "n": 30,
+    "text": "Marktgaße … 74"
+   },
+   {
+    "n": 31,
+    "text": "Stapfer und Ganguillet, (halten Geilnauer-"
+   },
+   {
+    "n": 32,
+    "text": "und Selterswasser), Kramgaße … 151"
+   },
+   {
+    "n": 33,
+    "text": "2*"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Handlung von Tapeten.",
+    "place": "Bern",
+    "surname": "Giesa",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 142",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "142",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Giesa, Peter, Kramgaße 142"
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Handlung von Tapeten.",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "Bernh. Albrecht",
+    "title": "",
+    "occupation": "verkauft auch Kupferstiche",
+    "address": "Marktgaße 91",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "91",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haller, Bernh. Albrecht, (verkauft auch Kupferstiche), Marktgaße 91"
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Handlung von Tapeten.",
+    "place": "Bern",
+    "surname": "Wenger",
+    "forename": "David",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 38",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "38",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wenger, David, Marktgaße 38"
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "firma",
+    "heading": "Handlung von Tuch.",
+    "place": "Bern",
+    "surname": "Bäy und Comp.",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 54",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "54",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bäy und Comp., Marktgaße 54"
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "firma",
+    "heading": "Handlung von Tuch.",
+    "place": "Bern",
+    "surname": "Brunner und Landolt",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 46",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "46",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brunner und Landolt, Marktgaße 46"
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Handlung von Tuch.",
+    "place": "Bern",
+    "surname": "Düpan und Comp.",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 62",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "62",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Düpan und Comp., Marktgaße 62"
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Handlung von Tuch.",
+    "place": "Bern",
+    "surname": "Flügel",
+    "forename": "Johann Gabriel",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 223",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "223",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Flügel, Johann Gabriel, Kramgaße 223"
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "firma",
+    "heading": "Handlung von Tuch.",
+    "place": "Bern",
+    "surname": "Küpfer",
+    "forename": "Friedrich und Rudolf",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 57",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "57",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Küpfer, Friedrich und Rudolf, Marktgaße 57"
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Handlung von Tuch.",
+    "place": "Bern",
+    "surname": "Lutz",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "Keßlergaße 243",
+    "quarter": "",
+    "street": "Keßlergaße",
+    "house_no": "243",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lutz, Samuel, Keßlergaße 243"
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "firma",
+    "heading": "Handlung von Tuch.",
+    "place": "Bern",
+    "surname": "Simon",
+    "forename": "Emanuel",
+    "title": "und Söhne",
+    "occupation": "",
+    "address": "Marktgaße 87",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "87",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Simon, Emanuel, und Söhne, Marktgaße 87"
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Handlung von Tuch.",
+    "place": "Bern",
+    "surname": "Walthard",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "Weibermarkt 84",
+    "quarter": "",
+    "street": "Weibermarkt",
+    "house_no": "84",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Walthard, Samuel, Weibermarkt 84"
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Handlung von Tuch.",
+    "place": "Bern",
+    "surname": "Wyttenbach und Studer",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 209",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "209",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wyttenbach und Studer, Kramgaße 209"
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Handlung von Wassern. Mineralwasser.",
+    "place": "Bern",
+    "surname": "Friedli",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Fachinger- und Selterswasser",
+    "address": "Marktgaße 55",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "55",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friedli, Samuel, (Fachinger- und Selterswasser), Marktgaße 55"
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Handlung von Wassern. Mineralwasser.",
+    "place": "Bern",
+    "surname": "Maurer",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "Selterswasser",
+    "address": "Kramgaße 192",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "192",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Maurer, Abraham, (Selterswasser), Kramgaße 192"
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Handlung von Wassern. Mineralwasser.",
+    "place": "Bern",
+    "surname": "Morell",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Apotheker, (fabrizirt künstliche Mineralwasser)",
+    "address": "Kramgaße 181",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "181",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Morell, Friedrich, Apotheker, (fabrizirt künstliche Mineralwasser), Kramgaße 181"
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Handlung von Wassern. Mineralwasser.",
+    "place": "Bern",
+    "surname": "Niklaus",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Selters- und Fachingerwasser",
+    "address": "Gerechtigkeitgaße 108",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "108",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Niklaus, Johann, (Selters- und Fachingerwasser), Gerechtigkeitgaße 108"
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Handlung von Wassern. Mineralwasser.",
+    "place": "Bern",
+    "surname": "Pagenstecher",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "künstliche Mineralwasser",
+    "address": "Kramgaße 193",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "193",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pagenstecher, Friedrich, (künstliche Mineralwasser), Kramgaße 193"
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Handlung von Wassern. Mineralwasser.",
+    "place": "Bern",
+    "surname": "Rudrauff",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "künstliche Mineralwasser",
+    "address": "Marktgaße 74",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "74",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rudrauff, Friedrich, (künstliche Mineralwasser), Marktgaße 74"
+   },
+   {
+    "line_from": 31,
+    "line_to": 32,
+    "kind": "firma",
+    "heading": "Handlung von Wassern. Mineralwasser.",
+    "place": "Bern",
+    "surname": "Stapfer und Ganguillet",
+    "forename": "",
+    "title": "",
+    "occupation": "halten Geilnauer- und Selterswasser",
+    "address": "Kramgaße 151",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "151",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stapfer und Ganguillet, (halten Geilnauer- und Selterswasser), Kramgaße 151"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:15:07+01:00",
+ "last_error": null
+}

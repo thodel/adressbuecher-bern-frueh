@@ -1,0 +1,273 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 131,
+ "section": "canton",
+ "started": "2026-11-10T21:13:19+01:00",
+ "thinking": "low",
+ "seconds": 12.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2305,
+  "output": 1923,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"58\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"58\"},\n    {\"n\": 2, \"text\": \"Diessbach.\"},\n    {\"n\": 3, \"text\": \"Bieri, Ulric, fils, Fromages en gros.\"},\n    {\"n\": 4, \"text\": \"Sæguesenmann, Chrétien, Cloutier, Commerce\"},\n    {\"n\": 5, \"text\": \"de Fer.\"},\n    {\"n\": 6, \"text\": \"Siegfried, et fils, Fabrique de Draps de laine\"},\n    {\"n\": 7, \"text\": \"ordinaire et de Draps de laine fine\"},\n    {\"n\": 8, \"text\": \"d’Espagne, Dépôt à Berne, Quartier\"},\n    {\"n\": 9, \"text\": \"jaune Nro. 89.\"},\n    {\"n\": 10, \"text\": \"Höchstetten.\"},\n    {\"n\": 11, \"text\": \"Buhlmann, Jean, Epicerie, Mercerie, Eau\"},\n    {\"n\": 12, \"text\": \"de Vie.\"},\n    {\"n\": 13, \"text\": \"Kiesen.\"},\n    {\"n\": 14, \"text\": \"Wegmuller, Chrétien, Etoffes, Mercerie, Epi-\"},\n    {\"n\": 15, \"text\": \"cerie.\"},\n    {\"n\": 16, \"text\": \"Munsingen.\"},\n    {\"n\": 17, \"text\": \"Burki, Jerome, Fromages.\"},\n    {\"n\": 18, \"text\": \"Stouki, Pièrre, Etoffes, Mercerie, Epicerie.\"},\n    {\"n\": 19, \"text\": \"Roubigen.\"},\n    {\"n\": 20, \"text\": \"Stettler, Chrétien, Etoffes, Mercerie, Epicerie.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Diessbach.\",\n      \"place\": \"Diessbach\",\n      \"surname\": \"Bieri\",\n      \"forename\": \"Ulric\",\n      \"title\": \"fils\",\n      \"occupation\": \"Fromages en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bieri, Ulric, fils, Fromages en gros.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Diessbach.\",\n      \"place\": \"Diessbach\",\n      \"surname\": \"Sæguesenmann\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Cloutier, Commerce de Fer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sæguesenmann, Chrétien, Cloutier, Commerce de Fer.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 9,\n      \"kind\": \"firma\",\n      \"heading\": \"Diessbach.\",\n      \"place\": \"Diessbach\",\n      \"surname\": \"Siegfried\",\n      \"forename\": \"\",\n      \"title\": \"et fils\",\n      \"occupation\": \"Fabrique de Draps de laine ordinaire et de Draps de laine fine d’Espagne\",\n      \"address\": \"Dépôt à Berne, Quartier jaune Nro. 89\",\n      \"quarter\": \"jaune\",\n      \"street\": \"\",\n      \"house_no\": \"89\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Siegfried, et fils, Fabrique de Draps de laine ordinaire et de Draps de laine fine d’Espagne, Dépôt à Berne, Quartier jaune Nro. 89.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Höchstetten.\",\n      \"place\": \"Höchstetten\",\n      \"surname\": \"Buhlmann\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie, Mercerie, Eau de Vie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Buhlmann, Jean, Epicerie, Mercerie, Eau de Vie.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Kiesen.\",\n      \"place\": \"Kiesen\",\n      \"surname\": \"Wegmuller\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes, Mercerie, Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wegmuller, Chrétien, Etoffes, Mercerie, Epicerie.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Munsingen.\",\n      \"place\": \"Munsingen\",\n      \"surname\": \"Burki\",\n      \"forename\": \"Jerome\",\n      \"title\": \"\",\n      \"occupation\": \"Fromages\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Burki, Jerome, Fromages.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Munsingen.\",\n      \"place\": \"Munsingen\",\n      \"surname\": \"Stouki\",\n      \"forename\": \"Pièrre\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes, Mercerie, Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stouki, Pièrre, Etoffes, Mercerie, Epicerie.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Roubigen.\",\n      \"place\": \"Roubigen\",\n      \"surname\": \"Stettler\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes, Mercerie, Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stettler, Chrétien, Etoffes, Mercerie, Epicerie.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "58",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "58"
+   },
+   {
+    "n": 2,
+    "text": "Diessbach."
+   },
+   {
+    "n": 3,
+    "text": "Bieri, Ulric, fils, Fromages en gros."
+   },
+   {
+    "n": 4,
+    "text": "Sæguesenmann, Chrétien, Cloutier, Commerce"
+   },
+   {
+    "n": 5,
+    "text": "de Fer."
+   },
+   {
+    "n": 6,
+    "text": "Siegfried, et fils, Fabrique de Draps de laine"
+   },
+   {
+    "n": 7,
+    "text": "ordinaire et de Draps de laine fine"
+   },
+   {
+    "n": 8,
+    "text": "d’Espagne, Dépôt à Berne, Quartier"
+   },
+   {
+    "n": 9,
+    "text": "jaune Nro. 89."
+   },
+   {
+    "n": 10,
+    "text": "Höchstetten."
+   },
+   {
+    "n": 11,
+    "text": "Buhlmann, Jean, Epicerie, Mercerie, Eau"
+   },
+   {
+    "n": 12,
+    "text": "de Vie."
+   },
+   {
+    "n": 13,
+    "text": "Kiesen."
+   },
+   {
+    "n": 14,
+    "text": "Wegmuller, Chrétien, Etoffes, Mercerie, Epi-"
+   },
+   {
+    "n": 15,
+    "text": "cerie."
+   },
+   {
+    "n": 16,
+    "text": "Munsingen."
+   },
+   {
+    "n": 17,
+    "text": "Burki, Jerome, Fromages."
+   },
+   {
+    "n": 18,
+    "text": "Stouki, Pièrre, Etoffes, Mercerie, Epicerie."
+   },
+   {
+    "n": 19,
+    "text": "Roubigen."
+   },
+   {
+    "n": 20,
+    "text": "Stettler, Chrétien, Etoffes, Mercerie, Epicerie."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Diessbach.",
+    "place": "Diessbach",
+    "surname": "Bieri",
+    "forename": "Ulric",
+    "title": "fils",
+    "occupation": "Fromages en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bieri, Ulric, fils, Fromages en gros."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Diessbach.",
+    "place": "Diessbach",
+    "surname": "Sæguesenmann",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Cloutier, Commerce de Fer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sæguesenmann, Chrétien, Cloutier, Commerce de Fer."
+   },
+   {
+    "line_from": 6,
+    "line_to": 9,
+    "kind": "firma",
+    "heading": "Diessbach.",
+    "place": "Diessbach",
+    "surname": "Siegfried",
+    "forename": "",
+    "title": "et fils",
+    "occupation": "Fabrique de Draps de laine ordinaire et de Draps de laine fine d’Espagne",
+    "address": "Dépôt à Berne, Quartier jaune Nro. 89",
+    "quarter": "jaune",
+    "street": "",
+    "house_no": "89",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Siegfried, et fils, Fabrique de Draps de laine ordinaire et de Draps de laine fine d’Espagne, Dépôt à Berne, Quartier jaune Nro. 89."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Höchstetten.",
+    "place": "Höchstetten",
+    "surname": "Buhlmann",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Epicerie, Mercerie, Eau de Vie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Buhlmann, Jean, Epicerie, Mercerie, Eau de Vie."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Kiesen.",
+    "place": "Kiesen",
+    "surname": "Wegmuller",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Etoffes, Mercerie, Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wegmuller, Chrétien, Etoffes, Mercerie, Epicerie."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Munsingen.",
+    "place": "Munsingen",
+    "surname": "Burki",
+    "forename": "Jerome",
+    "title": "",
+    "occupation": "Fromages",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Burki, Jerome, Fromages."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Munsingen.",
+    "place": "Munsingen",
+    "surname": "Stouki",
+    "forename": "Pièrre",
+    "title": "",
+    "occupation": "Etoffes, Mercerie, Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stouki, Pièrre, Etoffes, Mercerie, Epicerie."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Roubigen.",
+    "place": "Roubigen",
+    "surname": "Stettler",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Etoffes, Mercerie, Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stettler, Chrétien, Etoffes, Mercerie, Epicerie."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:13:31+01:00",
+ "last_error": null
+}

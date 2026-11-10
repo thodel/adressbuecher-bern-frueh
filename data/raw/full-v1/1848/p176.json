@@ -1,0 +1,409 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 176,
+ "section": "einsassen",
+ "started": "2026-11-10T21:57:11+01:00",
+ "thinking": "low",
+ "seconds": 22.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 3827,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"163\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 163 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Troller.\"},\n    {\"n\": 4, \"text\": \"1 808 Joseph, Speisewirth, aus Starrkirch, K. Solothurn\"},\n    {\"n\": 5, \"text\": \"- IV, 118.\"},\n    {\"n\": 6, \"text\": \"809 Fr. - Josepha Bachmann.\"},\n    {\"n\": 7, \"text\": \"Trümpi.\"},\n    {\"n\": 8, \"text\": \"1 827 Kaspar, Kommissionshändler, a. Glarus - IV, 105.\"},\n    {\"n\": 9, \"text\": \"825 Fr. - Elis. Sophie Müller.\"},\n    {\"n\": 10, \"text\": \"1 T. - 847 Barb. Kath. Florentine.\"},\n    {\"n\": 11, \"text\": \"Trümpler.\"},\n    {\"n\": 12, \"text\": \"1 813 Jakob, Barbier, a. Wädenschwyl, K. Zürich - II, 44.\"},\n    {\"n\": 13, \"text\": \"Fr - Josephine Schmid a. Wölfliswyl, K. Aargau.\"},\n    {\"n\": 14, \"text\": \"2 K. - 844 Eleon. Nanette. - 46 Albert Jakob.\"},\n    {\"n\": 15, \"text\": \"Trüßler.\"},\n    {\"n\": 16, \"text\": \"1 818 Jakob, Gürtler, a. Sumiswald - II, 238.\"},\n    {\"n\": 17, \"text\": \"Fr. - Anna Schütz.\"},\n    {\"n\": 18, \"text\": \"Tschabold.\"},\n    {\"n\": 19, \"text\": \"1 798 Karl Viktor, Schreiber, bern. Landsaß - I, 215 g.\"},\n    {\"n\": 20, \"text\": \"795 Fr. - Magd. Schweizer a. Steffisburg.\"},\n    {\"n\": 21, \"text\": \"3 K. - 824 Nr. 2. - 828 Maria Katharina. - 30\"},\n    {\"n\": 22, \"text\": \"Rudolf Albrecht.\"},\n    {\"n\": 23, \"text\": \"2 822 Karl Johann, Speisewirth, S. v. 1, bern. Landsaß\"},\n    {\"n\": 24, \"text\": \"- I, 215 g.\"},\n    {\"n\": 25, \"text\": \"3 800 Barbara, Schneiderin, a. Erlenbach - III, 24.\"},\n    {\"n\": 26, \"text\": \"v. Tschann.\"},\n    {\"n\": 27, \"text\": \"1 Viktor, Banquier, a. Solothurn - IV, 145.\"},\n    {\"n\": 28, \"text\": \"808 Fr. - Melanie Zeerleder a. Bern.\"},\n    {\"n\": 29, \"text\": \"2 K. - 841 Viktor. - 45 August Albertine Louise.\"},\n    {\"n\": 30, \"text\": \"Tschanen a. Wohlen.\"},\n    {\"n\": 31, \"text\": \"1 792 Jakob, Zimmermann - II, 116 c.\"},\n    {\"n\": 32, \"text\": \"787 Fr. - Kath. Elis. Müller a. Trub, Kellerhalterin.\"},\n    {\"n\": 33, \"text\": \"3 T. - 814 Magd. Sus. - 825 Maria Elis. - 26\"},\n    {\"n\": 34, \"text\": \"Anna Marg.\"},\n    {\"n\": 35, \"text\": \"2 790 Christian, Steinhauer - III, 30.\"},\n    {\"n\": 36, \"text\": \"797 Fr. - Marg. Studer, Kellermagd, a. Langnau.\"},\n    {\"n\": 37, \"text\": \"3 820 Christian, Bäcker - II, 60.\"},\n    {\"n\": 38, \"text\": \"(Die Frau noch nicht eingeschrieben.)\"},\n    {\"n\": 39, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Troller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Troller\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth\",\n      \"address\": \"IV, 118\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"118\",\n      \"origin\": \"Starrkirch, K. Solothurn\",\n      \"birth_year\": \"1808\",\n      \"household\": \"809 Fr. - Josepha Bachmann.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 808 Joseph, Speisewirth, aus Starrkirch, K. Solothurn - IV, 118. 809 Fr. - Josepha Bachmann.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Trümpi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Trümpi\",\n      \"forename\": \"Kaspar\",\n      \"title\": \"\",\n      \"occupation\": \"Kommissionshändler\",\n      \"address\": \"IV, 105\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"105\",\n      \"origin\": \"Glarus\",\n      \"birth_year\": \"1827\",\n      \"household\": \"825 Fr. - Elis. Sophie Müller. 1 T. - 847 Barb. Kath. Florentine.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 827 Kaspar, Kommissionshändler, a. Glarus - IV, 105. 825 Fr. - Elis. Sophie Müller. 1 T. - 847 Barb. Kath. Florentine.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Trümpler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Trümpler\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Barbier\",\n      \"address\": \"II, 44\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"44\",\n      \"origin\": \"Wädenschwyl, K. Zürich\",\n      \"birth_year\": \"1813\",\n      \"household\": \"Fr - Josephine Schmid a. Wölfliswyl, K. Aargau. 2 K. - 844 Eleon. Nanette. - 46 Albert Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Jakob, Barbier, a. Wädenschwyl, K. Zürich - II, 44. Fr - Josephine Schmid a. Wölfliswyl, K. Aargau. 2 K. - 844 Eleon. Nanette. - 46 Albert Jakob.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Trüßler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Trüßler\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Gürtler\",\n      \"address\": \"II, 238\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"238\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1818\",\n      \"household\": \"Fr. - Anna Schütz.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 818 Jakob, Gürtler, a. Sumiswald - II, 238. Fr. - Anna Schütz.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Tschabold.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschabold\",\n      \"forename\": \"Karl Viktor\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"I, 215 g\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215 g\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1798\",\n      \"household\": \"795 Fr. - Magd. Schweizer a. Steffisburg. 3 K. - 824 Nr. 2. - 828 Maria Katharina. - 30 Rudolf Albrecht.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 798 Karl Viktor, Schreiber, bern. Landsaß - I, 215 g. 795 Fr. - Magd. Schweizer a. Steffisburg. 3 K. - 824 Nr. 2. - 828 Maria Katharina. - 30 Rudolf Albrecht.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Tschabold.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschabold\",\n      \"forename\": \"Karl Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth\",\n      \"address\": \"I, 215 g\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215 g\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1822\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 822 Karl Johann, Speisewirth, S. v. 1, bern. Landsaß - I, 215 g.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Tschabold.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschabold\",\n      \"forename\": \"Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"III, 24\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"24\",\n      \"origin\": \"Erlenbach\",\n      \"birth_year\": \"1800\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 800 Barbara, Schneiderin, a. Erlenbach - III, 24.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"v. Tschann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"v. Tschann\",\n      \"forename\": \"Viktor\",\n      \"title\": \"\",\n      \"occupation\": \"Banquier\",\n      \"address\": \"IV, 145\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"145\",\n      \"origin\": \"Solothurn\",\n      \"birth_year\": \"\",\n      \"household\": \"808 Fr. - Melanie Zeerleder a. Bern. 2 K. - 841 Viktor. - 45 August Albertine Louise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Viktor, Banquier, a. Solothurn - IV, 145. 808 Fr. - Melanie Zeerleder a. Bern. 2 K. - 841 Viktor. - 45 August Albertine Louise.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Tschanen a. Wohlen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschanen\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Zimmermann\",\n      \"address\": \"II, 116 c\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"116 c\",\n      \"origin\": \"Wohlen\",\n      \"birth_year\": \"1792\",\n      \"household\": \"787 Fr. - Kath. Elis. Müller a. Trub, Kellerhalterin. 3 T. - 814 Magd. Sus. - 825 Maria Elis. - 26 Anna Marg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 792 Jakob, Zimmermann - II, 116 c. 787 Fr. - Kath. Elis. Müller a. Trub, Kellerhalterin. 3 T. - 814 Magd. Sus. - 825 Maria Elis. - 26 Anna Marg.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Tschanen a. Wohlen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschanen\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauer\",\n      \"address\": \"III, 30\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"30\",\n      \"origin\": \"Wohlen\",\n      \"birth_year\": \"1790\",\n      \"household\": \"797 Fr. - Marg. Studer, Kellermagd, a. Langnau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 790 Christian, Steinhauer - III, 30. 797 Fr. - Marg. Studer, Kellermagd, a. Langnau.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Tschanen a. Wohlen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschanen\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"II, 60\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"60\",\n      \"origin\": \"Wohlen\",\n      \"birth_year\": \"1820\",\n      \"household\": \"(Die Frau noch nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 820 Christian, Bäcker - II, 60. (Die Frau noch nicht eingeschrieben.)\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "163",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 163 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Troller."
+   },
+   {
+    "n": 4,
+    "text": "1 808 Joseph, Speisewirth, aus Starrkirch, K. Solothurn"
+   },
+   {
+    "n": 5,
+    "text": "- IV, 118."
+   },
+   {
+    "n": 6,
+    "text": "809 Fr. - Josepha Bachmann."
+   },
+   {
+    "n": 7,
+    "text": "Trümpi."
+   },
+   {
+    "n": 8,
+    "text": "1 827 Kaspar, Kommissionshändler, a. Glarus - IV, 105."
+   },
+   {
+    "n": 9,
+    "text": "825 Fr. - Elis. Sophie Müller."
+   },
+   {
+    "n": 10,
+    "text": "1 T. - 847 Barb. Kath. Florentine."
+   },
+   {
+    "n": 11,
+    "text": "Trümpler."
+   },
+   {
+    "n": 12,
+    "text": "1 813 Jakob, Barbier, a. Wädenschwyl, K. Zürich - II, 44."
+   },
+   {
+    "n": 13,
+    "text": "Fr - Josephine Schmid a. Wölfliswyl, K. Aargau."
+   },
+   {
+    "n": 14,
+    "text": "2 K. - 844 Eleon. Nanette. - 46 Albert Jakob."
+   },
+   {
+    "n": 15,
+    "text": "Trüßler."
+   },
+   {
+    "n": 16,
+    "text": "1 818 Jakob, Gürtler, a. Sumiswald - II, 238."
+   },
+   {
+    "n": 17,
+    "text": "Fr. - Anna Schütz."
+   },
+   {
+    "n": 18,
+    "text": "Tschabold."
+   },
+   {
+    "n": 19,
+    "text": "1 798 Karl Viktor, Schreiber, bern. Landsaß - I, 215 g."
+   },
+   {
+    "n": 20,
+    "text": "795 Fr. - Magd. Schweizer a. Steffisburg."
+   },
+   {
+    "n": 21,
+    "text": "3 K. - 824 Nr. 2. - 828 Maria Katharina. - 30"
+   },
+   {
+    "n": 22,
+    "text": "Rudolf Albrecht."
+   },
+   {
+    "n": 23,
+    "text": "2 822 Karl Johann, Speisewirth, S. v. 1, bern. Landsaß"
+   },
+   {
+    "n": 24,
+    "text": "- I, 215 g."
+   },
+   {
+    "n": 25,
+    "text": "3 800 Barbara, Schneiderin, a. Erlenbach - III, 24."
+   },
+   {
+    "n": 26,
+    "text": "v. Tschann."
+   },
+   {
+    "n": 27,
+    "text": "1 Viktor, Banquier, a. Solothurn - IV, 145."
+   },
+   {
+    "n": 28,
+    "text": "808 Fr. - Melanie Zeerleder a. Bern."
+   },
+   {
+    "n": 29,
+    "text": "2 K. - 841 Viktor. - 45 August Albertine Louise."
+   },
+   {
+    "n": 30,
+    "text": "Tschanen a. Wohlen."
+   },
+   {
+    "n": 31,
+    "text": "1 792 Jakob, Zimmermann - II, 116 c."
+   },
+   {
+    "n": 32,
+    "text": "787 Fr. - Kath. Elis. Müller a. Trub, Kellerhalterin."
+   },
+   {
+    "n": 33,
+    "text": "3 T. - 814 Magd. Sus. - 825 Maria Elis. - 26"
+   },
+   {
+    "n": 34,
+    "text": "Anna Marg."
+   },
+   {
+    "n": 35,
+    "text": "2 790 Christian, Steinhauer - III, 30."
+   },
+   {
+    "n": 36,
+    "text": "797 Fr. - Marg. Studer, Kellermagd, a. Langnau."
+   },
+   {
+    "n": 37,
+    "text": "3 820 Christian, Bäcker - II, 60."
+   },
+   {
+    "n": 38,
+    "text": "(Die Frau noch nicht eingeschrieben.)"
+   },
+   {
+    "n": 39,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Troller.",
+    "place": "Bern",
+    "surname": "Troller",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Speisewirth",
+    "address": "IV, 118",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "118",
+    "origin": "Starrkirch, K. Solothurn",
+    "birth_year": "1808",
+    "household": "809 Fr. - Josepha Bachmann.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 808 Joseph, Speisewirth, aus Starrkirch, K. Solothurn - IV, 118. 809 Fr. - Josepha Bachmann."
+   },
+   {
+    "line_from": 8,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Trümpi.",
+    "place": "Bern",
+    "surname": "Trümpi",
+    "forename": "Kaspar",
+    "title": "",
+    "occupation": "Kommissionshändler",
+    "address": "IV, 105",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "105",
+    "origin": "Glarus",
+    "birth_year": "1827",
+    "household": "825 Fr. - Elis. Sophie Müller. 1 T. - 847 Barb. Kath. Florentine.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 827 Kaspar, Kommissionshändler, a. Glarus - IV, 105. 825 Fr. - Elis. Sophie Müller. 1 T. - 847 Barb. Kath. Florentine."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Trümpler.",
+    "place": "Bern",
+    "surname": "Trümpler",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Barbier",
+    "address": "II, 44",
+    "quarter": "II",
+    "street": "",
+    "house_no": "44",
+    "origin": "Wädenschwyl, K. Zürich",
+    "birth_year": "1813",
+    "household": "Fr - Josephine Schmid a. Wölfliswyl, K. Aargau. 2 K. - 844 Eleon. Nanette. - 46 Albert Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Jakob, Barbier, a. Wädenschwyl, K. Zürich - II, 44. Fr - Josephine Schmid a. Wölfliswyl, K. Aargau. 2 K. - 844 Eleon. Nanette. - 46 Albert Jakob."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Trüßler.",
+    "place": "Bern",
+    "surname": "Trüßler",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Gürtler",
+    "address": "II, 238",
+    "quarter": "II",
+    "street": "",
+    "house_no": "238",
+    "origin": "Sumiswald",
+    "birth_year": "1818",
+    "household": "Fr. - Anna Schütz.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 818 Jakob, Gürtler, a. Sumiswald - II, 238. Fr. - Anna Schütz."
+   },
+   {
+    "line_from": 19,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Tschabold.",
+    "place": "Bern",
+    "surname": "Tschabold",
+    "forename": "Karl Viktor",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "I, 215 g",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215 g",
+    "origin": "bern. Landsaß",
+    "birth_year": "1798",
+    "household": "795 Fr. - Magd. Schweizer a. Steffisburg. 3 K. - 824 Nr. 2. - 828 Maria Katharina. - 30 Rudolf Albrecht.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 798 Karl Viktor, Schreiber, bern. Landsaß - I, 215 g. 795 Fr. - Magd. Schweizer a. Steffisburg. 3 K. - 824 Nr. 2. - 828 Maria Katharina. - 30 Rudolf Albrecht."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Tschabold.",
+    "place": "Bern",
+    "surname": "Tschabold",
+    "forename": "Karl Johann",
+    "title": "",
+    "occupation": "Speisewirth",
+    "address": "I, 215 g",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215 g",
+    "origin": "bern. Landsaß",
+    "birth_year": "1822",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 822 Karl Johann, Speisewirth, S. v. 1, bern. Landsaß - I, 215 g."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Tschabold.",
+    "place": "Bern",
+    "surname": "Tschabold",
+    "forename": "Barbara",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "III, 24",
+    "quarter": "III",
+    "street": "",
+    "house_no": "24",
+    "origin": "Erlenbach",
+    "birth_year": "1800",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 800 Barbara, Schneiderin, a. Erlenbach - III, 24."
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "v. Tschann.",
+    "place": "Bern",
+    "surname": "v. Tschann",
+    "forename": "Viktor",
+    "title": "",
+    "occupation": "Banquier",
+    "address": "IV, 145",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "145",
+    "origin": "Solothurn",
+    "birth_year": "",
+    "household": "808 Fr. - Melanie Zeerleder a. Bern. 2 K. - 841 Viktor. - 45 August Albertine Louise.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Viktor, Banquier, a. Solothurn - IV, 145. 808 Fr. - Melanie Zeerleder a. Bern. 2 K. - 841 Viktor. - 45 August Albertine Louise."
+   },
+   {
+    "line_from": 31,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Tschanen a. Wohlen.",
+    "place": "Bern",
+    "surname": "Tschanen",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Zimmermann",
+    "address": "II, 116 c",
+    "quarter": "II",
+    "street": "",
+    "house_no": "116 c",
+    "origin": "Wohlen",
+    "birth_year": "1792",
+    "household": "787 Fr. - Kath. Elis. Müller a. Trub, Kellerhalterin. 3 T. - 814 Magd. Sus. - 825 Maria Elis. - 26 Anna Marg.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 792 Jakob, Zimmermann - II, 116 c. 787 Fr. - Kath. Elis. Müller a. Trub, Kellerhalterin. 3 T. - 814 Magd. Sus. - 825 Maria Elis. - 26 Anna Marg."
+   },
+   {
+    "line_from": 35,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Tschanen a. Wohlen.",
+    "place": "Bern",
+    "surname": "Tschanen",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "III, 30",
+    "quarter": "III",
+    "street": "",
+    "house_no": "30",
+    "origin": "Wohlen",
+    "birth_year": "1790",
+    "household": "797 Fr. - Marg. Studer, Kellermagd, a. Langnau.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 790 Christian, Steinhauer - III, 30. 797 Fr. - Marg. Studer, Kellermagd, a. Langnau."
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Tschanen a. Wohlen.",
+    "place": "Bern",
+    "surname": "Tschanen",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "II, 60",
+    "quarter": "II",
+    "street": "",
+    "house_no": "60",
+    "origin": "Wohlen",
+    "birth_year": "1820",
+    "household": "(Die Frau noch nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "3 820 Christian, Bäcker - II, 60. (Die Frau noch nicht eingeschrieben.)"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:57:34+01:00",
+ "last_error": null
+}

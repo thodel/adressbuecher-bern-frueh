@@ -1,0 +1,501 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 107,
+ "section": "ville",
+ "started": "2026-11-10T21:12:21+01:00",
+ "thinking": "low",
+ "seconds": 25.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2301,
+  "output": 4198,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"34\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"34\"},\n    {\"n\": 2, \"text\": \"Naturalistes.\"},\n    {\"n\": 3, \"text\": \"Wisard, Eman. Mineraux Suisses\"},\n    {\"n\": 4, \"text\": \"et étrangers, coquillages, pé-\"},\n    {\"n\": 5, \"text\": \"trifications et diverses autres cu-\"},\n    {\"n\": 6, \"text\": \"riosités de la nature et de l'art,\"},\n    {\"n\": 7, \"text\": \"tableaux, vases etc. — — Q. v. 176.\"},\n    {\"n\": 8, \"text\": \"Notaires.\"},\n    {\"n\": 9, \"text\": \"a) Notaires stipulants pour hypothèques.\"},\n    {\"n\": 10, \"text\": \"(Amtsnotare.)\"},\n    {\"n\": 11, \"text\": \"Bay, Bernhard. — — — Q. j. 24.\"},\n    {\"n\": 12, \"text\": \"Bikhardt, François Louis. — — r. 46.\"},\n    {\"n\": 13, \"text\": \"Bitzius, Albr. Em. — — — j. 95.\"},\n    {\"n\": 14, \"text\": \"Bitzius, Bernh. Sam. — — — j. 152.\"},\n    {\"n\": 15, \"text\": \"Brounner, Rod. — — — — v. 54.\"},\n    {\"n\": 16, \"text\": \"Dufresne, J. Rod. — — — bl. 33.\"},\n    {\"n\": 17, \"text\": \"Ganting, G. Louis. — — — j. 107.\"},\n    {\"n\": 18, \"text\": \"Gebner, Br. Louis. — — — r. 142.\"},\n    {\"n\": 19, \"text\": \"Gerster, Sam. — — — — j. 114.\"},\n    {\"n\": 20, \"text\": \"Hartmann, Sigm. Albr. — — — v. 120.\"},\n    {\"n\": 21, \"text\": \"Kœnig, D. G. — — — — r. 53.\"},\n    {\"n\": 22, \"text\": \"Kræhenbühl, J. Em. — — — v. 233.\"},\n    {\"n\": 23, \"text\": \"Küpfer, Sam. — — — — v. 38.\"},\n    {\"n\": 24, \"text\": \"Lauterbourg, Em. — — — v. 229.\"},\n    {\"n\": 25, \"text\": \"Lüthard, Em. — — — — v. 54.\"},\n    {\"n\": 26, \"text\": \"Meyer, Dan. Sam. — — — r. 244.\"},\n    {\"n\": 27, \"text\": \"Müslin, J. Fred. Q. r. au grand hopital.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Naturalistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wisard\",\n      \"forename\": \"Eman.\",\n      \"title\": \"\",\n      \"occupation\": \"Mineraux Suisses et étrangers, coquillages, pétrifications et diverses autres curiosités de la nature et de l'art, tableaux, vases etc.\",\n      \"address\": \"Q. v. 176\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"176\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wisard, Eman. Mineraux Suisses et étrangers, coquillages, pétrifications et diverses autres curiosités de la nature et de l'art, tableaux, vases etc. Q. v. 176.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bay\",\n      \"forename\": \"Bernhard\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. j. 24\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"24\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bay, Bernhard. Q. j. 24.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bikhardt\",\n      \"forename\": \"François Louis\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"r. 46\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"46\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bikhardt, François Louis. r. 46.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bitzius\",\n      \"forename\": \"Albr. Em.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 95\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bitzius, Albr. Em. j. 95.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bitzius\",\n      \"forename\": \"Bernh. Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 152\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"152\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bitzius, Bernh. Sam. j. 152.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brounner\",\n      \"forename\": \"Rod.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 54\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"54\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brounner, Rod. v. 54.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dufresne\",\n      \"forename\": \"J. Rod.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"bl. 33\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"33\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dufresne, J. Rod. bl. 33.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ganting\",\n      \"forename\": \"G. Louis\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 107\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"107\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ganting, G. Louis. j. 107.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gebner\",\n      \"forename\": \"Br. Louis\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"r. 142\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"142\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gebner, Br. Louis. r. 142.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerster\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 114\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"114\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gerster, Sam. j. 114.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hartmann\",\n      \"forename\": \"Sigm. Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 120\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"120\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hartmann, Sigm. Albr. v. 120.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kœnig\",\n      \"forename\": \"D. G.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"r. 53\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"53\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kœnig, D. G. r. 53.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kræhenbühl\",\n      \"forename\": \"J. Em.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 233\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"233\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kræhenbühl, J. Em. v. 233.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Küpfer\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 38\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"38\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Küpfer, Sam. v. 38.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lauterbourg\",\n      \"forename\": \"Em.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 229\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"229\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lauterbourg, Em. v. 229.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lüthard\",\n      \"forename\": \"Em.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 54\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"54\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lüthard, Em. v. 54.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Meyer\",\n      \"forename\": \"Dan. Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"r. 244\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"244\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Meyer, Dan. Sam. r. 244.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müslin\",\n      \"forename\": \"J. Fred.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. r. au grand hopital\",\n      \"quarter\": \"r.\",\n      \"street\": \"au grand hopital\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Müslin, J. Fred. Q. r. au grand hopital.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "34",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "34"
+   },
+   {
+    "n": 2,
+    "text": "Naturalistes."
+   },
+   {
+    "n": 3,
+    "text": "Wisard, Eman. Mineraux Suisses"
+   },
+   {
+    "n": 4,
+    "text": "et étrangers, coquillages, pé-"
+   },
+   {
+    "n": 5,
+    "text": "trifications et diverses autres cu-"
+   },
+   {
+    "n": 6,
+    "text": "riosités de la nature et de l'art,"
+   },
+   {
+    "n": 7,
+    "text": "tableaux, vases etc. — — Q. v. 176."
+   },
+   {
+    "n": 8,
+    "text": "Notaires."
+   },
+   {
+    "n": 9,
+    "text": "a) Notaires stipulants pour hypothèques."
+   },
+   {
+    "n": 10,
+    "text": "(Amtsnotare.)"
+   },
+   {
+    "n": 11,
+    "text": "Bay, Bernhard. — — — Q. j. 24."
+   },
+   {
+    "n": 12,
+    "text": "Bikhardt, François Louis. — — r. 46."
+   },
+   {
+    "n": 13,
+    "text": "Bitzius, Albr. Em. — — — j. 95."
+   },
+   {
+    "n": 14,
+    "text": "Bitzius, Bernh. Sam. — — — j. 152."
+   },
+   {
+    "n": 15,
+    "text": "Brounner, Rod. — — — — v. 54."
+   },
+   {
+    "n": 16,
+    "text": "Dufresne, J. Rod. — — — bl. 33."
+   },
+   {
+    "n": 17,
+    "text": "Ganting, G. Louis. — — — j. 107."
+   },
+   {
+    "n": 18,
+    "text": "Gebner, Br. Louis. — — — r. 142."
+   },
+   {
+    "n": 19,
+    "text": "Gerster, Sam. — — — — j. 114."
+   },
+   {
+    "n": 20,
+    "text": "Hartmann, Sigm. Albr. — — — v. 120."
+   },
+   {
+    "n": 21,
+    "text": "Kœnig, D. G. — — — — r. 53."
+   },
+   {
+    "n": 22,
+    "text": "Kræhenbühl, J. Em. — — — v. 233."
+   },
+   {
+    "n": 23,
+    "text": "Küpfer, Sam. — — — — v. 38."
+   },
+   {
+    "n": 24,
+    "text": "Lauterbourg, Em. — — — v. 229."
+   },
+   {
+    "n": 25,
+    "text": "Lüthard, Em. — — — — v. 54."
+   },
+   {
+    "n": 26,
+    "text": "Meyer, Dan. Sam. — — — r. 244."
+   },
+   {
+    "n": 27,
+    "text": "Müslin, J. Fred. Q. r. au grand hopital."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Naturalistes",
+    "place": "Bern",
+    "surname": "Wisard",
+    "forename": "Eman.",
+    "title": "",
+    "occupation": "Mineraux Suisses et étrangers, coquillages, pétrifications et diverses autres curiosités de la nature et de l'art, tableaux, vases etc.",
+    "address": "Q. v. 176",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "176",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wisard, Eman. Mineraux Suisses et étrangers, coquillages, pétrifications et diverses autres curiosités de la nature et de l'art, tableaux, vases etc. Q. v. 176."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Bay",
+    "forename": "Bernhard",
+    "title": "",
+    "occupation": "",
+    "address": "Q. j. 24",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "24",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bay, Bernhard. Q. j. 24."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Bikhardt",
+    "forename": "François Louis",
+    "title": "",
+    "occupation": "",
+    "address": "r. 46",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "46",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bikhardt, François Louis. r. 46."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Bitzius",
+    "forename": "Albr. Em.",
+    "title": "",
+    "occupation": "",
+    "address": "j. 95",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "95",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bitzius, Albr. Em. j. 95."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Bitzius",
+    "forename": "Bernh. Sam.",
+    "title": "",
+    "occupation": "",
+    "address": "j. 152",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "152",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bitzius, Bernh. Sam. j. 152."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Brounner",
+    "forename": "Rod.",
+    "title": "",
+    "occupation": "",
+    "address": "v. 54",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "54",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brounner, Rod. v. 54."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Dufresne",
+    "forename": "J. Rod.",
+    "title": "",
+    "occupation": "",
+    "address": "bl. 33",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "33",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dufresne, J. Rod. bl. 33."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Ganting",
+    "forename": "G. Louis",
+    "title": "",
+    "occupation": "",
+    "address": "j. 107",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "107",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ganting, G. Louis. j. 107."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Gebner",
+    "forename": "Br. Louis",
+    "title": "",
+    "occupation": "",
+    "address": "r. 142",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "142",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gebner, Br. Louis. r. 142."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Gerster",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "",
+    "address": "j. 114",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "114",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gerster, Sam. j. 114."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Hartmann",
+    "forename": "Sigm. Albr.",
+    "title": "",
+    "occupation": "",
+    "address": "v. 120",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "120",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hartmann, Sigm. Albr. v. 120."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Kœnig",
+    "forename": "D. G.",
+    "title": "",
+    "occupation": "",
+    "address": "r. 53",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "53",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kœnig, D. G. r. 53."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Kræhenbühl",
+    "forename": "J. Em.",
+    "title": "",
+    "occupation": "",
+    "address": "v. 233",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "233",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kræhenbühl, J. Em. v. 233."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Küpfer",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "",
+    "address": "v. 38",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "38",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Küpfer, Sam. v. 38."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Lauterbourg",
+    "forename": "Em.",
+    "title": "",
+    "occupation": "",
+    "address": "v. 229",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "229",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lauterbourg, Em. v. 229."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Lüthard",
+    "forename": "Em.",
+    "title": "",
+    "occupation": "",
+    "address": "v. 54",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "54",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lüthard, Em. v. 54."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Meyer",
+    "forename": "Dan. Sam.",
+    "title": "",
+    "occupation": "",
+    "address": "r. 244",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "244",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Meyer, Dan. Sam. r. 244."
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Notaires. a) Notaires stipulants pour hypothèques. (Amtsnotare.)",
+    "place": "Bern",
+    "surname": "Müslin",
+    "forename": "J. Fred.",
+    "title": "",
+    "occupation": "",
+    "address": "Q. r. au grand hopital",
+    "quarter": "r.",
+    "street": "au grand hopital",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müslin, J. Fred. Q. r. au grand hopital."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:12:46+01:00",
+ "last_error": null
+}

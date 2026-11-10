@@ -1,0 +1,549 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 34,
+ "section": "berufe",
+ "started": "2026-11-10T21:15:07+01:00",
+ "thinking": "low",
+ "seconds": 28.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2214,
+  "output": 4449,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"26\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"26\"},\n    {\"n\": 2, \"text\": \"Schreibereyen.\"},\n    {\"n\": 3, \"text\": \"Nro.\"},\n    {\"n\": 4, \"text\": \"Amtsgerichtsschreiberey, Kornhausplatz … 151\"},\n    {\"n\": 5, \"text\": \"Kriegs-Canzley, Hotellaube … 230\"},\n    {\"n\": 6, \"text\": \"Landsassen-Schreiberey, Aarberggaße … 55\"},\n    {\"n\": 7, \"text\": \"Musterungs-Commissariat, Hotellaube … 230\"},\n    {\"n\": 8, \"text\": \"Ober-Ehegerichtsschreiberey, Kirchgaße … 264\"},\n    {\"n\": 9, \"text\": \"Staats-Canzley, Postgaße … 49\"},\n    {\"n\": 10, \"text\": \"Stadt-Canzley, Kramgaße … 168\"},\n    {\"n\": 11, \"text\": \"Wechsel-Sensalen.\"},\n    {\"n\": 12, \"text\": \"Lauterburg-Baumann, Marktgaße … 42\"},\n    {\"n\": 13, \"text\": \"Walthard, Judengaße … 113\"},\n    {\"n\": 14, \"text\": \"Wirthen.\"},\n    {\"n\": 15, \"text\": \"Blau, beym Storchen, Spitalgaße … 157\"},\n    {\"n\": 16, \"text\": \"Buchhofer, beym Schlüssel, Metzgergaße … 68\"},\n    {\"n\": 17, \"text\": \"Chautems, Wittwe, beym Bären, Spitalgaße … 146\"},\n    {\"n\": 18, \"text\": \"Dübi, Wittwe, beym Adler, Gerechtigkeitgaße … 142\"},\n    {\"n\": 19, \"text\": \"Ingold, Sam., beym Wildenmann, Aarberggaße … 69\"},\n    {\"n\": 20, \"text\": \"Ochsenbein, Ulrich, bey drey Königen, Aarberg-\"},\n    {\"n\": 21, \"text\": \"gaße … 34\"},\n    {\"n\": 22, \"text\": \"Reisinger, F. Ludw., bey der Krone, Gerech-\"},\n    {\"n\": 23, \"text\": \"tigkeitgaße … 96\"},\n    {\"n\": 24, \"text\": \"Uffelmann, Wittwe, beym Falken, Marktgaße … 67\"},\n    {\"n\": 25, \"text\": \"Wirthschaft im Bräterhäuslein, Ingold, Wittwe,\"},\n    {\"n\": 26, \"text\": \"Metzgergaße … 118\"},\n    {\"n\": 27, \"text\": \"Wundärzte.\"},\n    {\"n\": 28, \"text\": \"Bäy, Emanuel, Kornhausplatz … 146\"},\n    {\"n\": 29, \"text\": \"Flügel, Carl, Keßlergaße … 255\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"institution\",\n      \"heading\": \"Schreibereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Amtsgerichtsschreiberey\",\n      \"address\": \"Kornhausplatz 151\",\n      \"quarter\": \"\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"151\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Amtsgerichtsschreiberey, Kornhausplatz 151\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"institution\",\n      \"heading\": \"Schreibereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Kriegs-Canzley\",\n      \"address\": \"Hotellaube 230\",\n      \"quarter\": \"\",\n      \"street\": \"Hotellaube\",\n      \"house_no\": \"230\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kriegs-Canzley, Hotellaube 230\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"institution\",\n      \"heading\": \"Schreibereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Landsassen-Schreiberey\",\n      \"address\": \"Aarberggaße 55\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"55\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Landsassen-Schreiberey, Aarberggaße 55\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"institution\",\n      \"heading\": \"Schreibereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Musterungs-Commissariat\",\n      \"address\": \"Hotellaube 230\",\n      \"quarter\": \"\",\n      \"street\": \"Hotellaube\",\n      \"house_no\": \"230\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Musterungs-Commissariat, Hotellaube 230\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"institution\",\n      \"heading\": \"Schreibereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Ober-Ehegerichtsschreiberey\",\n      \"address\": \"Kirchgaße 264\",\n      \"quarter\": \"\",\n      \"street\": \"Kirchgaße\",\n      \"house_no\": \"264\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ober-Ehegerichtsschreiberey, Kirchgaße 264\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"institution\",\n      \"heading\": \"Schreibereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Staats-Canzley\",\n      \"address\": \"Postgaße 49\",\n      \"quarter\": \"\",\n      \"street\": \"Postgaße\",\n      \"house_no\": \"49\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Staats-Canzley, Postgaße 49\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"institution\",\n      \"heading\": \"Schreibereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Stadt-Canzley\",\n      \"address\": \"Kramgaße 168\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"168\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stadt-Canzley, Kramgaße 168\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Wechsel-Sensalen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lauterburg-Baumann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 42\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"42\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lauterburg-Baumann, Marktgaße 42\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Wechsel-Sensalen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walthard\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Judengaße 113\",\n      \"quarter\": \"\",\n      \"street\": \"Judengaße\",\n      \"house_no\": \"113\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Walthard, Judengaße 113\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Wirthen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blau\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"beym Storchen\",\n      \"address\": \"Spitalgaße 157\",\n      \"quarter\": \"\",\n      \"street\": \"Spitalgaße\",\n      \"house_no\": \"157\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Blau, beym Storchen, Spitalgaße 157\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Wirthen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Buchhofer\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"beym Schlüssel\",\n      \"address\": \"Metzgergaße 68\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgergaße\",\n      \"house_no\": \"68\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Buchhofer, beym Schlüssel, Metzgergaße 68\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Wirthen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Chautems\",\n      \"forename\": \"\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"beym Bären\",\n      \"address\": \"Spitalgaße 146\",\n      \"quarter\": \"\",\n      \"street\": \"Spitalgaße\",\n      \"house_no\": \"146\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Chautems, Wittwe, beym Bären, Spitalgaße 146\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Wirthen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"beym Adler\",\n      \"address\": \"Gerechtigkeitgaße 142\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"142\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dübi, Wittwe, beym Adler, Gerechtigkeitgaße 142\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Wirthen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ingold\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"beym Wildenmann\",\n      \"address\": \"Aarberggaße 69\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"69\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ingold, Sam., beym Wildenmann, Aarberggaße 69\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Wirthen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ochsenbein\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"bey drey Königen\",\n      \"address\": \"Aarberggaße 34\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"34\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ochsenbein, Ulrich, bey drey Königen, Aarberggaße 34\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Wirthen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Reisinger\",\n      \"forename\": \"F. Ludw.\",\n      \"title\": \"\",\n      \"occupation\": \"bey der Krone\",\n      \"address\": \"Gerechtigkeitgaße 96\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"96\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reisinger, F. Ludw., bey der Krone, Gerechtigkeitgaße 96\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Wirthen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Uffelmann\",\n      \"forename\": \"\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"beym Falken\",\n      \"address\": \"Marktgaße 67\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"67\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Uffelmann, Wittwe, beym Falken, Marktgaße 67\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Wirthen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ingold\",\n      \"forename\": \"\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"Wirthschaft im Bräterhäuslein\",\n      \"address\": \"Metzgergaße 118\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgergaße\",\n      \"house_no\": \"118\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wirthschaft im Bräterhäuslein, Ingold, Wittwe, Metzgergaße 118\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Wundärzte\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bäy\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kornhausplatz 146\",\n      \"quarter\": \"\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"146\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bäy, Emanuel, Kornhausplatz 146\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Wundärzte\",\n      \"place\": \"Bern\",\n      \"surname\": \"Flügel\",\n      \"forename\": \"Carl\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Keßlergaße 255\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaße\",\n      \"house_no\": \"255\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Flügel, Carl, Keßlergaße 255\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "26",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "26"
+   },
+   {
+    "n": 2,
+    "text": "Schreibereyen."
+   },
+   {
+    "n": 3,
+    "text": "Nro."
+   },
+   {
+    "n": 4,
+    "text": "Amtsgerichtsschreiberey, Kornhausplatz … 151"
+   },
+   {
+    "n": 5,
+    "text": "Kriegs-Canzley, Hotellaube … 230"
+   },
+   {
+    "n": 6,
+    "text": "Landsassen-Schreiberey, Aarberggaße … 55"
+   },
+   {
+    "n": 7,
+    "text": "Musterungs-Commissariat, Hotellaube … 230"
+   },
+   {
+    "n": 8,
+    "text": "Ober-Ehegerichtsschreiberey, Kirchgaße … 264"
+   },
+   {
+    "n": 9,
+    "text": "Staats-Canzley, Postgaße … 49"
+   },
+   {
+    "n": 10,
+    "text": "Stadt-Canzley, Kramgaße … 168"
+   },
+   {
+    "n": 11,
+    "text": "Wechsel-Sensalen."
+   },
+   {
+    "n": 12,
+    "text": "Lauterburg-Baumann, Marktgaße … 42"
+   },
+   {
+    "n": 13,
+    "text": "Walthard, Judengaße … 113"
+   },
+   {
+    "n": 14,
+    "text": "Wirthen."
+   },
+   {
+    "n": 15,
+    "text": "Blau, beym Storchen, Spitalgaße … 157"
+   },
+   {
+    "n": 16,
+    "text": "Buchhofer, beym Schlüssel, Metzgergaße … 68"
+   },
+   {
+    "n": 17,
+    "text": "Chautems, Wittwe, beym Bären, Spitalgaße … 146"
+   },
+   {
+    "n": 18,
+    "text": "Dübi, Wittwe, beym Adler, Gerechtigkeitgaße … 142"
+   },
+   {
+    "n": 19,
+    "text": "Ingold, Sam., beym Wildenmann, Aarberggaße … 69"
+   },
+   {
+    "n": 20,
+    "text": "Ochsenbein, Ulrich, bey drey Königen, Aarberg-"
+   },
+   {
+    "n": 21,
+    "text": "gaße … 34"
+   },
+   {
+    "n": 22,
+    "text": "Reisinger, F. Ludw., bey der Krone, Gerech-"
+   },
+   {
+    "n": 23,
+    "text": "tigkeitgaße … 96"
+   },
+   {
+    "n": 24,
+    "text": "Uffelmann, Wittwe, beym Falken, Marktgaße … 67"
+   },
+   {
+    "n": 25,
+    "text": "Wirthschaft im Bräterhäuslein, Ingold, Wittwe,"
+   },
+   {
+    "n": 26,
+    "text": "Metzgergaße … 118"
+   },
+   {
+    "n": 27,
+    "text": "Wundärzte."
+   },
+   {
+    "n": 28,
+    "text": "Bäy, Emanuel, Kornhausplatz … 146"
+   },
+   {
+    "n": 29,
+    "text": "Flügel, Carl, Keßlergaße … 255"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "institution",
+    "heading": "Schreibereyen",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Amtsgerichtsschreiberey",
+    "address": "Kornhausplatz 151",
+    "quarter": "",
+    "street": "Kornhausplatz",
+    "house_no": "151",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Amtsgerichtsschreiberey, Kornhausplatz 151"
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "institution",
+    "heading": "Schreibereyen",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Kriegs-Canzley",
+    "address": "Hotellaube 230",
+    "quarter": "",
+    "street": "Hotellaube",
+    "house_no": "230",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kriegs-Canzley, Hotellaube 230"
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "institution",
+    "heading": "Schreibereyen",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Landsassen-Schreiberey",
+    "address": "Aarberggaße 55",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "55",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Landsassen-Schreiberey, Aarberggaße 55"
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "institution",
+    "heading": "Schreibereyen",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Musterungs-Commissariat",
+    "address": "Hotellaube 230",
+    "quarter": "",
+    "street": "Hotellaube",
+    "house_no": "230",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Musterungs-Commissariat, Hotellaube 230"
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "institution",
+    "heading": "Schreibereyen",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Ober-Ehegerichtsschreiberey",
+    "address": "Kirchgaße 264",
+    "quarter": "",
+    "street": "Kirchgaße",
+    "house_no": "264",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ober-Ehegerichtsschreiberey, Kirchgaße 264"
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "institution",
+    "heading": "Schreibereyen",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Staats-Canzley",
+    "address": "Postgaße 49",
+    "quarter": "",
+    "street": "Postgaße",
+    "house_no": "49",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Staats-Canzley, Postgaße 49"
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "institution",
+    "heading": "Schreibereyen",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Stadt-Canzley",
+    "address": "Kramgaße 168",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "168",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stadt-Canzley, Kramgaße 168"
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Wechsel-Sensalen",
+    "place": "Bern",
+    "surname": "Lauterburg-Baumann",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 42",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "42",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lauterburg-Baumann, Marktgaße 42"
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Wechsel-Sensalen",
+    "place": "Bern",
+    "surname": "Walthard",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Judengaße 113",
+    "quarter": "",
+    "street": "Judengaße",
+    "house_no": "113",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Walthard, Judengaße 113"
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Wirthen",
+    "place": "Bern",
+    "surname": "Blau",
+    "forename": "",
+    "title": "",
+    "occupation": "beym Storchen",
+    "address": "Spitalgaße 157",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "157",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Blau, beym Storchen, Spitalgaße 157"
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Wirthen",
+    "place": "Bern",
+    "surname": "Buchhofer",
+    "forename": "",
+    "title": "",
+    "occupation": "beym Schlüssel",
+    "address": "Metzgergaße 68",
+    "quarter": "",
+    "street": "Metzgergaße",
+    "house_no": "68",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Buchhofer, beym Schlüssel, Metzgergaße 68"
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Wirthen",
+    "place": "Bern",
+    "surname": "Chautems",
+    "forename": "",
+    "title": "Wittwe",
+    "occupation": "beym Bären",
+    "address": "Spitalgaße 146",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "146",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Chautems, Wittwe, beym Bären, Spitalgaße 146"
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Wirthen",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "",
+    "title": "Wittwe",
+    "occupation": "beym Adler",
+    "address": "Gerechtigkeitgaße 142",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "142",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dübi, Wittwe, beym Adler, Gerechtigkeitgaße 142"
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Wirthen",
+    "place": "Bern",
+    "surname": "Ingold",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "beym Wildenmann",
+    "address": "Aarberggaße 69",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "69",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ingold, Sam., beym Wildenmann, Aarberggaße 69"
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Wirthen",
+    "place": "Bern",
+    "surname": "Ochsenbein",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "bey drey Königen",
+    "address": "Aarberggaße 34",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "34",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ochsenbein, Ulrich, bey drey Königen, Aarberggaße 34"
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Wirthen",
+    "place": "Bern",
+    "surname": "Reisinger",
+    "forename": "F. Ludw.",
+    "title": "",
+    "occupation": "bey der Krone",
+    "address": "Gerechtigkeitgaße 96",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "96",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reisinger, F. Ludw., bey der Krone, Gerechtigkeitgaße 96"
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Wirthen",
+    "place": "Bern",
+    "surname": "Uffelmann",
+    "forename": "",
+    "title": "Wittwe",
+    "occupation": "beym Falken",
+    "address": "Marktgaße 67",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "67",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Uffelmann, Wittwe, beym Falken, Marktgaße 67"
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Wirthen",
+    "place": "Bern",
+    "surname": "Ingold",
+    "forename": "",
+    "title": "Wittwe",
+    "occupation": "Wirthschaft im Bräterhäuslein",
+    "address": "Metzgergaße 118",
+    "quarter": "",
+    "street": "Metzgergaße",
+    "house_no": "118",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wirthschaft im Bräterhäuslein, Ingold, Wittwe, Metzgergaße 118"
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Wundärzte",
+    "place": "Bern",
+    "surname": "Bäy",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "",
+    "address": "Kornhausplatz 146",
+    "quarter": "",
+    "street": "Kornhausplatz",
+    "house_no": "146",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bäy, Emanuel, Kornhausplatz 146"
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Wundärzte",
+    "place": "Bern",
+    "surname": "Flügel",
+    "forename": "Carl",
+    "title": "",
+    "occupation": "",
+    "address": "Keßlergaße 255",
+    "quarter": "",
+    "street": "Keßlergaße",
+    "house_no": "255",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Flügel, Carl, Keßlergaße 255"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:15:35+01:00",
+ "last_error": null
+}

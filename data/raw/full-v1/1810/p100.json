@@ -1,0 +1,269 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 100,
+ "section": "ville",
+ "started": "2026-11-10T21:12:06+01:00",
+ "thinking": "low",
+ "seconds": 15.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2301,
+  "output": 2143,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"27\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"27\"},\n    {\"n\": 2, \"text\": \"Instrumens.\"},\n    {\"n\": 3, \"text\": \"a) Instrumens de Chirurgie.\"},\n    {\"n\": 4, \"text\": \"Ienni, Chrètien, fait aussi des tré-\"},\n    {\"n\": 5, \"text\": \"buchts très exacts. — — Q. r. 105.\"},\n    {\"n\": 6, \"text\": \"b) Instrumens de Mathématique et de Physique.\"},\n    {\"n\": 7, \"text\": \"Nosseda, Jerome, Instrumens de\"},\n    {\"n\": 8, \"text\": \"physique, tels que barométres,\"},\n    {\"n\": 9, \"text\": \"hygrométres, thermometres, lu-\"},\n    {\"n\": 10, \"text\": \"nettes, machines élèctriques et\"},\n    {\"n\": 11, \"text\": \"batteries galvaniques etc. — Q. j. 78.\"},\n    {\"n\": 12, \"text\": \"Otz, Sam. Instrumens de mathé-\"},\n    {\"n\": 13, \"text\": \"matique et de physique. — — r. 202.\"},\n    {\"n\": 14, \"text\": \"Schenk, Chretien, Mécanicien, In-\"},\n    {\"n\": 15, \"text\": \"strumens de mathématique et\"},\n    {\"n\": 16, \"text\": \"de physique. — — — r. 83.\"},\n    {\"n\": 17, \"text\": \"c) Instrumens de Musique.\"},\n    {\"n\": 18, \"text\": \"Felchlin, Caspar, tourneur, fait\"},\n    {\"n\": 19, \"text\": \"toutes sortes d'instrumens à vent,\"},\n    {\"n\": 20, \"text\": \"soit en métal, soit en bois. Q. v. 40.\"},\n    {\"n\": 21, \"text\": \"Gleiniger, Theophile, facteur de\"},\n    {\"n\": 22, \"text\": \"clavecin et forté piano. — Q. r. 33.\"},\n    {\"n\": 23, \"text\": \"Heller, J. Henri, Cors de chasse,\"},\n    {\"n\": 24, \"text\": \"trompètes, hautbois. — — v. 216.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Instrumens. a) Instrumens de Chirurgie.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ienni\",\n      \"forename\": \"Chrètien\",\n      \"title\": \"\",\n      \"occupation\": \"fait aussi des trébuchts très exacts\",\n      \"address\": \"Q. r. 105.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"105\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ienni, Chrètien, fait aussi des trébuchts très exacts. — — Q. r. 105.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Instrumens. b) Instrumens de Mathématique et de Physique.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nosseda\",\n      \"forename\": \"Jerome\",\n      \"title\": \"\",\n      \"occupation\": \"Instrumens de physique, tels que barométres, hygrométres, thermometres, lunettes, machines élèctriques et batteries galvaniques etc.\",\n      \"address\": \"Q. j. 78.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"78\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Nosseda, Jerome, Instrumens de physique, tels que barométres, hygrométres, thermometres, lunettes, machines élèctriques et batteries galvaniques etc. — Q. j. 78.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Instrumens. b) Instrumens de Mathématique et de Physique.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Otz\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Instrumens de mathématique et de physique\",\n      \"address\": \"— r. 202.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"202\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Otz, Sam. Instrumens de mathématique et de physique. — — r. 202.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Instrumens. b) Instrumens de Mathématique et de Physique.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schenk\",\n      \"forename\": \"Chretien\",\n      \"title\": \"\",\n      \"occupation\": \"Mécanicien, Instrumens de mathématique et de physique\",\n      \"address\": \"— r. 83.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"83\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schenk, Chretien, Mécanicien, Instrumens de mathématique et de physique. — — — r. 83.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Instrumens. c) Instrumens de Musique.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Felchlin\",\n      \"forename\": \"Caspar\",\n      \"title\": \"\",\n      \"occupation\": \"tourneur, fait toutes sortes d'instrumens à vent, soit en métal, soit en bois\",\n      \"address\": \"Q. v. 40.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"40\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Felchlin, Caspar, tourneur, fait toutes sortes d'instrumens à vent, soit en métal, soit en bois. Q. v. 40.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Instrumens. c) Instrumens de Musique.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gleiniger\",\n      \"forename\": \"Theophile\",\n      \"title\": \"\",\n      \"occupation\": \"facteur de clavecin et forté piano\",\n      \"address\": \"Q. r. 33.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"33\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gleiniger, Theophile, facteur de clavecin et forté piano. — Q. r. 33.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Instrumens. c) Instrumens de Musique.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heller\",\n      \"forename\": \"J. Henri\",\n      \"title\": \"\",\n      \"occupation\": \"Cors de chasse, trompètes, hautbois\",\n      \"address\": \"— v. 216.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"216\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Heller, J. Henri, Cors de chasse, trompètes, hautbois. — — v. 216.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "27",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "27"
+   },
+   {
+    "n": 2,
+    "text": "Instrumens."
+   },
+   {
+    "n": 3,
+    "text": "a) Instrumens de Chirurgie."
+   },
+   {
+    "n": 4,
+    "text": "Ienni, Chrètien, fait aussi des tré-"
+   },
+   {
+    "n": 5,
+    "text": "buchts très exacts. — — Q. r. 105."
+   },
+   {
+    "n": 6,
+    "text": "b) Instrumens de Mathématique et de Physique."
+   },
+   {
+    "n": 7,
+    "text": "Nosseda, Jerome, Instrumens de"
+   },
+   {
+    "n": 8,
+    "text": "physique, tels que barométres,"
+   },
+   {
+    "n": 9,
+    "text": "hygrométres, thermometres, lu-"
+   },
+   {
+    "n": 10,
+    "text": "nettes, machines élèctriques et"
+   },
+   {
+    "n": 11,
+    "text": "batteries galvaniques etc. — Q. j. 78."
+   },
+   {
+    "n": 12,
+    "text": "Otz, Sam. Instrumens de mathé-"
+   },
+   {
+    "n": 13,
+    "text": "matique et de physique. — — r. 202."
+   },
+   {
+    "n": 14,
+    "text": "Schenk, Chretien, Mécanicien, In-"
+   },
+   {
+    "n": 15,
+    "text": "strumens de mathématique et"
+   },
+   {
+    "n": 16,
+    "text": "de physique. — — — r. 83."
+   },
+   {
+    "n": 17,
+    "text": "c) Instrumens de Musique."
+   },
+   {
+    "n": 18,
+    "text": "Felchlin, Caspar, tourneur, fait"
+   },
+   {
+    "n": 19,
+    "text": "toutes sortes d'instrumens à vent,"
+   },
+   {
+    "n": 20,
+    "text": "soit en métal, soit en bois. Q. v. 40."
+   },
+   {
+    "n": 21,
+    "text": "Gleiniger, Theophile, facteur de"
+   },
+   {
+    "n": 22,
+    "text": "clavecin et forté piano. — Q. r. 33."
+   },
+   {
+    "n": 23,
+    "text": "Heller, J. Henri, Cors de chasse,"
+   },
+   {
+    "n": 24,
+    "text": "trompètes, hautbois. — — v. 216."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Instrumens. a) Instrumens de Chirurgie.",
+    "place": "Bern",
+    "surname": "Ienni",
+    "forename": "Chrètien",
+    "title": "",
+    "occupation": "fait aussi des trébuchts très exacts",
+    "address": "Q. r. 105.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "105",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ienni, Chrètien, fait aussi des trébuchts très exacts. — — Q. r. 105."
+   },
+   {
+    "line_from": 7,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Instrumens. b) Instrumens de Mathématique et de Physique.",
+    "place": "Bern",
+    "surname": "Nosseda",
+    "forename": "Jerome",
+    "title": "",
+    "occupation": "Instrumens de physique, tels que barométres, hygrométres, thermometres, lunettes, machines élèctriques et batteries galvaniques etc.",
+    "address": "Q. j. 78.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "78",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nosseda, Jerome, Instrumens de physique, tels que barométres, hygrométres, thermometres, lunettes, machines élèctriques et batteries galvaniques etc. — Q. j. 78."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Instrumens. b) Instrumens de Mathématique et de Physique.",
+    "place": "Bern",
+    "surname": "Otz",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "Instrumens de mathématique et de physique",
+    "address": "— r. 202.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "202",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Otz, Sam. Instrumens de mathématique et de physique. — — r. 202."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Instrumens. b) Instrumens de Mathématique et de Physique.",
+    "place": "Bern",
+    "surname": "Schenk",
+    "forename": "Chretien",
+    "title": "",
+    "occupation": "Mécanicien, Instrumens de mathématique et de physique",
+    "address": "— r. 83.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "83",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schenk, Chretien, Mécanicien, Instrumens de mathématique et de physique. — — — r. 83."
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Instrumens. c) Instrumens de Musique.",
+    "place": "Bern",
+    "surname": "Felchlin",
+    "forename": "Caspar",
+    "title": "",
+    "occupation": "tourneur, fait toutes sortes d'instrumens à vent, soit en métal, soit en bois",
+    "address": "Q. v. 40.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "40",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Felchlin, Caspar, tourneur, fait toutes sortes d'instrumens à vent, soit en métal, soit en bois. Q. v. 40."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Instrumens. c) Instrumens de Musique.",
+    "place": "Bern",
+    "surname": "Gleiniger",
+    "forename": "Theophile",
+    "title": "",
+    "occupation": "facteur de clavecin et forté piano",
+    "address": "Q. r. 33.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "33",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gleiniger, Theophile, facteur de clavecin et forté piano. — Q. r. 33."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Instrumens. c) Instrumens de Musique.",
+    "place": "Bern",
+    "surname": "Heller",
+    "forename": "J. Henri",
+    "title": "",
+    "occupation": "Cors de chasse, trompètes, hautbois",
+    "address": "— v. 216.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "216",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Heller, J. Henri, Cors de chasse, trompètes, hautbois. — — v. 216."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:12:21+01:00",
+ "last_error": null
+}

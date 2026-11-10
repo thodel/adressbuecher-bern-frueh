@@ -1,0 +1,453 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 93,
+ "section": "einsassen",
+ "started": "2026-11-10T21:52:35+01:00",
+ "thinking": "low",
+ "seconds": 26.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4256,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"80\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 80 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Kammacher.\"},\n    {\"n\": 4, \"text\": \"1 781 Barbara, geb. Sutter, a. Hohenweiler, gew. Buchbinderin\"},\n    {\"n\": 5, \"text\": \"- V, 126.\"},\n    {\"n\": 6, \"text\": \"Kammermann.\"},\n    {\"n\": 7, \"text\": \"1 810 Jakob, Küfer, a. Bowyl - VI, 117 a.\"},\n    {\"n\": 8, \"text\": \"814 Fr. II Ehe. - Anna Hinni a. Wohlen.\"},\n    {\"n\": 9, \"text\": \"2 K. - 842 Marg. Anna. - 44 Jakob.\"},\n    {\"n\": 10, \"text\": \"2 815 Johann, Landarbeiter u. Kutscher, a. Lauperswyl - III, 2.\"},\n    {\"n\": 11, \"text\": \"810 Fr. - Magdalena Messerli a. Belpberg, Pintenwirthin.\"},\n    {\"n\": 12, \"text\": \"1 T. - 839 Marie Sophie.\"},\n    {\"n\": 13, \"text\": \"Karlen.\"},\n    {\"n\": 14, \"text\": \"1 810 Eduard, gew. Bärenwirth, B. v. 2, a. Erlenbach und\"},\n    {\"n\": 15, \"text\": \"Thun - II, 146.\"},\n    {\"n\": 16, \"text\": \"(Fr. II Ehe nicht eingeschrieben.)\"},\n    {\"n\": 17, \"text\": \"2 Arnold, B. v. 1, Kaffewirth zum Bären - II, 146.\"},\n    {\"n\": 18, \"text\": \"Katz.\"},\n    {\"n\": 19, \"text\": \"1 813 Ludwig, Zahnarzt, a. Amsterdam - II, 15.\"},\n    {\"n\": 20, \"text\": \"Kaufmann.\"},\n    {\"n\": 21, \"text\": \"1 815 Christ. August, Mehlhändler, a. Grindelwald - IV, 70.\"},\n    {\"n\": 22, \"text\": \"824 Fr. - Elif. Mann a. Schangnau.\"},\n    {\"n\": 23, \"text\": \"2 813 Christ., Spezierer u. Holzhändler, a. Grindelwald - IV, 17.\"},\n    {\"n\": 24, \"text\": \"810 Fr. - Elisabetha Brawand.\"},\n    {\"n\": 25, \"text\": \"1 S. - 838 Christian.\"},\n    {\"n\": 26, \"text\": \"3 812 Karl, Kolonialwaarenhändler, a. Haltingen im Badischen\"},\n    {\"n\": 27, \"text\": \"- III, 150.\"},\n    {\"n\": 28, \"text\": \"816 Fr. - Just. Fried. Amal. Schuhmacher.\"},\n    {\"n\": 29, \"text\": \"2 K. - 846 Elis. Sophie Marie. - 47 Karl Ad. Hermann.\"},\n    {\"n\": 30, \"text\": \"Kehl.\"},\n    {\"n\": 31, \"text\": \"1 783 Christ. Karl, gew. Drechsler, a. Kirchlindach - V, 97.\"},\n    {\"n\": 32, \"text\": \"806 Fr. II Ehe. - Anna Sollberger, geb. Jäggi.\"},\n    {\"n\": 33, \"text\": \"Kehrer.\"},\n    {\"n\": 34, \"text\": \"1 798 Joh. Jakob, Schneider, a. Bözen, K. Aargau - III, 104.\"},\n    {\"n\": 35, \"text\": \"801 Fr. - Maria Gfeller a. Walkringen.\"},\n    {\"n\": 36, \"text\": \"2 803 Christoph, Spezierer, a. Kappelen b. A. - V, 1.\"},\n    {\"n\": 37, \"text\": \"809 Fr. - Kath. Amal. Wagner a. Bern.\"},\n    {\"n\": 38, \"text\": \"Keller.\"},\n    {\"n\": 39, \"text\": \"1 809 Ros. Margaretha, Schneiderin, a. Villars Epenay, K.\"},\n    {\"n\": 40, \"text\": \"Waadt - II, 180.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Kammacher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kammacher\",\n      \"forename\": \"Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Buchbinderin\",\n      \"address\": \"V, 126.\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"126.\",\n      \"origin\": \"Hohenweiler\",\n      \"birth_year\": \"1781\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Sutter\",\n      \"text\": \"1 781 Barbara, geb. Sutter, a. Hohenweiler, gew. Buchbinderin - V, 126.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Kammermann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kammermann\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Küfer\",\n      \"address\": \"VI, 117 a.\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"117 a.\",\n      \"origin\": \"Bowyl\",\n      \"birth_year\": \"1810\",\n      \"household\": \"814 Fr. II Ehe. - Anna Hinni a. Wohlen. 2 K. - 842 Marg. Anna. - 44 Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Jakob, Küfer, a. Bowyl - VI, 117 a. 814 Fr. II Ehe. - Anna Hinni a. Wohlen. 2 K. - 842 Marg. Anna. - 44 Jakob.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Kammermann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kammermann\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Landarbeiter u. Kutscher\",\n      \"address\": \"III, 2.\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"2.\",\n      \"origin\": \"Lauperswyl\",\n      \"birth_year\": \"1815\",\n      \"household\": \"810 Fr. - Magdalena Messerli a. Belpberg, Pintenwirthin. 1 T. - 839 Marie Sophie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 815 Johann, Landarbeiter u. Kutscher, a. Lauperswyl - III, 2. 810 Fr. - Magdalena Messerli a. Belpberg, Pintenwirthin. 1 T. - 839 Marie Sophie.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Karlen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Karlen\",\n      \"forename\": \"Eduard\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Bärenwirth\",\n      \"address\": \"II, 146.\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"146.\",\n      \"origin\": \"Erlenbach und Thun\",\n      \"birth_year\": \"1810\",\n      \"household\": \"(Fr. II Ehe nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Eduard, gew. Bärenwirth, B. v. 2, a. Erlenbach und Thun - II, 146. (Fr. II Ehe nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Karlen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Karlen\",\n      \"forename\": \"Arnold\",\n      \"title\": \"\",\n      \"occupation\": \"Kaffewirth zum Bären\",\n      \"address\": \"II, 146.\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"146.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; B. v. 1\",\n      \"text\": \"2 Arnold, B. v. 1, Kaffewirth zum Bären - II, 146.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Katz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Katz\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Zahnarzt\",\n      \"address\": \"II, 15.\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"15.\",\n      \"origin\": \"Amsterdam\",\n      \"birth_year\": \"1813\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Ludwig, Zahnarzt, a. Amsterdam - II, 15.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Kaufmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kaufmann\",\n      \"forename\": \"Christ. August\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlhändler\",\n      \"address\": \"IV, 70.\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"70.\",\n      \"origin\": \"Grindelwald\",\n      \"birth_year\": \"1815\",\n      \"household\": \"824 Fr. - Elis. Mann a. Schangnau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 815 Christ. August, Mehlhändler, a. Grindelwald - IV, 70. 824 Fr. - Elis. Mann a. Schangnau.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Kaufmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kaufmann\",\n      \"forename\": \"Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Spezierer u. Holzhändler\",\n      \"address\": \"IV, 17.\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"17.\",\n      \"origin\": \"Grindelwald\",\n      \"birth_year\": \"1813\",\n      \"household\": \"810 Fr. - Elisabetha Brawand. 1 S. - 838 Christian.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 813 Christ., Spezierer u. Holzhändler, a. Grindelwald - IV, 17. 810 Fr. - Elisabetha Brawand. 1 S. - 838 Christian.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Kaufmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kaufmann\",\n      \"forename\": \"Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Kolonialwaarenhändler\",\n      \"address\": \"III, 150.\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"150.\",\n      \"origin\": \"Haltingen im Badischen\",\n      \"birth_year\": \"1812\",\n      \"household\": \"816 Fr. - Just. Fried. Amal. Schuhmacher. 2 K. - 846 Elis. Sophie Marie. - 47 Karl Ad. Hermann.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 812 Karl, Kolonialwaarenhändler, a. Haltingen im Badischen - III, 150. 816 Fr. - Just. Fried. Amal. Schuhmacher. 2 K. - 846 Elis. Sophie Marie. - 47 Karl Ad. Hermann.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Kehl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kehl\",\n      \"forename\": \"Christ. Karl\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Drechsler\",\n      \"address\": \"V, 97.\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"97.\",\n      \"origin\": \"Kirchlindach\",\n      \"birth_year\": \"1783\",\n      \"household\": \"806 Fr. II Ehe. - Anna Sollberger, geb. Jäggi.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 783 Christ. Karl, gew. Drechsler, a. Kirchlindach - V, 97. 806 Fr. II Ehe. - Anna Sollberger, geb. Jäggi.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Kehrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kehrer\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"III, 104.\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"104.\",\n      \"origin\": \"Bözen, K. Aargau\",\n      \"birth_year\": \"1798\",\n      \"household\": \"801 Fr. - Maria Gfeller a. Walkringen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 798 Joh. Jakob, Schneider, a. Bözen, K. Aargau - III, 104. 801 Fr. - Maria Gfeller a. Walkringen.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Kehrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kehrer\",\n      \"forename\": \"Christoph\",\n      \"title\": \"\",\n      \"occupation\": \"Spezierer\",\n      \"address\": \"V, 1.\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"1.\",\n      \"origin\": \"Kappelen b. A.\",\n      \"birth_year\": \"1803\",\n      \"household\": \"809 Fr. - Kath. Amal. Wagner a. Bern.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 803 Christoph, Spezierer, a. Kappelen b. A. - V, 1. 809 Fr. - Kath. Amal. Wagner a. Bern.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Keller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Keller\",\n      \"forename\": \"Ros. Margaretha\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"II, 180.\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"180.\",\n      \"origin\": \"Villars Epenay, K. Waadt\",\n      \"birth_year\": \"1809\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Ros. Margaretha, Schneiderin, a. Villars Epenay, K. Waadt - II, 180.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "80",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 80 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Kammacher."
+   },
+   {
+    "n": 4,
+    "text": "1 781 Barbara, geb. Sutter, a. Hohenweiler, gew. Buchbinderin"
+   },
+   {
+    "n": 5,
+    "text": "- V, 126."
+   },
+   {
+    "n": 6,
+    "text": "Kammermann."
+   },
+   {
+    "n": 7,
+    "text": "1 810 Jakob, Küfer, a. Bowyl - VI, 117 a."
+   },
+   {
+    "n": 8,
+    "text": "814 Fr. II Ehe. - Anna Hinni a. Wohlen."
+   },
+   {
+    "n": 9,
+    "text": "2 K. - 842 Marg. Anna. - 44 Jakob."
+   },
+   {
+    "n": 10,
+    "text": "2 815 Johann, Landarbeiter u. Kutscher, a. Lauperswyl - III, 2."
+   },
+   {
+    "n": 11,
+    "text": "810 Fr. - Magdalena Messerli a. Belpberg, Pintenwirthin."
+   },
+   {
+    "n": 12,
+    "text": "1 T. - 839 Marie Sophie."
+   },
+   {
+    "n": 13,
+    "text": "Karlen."
+   },
+   {
+    "n": 14,
+    "text": "1 810 Eduard, gew. Bärenwirth, B. v. 2, a. Erlenbach und"
+   },
+   {
+    "n": 15,
+    "text": "Thun - II, 146."
+   },
+   {
+    "n": 16,
+    "text": "(Fr. II Ehe nicht eingeschrieben.)"
+   },
+   {
+    "n": 17,
+    "text": "2 Arnold, B. v. 1, Kaffewirth zum Bären - II, 146."
+   },
+   {
+    "n": 18,
+    "text": "Katz."
+   },
+   {
+    "n": 19,
+    "text": "1 813 Ludwig, Zahnarzt, a. Amsterdam - II, 15."
+   },
+   {
+    "n": 20,
+    "text": "Kaufmann."
+   },
+   {
+    "n": 21,
+    "text": "1 815 Christ. August, Mehlhändler, a. Grindelwald - IV, 70."
+   },
+   {
+    "n": 22,
+    "text": "824 Fr. - Elif. Mann a. Schangnau."
+   },
+   {
+    "n": 23,
+    "text": "2 813 Christ., Spezierer u. Holzhändler, a. Grindelwald - IV, 17."
+   },
+   {
+    "n": 24,
+    "text": "810 Fr. - Elisabetha Brawand."
+   },
+   {
+    "n": 25,
+    "text": "1 S. - 838 Christian."
+   },
+   {
+    "n": 26,
+    "text": "3 812 Karl, Kolonialwaarenhändler, a. Haltingen im Badischen"
+   },
+   {
+    "n": 27,
+    "text": "- III, 150."
+   },
+   {
+    "n": 28,
+    "text": "816 Fr. - Just. Fried. Amal. Schuhmacher."
+   },
+   {
+    "n": 29,
+    "text": "2 K. - 846 Elis. Sophie Marie. - 47 Karl Ad. Hermann."
+   },
+   {
+    "n": 30,
+    "text": "Kehl."
+   },
+   {
+    "n": 31,
+    "text": "1 783 Christ. Karl, gew. Drechsler, a. Kirchlindach - V, 97."
+   },
+   {
+    "n": 32,
+    "text": "806 Fr. II Ehe. - Anna Sollberger, geb. Jäggi."
+   },
+   {
+    "n": 33,
+    "text": "Kehrer."
+   },
+   {
+    "n": 34,
+    "text": "1 798 Joh. Jakob, Schneider, a. Bözen, K. Aargau - III, 104."
+   },
+   {
+    "n": 35,
+    "text": "801 Fr. - Maria Gfeller a. Walkringen."
+   },
+   {
+    "n": 36,
+    "text": "2 803 Christoph, Spezierer, a. Kappelen b. A. - V, 1."
+   },
+   {
+    "n": 37,
+    "text": "809 Fr. - Kath. Amal. Wagner a. Bern."
+   },
+   {
+    "n": 38,
+    "text": "Keller."
+   },
+   {
+    "n": 39,
+    "text": "1 809 Ros. Margaretha, Schneiderin, a. Villars Epenay, K."
+   },
+   {
+    "n": 40,
+    "text": "Waadt - II, 180."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Kammacher.",
+    "place": "Bern",
+    "surname": "Kammacher",
+    "forename": "Barbara",
+    "title": "",
+    "occupation": "gew. Buchbinderin",
+    "address": "V, 126.",
+    "quarter": "V",
+    "street": "",
+    "house_no": "126.",
+    "origin": "Hohenweiler",
+    "birth_year": "1781",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Sutter",
+    "text": "1 781 Barbara, geb. Sutter, a. Hohenweiler, gew. Buchbinderin - V, 126."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Kammermann.",
+    "place": "Bern",
+    "surname": "Kammermann",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Küfer",
+    "address": "VI, 117 a.",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "117 a.",
+    "origin": "Bowyl",
+    "birth_year": "1810",
+    "household": "814 Fr. II Ehe. - Anna Hinni a. Wohlen. 2 K. - 842 Marg. Anna. - 44 Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Jakob, Küfer, a. Bowyl - VI, 117 a. 814 Fr. II Ehe. - Anna Hinni a. Wohlen. 2 K. - 842 Marg. Anna. - 44 Jakob."
+   },
+   {
+    "line_from": 10,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Kammermann.",
+    "place": "Bern",
+    "surname": "Kammermann",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Landarbeiter u. Kutscher",
+    "address": "III, 2.",
+    "quarter": "III",
+    "street": "",
+    "house_no": "2.",
+    "origin": "Lauperswyl",
+    "birth_year": "1815",
+    "household": "810 Fr. - Magdalena Messerli a. Belpberg, Pintenwirthin. 1 T. - 839 Marie Sophie.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 815 Johann, Landarbeiter u. Kutscher, a. Lauperswyl - III, 2. 810 Fr. - Magdalena Messerli a. Belpberg, Pintenwirthin. 1 T. - 839 Marie Sophie."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Karlen.",
+    "place": "Bern",
+    "surname": "Karlen",
+    "forename": "Eduard",
+    "title": "",
+    "occupation": "gew. Bärenwirth",
+    "address": "II, 146.",
+    "quarter": "II",
+    "street": "",
+    "house_no": "146.",
+    "origin": "Erlenbach und Thun",
+    "birth_year": "1810",
+    "household": "(Fr. II Ehe nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Eduard, gew. Bärenwirth, B. v. 2, a. Erlenbach und Thun - II, 146. (Fr. II Ehe nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Karlen.",
+    "place": "Bern",
+    "surname": "Karlen",
+    "forename": "Arnold",
+    "title": "",
+    "occupation": "Kaffewirth zum Bären",
+    "address": "II, 146.",
+    "quarter": "II",
+    "street": "",
+    "house_no": "146.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel; B. v. 1",
+    "text": "2 Arnold, B. v. 1, Kaffewirth zum Bären - II, 146."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Katz.",
+    "place": "Bern",
+    "surname": "Katz",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Zahnarzt",
+    "address": "II, 15.",
+    "quarter": "II",
+    "street": "",
+    "house_no": "15.",
+    "origin": "Amsterdam",
+    "birth_year": "1813",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Ludwig, Zahnarzt, a. Amsterdam - II, 15."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Kaufmann.",
+    "place": "Bern",
+    "surname": "Kaufmann",
+    "forename": "Christ. August",
+    "title": "",
+    "occupation": "Mehlhändler",
+    "address": "IV, 70.",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "70.",
+    "origin": "Grindelwald",
+    "birth_year": "1815",
+    "household": "824 Fr. - Elis. Mann a. Schangnau.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 815 Christ. August, Mehlhändler, a. Grindelwald - IV, 70. 824 Fr. - Elis. Mann a. Schangnau."
+   },
+   {
+    "line_from": 23,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Kaufmann.",
+    "place": "Bern",
+    "surname": "Kaufmann",
+    "forename": "Christ.",
+    "title": "",
+    "occupation": "Spezierer u. Holzhändler",
+    "address": "IV, 17.",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "17.",
+    "origin": "Grindelwald",
+    "birth_year": "1813",
+    "household": "810 Fr. - Elisabetha Brawand. 1 S. - 838 Christian.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 813 Christ., Spezierer u. Holzhändler, a. Grindelwald - IV, 17. 810 Fr. - Elisabetha Brawand. 1 S. - 838 Christian."
+   },
+   {
+    "line_from": 26,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Kaufmann.",
+    "place": "Bern",
+    "surname": "Kaufmann",
+    "forename": "Karl",
+    "title": "",
+    "occupation": "Kolonialwaarenhändler",
+    "address": "III, 150.",
+    "quarter": "III",
+    "street": "",
+    "house_no": "150.",
+    "origin": "Haltingen im Badischen",
+    "birth_year": "1812",
+    "household": "816 Fr. - Just. Fried. Amal. Schuhmacher. 2 K. - 846 Elis. Sophie Marie. - 47 Karl Ad. Hermann.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 812 Karl, Kolonialwaarenhändler, a. Haltingen im Badischen - III, 150. 816 Fr. - Just. Fried. Amal. Schuhmacher. 2 K. - 846 Elis. Sophie Marie. - 47 Karl Ad. Hermann."
+   },
+   {
+    "line_from": 31,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Kehl.",
+    "place": "Bern",
+    "surname": "Kehl",
+    "forename": "Christ. Karl",
+    "title": "",
+    "occupation": "gew. Drechsler",
+    "address": "V, 97.",
+    "quarter": "V",
+    "street": "",
+    "house_no": "97.",
+    "origin": "Kirchlindach",
+    "birth_year": "1783",
+    "household": "806 Fr. II Ehe. - Anna Sollberger, geb. Jäggi.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 783 Christ. Karl, gew. Drechsler, a. Kirchlindach - V, 97. 806 Fr. II Ehe. - Anna Sollberger, geb. Jäggi."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Kehrer.",
+    "place": "Bern",
+    "surname": "Kehrer",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "III, 104.",
+    "quarter": "III",
+    "street": "",
+    "house_no": "104.",
+    "origin": "Bözen, K. Aargau",
+    "birth_year": "1798",
+    "household": "801 Fr. - Maria Gfeller a. Walkringen.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 798 Joh. Jakob, Schneider, a. Bözen, K. Aargau - III, 104. 801 Fr. - Maria Gfeller a. Walkringen."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Kehrer.",
+    "place": "Bern",
+    "surname": "Kehrer",
+    "forename": "Christoph",
+    "title": "",
+    "occupation": "Spezierer",
+    "address": "V, 1.",
+    "quarter": "V",
+    "street": "",
+    "house_no": "1.",
+    "origin": "Kappelen b. A.",
+    "birth_year": "1803",
+    "household": "809 Fr. - Kath. Amal. Wagner a. Bern.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 803 Christoph, Spezierer, a. Kappelen b. A. - V, 1. 809 Fr. - Kath. Amal. Wagner a. Bern."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Keller.",
+    "place": "Bern",
+    "surname": "Keller",
+    "forename": "Ros. Margaretha",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "II, 180.",
+    "quarter": "II",
+    "street": "",
+    "house_no": "180.",
+    "origin": "Villars Epenay, K. Waadt",
+    "birth_year": "1809",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Ros. Margaretha, Schneiderin, a. Villars Epenay, K. Waadt - II, 180."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:53:02+01:00",
+ "last_error": null
+}

@@ -1,0 +1,285 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 71,
+ "section": "fortsetzung",
+ "started": "2026-11-10T21:11:18+01:00",
+ "thinking": "low",
+ "seconds": 13.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2297,
+  "output": 2082,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"71\",\n  \"running_head\": \"Oberland.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Oberland. 71\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Oberland.\"},\n    {\"n\": 4, \"text\": \"Eine obrigkeitliche Eisenschmelze befindet sich\"},\n    {\"n\": 5, \"text\": \"zu Mühlibthal im Oberhasli. Hr. Ludwig Gienant\"},\n    {\"n\": 6, \"text\": \"hat dieselbe übernommen, und Hr. Chelius, Faktor,\"},\n    {\"n\": 7, \"text\": \"dirigirt dieselbe.\"},\n    {\"n\": 8, \"text\": \"Signau.\"},\n    {\"n\": 9, \"text\": \"Peter Oppliger, Rothgießer in Signau, ver-\"},\n    {\"n\": 10, \"text\": \"fertigt meßingene Büchsen und Gürtlergarnituren,\"},\n    {\"n\": 11, \"text\": \"Säbelgefäße, alle Arten Glocken c. er verkauft sol-\"},\n    {\"n\": 12, \"text\": \"che Stückweise oder beym Zenter. — Ulrich Hof-\"},\n    {\"n\": 13, \"text\": \"ner, handelt mit Schweizerkäsen en gros.\"},\n    {\"n\": 14, \"text\": \"Hauptmann von Wagner zu Schüppach bey\"},\n    {\"n\": 15, \"text\": \"Signau, fügt der ersten Herausgabe noch bey,\"},\n    {\"n\": 16, \"text\": \"daß er seine Landspossessionen, sowohl die Saat als\"},\n    {\"n\": 17, \"text\": \"Wiesen, mit bestem Nutzen, jedes auf unterschied-\"},\n    {\"n\": 18, \"text\": \"liche Art mit Kalch dünget, so allerdings statt\"},\n    {\"n\": 19, \"text\": \"Gyps dienen kann.\"},\n    {\"n\": 20, \"text\": \"Heimberg bey Thun.\"},\n    {\"n\": 21, \"text\": \"Joh. Jakob Mühlimann fabriziert Zwilch\"},\n    {\"n\": 22, \"text\": \"und gewässerte Bänder.\"},\n    {\"n\": 23, \"text\": \"Wangen.\"},\n    {\"n\": 24, \"text\": \"Jakob Roth in Wangen verarbeitet Pferdhaare,\"},\n    {\"n\": 25, \"text\": \"und versendet sie in die weitesten Gegenden; sein\"},\n    {\"n\": 26, \"text\": \"Sohn, Franz Roth, ebendaselbst, handelt mit\"},\n    {\"n\": 27, \"text\": \"Spezerey und Tuchwaaren.\"},\n    {\"n\": 28, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"institution\",\n      \"heading\": \"Oberland.\",\n      \"place\": \"Mühlibthal im Oberhasli\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"obrigkeitliche Eisenschmelze\",\n      \"address\": \"zu Mühlibthal im Oberhasli\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Hr. Ludwig Gienant hat dieselbe übernommen, und Hr. Chelius, Faktor, dirigirt dieselbe.\",\n      \"text\": \"Eine obrigkeitliche Eisenschmelze befindet sich zu Mühlibthal im Oberhasli. Hr. Ludwig Gienant hat dieselbe übernommen, und Hr. Chelius, Faktor, dirigirt dieselbe.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Signau.\",\n      \"place\": \"Signau\",\n      \"surname\": \"Oppliger\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Rothgießer\",\n      \"address\": \"in Signau\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Peter Oppliger, Rothgießer in Signau, verfertigt meßingene Büchsen und Gürtlergarnituren, Säbelgefäße, alle Arten Glocken c. er verkauft solche Stückweise oder beym Zenter.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Signau.\",\n      \"place\": \"Signau\",\n      \"surname\": \"Hofner\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"handelt mit Schweizerkäsen en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ulrich Hofner, handelt mit Schweizerkäsen en gros.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Signau.\",\n      \"place\": \"Schüppach bey Signau\",\n      \"surname\": \"von Wagner\",\n      \"forename\": \"\",\n      \"title\": \"Hauptmann\",\n      \"occupation\": \"\",\n      \"address\": \"zu Schüppach bey Signau\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hauptmann von Wagner zu Schüppach bey Signau, fügt der ersten Herausgabe noch bey, daß er seine Landspossessionen, sowohl die Saat als Wiesen, mit bestem Nutzen, jedes auf unterschiedliche Art mit Kalch dünget, so allerdings statt Gyps dienen kann.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Heimberg bey Thun.\",\n      \"place\": \"Heimberg bey Thun\",\n      \"surname\": \"Mühlimann\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"fabriziert Zwilch und gewässerte Bänder\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Mühlimann fabriziert Zwilch und gewässerte Bänder.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Wangen.\",\n      \"place\": \"Wangen\",\n      \"surname\": \"Roth\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"verarbeitet Pferdhaare, und versendet sie in die weitesten Gegenden\",\n      \"address\": \"in Wangen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Roth in Wangen verarbeitet Pferdhaare, und versendet sie in die weitesten Gegenden;\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Wangen.\",\n      \"place\": \"Wangen\",\n      \"surname\": \"Roth\",\n      \"forename\": \"Franz\",\n      \"title\": \"Sohn\",\n      \"occupation\": \"handelt mit Spezerey und Tuchwaaren\",\n      \"address\": \"ebendaselbst\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"sein Sohn, Franz Roth, ebendaselbst, handelt mit Spezerey und Tuchwaaren.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "71",
+  "running_head": "Oberland.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Oberland. 71"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Oberland."
+   },
+   {
+    "n": 4,
+    "text": "Eine obrigkeitliche Eisenschmelze befindet sich"
+   },
+   {
+    "n": 5,
+    "text": "zu Mühlibthal im Oberhasli. Hr. Ludwig Gienant"
+   },
+   {
+    "n": 6,
+    "text": "hat dieselbe übernommen, und Hr. Chelius, Faktor,"
+   },
+   {
+    "n": 7,
+    "text": "dirigirt dieselbe."
+   },
+   {
+    "n": 8,
+    "text": "Signau."
+   },
+   {
+    "n": 9,
+    "text": "Peter Oppliger, Rothgießer in Signau, ver-"
+   },
+   {
+    "n": 10,
+    "text": "fertigt meßingene Büchsen und Gürtlergarnituren,"
+   },
+   {
+    "n": 11,
+    "text": "Säbelgefäße, alle Arten Glocken c. er verkauft sol-"
+   },
+   {
+    "n": 12,
+    "text": "che Stückweise oder beym Zenter. — Ulrich Hof-"
+   },
+   {
+    "n": 13,
+    "text": "ner, handelt mit Schweizerkäsen en gros."
+   },
+   {
+    "n": 14,
+    "text": "Hauptmann von Wagner zu Schüppach bey"
+   },
+   {
+    "n": 15,
+    "text": "Signau, fügt der ersten Herausgabe noch bey,"
+   },
+   {
+    "n": 16,
+    "text": "daß er seine Landspossessionen, sowohl die Saat als"
+   },
+   {
+    "n": 17,
+    "text": "Wiesen, mit bestem Nutzen, jedes auf unterschied-"
+   },
+   {
+    "n": 18,
+    "text": "liche Art mit Kalch dünget, so allerdings statt"
+   },
+   {
+    "n": 19,
+    "text": "Gyps dienen kann."
+   },
+   {
+    "n": 20,
+    "text": "Heimberg bey Thun."
+   },
+   {
+    "n": 21,
+    "text": "Joh. Jakob Mühlimann fabriziert Zwilch"
+   },
+   {
+    "n": 22,
+    "text": "und gewässerte Bänder."
+   },
+   {
+    "n": 23,
+    "text": "Wangen."
+   },
+   {
+    "n": 24,
+    "text": "Jakob Roth in Wangen verarbeitet Pferdhaare,"
+   },
+   {
+    "n": 25,
+    "text": "und versendet sie in die weitesten Gegenden; sein"
+   },
+   {
+    "n": 26,
+    "text": "Sohn, Franz Roth, ebendaselbst, handelt mit"
+   },
+   {
+    "n": 27,
+    "text": "Spezerey und Tuchwaaren."
+   },
+   {
+    "n": 28,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "institution",
+    "heading": "Oberland.",
+    "place": "Mühlibthal im Oberhasli",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "obrigkeitliche Eisenschmelze",
+    "address": "zu Mühlibthal im Oberhasli",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Hr. Ludwig Gienant hat dieselbe übernommen, und Hr. Chelius, Faktor, dirigirt dieselbe.",
+    "text": "Eine obrigkeitliche Eisenschmelze befindet sich zu Mühlibthal im Oberhasli. Hr. Ludwig Gienant hat dieselbe übernommen, und Hr. Chelius, Faktor, dirigirt dieselbe."
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Signau.",
+    "place": "Signau",
+    "surname": "Oppliger",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Rothgießer",
+    "address": "in Signau",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Peter Oppliger, Rothgießer in Signau, verfertigt meßingene Büchsen und Gürtlergarnituren, Säbelgefäße, alle Arten Glocken c. er verkauft solche Stückweise oder beym Zenter."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Signau.",
+    "place": "Signau",
+    "surname": "Hofner",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "handelt mit Schweizerkäsen en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ulrich Hofner, handelt mit Schweizerkäsen en gros."
+   },
+   {
+    "line_from": 14,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Signau.",
+    "place": "Schüppach bey Signau",
+    "surname": "von Wagner",
+    "forename": "",
+    "title": "Hauptmann",
+    "occupation": "",
+    "address": "zu Schüppach bey Signau",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hauptmann von Wagner zu Schüppach bey Signau, fügt der ersten Herausgabe noch bey, daß er seine Landspossessionen, sowohl die Saat als Wiesen, mit bestem Nutzen, jedes auf unterschiedliche Art mit Kalch dünget, so allerdings statt Gyps dienen kann."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Heimberg bey Thun.",
+    "place": "Heimberg bey Thun",
+    "surname": "Mühlimann",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "fabriziert Zwilch und gewässerte Bänder",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Mühlimann fabriziert Zwilch und gewässerte Bänder."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Wangen.",
+    "place": "Wangen",
+    "surname": "Roth",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "verarbeitet Pferdhaare, und versendet sie in die weitesten Gegenden",
+    "address": "in Wangen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Roth in Wangen verarbeitet Pferdhaare, und versendet sie in die weitesten Gegenden;"
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Wangen.",
+    "place": "Wangen",
+    "surname": "Roth",
+    "forename": "Franz",
+    "title": "Sohn",
+    "occupation": "handelt mit Spezerey und Tuchwaaren",
+    "address": "ebendaselbst",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "sein Sohn, Franz Roth, ebendaselbst, handelt mit Spezerey und Tuchwaaren."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:11:31+01:00",
+ "last_error": null
+}

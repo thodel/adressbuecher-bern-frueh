@@ -1,0 +1,377 @@
+{
+ "run": "full-v1",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 10,
+ "section": "handbuch",
+ "started": "2026-11-10T21:09:02+01:00",
+ "thinking": "low",
+ "seconds": 18.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 2808,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"8\",\n  \"running_head\": \"Bern.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"8 Bern.\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"lung, als ihre Haupthandlung, entladen) beträcht-\"},\n    {\"n\": 4, \"text\": \"lich vermehrt, und fahren auf gleichem Fuß, wie\"},\n    {\"n\": 5, \"text\": \"diese, in der Strümpffabrication fort.\"},\n    {\"n\": 6, \"text\": \"Joh. Jakob Strehl, älter, in Spedition, Com-\"},\n    {\"n\": 7, \"text\": \"mission und Speculation.\"},\n    {\"n\": 8, \"text\": \"Die Typographische Societäts = Buch-\"},\n    {\"n\": 9, \"text\": \"handlung neben dem Hotel de Musique.\"},\n    {\"n\": 10, \"text\": \"Ulrich (der ältere) Commissionär für innländi-\"},\n    {\"n\": 11, \"text\": \"sche und auswärtige Geschäfte.\"},\n    {\"n\": 12, \"text\": \"Friedrich Walther und Ziegler, handeln\"},\n    {\"n\": 13, \"text\": \"mit Guß und anderem Eisen, Stahl, Sensen,\"},\n    {\"n\": 14, \"text\": \"Wetzsteinen; wie auch mit Kleesaamen, en gros und\"},\n    {\"n\": 15, \"text\": \"en détail.\"},\n    {\"n\": 16, \"text\": \"Samuel Wannaz, Tuchhandlung, seidene\"},\n    {\"n\": 17, \"text\": \"Strümpffabrik.\"},\n    {\"n\": 18, \"text\": \"Emmanuel Weber und Comp. führen glatte Lein-\"},\n    {\"n\": 19, \"text\": \"wand, wie auch allerhand Tischzeug, hiesige Lands-\"},\n    {\"n\": 20, \"text\": \"Fabrique, alles en gros.\"},\n    {\"n\": 21, \"text\": \"Wisard, Naturalist, kauft und verkauft alle\"},\n    {\"n\": 22, \"text\": \"Arten natürlicher Seltenheiten, besonders im Mi-\"},\n    {\"n\": 23, \"text\": \"neralreich, und besitzt eine auserlesene Sammlung\"},\n    {\"n\": 24, \"text\": \"von Merkwürdigkeiten der Natur und Kunst.\"},\n    {\"n\": 25, \"text\": \"Nikol. Em. Rud. Wyß, Tuchscheerer und Tuch-\"},\n    {\"n\": 26, \"text\": \"fabrikant, wohnhaft im Commerzienhaus.\"},\n    {\"n\": 27, \"text\": \"Zeerleder und Comp. en Epiceries, Drogueries\"},\n    {\"n\": 28, \"text\": \"& affaires de Banque.\"},\n    {\"n\": 29, \"text\": \"Ziegler der jüngere und Comp. en Epiceries,\"},\n    {\"n\": 30, \"text\": \"Drogueries & affaires de Banque.\"},\n    {\"n\": 31, \"text\": \"Herr\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Strümpffabrication\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"lung, als ihre Haupthandlung, entladen) beträchtlich vermehrt, und fahren auf gleichem Fuß, wie diese, in der Strümpffabrication fort.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Strehl\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"älter\",\n      \"occupation\": \"in Spedition, Commission und Speculation\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Strehl, älter, in Spedition, Commission und Speculation.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Buchhandlung\",\n      \"address\": \"neben dem Hotel de Musique\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Die Typographische Societäts = Buchhandlung neben dem Hotel de Musique.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ulrich\",\n      \"forename\": \"\",\n      \"title\": \"der ältere\",\n      \"occupation\": \"Commissionär für innländische und auswärtige Geschäfte\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ulrich (der ältere) Commissionär für innländische und auswärtige Geschäfte.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 15,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther und Ziegler\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"handeln mit Guß und anderem Eisen, Stahl, Sensen, Wetzsteinen; wie auch mit Kleesaamen, en gros und en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Friedrich Walther und Ziegler, handeln mit Guß und anderem Eisen, Stahl, Sensen, Wetzsteinen; wie auch mit Kleesaamen, en gros und en détail.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wannaz\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Tuchhandlung, seidene Strümpffabrik\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Wannaz, Tuchhandlung, seidene Strümpffabrik.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Weber\",\n      \"forename\": \"Emmanuel\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"führen glatte Leinwand, wie auch allerhand Tischzeug, hiesige Lands-Fabrique, alles en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Emmanuel Weber und Comp. führen glatte Leinwand, wie auch allerhand Tischzeug, hiesige Lands-Fabrique, alles en gros.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wisard\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Naturalist, kauft und verkauft alle Arten natürlicher Seltenheiten, besonders im Mineralreich, und besitzt eine auserlesene Sammlung von Merkwürdigkeiten der Natur und Kunst\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wisard, Naturalist, kauft und verkauft alle Arten natürlicher Seltenheiten, besonders im Mineralreich, und besitzt eine auserlesene Sammlung von Merkwürdigkeiten der Natur und Kunst.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wyß\",\n      \"forename\": \"Nikol. Em. Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Tuchscheerer und Tuchfabrikant\",\n      \"address\": \"im Commerzienhaus\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Nikol. Em. Rud. Wyß, Tuchscheerer und Tuchfabrikant, wohnhaft im Commerzienhaus.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zeerleder\",\n      \"forename\": \"\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"en Epiceries, Drogueries & affaires de Banque\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zeerleder und Comp. en Epiceries, Drogueries & affaires de Banque.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ziegler\",\n      \"forename\": \"\",\n      \"title\": \"der jüngere und Comp.\",\n      \"occupation\": \"en Epiceries, Drogueries & affaires de Banque\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ziegler der jüngere und Comp. en Epiceries, Drogueries & affaires de Banque.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "8",
+  "running_head": "Bern.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "8 Bern."
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "lung, als ihre Haupthandlung, entladen) beträcht-"
+   },
+   {
+    "n": 4,
+    "text": "lich vermehrt, und fahren auf gleichem Fuß, wie"
+   },
+   {
+    "n": 5,
+    "text": "diese, in der Strümpffabrication fort."
+   },
+   {
+    "n": 6,
+    "text": "Joh. Jakob Strehl, älter, in Spedition, Com-"
+   },
+   {
+    "n": 7,
+    "text": "mission und Speculation."
+   },
+   {
+    "n": 8,
+    "text": "Die Typographische Societäts = Buch-"
+   },
+   {
+    "n": 9,
+    "text": "handlung neben dem Hotel de Musique."
+   },
+   {
+    "n": 10,
+    "text": "Ulrich (der ältere) Commissionär für innländi-"
+   },
+   {
+    "n": 11,
+    "text": "sche und auswärtige Geschäfte."
+   },
+   {
+    "n": 12,
+    "text": "Friedrich Walther und Ziegler, handeln"
+   },
+   {
+    "n": 13,
+    "text": "mit Guß und anderem Eisen, Stahl, Sensen,"
+   },
+   {
+    "n": 14,
+    "text": "Wetzsteinen; wie auch mit Kleesaamen, en gros und"
+   },
+   {
+    "n": 15,
+    "text": "en détail."
+   },
+   {
+    "n": 16,
+    "text": "Samuel Wannaz, Tuchhandlung, seidene"
+   },
+   {
+    "n": 17,
+    "text": "Strümpffabrik."
+   },
+   {
+    "n": 18,
+    "text": "Emmanuel Weber und Comp. führen glatte Lein-"
+   },
+   {
+    "n": 19,
+    "text": "wand, wie auch allerhand Tischzeug, hiesige Lands-"
+   },
+   {
+    "n": 20,
+    "text": "Fabrique, alles en gros."
+   },
+   {
+    "n": 21,
+    "text": "Wisard, Naturalist, kauft und verkauft alle"
+   },
+   {
+    "n": 22,
+    "text": "Arten natürlicher Seltenheiten, besonders im Mi-"
+   },
+   {
+    "n": 23,
+    "text": "neralreich, und besitzt eine auserlesene Sammlung"
+   },
+   {
+    "n": 24,
+    "text": "von Merkwürdigkeiten der Natur und Kunst."
+   },
+   {
+    "n": 25,
+    "text": "Nikol. Em. Rud. Wyß, Tuchscheerer und Tuch-"
+   },
+   {
+    "n": 26,
+    "text": "fabrikant, wohnhaft im Commerzienhaus."
+   },
+   {
+    "n": 27,
+    "text": "Zeerleder und Comp. en Epiceries, Drogueries"
+   },
+   {
+    "n": 28,
+    "text": "& affaires de Banque."
+   },
+   {
+    "n": 29,
+    "text": "Ziegler der jüngere und Comp. en Epiceries,"
+   },
+   {
+    "n": 30,
+    "text": "Drogueries & affaires de Banque."
+   },
+   {
+    "n": 31,
+    "text": "Herr"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "firma",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Strümpffabrication",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "lung, als ihre Haupthandlung, entladen) beträchtlich vermehrt, und fahren auf gleichem Fuß, wie diese, in der Strümpffabrication fort."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Strehl",
+    "forename": "Joh. Jakob",
+    "title": "älter",
+    "occupation": "in Spedition, Commission und Speculation",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Strehl, älter, in Spedition, Commission und Speculation."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "firma",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Buchhandlung",
+    "address": "neben dem Hotel de Musique",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Die Typographische Societäts = Buchhandlung neben dem Hotel de Musique."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Ulrich",
+    "forename": "",
+    "title": "der ältere",
+    "occupation": "Commissionär für innländische und auswärtige Geschäfte",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ulrich (der ältere) Commissionär für innländische und auswärtige Geschäfte."
+   },
+   {
+    "line_from": 12,
+    "line_to": 15,
+    "kind": "firma",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Walther und Ziegler",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "handeln mit Guß und anderem Eisen, Stahl, Sensen, Wetzsteinen; wie auch mit Kleesaamen, en gros und en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friedrich Walther und Ziegler, handeln mit Guß und anderem Eisen, Stahl, Sensen, Wetzsteinen; wie auch mit Kleesaamen, en gros und en détail."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Wannaz",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Tuchhandlung, seidene Strümpffabrik",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Wannaz, Tuchhandlung, seidene Strümpffabrik."
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "firma",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Weber",
+    "forename": "Emmanuel",
+    "title": "und Comp.",
+    "occupation": "führen glatte Leinwand, wie auch allerhand Tischzeug, hiesige Lands-Fabrique, alles en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Emmanuel Weber und Comp. führen glatte Leinwand, wie auch allerhand Tischzeug, hiesige Lands-Fabrique, alles en gros."
+   },
+   {
+    "line_from": 21,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Wisard",
+    "forename": "",
+    "title": "",
+    "occupation": "Naturalist, kauft und verkauft alle Arten natürlicher Seltenheiten, besonders im Mineralreich, und besitzt eine auserlesene Sammlung von Merkwürdigkeiten der Natur und Kunst",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wisard, Naturalist, kauft und verkauft alle Arten natürlicher Seltenheiten, besonders im Mineralreich, und besitzt eine auserlesene Sammlung von Merkwürdigkeiten der Natur und Kunst."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Wyß",
+    "forename": "Nikol. Em. Rud.",
+    "title": "",
+    "occupation": "Tuchscheerer und Tuchfabrikant",
+    "address": "im Commerzienhaus",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nikol. Em. Rud. Wyß, Tuchscheerer und Tuchfabrikant, wohnhaft im Commerzienhaus."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "firma",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Zeerleder",
+    "forename": "",
+    "title": "und Comp.",
+    "occupation": "en Epiceries, Drogueries & affaires de Banque",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zeerleder und Comp. en Epiceries, Drogueries & affaires de Banque."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "firma",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Ziegler",
+    "forename": "",
+    "title": "der jüngere und Comp.",
+    "occupation": "en Epiceries, Drogueries & affaires de Banque",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ziegler der jüngere und Comp. en Epiceries, Drogueries & affaires de Banque."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-10T21:09:20+01:00",
+ "last_error": null
+}
