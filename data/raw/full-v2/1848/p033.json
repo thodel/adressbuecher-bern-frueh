@@ -1,0 +1,406 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 33,
+ "section": "einsassen",
+ "started": "2026-11-11T21:56:52+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 145.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3665,
+  "thoughts": 17216
+ },
+ "response_text": "{\n  \"printed_page\": \"20\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 20 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"4 805 Kaspar, Weinfaktor, a. Saanen - II, 125.\"},\n    {\"n\": 4, \"text\": \"813 Fr. - Sus. Ros. Henriette Jaggi a. Saanen.\"},\n    {\"n\": 5, \"text\": \"1 S. - 840 Heinrich Kaspar.\"},\n    {\"n\": 6, \"text\": \"Brandes.\"},\n    {\"n\": 7, \"text\": \"1 816 Joh. Friedrich Ernst, Kürschner, a. Hannover - IV, 215.\"},\n    {\"n\": 8, \"text\": \"Brandt.\"},\n    {\"n\": 9, \"text\": \"1 Cölestine, geb. Pagnard, Feinnäherin, a. Peuchappatte\"},\n    {\"n\": 10, \"text\": \"- II, 220.\"},\n    {\"n\": 11, \"text\": \"Bratschi.\"},\n    {\"n\": 12, \"text\": \"1 817 Friedrich August, Gärtner, a. Lenk - I, 8.\"},\n    {\"n\": 13, \"text\": \"811 Fr. - Anna Obrist a. Numikon, K. Aargau.\"},\n    {\"n\": 14, \"text\": \"3 K. - 843 Friedrich Albrecht. - 44 Karl Ludwig. -\"},\n    {\"n\": 15, \"text\": \"46 Anna Elisabetha.\"},\n    {\"n\": 16, \"text\": \"Braun.\"},\n    {\"n\": 17, \"text\": \"1 799 Georg Christoph, Schreiber u. Hauseigenthümer, a.\"},\n    {\"n\": 18, \"text\": \"Mett - IV, 30 u. 31.\"},\n    {\"n\": 19, \"text\": \"807 Fr. - Marg. Hofer a. Biglen, Schneiderin.\"},\n    {\"n\": 20, \"text\": \"3 K. - 831 Maria Albertine. - 39 Nanette Emilie. -\"},\n    {\"n\": 21, \"text\": \"44 Joh. Alfred.\"},\n    {\"n\": 22, \"text\": \"2 805 Maria, Schneiderin, a. Chavannes de Bogis, K. Waadt\"},\n    {\"n\": 23, \"text\": \"- II, 8.\"},\n    {\"n\": 24, \"text\": \"Brawand.\"},\n    {\"n\": 25, \"text\": \"1 806 Christian, Schuhmacher, a. Matten - VI, 95.\"},\n    {\"n\": 26, \"text\": \"805 Fr. - Lucia Häsler a. Gsteigwyler.\"},\n    {\"n\": 27, \"text\": \"Brechbühl.\"},\n    {\"n\": 28, \"text\": \"1 809 Anna Barbara, geb. Sollberger, Kostgeberin u. Weiß=\"},\n    {\"n\": 29, \"text\": \"näherin, a. Lauperswylviertel, gesch. - IV, 3.\"},\n    {\"n\": 30, \"text\": \"Brechbühler.\"},\n    {\"n\": 31, \"text\": \"1 819 Jakob, Notar, a. Huttwyl - II, 129.\"},\n    {\"n\": 32, \"text\": \"827 Fr. - Anna Wyß a. Meikirch.\"},\n    {\"n\": 33, \"text\": \"Bregger.\"},\n    {\"n\": 34, \"text\": \"1 794 Dionisius, Eisenhändler, a. Bernauhof im Badischen -\"},\n    {\"n\": 35, \"text\": \"III, 62.\"},\n    {\"n\": 36, \"text\": \"Breitfeld, bern. Landsassen.\"},\n    {\"n\": 37, \"text\": \"1-3 814 Anna Elisa, - 16 Rosina Katharina, - 19 Maria\"},\n    {\"n\": 38, \"text\": \"Charlotte - I, 217.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Brand\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brand\",\n      \"forename\": \"Kaspar\",\n      \"title\": \"\",\n      \"occupation\": \"Weinfaktor\",\n      \"address\": \"II, 125\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"125\",\n      \"origin\": \"Saanen\",\n      \"birth_year\": \"1805\",\n      \"household\": \"813 Fr. - Sus. Ros. Henriette Jaggi a. Saanen. 1 S. - 840 Heinrich Kaspar.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 805 Kaspar, Weinfaktor, a. Saanen - II, 125. 813 Fr. - Sus. Ros. Henriette Jaggi a. Saanen. 1 S. - 840 Heinrich Kaspar.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Brandes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brandes\",\n      \"forename\": \"Joh. Friedrich Ernst\",\n      \"title\": \"\",\n      \"occupation\": \"Kürschner\",\n      \"address\": \"IV, 215\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"215\",\n      \"origin\": \"Hannover\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Joh. Friedrich Ernst, Kürschner, a. Hannover - IV, 215.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Brandt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brandt\",\n      \"forename\": \"Cölestine\",\n      \"title\": \"\",\n      \"occupation\": \"Feinnäherin\",\n      \"address\": \"II, 220\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"220\",\n      \"origin\": \"Peuchappatte\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Pagnard; Name aus Zwischentitel\",\n      \"text\": \"1 Cölestine, geb. Pagnard, Feinnäherin, a. Peuchappatte - II, 220.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Bratschi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bratschi\",\n      \"forename\": \"Friedrich August\",\n      \"title\": \"\",\n      \"occupation\": \"Gärtner\",\n      \"address\": \"I, 8\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"8\",\n      \"origin\": \"Lenk\",\n      \"birth_year\": \"1817\",\n      \"household\": \"811 Fr. - Anna Obrist a. Numikon, K. Aargau. 3 K. - 843 Friedrich Albrecht. - 44 Karl Ludwig. - 46 Anna Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 817 Friedrich August, Gärtner, a. Lenk - I, 8. 811 Fr. - Anna Obrist a. Numikon, K. Aargau. 3 K. - 843 Friedrich Albrecht. - 44 Karl Ludwig. - 46 Anna Elisabetha.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Braun.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Braun\",\n      \"forename\": \"Georg Christoph\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber u. Hauseigenthümer\",\n      \"address\": \"IV, 30 u. 31\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"30 u. 31\",\n      \"origin\": \"Mett\",\n      \"birth_year\": \"1799\",\n      \"household\": \"807 Fr. - Marg. Hofer a. Biglen, Schneiderin. 3 K. - 831 Maria Albertine. - 39 Nanette Emilie. - 44 Joh. Alfred.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Georg Christoph, Schreiber u. Hauseigenthümer, a. Mett - IV, 30 u. 31. 807 Fr. - Marg. Hofer a. Biglen, Schneiderin. 3 K. - 831 Maria Albertine. - 39 Nanette Emilie. - 44 Joh. Alfred.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Braun.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Braun\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"II, 8\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"8\",\n      \"origin\": \"Chavannes de Bogis, K. Waadt\",\n      \"birth_year\": \"1805\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 805 Maria, Schneiderin, a. Chavannes de Bogis, K. Waadt - II, 8.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Brawand.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brawand\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"VI, 95\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"Matten\",\n      \"birth_year\": \"1806\",\n      \"household\": \"805 Fr. - Lucia Häsler a. Gsteigwyler.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 806 Christian, Schuhmacher, a. Matten - VI, 95. 805 Fr. - Lucia Häsler a. Gsteigwyler.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Brechbühl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brechbühl\",\n      \"forename\": \"Anna Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Kostgeberin u. Weißnäherin\",\n      \"address\": \"IV, 3\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"3\",\n      \"origin\": \"Lauperswylviertel\",\n      \"birth_year\": \"1809\",\n      \"household\": \"\",\n      \"note\": \"geb. Sollberger, gesch.; Name aus Zwischentitel\",\n      \"text\": \"1 809 Anna Barbara, geb. Sollberger, Kostgeberin u. Weißnäherin, a. Lauperswylviertel, gesch. - IV, 3.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Brechbühler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brechbühler\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Notar\",\n      \"address\": \"II, 129\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"129\",\n      \"origin\": \"Huttwyl\",\n      \"birth_year\": \"1819\",\n      \"household\": \"827 Fr. - Anna Wyß a. Meikirch.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 819 Jakob, Notar, a. Huttwyl - II, 129. 827 Fr. - Anna Wyß a. Meikirch.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Bregger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bregger\",\n      \"forename\": \"Dionisius\",\n      \"title\": \"\",\n      \"occupation\": \"Eisenhändler\",\n      \"address\": \"III, 62\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"Bernauhof im Badischen\",\n      \"birth_year\": \"1794\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 794 Dionisius, Eisenhändler, a. Bernauhof im Badischen - III, 62.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Breitfeld, bern. Landsassen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Breitfeld\",\n      \"forename\": \"Anna Elisa, Rosina Katharina, Maria Charlotte\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"I, 217\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"217\",\n      \"origin\": \"\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1-3 814 Anna Elisa, - 16 Rosina Katharina, - 19 Maria Charlotte - I, 217.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "20",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 20 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "4 805 Kaspar, Weinfaktor, a. Saanen - II, 125."
+   },
+   {
+    "n": 4,
+    "text": "813 Fr. - Sus. Ros. Henriette Jaggi a. Saanen."
+   },
+   {
+    "n": 5,
+    "text": "1 S. - 840 Heinrich Kaspar."
+   },
+   {
+    "n": 6,
+    "text": "Brandes."
+   },
+   {
+    "n": 7,
+    "text": "1 816 Joh. Friedrich Ernst, Kürschner, a. Hannover - IV, 215."
+   },
+   {
+    "n": 8,
+    "text": "Brandt."
+   },
+   {
+    "n": 9,
+    "text": "1 Cölestine, geb. Pagnard, Feinnäherin, a. Peuchappatte"
+   },
+   {
+    "n": 10,
+    "text": "- II, 220."
+   },
+   {
+    "n": 11,
+    "text": "Bratschi."
+   },
+   {
+    "n": 12,
+    "text": "1 817 Friedrich August, Gärtner, a. Lenk - I, 8."
+   },
+   {
+    "n": 13,
+    "text": "811 Fr. - Anna Obrist a. Numikon, K. Aargau."
+   },
+   {
+    "n": 14,
+    "text": "3 K. - 843 Friedrich Albrecht. - 44 Karl Ludwig. -"
+   },
+   {
+    "n": 15,
+    "text": "46 Anna Elisabetha."
+   },
+   {
+    "n": 16,
+    "text": "Braun."
+   },
+   {
+    "n": 17,
+    "text": "1 799 Georg Christoph, Schreiber u. Hauseigenthümer, a."
+   },
+   {
+    "n": 18,
+    "text": "Mett - IV, 30 u. 31."
+   },
+   {
+    "n": 19,
+    "text": "807 Fr. - Marg. Hofer a. Biglen, Schneiderin."
+   },
+   {
+    "n": 20,
+    "text": "3 K. - 831 Maria Albertine. - 39 Nanette Emilie. -"
+   },
+   {
+    "n": 21,
+    "text": "44 Joh. Alfred."
+   },
+   {
+    "n": 22,
+    "text": "2 805 Maria, Schneiderin, a. Chavannes de Bogis, K. Waadt"
+   },
+   {
+    "n": 23,
+    "text": "- II, 8."
+   },
+   {
+    "n": 24,
+    "text": "Brawand."
+   },
+   {
+    "n": 25,
+    "text": "1 806 Christian, Schuhmacher, a. Matten - VI, 95."
+   },
+   {
+    "n": 26,
+    "text": "805 Fr. - Lucia Häsler a. Gsteigwyler."
+   },
+   {
+    "n": 27,
+    "text": "Brechbühl."
+   },
+   {
+    "n": 28,
+    "text": "1 809 Anna Barbara, geb. Sollberger, Kostgeberin u. Weiß="
+   },
+   {
+    "n": 29,
+    "text": "näherin, a. Lauperswylviertel, gesch. - IV, 3."
+   },
+   {
+    "n": 30,
+    "text": "Brechbühler."
+   },
+   {
+    "n": 31,
+    "text": "1 819 Jakob, Notar, a. Huttwyl - II, 129."
+   },
+   {
+    "n": 32,
+    "text": "827 Fr. - Anna Wyß a. Meikirch."
+   },
+   {
+    "n": 33,
+    "text": "Bregger."
+   },
+   {
+    "n": 34,
+    "text": "1 794 Dionisius, Eisenhändler, a. Bernauhof im Badischen -"
+   },
+   {
+    "n": 35,
+    "text": "III, 62."
+   },
+   {
+    "n": 36,
+    "text": "Breitfeld, bern. Landsassen."
+   },
+   {
+    "n": 37,
+    "text": "1-3 814 Anna Elisa, - 16 Rosina Katharina, - 19 Maria"
+   },
+   {
+    "n": 38,
+    "text": "Charlotte - I, 217."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Brand",
+    "place": "Bern",
+    "surname": "Brand",
+    "forename": "Kaspar",
+    "title": "",
+    "occupation": "Weinfaktor",
+    "address": "II, 125",
+    "quarter": "II",
+    "street": "",
+    "house_no": "125",
+    "origin": "Saanen",
+    "birth_year": "1805",
+    "household": "813 Fr. - Sus. Ros. Henriette Jaggi a. Saanen. 1 S. - 840 Heinrich Kaspar.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 805 Kaspar, Weinfaktor, a. Saanen - II, 125. 813 Fr. - Sus. Ros. Henriette Jaggi a. Saanen. 1 S. - 840 Heinrich Kaspar."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Brandes.",
+    "place": "Bern",
+    "surname": "Brandes",
+    "forename": "Joh. Friedrich Ernst",
+    "title": "",
+    "occupation": "Kürschner",
+    "address": "IV, 215",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "215",
+    "origin": "Hannover",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Joh. Friedrich Ernst, Kürschner, a. Hannover - IV, 215."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Brandt.",
+    "place": "Bern",
+    "surname": "Brandt",
+    "forename": "Cölestine",
+    "title": "",
+    "occupation": "Feinnäherin",
+    "address": "II, 220",
+    "quarter": "II",
+    "street": "",
+    "house_no": "220",
+    "origin": "Peuchappatte",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Pagnard; Name aus Zwischentitel",
+    "text": "1 Cölestine, geb. Pagnard, Feinnäherin, a. Peuchappatte - II, 220."
+   },
+   {
+    "line_from": 12,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Bratschi.",
+    "place": "Bern",
+    "surname": "Bratschi",
+    "forename": "Friedrich August",
+    "title": "",
+    "occupation": "Gärtner",
+    "address": "I, 8",
+    "quarter": "I",
+    "street": "",
+    "house_no": "8",
+    "origin": "Lenk",
+    "birth_year": "1817",
+    "household": "811 Fr. - Anna Obrist a. Numikon, K. Aargau. 3 K. - 843 Friedrich Albrecht. - 44 Karl Ludwig. - 46 Anna Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 817 Friedrich August, Gärtner, a. Lenk - I, 8. 811 Fr. - Anna Obrist a. Numikon, K. Aargau. 3 K. - 843 Friedrich Albrecht. - 44 Karl Ludwig. - 46 Anna Elisabetha."
+   },
+   {
+    "line_from": 17,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Braun.",
+    "place": "Bern",
+    "surname": "Braun",
+    "forename": "Georg Christoph",
+    "title": "",
+    "occupation": "Schreiber u. Hauseigenthümer",
+    "address": "IV, 30 u. 31",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "30 u. 31",
+    "origin": "Mett",
+    "birth_year": "1799",
+    "household": "807 Fr. - Marg. Hofer a. Biglen, Schneiderin. 3 K. - 831 Maria Albertine. - 39 Nanette Emilie. - 44 Joh. Alfred.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Georg Christoph, Schreiber u. Hauseigenthümer, a. Mett - IV, 30 u. 31. 807 Fr. - Marg. Hofer a. Biglen, Schneiderin. 3 K. - 831 Maria Albertine. - 39 Nanette Emilie. - 44 Joh. Alfred."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Braun.",
+    "place": "Bern",
+    "surname": "Braun",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "II, 8",
+    "quarter": "II",
+    "street": "",
+    "house_no": "8",
+    "origin": "Chavannes de Bogis, K. Waadt",
+    "birth_year": "1805",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 805 Maria, Schneiderin, a. Chavannes de Bogis, K. Waadt - II, 8."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Brawand.",
+    "place": "Bern",
+    "surname": "Brawand",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "VI, 95",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "95",
+    "origin": "Matten",
+    "birth_year": "1806",
+    "household": "805 Fr. - Lucia Häsler a. Gsteigwyler.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 806 Christian, Schuhmacher, a. Matten - VI, 95. 805 Fr. - Lucia Häsler a. Gsteigwyler."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Brechbühl.",
+    "place": "Bern",
+    "surname": "Brechbühl",
+    "forename": "Anna Barbara",
+    "title": "",
+    "occupation": "Kostgeberin u. Weißnäherin",
+    "address": "IV, 3",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "3",
+    "origin": "Lauperswylviertel",
+    "birth_year": "1809",
+    "household": "",
+    "note": "geb. Sollberger, gesch.; Name aus Zwischentitel",
+    "text": "1 809 Anna Barbara, geb. Sollberger, Kostgeberin u. Weißnäherin, a. Lauperswylviertel, gesch. - IV, 3."
+   },
+   {
+    "line_from": 31,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Brechbühler.",
+    "place": "Bern",
+    "surname": "Brechbühler",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Notar",
+    "address": "II, 129",
+    "quarter": "II",
+    "street": "",
+    "house_no": "129",
+    "origin": "Huttwyl",
+    "birth_year": "1819",
+    "household": "827 Fr. - Anna Wyß a. Meikirch.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 819 Jakob, Notar, a. Huttwyl - II, 129. 827 Fr. - Anna Wyß a. Meikirch."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Bregger.",
+    "place": "Bern",
+    "surname": "Bregger",
+    "forename": "Dionisius",
+    "title": "",
+    "occupation": "Eisenhändler",
+    "address": "III, 62",
+    "quarter": "III",
+    "street": "",
+    "house_no": "62",
+    "origin": "Bernauhof im Badischen",
+    "birth_year": "1794",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 794 Dionisius, Eisenhändler, a. Bernauhof im Badischen - III, 62."
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Breitfeld, bern. Landsassen.",
+    "place": "Bern",
+    "surname": "Breitfeld",
+    "forename": "Anna Elisa, Rosina Katharina, Maria Charlotte",
+    "title": "",
+    "occupation": "",
+    "address": "I, 217",
+    "quarter": "I",
+    "street": "",
+    "house_no": "217",
+    "origin": "",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1-3 814 Anna Elisa, - 16 Rosina Katharina, - 19 Maria Charlotte - I, 217."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:59:18+01:00",
+ "last_error": null
+}

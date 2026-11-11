@@ -1,0 +1,278 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 198,
+ "section": "beamte",
+ "started": "2026-11-11T22:13:58+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 19.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2428,
+  "output": 2402,
+  "thoughts": 466
+ },
+ "response_text": "{\n  \"printed_page\": \"185\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 185 —\"},\n    {\"n\": 2, \"text\": \"Nachtrag.\"},\n    {\"n\": 3, \"text\": \"Nr. Geb.\"},\n    {\"n\": 4, \"text\": \"Baumann.\"},\n    {\"n\": 5, \"text\": \"6 784 Anna, geb. Marti, Küchlerin, a. Hasle b. B. – IV, 257.\"},\n    {\"n\": 6, \"text\": \"Bieri.\"},\n    {\"n\": 7, \"text\": \"5 809 Andreas, Hauseigenthümer und Steinhauergesell, aus\"},\n    {\"n\": 8, \"text\": \"Schangnau – VII. 157.\"},\n    {\"n\": 9, \"text\": \"806 Fr. – Magd. Staudenmann.\"},\n    {\"n\": 10, \"text\": \"5 K. – 831 Margaritha. – 35 Andreas. – 39 Christian.\"},\n    {\"n\": 11, \"text\": \"– 42 Samuel. – 45 Maria.\"},\n    {\"n\": 12, \"text\": \"Blatter.\"},\n    {\"n\": 13, \"text\": \"1 810 Johann Rudolf, Kontroleur der Hypothekarkasse, aus\"},\n    {\"n\": 14, \"text\": \"Unterseen – IV, 119.\"},\n    {\"n\": 15, \"text\": \"818 Fr. – Maria Eberhard.\"},\n    {\"n\": 16, \"text\": \"Gammeter.\"},\n    {\"n\": 17, \"text\": \"804 Friedrich, Mehlhändler u. Salzauswäger, Ehemann v. 1.\"},\n    {\"n\": 18, \"text\": \"Joß.\"},\n    {\"n\": 19, \"text\": \"3 813 Samuel, Dachdecker, a. Gerolfingen – II, 236.\"},\n    {\"n\": 20, \"text\": \"819 Fr. – Maria Herzig.\"},\n    {\"n\": 21, \"text\": \"Kähr.\"},\n    {\"n\": 22, \"text\": \"2 777 Verena, geb. Wirth, Küchlerin, a. Rüderswyl – II, 61.\"},\n    {\"n\": 23, \"text\": \"3 K. – 813 Maria. – 14 Friedrich. – 15 Johannes.\"},\n    {\"n\": 24, \"text\": \"Lamy.\"},\n    {\"n\": 25, \"text\": \"1 788 Johann Franz Anton, Kolorist, a. Hüningen – IV, 36.\"},\n    {\"n\": 26, \"text\": \"4 K. – 826 Karl. – (Die übrigen sind fort.)\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Baumann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumann\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Küchlerin\",\n      \"address\": \"IV, 257\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"257\",\n      \"origin\": \"Hasle b. B.\",\n      \"birth_year\": \"1784\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel. Geburtsname: Marti\",\n      \"text\": \"6 784 Anna, geb. Marti, Küchlerin, a. Hasle b. B. – IV, 257.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Bieri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bieri\",\n      \"forename\": \"Andreas\",\n      \"title\": \"\",\n      \"occupation\": \"Hauseigenthümer und Steinhauergesell\",\n      \"address\": \"VII. 157\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"157\",\n      \"origin\": \"Schangnau\",\n      \"birth_year\": \"1809\",\n      \"household\": \"806 Fr. – Magd. Staudenmann. 5 K. – 831 Margaritha. – 35 Andreas. – 39 Christian. – 42 Samuel. – 45 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 809 Andreas, Hauseigenthümer und Steinhauergesell, aus Schangnau – VII. 157. 806 Fr. – Magd. Staudenmann. 5 K. – 831 Margaritha. – 35 Andreas. – 39 Christian. – 42 Samuel. – 45 Maria.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Blatter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blatter\",\n      \"forename\": \"Johann Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Kontroleur der Hypothekarkasse\",\n      \"address\": \"IV, 119\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"119\",\n      \"origin\": \"Unterseen\",\n      \"birth_year\": \"1810\",\n      \"household\": \"818 Fr. – Maria Eberhard.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Johann Rudolf, Kontroleur der Hypothekarkasse, aus Unterseen – IV, 119. 818 Fr. – Maria Eberhard.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Gammeter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gammeter\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlhändler u. Salzauswäger\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"1804\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"804 Friedrich, Mehlhändler u. Salzauswäger, Ehemann v. 1.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Joß.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Joß\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"II, 236\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"236\",\n      \"origin\": \"Gerolfingen\",\n      \"birth_year\": \"1813\",\n      \"household\": \"819 Fr. – Maria Herzig.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 813 Samuel, Dachdecker, a. Gerolfingen – II, 236. 819 Fr. – Maria Herzig.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Kähr.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kähr\",\n      \"forename\": \"Verena\",\n      \"title\": \"\",\n      \"occupation\": \"Küchlerin\",\n      \"address\": \"II, 61\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"Rüderswyl\",\n      \"birth_year\": \"1777\",\n      \"household\": \"3 K. – 813 Maria. – 14 Friedrich. – 15 Johannes.\",\n      \"note\": \"Name aus Zwischentitel. Geburtsname: Wirth\",\n      \"text\": \"2 777 Verena, geb. Wirth, Küchlerin, a. Rüderswyl – II, 61. 3 K. – 813 Maria. – 14 Friedrich. – 15 Johannes.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Lamy.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lamy\",\n      \"forename\": \"Johann Franz Anton\",\n      \"title\": \"\",\n      \"occupation\": \"Kolorist\",\n      \"address\": \"IV, 36\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"Hüningen\",\n      \"birth_year\": \"1788\",\n      \"household\": \"4 K. – 826 Karl. – (Die übrigen sind fort.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 788 Johann Franz Anton, Kolorist, a. Hüningen – IV, 36. 4 K. – 826 Karl. – (Die übrigen sind fort.)\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "185",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 185 —"
+   },
+   {
+    "n": 2,
+    "text": "Nachtrag."
+   },
+   {
+    "n": 3,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 4,
+    "text": "Baumann."
+   },
+   {
+    "n": 5,
+    "text": "6 784 Anna, geb. Marti, Küchlerin, a. Hasle b. B. – IV, 257."
+   },
+   {
+    "n": 6,
+    "text": "Bieri."
+   },
+   {
+    "n": 7,
+    "text": "5 809 Andreas, Hauseigenthümer und Steinhauergesell, aus"
+   },
+   {
+    "n": 8,
+    "text": "Schangnau – VII. 157."
+   },
+   {
+    "n": 9,
+    "text": "806 Fr. – Magd. Staudenmann."
+   },
+   {
+    "n": 10,
+    "text": "5 K. – 831 Margaritha. – 35 Andreas. – 39 Christian."
+   },
+   {
+    "n": 11,
+    "text": "– 42 Samuel. – 45 Maria."
+   },
+   {
+    "n": 12,
+    "text": "Blatter."
+   },
+   {
+    "n": 13,
+    "text": "1 810 Johann Rudolf, Kontroleur der Hypothekarkasse, aus"
+   },
+   {
+    "n": 14,
+    "text": "Unterseen – IV, 119."
+   },
+   {
+    "n": 15,
+    "text": "818 Fr. – Maria Eberhard."
+   },
+   {
+    "n": 16,
+    "text": "Gammeter."
+   },
+   {
+    "n": 17,
+    "text": "804 Friedrich, Mehlhändler u. Salzauswäger, Ehemann v. 1."
+   },
+   {
+    "n": 18,
+    "text": "Joß."
+   },
+   {
+    "n": 19,
+    "text": "3 813 Samuel, Dachdecker, a. Gerolfingen – II, 236."
+   },
+   {
+    "n": 20,
+    "text": "819 Fr. – Maria Herzig."
+   },
+   {
+    "n": 21,
+    "text": "Kähr."
+   },
+   {
+    "n": 22,
+    "text": "2 777 Verena, geb. Wirth, Küchlerin, a. Rüderswyl – II, 61."
+   },
+   {
+    "n": 23,
+    "text": "3 K. – 813 Maria. – 14 Friedrich. – 15 Johannes."
+   },
+   {
+    "n": 24,
+    "text": "Lamy."
+   },
+   {
+    "n": 25,
+    "text": "1 788 Johann Franz Anton, Kolorist, a. Hüningen – IV, 36."
+   },
+   {
+    "n": 26,
+    "text": "4 K. – 826 Karl. – (Die übrigen sind fort.)"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Baumann.",
+    "place": "Bern",
+    "surname": "Baumann",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Küchlerin",
+    "address": "IV, 257",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "257",
+    "origin": "Hasle b. B.",
+    "birth_year": "1784",
+    "household": "",
+    "note": "Name aus Zwischentitel. Geburtsname: Marti",
+    "text": "6 784 Anna, geb. Marti, Küchlerin, a. Hasle b. B. – IV, 257."
+   },
+   {
+    "line_from": 7,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Bieri.",
+    "place": "Bern",
+    "surname": "Bieri",
+    "forename": "Andreas",
+    "title": "",
+    "occupation": "Hauseigenthümer und Steinhauergesell",
+    "address": "VII. 157",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "157",
+    "origin": "Schangnau",
+    "birth_year": "1809",
+    "household": "806 Fr. – Magd. Staudenmann. 5 K. – 831 Margaritha. – 35 Andreas. – 39 Christian. – 42 Samuel. – 45 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 809 Andreas, Hauseigenthümer und Steinhauergesell, aus Schangnau – VII. 157. 806 Fr. – Magd. Staudenmann. 5 K. – 831 Margaritha. – 35 Andreas. – 39 Christian. – 42 Samuel. – 45 Maria."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Blatter.",
+    "place": "Bern",
+    "surname": "Blatter",
+    "forename": "Johann Rudolf",
+    "title": "",
+    "occupation": "Kontroleur der Hypothekarkasse",
+    "address": "IV, 119",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "119",
+    "origin": "Unterseen",
+    "birth_year": "1810",
+    "household": "818 Fr. – Maria Eberhard.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Johann Rudolf, Kontroleur der Hypothekarkasse, aus Unterseen – IV, 119. 818 Fr. – Maria Eberhard."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Gammeter.",
+    "place": "Bern",
+    "surname": "Gammeter",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Mehlhändler u. Salzauswäger",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "1804",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "804 Friedrich, Mehlhändler u. Salzauswäger, Ehemann v. 1."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Joß.",
+    "place": "Bern",
+    "surname": "Joß",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "II, 236",
+    "quarter": "II",
+    "street": "",
+    "house_no": "236",
+    "origin": "Gerolfingen",
+    "birth_year": "1813",
+    "household": "819 Fr. – Maria Herzig.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 813 Samuel, Dachdecker, a. Gerolfingen – II, 236. 819 Fr. – Maria Herzig."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Kähr.",
+    "place": "Bern",
+    "surname": "Kähr",
+    "forename": "Verena",
+    "title": "",
+    "occupation": "Küchlerin",
+    "address": "II, 61",
+    "quarter": "II",
+    "street": "",
+    "house_no": "61",
+    "origin": "Rüderswyl",
+    "birth_year": "1777",
+    "household": "3 K. – 813 Maria. – 14 Friedrich. – 15 Johannes.",
+    "note": "Name aus Zwischentitel. Geburtsname: Wirth",
+    "text": "2 777 Verena, geb. Wirth, Küchlerin, a. Rüderswyl – II, 61. 3 K. – 813 Maria. – 14 Friedrich. – 15 Johannes."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Lamy.",
+    "place": "Bern",
+    "surname": "Lamy",
+    "forename": "Johann Franz Anton",
+    "title": "",
+    "occupation": "Kolorist",
+    "address": "IV, 36",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "36",
+    "origin": "Hüningen",
+    "birth_year": "1788",
+    "household": "4 K. – 826 Karl. – (Die übrigen sind fort.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 788 Johann Franz Anton, Kolorist, a. Hüningen – IV, 36. 4 K. – 826 Karl. – (Die übrigen sind fort.)"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:14:18+01:00",
+ "last_error": null
+}

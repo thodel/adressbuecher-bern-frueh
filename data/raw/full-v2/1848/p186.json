@@ -1,0 +1,442 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 186,
+ "section": "einsassen",
+ "started": "2026-11-11T22:12:49+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 27.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4361,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"173\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 173 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Wiki.\"},\n    {\"n\": 4, \"text\": \"1 783 Joseph, Geiger und Dachdecker, a. Heidigenbühl, K.\"},\n    {\"n\": 5, \"text\": \"Luzern — II, 262.\"},\n    {\"n\": 6, \"text\": \"788 Fr. II Ehe. Kath. Haas a. Escholzmatt.\"},\n    {\"n\": 7, \"text\": \"5 K. — 810 Anna Maria Katharina. — 14 Joseph\"},\n    {\"n\": 8, \"text\": \"Anton. — 19 Anna Maria Katharina. — 26 Elisabetha.\"},\n    {\"n\": 9, \"text\": \"— 32 Jakob.\"},\n    {\"n\": 10, \"text\": \"Widmer.\"},\n    {\"n\": 11, \"text\": \"1 788 Barb., verw. Peter, geb. Niffenegger, Essigfabrikantin,\"},\n    {\"n\": 12, \"text\": \"a. Langnau — V, 163.\"},\n    {\"n\": 13, \"text\": \"2 802 Peter, Spezerei= und Merceriehändler, a. Walkringen\"},\n    {\"n\": 14, \"text\": \"— III, 53.\"},\n    {\"n\": 15, \"text\": \"805 Fr. — Kath. Probst a. Ins.\"},\n    {\"n\": 16, \"text\": \"3 798 Kaspar, Kellerhalter, aus Gränichen, K. Aargau -\"},\n    {\"n\": 17, \"text\": \"IV, 204.\"},\n    {\"n\": 18, \"text\": \"792 Fr. II Ehe. — Christina Burri a. Schüpfen.\"},\n    {\"n\": 19, \"text\": \"3 K. — 828 Margaretha. — 30 Gottlieb Joh. Niklaus.\"},\n    {\"n\": 20, \"text\": \"— 33 Joh. Gottlieb.\"},\n    {\"n\": 21, \"text\": \"4 790 Joh. Jakob, Tuchscheerer, a. Signau — IV, 81.\"},\n    {\"n\": 22, \"text\": \"798 Fr. — Anna Meyer a. Kirchdorf.\"},\n    {\"n\": 23, \"text\": \"6 K. — 819 Anna Maria. — 21 Maria Elisabetha. —\"},\n    {\"n\": 24, \"text\": \"26 Friedrich. — 27 Jakob Rud. — 29 Anna Magd. —\"},\n    {\"n\": 25, \"text\": \"34 Rosina Kath.\"},\n    {\"n\": 26, \"text\": \"Wiedmer.\"},\n    {\"n\": 27, \"text\": \"1 801 Joh. Jakob, Handelsreisender, a. Hasle b. B. — II, 165.\"},\n    {\"n\": 28, \"text\": \"824 Fr. II Ehe. — Karoline Richard a. Wynau.\"},\n    {\"n\": 29, \"text\": \"1 S. aus I Ehe. — 843 Joh. Friedrich.\"},\n    {\"n\": 30, \"text\": \"2 820 Joh. Kaspar, Schneider, a. Hittingen, K. St. Gallen\"},\n    {\"n\": 31, \"text\": \"— IV, 95.\"},\n    {\"n\": 32, \"text\": \"817 Fr. — Sus. Meyer a. Mönthal, K. Aargau.\"},\n    {\"n\": 33, \"text\": \"1 S. — 847 Alfred Joseph.\"},\n    {\"n\": 34, \"text\": \"3 805 Jakob, Milch- und Butterhändler u. Kellerhalter, a.\"},\n    {\"n\": 35, \"text\": \"Eggiwyl — VII, 90.\"},\n    {\"n\": 36, \"text\": \"804 Fr. — Elis. Moser a. Stocken.\"},\n    {\"n\": 37, \"text\": \"8 K. — 826 Samuel. — 28 Christian. — 29 Anna. —\"},\n    {\"n\": 38, \"text\": \"34 Elisabetha. — 37 Jakob. — 40 Ulrich. — 42 Maria.\"},\n    {\"n\": 39, \"text\": \"— 44 Friedrich.\"},\n    {\"n\": 40, \"text\": \"Wiesel a. Chardonnay.\"},\n    {\"n\": 41, \"text\": \"1 789 Anna Maria, geb. Lüscher, Obsthändlerin — III, 225.\"},\n    {\"n\": 42, \"text\": \"1 T. — 813 Maria.\"},\n    {\"n\": 43, \"text\": \"2 Benedikt, Schuhmacher — II, 229.\"},\n    {\"n\": 44, \"text\": \"Wieser.\"},\n    {\"n\": 45, \"text\": \"1 787 Salomon, Schuhmacher, a. Feuerthalen, K. Zürich — I, 30.\"},\n    {\"n\": 46, \"text\": \"Fr. III Ehe. — Anna Maria Zryd v. Frutigen.\"},\n    {\"n\": 47, \"text\": \"1 S. — 841 Rudolf.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Wiki\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wiki\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Geiger und Dachdecker\",\n      \"address\": \"II, 262\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"262\",\n      \"origin\": \"Heidigenbühl, K. Luzern\",\n      \"birth_year\": \"1783\",\n      \"household\": \"788 Fr. II Ehe. Kath. Haas a. Escholzmatt. — 5 K. — 810 Anna Maria Katharina. — 14 Joseph Anton. — 19 Anna Maria Katharina. — 26 Elisabetha. — 32 Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 783 Joseph, Geiger und Dachdecker, a. Heidigenbühl, K. Luzern — II, 262. 788 Fr. II Ehe. Kath. Haas a. Escholzmatt. 5 K. — 810 Anna Maria Katharina. — 14 Joseph Anton. — 19 Anna Maria Katharina. — 26 Elisabetha. — 32 Jakob.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Widmer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Widmer\",\n      \"forename\": \"Barb.\",\n      \"title\": \"\",\n      \"occupation\": \"Essigfabrikantin\",\n      \"address\": \"V, 163\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"163\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1788\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 788 Barb., verw. Peter, geb. Niffenegger, Essigfabrikantin, a. Langnau — V, 163.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Widmer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Widmer\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Spezerei- und Merceriehändler\",\n      \"address\": \"III, 53\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"53\",\n      \"origin\": \"Walkringen\",\n      \"birth_year\": \"1802\",\n      \"household\": \"805 Fr. — Kath. Probst a. Ins.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 802 Peter, Spezerei- und Merceriehändler, a. Walkringen — III, 53. 805 Fr. — Kath. Probst a. Ins.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Widmer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Widmer\",\n      \"forename\": \"Kaspar\",\n      \"title\": \"\",\n      \"occupation\": \"Kellerhalter\",\n      \"address\": \"IV, 204\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"204\",\n      \"origin\": \"Gränichen, K. Aargau\",\n      \"birth_year\": \"1798\",\n      \"household\": \"792 Fr. II Ehe. — Christina Burri a. Schüpfen. — 3 K. — 828 Margaretha. — 30 Gottlieb Joh. Niklaus. — 33 Joh. Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 798 Kaspar, Kellerhalter, aus Gränichen, K. Aargau - IV, 204. 792 Fr. II Ehe. — Christina Burri a. Schüpfen. 3 K. — 828 Margaretha. — 30 Gottlieb Joh. Niklaus. — 33 Joh. Gottlieb.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Widmer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Widmer\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Tuchscheerer\",\n      \"address\": \"IV, 81\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"81\",\n      \"origin\": \"Signau\",\n      \"birth_year\": \"1790\",\n      \"household\": \"798 Fr. — Anna Meyer a. Kirchdorf. — 6 K. — 819 Anna Maria. — 21 Maria Elisabetha. — 26 Friedrich. — 27 Jakob Rud. — 29 Anna Magd. — 34 Rosina Kath.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 790 Joh. Jakob, Tuchscheerer, a. Signau — IV, 81. 798 Fr. — Anna Meyer a. Kirchdorf. 6 K. — 819 Anna Maria. — 21 Maria Elisabetha. — 26 Friedrich. — 27 Jakob Rud. — 29 Anna Magd. — 34 Rosina Kath.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Wiedmer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wiedmer\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsreisender\",\n      \"address\": \"II, 165\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"165\",\n      \"origin\": \"Hasle b. B.\",\n      \"birth_year\": \"1801\",\n      \"household\": \"824 Fr. II Ehe. — Karoline Richard a. Wynau. — 1 S. aus I Ehe. — 843 Joh. Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 801 Joh. Jakob, Handelsreisender, a. Hasle b. B. — II, 165. 824 Fr. II Ehe. — Karoline Richard a. Wynau. 1 S. aus I Ehe. — 843 Joh. Friedrich.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Wiedmer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wiedmer\",\n      \"forename\": \"Joh. Kaspar\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 95\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"Hittingen, K. St. Gallen\",\n      \"birth_year\": \"1820\",\n      \"household\": \"817 Fr. — Sus. Meyer a. Mönthal, K. Aargau. — 1 S. — 847 Alfred Joseph.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 820 Joh. Kaspar, Schneider, a. Hittingen, K. St. Gallen — IV, 95. 817 Fr. — Sus. Meyer a. Mönthal, K. Aargau. 1 S. — 847 Alfred Joseph.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Wiedmer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wiedmer\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Milch- und Butterhändler u. Kellerhalter\",\n      \"address\": \"VII, 90\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"90\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1805\",\n      \"household\": \"804 Fr. — Elis. Moser a. Stocken. — 8 K. — 826 Samuel. — 28 Christian. — 29 Anna. — 34 Elisabetha. — 37 Jakob. — 40 Ulrich. — 42 Maria. — 44 Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 805 Jakob, Milch- und Butterhändler u. Kellerhalter, a. Eggiwyl — VII, 90. 804 Fr. — Elis. Moser a. Stocken. 8 K. — 826 Samuel. — 28 Christian. — 29 Anna. — 34 Elisabetha. — 37 Jakob. — 40 Ulrich. — 42 Maria. — 44 Friedrich.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Wiesel a. Chardonnay\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wiesel\",\n      \"forename\": \"Anna Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Obsthändlerin\",\n      \"address\": \"III, 225\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"225\",\n      \"origin\": \"Chardonnay\",\n      \"birth_year\": \"1789\",\n      \"household\": \"1 T. — 813 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 789 Anna Maria, geb. Lüscher, Obsthändlerin — III, 225. 1 T. — 813 Maria.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Wiesel a. Chardonnay\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wiesel\",\n      \"forename\": \"Benedikt\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 229\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"229\",\n      \"origin\": \"Chardonnay\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 Benedikt, Schuhmacher — II, 229.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Wieser\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wieser\",\n      \"forename\": \"Salomon\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"I, 30\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"30\",\n      \"origin\": \"Feuerthalen, K. Zürich\",\n      \"birth_year\": \"1787\",\n      \"household\": \"Fr. III Ehe. — Anna Maria Zryd v. Frutigen. — 1 S. — 841 Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 787 Salomon, Schuhmacher, a. Feuerthalen, K. Zürich — I, 30. Fr. III Ehe. — Anna Maria Zryd v. Frutigen. 1 S. — 841 Rudolf.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "173",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 173 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Wiki."
+   },
+   {
+    "n": 4,
+    "text": "1 783 Joseph, Geiger und Dachdecker, a. Heidigenbühl, K."
+   },
+   {
+    "n": 5,
+    "text": "Luzern — II, 262."
+   },
+   {
+    "n": 6,
+    "text": "788 Fr. II Ehe. Kath. Haas a. Escholzmatt."
+   },
+   {
+    "n": 7,
+    "text": "5 K. — 810 Anna Maria Katharina. — 14 Joseph"
+   },
+   {
+    "n": 8,
+    "text": "Anton. — 19 Anna Maria Katharina. — 26 Elisabetha."
+   },
+   {
+    "n": 9,
+    "text": "— 32 Jakob."
+   },
+   {
+    "n": 10,
+    "text": "Widmer."
+   },
+   {
+    "n": 11,
+    "text": "1 788 Barb., verw. Peter, geb. Niffenegger, Essigfabrikantin,"
+   },
+   {
+    "n": 12,
+    "text": "a. Langnau — V, 163."
+   },
+   {
+    "n": 13,
+    "text": "2 802 Peter, Spezerei= und Merceriehändler, a. Walkringen"
+   },
+   {
+    "n": 14,
+    "text": "— III, 53."
+   },
+   {
+    "n": 15,
+    "text": "805 Fr. — Kath. Probst a. Ins."
+   },
+   {
+    "n": 16,
+    "text": "3 798 Kaspar, Kellerhalter, aus Gränichen, K. Aargau -"
+   },
+   {
+    "n": 17,
+    "text": "IV, 204."
+   },
+   {
+    "n": 18,
+    "text": "792 Fr. II Ehe. — Christina Burri a. Schüpfen."
+   },
+   {
+    "n": 19,
+    "text": "3 K. — 828 Margaretha. — 30 Gottlieb Joh. Niklaus."
+   },
+   {
+    "n": 20,
+    "text": "— 33 Joh. Gottlieb."
+   },
+   {
+    "n": 21,
+    "text": "4 790 Joh. Jakob, Tuchscheerer, a. Signau — IV, 81."
+   },
+   {
+    "n": 22,
+    "text": "798 Fr. — Anna Meyer a. Kirchdorf."
+   },
+   {
+    "n": 23,
+    "text": "6 K. — 819 Anna Maria. — 21 Maria Elisabetha. —"
+   },
+   {
+    "n": 24,
+    "text": "26 Friedrich. — 27 Jakob Rud. — 29 Anna Magd. —"
+   },
+   {
+    "n": 25,
+    "text": "34 Rosina Kath."
+   },
+   {
+    "n": 26,
+    "text": "Wiedmer."
+   },
+   {
+    "n": 27,
+    "text": "1 801 Joh. Jakob, Handelsreisender, a. Hasle b. B. — II, 165."
+   },
+   {
+    "n": 28,
+    "text": "824 Fr. II Ehe. — Karoline Richard a. Wynau."
+   },
+   {
+    "n": 29,
+    "text": "1 S. aus I Ehe. — 843 Joh. Friedrich."
+   },
+   {
+    "n": 30,
+    "text": "2 820 Joh. Kaspar, Schneider, a. Hittingen, K. St. Gallen"
+   },
+   {
+    "n": 31,
+    "text": "— IV, 95."
+   },
+   {
+    "n": 32,
+    "text": "817 Fr. — Sus. Meyer a. Mönthal, K. Aargau."
+   },
+   {
+    "n": 33,
+    "text": "1 S. — 847 Alfred Joseph."
+   },
+   {
+    "n": 34,
+    "text": "3 805 Jakob, Milch- und Butterhändler u. Kellerhalter, a."
+   },
+   {
+    "n": 35,
+    "text": "Eggiwyl — VII, 90."
+   },
+   {
+    "n": 36,
+    "text": "804 Fr. — Elis. Moser a. Stocken."
+   },
+   {
+    "n": 37,
+    "text": "8 K. — 826 Samuel. — 28 Christian. — 29 Anna. —"
+   },
+   {
+    "n": 38,
+    "text": "34 Elisabetha. — 37 Jakob. — 40 Ulrich. — 42 Maria."
+   },
+   {
+    "n": 39,
+    "text": "— 44 Friedrich."
+   },
+   {
+    "n": 40,
+    "text": "Wiesel a. Chardonnay."
+   },
+   {
+    "n": 41,
+    "text": "1 789 Anna Maria, geb. Lüscher, Obsthändlerin — III, 225."
+   },
+   {
+    "n": 42,
+    "text": "1 T. — 813 Maria."
+   },
+   {
+    "n": 43,
+    "text": "2 Benedikt, Schuhmacher — II, 229."
+   },
+   {
+    "n": 44,
+    "text": "Wieser."
+   },
+   {
+    "n": 45,
+    "text": "1 787 Salomon, Schuhmacher, a. Feuerthalen, K. Zürich — I, 30."
+   },
+   {
+    "n": 46,
+    "text": "Fr. III Ehe. — Anna Maria Zryd v. Frutigen."
+   },
+   {
+    "n": 47,
+    "text": "1 S. — 841 Rudolf."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Wiki",
+    "place": "Bern",
+    "surname": "Wiki",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Geiger und Dachdecker",
+    "address": "II, 262",
+    "quarter": "II",
+    "street": "",
+    "house_no": "262",
+    "origin": "Heidigenbühl, K. Luzern",
+    "birth_year": "1783",
+    "household": "788 Fr. II Ehe. Kath. Haas a. Escholzmatt. — 5 K. — 810 Anna Maria Katharina. — 14 Joseph Anton. — 19 Anna Maria Katharina. — 26 Elisabetha. — 32 Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 783 Joseph, Geiger und Dachdecker, a. Heidigenbühl, K. Luzern — II, 262. 788 Fr. II Ehe. Kath. Haas a. Escholzmatt. 5 K. — 810 Anna Maria Katharina. — 14 Joseph Anton. — 19 Anna Maria Katharina. — 26 Elisabetha. — 32 Jakob."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Widmer",
+    "place": "Bern",
+    "surname": "Widmer",
+    "forename": "Barb.",
+    "title": "",
+    "occupation": "Essigfabrikantin",
+    "address": "V, 163",
+    "quarter": "V",
+    "street": "",
+    "house_no": "163",
+    "origin": "Langnau",
+    "birth_year": "1788",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 788 Barb., verw. Peter, geb. Niffenegger, Essigfabrikantin, a. Langnau — V, 163."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Widmer",
+    "place": "Bern",
+    "surname": "Widmer",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Spezerei- und Merceriehändler",
+    "address": "III, 53",
+    "quarter": "III",
+    "street": "",
+    "house_no": "53",
+    "origin": "Walkringen",
+    "birth_year": "1802",
+    "household": "805 Fr. — Kath. Probst a. Ins.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 802 Peter, Spezerei- und Merceriehändler, a. Walkringen — III, 53. 805 Fr. — Kath. Probst a. Ins."
+   },
+   {
+    "line_from": 16,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Widmer",
+    "place": "Bern",
+    "surname": "Widmer",
+    "forename": "Kaspar",
+    "title": "",
+    "occupation": "Kellerhalter",
+    "address": "IV, 204",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "204",
+    "origin": "Gränichen, K. Aargau",
+    "birth_year": "1798",
+    "household": "792 Fr. II Ehe. — Christina Burri a. Schüpfen. — 3 K. — 828 Margaretha. — 30 Gottlieb Joh. Niklaus. — 33 Joh. Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 798 Kaspar, Kellerhalter, aus Gränichen, K. Aargau - IV, 204. 792 Fr. II Ehe. — Christina Burri a. Schüpfen. 3 K. — 828 Margaretha. — 30 Gottlieb Joh. Niklaus. — 33 Joh. Gottlieb."
+   },
+   {
+    "line_from": 21,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Widmer",
+    "place": "Bern",
+    "surname": "Widmer",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Tuchscheerer",
+    "address": "IV, 81",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "81",
+    "origin": "Signau",
+    "birth_year": "1790",
+    "household": "798 Fr. — Anna Meyer a. Kirchdorf. — 6 K. — 819 Anna Maria. — 21 Maria Elisabetha. — 26 Friedrich. — 27 Jakob Rud. — 29 Anna Magd. — 34 Rosina Kath.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 790 Joh. Jakob, Tuchscheerer, a. Signau — IV, 81. 798 Fr. — Anna Meyer a. Kirchdorf. 6 K. — 819 Anna Maria. — 21 Maria Elisabetha. — 26 Friedrich. — 27 Jakob Rud. — 29 Anna Magd. — 34 Rosina Kath."
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Wiedmer",
+    "place": "Bern",
+    "surname": "Wiedmer",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Handelsreisender",
+    "address": "II, 165",
+    "quarter": "II",
+    "street": "",
+    "house_no": "165",
+    "origin": "Hasle b. B.",
+    "birth_year": "1801",
+    "household": "824 Fr. II Ehe. — Karoline Richard a. Wynau. — 1 S. aus I Ehe. — 843 Joh. Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 801 Joh. Jakob, Handelsreisender, a. Hasle b. B. — II, 165. 824 Fr. II Ehe. — Karoline Richard a. Wynau. 1 S. aus I Ehe. — 843 Joh. Friedrich."
+   },
+   {
+    "line_from": 30,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Wiedmer",
+    "place": "Bern",
+    "surname": "Wiedmer",
+    "forename": "Joh. Kaspar",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 95",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "95",
+    "origin": "Hittingen, K. St. Gallen",
+    "birth_year": "1820",
+    "household": "817 Fr. — Sus. Meyer a. Mönthal, K. Aargau. — 1 S. — 847 Alfred Joseph.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 820 Joh. Kaspar, Schneider, a. Hittingen, K. St. Gallen — IV, 95. 817 Fr. — Sus. Meyer a. Mönthal, K. Aargau. 1 S. — 847 Alfred Joseph."
+   },
+   {
+    "line_from": 34,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Wiedmer",
+    "place": "Bern",
+    "surname": "Wiedmer",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Milch- und Butterhändler u. Kellerhalter",
+    "address": "VII, 90",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "90",
+    "origin": "Eggiwyl",
+    "birth_year": "1805",
+    "household": "804 Fr. — Elis. Moser a. Stocken. — 8 K. — 826 Samuel. — 28 Christian. — 29 Anna. — 34 Elisabetha. — 37 Jakob. — 40 Ulrich. — 42 Maria. — 44 Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 805 Jakob, Milch- und Butterhändler u. Kellerhalter, a. Eggiwyl — VII, 90. 804 Fr. — Elis. Moser a. Stocken. 8 K. — 826 Samuel. — 28 Christian. — 29 Anna. — 34 Elisabetha. — 37 Jakob. — 40 Ulrich. — 42 Maria. — 44 Friedrich."
+   },
+   {
+    "line_from": 41,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Wiesel a. Chardonnay",
+    "place": "Bern",
+    "surname": "Wiesel",
+    "forename": "Anna Maria",
+    "title": "",
+    "occupation": "Obsthändlerin",
+    "address": "III, 225",
+    "quarter": "III",
+    "street": "",
+    "house_no": "225",
+    "origin": "Chardonnay",
+    "birth_year": "1789",
+    "household": "1 T. — 813 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 789 Anna Maria, geb. Lüscher, Obsthändlerin — III, 225. 1 T. — 813 Maria."
+   },
+   {
+    "line_from": 43,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Wiesel a. Chardonnay",
+    "place": "Bern",
+    "surname": "Wiesel",
+    "forename": "Benedikt",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 229",
+    "quarter": "II",
+    "street": "",
+    "house_no": "229",
+    "origin": "Chardonnay",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 Benedikt, Schuhmacher — II, 229."
+   },
+   {
+    "line_from": 45,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Wieser",
+    "place": "Bern",
+    "surname": "Wieser",
+    "forename": "Salomon",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "I, 30",
+    "quarter": "I",
+    "street": "",
+    "house_no": "30",
+    "origin": "Feuerthalen, K. Zürich",
+    "birth_year": "1787",
+    "household": "Fr. III Ehe. — Anna Maria Zryd v. Frutigen. — 1 S. — 841 Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 787 Salomon, Schuhmacher, a. Feuerthalen, K. Zürich — I, 30. Fr. III Ehe. — Anna Maria Zryd v. Frutigen. 1 S. — 841 Rudolf."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:13:16+01:00",
+ "last_error": null
+}

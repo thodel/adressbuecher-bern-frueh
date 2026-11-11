@@ -1,0 +1,434 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 105,
+ "section": "einsassen",
+ "started": "2026-11-11T22:04:24+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 81.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4192,
+  "thoughts": 9344
+ },
+ "response_text": "{\n  \"printed_page\": \"92\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 92 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Läderich.\"},\n    {\"n\": 4, \"text\": \"1 816 Leon Alcide, a. St. Immer, privat. — II, 122 c.\"},\n    {\"n\": 5, \"text\": \"Fr. — Cäcile Louise Joos.\"},\n    {\"n\": 6, \"text\": \"3 T. — 841 Cäcile Louise. — 42 Rose Vikt. — 46\"},\n    {\"n\": 7, \"text\": \"Emilie Aug.\"},\n    {\"n\": 8, \"text\": \"Lädermann.\"},\n    {\"n\": 9, \"text\": \"1 796 Joh. Anton, Schneider, a. Lützelflüh — II, 175.\"},\n    {\"n\": 10, \"text\": \"794 Fr. II Ehe. — Anna Barb. Käppeli a. Wynau.\"},\n    {\"n\": 11, \"text\": \"2 814 Friedrich, Schmied, a. Lützelflüh — V, 18.\"},\n    {\"n\": 12, \"text\": \"803 Fr. — Elis. Schindler, geb. Blaser.\"},\n    {\"n\": 13, \"text\": \"1 S. — 846 Karl Friedrich.\"},\n    {\"n\": 14, \"text\": \"Lämmli.\"},\n    {\"n\": 15, \"text\": \"1 798 Jakob, Buchbinder, a. Ryzenbach — IV, 333.\"},\n    {\"n\": 16, \"text\": \"805 Fr. — Sophie Kath. Grob a. Harburg in Baiern.\"},\n    {\"n\": 17, \"text\": \"6 K. — 829 Sophie. — 33 Rosine. — 35 Anna Marg.\"},\n    {\"n\": 18, \"text\": \"— 38 Jakob Karl. — 40 Elise Christ. — 44 Anna Barb.\"},\n    {\"n\": 19, \"text\": \"Läng.\"},\n    {\"n\": 20, \"text\": \"1 782 Elisabetha, Kostgeberin, a. Utzenstorf — V, 146 a.\"},\n    {\"n\": 21, \"text\": \"Läuffer a. Zauggenried.\"},\n    {\"n\": 22, \"text\": \"1 805 Christian, Schuhmacher — V, 192.\"},\n    {\"n\": 23, \"text\": \"2 802 Maria, Mehlhändlerin — V, 85.\"},\n    {\"n\": 24, \"text\": \"3 791 Niklaus, Metzger — II, 67.\"},\n    {\"n\": 25, \"text\": \"800 Fr. II Ehe. — Elis. Luginbühl, geb. Junker.\"},\n    {\"n\": 26, \"text\": \"4 K. aus I Ehe. — 832 Niklaus. — 33 Maria Elis. —\"},\n    {\"n\": 27, \"text\": \"34 Magd. Louise. — 36 Elisabetha.\"},\n    {\"n\": 28, \"text\": \"Landolt.\"},\n    {\"n\": 29, \"text\": \"1 786 Rosette, geb. Gascard, Rentiere, a. Neuenstadt — III, 46.\"},\n    {\"n\": 30, \"text\": \"1 S. — 809 Titus.\"},\n    {\"n\": 31, \"text\": \"Landry.\"},\n    {\"n\": 32, \"text\": \"1 820 Elisabetha, geb. Haller, Wollenhändlerin, a. Yverdon\"},\n    {\"n\": 33, \"text\": \"— IV, 165.\"},\n    {\"n\": 34, \"text\": \"Lang.\"},\n    {\"n\": 35, \"text\": \"1 799 Daniel, Kammmacher, a. Kurzenrikenbach, K. Thurgau\"},\n    {\"n\": 36, \"text\": \"— V, 144.\"},\n    {\"n\": 37, \"text\": \"5 S. — 820 Joh. Gottlieb. — 22 Friedrich Daniel. —\"},\n    {\"n\": 38, \"text\": \"28 Dan. Gottl. — 30 Christ. Dan. — 34 Karl Heinrich.\"},\n    {\"n\": 39, \"text\": \"2 791 Elisabetha, geb. Stauffer, Wochenmarktkrämerin, a.\"},\n    {\"n\": 40, \"text\": \"Beringen, K. Schaffhausen — IV, 70.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Läderich.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Läderich\",\n      \"forename\": \"Leon Alcide\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"II, 122 c\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 c\",\n      \"origin\": \"St. Immer\",\n      \"birth_year\": \"1816\",\n      \"household\": \"Fr. — Cäcile Louise Joos. 3 T. — 841 Cäcile Louise. — 42 Rose Vikt. — 46 Emilie Aug.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Leon Alcide, a. St. Immer, privat. — II, 122 c. Fr. — Cäcile Louise Joos. 3 T. — 841 Cäcile Louise. — 42 Rose Vikt. — 46 Emilie Aug.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Lädermann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lädermann\",\n      \"forename\": \"Joh. Anton\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"II, 175\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"175\",\n      \"origin\": \"Lützelflüh\",\n      \"birth_year\": \"1796\",\n      \"household\": \"794 Fr. II Ehe. — Anna Barb. Käppeli a. Wynau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Joh. Anton, Schneider, a. Lützelflüh — II, 175. 794 Fr. II Ehe. — Anna Barb. Käppeli a. Wynau.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Lädermann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lädermann\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schmied\",\n      \"address\": \"V, 18\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"18\",\n      \"origin\": \"Lützelflüh\",\n      \"birth_year\": \"1814\",\n      \"household\": \"803 Fr. — Elis. Schindler, geb. Blaser. 1 S. — 846 Karl Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 814 Friedrich, Schmied, a. Lützelflüh — V, 18. 803 Fr. — Elis. Schindler, geb. Blaser. 1 S. — 846 Karl Friedrich.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Lämmli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lämmli\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"IV, 333\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"333\",\n      \"origin\": \"Ryzenbach\",\n      \"birth_year\": \"1798\",\n      \"household\": \"805 Fr. — Sophie Kath. Grob a. Harburg in Baiern. 6 K. — 829 Sophie. — 33 Rosine. — 35 Anna Marg. — 38 Jakob Karl. — 40 Elise Christ. — 44 Anna Barb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 798 Jakob, Buchbinder, a. Ryzenbach — IV, 333. 805 Fr. — Sophie Kath. Grob a. Harburg in Baiern. 6 K. — 829 Sophie. — 33 Rosine. — 35 Anna Marg. — 38 Jakob Karl. — 40 Elise Christ. — 44 Anna Barb.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Läng.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Läng\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Kostgeberin\",\n      \"address\": \"V, 146 a\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"146 a\",\n      \"origin\": \"Utzenstorf\",\n      \"birth_year\": \"1782\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 782 Elisabetha, Kostgeberin, a. Utzenstorf — V, 146 a.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Läuffer a. Zauggenried.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Läuffer\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 192\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"192\",\n      \"origin\": \"Zauggenried\",\n      \"birth_year\": \"1805\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Christian, Schuhmacher — V, 192.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Läuffer a. Zauggenried.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Läuffer\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlhändlerin\",\n      \"address\": \"V, 85\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"85\",\n      \"origin\": \"Zauggenried\",\n      \"birth_year\": \"1802\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 802 Maria, Mehlhändlerin — V, 85.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Läuffer a. Zauggenried.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Läuffer\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Metzger\",\n      \"address\": \"II, 67\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"67\",\n      \"origin\": \"Zauggenried\",\n      \"birth_year\": \"1791\",\n      \"household\": \"800 Fr. II Ehe. — Elis. Luginbühl, geb. Junker. 4 K. aus I Ehe. — 832 Niklaus. — 33 Maria Elis. — 34 Magd. Louise. — 36 Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 791 Niklaus, Metzger — II, 67. 800 Fr. II Ehe. — Elis. Luginbühl, geb. Junker. 4 K. aus I Ehe. — 832 Niklaus. — 33 Maria Elis. — 34 Magd. Louise. — 36 Elisabetha.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Landolt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Landolt\",\n      \"forename\": \"Rosette, geb. Gascard\",\n      \"title\": \"\",\n      \"occupation\": \"Rentiere\",\n      \"address\": \"III, 46\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"46\",\n      \"origin\": \"Neuenstadt\",\n      \"birth_year\": \"1786\",\n      \"household\": \"1 S. — 809 Titus.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 786 Rosette, geb. Gascard, Rentiere, a. Neuenstadt — III, 46. 1 S. — 809 Titus.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Landry.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Landry\",\n      \"forename\": \"Elisabetha, geb. Haller\",\n      \"title\": \"\",\n      \"occupation\": \"Wollenhändlerin\",\n      \"address\": \"IV, 165\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"165\",\n      \"origin\": \"Yverdon\",\n      \"birth_year\": \"1820\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 820 Elisabetha, geb. Haller, Wollenhändlerin, a. Yverdon — IV, 165.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Lang.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lang\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Kammmacher\",\n      \"address\": \"V, 144\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"144\",\n      \"origin\": \"Kurzenrikenbach, K. Thurgau\",\n      \"birth_year\": \"1799\",\n      \"household\": \"5 S. — 820 Joh. Gottlieb. — 22 Friedrich Daniel. — 28 Dan. Gottl. — 30 Christ. Dan. — 34 Karl Heinrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Daniel, Kammmacher, a. Kurzenrikenbach, K. Thurgau — V, 144. 5 S. — 820 Joh. Gottlieb. — 22 Friedrich Daniel. — 28 Dan. Gottl. — 30 Christ. Dan. — 34 Karl Heinrich.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Lang.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lang\",\n      \"forename\": \"Elisabetha, geb. Stauffer\",\n      \"title\": \"\",\n      \"occupation\": \"Wochenmarktkrämerin\",\n      \"address\": \"IV, 70\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"70\",\n      \"origin\": \"Beringen, K. Schaffhausen\",\n      \"birth_year\": \"1791\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 791 Elisabetha, geb. Stauffer, Wochenmarktkrämerin, a. Beringen, K. Schaffhausen — IV, 70.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "92",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 92 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Läderich."
+   },
+   {
+    "n": 4,
+    "text": "1 816 Leon Alcide, a. St. Immer, privat. — II, 122 c."
+   },
+   {
+    "n": 5,
+    "text": "Fr. — Cäcile Louise Joos."
+   },
+   {
+    "n": 6,
+    "text": "3 T. — 841 Cäcile Louise. — 42 Rose Vikt. — 46"
+   },
+   {
+    "n": 7,
+    "text": "Emilie Aug."
+   },
+   {
+    "n": 8,
+    "text": "Lädermann."
+   },
+   {
+    "n": 9,
+    "text": "1 796 Joh. Anton, Schneider, a. Lützelflüh — II, 175."
+   },
+   {
+    "n": 10,
+    "text": "794 Fr. II Ehe. — Anna Barb. Käppeli a. Wynau."
+   },
+   {
+    "n": 11,
+    "text": "2 814 Friedrich, Schmied, a. Lützelflüh — V, 18."
+   },
+   {
+    "n": 12,
+    "text": "803 Fr. — Elis. Schindler, geb. Blaser."
+   },
+   {
+    "n": 13,
+    "text": "1 S. — 846 Karl Friedrich."
+   },
+   {
+    "n": 14,
+    "text": "Lämmli."
+   },
+   {
+    "n": 15,
+    "text": "1 798 Jakob, Buchbinder, a. Ryzenbach — IV, 333."
+   },
+   {
+    "n": 16,
+    "text": "805 Fr. — Sophie Kath. Grob a. Harburg in Baiern."
+   },
+   {
+    "n": 17,
+    "text": "6 K. — 829 Sophie. — 33 Rosine. — 35 Anna Marg."
+   },
+   {
+    "n": 18,
+    "text": "— 38 Jakob Karl. — 40 Elise Christ. — 44 Anna Barb."
+   },
+   {
+    "n": 19,
+    "text": "Läng."
+   },
+   {
+    "n": 20,
+    "text": "1 782 Elisabetha, Kostgeberin, a. Utzenstorf — V, 146 a."
+   },
+   {
+    "n": 21,
+    "text": "Läuffer a. Zauggenried."
+   },
+   {
+    "n": 22,
+    "text": "1 805 Christian, Schuhmacher — V, 192."
+   },
+   {
+    "n": 23,
+    "text": "2 802 Maria, Mehlhändlerin — V, 85."
+   },
+   {
+    "n": 24,
+    "text": "3 791 Niklaus, Metzger — II, 67."
+   },
+   {
+    "n": 25,
+    "text": "800 Fr. II Ehe. — Elis. Luginbühl, geb. Junker."
+   },
+   {
+    "n": 26,
+    "text": "4 K. aus I Ehe. — 832 Niklaus. — 33 Maria Elis. —"
+   },
+   {
+    "n": 27,
+    "text": "34 Magd. Louise. — 36 Elisabetha."
+   },
+   {
+    "n": 28,
+    "text": "Landolt."
+   },
+   {
+    "n": 29,
+    "text": "1 786 Rosette, geb. Gascard, Rentiere, a. Neuenstadt — III, 46."
+   },
+   {
+    "n": 30,
+    "text": "1 S. — 809 Titus."
+   },
+   {
+    "n": 31,
+    "text": "Landry."
+   },
+   {
+    "n": 32,
+    "text": "1 820 Elisabetha, geb. Haller, Wollenhändlerin, a. Yverdon"
+   },
+   {
+    "n": 33,
+    "text": "— IV, 165."
+   },
+   {
+    "n": 34,
+    "text": "Lang."
+   },
+   {
+    "n": 35,
+    "text": "1 799 Daniel, Kammmacher, a. Kurzenrikenbach, K. Thurgau"
+   },
+   {
+    "n": 36,
+    "text": "— V, 144."
+   },
+   {
+    "n": 37,
+    "text": "5 S. — 820 Joh. Gottlieb. — 22 Friedrich Daniel. —"
+   },
+   {
+    "n": 38,
+    "text": "28 Dan. Gottl. — 30 Christ. Dan. — 34 Karl Heinrich."
+   },
+   {
+    "n": 39,
+    "text": "2 791 Elisabetha, geb. Stauffer, Wochenmarktkrämerin, a."
+   },
+   {
+    "n": 40,
+    "text": "Beringen, K. Schaffhausen — IV, 70."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Läderich.",
+    "place": "Bern",
+    "surname": "Läderich",
+    "forename": "Leon Alcide",
+    "title": "",
+    "occupation": "privat.",
+    "address": "II, 122 c",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 c",
+    "origin": "St. Immer",
+    "birth_year": "1816",
+    "household": "Fr. — Cäcile Louise Joos. 3 T. — 841 Cäcile Louise. — 42 Rose Vikt. — 46 Emilie Aug.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Leon Alcide, a. St. Immer, privat. — II, 122 c. Fr. — Cäcile Louise Joos. 3 T. — 841 Cäcile Louise. — 42 Rose Vikt. — 46 Emilie Aug."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Lädermann.",
+    "place": "Bern",
+    "surname": "Lädermann",
+    "forename": "Joh. Anton",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "II, 175",
+    "quarter": "II",
+    "street": "",
+    "house_no": "175",
+    "origin": "Lützelflüh",
+    "birth_year": "1796",
+    "household": "794 Fr. II Ehe. — Anna Barb. Käppeli a. Wynau.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Joh. Anton, Schneider, a. Lützelflüh — II, 175. 794 Fr. II Ehe. — Anna Barb. Käppeli a. Wynau."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Lädermann.",
+    "place": "Bern",
+    "surname": "Lädermann",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Schmied",
+    "address": "V, 18",
+    "quarter": "V",
+    "street": "",
+    "house_no": "18",
+    "origin": "Lützelflüh",
+    "birth_year": "1814",
+    "household": "803 Fr. — Elis. Schindler, geb. Blaser. 1 S. — 846 Karl Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 814 Friedrich, Schmied, a. Lützelflüh — V, 18. 803 Fr. — Elis. Schindler, geb. Blaser. 1 S. — 846 Karl Friedrich."
+   },
+   {
+    "line_from": 15,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Lämmli.",
+    "place": "Bern",
+    "surname": "Lämmli",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "IV, 333",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "333",
+    "origin": "Ryzenbach",
+    "birth_year": "1798",
+    "household": "805 Fr. — Sophie Kath. Grob a. Harburg in Baiern. 6 K. — 829 Sophie. — 33 Rosine. — 35 Anna Marg. — 38 Jakob Karl. — 40 Elise Christ. — 44 Anna Barb.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 798 Jakob, Buchbinder, a. Ryzenbach — IV, 333. 805 Fr. — Sophie Kath. Grob a. Harburg in Baiern. 6 K. — 829 Sophie. — 33 Rosine. — 35 Anna Marg. — 38 Jakob Karl. — 40 Elise Christ. — 44 Anna Barb."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Läng.",
+    "place": "Bern",
+    "surname": "Läng",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Kostgeberin",
+    "address": "V, 146 a",
+    "quarter": "V",
+    "street": "",
+    "house_no": "146 a",
+    "origin": "Utzenstorf",
+    "birth_year": "1782",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 782 Elisabetha, Kostgeberin, a. Utzenstorf — V, 146 a."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Läuffer a. Zauggenried.",
+    "place": "Bern",
+    "surname": "Läuffer",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 192",
+    "quarter": "V",
+    "street": "",
+    "house_no": "192",
+    "origin": "Zauggenried",
+    "birth_year": "1805",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Christian, Schuhmacher — V, 192."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Läuffer a. Zauggenried.",
+    "place": "Bern",
+    "surname": "Läuffer",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Mehlhändlerin",
+    "address": "V, 85",
+    "quarter": "V",
+    "street": "",
+    "house_no": "85",
+    "origin": "Zauggenried",
+    "birth_year": "1802",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 802 Maria, Mehlhändlerin — V, 85."
+   },
+   {
+    "line_from": 24,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Läuffer a. Zauggenried.",
+    "place": "Bern",
+    "surname": "Läuffer",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Metzger",
+    "address": "II, 67",
+    "quarter": "II",
+    "street": "",
+    "house_no": "67",
+    "origin": "Zauggenried",
+    "birth_year": "1791",
+    "household": "800 Fr. II Ehe. — Elis. Luginbühl, geb. Junker. 4 K. aus I Ehe. — 832 Niklaus. — 33 Maria Elis. — 34 Magd. Louise. — 36 Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 791 Niklaus, Metzger — II, 67. 800 Fr. II Ehe. — Elis. Luginbühl, geb. Junker. 4 K. aus I Ehe. — 832 Niklaus. — 33 Maria Elis. — 34 Magd. Louise. — 36 Elisabetha."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Landolt.",
+    "place": "Bern",
+    "surname": "Landolt",
+    "forename": "Rosette, geb. Gascard",
+    "title": "",
+    "occupation": "Rentiere",
+    "address": "III, 46",
+    "quarter": "III",
+    "street": "",
+    "house_no": "46",
+    "origin": "Neuenstadt",
+    "birth_year": "1786",
+    "household": "1 S. — 809 Titus.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 786 Rosette, geb. Gascard, Rentiere, a. Neuenstadt — III, 46. 1 S. — 809 Titus."
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Landry.",
+    "place": "Bern",
+    "surname": "Landry",
+    "forename": "Elisabetha, geb. Haller",
+    "title": "",
+    "occupation": "Wollenhändlerin",
+    "address": "IV, 165",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "165",
+    "origin": "Yverdon",
+    "birth_year": "1820",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 820 Elisabetha, geb. Haller, Wollenhändlerin, a. Yverdon — IV, 165."
+   },
+   {
+    "line_from": 35,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Lang.",
+    "place": "Bern",
+    "surname": "Lang",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Kammmacher",
+    "address": "V, 144",
+    "quarter": "V",
+    "street": "",
+    "house_no": "144",
+    "origin": "Kurzenrikenbach, K. Thurgau",
+    "birth_year": "1799",
+    "household": "5 S. — 820 Joh. Gottlieb. — 22 Friedrich Daniel. — 28 Dan. Gottl. — 30 Christ. Dan. — 34 Karl Heinrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Daniel, Kammmacher, a. Kurzenrikenbach, K. Thurgau — V, 144. 5 S. — 820 Joh. Gottlieb. — 22 Friedrich Daniel. — 28 Dan. Gottl. — 30 Christ. Dan. — 34 Karl Heinrich."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Lang.",
+    "place": "Bern",
+    "surname": "Lang",
+    "forename": "Elisabetha, geb. Stauffer",
+    "title": "",
+    "occupation": "Wochenmarktkrämerin",
+    "address": "IV, 70",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "70",
+    "origin": "Beringen, K. Schaffhausen",
+    "birth_year": "1791",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 791 Elisabetha, geb. Stauffer, Wochenmarktkrämerin, a. Beringen, K. Schaffhausen — IV, 70."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:05:46+01:00",
+ "last_error": null
+}

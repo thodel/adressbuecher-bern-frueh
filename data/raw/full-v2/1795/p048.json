@@ -1,0 +1,32 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 48,
+ "section": "handbuch",
+ "started": "2026-11-11T20:50:44+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 7.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 61,
+  "thoughts": 486
+ },
+ "response_text": "{\n  \"printed_page\": null,\n  \"running_head\": null,\n  \"lines\": [],\n  \"entries\": [],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": null,
+  "running_head": null,
+  "lines": [],
+  "entries": [],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:50:51+01:00",
+ "last_error": null
+}

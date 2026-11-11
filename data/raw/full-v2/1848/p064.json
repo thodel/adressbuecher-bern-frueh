@@ -1,0 +1,406 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 64,
+ "section": "einsassen",
+ "started": "2026-11-11T22:00:00+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 15.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4031,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"51\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 51 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Glatthardt.\"},\n    {\"n\": 4, \"text\": \"1 803 Magdalena, Kellermagd, a. Meiringen - III, 12.\"},\n    {\"n\": 5, \"text\": \"Glinz.\"},\n    {\"n\": 6, \"text\": \"1 813 Johann, Buchbinder, a. St. Gallen - IV, 137.\"},\n    {\"n\": 7, \"text\": \"805 Fr. - Maria Marg. Wyttenbach a. Bern.\"},\n    {\"n\": 8, \"text\": \"6 K. - 835 Maria Elisa. - 37 Johannes. - 40 Marg.\"},\n    {\"n\": 9, \"text\": \"Pauline. - 41 Emil Ed. Theoph. - 42 Paul Jul. Phi-\"},\n    {\"n\": 10, \"text\": \"lemon. - 44 Karl Friedrich Benjamin.\"},\n    {\"n\": 11, \"text\": \"Gloor.\"},\n    {\"n\": 12, \"text\": \"1 793 Christen, Schuhmacher, a. Gontenschwyl, K. Aargau\"},\n    {\"n\": 13, \"text\": \"- VI, 25.\"},\n    {\"n\": 14, \"text\": \"Fr. II Ehe. - Kath. Ballenweg a. Bolligen.\"},\n    {\"n\": 15, \"text\": \"5 K. I Ehe. - 815 Christian. - 18 Anna Elis. - 20\"},\n    {\"n\": 16, \"text\": \"Magdalena. - 22 Anna Barbara. - 31 Ros. Katharina.\"},\n    {\"n\": 17, \"text\": \"2 798 Johannes, Pintenwirth, a. Schöftland, K. Aargau-IV, 33.\"},\n    {\"n\": 18, \"text\": \"797 Fr. - Maria Buri a. Affoltern.\"},\n    {\"n\": 19, \"text\": \"3 815 Jakob Heinrich, Kappenmacher u. Krämer, a. Oberkulm,\"},\n    {\"n\": 20, \"text\": \"K. Aargau - II, 127.\"},\n    {\"n\": 21, \"text\": \"814 Fr. - Anna Barbara Salzmann.\"},\n    {\"n\": 22, \"text\": \"3 K. - 840 Elis. Emilie. - 45 Jakob Heinrich. - 47\"},\n    {\"n\": 23, \"text\": \"Christ. Rudolf.\"},\n    {\"n\": 24, \"text\": \"Glur a. Roggwyl.\"},\n    {\"n\": 25, \"text\": \"1 818 Jakob, Schlosser - V, 222.\"},\n    {\"n\": 26, \"text\": \"819 Fr. - Louise Henriette Bürki, Hebamme, a. Häutlingen.\"},\n    {\"n\": 27, \"text\": \"4 K. - 842 Johann Rudolf Karl. - 43 Jakob Friedrich.\"},\n    {\"n\": 28, \"text\": \"- 45 Jakob Julius. - 47 Jakob.\"},\n    {\"n\": 29, \"text\": \"2 792 Marg. Katharina, geb. Schlupp, Schneiderin.\"},\n    {\"n\": 30, \"text\": \"4 K. - 823 Anna Katharina. - 25 Maria Marg. -\"},\n    {\"n\": 31, \"text\": \"27 Jakob Johann Rudolf. - 31 Karl Friedrich.\"},\n    {\"n\": 32, \"text\": \"Göthe.\"},\n    {\"n\": 33, \"text\": \"1 777 Theodor, gew. Buchbinder, a. Meißen - IV, 199.\"},\n    {\"n\": 34, \"text\": \"787 Fr. - Katharina Saler a. Köniz.\"},\n    {\"n\": 35, \"text\": \"Götz.\"},\n    {\"n\": 36, \"text\": \"1 808 Christ. Gottfried, Kaffewirth, a. Schneeberg in Sachsen\"},\n    {\"n\": 37, \"text\": \"- IV, 246.\"},\n    {\"n\": 38, \"text\": \"802 Fr. - Susanna Ackermann, verw. Thalmann.\"},\n    {\"n\": 39, \"text\": \"1 K. - 841 Friedr. Alb. Gottfried.\"},\n    {\"n\": 40, \"text\": \"Gorgé.\"},\n    {\"n\": 41, \"text\": \"1 802 Rudolf, Schreiber, a. Monible - V, 38.\"},\n    {\"n\": 42, \"text\": \"813 Fr. - Magdalena Perro a. Twann.\"},\n    {\"n\": 43, \"text\": \"3 K. - 841 Julia Emma. - 42 Emil. - 46 Elise.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Glatthardt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Glatthardt\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"\",\n      \"occupation\": \"Kellermagd\",\n      \"address\": \"III, 12\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"12\",\n      \"origin\": \"Meiringen\",\n      \"birth_year\": \"1803\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 Magdalena, Kellermagd, a. Meiringen - III, 12.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Glinz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Glinz\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"IV, 137\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"137\",\n      \"origin\": \"St. Gallen\",\n      \"birth_year\": \"1813\",\n      \"household\": \"805 Fr. - Maria Marg. Wyttenbach a. Bern. ; 6 K. - 835 Maria Elisa. - 37 Johannes. - 40 Marg. Pauline. - 41 Emil Ed. Theoph. - 42 Paul Jul. Philemon. - 44 Karl Friedrich Benjamin.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Johann, Buchbinder, a. St. Gallen - IV, 137. 805 Fr. - Maria Marg. Wyttenbach a. Bern. 6 K. - 835 Maria Elisa. - 37 Johannes. - 40 Marg. Pauline. - 41 Emil Ed. Theoph. - 42 Paul Jul. Philemon. - 44 Karl Friedrich Benjamin.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Gloor.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gloor\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"VI, 25\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"25\",\n      \"origin\": \"Gontenschwyl, K. Aargau\",\n      \"birth_year\": \"1793\",\n      \"household\": \"Fr. II Ehe. - Kath. Ballenweg a. Bolligen. ; 5 K. I Ehe. - 815 Christian. - 18 Anna Elis. - 20 Magdalena. - 22 Anna Barbara. - 31 Ros. Katharina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 793 Christen, Schuhmacher, a. Gontenschwyl, K. Aargau - VI, 25. Fr. II Ehe. - Kath. Ballenweg a. Bolligen. 5 K. I Ehe. - 815 Christian. - 18 Anna Elis. - 20 Magdalena. - 22 Anna Barbara. - 31 Ros. Katharina.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Gloor.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gloor\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"IV, 33\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"33\",\n      \"origin\": \"Schöftland, K. Aargau\",\n      \"birth_year\": \"1798\",\n      \"household\": \"797 Fr. - Maria Buri a. Affoltern.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 798 Johannes, Pintenwirth, a. Schöftland, K. Aargau-IV, 33. 797 Fr. - Maria Buri a. Affoltern.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Gloor.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gloor\",\n      \"forename\": \"Jakob Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Kappenmacher u. Krämer\",\n      \"address\": \"II, 127\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"127\",\n      \"origin\": \"Oberkulm, K. Aargau\",\n      \"birth_year\": \"1815\",\n      \"household\": \"814 Fr. - Anna Barbara Salzmann. ; 3 K. - 840 Elis. Emilie. - 45 Jakob Heinrich. - 47 Christ. Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 815 Jakob Heinrich, Kappenmacher u. Krämer, a. Oberkulm, K. Aargau - II, 127. 814 Fr. - Anna Barbara Salzmann. 3 K. - 840 Elis. Emilie. - 45 Jakob Heinrich. - 47 Christ. Rudolf.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Glur a. Roggwyl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Glur\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"V, 222\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"222\",\n      \"origin\": \"Roggwyl\",\n      \"birth_year\": \"1818\",\n      \"household\": \"819 Fr. - Louise Henriette Bürki, Hebamme, a. Häutlingen. ; 4 K. - 842 Johann Rudolf Karl. - 43 Jakob Friedrich. - 45 Jakob Julius. - 47 Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 818 Jakob, Schlosser - V, 222. 819 Fr. - Louise Henriette Bürki, Hebamme, a. Häutlingen. 4 K. - 842 Johann Rudolf Karl. - 43 Jakob Friedrich. - 45 Jakob Julius. - 47 Jakob.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Glur a. Roggwyl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Glur\",\n      \"forename\": \"Marg. Katharina\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"Roggwyl\",\n      \"birth_year\": \"1792\",\n      \"household\": \"4 K. - 823 Anna Katharina. - 25 Maria Marg. - 27 Jakob Johann Rudolf. - 31 Karl Friedrich.\",\n      \"note\": \"Name aus Zwischentitel; geb. Schlupp\",\n      \"text\": \"2 792 Marg. Katharina, geb. Schlupp, Schneiderin. 4 K. - 823 Anna Katharina. - 25 Maria Marg. - 27 Jakob Johann Rudolf. - 31 Karl Friedrich.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Göthe.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Göthe\",\n      \"forename\": \"Theodor\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Buchbinder\",\n      \"address\": \"IV, 199\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"199\",\n      \"origin\": \"Meißen\",\n      \"birth_year\": \"1777\",\n      \"household\": \"787 Fr. - Katharina Saler a. Köniz.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 777 Theodor, gew. Buchbinder, a. Meißen - IV, 199. 787 Fr. - Katharina Saler a. Köniz.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Götz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Götz\",\n      \"forename\": \"Christ. Gottfried\",\n      \"title\": \"\",\n      \"occupation\": \"Kaffewirth\",\n      \"address\": \"IV, 246\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"246\",\n      \"origin\": \"Schneeberg in Sachsen\",\n      \"birth_year\": \"1808\",\n      \"household\": \"802 Fr. - Susanna Ackermann, verw. Thalmann. ; 1 K. - 841 Friedr. Alb. Gottfried.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 808 Christ. Gottfried, Kaffewirth, a. Schneeberg in Sachsen - IV, 246. 802 Fr. - Susanna Ackermann, verw. Thalmann. 1 K. - 841 Friedr. Alb. Gottfried.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Gorgé.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gorgé\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"V, 38\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"38\",\n      \"origin\": \"Monible\",\n      \"birth_year\": \"1802\",\n      \"household\": \"813 Fr. - Magdalena Perro a. Twann. ; 3 K. - 841 Julia Emma. - 42 Emil. - 46 Elise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Rudolf, Schreiber, a. Monible - V, 38. 813 Fr. - Magdalena Perro a. Twann. 3 K. - 841 Julia Emma. - 42 Emil. - 46 Elise.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "51",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 51 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Glatthardt."
+   },
+   {
+    "n": 4,
+    "text": "1 803 Magdalena, Kellermagd, a. Meiringen - III, 12."
+   },
+   {
+    "n": 5,
+    "text": "Glinz."
+   },
+   {
+    "n": 6,
+    "text": "1 813 Johann, Buchbinder, a. St. Gallen - IV, 137."
+   },
+   {
+    "n": 7,
+    "text": "805 Fr. - Maria Marg. Wyttenbach a. Bern."
+   },
+   {
+    "n": 8,
+    "text": "6 K. - 835 Maria Elisa. - 37 Johannes. - 40 Marg."
+   },
+   {
+    "n": 9,
+    "text": "Pauline. - 41 Emil Ed. Theoph. - 42 Paul Jul. Phi-"
+   },
+   {
+    "n": 10,
+    "text": "lemon. - 44 Karl Friedrich Benjamin."
+   },
+   {
+    "n": 11,
+    "text": "Gloor."
+   },
+   {
+    "n": 12,
+    "text": "1 793 Christen, Schuhmacher, a. Gontenschwyl, K. Aargau"
+   },
+   {
+    "n": 13,
+    "text": "- VI, 25."
+   },
+   {
+    "n": 14,
+    "text": "Fr. II Ehe. - Kath. Ballenweg a. Bolligen."
+   },
+   {
+    "n": 15,
+    "text": "5 K. I Ehe. - 815 Christian. - 18 Anna Elis. - 20"
+   },
+   {
+    "n": 16,
+    "text": "Magdalena. - 22 Anna Barbara. - 31 Ros. Katharina."
+   },
+   {
+    "n": 17,
+    "text": "2 798 Johannes, Pintenwirth, a. Schöftland, K. Aargau-IV, 33."
+   },
+   {
+    "n": 18,
+    "text": "797 Fr. - Maria Buri a. Affoltern."
+   },
+   {
+    "n": 19,
+    "text": "3 815 Jakob Heinrich, Kappenmacher u. Krämer, a. Oberkulm,"
+   },
+   {
+    "n": 20,
+    "text": "K. Aargau - II, 127."
+   },
+   {
+    "n": 21,
+    "text": "814 Fr. - Anna Barbara Salzmann."
+   },
+   {
+    "n": 22,
+    "text": "3 K. - 840 Elis. Emilie. - 45 Jakob Heinrich. - 47"
+   },
+   {
+    "n": 23,
+    "text": "Christ. Rudolf."
+   },
+   {
+    "n": 24,
+    "text": "Glur a. Roggwyl."
+   },
+   {
+    "n": 25,
+    "text": "1 818 Jakob, Schlosser - V, 222."
+   },
+   {
+    "n": 26,
+    "text": "819 Fr. - Louise Henriette Bürki, Hebamme, a. Häutlingen."
+   },
+   {
+    "n": 27,
+    "text": "4 K. - 842 Johann Rudolf Karl. - 43 Jakob Friedrich."
+   },
+   {
+    "n": 28,
+    "text": "- 45 Jakob Julius. - 47 Jakob."
+   },
+   {
+    "n": 29,
+    "text": "2 792 Marg. Katharina, geb. Schlupp, Schneiderin."
+   },
+   {
+    "n": 30,
+    "text": "4 K. - 823 Anna Katharina. - 25 Maria Marg. -"
+   },
+   {
+    "n": 31,
+    "text": "27 Jakob Johann Rudolf. - 31 Karl Friedrich."
+   },
+   {
+    "n": 32,
+    "text": "Göthe."
+   },
+   {
+    "n": 33,
+    "text": "1 777 Theodor, gew. Buchbinder, a. Meißen - IV, 199."
+   },
+   {
+    "n": 34,
+    "text": "787 Fr. - Katharina Saler a. Köniz."
+   },
+   {
+    "n": 35,
+    "text": "Götz."
+   },
+   {
+    "n": 36,
+    "text": "1 808 Christ. Gottfried, Kaffewirth, a. Schneeberg in Sachsen"
+   },
+   {
+    "n": 37,
+    "text": "- IV, 246."
+   },
+   {
+    "n": 38,
+    "text": "802 Fr. - Susanna Ackermann, verw. Thalmann."
+   },
+   {
+    "n": 39,
+    "text": "1 K. - 841 Friedr. Alb. Gottfried."
+   },
+   {
+    "n": 40,
+    "text": "Gorgé."
+   },
+   {
+    "n": 41,
+    "text": "1 802 Rudolf, Schreiber, a. Monible - V, 38."
+   },
+   {
+    "n": 42,
+    "text": "813 Fr. - Magdalena Perro a. Twann."
+   },
+   {
+    "n": 43,
+    "text": "3 K. - 841 Julia Emma. - 42 Emil. - 46 Elise."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Glatthardt.",
+    "place": "Bern",
+    "surname": "Glatthardt",
+    "forename": "Magdalena",
+    "title": "",
+    "occupation": "Kellermagd",
+    "address": "III, 12",
+    "quarter": "III",
+    "street": "",
+    "house_no": "12",
+    "origin": "Meiringen",
+    "birth_year": "1803",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 Magdalena, Kellermagd, a. Meiringen - III, 12."
+   },
+   {
+    "line_from": 6,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Glinz.",
+    "place": "Bern",
+    "surname": "Glinz",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "IV, 137",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "137",
+    "origin": "St. Gallen",
+    "birth_year": "1813",
+    "household": "805 Fr. - Maria Marg. Wyttenbach a. Bern. ; 6 K. - 835 Maria Elisa. - 37 Johannes. - 40 Marg. Pauline. - 41 Emil Ed. Theoph. - 42 Paul Jul. Philemon. - 44 Karl Friedrich Benjamin.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Johann, Buchbinder, a. St. Gallen - IV, 137. 805 Fr. - Maria Marg. Wyttenbach a. Bern. 6 K. - 835 Maria Elisa. - 37 Johannes. - 40 Marg. Pauline. - 41 Emil Ed. Theoph. - 42 Paul Jul. Philemon. - 44 Karl Friedrich Benjamin."
+   },
+   {
+    "line_from": 12,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Gloor.",
+    "place": "Bern",
+    "surname": "Gloor",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "VI, 25",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "25",
+    "origin": "Gontenschwyl, K. Aargau",
+    "birth_year": "1793",
+    "household": "Fr. II Ehe. - Kath. Ballenweg a. Bolligen. ; 5 K. I Ehe. - 815 Christian. - 18 Anna Elis. - 20 Magdalena. - 22 Anna Barbara. - 31 Ros. Katharina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 793 Christen, Schuhmacher, a. Gontenschwyl, K. Aargau - VI, 25. Fr. II Ehe. - Kath. Ballenweg a. Bolligen. 5 K. I Ehe. - 815 Christian. - 18 Anna Elis. - 20 Magdalena. - 22 Anna Barbara. - 31 Ros. Katharina."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Gloor.",
+    "place": "Bern",
+    "surname": "Gloor",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "IV, 33",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "33",
+    "origin": "Schöftland, K. Aargau",
+    "birth_year": "1798",
+    "household": "797 Fr. - Maria Buri a. Affoltern.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 798 Johannes, Pintenwirth, a. Schöftland, K. Aargau-IV, 33. 797 Fr. - Maria Buri a. Affoltern."
+   },
+   {
+    "line_from": 19,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Gloor.",
+    "place": "Bern",
+    "surname": "Gloor",
+    "forename": "Jakob Heinrich",
+    "title": "",
+    "occupation": "Kappenmacher u. Krämer",
+    "address": "II, 127",
+    "quarter": "II",
+    "street": "",
+    "house_no": "127",
+    "origin": "Oberkulm, K. Aargau",
+    "birth_year": "1815",
+    "household": "814 Fr. - Anna Barbara Salzmann. ; 3 K. - 840 Elis. Emilie. - 45 Jakob Heinrich. - 47 Christ. Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 815 Jakob Heinrich, Kappenmacher u. Krämer, a. Oberkulm, K. Aargau - II, 127. 814 Fr. - Anna Barbara Salzmann. 3 K. - 840 Elis. Emilie. - 45 Jakob Heinrich. - 47 Christ. Rudolf."
+   },
+   {
+    "line_from": 25,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Glur a. Roggwyl.",
+    "place": "Bern",
+    "surname": "Glur",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "V, 222",
+    "quarter": "V",
+    "street": "",
+    "house_no": "222",
+    "origin": "Roggwyl",
+    "birth_year": "1818",
+    "household": "819 Fr. - Louise Henriette Bürki, Hebamme, a. Häutlingen. ; 4 K. - 842 Johann Rudolf Karl. - 43 Jakob Friedrich. - 45 Jakob Julius. - 47 Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 818 Jakob, Schlosser - V, 222. 819 Fr. - Louise Henriette Bürki, Hebamme, a. Häutlingen. 4 K. - 842 Johann Rudolf Karl. - 43 Jakob Friedrich. - 45 Jakob Julius. - 47 Jakob."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Glur a. Roggwyl.",
+    "place": "Bern",
+    "surname": "Glur",
+    "forename": "Marg. Katharina",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "Roggwyl",
+    "birth_year": "1792",
+    "household": "4 K. - 823 Anna Katharina. - 25 Maria Marg. - 27 Jakob Johann Rudolf. - 31 Karl Friedrich.",
+    "note": "Name aus Zwischentitel; geb. Schlupp",
+    "text": "2 792 Marg. Katharina, geb. Schlupp, Schneiderin. 4 K. - 823 Anna Katharina. - 25 Maria Marg. - 27 Jakob Johann Rudolf. - 31 Karl Friedrich."
+   },
+   {
+    "line_from": 33,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Göthe.",
+    "place": "Bern",
+    "surname": "Göthe",
+    "forename": "Theodor",
+    "title": "",
+    "occupation": "gew. Buchbinder",
+    "address": "IV, 199",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "199",
+    "origin": "Meißen",
+    "birth_year": "1777",
+    "household": "787 Fr. - Katharina Saler a. Köniz.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 777 Theodor, gew. Buchbinder, a. Meißen - IV, 199. 787 Fr. - Katharina Saler a. Köniz."
+   },
+   {
+    "line_from": 36,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Götz.",
+    "place": "Bern",
+    "surname": "Götz",
+    "forename": "Christ. Gottfried",
+    "title": "",
+    "occupation": "Kaffewirth",
+    "address": "IV, 246",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "246",
+    "origin": "Schneeberg in Sachsen",
+    "birth_year": "1808",
+    "household": "802 Fr. - Susanna Ackermann, verw. Thalmann. ; 1 K. - 841 Friedr. Alb. Gottfried.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 808 Christ. Gottfried, Kaffewirth, a. Schneeberg in Sachsen - IV, 246. 802 Fr. - Susanna Ackermann, verw. Thalmann. 1 K. - 841 Friedr. Alb. Gottfried."
+   },
+   {
+    "line_from": 41,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Gorgé.",
+    "place": "Bern",
+    "surname": "Gorgé",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "V, 38",
+    "quarter": "V",
+    "street": "",
+    "house_no": "38",
+    "origin": "Monible",
+    "birth_year": "1802",
+    "household": "813 Fr. - Magdalena Perro a. Twann. ; 3 K. - 841 Julia Emma. - 42 Emil. - 46 Elise.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Rudolf, Schreiber, a. Monible - V, 38. 813 Fr. - Magdalena Perro a. Twann. 3 K. - 841 Julia Emma. - 42 Emil. - 46 Elise."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:00:15+01:00",
+ "last_error": null
+}

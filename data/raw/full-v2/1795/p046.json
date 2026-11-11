@@ -1,0 +1,414 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 46,
+ "section": "handbuch",
+ "started": "2026-11-11T20:50:21+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 41.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 3011,
+  "thoughts": 2726
+ },
+ "response_text": "{\n  \"printed_page\": \"44\",\n  \"running_head\": \"Zofingen.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"44 Zofingen.\"},\n    {\"n\": 2, \"text\": \"sermann, Johannes Sprünglin, Rudolf\"},\n    {\"n\": 3, \"text\": \"Hool, Strumpfweber.\"},\n    {\"n\": 4, \"text\": \"Herr\"},\n    {\"n\": 5, \"text\": \"Friedrich Wullschleger, Vater und Sohn,\"},\n    {\"n\": 6, \"text\": \"Spengler.\"},\n    {\"n\": 7, \"text\": \"Joh. Wullschleger, Vater und Sohn, Speng-\"},\n    {\"n\": 8, \"text\": \"ler.\"},\n    {\"n\": 9, \"text\": \"Johannes Schumacher, Gürtler.\"},\n    {\"n\": 10, \"text\": \"Sigm. Bossardt, Gürtler, ist zugleich Schwerdt-\"},\n    {\"n\": 11, \"text\": \"feger, und verfertiget allerhand Ordonanz-Säbel und\"},\n    {\"n\": 12, \"text\": \"Officier = Degen, mit sauber vergoldeten und ordi-\"},\n    {\"n\": 13, \"text\": \"nairen Gefässen; ferner findet man bey ihm alle Ar-\"},\n    {\"n\": 14, \"text\": \"ten von Beschläg zu Commoden.\"},\n    {\"n\": 15, \"text\": \"Johannes Sutermeister und Comp. } Uhrma-\"},\n    {\"n\": 16, \"text\": \"Jakob Steiger, } cher.\"},\n    {\"n\": 17, \"text\": \"Joh. Sutermeister, Vater, verfertiget Uh-\"},\n    {\"n\": 18, \"text\": \"ren, auch allerhand mathematische Instrumente.\"},\n    {\"n\": 19, \"text\": \"Abraham Siegfried, Kunstmahler.\"},\n    {\"n\": 20, \"text\": \"Samuel Haller, Vater und Sohn, verfertigen\"},\n    {\"n\": 21, \"text\": \"allerhand Stubenöfen mit und ohne Mahlereyen\"},\n    {\"n\": 22, \"text\": \"nach neuestem Gusto.\"},\n    {\"n\": 23, \"text\": \"Jakob Lienhardt, Eisenschmied.\"},\n    {\"n\": 24, \"text\": \"Daniel Lienhardt, Eisenschmied, handelt mit\"},\n    {\"n\": 25, \"text\": \"allerhand Eisen.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"sermann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Strumpfweber\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"sermann, Strumpfweber.\"\n    },\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Sprünglin\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Strumpfweber\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Sprünglin, Strumpfweber.\"\n    },\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Hool\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Strumpfweber\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rudolf Hool, Strumpfweber.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"firma\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Wullschleger\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"Vater und Sohn\",\n      \"occupation\": \"Spengler\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Friedrich Wullschleger, Vater und Sohn, Spengler.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"firma\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Wullschleger\",\n      \"forename\": \"Joh.\",\n      \"title\": \"Vater und Sohn\",\n      \"occupation\": \"Spengler\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Wullschleger, Vater und Sohn, Spengler.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Schumacher\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Gürtler\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Schumacher, Gürtler.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Bossardt\",\n      \"forename\": \"Sigm.\",\n      \"title\": \"\",\n      \"occupation\": \"Gürtler, ist zugleich Schwerdtfeger\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sigm. Bossardt, Gürtler, ist zugleich Schwerdtfeger, und verfertiget allerhand Ordonanz-Säbel und Officier = Degen, mit sauber vergoldeten und ordinairen Gefässen; ferner findet man bey ihm alle Arten von Beschläg zu Commoden.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Sutermeister\",\n      \"forename\": \"Johannes\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"Uhrmacher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Sutermeister und Comp. Uhrmacher.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Steiger\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrmacher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Steiger, Uhrmacher.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Sutermeister\",\n      \"forename\": \"Joh.\",\n      \"title\": \"Vater\",\n      \"occupation\": \"verfertiget Uhren, auch allerhand mathematische Instrumente\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Sutermeister, Vater, verfertiget Uhren, auch allerhand mathematische Instrumente.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Siegfried\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"Kunstmahler\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Abraham Siegfried, Kunstmahler.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"firma\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Haller\",\n      \"forename\": \"Samuel\",\n      \"title\": \"Vater und Sohn\",\n      \"occupation\": \"verfertigen allerhand Stubenöfen mit und ohne Mahlereyen nach neuestem Gusto\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Haller, Vater und Sohn, verfertigen allerhand Stubenöfen mit und ohne Mahlereyen nach neuestem Gusto.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Lienhardt\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Eisenschmied\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Lienhardt, Eisenschmied.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Lienhardt\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Eisenschmied, handelt mit allerhand Eisen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Lienhardt, Eisenschmied, handelt mit allerhand Eisen.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "44",
+  "running_head": "Zofingen.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "44 Zofingen."
+   },
+   {
+    "n": 2,
+    "text": "sermann, Johannes Sprünglin, Rudolf"
+   },
+   {
+    "n": 3,
+    "text": "Hool, Strumpfweber."
+   },
+   {
+    "n": 4,
+    "text": "Herr"
+   },
+   {
+    "n": 5,
+    "text": "Friedrich Wullschleger, Vater und Sohn,"
+   },
+   {
+    "n": 6,
+    "text": "Spengler."
+   },
+   {
+    "n": 7,
+    "text": "Joh. Wullschleger, Vater und Sohn, Speng-"
+   },
+   {
+    "n": 8,
+    "text": "ler."
+   },
+   {
+    "n": 9,
+    "text": "Johannes Schumacher, Gürtler."
+   },
+   {
+    "n": 10,
+    "text": "Sigm. Bossardt, Gürtler, ist zugleich Schwerdt-"
+   },
+   {
+    "n": 11,
+    "text": "feger, und verfertiget allerhand Ordonanz-Säbel und"
+   },
+   {
+    "n": 12,
+    "text": "Officier = Degen, mit sauber vergoldeten und ordi-"
+   },
+   {
+    "n": 13,
+    "text": "nairen Gefässen; ferner findet man bey ihm alle Ar-"
+   },
+   {
+    "n": 14,
+    "text": "ten von Beschläg zu Commoden."
+   },
+   {
+    "n": 15,
+    "text": "Johannes Sutermeister und Comp. } Uhrma-"
+   },
+   {
+    "n": 16,
+    "text": "Jakob Steiger, } cher."
+   },
+   {
+    "n": 17,
+    "text": "Joh. Sutermeister, Vater, verfertiget Uh-"
+   },
+   {
+    "n": 18,
+    "text": "ren, auch allerhand mathematische Instrumente."
+   },
+   {
+    "n": 19,
+    "text": "Abraham Siegfried, Kunstmahler."
+   },
+   {
+    "n": 20,
+    "text": "Samuel Haller, Vater und Sohn, verfertigen"
+   },
+   {
+    "n": 21,
+    "text": "allerhand Stubenöfen mit und ohne Mahlereyen"
+   },
+   {
+    "n": 22,
+    "text": "nach neuestem Gusto."
+   },
+   {
+    "n": 23,
+    "text": "Jakob Lienhardt, Eisenschmied."
+   },
+   {
+    "n": 24,
+    "text": "Daniel Lienhardt, Eisenschmied, handelt mit"
+   },
+   {
+    "n": 25,
+    "text": "allerhand Eisen."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "sermann",
+    "forename": "",
+    "title": "",
+    "occupation": "Strumpfweber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "sermann, Strumpfweber."
+   },
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Sprünglin",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Strumpfweber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Sprünglin, Strumpfweber."
+   },
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Hool",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Strumpfweber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rudolf Hool, Strumpfweber."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "firma",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Wullschleger",
+    "forename": "Friedrich",
+    "title": "Vater und Sohn",
+    "occupation": "Spengler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friedrich Wullschleger, Vater und Sohn, Spengler."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "firma",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Wullschleger",
+    "forename": "Joh.",
+    "title": "Vater und Sohn",
+    "occupation": "Spengler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Wullschleger, Vater und Sohn, Spengler."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Schumacher",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Gürtler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Schumacher, Gürtler."
+   },
+   {
+    "line_from": 10,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Bossardt",
+    "forename": "Sigm.",
+    "title": "",
+    "occupation": "Gürtler, ist zugleich Schwerdtfeger",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sigm. Bossardt, Gürtler, ist zugleich Schwerdtfeger, und verfertiget allerhand Ordonanz-Säbel und Officier = Degen, mit sauber vergoldeten und ordinairen Gefässen; ferner findet man bey ihm alle Arten von Beschläg zu Commoden."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Sutermeister",
+    "forename": "Johannes",
+    "title": "und Comp.",
+    "occupation": "Uhrmacher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Sutermeister und Comp. Uhrmacher."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Steiger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Uhrmacher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Steiger, Uhrmacher."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Sutermeister",
+    "forename": "Joh.",
+    "title": "Vater",
+    "occupation": "verfertiget Uhren, auch allerhand mathematische Instrumente",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Sutermeister, Vater, verfertiget Uhren, auch allerhand mathematische Instrumente."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Siegfried",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "Kunstmahler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Abraham Siegfried, Kunstmahler."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "firma",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Haller",
+    "forename": "Samuel",
+    "title": "Vater und Sohn",
+    "occupation": "verfertigen allerhand Stubenöfen mit und ohne Mahlereyen nach neuestem Gusto",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Haller, Vater und Sohn, verfertigen allerhand Stubenöfen mit und ohne Mahlereyen nach neuestem Gusto."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Lienhardt",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Eisenschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Lienhardt, Eisenschmied."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Lienhardt",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Eisenschmied, handelt mit allerhand Eisen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Lienhardt, Eisenschmied, handelt mit allerhand Eisen."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:51:02+01:00",
+ "last_error": null
+}

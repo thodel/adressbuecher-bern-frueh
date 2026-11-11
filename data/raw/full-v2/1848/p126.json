@@ -1,0 +1,438 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 126,
+ "section": "einsassen",
+ "started": "2026-11-11T22:06:36+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 55.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4281,
+  "thoughts": 4921
+ },
+ "response_text": "{\n  \"printed_page\": \"113\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 113 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"2 817 Christ. Niklaus, Schuhmacher, a. Lützelflüh - II, 60.\"},\n    {\"n\": 4, \"text\": \"3 805 Marie Charlotte, geb. Chuard, des Schlossers W., a.\"},\n    {\"n\": 5, \"text\": \"Wichtrach.\"},\n    {\"n\": 6, \"text\": \"4 S. — 834 Karl Friedrich. — 35 Joh. Friedr. Eduard.\"},\n    {\"n\": 7, \"text\": \"— 37 Alfred Emil. — 40 Sam. Emil.\"},\n    {\"n\": 8, \"text\": \"Neukom.\"},\n    {\"n\": 9, \"text\": \"1 804 Joh. Jakob, gew. Zuchthausdirektor, a. Langenthal - IV, 2.\"},\n    {\"n\": 10, \"text\": \"Neukomm.\"},\n    {\"n\": 11, \"text\": \"1 809 Joh. Georg, Sekler, a. Unterhallau, K. Schaffhausen\"},\n    {\"n\": 12, \"text\": \"- IV, 170.\"},\n    {\"n\": 13, \"text\": \"810 Fr. - Maria Magd. Nuppli a. Unterhallau, K. Schaffh.\"},\n    {\"n\": 14, \"text\": \"4 K. — 835 Aug. Maria Marg. — 38 Maria Elis. —\"},\n    {\"n\": 15, \"text\": \"39 Karl Eugen. — 44 Joh. Emil.\"},\n    {\"n\": 16, \"text\": \"Neynens.\"},\n    {\"n\": 17, \"text\": \"1 Peter, Schneider, a. Heezé in Nord-Brabant - V, 62\"},\n    {\"n\": 18, \"text\": \"Fr. II Ehe. — Anna Maria Hodel a. Schwarzenegg.\"},\n    {\"n\": 19, \"text\": \"7 K. — Aus I Ehe: 822 Arnold Peter. — 23 Heinrich\"},\n    {\"n\": 20, \"text\": \"Arnold. — 25 Elis. Maria Magd. — 26 Elis. Ludw. —\"},\n    {\"n\": 21, \"text\": \"29 Abr. Friedrich. — 30 Heinrich. — Aus II Ehe: 31\"},\n    {\"n\": 22, \"text\": \"Christ. Theophil.\"},\n    {\"n\": 23, \"text\": \"Nicod.\"},\n    {\"n\": 24, \"text\": \"1 Rosa, geb. Ducommun, Lohnwascherin, a. Vaud in\"},\n    {\"n\": 25, \"text\": \"Frankreich - IV, 88.\"},\n    {\"n\": 26, \"text\": \"Niederhäuser.\"},\n    {\"n\": 27, \"text\": \"1 791 Bendicht, Grempler, a. Bowyl - IV, 75.\"},\n    {\"n\": 28, \"text\": \"790 Fr. - Elis. Marti, geb. Heinrich, a. Eriswyl.\"},\n    {\"n\": 29, \"text\": \"2 806 Jakob, Pintenwirth, a. Lauperswyl - III, 18.\"},\n    {\"n\": 30, \"text\": \"796 Fr. II Ehe. — Anna Barb. Iseli a. Jegenstorf.\"},\n    {\"n\": 31, \"text\": \"2 K. I Ehe. — 827 Elisabetha. — 39 Maria Magd.\"},\n    {\"n\": 32, \"text\": \"Niederhauser.\"},\n    {\"n\": 33, \"text\": \"1 802 Johann, Lehenmann und Kornmarktinspektor, a. Eggi-\"},\n    {\"n\": 34, \"text\": \"wyl - VII, 89.\"},\n    {\"n\": 35, \"text\": \"811 Fr. — Anna Stucki a. Buchholterberg.\"},\n    {\"n\": 36, \"text\": \"5 K. — 833 Joh. Friedr. — 39 Karl Rud. — 41 Karl\"},\n    {\"n\": 37, \"text\": \"August. — 43 Anna Ros. — 44 Anna Elis.\"},\n    {\"n\": 38, \"text\": \"2 806 Christian, Geschäftsreisender u. Decatirer, a. Eggiwyl\"},\n    {\"n\": 39, \"text\": \"- IV, 62.\"},\n    {\"n\": 40, \"text\": \"811 Fr. II Ehe. — Charl. Marg. Rosa Flükiger a. Rohrbach.\"},\n    {\"n\": 41, \"text\": \"1 T. — 845 Rosa Maria.\"},\n    {\"n\": 42, \"text\": \"Niggeler.\"},\n    {\"n\": 43, \"text\": \"1 817 Niklaus, Fürsprecher, a. Affoltern - V, 116.\"},\n    {\"n\": 44, \"text\": \"824 Fr. - Bertha Emilie Eleonore Sara Snell.\"},\n    {\"n\": 45, \"text\": \"(Die Kinder sind nicht eingeschrieben.)\"},\n    {\"n\": 46, \"text\": \"8\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Christ. Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 60\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"60\",\n      \"origin\": \"Lützelflüh\",\n      \"birth_year\": \"1817\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"2 817 Christ. Niklaus, Schuhmacher, a. Lützelflüh - II, 60.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Marie Charlotte\",\n      \"title\": \"des Schlossers W.\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"Wichtrach\",\n      \"birth_year\": \"1805\",\n      \"household\": \"4 S. — 834 Karl Friedrich. — 35 Joh. Friedr. Eduard. — 37 Alfred Emil. — 40 Sam. Emil.\",\n      \"note\": \"geb. Chuard\",\n      \"text\": \"3 805 Marie Charlotte, geb. Chuard, des Schlossers W., a. Wichtrach. 4 S. — 834 Karl Friedrich. — 35 Joh. Friedr. Eduard. — 37 Alfred Emil. — 40 Sam. Emil.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Neukom.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Neukom\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Zuchthausdirektor\",\n      \"address\": \"IV, 2\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"2\",\n      \"origin\": \"Langenthal\",\n      \"birth_year\": \"1804\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Joh. Jakob, gew. Zuchthausdirektor, a. Langenthal - IV, 2.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Neukomm.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Neukomm\",\n      \"forename\": \"Joh. Georg\",\n      \"title\": \"\",\n      \"occupation\": \"Sekler\",\n      \"address\": \"IV, 170\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"170\",\n      \"origin\": \"Unterhallau, K. Schaffhausen\",\n      \"birth_year\": \"1809\",\n      \"household\": \"810 Fr. - Maria Magd. Nuppli a. Unterhallau, K. Schaffh. 4 K. — 835 Aug. Maria Marg. — 38 Maria Elis. — 39 Karl Eugen. — 44 Joh. Emil.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Joh. Georg, Sekler, a. Unterhallau, K. Schaffhausen - IV, 170. 810 Fr. - Maria Magd. Nuppli a. Unterhallau, K. Schaffh. 4 K. — 835 Aug. Maria Marg. — 38 Maria Elis. — 39 Karl Eugen. — 44 Joh. Emil.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Neynens.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Neynens\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 62\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"Heezé in Nord-Brabant\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. II Ehe. — Anna Maria Hodel a. Schwarzenegg. 7 K. — Aus I Ehe: 822 Arnold Peter. — 23 Heinrich Arnold. — 25 Elis. Maria Magd. — 26 Elis. Ludw. — 29 Abr. Friedrich. — 30 Heinrich. — Aus II Ehe: 31 Christ. Theophil.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Peter, Schneider, a. Heezé in Nord-Brabant - V, 62 Fr. II Ehe. — Anna Maria Hodel a. Schwarzenegg. 7 K. — Aus I Ehe: 822 Arnold Peter. — 23 Heinrich Arnold. — 25 Elis. Maria Magd. — 26 Elis. Ludw. — 29 Abr. Friedrich. — 30 Heinrich. — Aus II Ehe: 31 Christ. Theophil.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Nicod.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nicod\",\n      \"forename\": \"Rosa\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnwascherin\",\n      \"address\": \"IV, 88\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"88\",\n      \"origin\": \"Vaud in Frankreich\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Ducommun\",\n      \"text\": \"1 Rosa, geb. Ducommun, Lohnwascherin, a. Vaud in Frankreich - IV, 88.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Niederhäuser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Niederhäuser\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Grempler\",\n      \"address\": \"IV, 75\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"Bowyl\",\n      \"birth_year\": \"1791\",\n      \"household\": \"790 Fr. - Elis. Marti, geb. Heinrich, a. Eriswyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 791 Bendicht, Grempler, a. Bowyl - IV, 75. 790 Fr. - Elis. Marti, geb. Heinrich, a. Eriswyl.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Niederhäuser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Niederhäuser\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"III, 18\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"18\",\n      \"origin\": \"Lauperswyl\",\n      \"birth_year\": \"1806\",\n      \"household\": \"796 Fr. II Ehe. — Anna Barb. Iseli a. Jegenstorf. 2 K. I Ehe. — 827 Elisabetha. — 39 Maria Magd.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 806 Jakob, Pintenwirth, a. Lauperswyl - III, 18. 796 Fr. II Ehe. — Anna Barb. Iseli a. Jegenstorf. 2 K. I Ehe. — 827 Elisabetha. — 39 Maria Magd.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Niederhauser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Niederhauser\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Lehenmann und Kornmarktinspektor\",\n      \"address\": \"VII, 89\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"89\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1802\",\n      \"household\": \"811 Fr. — Anna Stucki a. Buchholterberg. 5 K. — 833 Joh. Friedr. — 39 Karl Rud. — 41 Karl August. — 43 Anna Ros. — 44 Anna Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Johann, Lehenmann und Kornmarktinspektor, a. Eggiwyl - VII, 89. 811 Fr. — Anna Stucki a. Buchholterberg. 5 K. — 833 Joh. Friedr. — 39 Karl Rud. — 41 Karl August. — 43 Anna Ros. — 44 Anna Elis.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Niederhauser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Niederhauser\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Geschäftsreisender u. Decatirer\",\n      \"address\": \"IV, 62\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1806\",\n      \"household\": \"811 Fr. II Ehe. — Charl. Marg. Rosa Flükiger a. Rohrbach. 1 T. — 845 Rosa Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 806 Christian, Geschäftsreisender u. Decatirer, a. Eggiwyl - IV, 62. 811 Fr. II Ehe. — Charl. Marg. Rosa Flükiger a. Rohrbach. 1 T. — 845 Rosa Maria.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Niggeler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Niggeler\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Fürsprecher\",\n      \"address\": \"V, 116\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"116\",\n      \"origin\": \"Affoltern\",\n      \"birth_year\": \"1817\",\n      \"household\": \"824 Fr. - Bertha Emilie Eleonore Sara Snell. (Die Kinder sind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 817 Niklaus, Fürsprecher, a. Affoltern - V, 116. 824 Fr. - Bertha Emilie Eleonore Sara Snell. (Die Kinder sind nicht eingeschrieben.)\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "113",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 113 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "2 817 Christ. Niklaus, Schuhmacher, a. Lützelflüh - II, 60."
+   },
+   {
+    "n": 4,
+    "text": "3 805 Marie Charlotte, geb. Chuard, des Schlossers W., a."
+   },
+   {
+    "n": 5,
+    "text": "Wichtrach."
+   },
+   {
+    "n": 6,
+    "text": "4 S. — 834 Karl Friedrich. — 35 Joh. Friedr. Eduard."
+   },
+   {
+    "n": 7,
+    "text": "— 37 Alfred Emil. — 40 Sam. Emil."
+   },
+   {
+    "n": 8,
+    "text": "Neukom."
+   },
+   {
+    "n": 9,
+    "text": "1 804 Joh. Jakob, gew. Zuchthausdirektor, a. Langenthal - IV, 2."
+   },
+   {
+    "n": 10,
+    "text": "Neukomm."
+   },
+   {
+    "n": 11,
+    "text": "1 809 Joh. Georg, Sekler, a. Unterhallau, K. Schaffhausen"
+   },
+   {
+    "n": 12,
+    "text": "- IV, 170."
+   },
+   {
+    "n": 13,
+    "text": "810 Fr. - Maria Magd. Nuppli a. Unterhallau, K. Schaffh."
+   },
+   {
+    "n": 14,
+    "text": "4 K. — 835 Aug. Maria Marg. — 38 Maria Elis. —"
+   },
+   {
+    "n": 15,
+    "text": "39 Karl Eugen. — 44 Joh. Emil."
+   },
+   {
+    "n": 16,
+    "text": "Neynens."
+   },
+   {
+    "n": 17,
+    "text": "1 Peter, Schneider, a. Heezé in Nord-Brabant - V, 62"
+   },
+   {
+    "n": 18,
+    "text": "Fr. II Ehe. — Anna Maria Hodel a. Schwarzenegg."
+   },
+   {
+    "n": 19,
+    "text": "7 K. — Aus I Ehe: 822 Arnold Peter. — 23 Heinrich"
+   },
+   {
+    "n": 20,
+    "text": "Arnold. — 25 Elis. Maria Magd. — 26 Elis. Ludw. —"
+   },
+   {
+    "n": 21,
+    "text": "29 Abr. Friedrich. — 30 Heinrich. — Aus II Ehe: 31"
+   },
+   {
+    "n": 22,
+    "text": "Christ. Theophil."
+   },
+   {
+    "n": 23,
+    "text": "Nicod."
+   },
+   {
+    "n": 24,
+    "text": "1 Rosa, geb. Ducommun, Lohnwascherin, a. Vaud in"
+   },
+   {
+    "n": 25,
+    "text": "Frankreich - IV, 88."
+   },
+   {
+    "n": 26,
+    "text": "Niederhäuser."
+   },
+   {
+    "n": 27,
+    "text": "1 791 Bendicht, Grempler, a. Bowyl - IV, 75."
+   },
+   {
+    "n": 28,
+    "text": "790 Fr. - Elis. Marti, geb. Heinrich, a. Eriswyl."
+   },
+   {
+    "n": 29,
+    "text": "2 806 Jakob, Pintenwirth, a. Lauperswyl - III, 18."
+   },
+   {
+    "n": 30,
+    "text": "796 Fr. II Ehe. — Anna Barb. Iseli a. Jegenstorf."
+   },
+   {
+    "n": 31,
+    "text": "2 K. I Ehe. — 827 Elisabetha. — 39 Maria Magd."
+   },
+   {
+    "n": 32,
+    "text": "Niederhauser."
+   },
+   {
+    "n": 33,
+    "text": "1 802 Johann, Lehenmann und Kornmarktinspektor, a. Eggi-"
+   },
+   {
+    "n": 34,
+    "text": "wyl - VII, 89."
+   },
+   {
+    "n": 35,
+    "text": "811 Fr. — Anna Stucki a. Buchholterberg."
+   },
+   {
+    "n": 36,
+    "text": "5 K. — 833 Joh. Friedr. — 39 Karl Rud. — 41 Karl"
+   },
+   {
+    "n": 37,
+    "text": "August. — 43 Anna Ros. — 44 Anna Elis."
+   },
+   {
+    "n": 38,
+    "text": "2 806 Christian, Geschäftsreisender u. Decatirer, a. Eggiwyl"
+   },
+   {
+    "n": 39,
+    "text": "- IV, 62."
+   },
+   {
+    "n": 40,
+    "text": "811 Fr. II Ehe. — Charl. Marg. Rosa Flükiger a. Rohrbach."
+   },
+   {
+    "n": 41,
+    "text": "1 T. — 845 Rosa Maria."
+   },
+   {
+    "n": 42,
+    "text": "Niggeler."
+   },
+   {
+    "n": 43,
+    "text": "1 817 Niklaus, Fürsprecher, a. Affoltern - V, 116."
+   },
+   {
+    "n": 44,
+    "text": "824 Fr. - Bertha Emilie Eleonore Sara Snell."
+   },
+   {
+    "n": 45,
+    "text": "(Die Kinder sind nicht eingeschrieben.)"
+   },
+   {
+    "n": 46,
+    "text": "8"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Christ. Niklaus",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 60",
+    "quarter": "II",
+    "street": "",
+    "house_no": "60",
+    "origin": "Lützelflüh",
+    "birth_year": "1817",
+    "household": "",
+    "note": "",
+    "text": "2 817 Christ. Niklaus, Schuhmacher, a. Lützelflüh - II, 60."
+   },
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Marie Charlotte",
+    "title": "des Schlossers W.",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "Wichtrach",
+    "birth_year": "1805",
+    "household": "4 S. — 834 Karl Friedrich. — 35 Joh. Friedr. Eduard. — 37 Alfred Emil. — 40 Sam. Emil.",
+    "note": "geb. Chuard",
+    "text": "3 805 Marie Charlotte, geb. Chuard, des Schlossers W., a. Wichtrach. 4 S. — 834 Karl Friedrich. — 35 Joh. Friedr. Eduard. — 37 Alfred Emil. — 40 Sam. Emil."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Neukom.",
+    "place": "Bern",
+    "surname": "Neukom",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "gew. Zuchthausdirektor",
+    "address": "IV, 2",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "2",
+    "origin": "Langenthal",
+    "birth_year": "1804",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Joh. Jakob, gew. Zuchthausdirektor, a. Langenthal - IV, 2."
+   },
+   {
+    "line_from": 11,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Neukomm.",
+    "place": "Bern",
+    "surname": "Neukomm",
+    "forename": "Joh. Georg",
+    "title": "",
+    "occupation": "Sekler",
+    "address": "IV, 170",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "170",
+    "origin": "Unterhallau, K. Schaffhausen",
+    "birth_year": "1809",
+    "household": "810 Fr. - Maria Magd. Nuppli a. Unterhallau, K. Schaffh. 4 K. — 835 Aug. Maria Marg. — 38 Maria Elis. — 39 Karl Eugen. — 44 Joh. Emil.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Joh. Georg, Sekler, a. Unterhallau, K. Schaffhausen - IV, 170. 810 Fr. - Maria Magd. Nuppli a. Unterhallau, K. Schaffh. 4 K. — 835 Aug. Maria Marg. — 38 Maria Elis. — 39 Karl Eugen. — 44 Joh. Emil."
+   },
+   {
+    "line_from": 17,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Neynens.",
+    "place": "Bern",
+    "surname": "Neynens",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 62",
+    "quarter": "V",
+    "street": "",
+    "house_no": "62",
+    "origin": "Heezé in Nord-Brabant",
+    "birth_year": "",
+    "household": "Fr. II Ehe. — Anna Maria Hodel a. Schwarzenegg. 7 K. — Aus I Ehe: 822 Arnold Peter. — 23 Heinrich Arnold. — 25 Elis. Maria Magd. — 26 Elis. Ludw. — 29 Abr. Friedrich. — 30 Heinrich. — Aus II Ehe: 31 Christ. Theophil.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Peter, Schneider, a. Heezé in Nord-Brabant - V, 62 Fr. II Ehe. — Anna Maria Hodel a. Schwarzenegg. 7 K. — Aus I Ehe: 822 Arnold Peter. — 23 Heinrich Arnold. — 25 Elis. Maria Magd. — 26 Elis. Ludw. — 29 Abr. Friedrich. — 30 Heinrich. — Aus II Ehe: 31 Christ. Theophil."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Nicod.",
+    "place": "Bern",
+    "surname": "Nicod",
+    "forename": "Rosa",
+    "title": "",
+    "occupation": "Lohnwascherin",
+    "address": "IV, 88",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "88",
+    "origin": "Vaud in Frankreich",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Ducommun",
+    "text": "1 Rosa, geb. Ducommun, Lohnwascherin, a. Vaud in Frankreich - IV, 88."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Niederhäuser.",
+    "place": "Bern",
+    "surname": "Niederhäuser",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Grempler",
+    "address": "IV, 75",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "75",
+    "origin": "Bowyl",
+    "birth_year": "1791",
+    "household": "790 Fr. - Elis. Marti, geb. Heinrich, a. Eriswyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 791 Bendicht, Grempler, a. Bowyl - IV, 75. 790 Fr. - Elis. Marti, geb. Heinrich, a. Eriswyl."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Niederhäuser.",
+    "place": "Bern",
+    "surname": "Niederhäuser",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "III, 18",
+    "quarter": "III",
+    "street": "",
+    "house_no": "18",
+    "origin": "Lauperswyl",
+    "birth_year": "1806",
+    "household": "796 Fr. II Ehe. — Anna Barb. Iseli a. Jegenstorf. 2 K. I Ehe. — 827 Elisabetha. — 39 Maria Magd.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 806 Jakob, Pintenwirth, a. Lauperswyl - III, 18. 796 Fr. II Ehe. — Anna Barb. Iseli a. Jegenstorf. 2 K. I Ehe. — 827 Elisabetha. — 39 Maria Magd."
+   },
+   {
+    "line_from": 33,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Niederhauser.",
+    "place": "Bern",
+    "surname": "Niederhauser",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Lehenmann und Kornmarktinspektor",
+    "address": "VII, 89",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "89",
+    "origin": "Eggiwyl",
+    "birth_year": "1802",
+    "household": "811 Fr. — Anna Stucki a. Buchholterberg. 5 K. — 833 Joh. Friedr. — 39 Karl Rud. — 41 Karl August. — 43 Anna Ros. — 44 Anna Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Johann, Lehenmann und Kornmarktinspektor, a. Eggiwyl - VII, 89. 811 Fr. — Anna Stucki a. Buchholterberg. 5 K. — 833 Joh. Friedr. — 39 Karl Rud. — 41 Karl August. — 43 Anna Ros. — 44 Anna Elis."
+   },
+   {
+    "line_from": 38,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Niederhauser.",
+    "place": "Bern",
+    "surname": "Niederhauser",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Geschäftsreisender u. Decatirer",
+    "address": "IV, 62",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "62",
+    "origin": "Eggiwyl",
+    "birth_year": "1806",
+    "household": "811 Fr. II Ehe. — Charl. Marg. Rosa Flükiger a. Rohrbach. 1 T. — 845 Rosa Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 806 Christian, Geschäftsreisender u. Decatirer, a. Eggiwyl - IV, 62. 811 Fr. II Ehe. — Charl. Marg. Rosa Flükiger a. Rohrbach. 1 T. — 845 Rosa Maria."
+   },
+   {
+    "line_from": 43,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Niggeler.",
+    "place": "Bern",
+    "surname": "Niggeler",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Fürsprecher",
+    "address": "V, 116",
+    "quarter": "V",
+    "street": "",
+    "house_no": "116",
+    "origin": "Affoltern",
+    "birth_year": "1817",
+    "household": "824 Fr. - Bertha Emilie Eleonore Sara Snell. (Die Kinder sind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 817 Niklaus, Fürsprecher, a. Affoltern - V, 116. 824 Fr. - Bertha Emilie Eleonore Sara Snell. (Die Kinder sind nicht eingeschrieben.)"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:07:31+01:00",
+ "last_error": null
+}

@@ -1,0 +1,394 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 28,
+ "section": "einsassen",
+ "started": "2026-11-11T21:56:13+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 21.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3704,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"15\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"— 15 —\" },\n    { \"n\": 2, \"text\": \"Nr. Geb.\" },\n    { \"n\": 3, \"text\": \"Bion.\" },\n    { \"n\": 4, \"text\": \"1 805 Christoph, Geschirrhändler, a. Dieuze in Frankreich -\" },\n    { \"n\": 5, \"text\": \"IV, 169.\" },\n    { \"n\": 6, \"text\": \"806 Fr. - Elis. Guisot a. Bertrambois\" },\n    { \"n\": 7, \"text\": \"1 T. 842 Maria Magd. Elisabetha.\" },\n    { \"n\": 8, \"text\": \"Birau.\" },\n    { \"n\": 9, \"text\": \"1 792 Christoph, Buchbinder u. Hauseigenthümer, a. Genf -\" },\n    { \"n\": 10, \"text\": \"IV, 277.\" },\n    { \"n\": 11, \"text\": \"790 Fr. - Maria Marg. Stooß a. Bern.\" },\n    { \"n\": 12, \"text\": \"2 S. — 827 Sam. Jakob Albr. — 33 Christ. August.\" },\n    { \"n\": 13, \"text\": \"Bircher.\" },\n    { \"n\": 14, \"text\": \"1 816 Johannes, Spengler, a. Küttigen, K. Aargau - II, 102.\" },\n    { \"n\": 15, \"text\": \"821 Fr. - Anna Maria Bohnenblust a. Aarburg.\" },\n    { \"n\": 16, \"text\": \"2 T. — 844 Maria Elisabetha. — 45 Sophie Anna.\" },\n    { \"n\": 17, \"text\": \"von Bischhausen.\" },\n    { \"n\": 18, \"text\": \"1 797 Detlef Em., Mühlemacher, a. Rein, K. Aargau - VI, 15.\" },\n    { \"n\": 19, \"text\": \"802 F. - Jakobea Muster.\" },\n    { \"n\": 20, \"text\": \"4 K. — 831 Abraham Emanuel. — 32 Ludwig Adam. —\" },\n    { \"n\": 21, \"text\": \"34 Verena. — 43 Adam Arnold.\" },\n    { \"n\": 22, \"text\": \"Bischoff.\" },\n    { \"n\": 23, \"text\": \"1 795 Maria Kath., geb. Lauterburg, des Klaßlehrers Wittwe,\" },\n    { \"n\": 24, \"text\": \"Pensionshalterin, a. Thun - IV, 204.\" },\n    { \"n\": 25, \"text\": \"Bisson.\" },\n    { \"n\": 26, \"text\": \"1 790 Jacques, Asphaltarbeiter, a. Condé sur Vire in Frank-\" },\n    { \"n\": 27, \"text\": \"reich - I, 183.\" },\n    { \"n\": 28, \"text\": \"Bize.\" },\n    { \"n\": 29, \"text\": \"1 808 Olymp. Franz Ludwig Aimé, Perrückenmacher, a. Vil-\" },\n    { \"n\": 30, \"text\": \"larzel, K. Waadt - IV, 175.\" },\n    { \"n\": 31, \"text\": \"Blanche.\" },\n    { \"n\": 32, \"text\": \"1 782 Barb. Katharina, geb. Bigler, a. Villette, K. Waadt,\" },\n    { \"n\": 33, \"text\": \"des gew. Schneidermeisters Ehefrau, Zimmervermie-\" },\n    { \"n\": 34, \"text\": \"therin - II, 122 c.\" },\n    { \"n\": 35, \"text\": \"Blank.\" },\n    { \"n\": 36, \"text\": \"1 803 Ros. Barbara, Hauseigenthümerin u. Wäscherin, a.\" },\n    { \"n\": 37, \"text\": \"Ins - II, 240.\" },\n    { \"n\": 38, \"text\": \"2 799 Anna, geb. Krebs, verw. Bieri, Kostgeberin - III, 51.\" },\n    { \"n\": 39, \"text\": \"3 K. — Aus I Ehe der Frau: 826 Joh. Gottlieb. —\" },\n    { \"n\": 40, \"text\": \"37 Maria Elis. — Aus II Ehe: 43 Samuel.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Bion.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bion\",\n      \"forename\": \"Christoph\",\n      \"title\": \"\",\n      \"occupation\": \"Geschirrhändler\",\n      \"address\": \"IV, 169\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"169\",\n      \"origin\": \"Dieuze in Frankreich\",\n      \"birth_year\": \"1805\",\n      \"household\": \"806 Fr. - Elis. Guisot a. Bertrambois; 1 T. 842 Maria Magd. Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Christoph, Geschirrhändler, a. Dieuze in Frankreich - IV, 169. 806 Fr. - Elis. Guisot a. Bertrambois 1 T. 842 Maria Magd. Elisabetha.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Birau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Birau\",\n      \"forename\": \"Christoph\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder u. Hauseigenthümer\",\n      \"address\": \"IV, 277\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"277\",\n      \"origin\": \"Genf\",\n      \"birth_year\": \"1792\",\n      \"household\": \"790 Fr. - Maria Marg. Stooß a. Bern.; 2 S. — 827 Sam. Jakob Albr. — 33 Christ. August.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 792 Christoph, Buchbinder u. Hauseigenthümer, a. Genf - IV, 277. 790 Fr. - Maria Marg. Stooß a. Bern. 2 S. — 827 Sam. Jakob Albr. — 33 Christ. August.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Bircher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bircher\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Spengler\",\n      \"address\": \"II, 102\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"102\",\n      \"origin\": \"Küttigen, K. Aargau\",\n      \"birth_year\": \"1816\",\n      \"household\": \"821 Fr. - Anna Maria Bohnenblust a. Aarburg.; 2 T. — 844 Maria Elisabetha. — 45 Sophie Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Johannes, Spengler, a. Küttigen, K. Aargau - II, 102. 821 Fr. - Anna Maria Bohnenblust a. Aarburg. 2 T. — 844 Maria Elisabetha. — 45 Sophie Anna.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"von Bischhausen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"von Bischhausen\",\n      \"forename\": \"Detlef Em.\",\n      \"title\": \"\",\n      \"occupation\": \"Mühlemacher\",\n      \"address\": \"VI, 15\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"15\",\n      \"origin\": \"Rein, K. Aargau\",\n      \"birth_year\": \"1797\",\n      \"household\": \"802 F. - Jakobea Muster.; 4 K. — 831 Abraham Emanuel. — 32 Ludwig Adam. — 34 Verena. — 43 Adam Arnold.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 Detlef Em., Mühlemacher, a. Rein, K. Aargau - VI, 15. 802 F. - Jakobea Muster. 4 K. — 831 Abraham Emanuel. — 32 Ludwig Adam. — 34 Verena. — 43 Adam Arnold.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Bischoff.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bischoff\",\n      \"forename\": \"Maria Kath.\",\n      \"title\": \"des Klaßlehrers Wittwe\",\n      \"occupation\": \"Pensionshalterin\",\n      \"address\": \"IV, 204\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"204\",\n      \"origin\": \"Thun\",\n      \"birth_year\": \"1795\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 795 Maria Kath., geb. Lauterburg, des Klaßlehrers Wittwe, Pensionshalterin, a. Thun - IV, 204.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Bisson.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bisson\",\n      \"forename\": \"Jacques\",\n      \"title\": \"\",\n      \"occupation\": \"Asphaltarbeiter\",\n      \"address\": \"I, 183\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"183\",\n      \"origin\": \"Condé sur Vire in Frankreich\",\n      \"birth_year\": \"1790\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Jacques, Asphaltarbeiter, a. Condé sur Vire in Frankreich - I, 183.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Bize.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bize\",\n      \"forename\": \"Olymp. Franz Ludwig Aimé\",\n      \"title\": \"\",\n      \"occupation\": \"Perrückenmacher\",\n      \"address\": \"IV, 175\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"175\",\n      \"origin\": \"Villarzel, K. Waadt\",\n      \"birth_year\": \"1808\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 808 Olymp. Franz Ludwig Aimé, Perrückenmacher, a. Villarzel, K. Waadt - IV, 175.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Blanche.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blanche\",\n      \"forename\": \"Barb. Katharina\",\n      \"title\": \"des gew. Schneidermeisters Ehefrau\",\n      \"occupation\": \"Zimmervermietherin\",\n      \"address\": \"II, 122 c\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 c\",\n      \"origin\": \"Villette, K. Waadt\",\n      \"birth_year\": \"1782\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 782 Barb. Katharina, geb. Bigler, a. Villette, K. Waadt, des gew. Schneidermeisters Ehefrau, Zimmervermietherin - II, 122 c.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Blank.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blank\",\n      \"forename\": \"Ros. Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Hauseigenthümerin u. Wäscherin\",\n      \"address\": \"II, 240\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"240\",\n      \"origin\": \"Ins\",\n      \"birth_year\": \"1803\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 Ros. Barbara, Hauseigenthümerin u. Wäscherin, a. Ins - II, 240.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Blank.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blank\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Kostgeberin\",\n      \"address\": \"III, 51\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"51\",\n      \"origin\": \"\",\n      \"birth_year\": \"1799\",\n      \"household\": \"3 K. — Aus I Ehe der Frau: 826 Joh. Gottlieb. — 37 Maria Elis. — Aus II Ehe: 43 Samuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 799 Anna, geb. Krebs, verw. Bieri, Kostgeberin - III, 51. 3 K. — Aus I Ehe der Frau: 826 Joh. Gottlieb. — 37 Maria Elis. — Aus II Ehe: 43 Samuel.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "15",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 15 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Bion."
+   },
+   {
+    "n": 4,
+    "text": "1 805 Christoph, Geschirrhändler, a. Dieuze in Frankreich -"
+   },
+   {
+    "n": 5,
+    "text": "IV, 169."
+   },
+   {
+    "n": 6,
+    "text": "806 Fr. - Elis. Guisot a. Bertrambois"
+   },
+   {
+    "n": 7,
+    "text": "1 T. 842 Maria Magd. Elisabetha."
+   },
+   {
+    "n": 8,
+    "text": "Birau."
+   },
+   {
+    "n": 9,
+    "text": "1 792 Christoph, Buchbinder u. Hauseigenthümer, a. Genf -"
+   },
+   {
+    "n": 10,
+    "text": "IV, 277."
+   },
+   {
+    "n": 11,
+    "text": "790 Fr. - Maria Marg. Stooß a. Bern."
+   },
+   {
+    "n": 12,
+    "text": "2 S. — 827 Sam. Jakob Albr. — 33 Christ. August."
+   },
+   {
+    "n": 13,
+    "text": "Bircher."
+   },
+   {
+    "n": 14,
+    "text": "1 816 Johannes, Spengler, a. Küttigen, K. Aargau - II, 102."
+   },
+   {
+    "n": 15,
+    "text": "821 Fr. - Anna Maria Bohnenblust a. Aarburg."
+   },
+   {
+    "n": 16,
+    "text": "2 T. — 844 Maria Elisabetha. — 45 Sophie Anna."
+   },
+   {
+    "n": 17,
+    "text": "von Bischhausen."
+   },
+   {
+    "n": 18,
+    "text": "1 797 Detlef Em., Mühlemacher, a. Rein, K. Aargau - VI, 15."
+   },
+   {
+    "n": 19,
+    "text": "802 F. - Jakobea Muster."
+   },
+   {
+    "n": 20,
+    "text": "4 K. — 831 Abraham Emanuel. — 32 Ludwig Adam. —"
+   },
+   {
+    "n": 21,
+    "text": "34 Verena. — 43 Adam Arnold."
+   },
+   {
+    "n": 22,
+    "text": "Bischoff."
+   },
+   {
+    "n": 23,
+    "text": "1 795 Maria Kath., geb. Lauterburg, des Klaßlehrers Wittwe,"
+   },
+   {
+    "n": 24,
+    "text": "Pensionshalterin, a. Thun - IV, 204."
+   },
+   {
+    "n": 25,
+    "text": "Bisson."
+   },
+   {
+    "n": 26,
+    "text": "1 790 Jacques, Asphaltarbeiter, a. Condé sur Vire in Frank-"
+   },
+   {
+    "n": 27,
+    "text": "reich - I, 183."
+   },
+   {
+    "n": 28,
+    "text": "Bize."
+   },
+   {
+    "n": 29,
+    "text": "1 808 Olymp. Franz Ludwig Aimé, Perrückenmacher, a. Vil-"
+   },
+   {
+    "n": 30,
+    "text": "larzel, K. Waadt - IV, 175."
+   },
+   {
+    "n": 31,
+    "text": "Blanche."
+   },
+   {
+    "n": 32,
+    "text": "1 782 Barb. Katharina, geb. Bigler, a. Villette, K. Waadt,"
+   },
+   {
+    "n": 33,
+    "text": "des gew. Schneidermeisters Ehefrau, Zimmervermie-"
+   },
+   {
+    "n": 34,
+    "text": "therin - II, 122 c."
+   },
+   {
+    "n": 35,
+    "text": "Blank."
+   },
+   {
+    "n": 36,
+    "text": "1 803 Ros. Barbara, Hauseigenthümerin u. Wäscherin, a."
+   },
+   {
+    "n": 37,
+    "text": "Ins - II, 240."
+   },
+   {
+    "n": 38,
+    "text": "2 799 Anna, geb. Krebs, verw. Bieri, Kostgeberin - III, 51."
+   },
+   {
+    "n": 39,
+    "text": "3 K. — Aus I Ehe der Frau: 826 Joh. Gottlieb. —"
+   },
+   {
+    "n": 40,
+    "text": "37 Maria Elis. — Aus II Ehe: 43 Samuel."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Bion.",
+    "place": "Bern",
+    "surname": "Bion",
+    "forename": "Christoph",
+    "title": "",
+    "occupation": "Geschirrhändler",
+    "address": "IV, 169",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "169",
+    "origin": "Dieuze in Frankreich",
+    "birth_year": "1805",
+    "household": "806 Fr. - Elis. Guisot a. Bertrambois; 1 T. 842 Maria Magd. Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Christoph, Geschirrhändler, a. Dieuze in Frankreich - IV, 169. 806 Fr. - Elis. Guisot a. Bertrambois 1 T. 842 Maria Magd. Elisabetha."
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Birau.",
+    "place": "Bern",
+    "surname": "Birau",
+    "forename": "Christoph",
+    "title": "",
+    "occupation": "Buchbinder u. Hauseigenthümer",
+    "address": "IV, 277",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "277",
+    "origin": "Genf",
+    "birth_year": "1792",
+    "household": "790 Fr. - Maria Marg. Stooß a. Bern.; 2 S. — 827 Sam. Jakob Albr. — 33 Christ. August.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 792 Christoph, Buchbinder u. Hauseigenthümer, a. Genf - IV, 277. 790 Fr. - Maria Marg. Stooß a. Bern. 2 S. — 827 Sam. Jakob Albr. — 33 Christ. August."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Bircher.",
+    "place": "Bern",
+    "surname": "Bircher",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Spengler",
+    "address": "II, 102",
+    "quarter": "II",
+    "street": "",
+    "house_no": "102",
+    "origin": "Küttigen, K. Aargau",
+    "birth_year": "1816",
+    "household": "821 Fr. - Anna Maria Bohnenblust a. Aarburg.; 2 T. — 844 Maria Elisabetha. — 45 Sophie Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Johannes, Spengler, a. Küttigen, K. Aargau - II, 102. 821 Fr. - Anna Maria Bohnenblust a. Aarburg. 2 T. — 844 Maria Elisabetha. — 45 Sophie Anna."
+   },
+   {
+    "line_from": 18,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "von Bischhausen.",
+    "place": "Bern",
+    "surname": "von Bischhausen",
+    "forename": "Detlef Em.",
+    "title": "",
+    "occupation": "Mühlemacher",
+    "address": "VI, 15",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "15",
+    "origin": "Rein, K. Aargau",
+    "birth_year": "1797",
+    "household": "802 F. - Jakobea Muster.; 4 K. — 831 Abraham Emanuel. — 32 Ludwig Adam. — 34 Verena. — 43 Adam Arnold.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 Detlef Em., Mühlemacher, a. Rein, K. Aargau - VI, 15. 802 F. - Jakobea Muster. 4 K. — 831 Abraham Emanuel. — 32 Ludwig Adam. — 34 Verena. — 43 Adam Arnold."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Bischoff.",
+    "place": "Bern",
+    "surname": "Bischoff",
+    "forename": "Maria Kath.",
+    "title": "des Klaßlehrers Wittwe",
+    "occupation": "Pensionshalterin",
+    "address": "IV, 204",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "204",
+    "origin": "Thun",
+    "birth_year": "1795",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 795 Maria Kath., geb. Lauterburg, des Klaßlehrers Wittwe, Pensionshalterin, a. Thun - IV, 204."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Bisson.",
+    "place": "Bern",
+    "surname": "Bisson",
+    "forename": "Jacques",
+    "title": "",
+    "occupation": "Asphaltarbeiter",
+    "address": "I, 183",
+    "quarter": "I",
+    "street": "",
+    "house_no": "183",
+    "origin": "Condé sur Vire in Frankreich",
+    "birth_year": "1790",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Jacques, Asphaltarbeiter, a. Condé sur Vire in Frankreich - I, 183."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Bize.",
+    "place": "Bern",
+    "surname": "Bize",
+    "forename": "Olymp. Franz Ludwig Aimé",
+    "title": "",
+    "occupation": "Perrückenmacher",
+    "address": "IV, 175",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "175",
+    "origin": "Villarzel, K. Waadt",
+    "birth_year": "1808",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 808 Olymp. Franz Ludwig Aimé, Perrückenmacher, a. Villarzel, K. Waadt - IV, 175."
+   },
+   {
+    "line_from": 32,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Blanche.",
+    "place": "Bern",
+    "surname": "Blanche",
+    "forename": "Barb. Katharina",
+    "title": "des gew. Schneidermeisters Ehefrau",
+    "occupation": "Zimmervermietherin",
+    "address": "II, 122 c",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 c",
+    "origin": "Villette, K. Waadt",
+    "birth_year": "1782",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 782 Barb. Katharina, geb. Bigler, a. Villette, K. Waadt, des gew. Schneidermeisters Ehefrau, Zimmervermietherin - II, 122 c."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Blank.",
+    "place": "Bern",
+    "surname": "Blank",
+    "forename": "Ros. Barbara",
+    "title": "",
+    "occupation": "Hauseigenthümerin u. Wäscherin",
+    "address": "II, 240",
+    "quarter": "II",
+    "street": "",
+    "house_no": "240",
+    "origin": "Ins",
+    "birth_year": "1803",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 Ros. Barbara, Hauseigenthümerin u. Wäscherin, a. Ins - II, 240."
+   },
+   {
+    "line_from": 38,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Blank.",
+    "place": "Bern",
+    "surname": "Blank",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Kostgeberin",
+    "address": "III, 51",
+    "quarter": "III",
+    "street": "",
+    "house_no": "51",
+    "origin": "",
+    "birth_year": "1799",
+    "household": "3 K. — Aus I Ehe der Frau: 826 Joh. Gottlieb. — 37 Maria Elis. — Aus II Ehe: 43 Samuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 799 Anna, geb. Krebs, verw. Bieri, Kostgeberin - III, 51. 3 K. — Aus I Ehe der Frau: 826 Joh. Gottlieb. — 37 Maria Elis. — Aus II Ehe: 43 Samuel."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:56:35+01:00",
+ "last_error": null
+}

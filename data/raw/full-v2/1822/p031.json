@@ -1,0 +1,542 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 31,
+ "section": "berufe",
+ "started": "2026-11-11T21:02:45+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 108.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2214,
+  "output": 4307,
+  "thoughts": 10346
+ },
+ "response_text": "{\n  \"printed_page\": \"23\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"23\"},\n    {\"n\": 2, \"text\": \"Nro.\"},\n    {\"n\": 3, \"text\": \"Rauch-Leist, Kramgaße … 223\"},\n    {\"n\": 4, \"text\": \"Thee-Leist, Kramgaße … 209\"},\n    {\"n\": 5, \"text\": \"Magazine.\"},\n    {\"n\": 6, \"text\": \"Meubeln-Magazin von Rudolf Aegerden, Aarberg-\"},\n    {\"n\": 7, \"text\": \"gaße … 74\"},\n    {\"n\": 8, \"text\": \"— — — — Albrecht Auer, Metzgerngaße 64\"},\n    {\"n\": 9, \"text\": \"— — — — Heinrich Hendrich, Schau-\"},\n    {\"n\": 10, \"text\": \"platzgaße … 204\"},\n    {\"n\": 11, \"text\": \"— — — — Matthias Hiß, Gerechtigkeit-\"},\n    {\"n\": 12, \"text\": \"gaße … 77\"},\n    {\"n\": 13, \"text\": \"— — — — Christoph Hopfengärtner,\"},\n    {\"n\": 14, \"text\": \"Brunngaße … 1\"},\n    {\"n\": 15, \"text\": \"— — — — Pfäffli, Bollwerk … 80\"},\n    {\"n\": 16, \"text\": \"— — — — Conr. Wüeterich, Metzgern-\"},\n    {\"n\": 17, \"text\": \"gaße … 96\"},\n    {\"n\": 18, \"text\": \"Spiegel-Magazin von Carl Albr. Diwy, Bildhauer\"},\n    {\"n\": 19, \"text\": \"und Vergolder, Gerwern-\"},\n    {\"n\": 20, \"text\": \"graben … 139\"},\n    {\"n\": 21, \"text\": \"— — — — J. Kopp, Vergolder, Gerech-\"},\n    {\"n\": 22, \"text\": \"tigkeitgaße … 114\"},\n    {\"n\": 23, \"text\": \"— — — — B. Pügin, Vergolder, Spi-\"},\n    {\"n\": 24, \"text\": \"talgaße … 163\"},\n    {\"n\": 25, \"text\": \"— — — — David Wenger, Marktgaße 38\"},\n    {\"n\": 26, \"text\": \"A. Notarien (Amts-).\"},\n    {\"n\": 27, \"text\": \"Bitzius, Albrecht Emanuel, Kesichgäßlein 95\"},\n    {\"n\": 28, \"text\": \"Gerster, Vater, Samuel, Judengaße … 115\"},\n    {\"n\": 29, \"text\": \"Gerster, Sohn, Samuel Ludw., Judengaße 115\"},\n    {\"n\": 30, \"text\": \"Hartmann, Siegmund Albrecht, Metzgerngaße 120\"},\n    {\"n\": 31, \"text\": \"Kaufmann, Samuel, Metzgerngaße … 127\"},\n    {\"n\": 32, \"text\": \"Krähenbühl, Johann Emanuel, Marktgaße 39\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"institution\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rauch-Leist\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 223\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"223\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rauch-Leist, Kramgaße 223\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"institution\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Thee-Leist\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 209\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"209\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Thee-Leist, Kramgaße 209\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aegerden\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Meubeln-Magazin\",\n      \"address\": \"Aarberggaße 74\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"74\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Meubeln-Magazin von Rudolf Aegerden, Aarberggaße 74\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Auer\",\n      \"forename\": \"Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"Meubeln-Magazin\",\n      \"address\": \"Metzgerngaße 64\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgerngaße\",\n      \"house_no\": \"64\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"— — — — Albrecht Auer, Metzgerngaße 64\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hendrich\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Meubeln-Magazin\",\n      \"address\": \"Schauplatzgaße 204\",\n      \"quarter\": \"\",\n      \"street\": \"Schauplatzgaße\",\n      \"house_no\": \"204\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"— — — — Heinrich Hendrich, Schauplatzgaße 204\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hiß\",\n      \"forename\": \"Matthias\",\n      \"title\": \"\",\n      \"occupation\": \"Meubeln-Magazin\",\n      \"address\": \"Gerechtigkeitgaße 77\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"77\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"— — — — Matthias Hiß, Gerechtigkeitgaße 77\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hopfengärtner\",\n      \"forename\": \"Christoph\",\n      \"title\": \"\",\n      \"occupation\": \"Meubeln-Magazin\",\n      \"address\": \"Brunngaße 1\",\n      \"quarter\": \"\",\n      \"street\": \"Brunngaße\",\n      \"house_no\": \"1\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"— — — — Christoph Hopfengärtner, Brunngaße 1\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pfäffli\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Meubeln-Magazin\",\n      \"address\": \"Bollwerk 80\",\n      \"quarter\": \"\",\n      \"street\": \"Bollwerk\",\n      \"house_no\": \"80\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"— — — — Pfäffli, Bollwerk 80\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wüeterich\",\n      \"forename\": \"Conr.\",\n      \"title\": \"\",\n      \"occupation\": \"Meubeln-Magazin\",\n      \"address\": \"Metzgerngaße 96\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgerngaße\",\n      \"house_no\": \"96\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"— — — — Conr. Wüeterich, Metzgerngaße 96\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Diwy\",\n      \"forename\": \"Carl Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"Bildhauer und Vergolder\",\n      \"address\": \"Gerwerngraben 139\",\n      \"quarter\": \"\",\n      \"street\": \"Gerwerngraben\",\n      \"house_no\": \"139\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Spiegel-Magazin von Carl Albr. Diwy, Bildhauer und Vergolder, Gerwerngraben 139\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kopp\",\n      \"forename\": \"J.\",\n      \"title\": \"\",\n      \"occupation\": \"Vergolder\",\n      \"address\": \"Gerechtigkeitgaße 114\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"114\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"— — — — J. Kopp, Vergolder, Gerechtigkeitgaße 114\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pügin\",\n      \"forename\": \"B.\",\n      \"title\": \"\",\n      \"occupation\": \"Vergolder\",\n      \"address\": \"Spitalgaße 163\",\n      \"quarter\": \"\",\n      \"street\": \"Spitalgaße\",\n      \"house_no\": \"163\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"— — — — B. Pügin, Vergolder, Spitalgaße 163\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Magazine.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wenger\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 38\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"38\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"— — — — David Wenger, Marktgaße 38\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"A. Notarien (Amts-).\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bitzius\",\n      \"forename\": \"Albrecht Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kesichgäßlein 95\",\n      \"quarter\": \"\",\n      \"street\": \"Kesichgäßlein\",\n      \"house_no\": \"95\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bitzius, Albrecht Emanuel, Kesichgäßlein 95\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"A. Notarien (Amts-).\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerster\",\n      \"forename\": \"Samuel\",\n      \"title\": \"Vater\",\n      \"occupation\": \"\",\n      \"address\": \"Judengaße 115\",\n      \"quarter\": \"\",\n      \"street\": \"Judengaße\",\n      \"house_no\": \"115\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gerster, Vater, Samuel, Judengaße 115\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"A. Notarien (Amts-).\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerster\",\n      \"forename\": \"Samuel Ludw.\",\n      \"title\": \"Sohn\",\n      \"occupation\": \"\",\n      \"address\": \"Judengaße 115\",\n      \"quarter\": \"\",\n      \"street\": \"Judengaße\",\n      \"house_no\": \"115\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gerster, Sohn, Samuel Ludw., Judengaße 115\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"A. Notarien (Amts-).\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hartmann\",\n      \"forename\": \"Siegmund Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Metzgerngaße 120\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgerngaße\",\n      \"house_no\": \"120\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hartmann, Siegmund Albrecht, Metzgerngaße 120\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"A. Notarien (Amts-).\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kaufmann\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Metzgerngaße 127\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgerngaße\",\n      \"house_no\": \"127\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kaufmann, Samuel, Metzgerngaße 127\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"A. Notarien (Amts-).\",\n      \"place\": \"Bern\",\n      \"surname\": \"Krähenbühl\",\n      \"forename\": \"Johann Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 39\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"39\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Krähenbühl, Johann Emanuel, Marktgaße 39\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "23",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "23"
+   },
+   {
+    "n": 2,
+    "text": "Nro."
+   },
+   {
+    "n": 3,
+    "text": "Rauch-Leist, Kramgaße … 223"
+   },
+   {
+    "n": 4,
+    "text": "Thee-Leist, Kramgaße … 209"
+   },
+   {
+    "n": 5,
+    "text": "Magazine."
+   },
+   {
+    "n": 6,
+    "text": "Meubeln-Magazin von Rudolf Aegerden, Aarberg-"
+   },
+   {
+    "n": 7,
+    "text": "gaße … 74"
+   },
+   {
+    "n": 8,
+    "text": "— — — — Albrecht Auer, Metzgerngaße 64"
+   },
+   {
+    "n": 9,
+    "text": "— — — — Heinrich Hendrich, Schau-"
+   },
+   {
+    "n": 10,
+    "text": "platzgaße … 204"
+   },
+   {
+    "n": 11,
+    "text": "— — — — Matthias Hiß, Gerechtigkeit-"
+   },
+   {
+    "n": 12,
+    "text": "gaße … 77"
+   },
+   {
+    "n": 13,
+    "text": "— — — — Christoph Hopfengärtner,"
+   },
+   {
+    "n": 14,
+    "text": "Brunngaße … 1"
+   },
+   {
+    "n": 15,
+    "text": "— — — — Pfäffli, Bollwerk … 80"
+   },
+   {
+    "n": 16,
+    "text": "— — — — Conr. Wüeterich, Metzgern-"
+   },
+   {
+    "n": 17,
+    "text": "gaße … 96"
+   },
+   {
+    "n": 18,
+    "text": "Spiegel-Magazin von Carl Albr. Diwy, Bildhauer"
+   },
+   {
+    "n": 19,
+    "text": "und Vergolder, Gerwern-"
+   },
+   {
+    "n": 20,
+    "text": "graben … 139"
+   },
+   {
+    "n": 21,
+    "text": "— — — — J. Kopp, Vergolder, Gerech-"
+   },
+   {
+    "n": 22,
+    "text": "tigkeitgaße … 114"
+   },
+   {
+    "n": 23,
+    "text": "— — — — B. Pügin, Vergolder, Spi-"
+   },
+   {
+    "n": 24,
+    "text": "talgaße … 163"
+   },
+   {
+    "n": 25,
+    "text": "— — — — David Wenger, Marktgaße 38"
+   },
+   {
+    "n": 26,
+    "text": "A. Notarien (Amts-)."
+   },
+   {
+    "n": 27,
+    "text": "Bitzius, Albrecht Emanuel, Kesichgäßlein 95"
+   },
+   {
+    "n": 28,
+    "text": "Gerster, Vater, Samuel, Judengaße … 115"
+   },
+   {
+    "n": 29,
+    "text": "Gerster, Sohn, Samuel Ludw., Judengaße 115"
+   },
+   {
+    "n": 30,
+    "text": "Hartmann, Siegmund Albrecht, Metzgerngaße 120"
+   },
+   {
+    "n": 31,
+    "text": "Kaufmann, Samuel, Metzgerngaße … 127"
+   },
+   {
+    "n": 32,
+    "text": "Krähenbühl, Johann Emanuel, Marktgaße 39"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "institution",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Rauch-Leist",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 223",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "223",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rauch-Leist, Kramgaße 223"
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "institution",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Thee-Leist",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 209",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "209",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Thee-Leist, Kramgaße 209"
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Aegerden",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Meubeln-Magazin",
+    "address": "Aarberggaße 74",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "74",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Meubeln-Magazin von Rudolf Aegerden, Aarberggaße 74"
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Auer",
+    "forename": "Albrecht",
+    "title": "",
+    "occupation": "Meubeln-Magazin",
+    "address": "Metzgerngaße 64",
+    "quarter": "",
+    "street": "Metzgerngaße",
+    "house_no": "64",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "— — — — Albrecht Auer, Metzgerngaße 64"
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Hendrich",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Meubeln-Magazin",
+    "address": "Schauplatzgaße 204",
+    "quarter": "",
+    "street": "Schauplatzgaße",
+    "house_no": "204",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "— — — — Heinrich Hendrich, Schauplatzgaße 204"
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Hiß",
+    "forename": "Matthias",
+    "title": "",
+    "occupation": "Meubeln-Magazin",
+    "address": "Gerechtigkeitgaße 77",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "77",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "— — — — Matthias Hiß, Gerechtigkeitgaße 77"
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Hopfengärtner",
+    "forename": "Christoph",
+    "title": "",
+    "occupation": "Meubeln-Magazin",
+    "address": "Brunngaße 1",
+    "quarter": "",
+    "street": "Brunngaße",
+    "house_no": "1",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "— — — — Christoph Hopfengärtner, Brunngaße 1"
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Pfäffli",
+    "forename": "",
+    "title": "",
+    "occupation": "Meubeln-Magazin",
+    "address": "Bollwerk 80",
+    "quarter": "",
+    "street": "Bollwerk",
+    "house_no": "80",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "— — — — Pfäffli, Bollwerk 80"
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Wüeterich",
+    "forename": "Conr.",
+    "title": "",
+    "occupation": "Meubeln-Magazin",
+    "address": "Metzgerngaße 96",
+    "quarter": "",
+    "street": "Metzgerngaße",
+    "house_no": "96",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "— — — — Conr. Wüeterich, Metzgerngaße 96"
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Diwy",
+    "forename": "Carl Albr.",
+    "title": "",
+    "occupation": "Bildhauer und Vergolder",
+    "address": "Gerwerngraben 139",
+    "quarter": "",
+    "street": "Gerwerngraben",
+    "house_no": "139",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Spiegel-Magazin von Carl Albr. Diwy, Bildhauer und Vergolder, Gerwerngraben 139"
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Kopp",
+    "forename": "J.",
+    "title": "",
+    "occupation": "Vergolder",
+    "address": "Gerechtigkeitgaße 114",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "114",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "— — — — J. Kopp, Vergolder, Gerechtigkeitgaße 114"
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Pügin",
+    "forename": "B.",
+    "title": "",
+    "occupation": "Vergolder",
+    "address": "Spitalgaße 163",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "163",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "— — — — B. Pügin, Vergolder, Spitalgaße 163"
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Magazine.",
+    "place": "Bern",
+    "surname": "Wenger",
+    "forename": "David",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 38",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "38",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "— — — — David Wenger, Marktgaße 38"
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "A. Notarien (Amts-).",
+    "place": "Bern",
+    "surname": "Bitzius",
+    "forename": "Albrecht Emanuel",
+    "title": "",
+    "occupation": "",
+    "address": "Kesichgäßlein 95",
+    "quarter": "",
+    "street": "Kesichgäßlein",
+    "house_no": "95",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bitzius, Albrecht Emanuel, Kesichgäßlein 95"
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "A. Notarien (Amts-).",
+    "place": "Bern",
+    "surname": "Gerster",
+    "forename": "Samuel",
+    "title": "Vater",
+    "occupation": "",
+    "address": "Judengaße 115",
+    "quarter": "",
+    "street": "Judengaße",
+    "house_no": "115",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gerster, Vater, Samuel, Judengaße 115"
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "A. Notarien (Amts-).",
+    "place": "Bern",
+    "surname": "Gerster",
+    "forename": "Samuel Ludw.",
+    "title": "Sohn",
+    "occupation": "",
+    "address": "Judengaße 115",
+    "quarter": "",
+    "street": "Judengaße",
+    "house_no": "115",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gerster, Sohn, Samuel Ludw., Judengaße 115"
+   },
+   {
+    "line_from": 30,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "A. Notarien (Amts-).",
+    "place": "Bern",
+    "surname": "Hartmann",
+    "forename": "Siegmund Albrecht",
+    "title": "",
+    "occupation": "",
+    "address": "Metzgerngaße 120",
+    "quarter": "",
+    "street": "Metzgerngaße",
+    "house_no": "120",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hartmann, Siegmund Albrecht, Metzgerngaße 120"
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "A. Notarien (Amts-).",
+    "place": "Bern",
+    "surname": "Kaufmann",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "Metzgerngaße 127",
+    "quarter": "",
+    "street": "Metzgerngaße",
+    "house_no": "127",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kaufmann, Samuel, Metzgerngaße 127"
+   },
+   {
+    "line_from": 32,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "A. Notarien (Amts-).",
+    "place": "Bern",
+    "surname": "Krähenbühl",
+    "forename": "Johann Emanuel",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 39",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "39",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Krähenbühl, Johann Emanuel, Marktgaße 39"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:04:34+01:00",
+ "last_error": null
+}

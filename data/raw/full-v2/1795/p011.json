@@ -1,0 +1,358 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 11,
+ "section": "handbuch",
+ "started": "2026-11-11T20:46:51+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 92.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 2718,
+  "thoughts": 9349
+ },
+ "response_text": "{\n  \"printed_page\": \"9\",\n  \"running_head\": \"Bern.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Bern. 9\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Ziegler, älter, Eisenhandlung en détail.\"},\n    {\"n\": 4, \"text\": \"Cathar. Elis. Zehender, handelt mit Tabak\"},\n    {\"n\": 5, \"text\": \"und Specerey.\"},\n    {\"n\": 6, \"text\": \"Buchdruckereyen sind vier. 1) die Obrigkeitl.\"},\n    {\"n\": 7, \"text\": \"Hr. Brunner, 2) Hr. Kaufhausverw. Fischer,\"},\n    {\"n\": 8, \"text\": \"3) Hr. R. A. Haller, 4) Hr. Em. Hortin;\"},\n    {\"n\": 9, \"text\": \"letzterer hat das Calender = Privilegium.\"},\n    {\"n\": 10, \"text\": \"Kunstarbeiter, Kunsthändler und handel=\"},\n    {\"n\": 11, \"text\": \"treibende Professionisten.\"},\n    {\"n\": 12, \"text\": \"Reinhold Bohl, von Danzig, wohnt unter dem\"},\n    {\"n\": 13, \"text\": \"Gerechtigkeitsbrunnen, verfertiget Bauriße, Plans,\"},\n    {\"n\": 14, \"text\": \"mechanische Arbeiten, wenn man ihm nur einige Er=\"},\n    {\"n\": 15, \"text\": \"klärung über die Würkung einer Maschine geben\"},\n    {\"n\": 16, \"text\": \"kann, so ist er im Stande dieselbe zu machen.\"},\n    {\"n\": 17, \"text\": \"Friedrich Brugger, wohnhaft auf dem Korn=\"},\n    {\"n\": 18, \"text\": \"hausplatz. Gold = und Silberarbeiter, hat ein schö=\"},\n    {\"n\": 19, \"text\": \"nes Assortiment von allerley fertigen Sachen.\"},\n    {\"n\": 20, \"text\": \"David Daniel Flügel, Tuchschärer an der\"},\n    {\"n\": 21, \"text\": \"Matten.\"},\n    {\"n\": 22, \"text\": \"Em. Frey, Handschuh = Fabrikant an der Keß=\"},\n    {\"n\": 23, \"text\": \"lergaß.\"},\n    {\"n\": 24, \"text\": \"Franz. Em. Furer, Messerschmidt, wohnhaft\"},\n    {\"n\": 25, \"text\": \"an der Keßlergaß, verfertiget und verkauft alle\"},\n    {\"n\": 26, \"text\": \"Sorten Messer und chirurgische Instrumente.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Handelsherren und Fabrikanten\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ziegler\",\n      \"forename\": \"\",\n      \"title\": \"Herr, älter\",\n      \"occupation\": \"Eisenhandlung en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Ziegler, älter, Eisenhandlung en détail.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Handelsherren und Fabrikanten\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zehender\",\n      \"forename\": \"Cathar. Elis.\",\n      \"title\": \"\",\n      \"occupation\": \"handelt mit Tabak und Specerey\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Cathar. Elis. Zehender, handelt mit Tabak und Specerey.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Buchdruckereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunner\",\n      \"forename\": \"\",\n      \"title\": \"Hr.\",\n      \"occupation\": \"die Obrigkeitl. Buchdruckerey\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Buchdruckereyen sind vier. 1) die Obrigkeitl. Hr. Brunner\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Buchdruckereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fischer\",\n      \"forename\": \"\",\n      \"title\": \"Hr. Kaufhausverw.\",\n      \"occupation\": \"Buchdrucker\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"2) Hr. Kaufhausverw. Fischer\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Buchdruckereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"R. A.\",\n      \"title\": \"Hr.\",\n      \"occupation\": \"Buchdrucker\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"3) Hr. R. A. Haller\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Buchdruckereyen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hortin\",\n      \"forename\": \"Em.\",\n      \"title\": \"Hr.\",\n      \"occupation\": \"Buchdrucker\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"hat das Calender = Privilegium\",\n      \"text\": \"4) Hr. Em. Hortin; letzterer hat das Calender = Privilegium.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Kunstarbeiter, Kunsthändler und handeltreibende Professionisten\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bohl\",\n      \"forename\": \"Reinhold\",\n      \"title\": \"\",\n      \"occupation\": \"verfertiget Bauriße, Plans, mechanische Arbeiten\",\n      \"address\": \"unter dem Gerechtigkeitsbrunnen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"von Danzig\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reinhold Bohl, von Danzig, wohnt unter dem Gerechtigkeitsbrunnen, verfertiget Bauriße, Plans, mechanische Arbeiten, wenn man ihm nur einige Erklärung über die Würkung einer Maschine geben kann, so ist er im Stande dieselbe zu machen.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Kunstarbeiter, Kunsthändler und handeltreibende Professionisten\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brugger\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Gold = und Silberarbeiter\",\n      \"address\": \"auf dem Kornhausplatz\",\n      \"quarter\": \"\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Friedrich Brugger, wohnhaft auf dem Kornhausplatz. Gold = und Silberarbeiter, hat ein schönes Assortiment von allerley fertigen Sachen.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Kunstarbeiter, Kunsthändler und handeltreibende Professionisten\",\n      \"place\": \"Bern\",\n      \"surname\": \"Flügel\",\n      \"forename\": \"David Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Tuchschärer\",\n      \"address\": \"an der Matten\",\n      \"quarter\": \"Matten\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"David Daniel Flügel, Tuchschärer an der Matten.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Kunstarbeiter, Kunsthändler und handeltreibende Professionisten\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\",\n      \"forename\": \"Em.\",\n      \"title\": \"\",\n      \"occupation\": \"Handschuh = Fabrikant\",\n      \"address\": \"an der Keßlergaß\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaß\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Em. Frey, Handschuh = Fabrikant an der Keßlergaß.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Kunstarbeiter, Kunsthändler und handeltreibende Professionisten\",\n      \"place\": \"Bern\",\n      \"surname\": \"Furer\",\n      \"forename\": \"Franz. Em.\",\n      \"title\": \"\",\n      \"occupation\": \"Messerschmidt\",\n      \"address\": \"an der Keßlergaß\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaß\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Franz. Em. Furer, Messerschmidt, wohnhaft an der Keßlergaß, verfertiget und verkauft alle Sorten Messer und chirurgische Instrumente.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "9",
+  "running_head": "Bern.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Bern. 9"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Ziegler, älter, Eisenhandlung en détail."
+   },
+   {
+    "n": 4,
+    "text": "Cathar. Elis. Zehender, handelt mit Tabak"
+   },
+   {
+    "n": 5,
+    "text": "und Specerey."
+   },
+   {
+    "n": 6,
+    "text": "Buchdruckereyen sind vier. 1) die Obrigkeitl."
+   },
+   {
+    "n": 7,
+    "text": "Hr. Brunner, 2) Hr. Kaufhausverw. Fischer,"
+   },
+   {
+    "n": 8,
+    "text": "3) Hr. R. A. Haller, 4) Hr. Em. Hortin;"
+   },
+   {
+    "n": 9,
+    "text": "letzterer hat das Calender = Privilegium."
+   },
+   {
+    "n": 10,
+    "text": "Kunstarbeiter, Kunsthändler und handel="
+   },
+   {
+    "n": 11,
+    "text": "treibende Professionisten."
+   },
+   {
+    "n": 12,
+    "text": "Reinhold Bohl, von Danzig, wohnt unter dem"
+   },
+   {
+    "n": 13,
+    "text": "Gerechtigkeitsbrunnen, verfertiget Bauriße, Plans,"
+   },
+   {
+    "n": 14,
+    "text": "mechanische Arbeiten, wenn man ihm nur einige Er="
+   },
+   {
+    "n": 15,
+    "text": "klärung über die Würkung einer Maschine geben"
+   },
+   {
+    "n": 16,
+    "text": "kann, so ist er im Stande dieselbe zu machen."
+   },
+   {
+    "n": 17,
+    "text": "Friedrich Brugger, wohnhaft auf dem Korn="
+   },
+   {
+    "n": 18,
+    "text": "hausplatz. Gold = und Silberarbeiter, hat ein schö="
+   },
+   {
+    "n": 19,
+    "text": "nes Assortiment von allerley fertigen Sachen."
+   },
+   {
+    "n": 20,
+    "text": "David Daniel Flügel, Tuchschärer an der"
+   },
+   {
+    "n": 21,
+    "text": "Matten."
+   },
+   {
+    "n": 22,
+    "text": "Em. Frey, Handschuh = Fabrikant an der Keß="
+   },
+   {
+    "n": 23,
+    "text": "lergaß."
+   },
+   {
+    "n": 24,
+    "text": "Franz. Em. Furer, Messerschmidt, wohnhaft"
+   },
+   {
+    "n": 25,
+    "text": "an der Keßlergaß, verfertiget und verkauft alle"
+   },
+   {
+    "n": 26,
+    "text": "Sorten Messer und chirurgische Instrumente."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Handelsherren und Fabrikanten",
+    "place": "Bern",
+    "surname": "Ziegler",
+    "forename": "",
+    "title": "Herr, älter",
+    "occupation": "Eisenhandlung en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Ziegler, älter, Eisenhandlung en détail."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Handelsherren und Fabrikanten",
+    "place": "Bern",
+    "surname": "Zehender",
+    "forename": "Cathar. Elis.",
+    "title": "",
+    "occupation": "handelt mit Tabak und Specerey",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Cathar. Elis. Zehender, handelt mit Tabak und Specerey."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Buchdruckereyen",
+    "place": "Bern",
+    "surname": "Brunner",
+    "forename": "",
+    "title": "Hr.",
+    "occupation": "die Obrigkeitl. Buchdruckerey",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Buchdruckereyen sind vier. 1) die Obrigkeitl. Hr. Brunner"
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Buchdruckereyen",
+    "place": "Bern",
+    "surname": "Fischer",
+    "forename": "",
+    "title": "Hr. Kaufhausverw.",
+    "occupation": "Buchdrucker",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "2) Hr. Kaufhausverw. Fischer"
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Buchdruckereyen",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "R. A.",
+    "title": "Hr.",
+    "occupation": "Buchdrucker",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "3) Hr. R. A. Haller"
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Buchdruckereyen",
+    "place": "Bern",
+    "surname": "Hortin",
+    "forename": "Em.",
+    "title": "Hr.",
+    "occupation": "Buchdrucker",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "hat das Calender = Privilegium",
+    "text": "4) Hr. Em. Hortin; letzterer hat das Calender = Privilegium."
+   },
+   {
+    "line_from": 12,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Kunstarbeiter, Kunsthändler und handeltreibende Professionisten",
+    "place": "Bern",
+    "surname": "Bohl",
+    "forename": "Reinhold",
+    "title": "",
+    "occupation": "verfertiget Bauriße, Plans, mechanische Arbeiten",
+    "address": "unter dem Gerechtigkeitsbrunnen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "von Danzig",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reinhold Bohl, von Danzig, wohnt unter dem Gerechtigkeitsbrunnen, verfertiget Bauriße, Plans, mechanische Arbeiten, wenn man ihm nur einige Erklärung über die Würkung einer Maschine geben kann, so ist er im Stande dieselbe zu machen."
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Kunstarbeiter, Kunsthändler und handeltreibende Professionisten",
+    "place": "Bern",
+    "surname": "Brugger",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Gold = und Silberarbeiter",
+    "address": "auf dem Kornhausplatz",
+    "quarter": "",
+    "street": "Kornhausplatz",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friedrich Brugger, wohnhaft auf dem Kornhausplatz. Gold = und Silberarbeiter, hat ein schönes Assortiment von allerley fertigen Sachen."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Kunstarbeiter, Kunsthändler und handeltreibende Professionisten",
+    "place": "Bern",
+    "surname": "Flügel",
+    "forename": "David Daniel",
+    "title": "",
+    "occupation": "Tuchschärer",
+    "address": "an der Matten",
+    "quarter": "Matten",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "David Daniel Flügel, Tuchschärer an der Matten."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Kunstarbeiter, Kunsthändler und handeltreibende Professionisten",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "Em.",
+    "title": "",
+    "occupation": "Handschuh = Fabrikant",
+    "address": "an der Keßlergaß",
+    "quarter": "",
+    "street": "Keßlergaß",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Em. Frey, Handschuh = Fabrikant an der Keßlergaß."
+   },
+   {
+    "line_from": 24,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Kunstarbeiter, Kunsthändler und handeltreibende Professionisten",
+    "place": "Bern",
+    "surname": "Furer",
+    "forename": "Franz. Em.",
+    "title": "",
+    "occupation": "Messerschmidt",
+    "address": "an der Keßlergaß",
+    "quarter": "",
+    "street": "Keßlergaß",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Franz. Em. Furer, Messerschmidt, wohnhaft an der Keßlergaß, verfertiget und verkauft alle Sorten Messer und chirurgische Instrumente."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:48:23+01:00",
+ "last_error": null
+}

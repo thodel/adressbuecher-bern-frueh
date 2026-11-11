@@ -1,0 +1,410 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 178,
+ "section": "einsassen",
+ "started": "2026-11-11T22:12:10+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 39.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4010,
+  "thoughts": 2122
+ },
+ "response_text": "{\n  \"printed_page\": \"165\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"— 165 —\" },\n    { \"n\": 2, \"text\": \"Nr. Geb.\" },\n    { \"n\": 3, \"text\": \"Vetterli a. Wagenhausen, K. Thurgau.\" },\n    { \"n\": 4, \"text\": \"1 803 Rudolf, Strumpfweber u. Handelsmann mit Baum-\" },\n    { \"n\": 5, \"text\": \"wollenwaaren - II, 151.\" },\n    { \"n\": 6, \"text\": \"1 S. — 830 Christ. Jakob.\" },\n    { \"n\": 7, \"text\": \"2 811 Johannes, Schuhmacher - V, 204.\" },\n    { \"n\": 8, \"text\": \"821 Fr. - Anna Magd. Luchsinger a. Enggen, K. Glarus.\" },\n    { \"n\": 9, \"text\": \"2 K. — 842 Johann. — 43 Anna.\" },\n    { \"n\": 10, \"text\": \"Vial.\" },\n    { \"n\": 11, \"text\": \"1 801 Jean Marie, Kerzenmacher, a. St. Genis Lawal in\" },\n    { \"n\": 12, \"text\": \"Frankreich - IV, 74.\" },\n    { \"n\": 13, \"text\": \"Fr. - Maria Anna Bader a. Nüttenen.\" },\n    { \"n\": 14, \"text\": \"3 S. — 837 Charles J. Christoph. — 39 Ed. Friedr.\" },\n    { \"n\": 15, \"text\": \"— 41 J. Louis.\" },\n    { \"n\": 16, \"text\": \"Viande.\" },\n    { \"n\": 17, \"text\": \"1 800 J. Samuel, Parfümeriehändler, a. Genf - IV, 212.\" },\n    { \"n\": 18, \"text\": \"Victor.\" },\n    { \"n\": 19, \"text\": \"1 802 Johann, Schreiber, a. Vich, K. Waadt - V, 123.\" },\n    { \"n\": 20, \"text\": \"Vielebert.\" },\n    { \"n\": 21, \"text\": \"1 783 Joh. Jakob, Schneider, bern. Landsaß - III, 25.\" },\n    { \"n\": 22, \"text\": \"803 Fr. II Ehe. - Magd. Franz. a. Hilterfingen.\" },\n    { \"n\": 23, \"text\": \"2 T. aus II Ehe: 33 Maria Elis. — 42 Maria.\" },\n    { \"n\": 24, \"text\": \"Vivian a. Köniz.\" },\n    { \"n\": 25, \"text\": \"1 Magdalena, geb. Lüdi, Ausschenkerin - II, 16.\" },\n    { \"n\": 26, \"text\": \"2 T. — 838 Anna Maria. — 40 Magdalena.\" },\n    { \"n\": 27, \"text\": \"2 805 Samuel, Strumpfweber u. Krämer - II, 238.\" },\n    { \"n\": 28, \"text\": \"810 Fr. - Rosa Magd. Hubacher a. Bümpliz.\" },\n    { \"n\": 29, \"text\": \"Viotti.\" },\n    { \"n\": 30, \"text\": \"1 814 Antoine, Gypser u. Maler, a. Alagna in Sardinien-IV, 2.\" },\n    { \"n\": 31, \"text\": \"von Vivis.\" },\n    { \"n\": 32, \"text\": \"1 802 Viktor, Buchhalter, a. Solothurn - I, 95.\" },\n    { \"n\": 33, \"text\": \"814 Fr. - Marie Adele Mousson.\" },\n    { \"n\": 34, \"text\": \"5 K. — 840 Elis. Vikt. Louise. — 42 Jos. Vikt. Gustav.\" },\n    { \"n\": 35, \"text\": \"— 45 Paul Georg. — 46 Viktor Amad. — 47 Karl August.\" },\n    { \"n\": 36, \"text\": \"Vögeli.\" },\n    { \"n\": 37, \"text\": \"1 799 Anna, verw. Gerig, geb. Lüthi, Krämerin, des Be-\" },\n    { \"n\": 38, \"text\": \"dienten Frau, a. Zauggenried - V, 214.\" },\n    { \"n\": 39, \"text\": \"1 T. — 826 Magd. Katharina.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Vetterli a. Wagenhausen, K. Thurgau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Vetterli\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Strumpfweber u. Handelsmann mit Baumwollenwaaren\",\n      \"address\": \"II, 151\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"151\",\n      \"origin\": \"Wagenhausen, K. Thurgau\",\n      \"birth_year\": \"1803\",\n      \"household\": \"1 S. — 830 Christ. Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 Rudolf, Strumpfweber u. Handelsmann mit Baumwollenwaaren - II, 151. 1 S. — 830 Christ. Jakob.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Vetterli a. Wagenhausen, K. Thurgau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Vetterli\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 204\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"204\",\n      \"origin\": \"Wagenhausen, K. Thurgau\",\n      \"birth_year\": \"1811\",\n      \"household\": \"821 Fr. - Anna Magd. Luchsinger a. Enggen, K. Glarus. 2 K. — 842 Johann. — 43 Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 811 Johannes, Schuhmacher - V, 204. 821 Fr. - Anna Magd. Luchsinger a. Enggen, K. Glarus. 2 K. — 842 Johann. — 43 Anna.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Vial.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Vial\",\n      \"forename\": \"Jean Marie\",\n      \"title\": \"\",\n      \"occupation\": \"Kerzenmacher\",\n      \"address\": \"IV, 74\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"74\",\n      \"origin\": \"St. Genis Lawal in Frankreich\",\n      \"birth_year\": \"1801\",\n      \"household\": \"Fr. - Maria Anna Bader a. Nüttenen. 3 S. — 837 Charles J. Christoph. — 39 Ed. Friedr. — 41 J. Louis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 801 Jean Marie, Kerzenmacher, a. St. Genis Lawal in Frankreich - IV, 74. Fr. - Maria Anna Bader a. Nüttenen. 3 S. — 837 Charles J. Christoph. — 39 Ed. Friedr. — 41 J. Louis.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Viande.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Viande\",\n      \"forename\": \"J. Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Parfümeriehändler\",\n      \"address\": \"IV, 212\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"212\",\n      \"origin\": \"Genf\",\n      \"birth_year\": \"1800\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 800 J. Samuel, Parfümeriehändler, a. Genf - IV, 212.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Victor.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Victor\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"V, 123\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"123\",\n      \"origin\": \"Vich, K. Waadt\",\n      \"birth_year\": \"1802\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Johann, Schreiber, a. Vich, K. Waadt - V, 123.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Vielebert.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Vielebert\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"III, 25\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"25\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1783\",\n      \"household\": \"803 Fr. II Ehe. - Magd. Franz. a. Hilterfingen. 2 T. aus II Ehe: 33 Maria Elis. — 42 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 783 Joh. Jakob, Schneider, bern. Landsaß - III, 25. 803 Fr. II Ehe. - Magd. Franz. a. Hilterfingen. 2 T. aus II Ehe: 33 Maria Elis. — 42 Maria.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Vivian a. Köniz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Vivian\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"geb. Lüdi\",\n      \"occupation\": \"Ausschenkerin\",\n      \"address\": \"II, 16\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"16\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"\",\n      \"household\": \"2 T. — 838 Anna Maria. — 40 Magdalena.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Magdalena, geb. Lüdi, Ausschenkerin - II, 16. 2 T. — 838 Anna Maria. — 40 Magdalena.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Vivian a. Köniz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Vivian\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Strumpfweber u. Krämer\",\n      \"address\": \"II, 238\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"238\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1805\",\n      \"household\": \"810 Fr. - Rosa Magd. Hubacher a. Bümpliz.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 805 Samuel, Strumpfweber u. Krämer - II, 238. 810 Fr. - Rosa Magd. Hubacher a. Bümpliz.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Viotti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Viotti\",\n      \"forename\": \"Antoine\",\n      \"title\": \"\",\n      \"occupation\": \"Gypser u. Maler\",\n      \"address\": \"IV, 2\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"2\",\n      \"origin\": \"Alagna in Sardinien\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Antoine, Gypser u. Maler, a. Alagna in Sardinien-IV, 2.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"von Vivis.\",\n      \"place\": \"Bern\",\n      \"surname\": \"von Vivis\",\n      \"forename\": \"Viktor\",\n      \"title\": \"\",\n      \"occupation\": \"Buchhalter\",\n      \"address\": \"I, 95\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"Solothurn\",\n      \"birth_year\": \"1802\",\n      \"household\": \"814 Fr. - Marie Adele Mousson. 5 K. — 840 Elis. Vikt. Louise. — 42 Jos. Vikt. Gustav. — 45 Paul Georg. — 46 Viktor Amad. — 47 Karl August.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Viktor, Buchhalter, a. Solothurn - I, 95. 814 Fr. - Marie Adele Mousson. 5 K. — 840 Elis. Vikt. Louise. — 42 Jos. Vikt. Gustav. — 45 Paul Georg. — 46 Viktor Amad. — 47 Karl August.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Vögeli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Vögeli\",\n      \"forename\": \"Anna\",\n      \"title\": \"verw. Gerig, geb. Lüthi, des Bedienten Frau\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"V, 214\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"214\",\n      \"origin\": \"Zauggenried\",\n      \"birth_year\": \"1799\",\n      \"household\": \"1 T. — 826 Magd. Katharina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Anna, verw. Gerig, geb. Lüthi, Krämerin, des Bedienten Frau, a. Zauggenried - V, 214. 1 T. — 826 Magd. Katharina.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "165",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 165 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Vetterli a. Wagenhausen, K. Thurgau."
+   },
+   {
+    "n": 4,
+    "text": "1 803 Rudolf, Strumpfweber u. Handelsmann mit Baum-"
+   },
+   {
+    "n": 5,
+    "text": "wollenwaaren - II, 151."
+   },
+   {
+    "n": 6,
+    "text": "1 S. — 830 Christ. Jakob."
+   },
+   {
+    "n": 7,
+    "text": "2 811 Johannes, Schuhmacher - V, 204."
+   },
+   {
+    "n": 8,
+    "text": "821 Fr. - Anna Magd. Luchsinger a. Enggen, K. Glarus."
+   },
+   {
+    "n": 9,
+    "text": "2 K. — 842 Johann. — 43 Anna."
+   },
+   {
+    "n": 10,
+    "text": "Vial."
+   },
+   {
+    "n": 11,
+    "text": "1 801 Jean Marie, Kerzenmacher, a. St. Genis Lawal in"
+   },
+   {
+    "n": 12,
+    "text": "Frankreich - IV, 74."
+   },
+   {
+    "n": 13,
+    "text": "Fr. - Maria Anna Bader a. Nüttenen."
+   },
+   {
+    "n": 14,
+    "text": "3 S. — 837 Charles J. Christoph. — 39 Ed. Friedr."
+   },
+   {
+    "n": 15,
+    "text": "— 41 J. Louis."
+   },
+   {
+    "n": 16,
+    "text": "Viande."
+   },
+   {
+    "n": 17,
+    "text": "1 800 J. Samuel, Parfümeriehändler, a. Genf - IV, 212."
+   },
+   {
+    "n": 18,
+    "text": "Victor."
+   },
+   {
+    "n": 19,
+    "text": "1 802 Johann, Schreiber, a. Vich, K. Waadt - V, 123."
+   },
+   {
+    "n": 20,
+    "text": "Vielebert."
+   },
+   {
+    "n": 21,
+    "text": "1 783 Joh. Jakob, Schneider, bern. Landsaß - III, 25."
+   },
+   {
+    "n": 22,
+    "text": "803 Fr. II Ehe. - Magd. Franz. a. Hilterfingen."
+   },
+   {
+    "n": 23,
+    "text": "2 T. aus II Ehe: 33 Maria Elis. — 42 Maria."
+   },
+   {
+    "n": 24,
+    "text": "Vivian a. Köniz."
+   },
+   {
+    "n": 25,
+    "text": "1 Magdalena, geb. Lüdi, Ausschenkerin - II, 16."
+   },
+   {
+    "n": 26,
+    "text": "2 T. — 838 Anna Maria. — 40 Magdalena."
+   },
+   {
+    "n": 27,
+    "text": "2 805 Samuel, Strumpfweber u. Krämer - II, 238."
+   },
+   {
+    "n": 28,
+    "text": "810 Fr. - Rosa Magd. Hubacher a. Bümpliz."
+   },
+   {
+    "n": 29,
+    "text": "Viotti."
+   },
+   {
+    "n": 30,
+    "text": "1 814 Antoine, Gypser u. Maler, a. Alagna in Sardinien-IV, 2."
+   },
+   {
+    "n": 31,
+    "text": "von Vivis."
+   },
+   {
+    "n": 32,
+    "text": "1 802 Viktor, Buchhalter, a. Solothurn - I, 95."
+   },
+   {
+    "n": 33,
+    "text": "814 Fr. - Marie Adele Mousson."
+   },
+   {
+    "n": 34,
+    "text": "5 K. — 840 Elis. Vikt. Louise. — 42 Jos. Vikt. Gustav."
+   },
+   {
+    "n": 35,
+    "text": "— 45 Paul Georg. — 46 Viktor Amad. — 47 Karl August."
+   },
+   {
+    "n": 36,
+    "text": "Vögeli."
+   },
+   {
+    "n": 37,
+    "text": "1 799 Anna, verw. Gerig, geb. Lüthi, Krämerin, des Be-"
+   },
+   {
+    "n": 38,
+    "text": "dienten Frau, a. Zauggenried - V, 214."
+   },
+   {
+    "n": 39,
+    "text": "1 T. — 826 Magd. Katharina."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Vetterli a. Wagenhausen, K. Thurgau.",
+    "place": "Bern",
+    "surname": "Vetterli",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Strumpfweber u. Handelsmann mit Baumwollenwaaren",
+    "address": "II, 151",
+    "quarter": "II",
+    "street": "",
+    "house_no": "151",
+    "origin": "Wagenhausen, K. Thurgau",
+    "birth_year": "1803",
+    "household": "1 S. — 830 Christ. Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 Rudolf, Strumpfweber u. Handelsmann mit Baumwollenwaaren - II, 151. 1 S. — 830 Christ. Jakob."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Vetterli a. Wagenhausen, K. Thurgau.",
+    "place": "Bern",
+    "surname": "Vetterli",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 204",
+    "quarter": "V",
+    "street": "",
+    "house_no": "204",
+    "origin": "Wagenhausen, K. Thurgau",
+    "birth_year": "1811",
+    "household": "821 Fr. - Anna Magd. Luchsinger a. Enggen, K. Glarus. 2 K. — 842 Johann. — 43 Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 811 Johannes, Schuhmacher - V, 204. 821 Fr. - Anna Magd. Luchsinger a. Enggen, K. Glarus. 2 K. — 842 Johann. — 43 Anna."
+   },
+   {
+    "line_from": 11,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Vial.",
+    "place": "Bern",
+    "surname": "Vial",
+    "forename": "Jean Marie",
+    "title": "",
+    "occupation": "Kerzenmacher",
+    "address": "IV, 74",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "74",
+    "origin": "St. Genis Lawal in Frankreich",
+    "birth_year": "1801",
+    "household": "Fr. - Maria Anna Bader a. Nüttenen. 3 S. — 837 Charles J. Christoph. — 39 Ed. Friedr. — 41 J. Louis.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 801 Jean Marie, Kerzenmacher, a. St. Genis Lawal in Frankreich - IV, 74. Fr. - Maria Anna Bader a. Nüttenen. 3 S. — 837 Charles J. Christoph. — 39 Ed. Friedr. — 41 J. Louis."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Viande.",
+    "place": "Bern",
+    "surname": "Viande",
+    "forename": "J. Samuel",
+    "title": "",
+    "occupation": "Parfümeriehändler",
+    "address": "IV, 212",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "212",
+    "origin": "Genf",
+    "birth_year": "1800",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 800 J. Samuel, Parfümeriehändler, a. Genf - IV, 212."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Victor.",
+    "place": "Bern",
+    "surname": "Victor",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "V, 123",
+    "quarter": "V",
+    "street": "",
+    "house_no": "123",
+    "origin": "Vich, K. Waadt",
+    "birth_year": "1802",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Johann, Schreiber, a. Vich, K. Waadt - V, 123."
+   },
+   {
+    "line_from": 21,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Vielebert.",
+    "place": "Bern",
+    "surname": "Vielebert",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "III, 25",
+    "quarter": "III",
+    "street": "",
+    "house_no": "25",
+    "origin": "bern. Landsaß",
+    "birth_year": "1783",
+    "household": "803 Fr. II Ehe. - Magd. Franz. a. Hilterfingen. 2 T. aus II Ehe: 33 Maria Elis. — 42 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 783 Joh. Jakob, Schneider, bern. Landsaß - III, 25. 803 Fr. II Ehe. - Magd. Franz. a. Hilterfingen. 2 T. aus II Ehe: 33 Maria Elis. — 42 Maria."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Vivian a. Köniz.",
+    "place": "Bern",
+    "surname": "Vivian",
+    "forename": "Magdalena",
+    "title": "geb. Lüdi",
+    "occupation": "Ausschenkerin",
+    "address": "II, 16",
+    "quarter": "II",
+    "street": "",
+    "house_no": "16",
+    "origin": "Köniz",
+    "birth_year": "",
+    "household": "2 T. — 838 Anna Maria. — 40 Magdalena.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Magdalena, geb. Lüdi, Ausschenkerin - II, 16. 2 T. — 838 Anna Maria. — 40 Magdalena."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Vivian a. Köniz.",
+    "place": "Bern",
+    "surname": "Vivian",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Strumpfweber u. Krämer",
+    "address": "II, 238",
+    "quarter": "II",
+    "street": "",
+    "house_no": "238",
+    "origin": "Köniz",
+    "birth_year": "1805",
+    "household": "810 Fr. - Rosa Magd. Hubacher a. Bümpliz.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 805 Samuel, Strumpfweber u. Krämer - II, 238. 810 Fr. - Rosa Magd. Hubacher a. Bümpliz."
+   },
+   {
+    "line_from": 30,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Viotti.",
+    "place": "Bern",
+    "surname": "Viotti",
+    "forename": "Antoine",
+    "title": "",
+    "occupation": "Gypser u. Maler",
+    "address": "IV, 2",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "2",
+    "origin": "Alagna in Sardinien",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Antoine, Gypser u. Maler, a. Alagna in Sardinien-IV, 2."
+   },
+   {
+    "line_from": 32,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "von Vivis.",
+    "place": "Bern",
+    "surname": "von Vivis",
+    "forename": "Viktor",
+    "title": "",
+    "occupation": "Buchhalter",
+    "address": "I, 95",
+    "quarter": "I",
+    "street": "",
+    "house_no": "95",
+    "origin": "Solothurn",
+    "birth_year": "1802",
+    "household": "814 Fr. - Marie Adele Mousson. 5 K. — 840 Elis. Vikt. Louise. — 42 Jos. Vikt. Gustav. — 45 Paul Georg. — 46 Viktor Amad. — 47 Karl August.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Viktor, Buchhalter, a. Solothurn - I, 95. 814 Fr. - Marie Adele Mousson. 5 K. — 840 Elis. Vikt. Louise. — 42 Jos. Vikt. Gustav. — 45 Paul Georg. — 46 Viktor Amad. — 47 Karl August."
+   },
+   {
+    "line_from": 37,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Vögeli.",
+    "place": "Bern",
+    "surname": "Vögeli",
+    "forename": "Anna",
+    "title": "verw. Gerig, geb. Lüthi, des Bedienten Frau",
+    "occupation": "Krämerin",
+    "address": "V, 214",
+    "quarter": "V",
+    "street": "",
+    "house_no": "214",
+    "origin": "Zauggenried",
+    "birth_year": "1799",
+    "household": "1 T. — 826 Magd. Katharina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Anna, verw. Gerig, geb. Lüthi, Krämerin, des Bedienten Frau, a. Zauggenried - V, 214. 1 T. — 826 Magd. Katharina."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:12:49+01:00",
+ "last_error": null
+}

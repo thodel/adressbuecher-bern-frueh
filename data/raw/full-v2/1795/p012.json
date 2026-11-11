@@ -1,0 +1,346 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 12,
+ "section": "handbuch",
+ "started": "2026-11-11T20:45:02+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 44.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 2619,
+  "thoughts": 3925
+ },
+ "response_text": "{\n  \"printed_page\": \"10\",\n  \"running_head\": \"Bern.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"10 Bern.\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Gerhart, aus der Pfalz, Bierbrauerey, weis\"},\n    {\"n\": 4, \"text\": \"und braun Bier, versendet solches en gros in Fässern.\"},\n    {\"n\": 5, \"text\": \"Joh. Ad. Groß, an der Matte, schleift und\"},\n    {\"n\": 6, \"text\": \"pollirt alle Arten von Instrumenten, auch Fossilien\"},\n    {\"n\": 7, \"text\": \"und Steine.\"},\n    {\"n\": 8, \"text\": \"Franz Hänni, Uhrmacher an der neuen Gaß,\"},\n    {\"n\": 9, \"text\": \"verkauft goldene, silberne und similorne Sakuhren,\"},\n    {\"n\": 10, \"text\": \"er nimmt auch andere dagegen in Tausch; gleich=\"},\n    {\"n\": 11, \"text\": \"falls findet man bey ihm Pendulen von allen Arten.\"},\n    {\"n\": 12, \"text\": \"Hornschuh, (wohnhaft bey Hr. Jäger,) ver=\"},\n    {\"n\": 13, \"text\": \"kauft alle Arten von musikalischen Instrumenten,\"},\n    {\"n\": 14, \"text\": \"und besitzt eine ansehnliche Sammlung von den neue=\"},\n    {\"n\": 15, \"text\": \"sten Musikstücken der berühmtesten Componisten von\"},\n    {\"n\": 16, \"text\": \"Europa.\"},\n    {\"n\": 17, \"text\": \"Joseph Howardt, verfertiget gute piano forte,\"},\n    {\"n\": 18, \"text\": \"Christian Jenni, verfertiget chirurgische In=\"},\n    {\"n\": 19, \"text\": \"strumente.\"},\n    {\"n\": 20, \"text\": \"Emanuel König, Flach = Mahler, Vater, und\"},\n    {\"n\": 21, \"text\": \"David Sam. König, Sohn, an der Golatten=\"},\n    {\"n\": 22, \"text\": \"mattgassen.\"},\n    {\"n\": 23, \"text\": \"J. Künsch, in der obrigkeitlichen Oehlmühle\"},\n    {\"n\": 24, \"text\": \"an der Matte, schlägt alle Sorten Oehle, und ver=\"},\n    {\"n\": 25, \"text\": \"kauft sie en gros und en détail.\"},\n    {\"n\": 26, \"text\": \"Maurer, Mahler, wohnhaft gegen über dem\"},\n    {\"n\": 27, \"text\": \"goldenen Adler, besitzt die Kunst den alten Gemähl=\"},\n    {\"n\": 28, \"text\": \"den wieder die vorige Schönheit zu geben, ohne das\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerhart\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Bierbrauerey, weis und braun Bier\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"aus der Pfalz\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gerhart, aus der Pfalz, Bierbrauerey, weis und braun Bier, versendet solches en gros in Fässern.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Groß\",\n      \"forename\": \"Joh. Ad.\",\n      \"title\": \"\",\n      \"occupation\": \"schleift und pollirt alle Arten von Instrumenten, auch Fossilien und Steine\",\n      \"address\": \"an der Matte\",\n      \"quarter\": \"\",\n      \"street\": \"an der Matte\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Ad. Groß, an der Matte, schleift und pollirt alle Arten von Instrumenten, auch Fossilien und Steine.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hänni\",\n      \"forename\": \"Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrmacher\",\n      \"address\": \"an der neuen Gaß\",\n      \"quarter\": \"\",\n      \"street\": \"neuen Gaß\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Franz Hänni, Uhrmacher an der neuen Gaß, verkauft goldene, silberne und similorne Sakuhren, er nimmt auch andere dagegen in Tausch; gleichfalls findet man bey ihm Pendulen von allen Arten.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hornschuh\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"verkauft alle Arten von musikalischen Instrumenten\",\n      \"address\": \"wohnhaft bey Hr. Jäger\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"Hr. Jäger\",\n      \"note\": \"\",\n      \"text\": \"Hornschuh, (wohnhaft bey Hr. Jäger,) verkauft alle Arten von musikalischen Instrumenten, und besitzt eine ansehnliche Sammlung von den neuesten Musikstücken der berühmtesten Componisten von Europa.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Howardt\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"verfertiget gute piano forte\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joseph Howardt, verfertiget gute piano forte,\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jenni\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"verfertiget chirurgische Instrumente\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Christian Jenni, verfertiget chirurgische Instrumente.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"König\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"Vater\",\n      \"occupation\": \"Flach = Mahler\",\n      \"address\": \"an der Golattenmattgassen\",\n      \"quarter\": \"\",\n      \"street\": \"Golattenmattgassen\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Emanuel König, Flach = Mahler, Vater, und David Sam. König, Sohn, an der Golattenmattgassen.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"König\",\n      \"forename\": \"David Sam.\",\n      \"title\": \"Sohn\",\n      \"occupation\": \"\",\n      \"address\": \"an der Golattenmattgassen\",\n      \"quarter\": \"\",\n      \"street\": \"Golattenmattgassen\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Emanuel König, Flach = Mahler, Vater, und David Sam. König, Sohn, an der Golattenmattgassen.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Künsch\",\n      \"forename\": \"J.\",\n      \"title\": \"\",\n      \"occupation\": \"schlägt alle Sorten Oehle, und verkauft sie en gros und en détail\",\n      \"address\": \"in der obrigkeitlichen Oehlmühle an der Matte\",\n      \"quarter\": \"\",\n      \"street\": \"an der Matte\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. Künsch, in der obrigkeitlichen Oehlmühle an der Matte, schlägt alle Sorten Oehle, und verkauft sie en gros und en détail.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Maurer\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Mahler\",\n      \"address\": \"wohnhaft gegen über dem goldenen Adler\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Maurer, Mahler, wohnhaft gegen über dem goldenen Adler, besitzt die Kunst den alten Gemählden wieder die vorige Schönheit zu geben, ohne das\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "10",
+  "running_head": "Bern.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "10 Bern."
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Gerhart, aus der Pfalz, Bierbrauerey, weis"
+   },
+   {
+    "n": 4,
+    "text": "und braun Bier, versendet solches en gros in Fässern."
+   },
+   {
+    "n": 5,
+    "text": "Joh. Ad. Groß, an der Matte, schleift und"
+   },
+   {
+    "n": 6,
+    "text": "pollirt alle Arten von Instrumenten, auch Fossilien"
+   },
+   {
+    "n": 7,
+    "text": "und Steine."
+   },
+   {
+    "n": 8,
+    "text": "Franz Hänni, Uhrmacher an der neuen Gaß,"
+   },
+   {
+    "n": 9,
+    "text": "verkauft goldene, silberne und similorne Sakuhren,"
+   },
+   {
+    "n": 10,
+    "text": "er nimmt auch andere dagegen in Tausch; gleich="
+   },
+   {
+    "n": 11,
+    "text": "falls findet man bey ihm Pendulen von allen Arten."
+   },
+   {
+    "n": 12,
+    "text": "Hornschuh, (wohnhaft bey Hr. Jäger,) ver="
+   },
+   {
+    "n": 13,
+    "text": "kauft alle Arten von musikalischen Instrumenten,"
+   },
+   {
+    "n": 14,
+    "text": "und besitzt eine ansehnliche Sammlung von den neue="
+   },
+   {
+    "n": 15,
+    "text": "sten Musikstücken der berühmtesten Componisten von"
+   },
+   {
+    "n": 16,
+    "text": "Europa."
+   },
+   {
+    "n": 17,
+    "text": "Joseph Howardt, verfertiget gute piano forte,"
+   },
+   {
+    "n": 18,
+    "text": "Christian Jenni, verfertiget chirurgische In="
+   },
+   {
+    "n": 19,
+    "text": "strumente."
+   },
+   {
+    "n": 20,
+    "text": "Emanuel König, Flach = Mahler, Vater, und"
+   },
+   {
+    "n": 21,
+    "text": "David Sam. König, Sohn, an der Golatten="
+   },
+   {
+    "n": 22,
+    "text": "mattgassen."
+   },
+   {
+    "n": 23,
+    "text": "J. Künsch, in der obrigkeitlichen Oehlmühle"
+   },
+   {
+    "n": 24,
+    "text": "an der Matte, schlägt alle Sorten Oehle, und ver="
+   },
+   {
+    "n": 25,
+    "text": "kauft sie en gros und en détail."
+   },
+   {
+    "n": 26,
+    "text": "Maurer, Mahler, wohnhaft gegen über dem"
+   },
+   {
+    "n": 27,
+    "text": "goldenen Adler, besitzt die Kunst den alten Gemähl="
+   },
+   {
+    "n": 28,
+    "text": "den wieder die vorige Schönheit zu geben, ohne das"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Gerhart",
+    "forename": "",
+    "title": "",
+    "occupation": "Bierbrauerey, weis und braun Bier",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "aus der Pfalz",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gerhart, aus der Pfalz, Bierbrauerey, weis und braun Bier, versendet solches en gros in Fässern."
+   },
+   {
+    "line_from": 5,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Groß",
+    "forename": "Joh. Ad.",
+    "title": "",
+    "occupation": "schleift und pollirt alle Arten von Instrumenten, auch Fossilien und Steine",
+    "address": "an der Matte",
+    "quarter": "",
+    "street": "an der Matte",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Ad. Groß, an der Matte, schleift und pollirt alle Arten von Instrumenten, auch Fossilien und Steine."
+   },
+   {
+    "line_from": 8,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Hänni",
+    "forename": "Franz",
+    "title": "",
+    "occupation": "Uhrmacher",
+    "address": "an der neuen Gaß",
+    "quarter": "",
+    "street": "neuen Gaß",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Franz Hänni, Uhrmacher an der neuen Gaß, verkauft goldene, silberne und similorne Sakuhren, er nimmt auch andere dagegen in Tausch; gleichfalls findet man bey ihm Pendulen von allen Arten."
+   },
+   {
+    "line_from": 12,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Hornschuh",
+    "forename": "",
+    "title": "",
+    "occupation": "verkauft alle Arten von musikalischen Instrumenten",
+    "address": "wohnhaft bey Hr. Jäger",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "Hr. Jäger",
+    "note": "",
+    "text": "Hornschuh, (wohnhaft bey Hr. Jäger,) verkauft alle Arten von musikalischen Instrumenten, und besitzt eine ansehnliche Sammlung von den neuesten Musikstücken der berühmtesten Componisten von Europa."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Howardt",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "verfertiget gute piano forte",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joseph Howardt, verfertiget gute piano forte,"
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Jenni",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "verfertiget chirurgische Instrumente",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Christian Jenni, verfertiget chirurgische Instrumente."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "König",
+    "forename": "Emanuel",
+    "title": "Vater",
+    "occupation": "Flach = Mahler",
+    "address": "an der Golattenmattgassen",
+    "quarter": "",
+    "street": "Golattenmattgassen",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Emanuel König, Flach = Mahler, Vater, und David Sam. König, Sohn, an der Golattenmattgassen."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "König",
+    "forename": "David Sam.",
+    "title": "Sohn",
+    "occupation": "",
+    "address": "an der Golattenmattgassen",
+    "quarter": "",
+    "street": "Golattenmattgassen",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Emanuel König, Flach = Mahler, Vater, und David Sam. König, Sohn, an der Golattenmattgassen."
+   },
+   {
+    "line_from": 23,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Künsch",
+    "forename": "J.",
+    "title": "",
+    "occupation": "schlägt alle Sorten Oehle, und verkauft sie en gros und en détail",
+    "address": "in der obrigkeitlichen Oehlmühle an der Matte",
+    "quarter": "",
+    "street": "an der Matte",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. Künsch, in der obrigkeitlichen Oehlmühle an der Matte, schlägt alle Sorten Oehle, und verkauft sie en gros und en détail."
+   },
+   {
+    "line_from": 26,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Maurer",
+    "forename": "",
+    "title": "",
+    "occupation": "Mahler",
+    "address": "wohnhaft gegen über dem goldenen Adler",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Maurer, Mahler, wohnhaft gegen über dem goldenen Adler, besitzt die Kunst den alten Gemählden wieder die vorige Schönheit zu geben, ohne das"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:45:46+01:00",
+ "last_error": null
+}

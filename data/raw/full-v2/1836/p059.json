@@ -1,0 +1,1006 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1836",
+ "page": 59,
+ "section": "einwohner",
+ "started": "2026-11-11T21:09:21+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 58.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2401,
+  "output": 10045,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"50\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"50\" },\n    { \"n\": 2, \"text\": \"Diwy, Frz. Rud., Bäckermstr., landesabwesend. B.\" },\n    { \"n\": 3, \"text\": \"Dollinger, Joh. Christ., Strumpfwebermstr., R. Qr. Schauplatzgasse\" },\n    { \"n\": 4, \"text\": \"S. Nr. 215.\" },\n    { \"n\": 5, \"text\": \"Drechsler, geb. Betscher, Elise, Wittwe, Gb. Qr. Käsiggäßlein S.\" },\n    { \"n\": 6, \"text\": \"Nr. 101. H.\" },\n    { \"n\": 7, \"text\": \"Drechsler, Erbschaft des Gottl. Frdr., Schuhmacher, Gb. Qr. Käsig-\" },\n    { \"n\": 8, \"text\": \"gäßlein S. Nr. 101. H.\" },\n    { \"n\": 9, \"text\": \"Drechsler, geb. Lauffer, Ver. Barb. Kathar., Speziererin, Gb. Qr.\" },\n    { \"n\": 10, \"text\": \"Marktgasse S. Nr. 90. H.\" },\n    { \"n\": 11, \"text\": \"Droz, Rosette, Feinzeugwäscherin, W. Qr. Junkerngasse * Nr. 149.\" },\n    { \"n\": 12, \"text\": \"Dubach, Dav. Gottl., Schreinermstr., R. Qr. Schauplatzg. S. Nr. 235.\" },\n    { \"n\": 13, \"text\": \"Dubach, Sam., Butterhändler, Gn. Qr. Schulgasse * Nr. 301.\" },\n    { \"n\": 14, \"text\": \"Dubler, Peter, Schuhmachermstr., R. Qr. Spitalg. S. Nr. 167.\" },\n    { \"n\": 15, \"text\": \"Ducommun, Abr. Louis, Sesselmacher, R. Qr. Neuengasse * Nr. 91.\" },\n    { \"n\": 16, \"text\": \"Dübi, Joh. Bernh. Ludw., Hutmacher und Kanzleiläufer, R. Qr.\" },\n    { \"n\": 17, \"text\": \"Spitalgasse * Nr. 137.\" },\n    { \"n\": 18, \"text\": \"Dübi, Gebrüder, Rud. Christ. und Jak. Karl, Uhrenmacher, Gn. Qr.\" },\n    { \"n\": 19, \"text\": \"Hotellaube S. Nr. 235. H. B.\" },\n    { \"n\": 20, \"text\": \"Dübi, Erbschaft des gew. Adlerwirths, W. Qr. Gerechtigkeitsgasse\" },\n    { \"n\": 21, \"text\": \"S. Nr. 142. H.\" },\n    { \"n\": 22, \"text\": \"Dübi, geb. Weibel, Maria Magd., Adlerwirthin, W. Qr. Gerechtig-\" },\n    { \"n\": 23, \"text\": \"keitsgasse S. Nr. 142. H.\" },\n    { \"n\": 24, \"text\": \"Dübi, Schwestern, Modehändlerinnen, Gn. Qr. Hotellaube Nr. 230.\" },\n    { \"n\": 25, \"text\": \"Dufaur, Dav. Heinr., Mechaniker, W. Qr. Gerechtigkeitsg. * Nr. 83.\" },\n    { \"n\": 26, \"text\": \"Dufresne, Eman., Bäckermstr., R. Qr. Neuengasse S. Nr. 109. H. B.\" },\n    { \"n\": 27, \"text\": \"Dufresne, Joh., im Burgerspital.\" },\n    { \"n\": 28, \"text\": \"Dufresne, Joh. Sam., Umbieter und Offizial, R. Qr. Schauplatzg.\" },\n    { \"n\": 29, \"text\": \"S. Nr. 213. B.\" },\n    { \"n\": 30, \"text\": \"Dufresne, Joh., ohne Beruf, R. Qr. Neuengasse * Nr. 99. H. u. B.\" },\n    { \"n\": 31, \"text\": \"Dufresne, Edw., Buchbindermstr., R. Qr. am alten Viehmarkt Nr. 242. B.\" },\n    { \"n\": 32, \"text\": \"Dufresne, Nikl. Em., Bäckermstr., R. Qr. Spitalg. S. Nr. 159 und\" },\n    { \"n\": 33, \"text\": \"168. Schauplatzg. * Nr. 90 und 194. H. B.\" },\n    { \"n\": 34, \"text\": \"Dünki, Bernh. Karl Rud., Notar und Schaffner zu Thorberg. B.\" },\n    { \"n\": 35, \"text\": \"Dünki, Sigism., Schwertfeger, Gn. Qr. Brunngasse * Nr. 4. H. B.\" },\n    { \"n\": 36, \"text\": \"Dünz, Joh. Albr., Spezierer und Tabakfabrikant, Ohmgeldkassirer,\" },\n    { \"n\": 37, \"text\": \"Gn. Qr. Metzgergasse * Nr. 64. * Brunngasse Nr. 40.\" },\n    { \"n\": 38, \"text\": \"H. u. B.\" },\n    { \"n\": 39, \"text\": \"Dünz, Alb. Sam. Seb., Instrumentmacher, R. Qr. Aarbergerg. S.\" },\n    { \"n\": 40, \"text\": \"Nr. 61. H. B.\" },\n    { \"n\": 41, \"text\": \"Dünz, Dav. Karl Sam., Instrumentmacher, R. Qr. Aarbergergasse\" },\n    { \"n\": 42, \"text\": \"S. Nr. 61. B.\" },\n    { \"n\": 43, \"text\": \"Dünz, Jakob, Schreinermstr., W. Qr. Junkerngasse * Nr. 147. B.\" },\n    { \"n\": 44, \"text\": \"Duperret, geb. Martin, Marg., Färberin, R. Qr. Neueng. * Nr. 93.\" },\n    { \"n\": 45, \"text\": \"Dürig, Joh. Sam., Prokurator, Gb. Qr. Käsiggäßlein gegen die Juden-\" },\n    { \"n\": 46, \"text\": \"gasse Nr. 99.\" },\n    { \"n\": 47, \"text\": \"Dütoit, K. Em., Lieutenant, Sekretär des Untersuchungsrichters,\" },\n    { \"n\": 48, \"text\": \"Gn. Qr. Brunngasse * Nr. 20.\" },\n    { \"n\": 49, \"text\": \"Duliker, Susanne, Rentière, Gb. Qr. Kornhausplatz * Nr. 147. Gn.\" },\n    { \"n\": 50, \"text\": \"Qr. Metzgerg. * Nr. 65. Länggaßdrittel Nr. 204, 205.\" },\n    { \"n\": 51, \"text\": \"H. u. B.\" },\n    { \"n\": 52, \"text\": \"Duliker, Sam., Fischer, R. Qr. Schauplatzgasse S. Nr. 205. B.\" },\n    { \"n\": 53, \"text\": \"Durheim, Bernh. Nikl. Sam., Lieutenant, Schreiber beim Finanz-\" },\n    { \"n\": 54, \"text\": \"departement. B.\" },\n    { \"n\": 55, \"text\": \"Durheim, Gottl. Sam., Oberrichter, Gb. Qr. Marktg. * Nr. 42. B.\" },\n    { \"n\": 56, \"text\": \"Durheim, Karl, Lithograph, R. Qr. Spitalgasse * Nr. 128. B.\" },\n    { \"n\": 57, \"text\": \"Durheim, Gr. Rath, Zoll- und Ohmgeldverwalter, R. Qr. Neueng.\" },\n    { \"n\": 58, \"text\": \"S. Nr. 114, und Spitalg. * Nr. 128.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Diwy\",\n      \"forename\": \"Frz. Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Bäckermstr.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"landesabwesend. B.\",\n      \"text\": \"Diwy, Frz. Rud., Bäckermstr., landesabwesend. B.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dollinger\",\n      \"forename\": \"Joh. Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Strumpfwebermstr.\",\n      \"address\": \"R. Qr. Schauplatzgasse S. Nr. 215.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Schauplatzgasse\",\n      \"house_no\": \"215\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dollinger, Joh. Christ., Strumpfwebermstr., R. Qr. Schauplatzgasse S. Nr. 215.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Drechsler\",\n      \"forename\": \"Elise\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"Gb. Qr. Käsiggäßlein S. Nr. 101.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Käsiggäßlein\",\n      \"house_no\": \"101\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Betscher. H.\",\n      \"text\": \"Drechsler, geb. Betscher, Elise, Wittwe, Gb. Qr. Käsiggäßlein S. Nr. 101. H.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Drechsler\",\n      \"forename\": \"Gottl. Frdr.\",\n      \"title\": \"Erbschaft des\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"Gb. Qr. Käsiggäßlein S. Nr. 101.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Käsiggäßlein\",\n      \"house_no\": \"101\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Drechsler, Erbschaft des Gottl. Frdr., Schuhmacher, Gb. Qr. Käsiggäßlein S. Nr. 101. H.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Drechsler\",\n      \"forename\": \"Ver. Barb. Kathar.\",\n      \"title\": \"\",\n      \"occupation\": \"Speziererin\",\n      \"address\": \"Gb. Qr. Marktgasse S. Nr. 90.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktgasse\",\n      \"house_no\": \"90\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Lauffer. H.\",\n      \"text\": \"Drechsler, geb. Lauffer, Ver. Barb. Kathar., Speziererin, Gb. Qr. Marktgasse S. Nr. 90. H.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Droz\",\n      \"forename\": \"Rosette\",\n      \"title\": \"\",\n      \"occupation\": \"Feinzeugwäscherin\",\n      \"address\": \"W. Qr. Junkerngasse * Nr. 149.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerngasse\",\n      \"house_no\": \"149\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Droz, Rosette, Feinzeugwäscherin, W. Qr. Junkerngasse * Nr. 149.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dubach\",\n      \"forename\": \"Dav. Gottl.\",\n      \"title\": \"\",\n      \"occupation\": \"Schreinermstr.\",\n      \"address\": \"R. Qr. Schauplatzg. S. Nr. 235.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Schauplatzg.\",\n      \"house_no\": \"235\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dubach, Dav. Gottl., Schreinermstr., R. Qr. Schauplatzg. S. Nr. 235.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dubach\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Butterhändler\",\n      \"address\": \"Gn. Qr. Schulgasse * Nr. 301.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Schulgasse\",\n      \"house_no\": \"301\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dubach, Sam., Butterhändler, Gn. Qr. Schulgasse * Nr. 301.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dubler\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmachermstr.\",\n      \"address\": \"R. Qr. Spitalg. S. Nr. 167.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Spitalg.\",\n      \"house_no\": \"167\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dubler, Peter, Schuhmachermstr., R. Qr. Spitalg. S. Nr. 167.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ducommun\",\n      \"forename\": \"Abr. Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Sesselmacher\",\n      \"address\": \"R. Qr. Neuengasse * Nr. 91.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Neuengasse\",\n      \"house_no\": \"91\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ducommun, Abr. Louis, Sesselmacher, R. Qr. Neuengasse * Nr. 91.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"Joh. Bernh. Ludw.\",\n      \"title\": \"\",\n      \"occupation\": \"Hutmacher und Kanzleiläufer\",\n      \"address\": \"R. Qr. Spitalgasse * Nr. 137.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Spitalgasse\",\n      \"house_no\": \"137\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dübi, Joh. Bernh. Ludw., Hutmacher und Kanzleiläufer, R. Qr. Spitalgasse * Nr. 137.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"Rud. Christ. und Jak. Karl\",\n      \"title\": \"Gebrüder\",\n      \"occupation\": \"Uhrenmacher\",\n      \"address\": \"Gn. Qr. Hotellaube S. Nr. 235.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Hotellaube\",\n      \"house_no\": \"235\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. B.\",\n      \"text\": \"Dübi, Gebrüder, Rud. Christ. und Jak. Karl, Uhrenmacher, Gn. Qr. Hotellaube S. Nr. 235. H. B.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"\",\n      \"title\": \"Erbschaft des gew.\",\n      \"occupation\": \"Adlerwirths\",\n      \"address\": \"W. Qr. Gerechtigkeitsgasse S. Nr. 142.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsgasse\",\n      \"house_no\": \"142\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Dübi, Erbschaft des gew. Adlerwirths, W. Qr. Gerechtigkeitsgasse S. Nr. 142. H.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"Maria Magd.\",\n      \"title\": \"\",\n      \"occupation\": \"Adlerwirthin\",\n      \"address\": \"W. Qr. Gerechtigkeitsgasse S. Nr. 142.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsgasse\",\n      \"house_no\": \"142\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Weibel. H.\",\n      \"text\": \"Dübi, geb. Weibel, Maria Magd., Adlerwirthin, W. Qr. Gerechtigkeitsgasse S. Nr. 142. H.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"\",\n      \"title\": \"Schwestern\",\n      \"occupation\": \"Modehändlerinnen\",\n      \"address\": \"Gn. Qr. Hotellaube Nr. 230.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Hotellaube\",\n      \"house_no\": \"230\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dübi, Schwestern, Modehändlerinnen, Gn. Qr. Hotellaube Nr. 230.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dufaur\",\n      \"forename\": \"Dav. Heinr.\",\n      \"title\": \"\",\n      \"occupation\": \"Mechaniker\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. * Nr. 83.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"83\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dufaur, Dav. Heinr., Mechaniker, W. Qr. Gerechtigkeitsg. * Nr. 83.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dufresne\",\n      \"forename\": \"Eman.\",\n      \"title\": \"\",\n      \"occupation\": \"Bäckermstr.\",\n      \"address\": \"R. Qr. Neuengasse S. Nr. 109.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Neuengasse\",\n      \"house_no\": \"109\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. B.\",\n      \"text\": \"Dufresne, Eman., Bäckermstr., R. Qr. Neuengasse S. Nr. 109. H. B.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dufresne\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"im Burgerspital.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dufresne, Joh., im Burgerspital.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dufresne\",\n      \"forename\": \"Joh. Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Umbieter und Offizial\",\n      \"address\": \"R. Qr. Schauplatzg. S. Nr. 213.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Schauplatzg.\",\n      \"house_no\": \"213\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Dufresne, Joh. Sam., Umbieter und Offizial, R. Qr. Schauplatzg. S. Nr. 213. B.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dufresne\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"ohne Beruf\",\n      \"address\": \"R. Qr. Neuengasse * Nr. 99.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Neuengasse\",\n      \"house_no\": \"99\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Dufresne, Joh., ohne Beruf, R. Qr. Neuengasse * Nr. 99. H. u. B.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dufresne\",\n      \"forename\": \"Edw.\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbindermstr.\",\n      \"address\": \"R. Qr. am alten Viehmarkt Nr. 242.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"am alten Viehmarkt\",\n      \"house_no\": \"242\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Dufresne, Edw., Buchbindermstr., R. Qr. am alten Viehmarkt Nr. 242. B.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dufresne\",\n      \"forename\": \"Nikl. Em.\",\n      \"title\": \"\",\n      \"occupation\": \"Bäckermstr.\",\n      \"address\": \"R. Qr. Spitalg. S. Nr. 159 und 168. Schauplatzg. * Nr. 90 und 194.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Spitalg. und Schauplatzg.\",\n      \"house_no\": \"159 und 168, 90 und 194\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. B.\",\n      \"text\": \"Dufresne, Nikl. Em., Bäckermstr., R. Qr. Spitalg. S. Nr. 159 und 168. Schauplatzg. * Nr. 90 und 194. H. B.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünki\",\n      \"forename\": \"Bernh. Karl Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Notar und Schaffner zu Thorberg\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Dünki, Bernh. Karl Rud., Notar und Schaffner zu Thorberg. B.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünki\",\n      \"forename\": \"Sigism.\",\n      \"title\": \"\",\n      \"occupation\": \"Schwertfeger\",\n      \"address\": \"Gn. Qr. Brunngasse * Nr. 4.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Brunngasse\",\n      \"house_no\": \"4\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. B.\",\n      \"text\": \"Dünki, Sigism., Schwertfeger, Gn. Qr. Brunngasse * Nr. 4. H. B.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünz\",\n      \"forename\": \"Joh. Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"Spezierer und Tabakfabrikant, Ohmgeldkassirer\",\n      \"address\": \"Gn. Qr. Metzgergasse * Nr. 64. * Brunngasse Nr. 40.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Metzgergasse und Brunngasse\",\n      \"house_no\": \"64, 40\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Dünz, Joh. Albr., Spezierer und Tabakfabrikant, Ohmgeldkassirer, Gn. Qr. Metzgergasse * Nr. 64. * Brunngasse Nr. 40. H. u. B.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünz\",\n      \"forename\": \"Alb. Sam. Seb.\",\n      \"title\": \"\",\n      \"occupation\": \"Instrumentmacher\",\n      \"address\": \"R. Qr. Aarbergerg. S. Nr. 61.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Aarbergerg.\",\n      \"house_no\": \"61\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. B.\",\n      \"text\": \"Dünz, Alb. Sam. Seb., Instrumentmacher, R. Qr. Aarbergerg. S. Nr. 61. H. B.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünz\",\n      \"forename\": \"Dav. Karl Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Instrumentmacher\",\n      \"address\": \"R. Qr. Aarbergergasse S. Nr. 61.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Aarbergergasse\",\n      \"house_no\": \"61\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Dünz, Dav. Karl Sam., Instrumentmacher, R. Qr. Aarbergergasse S. Nr. 61. B.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünz\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schreinermstr.\",\n      \"address\": \"W. Qr. Junkerngasse * Nr. 147.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerngasse\",\n      \"house_no\": \"147\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Dünz, Jakob, Schreinermstr., W. Qr. Junkerngasse * Nr. 147. B.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Duperret\",\n      \"forename\": \"Marg.\",\n      \"title\": \"\",\n      \"occupation\": \"Färberin\",\n      \"address\": \"R. Qr. Neueng. * Nr. 93.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Neueng.\",\n      \"house_no\": \"93\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Martin.\",\n      \"text\": \"Duperret, geb. Martin, Marg., Färberin, R. Qr. Neueng. * Nr. 93.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dürig\",\n      \"forename\": \"Joh. Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Prokurator\",\n      \"address\": \"Gb. Qr. Käsiggäßlein gegen die Judengasse Nr. 99.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Käsiggäßlein gegen die Judengasse\",\n      \"house_no\": \"99\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dürig, Joh. Sam., Prokurator, Gb. Qr. Käsiggäßlein gegen die Judengasse Nr. 99.\"\n    },\n    {\n      \"line_from\": 47,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dütoit\",\n      \"forename\": \"K. Em.\",\n      \"title\": \"Lieutenant\",\n      \"occupation\": \"Sekretär des Untersuchungsrichters\",\n      \"address\": \"Gn. Qr. Brunngasse * Nr. 20.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Brunngasse\",\n      \"house_no\": \"20\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dütoit, K. Em., Lieutenant, Sekretär des Untersuchungsrichters, Gn. Qr. Brunngasse * Nr. 20.\"\n    },\n    {\n      \"line_from\": 49,\n      \"line_to\": 51,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Duliker\",\n      \"forename\": \"Susanne\",\n      \"title\": \"\",\n      \"occupation\": \"Rentière\",\n      \"address\": \"Gb. Qr. Kornhausplatz * Nr. 147. Gn. Qr. Metzgerg. * Nr. 65. Länggaßdrittel Nr. 204, 205.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"147\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Duliker, Susanne, Rentière, Gb. Qr. Kornhausplatz * Nr. 147. Gn. Qr. Metzgerg. * Nr. 65. Länggaßdrittel Nr. 204, 205. H. u. B.\"\n    },\n    {\n      \"line_from\": 52,\n      \"line_to\": 52,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Duliker\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Fischer\",\n      \"address\": \"R. Qr. Schauplatzgasse S. Nr. 205.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Schauplatzgasse\",\n      \"house_no\": \"205\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Duliker, Sam., Fischer, R. Qr. Schauplatzgasse S. Nr. 205. B.\"\n    },\n    {\n      \"line_from\": 53,\n      \"line_to\": 54,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Durheim\",\n      \"forename\": \"Bernh. Nikl. Sam.\",\n      \"title\": \"Lieutenant\",\n      \"occupation\": \"Schreiber beim Finanzdepartement\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Durheim, Bernh. Nikl. Sam., Lieutenant, Schreiber beim Finanzdepartement. B.\"\n    },\n    {\n      \"line_from\": 55,\n      \"line_to\": 55,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Durheim\",\n      \"forename\": \"Gottl. Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Oberrichter\",\n      \"address\": \"Gb. Qr. Marktg. * Nr. 42.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"42\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Durheim, Gottl. Sam., Oberrichter, Gb. Qr. Marktg. * Nr. 42. B.\"\n    },\n    {\n      \"line_from\": 56,\n      \"line_to\": 56,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Durheim\",\n      \"forename\": \"Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Lithograph\",\n      \"address\": \"R. Qr. Spitalgasse * Nr. 128.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Spitalgasse\",\n      \"house_no\": \"128\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Durheim, Karl, Lithograph, R. Qr. Spitalgasse * Nr. 128. B.\"\n    },\n    {\n      \"line_from\": 57,\n      \"line_to\": 58,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Durheim\",\n      \"forename\": \"\",\n      \"title\": \"Gr. Rath\",\n      \"occupation\": \"Zoll- und Ohmgeldverwalter\",\n      \"address\": \"R. Qr. Neueng. S. Nr. 114, und Spitalg. * Nr. 128.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Neueng. und Spitalg.\",\n      \"house_no\": \"114, 128\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Durheim, Gr. Rath, Zoll- und Ohmgeldverwalter, R. Qr. Neueng. S. Nr. 114, und Spitalg. * Nr. 128.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "50",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "50"
+   },
+   {
+    "n": 2,
+    "text": "Diwy, Frz. Rud., Bäckermstr., landesabwesend. B."
+   },
+   {
+    "n": 3,
+    "text": "Dollinger, Joh. Christ., Strumpfwebermstr., R. Qr. Schauplatzgasse"
+   },
+   {
+    "n": 4,
+    "text": "S. Nr. 215."
+   },
+   {
+    "n": 5,
+    "text": "Drechsler, geb. Betscher, Elise, Wittwe, Gb. Qr. Käsiggäßlein S."
+   },
+   {
+    "n": 6,
+    "text": "Nr. 101. H."
+   },
+   {
+    "n": 7,
+    "text": "Drechsler, Erbschaft des Gottl. Frdr., Schuhmacher, Gb. Qr. Käsig-"
+   },
+   {
+    "n": 8,
+    "text": "gäßlein S. Nr. 101. H."
+   },
+   {
+    "n": 9,
+    "text": "Drechsler, geb. Lauffer, Ver. Barb. Kathar., Speziererin, Gb. Qr."
+   },
+   {
+    "n": 10,
+    "text": "Marktgasse S. Nr. 90. H."
+   },
+   {
+    "n": 11,
+    "text": "Droz, Rosette, Feinzeugwäscherin, W. Qr. Junkerngasse * Nr. 149."
+   },
+   {
+    "n": 12,
+    "text": "Dubach, Dav. Gottl., Schreinermstr., R. Qr. Schauplatzg. S. Nr. 235."
+   },
+   {
+    "n": 13,
+    "text": "Dubach, Sam., Butterhändler, Gn. Qr. Schulgasse * Nr. 301."
+   },
+   {
+    "n": 14,
+    "text": "Dubler, Peter, Schuhmachermstr., R. Qr. Spitalg. S. Nr. 167."
+   },
+   {
+    "n": 15,
+    "text": "Ducommun, Abr. Louis, Sesselmacher, R. Qr. Neuengasse * Nr. 91."
+   },
+   {
+    "n": 16,
+    "text": "Dübi, Joh. Bernh. Ludw., Hutmacher und Kanzleiläufer, R. Qr."
+   },
+   {
+    "n": 17,
+    "text": "Spitalgasse * Nr. 137."
+   },
+   {
+    "n": 18,
+    "text": "Dübi, Gebrüder, Rud. Christ. und Jak. Karl, Uhrenmacher, Gn. Qr."
+   },
+   {
+    "n": 19,
+    "text": "Hotellaube S. Nr. 235. H. B."
+   },
+   {
+    "n": 20,
+    "text": "Dübi, Erbschaft des gew. Adlerwirths, W. Qr. Gerechtigkeitsgasse"
+   },
+   {
+    "n": 21,
+    "text": "S. Nr. 142. H."
+   },
+   {
+    "n": 22,
+    "text": "Dübi, geb. Weibel, Maria Magd., Adlerwirthin, W. Qr. Gerechtig-"
+   },
+   {
+    "n": 23,
+    "text": "keitsgasse S. Nr. 142. H."
+   },
+   {
+    "n": 24,
+    "text": "Dübi, Schwestern, Modehändlerinnen, Gn. Qr. Hotellaube Nr. 230."
+   },
+   {
+    "n": 25,
+    "text": "Dufaur, Dav. Heinr., Mechaniker, W. Qr. Gerechtigkeitsg. * Nr. 83."
+   },
+   {
+    "n": 26,
+    "text": "Dufresne, Eman., Bäckermstr., R. Qr. Neuengasse S. Nr. 109. H. B."
+   },
+   {
+    "n": 27,
+    "text": "Dufresne, Joh., im Burgerspital."
+   },
+   {
+    "n": 28,
+    "text": "Dufresne, Joh. Sam., Umbieter und Offizial, R. Qr. Schauplatzg."
+   },
+   {
+    "n": 29,
+    "text": "S. Nr. 213. B."
+   },
+   {
+    "n": 30,
+    "text": "Dufresne, Joh., ohne Beruf, R. Qr. Neuengasse * Nr. 99. H. u. B."
+   },
+   {
+    "n": 31,
+    "text": "Dufresne, Edw., Buchbindermstr., R. Qr. am alten Viehmarkt Nr. 242. B."
+   },
+   {
+    "n": 32,
+    "text": "Dufresne, Nikl. Em., Bäckermstr., R. Qr. Spitalg. S. Nr. 159 und"
+   },
+   {
+    "n": 33,
+    "text": "168. Schauplatzg. * Nr. 90 und 194. H. B."
+   },
+   {
+    "n": 34,
+    "text": "Dünki, Bernh. Karl Rud., Notar und Schaffner zu Thorberg. B."
+   },
+   {
+    "n": 35,
+    "text": "Dünki, Sigism., Schwertfeger, Gn. Qr. Brunngasse * Nr. 4. H. B."
+   },
+   {
+    "n": 36,
+    "text": "Dünz, Joh. Albr., Spezierer und Tabakfabrikant, Ohmgeldkassirer,"
+   },
+   {
+    "n": 37,
+    "text": "Gn. Qr. Metzgergasse * Nr. 64. * Brunngasse Nr. 40."
+   },
+   {
+    "n": 38,
+    "text": "H. u. B."
+   },
+   {
+    "n": 39,
+    "text": "Dünz, Alb. Sam. Seb., Instrumentmacher, R. Qr. Aarbergerg. S."
+   },
+   {
+    "n": 40,
+    "text": "Nr. 61. H. B."
+   },
+   {
+    "n": 41,
+    "text": "Dünz, Dav. Karl Sam., Instrumentmacher, R. Qr. Aarbergergasse"
+   },
+   {
+    "n": 42,
+    "text": "S. Nr. 61. B."
+   },
+   {
+    "n": 43,
+    "text": "Dünz, Jakob, Schreinermstr., W. Qr. Junkerngasse * Nr. 147. B."
+   },
+   {
+    "n": 44,
+    "text": "Duperret, geb. Martin, Marg., Färberin, R. Qr. Neueng. * Nr. 93."
+   },
+   {
+    "n": 45,
+    "text": "Dürig, Joh. Sam., Prokurator, Gb. Qr. Käsiggäßlein gegen die Juden-"
+   },
+   {
+    "n": 46,
+    "text": "gasse Nr. 99."
+   },
+   {
+    "n": 47,
+    "text": "Dütoit, K. Em., Lieutenant, Sekretär des Untersuchungsrichters,"
+   },
+   {
+    "n": 48,
+    "text": "Gn. Qr. Brunngasse * Nr. 20."
+   },
+   {
+    "n": 49,
+    "text": "Duliker, Susanne, Rentière, Gb. Qr. Kornhausplatz * Nr. 147. Gn."
+   },
+   {
+    "n": 50,
+    "text": "Qr. Metzgerg. * Nr. 65. Länggaßdrittel Nr. 204, 205."
+   },
+   {
+    "n": 51,
+    "text": "H. u. B."
+   },
+   {
+    "n": 52,
+    "text": "Duliker, Sam., Fischer, R. Qr. Schauplatzgasse S. Nr. 205. B."
+   },
+   {
+    "n": 53,
+    "text": "Durheim, Bernh. Nikl. Sam., Lieutenant, Schreiber beim Finanz-"
+   },
+   {
+    "n": 54,
+    "text": "departement. B."
+   },
+   {
+    "n": 55,
+    "text": "Durheim, Gottl. Sam., Oberrichter, Gb. Qr. Marktg. * Nr. 42. B."
+   },
+   {
+    "n": 56,
+    "text": "Durheim, Karl, Lithograph, R. Qr. Spitalgasse * Nr. 128. B."
+   },
+   {
+    "n": 57,
+    "text": "Durheim, Gr. Rath, Zoll- und Ohmgeldverwalter, R. Qr. Neueng."
+   },
+   {
+    "n": 58,
+    "text": "S. Nr. 114, und Spitalg. * Nr. 128."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Diwy",
+    "forename": "Frz. Rud.",
+    "title": "",
+    "occupation": "Bäckermstr.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "landesabwesend. B.",
+    "text": "Diwy, Frz. Rud., Bäckermstr., landesabwesend. B."
+   },
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dollinger",
+    "forename": "Joh. Christ.",
+    "title": "",
+    "occupation": "Strumpfwebermstr.",
+    "address": "R. Qr. Schauplatzgasse S. Nr. 215.",
+    "quarter": "R. Qr.",
+    "street": "Schauplatzgasse",
+    "house_no": "215",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dollinger, Joh. Christ., Strumpfwebermstr., R. Qr. Schauplatzgasse S. Nr. 215."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Drechsler",
+    "forename": "Elise",
+    "title": "Wittwe",
+    "occupation": "",
+    "address": "Gb. Qr. Käsiggäßlein S. Nr. 101.",
+    "quarter": "Gb. Qr.",
+    "street": "Käsiggäßlein",
+    "house_no": "101",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Betscher. H.",
+    "text": "Drechsler, geb. Betscher, Elise, Wittwe, Gb. Qr. Käsiggäßlein S. Nr. 101. H."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Drechsler",
+    "forename": "Gottl. Frdr.",
+    "title": "Erbschaft des",
+    "occupation": "Schuhmacher",
+    "address": "Gb. Qr. Käsiggäßlein S. Nr. 101.",
+    "quarter": "Gb. Qr.",
+    "street": "Käsiggäßlein",
+    "house_no": "101",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Drechsler, Erbschaft des Gottl. Frdr., Schuhmacher, Gb. Qr. Käsiggäßlein S. Nr. 101. H."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Drechsler",
+    "forename": "Ver. Barb. Kathar.",
+    "title": "",
+    "occupation": "Speziererin",
+    "address": "Gb. Qr. Marktgasse S. Nr. 90.",
+    "quarter": "Gb. Qr.",
+    "street": "Marktgasse",
+    "house_no": "90",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Lauffer. H.",
+    "text": "Drechsler, geb. Lauffer, Ver. Barb. Kathar., Speziererin, Gb. Qr. Marktgasse S. Nr. 90. H."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Droz",
+    "forename": "Rosette",
+    "title": "",
+    "occupation": "Feinzeugwäscherin",
+    "address": "W. Qr. Junkerngasse * Nr. 149.",
+    "quarter": "W. Qr.",
+    "street": "Junkerngasse",
+    "house_no": "149",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Droz, Rosette, Feinzeugwäscherin, W. Qr. Junkerngasse * Nr. 149."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dubach",
+    "forename": "Dav. Gottl.",
+    "title": "",
+    "occupation": "Schreinermstr.",
+    "address": "R. Qr. Schauplatzg. S. Nr. 235.",
+    "quarter": "R. Qr.",
+    "street": "Schauplatzg.",
+    "house_no": "235",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dubach, Dav. Gottl., Schreinermstr., R. Qr. Schauplatzg. S. Nr. 235."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dubach",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "Butterhändler",
+    "address": "Gn. Qr. Schulgasse * Nr. 301.",
+    "quarter": "Gn. Qr.",
+    "street": "Schulgasse",
+    "house_no": "301",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dubach, Sam., Butterhändler, Gn. Qr. Schulgasse * Nr. 301."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dubler",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Schuhmachermstr.",
+    "address": "R. Qr. Spitalg. S. Nr. 167.",
+    "quarter": "R. Qr.",
+    "street": "Spitalg.",
+    "house_no": "167",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dubler, Peter, Schuhmachermstr., R. Qr. Spitalg. S. Nr. 167."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Ducommun",
+    "forename": "Abr. Louis",
+    "title": "",
+    "occupation": "Sesselmacher",
+    "address": "R. Qr. Neuengasse * Nr. 91.",
+    "quarter": "R. Qr.",
+    "street": "Neuengasse",
+    "house_no": "91",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ducommun, Abr. Louis, Sesselmacher, R. Qr. Neuengasse * Nr. 91."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "Joh. Bernh. Ludw.",
+    "title": "",
+    "occupation": "Hutmacher und Kanzleiläufer",
+    "address": "R. Qr. Spitalgasse * Nr. 137.",
+    "quarter": "R. Qr.",
+    "street": "Spitalgasse",
+    "house_no": "137",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dübi, Joh. Bernh. Ludw., Hutmacher und Kanzleiläufer, R. Qr. Spitalgasse * Nr. 137."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "Rud. Christ. und Jak. Karl",
+    "title": "Gebrüder",
+    "occupation": "Uhrenmacher",
+    "address": "Gn. Qr. Hotellaube S. Nr. 235.",
+    "quarter": "Gn. Qr.",
+    "street": "Hotellaube",
+    "house_no": "235",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. B.",
+    "text": "Dübi, Gebrüder, Rud. Christ. und Jak. Karl, Uhrenmacher, Gn. Qr. Hotellaube S. Nr. 235. H. B."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "",
+    "title": "Erbschaft des gew.",
+    "occupation": "Adlerwirths",
+    "address": "W. Qr. Gerechtigkeitsgasse S. Nr. 142.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsgasse",
+    "house_no": "142",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Dübi, Erbschaft des gew. Adlerwirths, W. Qr. Gerechtigkeitsgasse S. Nr. 142. H."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "Maria Magd.",
+    "title": "",
+    "occupation": "Adlerwirthin",
+    "address": "W. Qr. Gerechtigkeitsgasse S. Nr. 142.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsgasse",
+    "house_no": "142",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Weibel. H.",
+    "text": "Dübi, geb. Weibel, Maria Magd., Adlerwirthin, W. Qr. Gerechtigkeitsgasse S. Nr. 142. H."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "",
+    "title": "Schwestern",
+    "occupation": "Modehändlerinnen",
+    "address": "Gn. Qr. Hotellaube Nr. 230.",
+    "quarter": "Gn. Qr.",
+    "street": "Hotellaube",
+    "house_no": "230",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dübi, Schwestern, Modehändlerinnen, Gn. Qr. Hotellaube Nr. 230."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dufaur",
+    "forename": "Dav. Heinr.",
+    "title": "",
+    "occupation": "Mechaniker",
+    "address": "W. Qr. Gerechtigkeitsg. * Nr. 83.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "83",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dufaur, Dav. Heinr., Mechaniker, W. Qr. Gerechtigkeitsg. * Nr. 83."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dufresne",
+    "forename": "Eman.",
+    "title": "",
+    "occupation": "Bäckermstr.",
+    "address": "R. Qr. Neuengasse S. Nr. 109.",
+    "quarter": "R. Qr.",
+    "street": "Neuengasse",
+    "house_no": "109",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. B.",
+    "text": "Dufresne, Eman., Bäckermstr., R. Qr. Neuengasse S. Nr. 109. H. B."
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dufresne",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "",
+    "address": "im Burgerspital.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dufresne, Joh., im Burgerspital."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dufresne",
+    "forename": "Joh. Sam.",
+    "title": "",
+    "occupation": "Umbieter und Offizial",
+    "address": "R. Qr. Schauplatzg. S. Nr. 213.",
+    "quarter": "R. Qr.",
+    "street": "Schauplatzg.",
+    "house_no": "213",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Dufresne, Joh. Sam., Umbieter und Offizial, R. Qr. Schauplatzg. S. Nr. 213. B."
+   },
+   {
+    "line_from": 30,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dufresne",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "ohne Beruf",
+    "address": "R. Qr. Neuengasse * Nr. 99.",
+    "quarter": "R. Qr.",
+    "street": "Neuengasse",
+    "house_no": "99",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Dufresne, Joh., ohne Beruf, R. Qr. Neuengasse * Nr. 99. H. u. B."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dufresne",
+    "forename": "Edw.",
+    "title": "",
+    "occupation": "Buchbindermstr.",
+    "address": "R. Qr. am alten Viehmarkt Nr. 242.",
+    "quarter": "R. Qr.",
+    "street": "am alten Viehmarkt",
+    "house_no": "242",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Dufresne, Edw., Buchbindermstr., R. Qr. am alten Viehmarkt Nr. 242. B."
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dufresne",
+    "forename": "Nikl. Em.",
+    "title": "",
+    "occupation": "Bäckermstr.",
+    "address": "R. Qr. Spitalg. S. Nr. 159 und 168. Schauplatzg. * Nr. 90 und 194.",
+    "quarter": "R. Qr.",
+    "street": "Spitalg. und Schauplatzg.",
+    "house_no": "159 und 168, 90 und 194",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. B.",
+    "text": "Dufresne, Nikl. Em., Bäckermstr., R. Qr. Spitalg. S. Nr. 159 und 168. Schauplatzg. * Nr. 90 und 194. H. B."
+   },
+   {
+    "line_from": 34,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dünki",
+    "forename": "Bernh. Karl Rud.",
+    "title": "",
+    "occupation": "Notar und Schaffner zu Thorberg",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Dünki, Bernh. Karl Rud., Notar und Schaffner zu Thorberg. B."
+   },
+   {
+    "line_from": 35,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dünki",
+    "forename": "Sigism.",
+    "title": "",
+    "occupation": "Schwertfeger",
+    "address": "Gn. Qr. Brunngasse * Nr. 4.",
+    "quarter": "Gn. Qr.",
+    "street": "Brunngasse",
+    "house_no": "4",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. B.",
+    "text": "Dünki, Sigism., Schwertfeger, Gn. Qr. Brunngasse * Nr. 4. H. B."
+   },
+   {
+    "line_from": 36,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dünz",
+    "forename": "Joh. Albr.",
+    "title": "",
+    "occupation": "Spezierer und Tabakfabrikant, Ohmgeldkassirer",
+    "address": "Gn. Qr. Metzgergasse * Nr. 64. * Brunngasse Nr. 40.",
+    "quarter": "Gn. Qr.",
+    "street": "Metzgergasse und Brunngasse",
+    "house_no": "64, 40",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Dünz, Joh. Albr., Spezierer und Tabakfabrikant, Ohmgeldkassirer, Gn. Qr. Metzgergasse * Nr. 64. * Brunngasse Nr. 40. H. u. B."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dünz",
+    "forename": "Alb. Sam. Seb.",
+    "title": "",
+    "occupation": "Instrumentmacher",
+    "address": "R. Qr. Aarbergerg. S. Nr. 61.",
+    "quarter": "R. Qr.",
+    "street": "Aarbergerg.",
+    "house_no": "61",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. B.",
+    "text": "Dünz, Alb. Sam. Seb., Instrumentmacher, R. Qr. Aarbergerg. S. Nr. 61. H. B."
+   },
+   {
+    "line_from": 41,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dünz",
+    "forename": "Dav. Karl Sam.",
+    "title": "",
+    "occupation": "Instrumentmacher",
+    "address": "R. Qr. Aarbergergasse S. Nr. 61.",
+    "quarter": "R. Qr.",
+    "street": "Aarbergergasse",
+    "house_no": "61",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Dünz, Dav. Karl Sam., Instrumentmacher, R. Qr. Aarbergergasse S. Nr. 61. B."
+   },
+   {
+    "line_from": 43,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dünz",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schreinermstr.",
+    "address": "W. Qr. Junkerngasse * Nr. 147.",
+    "quarter": "W. Qr.",
+    "street": "Junkerngasse",
+    "house_no": "147",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Dünz, Jakob, Schreinermstr., W. Qr. Junkerngasse * Nr. 147. B."
+   },
+   {
+    "line_from": 44,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Duperret",
+    "forename": "Marg.",
+    "title": "",
+    "occupation": "Färberin",
+    "address": "R. Qr. Neueng. * Nr. 93.",
+    "quarter": "R. Qr.",
+    "street": "Neueng.",
+    "house_no": "93",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Martin.",
+    "text": "Duperret, geb. Martin, Marg., Färberin, R. Qr. Neueng. * Nr. 93."
+   },
+   {
+    "line_from": 45,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dürig",
+    "forename": "Joh. Sam.",
+    "title": "",
+    "occupation": "Prokurator",
+    "address": "Gb. Qr. Käsiggäßlein gegen die Judengasse Nr. 99.",
+    "quarter": "Gb. Qr.",
+    "street": "Käsiggäßlein gegen die Judengasse",
+    "house_no": "99",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dürig, Joh. Sam., Prokurator, Gb. Qr. Käsiggäßlein gegen die Judengasse Nr. 99."
+   },
+   {
+    "line_from": 47,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Dütoit",
+    "forename": "K. Em.",
+    "title": "Lieutenant",
+    "occupation": "Sekretär des Untersuchungsrichters",
+    "address": "Gn. Qr. Brunngasse * Nr. 20.",
+    "quarter": "Gn. Qr.",
+    "street": "Brunngasse",
+    "house_no": "20",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dütoit, K. Em., Lieutenant, Sekretär des Untersuchungsrichters, Gn. Qr. Brunngasse * Nr. 20."
+   },
+   {
+    "line_from": 49,
+    "line_to": 51,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Duliker",
+    "forename": "Susanne",
+    "title": "",
+    "occupation": "Rentière",
+    "address": "Gb. Qr. Kornhausplatz * Nr. 147. Gn. Qr. Metzgerg. * Nr. 65. Länggaßdrittel Nr. 204, 205.",
+    "quarter": "Gb. Qr.",
+    "street": "Kornhausplatz",
+    "house_no": "147",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Duliker, Susanne, Rentière, Gb. Qr. Kornhausplatz * Nr. 147. Gn. Qr. Metzgerg. * Nr. 65. Länggaßdrittel Nr. 204, 205. H. u. B."
+   },
+   {
+    "line_from": 52,
+    "line_to": 52,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Duliker",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "Fischer",
+    "address": "R. Qr. Schauplatzgasse S. Nr. 205.",
+    "quarter": "R. Qr.",
+    "street": "Schauplatzgasse",
+    "house_no": "205",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Duliker, Sam., Fischer, R. Qr. Schauplatzgasse S. Nr. 205. B."
+   },
+   {
+    "line_from": 53,
+    "line_to": 54,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Durheim",
+    "forename": "Bernh. Nikl. Sam.",
+    "title": "Lieutenant",
+    "occupation": "Schreiber beim Finanzdepartement",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Durheim, Bernh. Nikl. Sam., Lieutenant, Schreiber beim Finanzdepartement. B."
+   },
+   {
+    "line_from": 55,
+    "line_to": 55,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Durheim",
+    "forename": "Gottl. Sam.",
+    "title": "",
+    "occupation": "Oberrichter",
+    "address": "Gb. Qr. Marktg. * Nr. 42.",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "42",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Durheim, Gottl. Sam., Oberrichter, Gb. Qr. Marktg. * Nr. 42. B."
+   },
+   {
+    "line_from": 56,
+    "line_to": 56,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Durheim",
+    "forename": "Karl",
+    "title": "",
+    "occupation": "Lithograph",
+    "address": "R. Qr. Spitalgasse * Nr. 128.",
+    "quarter": "R. Qr.",
+    "street": "Spitalgasse",
+    "house_no": "128",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Durheim, Karl, Lithograph, R. Qr. Spitalgasse * Nr. 128. B."
+   },
+   {
+    "line_from": 57,
+    "line_to": 58,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Durheim",
+    "forename": "",
+    "title": "Gr. Rath",
+    "occupation": "Zoll- und Ohmgeldverwalter",
+    "address": "R. Qr. Neueng. S. Nr. 114, und Spitalg. * Nr. 128.",
+    "quarter": "R. Qr.",
+    "street": "Neueng. und Spitalg.",
+    "house_no": "114, 128",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Durheim, Gr. Rath, Zoll- und Ohmgeldverwalter, R. Qr. Neueng. S. Nr. 114, und Spitalg. * Nr. 128."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:10:20+01:00",
+ "last_error": null
+}

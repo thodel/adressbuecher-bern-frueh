@@ -1,0 +1,1414 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1836",
+ "page": 404,
+ "section": "kanton_nachtrag",
+ "started": "2026-11-11T21:43:14+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 89.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2387,
+  "output": 10575,
+  "thoughts": 4322
+ },
+ "response_text": "{\n  \"printed_page\": \"153\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"153\"},\n    {\"n\": 2, \"text\": \"XXVII. Amt Trachselwald.\"},\n    {\"n\": 3, \"text\": \"(Nach Wunsch der Einsender getreu eingerückt.)\"},\n    {\"n\": 4, \"text\": \"Sumiswald.\"},\n    {\"n\": 5, \"text\": \"Arzt.\"},\n    {\"n\": 6, \"text\": \"Beer, Alex., auf der Fuhren.\"},\n    {\"n\": 7, \"text\": \"Badwirthschaften.\"},\n    {\"n\": 8, \"text\": \"Meister, Niklaus, im Kuttelbad.\"},\n    {\"n\": 9, \"text\": \"Eggimann, Peter, im Löchlibad.\"},\n    {\"n\": 10, \"text\": \"Utz, Andreas, im Riedbad.\"},\n    {\"n\": 11, \"text\": \"Leuenberger, S., im Tannenbad.\"},\n    {\"n\": 12, \"text\": \"Bäcker.\"},\n    {\"n\": 13, \"text\": \"Hirsbrunner, Chr., zu Grünen.\"},\n    {\"n\": 14, \"text\": \"Sommer, Peter, im Dorf.\"},\n    {\"n\": 15, \"text\": \"Heinzmann, Andr., dto.\"},\n    {\"n\": 16, \"text\": \"Beer, Peter, auf dem Wasen.\"},\n    {\"n\": 17, \"text\": \"Jägerlehner, dto.\"},\n    {\"n\": 18, \"text\": \"Eggimann, Wittwe, am Rain.\"},\n    {\"n\": 19, \"text\": \"Röthlisberger, Chr., im Kurzer-\"},\n    {\"n\": 20, \"text\": \"neigraben.\"},\n    {\"n\": 21, \"text\": \"Schütz, Jakob, beim Nußbaum.\"},\n    {\"n\": 22, \"text\": \"Bildschnitzer.\"},\n    {\"n\": 23, \"text\": \"Wißler, Math., auf dem Aebnit.\"},\n    {\"n\": 24, \"text\": \"Bohrerschmiede.\"},\n    {\"n\": 25, \"text\": \"Hirsbrunner, Jakob, auf der\"},\n    {\"n\": 26, \"text\": \"Breiten.\"},\n    {\"n\": 27, \"text\": \"Reist, Ulr., im Tannenneuhaus.\"},\n    {\"n\": 28, \"text\": \"Buchbinder.\"},\n    {\"n\": 29, \"text\": \"Hirsbrunner, Johann, im Dorf.\"},\n    {\"n\": 30, \"text\": \"(Derselbe liefert linirte Haus-\"},\n    {\"n\": 31, \"text\": \"und Handlungsbücher von allen\"},\n    {\"n\": 32, \"text\": \"beliebigen Sorten, auch Schreib-\"},\n    {\"n\": 33, \"text\": \"materialien, sogenannte Galan-\"},\n    {\"n\": 34, \"text\": \"teriewaaren; ferner besitzt er\"},\n    {\"n\": 35, \"text\": \"ein Lesekabinet.)\"},\n    {\"n\": 36, \"text\": \"Kohler, Christen, am Neuweg.\"},\n    {\"n\": 37, \"text\": \"Büchsenschmied.\"},\n    {\"n\": 38, \"text\": \"Eggimann, J., auf dem Knubel.\"},\n    {\"n\": 39, \"text\": \"Bürstenbinder.\"},\n    {\"n\": 40, \"text\": \"Burkhard, Chr., auf dem Wasen.\"},\n    {\"n\": 41, \"text\": \"Dachdecker.\"},\n    {\"n\": 42, \"text\": \"Geißbühler, Andr., zu Hauensfluh.\"},\n    {\"n\": 43, \"text\": \"Moser, Hans, auf dem Aebnit.\"},\n    {\"n\": 44, \"text\": \"Moser, Isaak, bei der Mauer.\"},\n    {\"n\": 45, \"text\": \"Bek, Ulrich, auf dem Wasen.\"},\n    {\"n\": 46, \"text\": \"Drechsler.\"},\n    {\"n\": 47, \"text\": \"Meister, Ulr., auf dem Wasen,\"},\n    {\"n\": 48, \"text\": \"Meister, Jak., in der Stauleren,\"},\n    {\"n\": 49, \"text\": \"Munz, Jos., im Dorf,\"},\n    {\"n\": 50, \"text\": \"Sommer, Peter, im Feld,\"},\n    {\"n\": 51, \"text\": \"Sommer, Sam., bei'r Mauer,\"},\n    {\"n\": 52, \"text\": \"(Obige verfertigen Pfeifen-\"},\n    {\"n\": 53, \"text\": \"köpfe).\"},\n    {\"n\": 54, \"text\": \"Reist, Joh. Ulr., zu Grünen.\"},\n    {\"n\": 55, \"text\": \"Reist, Peter, zu Schabelehn.\"},\n    {\"n\": 56, \"text\": \"Eichelberger, Joh. U., am Burg-\"},\n    {\"n\": 57, \"text\": \"bühl.\"},\n    {\"n\": 58, \"text\": \"Gerber, Ulr., auf dem Aebnit.\"},\n    {\"n\": 59, \"text\": \"Fadenmacher.\"},\n    {\"n\": 60, \"text\": \"Schütz, Ulrich, im Zelghäusli.\"},\n    {\"n\": 61, \"text\": \"Färber und Walker.\"},\n    {\"n\": 62, \"text\": \"Zimmermann, Chr., zu Grünen.\"},\n    {\"n\": 63, \"text\": \"Feuersprizenmacher.\"},\n    {\"n\": 64, \"text\": \"Reist, Joh. Ulrich, zu Grünen.\"},\n    {\"n\": 65, \"text\": \"Flachmaler und Vergolder.\"},\n    {\"n\": 66, \"text\": \"Pfister, Isaak, im Dorf.\"},\n    {\"n\": 67, \"text\": \"Fuhrleute.\"},\n    {\"n\": 68, \"text\": \"Lüthi, Peter, im Grießbach (fährt\"},\n    {\"n\": 69, \"text\": \"nach Langenthal und Thun).\"},\n    {\"n\": 70, \"text\": \"Wiedmer, Chr., im Wasen (nach\"},\n    {\"n\": 71, \"text\": \"Bern).\"},\n    {\"n\": 72, \"text\": \"Trüßel, Hans, in der Stegmatt\"},\n    {\"n\": 73, \"text\": \"(nach Burgdorf).\"},\n    {\"n\": 74, \"text\": \"Gärtner.\"},\n    {\"n\": 75, \"text\": \"Großenbacher, im Wyler.\"},\n    {\"n\": 76, \"text\": \"Eichelberger, in der Ey.\"},\n    {\"n\": 77, \"text\": \"Garnbaucher.\"},\n    {\"n\": 78, \"text\": \"Kramer, Hans, in der Oberey.\"},\n    {\"n\": 79, \"text\": \"Ryser, Hans Ulr., zu Wyden.\"},\n    {\"n\": 80, \"text\": \"Sommer, Andr., zu Oberwyden.\"},\n    {\"n\": 81, \"text\": \"Gastwirthe.\"},\n    {\"n\": 82, \"text\": \"Marti, Jak., z. Bären, im Dorf.\"},\n    {\"n\": 83, \"text\": \"Neußner, Karl, z. Kreuz, dto.\"},\n    {\"n\": 84, \"text\": \"Marti, J., auf dem Wasen.\"},\n    {\"n\": 85, \"text\": \"Geschäftsmann.\"},\n    {\"n\": 86, \"text\": \"Wißler, Joh. Ulr., zu Neuegg.\"},\n    {\"n\": 87, \"text\": \"Gießer.\"},\n    {\"n\": 88, \"text\": \"Schütz, Gebrüder, zu Grünen.\"},\n    {\"n\": 89, \"text\": \"Schütz, Ulrich, im Meyaker.\"},\n    {\"n\": 90, \"text\": \"11\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Arzt\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Beer\",\n      \"forename\": \"Alex.\",\n      \"title\": \"\",\n      \"occupation\": \"Arzt\",\n      \"address\": \"auf der Fuhren\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Beer, Alex., auf der Fuhren.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Badwirthschaften\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Meister\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Badwirthschaft\",\n      \"address\": \"im Kuttelbad\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Meister, Niklaus, im Kuttelbad.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Badwirthschaften\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Eggimann\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Badwirthschaft\",\n      \"address\": \"im Löchlibad\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eggimann, Peter, im Löchlibad.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Badwirthschaften\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Utz\",\n      \"forename\": \"Andreas\",\n      \"title\": \"\",\n      \"occupation\": \"Badwirthschaft\",\n      \"address\": \"im Riedbad\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Utz, Andreas, im Riedbad.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Badwirthschaften\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Leuenberger\",\n      \"forename\": \"S.\",\n      \"title\": \"\",\n      \"occupation\": \"Badwirthschaft\",\n      \"address\": \"im Tannenbad\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Leuenberger, S., im Tannenbad.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Bäcker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Hirsbrunner\",\n      \"forename\": \"Chr.\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"zu Grünen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hirsbrunner, Chr., zu Grünen.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Bäcker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Sommer\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"im Dorf\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sommer, Peter, im Dorf.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Bäcker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Heinzmann\",\n      \"forename\": \"Andr.\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"dto.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Heinzmann, Andr., dto.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Bäcker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Beer\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"auf dem Wasen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Beer, Peter, auf dem Wasen.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Bäcker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Jägerlehner\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"dto.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jägerlehner, dto.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Bäcker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Eggimann\",\n      \"forename\": \"\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"am Rain\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eggimann, Wittwe, am Rain.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Bäcker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Röthlisberger\",\n      \"forename\": \"Chr.\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"im Kurzerneigraben\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Röthlisberger, Chr., im Kurzerneigraben.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Bäcker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Schütz\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"beim Nußbaum\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schütz, Jakob, beim Nußbaum.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Bildschnitzer\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Wißler\",\n      \"forename\": \"Math.\",\n      \"title\": \"\",\n      \"occupation\": \"Bildschnitzer\",\n      \"address\": \"auf dem Aebnit\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wißler, Math., auf dem Aebnit.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Bohrerschmiede\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Hirsbrunner\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Bohrerschmied\",\n      \"address\": \"auf der Breiten\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hirsbrunner, Jakob, auf der Breiten.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Bohrerschmiede\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Reist\",\n      \"forename\": \"Ulr.\",\n      \"title\": \"\",\n      \"occupation\": \"Bohrerschmied\",\n      \"address\": \"im Tannenneuhaus\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reist, Ulr., im Tannenneuhaus.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Buchbinder\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Hirsbrunner\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"im Dorf\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Derselbe liefert linirte Haus- und Handlungsbücher von allen beliebigen Sorten, auch Schreibmaterialien, sogenannte Galanteriewaaren; ferner besitzt er ein Lesekabinet.\",\n      \"text\": \"Hirsbrunner, Johann, im Dorf. (Derselbe liefert linirte Haus- und Handlungsbücher von allen beliebigen Sorten, auch Schreibmaterialien, sogenannte Galanteriewaaren; ferner besitzt er ein Lesekabinet.)\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Buchbinder\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Kohler\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"am Neuweg\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kohler, Christen, am Neuweg.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Büchsenschmied\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Eggimann\",\n      \"forename\": \"J.\",\n      \"title\": \"\",\n      \"occupation\": \"Büchsenschmied\",\n      \"address\": \"auf dem Knubel\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eggimann, J., auf dem Knubel.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Bürstenbinder\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Burkhard\",\n      \"forename\": \"Chr.\",\n      \"title\": \"\",\n      \"occupation\": \"Bürstenbinder\",\n      \"address\": \"auf dem Wasen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Burkhard, Chr., auf dem Wasen.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Dachdecker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Geißbühler\",\n      \"forename\": \"Andr.\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"zu Hauensfluh\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Geißbühler, Andr., zu Hauensfluh.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Dachdecker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Moser\",\n      \"forename\": \"Hans\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"auf dem Aebnit\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Moser, Hans, auf dem Aebnit.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Dachdecker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Moser\",\n      \"forename\": \"Isaak\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"bei der Mauer\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Moser, Isaak, bei der Mauer.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Dachdecker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Bek\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"auf dem Wasen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bek, Ulrich, auf dem Wasen.\"\n    },\n    {\n      \"line_from\": 47,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Drechsler\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Meister\",\n      \"forename\": \"Ulr.\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"auf dem Wasen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"verfertigt Pfeifenköpfe\",\n      \"text\": \"Meister, Ulr., auf dem Wasen,\"\n    },\n    {\n      \"line_from\": 48,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"Drechsler\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Meister\",\n      \"forename\": \"Jak.\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"in der Stauleren\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"verfertigt Pfeifenköpfe\",\n      \"text\": \"Meister, Jak., in der Stauleren,\"\n    },\n    {\n      \"line_from\": 49,\n      \"line_to\": 49,\n      \"kind\": \"person\",\n      \"heading\": \"Drechsler\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Munz\",\n      \"forename\": \"Jos.\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"im Dorf\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"verfertigt Pfeifenköpfe\",\n      \"text\": \"Munz, Jos., im Dorf,\"\n    },\n    {\n      \"line_from\": 50,\n      \"line_to\": 50,\n      \"kind\": \"person\",\n      \"heading\": \"Drechsler\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Sommer\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"im Feld\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"verfertigt Pfeifenköpfe\",\n      \"text\": \"Sommer, Peter, im Feld,\"\n    },\n    {\n      \"line_from\": 51,\n      \"line_to\": 51,\n      \"kind\": \"person\",\n      \"heading\": \"Drechsler\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Sommer\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"bei'r Mauer\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"verfertigt Pfeifenköpfe\",\n      \"text\": \"Sommer, Sam., bei'r Mauer,\"\n    },\n    {\n      \"line_from\": 54,\n      \"line_to\": 54,\n      \"kind\": \"person\",\n      \"heading\": \"Drechsler\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Reist\",\n      \"forename\": \"Joh. Ulr.\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"zu Grünen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reist, Joh. Ulr., zu Grünen.\"\n    },\n    {\n      \"line_from\": 55,\n      \"line_to\": 55,\n      \"kind\": \"person\",\n      \"heading\": \"Drechsler\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Reist\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"zu Schabelehn\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reist, Peter, zu Schabelehn.\"\n    },\n    {\n      \"line_from\": 56,\n      \"line_to\": 57,\n      \"kind\": \"person\",\n      \"heading\": \"Drechsler\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Eichelberger\",\n      \"forename\": \"Joh. U.\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"am Burgbühl\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eichelberger, Joh. U., am Burgbühl.\"\n    },\n    {\n      \"line_from\": 58,\n      \"line_to\": 58,\n      \"kind\": \"person\",\n      \"heading\": \"Drechsler\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Gerber\",\n      \"forename\": \"Ulr.\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"auf dem Aebnit\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gerber, Ulr., auf dem Aebnit.\"\n    },\n    {\n      \"line_from\": 60,\n      \"line_to\": 60,\n      \"kind\": \"person\",\n      \"heading\": \"Fadenmacher\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Schütz\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Fadenmacher\",\n      \"address\": \"im Zelghäusli\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schütz, Ulrich, im Zelghäusli.\"\n    },\n    {\n      \"line_from\": 62,\n      \"line_to\": 62,\n      \"kind\": \"person\",\n      \"heading\": \"Färber und Walker\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Zimmermann\",\n      \"forename\": \"Chr.\",\n      \"title\": \"\",\n      \"occupation\": \"Färber und Walker\",\n      \"address\": \"zu Grünen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zimmermann, Chr., zu Grünen.\"\n    },\n    {\n      \"line_from\": 64,\n      \"line_to\": 64,\n      \"kind\": \"person\",\n      \"heading\": \"Feuersprizenmacher\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Reist\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Feuersprizenmacher\",\n      \"address\": \"zu Grünen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reist, Joh. Ulrich, zu Grünen.\"\n    },\n    {\n      \"line_from\": 66,\n      \"line_to\": 66,\n      \"kind\": \"person\",\n      \"heading\": \"Flachmaler und Vergolder\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Pfister\",\n      \"forename\": \"Isaak\",\n      \"title\": \"\",\n      \"occupation\": \"Flachmaler und Vergolder\",\n      \"address\": \"im Dorf\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pfister, Isaak, im Dorf.\"\n    },\n    {\n      \"line_from\": 68,\n      \"line_to\": 69,\n      \"kind\": \"person\",\n      \"heading\": \"Fuhrleute\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Lüthi\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Fuhrmann\",\n      \"address\": \"im Grießbach\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"fährt nach Langenthal und Thun\",\n      \"text\": \"Lüthi, Peter, im Grießbach (fährt nach Langenthal und Thun).\"\n    },\n    {\n      \"line_from\": 70,\n      \"line_to\": 71,\n      \"kind\": \"person\",\n      \"heading\": \"Fuhrleute\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Wiedmer\",\n      \"forename\": \"Chr.\",\n      \"title\": \"\",\n      \"occupation\": \"Fuhrmann\",\n      \"address\": \"im Wasen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"nach Bern\",\n      \"text\": \"Wiedmer, Chr., im Wasen (nach Bern).\"\n    },\n    {\n      \"line_from\": 72,\n      \"line_to\": 73,\n      \"kind\": \"person\",\n      \"heading\": \"Fuhrleute\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Trüßel\",\n      \"forename\": \"Hans\",\n      \"title\": \"\",\n      \"occupation\": \"Fuhrmann\",\n      \"address\": \"in der Stegmatt\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"nach Burgdorf\",\n      \"text\": \"Trüßel, Hans, in der Stegmatt (nach Burgdorf).\"\n    },\n    {\n      \"line_from\": 75,\n      \"line_to\": 75,\n      \"kind\": \"person\",\n      \"heading\": \"Gärtner\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Großenbacher\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Gärtner\",\n      \"address\": \"im Wyler\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Großenbacher, im Wyler.\"\n    },\n    {\n      \"line_from\": 76,\n      \"line_to\": 76,\n      \"kind\": \"person\",\n      \"heading\": \"Gärtner\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Eichelberger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Gärtner\",\n      \"address\": \"in der Ey\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eichelberger, in der Ey.\"\n    },\n    {\n      \"line_from\": 78,\n      \"line_to\": 78,\n      \"kind\": \"person\",\n      \"heading\": \"Garnbaucher\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Kramer\",\n      \"forename\": \"Hans\",\n      \"title\": \"\",\n      \"occupation\": \"Garnbaucher\",\n      \"address\": \"in der Oberey\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kramer, Hans, in der Oberey.\"\n    },\n    {\n      \"line_from\": 79,\n      \"line_to\": 79,\n      \"kind\": \"person\",\n      \"heading\": \"Garnbaucher\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Ryser\",\n      \"forename\": \"Hans Ulr.\",\n      \"title\": \"\",\n      \"occupation\": \"Garnbaucher\",\n      \"address\": \"zu Wyden\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ryser, Hans Ulr., zu Wyden.\"\n    },\n    {\n      \"line_from\": 80,\n      \"line_to\": 80,\n      \"kind\": \"person\",\n      \"heading\": \"Garnbaucher\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Sommer\",\n      \"forename\": \"Andr.\",\n      \"title\": \"\",\n      \"occupation\": \"Garnbaucher\",\n      \"address\": \"zu Oberwyden\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sommer, Andr., zu Oberwyden.\"\n    },\n    {\n      \"line_from\": 82,\n      \"line_to\": 82,\n      \"kind\": \"person\",\n      \"heading\": \"Gastwirthe\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Marti\",\n      \"forename\": \"Jak.\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirth\",\n      \"address\": \"z. Bären, im Dorf\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Marti, Jak., z. Bären, im Dorf.\"\n    },\n    {\n      \"line_from\": 83,\n      \"line_to\": 83,\n      \"kind\": \"person\",\n      \"heading\": \"Gastwirthe\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Neußner\",\n      \"forename\": \"Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirth\",\n      \"address\": \"z. Kreuz, dto.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Neußner, Karl, z. Kreuz, dto.\"\n    },\n    {\n      \"line_from\": 84,\n      \"line_to\": 84,\n      \"kind\": \"person\",\n      \"heading\": \"Gastwirthe\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Marti\",\n      \"forename\": \"J.\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirth\",\n      \"address\": \"auf dem Wasen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Marti, J., auf dem Wasen.\"\n    },\n    {\n      \"line_from\": 86,\n      \"line_to\": 86,\n      \"kind\": \"person\",\n      \"heading\": \"Geschäftsmann\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Wißler\",\n      \"forename\": \"Joh. Ulr.\",\n      \"title\": \"\",\n      \"occupation\": \"Geschäftsmann\",\n      \"address\": \"zu Neuegg\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wißler, Joh. Ulr., zu Neuegg.\"\n    },\n    {\n      \"line_from\": 88,\n      \"line_to\": 88,\n      \"kind\": \"firma\",\n      \"heading\": \"Gießer\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Schütz\",\n      \"forename\": \"\",\n      \"title\": \"Gebrüder\",\n      \"occupation\": \"Gießer\",\n      \"address\": \"zu Grünen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schütz, Gebrüder, zu Grünen.\"\n    },\n    {\n      \"line_from\": 89,\n      \"line_to\": 89,\n      \"kind\": \"person\",\n      \"heading\": \"Gießer\",\n      \"place\": \"Sumiswald\",\n      \"surname\": \"Schütz\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Gießer\",\n      \"address\": \"im Meyaker\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schütz, Ulrich, im Meyaker.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "153",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "153"
+   },
+   {
+    "n": 2,
+    "text": "XXVII. Amt Trachselwald."
+   },
+   {
+    "n": 3,
+    "text": "(Nach Wunsch der Einsender getreu eingerückt.)"
+   },
+   {
+    "n": 4,
+    "text": "Sumiswald."
+   },
+   {
+    "n": 5,
+    "text": "Arzt."
+   },
+   {
+    "n": 6,
+    "text": "Beer, Alex., auf der Fuhren."
+   },
+   {
+    "n": 7,
+    "text": "Badwirthschaften."
+   },
+   {
+    "n": 8,
+    "text": "Meister, Niklaus, im Kuttelbad."
+   },
+   {
+    "n": 9,
+    "text": "Eggimann, Peter, im Löchlibad."
+   },
+   {
+    "n": 10,
+    "text": "Utz, Andreas, im Riedbad."
+   },
+   {
+    "n": 11,
+    "text": "Leuenberger, S., im Tannenbad."
+   },
+   {
+    "n": 12,
+    "text": "Bäcker."
+   },
+   {
+    "n": 13,
+    "text": "Hirsbrunner, Chr., zu Grünen."
+   },
+   {
+    "n": 14,
+    "text": "Sommer, Peter, im Dorf."
+   },
+   {
+    "n": 15,
+    "text": "Heinzmann, Andr., dto."
+   },
+   {
+    "n": 16,
+    "text": "Beer, Peter, auf dem Wasen."
+   },
+   {
+    "n": 17,
+    "text": "Jägerlehner, dto."
+   },
+   {
+    "n": 18,
+    "text": "Eggimann, Wittwe, am Rain."
+   },
+   {
+    "n": 19,
+    "text": "Röthlisberger, Chr., im Kurzer-"
+   },
+   {
+    "n": 20,
+    "text": "neigraben."
+   },
+   {
+    "n": 21,
+    "text": "Schütz, Jakob, beim Nußbaum."
+   },
+   {
+    "n": 22,
+    "text": "Bildschnitzer."
+   },
+   {
+    "n": 23,
+    "text": "Wißler, Math., auf dem Aebnit."
+   },
+   {
+    "n": 24,
+    "text": "Bohrerschmiede."
+   },
+   {
+    "n": 25,
+    "text": "Hirsbrunner, Jakob, auf der"
+   },
+   {
+    "n": 26,
+    "text": "Breiten."
+   },
+   {
+    "n": 27,
+    "text": "Reist, Ulr., im Tannenneuhaus."
+   },
+   {
+    "n": 28,
+    "text": "Buchbinder."
+   },
+   {
+    "n": 29,
+    "text": "Hirsbrunner, Johann, im Dorf."
+   },
+   {
+    "n": 30,
+    "text": "(Derselbe liefert linirte Haus-"
+   },
+   {
+    "n": 31,
+    "text": "und Handlungsbücher von allen"
+   },
+   {
+    "n": 32,
+    "text": "beliebigen Sorten, auch Schreib-"
+   },
+   {
+    "n": 33,
+    "text": "materialien, sogenannte Galan-"
+   },
+   {
+    "n": 34,
+    "text": "teriewaaren; ferner besitzt er"
+   },
+   {
+    "n": 35,
+    "text": "ein Lesekabinet.)"
+   },
+   {
+    "n": 36,
+    "text": "Kohler, Christen, am Neuweg."
+   },
+   {
+    "n": 37,
+    "text": "Büchsenschmied."
+   },
+   {
+    "n": 38,
+    "text": "Eggimann, J., auf dem Knubel."
+   },
+   {
+    "n": 39,
+    "text": "Bürstenbinder."
+   },
+   {
+    "n": 40,
+    "text": "Burkhard, Chr., auf dem Wasen."
+   },
+   {
+    "n": 41,
+    "text": "Dachdecker."
+   },
+   {
+    "n": 42,
+    "text": "Geißbühler, Andr., zu Hauensfluh."
+   },
+   {
+    "n": 43,
+    "text": "Moser, Hans, auf dem Aebnit."
+   },
+   {
+    "n": 44,
+    "text": "Moser, Isaak, bei der Mauer."
+   },
+   {
+    "n": 45,
+    "text": "Bek, Ulrich, auf dem Wasen."
+   },
+   {
+    "n": 46,
+    "text": "Drechsler."
+   },
+   {
+    "n": 47,
+    "text": "Meister, Ulr., auf dem Wasen,"
+   },
+   {
+    "n": 48,
+    "text": "Meister, Jak., in der Stauleren,"
+   },
+   {
+    "n": 49,
+    "text": "Munz, Jos., im Dorf,"
+   },
+   {
+    "n": 50,
+    "text": "Sommer, Peter, im Feld,"
+   },
+   {
+    "n": 51,
+    "text": "Sommer, Sam., bei'r Mauer,"
+   },
+   {
+    "n": 52,
+    "text": "(Obige verfertigen Pfeifen-"
+   },
+   {
+    "n": 53,
+    "text": "köpfe)."
+   },
+   {
+    "n": 54,
+    "text": "Reist, Joh. Ulr., zu Grünen."
+   },
+   {
+    "n": 55,
+    "text": "Reist, Peter, zu Schabelehn."
+   },
+   {
+    "n": 56,
+    "text": "Eichelberger, Joh. U., am Burg-"
+   },
+   {
+    "n": 57,
+    "text": "bühl."
+   },
+   {
+    "n": 58,
+    "text": "Gerber, Ulr., auf dem Aebnit."
+   },
+   {
+    "n": 59,
+    "text": "Fadenmacher."
+   },
+   {
+    "n": 60,
+    "text": "Schütz, Ulrich, im Zelghäusli."
+   },
+   {
+    "n": 61,
+    "text": "Färber und Walker."
+   },
+   {
+    "n": 62,
+    "text": "Zimmermann, Chr., zu Grünen."
+   },
+   {
+    "n": 63,
+    "text": "Feuersprizenmacher."
+   },
+   {
+    "n": 64,
+    "text": "Reist, Joh. Ulrich, zu Grünen."
+   },
+   {
+    "n": 65,
+    "text": "Flachmaler und Vergolder."
+   },
+   {
+    "n": 66,
+    "text": "Pfister, Isaak, im Dorf."
+   },
+   {
+    "n": 67,
+    "text": "Fuhrleute."
+   },
+   {
+    "n": 68,
+    "text": "Lüthi, Peter, im Grießbach (fährt"
+   },
+   {
+    "n": 69,
+    "text": "nach Langenthal und Thun)."
+   },
+   {
+    "n": 70,
+    "text": "Wiedmer, Chr., im Wasen (nach"
+   },
+   {
+    "n": 71,
+    "text": "Bern)."
+   },
+   {
+    "n": 72,
+    "text": "Trüßel, Hans, in der Stegmatt"
+   },
+   {
+    "n": 73,
+    "text": "(nach Burgdorf)."
+   },
+   {
+    "n": 74,
+    "text": "Gärtner."
+   },
+   {
+    "n": 75,
+    "text": "Großenbacher, im Wyler."
+   },
+   {
+    "n": 76,
+    "text": "Eichelberger, in der Ey."
+   },
+   {
+    "n": 77,
+    "text": "Garnbaucher."
+   },
+   {
+    "n": 78,
+    "text": "Kramer, Hans, in der Oberey."
+   },
+   {
+    "n": 79,
+    "text": "Ryser, Hans Ulr., zu Wyden."
+   },
+   {
+    "n": 80,
+    "text": "Sommer, Andr., zu Oberwyden."
+   },
+   {
+    "n": 81,
+    "text": "Gastwirthe."
+   },
+   {
+    "n": 82,
+    "text": "Marti, Jak., z. Bären, im Dorf."
+   },
+   {
+    "n": 83,
+    "text": "Neußner, Karl, z. Kreuz, dto."
+   },
+   {
+    "n": 84,
+    "text": "Marti, J., auf dem Wasen."
+   },
+   {
+    "n": 85,
+    "text": "Geschäftsmann."
+   },
+   {
+    "n": 86,
+    "text": "Wißler, Joh. Ulr., zu Neuegg."
+   },
+   {
+    "n": 87,
+    "text": "Gießer."
+   },
+   {
+    "n": 88,
+    "text": "Schütz, Gebrüder, zu Grünen."
+   },
+   {
+    "n": 89,
+    "text": "Schütz, Ulrich, im Meyaker."
+   },
+   {
+    "n": 90,
+    "text": "11"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Arzt",
+    "place": "Sumiswald",
+    "surname": "Beer",
+    "forename": "Alex.",
+    "title": "",
+    "occupation": "Arzt",
+    "address": "auf der Fuhren",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Beer, Alex., auf der Fuhren."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Badwirthschaften",
+    "place": "Sumiswald",
+    "surname": "Meister",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Badwirthschaft",
+    "address": "im Kuttelbad",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Meister, Niklaus, im Kuttelbad."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Badwirthschaften",
+    "place": "Sumiswald",
+    "surname": "Eggimann",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Badwirthschaft",
+    "address": "im Löchlibad",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eggimann, Peter, im Löchlibad."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Badwirthschaften",
+    "place": "Sumiswald",
+    "surname": "Utz",
+    "forename": "Andreas",
+    "title": "",
+    "occupation": "Badwirthschaft",
+    "address": "im Riedbad",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Utz, Andreas, im Riedbad."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Badwirthschaften",
+    "place": "Sumiswald",
+    "surname": "Leuenberger",
+    "forename": "S.",
+    "title": "",
+    "occupation": "Badwirthschaft",
+    "address": "im Tannenbad",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Leuenberger, S., im Tannenbad."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Bäcker",
+    "place": "Sumiswald",
+    "surname": "Hirsbrunner",
+    "forename": "Chr.",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "zu Grünen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hirsbrunner, Chr., zu Grünen."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Bäcker",
+    "place": "Sumiswald",
+    "surname": "Sommer",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "im Dorf",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sommer, Peter, im Dorf."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Bäcker",
+    "place": "Sumiswald",
+    "surname": "Heinzmann",
+    "forename": "Andr.",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "dto.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Heinzmann, Andr., dto."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Bäcker",
+    "place": "Sumiswald",
+    "surname": "Beer",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "auf dem Wasen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Beer, Peter, auf dem Wasen."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Bäcker",
+    "place": "Sumiswald",
+    "surname": "Jägerlehner",
+    "forename": "",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "dto.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jägerlehner, dto."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Bäcker",
+    "place": "Sumiswald",
+    "surname": "Eggimann",
+    "forename": "",
+    "title": "Wittwe",
+    "occupation": "Bäcker",
+    "address": "am Rain",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eggimann, Wittwe, am Rain."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Bäcker",
+    "place": "Sumiswald",
+    "surname": "Röthlisberger",
+    "forename": "Chr.",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "im Kurzerneigraben",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Röthlisberger, Chr., im Kurzerneigraben."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Bäcker",
+    "place": "Sumiswald",
+    "surname": "Schütz",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "beim Nußbaum",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schütz, Jakob, beim Nußbaum."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Bildschnitzer",
+    "place": "Sumiswald",
+    "surname": "Wißler",
+    "forename": "Math.",
+    "title": "",
+    "occupation": "Bildschnitzer",
+    "address": "auf dem Aebnit",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wißler, Math., auf dem Aebnit."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Bohrerschmiede",
+    "place": "Sumiswald",
+    "surname": "Hirsbrunner",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Bohrerschmied",
+    "address": "auf der Breiten",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hirsbrunner, Jakob, auf der Breiten."
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Bohrerschmiede",
+    "place": "Sumiswald",
+    "surname": "Reist",
+    "forename": "Ulr.",
+    "title": "",
+    "occupation": "Bohrerschmied",
+    "address": "im Tannenneuhaus",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reist, Ulr., im Tannenneuhaus."
+   },
+   {
+    "line_from": 29,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Buchbinder",
+    "place": "Sumiswald",
+    "surname": "Hirsbrunner",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "im Dorf",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Derselbe liefert linirte Haus- und Handlungsbücher von allen beliebigen Sorten, auch Schreibmaterialien, sogenannte Galanteriewaaren; ferner besitzt er ein Lesekabinet.",
+    "text": "Hirsbrunner, Johann, im Dorf. (Derselbe liefert linirte Haus- und Handlungsbücher von allen beliebigen Sorten, auch Schreibmaterialien, sogenannte Galanteriewaaren; ferner besitzt er ein Lesekabinet.)"
+   },
+   {
+    "line_from": 36,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Buchbinder",
+    "place": "Sumiswald",
+    "surname": "Kohler",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "am Neuweg",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kohler, Christen, am Neuweg."
+   },
+   {
+    "line_from": 38,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Büchsenschmied",
+    "place": "Sumiswald",
+    "surname": "Eggimann",
+    "forename": "J.",
+    "title": "",
+    "occupation": "Büchsenschmied",
+    "address": "auf dem Knubel",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eggimann, J., auf dem Knubel."
+   },
+   {
+    "line_from": 40,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Bürstenbinder",
+    "place": "Sumiswald",
+    "surname": "Burkhard",
+    "forename": "Chr.",
+    "title": "",
+    "occupation": "Bürstenbinder",
+    "address": "auf dem Wasen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Burkhard, Chr., auf dem Wasen."
+   },
+   {
+    "line_from": 42,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Dachdecker",
+    "place": "Sumiswald",
+    "surname": "Geißbühler",
+    "forename": "Andr.",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "zu Hauensfluh",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Geißbühler, Andr., zu Hauensfluh."
+   },
+   {
+    "line_from": 43,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Dachdecker",
+    "place": "Sumiswald",
+    "surname": "Moser",
+    "forename": "Hans",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "auf dem Aebnit",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Moser, Hans, auf dem Aebnit."
+   },
+   {
+    "line_from": 44,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Dachdecker",
+    "place": "Sumiswald",
+    "surname": "Moser",
+    "forename": "Isaak",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "bei der Mauer",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Moser, Isaak, bei der Mauer."
+   },
+   {
+    "line_from": 45,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Dachdecker",
+    "place": "Sumiswald",
+    "surname": "Bek",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "auf dem Wasen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bek, Ulrich, auf dem Wasen."
+   },
+   {
+    "line_from": 47,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Drechsler",
+    "place": "Sumiswald",
+    "surname": "Meister",
+    "forename": "Ulr.",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "auf dem Wasen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "verfertigt Pfeifenköpfe",
+    "text": "Meister, Ulr., auf dem Wasen,"
+   },
+   {
+    "line_from": 48,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "Drechsler",
+    "place": "Sumiswald",
+    "surname": "Meister",
+    "forename": "Jak.",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "in der Stauleren",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "verfertigt Pfeifenköpfe",
+    "text": "Meister, Jak., in der Stauleren,"
+   },
+   {
+    "line_from": 49,
+    "line_to": 49,
+    "kind": "person",
+    "heading": "Drechsler",
+    "place": "Sumiswald",
+    "surname": "Munz",
+    "forename": "Jos.",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "im Dorf",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "verfertigt Pfeifenköpfe",
+    "text": "Munz, Jos., im Dorf,"
+   },
+   {
+    "line_from": 50,
+    "line_to": 50,
+    "kind": "person",
+    "heading": "Drechsler",
+    "place": "Sumiswald",
+    "surname": "Sommer",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "im Feld",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "verfertigt Pfeifenköpfe",
+    "text": "Sommer, Peter, im Feld,"
+   },
+   {
+    "line_from": 51,
+    "line_to": 51,
+    "kind": "person",
+    "heading": "Drechsler",
+    "place": "Sumiswald",
+    "surname": "Sommer",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "bei'r Mauer",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "verfertigt Pfeifenköpfe",
+    "text": "Sommer, Sam., bei'r Mauer,"
+   },
+   {
+    "line_from": 54,
+    "line_to": 54,
+    "kind": "person",
+    "heading": "Drechsler",
+    "place": "Sumiswald",
+    "surname": "Reist",
+    "forename": "Joh. Ulr.",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "zu Grünen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reist, Joh. Ulr., zu Grünen."
+   },
+   {
+    "line_from": 55,
+    "line_to": 55,
+    "kind": "person",
+    "heading": "Drechsler",
+    "place": "Sumiswald",
+    "surname": "Reist",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "zu Schabelehn",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reist, Peter, zu Schabelehn."
+   },
+   {
+    "line_from": 56,
+    "line_to": 57,
+    "kind": "person",
+    "heading": "Drechsler",
+    "place": "Sumiswald",
+    "surname": "Eichelberger",
+    "forename": "Joh. U.",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "am Burgbühl",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eichelberger, Joh. U., am Burgbühl."
+   },
+   {
+    "line_from": 58,
+    "line_to": 58,
+    "kind": "person",
+    "heading": "Drechsler",
+    "place": "Sumiswald",
+    "surname": "Gerber",
+    "forename": "Ulr.",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "auf dem Aebnit",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gerber, Ulr., auf dem Aebnit."
+   },
+   {
+    "line_from": 60,
+    "line_to": 60,
+    "kind": "person",
+    "heading": "Fadenmacher",
+    "place": "Sumiswald",
+    "surname": "Schütz",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Fadenmacher",
+    "address": "im Zelghäusli",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schütz, Ulrich, im Zelghäusli."
+   },
+   {
+    "line_from": 62,
+    "line_to": 62,
+    "kind": "person",
+    "heading": "Färber und Walker",
+    "place": "Sumiswald",
+    "surname": "Zimmermann",
+    "forename": "Chr.",
+    "title": "",
+    "occupation": "Färber und Walker",
+    "address": "zu Grünen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zimmermann, Chr., zu Grünen."
+   },
+   {
+    "line_from": 64,
+    "line_to": 64,
+    "kind": "person",
+    "heading": "Feuersprizenmacher",
+    "place": "Sumiswald",
+    "surname": "Reist",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "Feuersprizenmacher",
+    "address": "zu Grünen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reist, Joh. Ulrich, zu Grünen."
+   },
+   {
+    "line_from": 66,
+    "line_to": 66,
+    "kind": "person",
+    "heading": "Flachmaler und Vergolder",
+    "place": "Sumiswald",
+    "surname": "Pfister",
+    "forename": "Isaak",
+    "title": "",
+    "occupation": "Flachmaler und Vergolder",
+    "address": "im Dorf",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pfister, Isaak, im Dorf."
+   },
+   {
+    "line_from": 68,
+    "line_to": 69,
+    "kind": "person",
+    "heading": "Fuhrleute",
+    "place": "Sumiswald",
+    "surname": "Lüthi",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Fuhrmann",
+    "address": "im Grießbach",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "fährt nach Langenthal und Thun",
+    "text": "Lüthi, Peter, im Grießbach (fährt nach Langenthal und Thun)."
+   },
+   {
+    "line_from": 70,
+    "line_to": 71,
+    "kind": "person",
+    "heading": "Fuhrleute",
+    "place": "Sumiswald",
+    "surname": "Wiedmer",
+    "forename": "Chr.",
+    "title": "",
+    "occupation": "Fuhrmann",
+    "address": "im Wasen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "nach Bern",
+    "text": "Wiedmer, Chr., im Wasen (nach Bern)."
+   },
+   {
+    "line_from": 72,
+    "line_to": 73,
+    "kind": "person",
+    "heading": "Fuhrleute",
+    "place": "Sumiswald",
+    "surname": "Trüßel",
+    "forename": "Hans",
+    "title": "",
+    "occupation": "Fuhrmann",
+    "address": "in der Stegmatt",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "nach Burgdorf",
+    "text": "Trüßel, Hans, in der Stegmatt (nach Burgdorf)."
+   },
+   {
+    "line_from": 75,
+    "line_to": 75,
+    "kind": "person",
+    "heading": "Gärtner",
+    "place": "Sumiswald",
+    "surname": "Großenbacher",
+    "forename": "",
+    "title": "",
+    "occupation": "Gärtner",
+    "address": "im Wyler",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Großenbacher, im Wyler."
+   },
+   {
+    "line_from": 76,
+    "line_to": 76,
+    "kind": "person",
+    "heading": "Gärtner",
+    "place": "Sumiswald",
+    "surname": "Eichelberger",
+    "forename": "",
+    "title": "",
+    "occupation": "Gärtner",
+    "address": "in der Ey",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eichelberger, in der Ey."
+   },
+   {
+    "line_from": 78,
+    "line_to": 78,
+    "kind": "person",
+    "heading": "Garnbaucher",
+    "place": "Sumiswald",
+    "surname": "Kramer",
+    "forename": "Hans",
+    "title": "",
+    "occupation": "Garnbaucher",
+    "address": "in der Oberey",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kramer, Hans, in der Oberey."
+   },
+   {
+    "line_from": 79,
+    "line_to": 79,
+    "kind": "person",
+    "heading": "Garnbaucher",
+    "place": "Sumiswald",
+    "surname": "Ryser",
+    "forename": "Hans Ulr.",
+    "title": "",
+    "occupation": "Garnbaucher",
+    "address": "zu Wyden",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ryser, Hans Ulr., zu Wyden."
+   },
+   {
+    "line_from": 80,
+    "line_to": 80,
+    "kind": "person",
+    "heading": "Garnbaucher",
+    "place": "Sumiswald",
+    "surname": "Sommer",
+    "forename": "Andr.",
+    "title": "",
+    "occupation": "Garnbaucher",
+    "address": "zu Oberwyden",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sommer, Andr., zu Oberwyden."
+   },
+   {
+    "line_from": 82,
+    "line_to": 82,
+    "kind": "person",
+    "heading": "Gastwirthe",
+    "place": "Sumiswald",
+    "surname": "Marti",
+    "forename": "Jak.",
+    "title": "",
+    "occupation": "Gastwirth",
+    "address": "z. Bären, im Dorf",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Marti, Jak., z. Bären, im Dorf."
+   },
+   {
+    "line_from": 83,
+    "line_to": 83,
+    "kind": "person",
+    "heading": "Gastwirthe",
+    "place": "Sumiswald",
+    "surname": "Neußner",
+    "forename": "Karl",
+    "title": "",
+    "occupation": "Gastwirth",
+    "address": "z. Kreuz, dto.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Neußner, Karl, z. Kreuz, dto."
+   },
+   {
+    "line_from": 84,
+    "line_to": 84,
+    "kind": "person",
+    "heading": "Gastwirthe",
+    "place": "Sumiswald",
+    "surname": "Marti",
+    "forename": "J.",
+    "title": "",
+    "occupation": "Gastwirth",
+    "address": "auf dem Wasen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Marti, J., auf dem Wasen."
+   },
+   {
+    "line_from": 86,
+    "line_to": 86,
+    "kind": "person",
+    "heading": "Geschäftsmann",
+    "place": "Sumiswald",
+    "surname": "Wißler",
+    "forename": "Joh. Ulr.",
+    "title": "",
+    "occupation": "Geschäftsmann",
+    "address": "zu Neuegg",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wißler, Joh. Ulr., zu Neuegg."
+   },
+   {
+    "line_from": 88,
+    "line_to": 88,
+    "kind": "firma",
+    "heading": "Gießer",
+    "place": "Sumiswald",
+    "surname": "Schütz",
+    "forename": "",
+    "title": "Gebrüder",
+    "occupation": "Gießer",
+    "address": "zu Grünen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schütz, Gebrüder, zu Grünen."
+   },
+   {
+    "line_from": 89,
+    "line_to": 89,
+    "kind": "person",
+    "heading": "Gießer",
+    "place": "Sumiswald",
+    "surname": "Schütz",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Gießer",
+    "address": "im Meyaker",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schütz, Ulrich, im Meyaker."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:44:43+01:00",
+ "last_error": null
+}

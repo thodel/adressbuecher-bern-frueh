@@ -1,0 +1,302 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 35,
+ "section": "handbuch",
+ "started": "2026-11-11T20:48:56+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 14.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 2213,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"33\",\n  \"running_head\": \"Nidau.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Nidau.\"},\n    {\"n\": 2, \"text\": \"33\"},\n    {\"n\": 3, \"text\": \"Herr\"},\n    {\"n\": 4, \"text\": \"leinentuch, auch Wollen, insonderheit elbe Tücher\"},\n    {\"n\": 5, \"text\": \"(gelbgrau.)\"},\n    {\"n\": 6, \"text\": \"Orpund bey Nidau.\"},\n    {\"n\": 7, \"text\": \"Abraham Rihs, ein Uhrenmacher, berühmter\"},\n    {\"n\": 8, \"text\": \"Künstler bey Einrichtung des Radwerks in Wasser-\"},\n    {\"n\": 9, \"text\": \"künsten.\"},\n    {\"n\": 10, \"text\": \"Oberland.\"},\n    {\"n\": 11, \"text\": \"Peter Mühlimann und Comp. zu Aarmühle,\"},\n    {\"n\": 12, \"text\": \"Amts Interlaken, handeln mit Eisenwaaren.\"},\n    {\"n\": 13, \"text\": \"Daniel Lebhardt zu Interlaken, fabriciert\"},\n    {\"n\": 14, \"text\": \"Hüte von allen Sorten.\"},\n    {\"n\": 15, \"text\": \"Peter Sterchi und Comp. zu Unterseen, Käs-\"},\n    {\"n\": 16, \"text\": \"händler en gros.\"},\n    {\"n\": 17, \"text\": \"Heinrich Michel zu Interlaken bey Unterseen,\"},\n    {\"n\": 18, \"text\": \"verfertiget meistens Uhrmacher-Werkzeug, sonder-\"},\n    {\"n\": 19, \"text\": \"lich sehr wohlgearbeitete Drehstühle, die er nach\"},\n    {\"n\": 20, \"text\": \"Genf, la Chaux de fond, Locle, selbst bis Augsburg\"},\n    {\"n\": 21, \"text\": \"versendet.\"},\n    {\"n\": 22, \"text\": \"Ulrich Schmocker zu Unterseen, Glashändler.\"},\n    {\"n\": 23, \"text\": \"Schachtelfabrike (Obrigkeitl. privilegirte) zu\"},\n    {\"n\": 24, \"text\": \"Wilderswyl, Amts Interlaken, Kirchgemeind Gsteig.\"},\n    {\"n\": 25, \"text\": \"Diese Manufaktur wird täglich ansehnlicher, da sonst\"},\n    {\"n\": 26, \"text\": \"die Tyroler und Schwarzwälder den ganzen Kan-\"},\n    {\"n\": 27, \"text\": \"C\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Nidau.\",\n      \"place\": \"Nidau\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"Herr\",\n      \"occupation\": \"leinentuch, auch Wollen, insonderheit elbe Tücher (gelbgrau.)\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr leinentuch, auch Wollen, insonderheit elbe Tücher (gelbgrau.)\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Orpund bey Nidau.\",\n      \"place\": \"Orpund bey Nidau\",\n      \"surname\": \"Rihs\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher, berühmter Künstler bey Einrichtung des Radwerks in Wasserkünsten\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Abraham Rihs, ein Uhrenmacher, berühmter Künstler bey Einrichtung des Radwerks in Wasserkünsten.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"firma\",\n      \"heading\": \"Oberland.\",\n      \"place\": \"Aarmühle\",\n      \"surname\": \"Mühlimann\",\n      \"forename\": \"Peter\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"handeln mit Eisenwaaren\",\n      \"address\": \"zu Aarmühle, Amts Interlaken\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Peter Mühlimann und Comp. zu Aarmühle, Amts Interlaken, handeln mit Eisenwaaren.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Oberland.\",\n      \"place\": \"Interlaken\",\n      \"surname\": \"Lebhardt\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"fabriciert Hüte von allen Sorten\",\n      \"address\": \"zu Interlaken\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Lebhardt zu Interlaken, fabriciert Hüte von allen Sorten.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Oberland.\",\n      \"place\": \"Unterseen\",\n      \"surname\": \"Sterchi\",\n      \"forename\": \"Peter\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"Käshändler en gros\",\n      \"address\": \"zu Unterseen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Peter Sterchi und Comp. zu Unterseen, Käshändler en gros.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Oberland.\",\n      \"place\": \"Interlaken\",\n      \"surname\": \"Michel\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"verfertiget meistens Uhrmacher-Werkzeug, sonderlich sehr wohlgearbeitete Drehstühle\",\n      \"address\": \"zu Interlaken bey Unterseen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Heinrich Michel zu Interlaken bey Unterseen, verfertiget meistens Uhrmacher-Werkzeug, sonderlich sehr wohlgearbeitete Drehstühle, die er nach Genf, la Chaux de fond, Locle, selbst bis Augsburg versendet.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Oberland.\",\n      \"place\": \"Unterseen\",\n      \"surname\": \"Schmocker\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Glashändler\",\n      \"address\": \"zu Unterseen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ulrich Schmocker zu Unterseen, Glashändler.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 26,\n      \"kind\": \"institution\",\n      \"heading\": \"Oberland.\",\n      \"place\": \"Wilderswyl\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schachtelfabrike (Obrigkeitl. privilegirte)\",\n      \"address\": \"zu Wilderswyl, Amts Interlaken, Kirchgemeind Gsteig\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schachtelfabrike (Obrigkeitl. privilegirte) zu Wilderswyl, Amts Interlaken, Kirchgemeind Gsteig. Diese Manufaktur wird täglich ansehnlicher, da sonst die Tyroler und Schwarzwälder den ganzen Kan-\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "33",
+  "running_head": "Nidau.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Nidau."
+   },
+   {
+    "n": 2,
+    "text": "33"
+   },
+   {
+    "n": 3,
+    "text": "Herr"
+   },
+   {
+    "n": 4,
+    "text": "leinentuch, auch Wollen, insonderheit elbe Tücher"
+   },
+   {
+    "n": 5,
+    "text": "(gelbgrau.)"
+   },
+   {
+    "n": 6,
+    "text": "Orpund bey Nidau."
+   },
+   {
+    "n": 7,
+    "text": "Abraham Rihs, ein Uhrenmacher, berühmter"
+   },
+   {
+    "n": 8,
+    "text": "Künstler bey Einrichtung des Radwerks in Wasser-"
+   },
+   {
+    "n": 9,
+    "text": "künsten."
+   },
+   {
+    "n": 10,
+    "text": "Oberland."
+   },
+   {
+    "n": 11,
+    "text": "Peter Mühlimann und Comp. zu Aarmühle,"
+   },
+   {
+    "n": 12,
+    "text": "Amts Interlaken, handeln mit Eisenwaaren."
+   },
+   {
+    "n": 13,
+    "text": "Daniel Lebhardt zu Interlaken, fabriciert"
+   },
+   {
+    "n": 14,
+    "text": "Hüte von allen Sorten."
+   },
+   {
+    "n": 15,
+    "text": "Peter Sterchi und Comp. zu Unterseen, Käs-"
+   },
+   {
+    "n": 16,
+    "text": "händler en gros."
+   },
+   {
+    "n": 17,
+    "text": "Heinrich Michel zu Interlaken bey Unterseen,"
+   },
+   {
+    "n": 18,
+    "text": "verfertiget meistens Uhrmacher-Werkzeug, sonder-"
+   },
+   {
+    "n": 19,
+    "text": "lich sehr wohlgearbeitete Drehstühle, die er nach"
+   },
+   {
+    "n": 20,
+    "text": "Genf, la Chaux de fond, Locle, selbst bis Augsburg"
+   },
+   {
+    "n": 21,
+    "text": "versendet."
+   },
+   {
+    "n": 22,
+    "text": "Ulrich Schmocker zu Unterseen, Glashändler."
+   },
+   {
+    "n": 23,
+    "text": "Schachtelfabrike (Obrigkeitl. privilegirte) zu"
+   },
+   {
+    "n": 24,
+    "text": "Wilderswyl, Amts Interlaken, Kirchgemeind Gsteig."
+   },
+   {
+    "n": 25,
+    "text": "Diese Manufaktur wird täglich ansehnlicher, da sonst"
+   },
+   {
+    "n": 26,
+    "text": "die Tyroler und Schwarzwälder den ganzen Kan-"
+   },
+   {
+    "n": 27,
+    "text": "C"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Nidau.",
+    "place": "Nidau",
+    "surname": "",
+    "forename": "",
+    "title": "Herr",
+    "occupation": "leinentuch, auch Wollen, insonderheit elbe Tücher (gelbgrau.)",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr leinentuch, auch Wollen, insonderheit elbe Tücher (gelbgrau.)"
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Orpund bey Nidau.",
+    "place": "Orpund bey Nidau",
+    "surname": "Rihs",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "Uhrenmacher, berühmter Künstler bey Einrichtung des Radwerks in Wasserkünsten",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Abraham Rihs, ein Uhrenmacher, berühmter Künstler bey Einrichtung des Radwerks in Wasserkünsten."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "firma",
+    "heading": "Oberland.",
+    "place": "Aarmühle",
+    "surname": "Mühlimann",
+    "forename": "Peter",
+    "title": "und Comp.",
+    "occupation": "handeln mit Eisenwaaren",
+    "address": "zu Aarmühle, Amts Interlaken",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Peter Mühlimann und Comp. zu Aarmühle, Amts Interlaken, handeln mit Eisenwaaren."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Oberland.",
+    "place": "Interlaken",
+    "surname": "Lebhardt",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "fabriciert Hüte von allen Sorten",
+    "address": "zu Interlaken",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Lebhardt zu Interlaken, fabriciert Hüte von allen Sorten."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Oberland.",
+    "place": "Unterseen",
+    "surname": "Sterchi",
+    "forename": "Peter",
+    "title": "und Comp.",
+    "occupation": "Käshändler en gros",
+    "address": "zu Unterseen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Peter Sterchi und Comp. zu Unterseen, Käshändler en gros."
+   },
+   {
+    "line_from": 17,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Oberland.",
+    "place": "Interlaken",
+    "surname": "Michel",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "verfertiget meistens Uhrmacher-Werkzeug, sonderlich sehr wohlgearbeitete Drehstühle",
+    "address": "zu Interlaken bey Unterseen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Heinrich Michel zu Interlaken bey Unterseen, verfertiget meistens Uhrmacher-Werkzeug, sonderlich sehr wohlgearbeitete Drehstühle, die er nach Genf, la Chaux de fond, Locle, selbst bis Augsburg versendet."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Oberland.",
+    "place": "Unterseen",
+    "surname": "Schmocker",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Glashändler",
+    "address": "zu Unterseen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ulrich Schmocker zu Unterseen, Glashändler."
+   },
+   {
+    "line_from": 23,
+    "line_to": 26,
+    "kind": "institution",
+    "heading": "Oberland.",
+    "place": "Wilderswyl",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Schachtelfabrike (Obrigkeitl. privilegirte)",
+    "address": "zu Wilderswyl, Amts Interlaken, Kirchgemeind Gsteig",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schachtelfabrike (Obrigkeitl. privilegirte) zu Wilderswyl, Amts Interlaken, Kirchgemeind Gsteig. Diese Manufaktur wird täglich ansehnlicher, da sonst die Tyroler und Schwarzwälder den ganzen Kan-"
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:49:11+01:00",
+ "last_error": null
+}

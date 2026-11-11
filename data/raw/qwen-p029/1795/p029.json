@@ -1,0 +1,200 @@
+{
+ "run": "qwen-p029",
+ "model": "qwen3.8-27b",
+ "reader": "gpustack",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 3968,
+  "total_tokens": 5581,
+  "completion_tokens": 1613,
+  "prompt_tokens_details": null
+ },
+ "seconds": 47.6,
+ "finished": "2026-11-11T20:45:45+01:00",
+ "raw": "{\n  \"printed_page\": \"27\",\n  \"running_head\": \"Langenthal.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Langenthal.\"},\n    {\"n\": 2, \"text\": \"nen Sorten, en gros und en détail, in Commission\"},\n    {\"n\": 3, \"text\": \"zu verkaufen.\"},\n    {\"n\": 4, \"text\": \"Herr\"},\n    {\"n\": 5, \"text\": \"Jakob Mumenthaler, ein sehr erfinderischer\"},\n    {\"n\": 6, \"text\": \"Kopf; sonst ein Buchbinder, treibt aber die Pro-\"},\n    {\"n\": 7, \"text\": \"fession schon lange nicht mehr. Er schrieb uns in\"},\n    {\"n\": 8, \"text\": \"einem Briefe von sich folgende Lebensumstände:\"},\n    {\"n\": 9, \"text\": \"„Die Buchbinder-Profession, zu der ich in meiner\"},\n    {\"n\": 10, \"text\": \"Jugend gewidmet worden, hat mich mit Büchern bekannt\"},\n    {\"n\": 11, \"text\": \"gemacht, und hier zeigte sich meine Neigung und Lust zur\"},\n    {\"n\": 12, \"text\": \"Physik, und vorzüglich zu Verfertigung der optischen Ma-\"},\n    {\"n\": 13, \"text\": \"schinen. Da ich deswegen mit den Liebhabern derselben\"},\n    {\"n\": 14, \"text\": \"Bekanntschaft suchte, so reiste ich nach Lenanau zu Herrn\"},\n    {\"n\": 15, \"text\": \"Pfarrer Tribolet, der ein grosser Liebhaber von physika-\"},\n    {\"n\": 16, \"text\": \"lischen und vorzüglich optischen Maschinen war. Hier\"},\n    {\"n\": 17, \"text\": \"lernte ich das Brandersche Sonnen-Microscop kennen,\"},\n    {\"n\": 18, \"text\": \"und verfertigte auch dergleichen.\"},\n    {\"n\": 19, \"text\": \"Da die Electricität so grosses Aufsehn zu machen an-\"},\n    {\"n\": 20, \"text\": \"fieng, so verfertigte ich auch electrische Maschinen; und\"},\n    {\"n\": 21, \"text\": \"habe auch dergleichen selbst inventiert, darunter sich eine\"},\n    {\"n\": 22, \"text\": \"befindet, die von jedem Liebhaber der electr. Experimenten\"},\n    {\"n\": 23, \"text\": \"sollte angeschafft werden.\"},\n    {\"n\": 24, \"text\": \"Es ist in Form einer Stofuhr, mit einem schwarzen\"},\n    {\"n\": 25, \"text\": \"Zifferblatt, mit 6 Zahlen, unten im Fuss den man abneh-\"},\n    {\"n\": 26, \"text\": \"men kann, sind 6 Löcher, mit Zahlen bezeichnet; wirft\"},\n    {\"n\": 27, \"text\": \"man eine Kugel von oben in die Uhr, so muss sie unten\"},\n    {\"n\": 28, \"text\": \"in ein Loch fallen, nun weiss niemand auf welche Num-\"},\n    {\"n\": 29, \"text\": \"mer die Kugel gefallen, auch der nicht, so sie geworfen.\"},\n    {\"n\": 30, \"text\": \"Wenn man aber die Uhr unter den Leiter der electr. Ma-\"},\n    {\"n\": 31, \"text\": \"schine sezt, und dieselbige treibt, so wird die Zahl auf dem\"},\n    {\"n\": 32, \"text\": \"Zifferblatt leuchtend erscheinen, und diejenige Zahl anzei-\"},\n    {\"n\": 33, \"text\": \"gen, worauf die Kugel im Kästlein liegt.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"sonst\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Fortsetzung des Eintrags von der Vorseite\",\n      \"text\": \"nen Sorten, en gros und en détail, in Commission zu verkaufen.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Mumenthaler\",\n      \"forename\": \"Jakob\",\n      \"title\": \"Herr\",\n      \"occupation\": \"sonst ein Buchbinder\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Jakob Mumenthaler, ein sehr erfinderischer Kopf; sonst ein Buchbinder, treibt aber die Profession schon lange nicht mehr. Er schrieb uns in einem Briefe von sich folgende Lebensumstände: „Die Buchbinder-Profession, zu der ich in meiner Jugend gewidmet worden, hat mich mit Büchern bekannt gemacht, und hier zeigte sich meine Neigung und Lust zur Physik, und vorzüglich zu Verfertigung der optischen Maschinen. Da ich deswegen mit den Liebhabern derselben Bekanntschaft suchte, so reiste ich nach Lenanau zu Herrn Pfarrer Tribolet, der ein grosser Liebhaber von physikalischen und vorzüglich optischen Maschinen war. Hier lernte ich das Brandersche Sonnen-Microscop kennen, und verfertigte auch dergleichen. Da die Electricität so grosses Aufsehn zu machen anfing, so verfertigte ich auch electrische Maschinen; und habe auch dergleichen selbst inventiert, darunter sich eine befindet, die von jedem Liebhaber der electr. Experimenten sollte angeschafft werden. Es ist in Form einer Stofuhr, mit einem schwarzen Zifferblatt, mit 6 Zahlen, unten im Fuss den man abnehmen kann, sind 6 Löcher, mit Zahlen bezeichnet; wirft man eine Kugel von oben in die Uhr, so muss sie unten in ein Loch fallen, nun weiss niemand auf welche Nummer die Kugel gefallen, auch der nicht, so sie geworfen. Wenn man aber die Uhr unter den Leiter der electr. Maschine sezt, und dieselbige treibt, so wird die Zahl auf dem Zifferblatt leuchtend erscheinen, und diejenige Zahl anzeigen, worauf die Kugel im Kästlein liegt.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "27",
+  "running_head": "Langenthal.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Langenthal."
+   },
+   {
+    "n": 2,
+    "text": "nen Sorten, en gros und en détail, in Commission"
+   },
+   {
+    "n": 3,
+    "text": "zu verkaufen."
+   },
+   {
+    "n": 4,
+    "text": "Herr"
+   },
+   {
+    "n": 5,
+    "text": "Jakob Mumenthaler, ein sehr erfinderischer"
+   },
+   {
+    "n": 6,
+    "text": "Kopf; sonst ein Buchbinder, treibt aber die Pro-"
+   },
+   {
+    "n": 7,
+    "text": "fession schon lange nicht mehr. Er schrieb uns in"
+   },
+   {
+    "n": 8,
+    "text": "einem Briefe von sich folgende Lebensumstände:"
+   },
+   {
+    "n": 9,
+    "text": "„Die Buchbinder-Profession, zu der ich in meiner"
+   },
+   {
+    "n": 10,
+    "text": "Jugend gewidmet worden, hat mich mit Büchern bekannt"
+   },
+   {
+    "n": 11,
+    "text": "gemacht, und hier zeigte sich meine Neigung und Lust zur"
+   },
+   {
+    "n": 12,
+    "text": "Physik, und vorzüglich zu Verfertigung der optischen Ma-"
+   },
+   {
+    "n": 13,
+    "text": "schinen. Da ich deswegen mit den Liebhabern derselben"
+   },
+   {
+    "n": 14,
+    "text": "Bekanntschaft suchte, so reiste ich nach Lenanau zu Herrn"
+   },
+   {
+    "n": 15,
+    "text": "Pfarrer Tribolet, der ein grosser Liebhaber von physika-"
+   },
+   {
+    "n": 16,
+    "text": "lischen und vorzüglich optischen Maschinen war. Hier"
+   },
+   {
+    "n": 17,
+    "text": "lernte ich das Brandersche Sonnen-Microscop kennen,"
+   },
+   {
+    "n": 18,
+    "text": "und verfertigte auch dergleichen."
+   },
+   {
+    "n": 19,
+    "text": "Da die Electricität so grosses Aufsehn zu machen an-"
+   },
+   {
+    "n": 20,
+    "text": "fieng, so verfertigte ich auch electrische Maschinen; und"
+   },
+   {
+    "n": 21,
+    "text": "habe auch dergleichen selbst inventiert, darunter sich eine"
+   },
+   {
+    "n": 22,
+    "text": "befindet, die von jedem Liebhaber der electr. Experimenten"
+   },
+   {
+    "n": 23,
+    "text": "sollte angeschafft werden."
+   },
+   {
+    "n": 24,
+    "text": "Es ist in Form einer Stofuhr, mit einem schwarzen"
+   },
+   {
+    "n": 25,
+    "text": "Zifferblatt, mit 6 Zahlen, unten im Fuss den man abneh-"
+   },
+   {
+    "n": 26,
+    "text": "men kann, sind 6 Löcher, mit Zahlen bezeichnet; wirft"
+   },
+   {
+    "n": 27,
+    "text": "man eine Kugel von oben in die Uhr, so muss sie unten"
+   },
+   {
+    "n": 28,
+    "text": "in ein Loch fallen, nun weiss niemand auf welche Num-"
+   },
+   {
+    "n": 29,
+    "text": "mer die Kugel gefallen, auch der nicht, so sie geworfen."
+   },
+   {
+    "n": 30,
+    "text": "Wenn man aber die Uhr unter den Leiter der electr. Ma-"
+   },
+   {
+    "n": 31,
+    "text": "schine sezt, und dieselbige treibt, so wird die Zahl auf dem"
+   },
+   {
+    "n": 32,
+    "text": "Zifferblatt leuchtend erscheinen, und diejenige Zahl anzei-"
+   },
+   {
+    "n": 33,
+    "text": "gen, worauf die Kugel im Kästlein liegt."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "sonst",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Fortsetzung des Eintrags von der Vorseite",
+    "text": "nen Sorten, en gros und en détail, in Commission zu verkaufen."
+   },
+   {
+    "line_from": 4,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Mumenthaler",
+    "forename": "Jakob",
+    "title": "Herr",
+    "occupation": "sonst ein Buchbinder",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Jakob Mumenthaler, ein sehr erfinderischer Kopf; sonst ein Buchbinder, treibt aber die Profession schon lange nicht mehr. Er schrieb uns in einem Briefe von sich folgende Lebensumstände: „Die Buchbinder-Profession, zu der ich in meiner Jugend gewidmet worden, hat mich mit Büchern bekannt gemacht, und hier zeigte sich meine Neigung und Lust zur Physik, und vorzüglich zu Verfertigung der optischen Maschinen. Da ich deswegen mit den Liebhabern derselben Bekanntschaft suchte, so reiste ich nach Lenanau zu Herrn Pfarrer Tribolet, der ein grosser Liebhaber von physikalischen und vorzüglich optischen Maschinen war. Hier lernte ich das Brandersche Sonnen-Microscop kennen, und verfertigte auch dergleichen. Da die Electricität so grosses Aufsehn zu machen anfing, so verfertigte ich auch electrische Maschinen; und habe auch dergleichen selbst inventiert, darunter sich eine befindet, die von jedem Liebhaber der electr. Experimenten sollte angeschafft werden. Es ist in Form einer Stofuhr, mit einem schwarzen Zifferblatt, mit 6 Zahlen, unten im Fuss den man abnehmen kann, sind 6 Löcher, mit Zahlen bezeichnet; wirft man eine Kugel von oben in die Uhr, so muss sie unten in ein Loch fallen, nun weiss niemand auf welche Nummer die Kugel gefallen, auch der nicht, so sie geworfen. Wenn man aber die Uhr unter den Leiter der electr. Maschine sezt, und dieselbige treibt, so wird die Zahl auf dem Zifferblatt leuchtend erscheinen, und diejenige Zahl anzeigen, worauf die Kugel im Kästlein liegt."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true
+}

@@ -1,0 +1,414 @@
+{
+ "run": "fix-high",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 140,
+ "section": "einsassen",
+ "started": "2026-11-11T22:23:38+01:00",
+ "thinking": "high",
+ "temperature": 0.0,
+ "seconds": 124.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 3852,
+  "thoughts": 14561
+ },
+ "response_text": "{\n  \"printed_page\": \"127\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 127 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Remke.\"},\n    {\"n\": 4, \"text\": \"1 Franz Peter, Schreiner, a. St. Dyonisius in Hanover\"},\n    {\"n\": 5, \"text\": \"- IV, 84.\"},\n    {\"n\": 6, \"text\": \"807 Fr. - Elis. Stucker, Lohnwascherin, a. Bowyl.\"},\n    {\"n\": 7, \"text\": \"2 K. - 831 Franz Christ. - 33 Louise.\"},\n    {\"n\": 8, \"text\": \"Remund a. Mühleberg.\"},\n    {\"n\": 9, \"text\": \"1 802 Samuel, Schneider - III, 11.\"},\n    {\"n\": 10, \"text\": \"798 Fr. - Sus. Schwab a. Gals.\"},\n    {\"n\": 11, \"text\": \"1 T. - 834 Maria Louise.\"},\n    {\"n\": 12, \"text\": \"2 812 Anna, Händlerin - II, 116 a.\"},\n    {\"n\": 13, \"text\": \"Renner.\"},\n    {\"n\": 14, \"text\": \"1 805 Franz, Musiklehrer, a. Urseren IV, 36.\"},\n    {\"n\": 15, \"text\": \"Rennich.\"},\n    {\"n\": 16, \"text\": \"1 807 Charlotte, geb. Fueß, Zimmervermietherin, a. Lindau\"},\n    {\"n\": 17, \"text\": \"in Baiern - IV, 236.\"},\n    {\"n\": 18, \"text\": \"3 S. - 839 Gottlieb Emil. - 42 Christ. Friedrich. —\"},\n    {\"n\": 19, \"text\": \"46 Franz Ed. Adolf.\"},\n    {\"n\": 20, \"text\": \"Renz.\"},\n    {\"n\": 21, \"text\": \"1 774 Karl Friedrich, Chemiker, a. Basel - VII, 110.\"},\n    {\"n\": 22, \"text\": \"771 Fr. - Louise Pfizer.\"},\n    {\"n\": 23, \"text\": \"Reußer.\"},\n    {\"n\": 24, \"text\": \"1 806 Christen, Pächter, a. Röthenbach - I, 39.\"},\n    {\"n\": 25, \"text\": \"2 786 Peter, Lehenmann, a. Aeschlen - I, 122.\"},\n    {\"n\": 26, \"text\": \"792 Fr. - Anna Ingold a. Herzogenbuchsee.\"},\n    {\"n\": 27, \"text\": \"9 K. - 814 Johann. - 18 Elisabetha. — 22 Samuel.\"},\n    {\"n\": 28, \"text\": \"— 25 Peter. - 27 Anna. - 31 Anna Elis. - 33 Maria\"},\n    {\"n\": 29, \"text\": \"Magd. - 34 Friedrich. - 36 Anna Barbara.\"},\n    {\"n\": 30, \"text\": \"3 810 Barbara, geb. Moser, Ausschenkerin, a. Thungschneit\"},\n    {\"n\": 31, \"text\": \"- II, 6.\"},\n    {\"n\": 32, \"text\": \"Ribi.\"},\n    {\"n\": 33, \"text\": \"1 798 Verena, geb. Lienhard, Metzgerin und Kostgeberin, a.\"},\n    {\"n\": 34, \"text\": \"Ermatingen, K. Thurgau - II, 245.\"},\n    {\"n\": 35, \"text\": \"4 K. - 824 Johannes. - 29 Anna Maria. - 32 Gabr.\"},\n    {\"n\": 36, \"text\": \"Benj. Friedrich. - 39 Rosina.\"},\n    {\"n\": 37, \"text\": \"Richard.\"},\n    {\"n\": 38, \"text\": \"1 814 Friedrich, Schreiber, a. Erlach - VI, 107.\"},\n    {\"n\": 39, \"text\": \"815 Fr. - Anna Maria Lehmann a. Worb.\"},\n    {\"n\": 40, \"text\": \"1 T. - 843 Anna Maria.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Remke.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Remke\",\n      \"forename\": \"Franz Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"IV, 84\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"84\",\n      \"origin\": \"St. Dyonisius in Hanover\",\n      \"birth_year\": \"\",\n      \"household\": \"807 Fr. - Elis. Stucker, Lohnwascherin, a. Bowyl. 2 K. - 831 Franz Christ. - 33 Louise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Franz Peter, Schreiner, a. St. Dyonisius in Hanover - IV, 84. 807 Fr. - Elis. Stucker, Lohnwascherin, a. Bowyl. 2 K. - 831 Franz Christ. - 33 Louise.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Remund a. Mühleberg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Remund\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"III, 11\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"11\",\n      \"origin\": \"Mühleberg\",\n      \"birth_year\": \"1802\",\n      \"household\": \"798 Fr. - Sus. Schwab a. Gals. 1 T. - 834 Maria Louise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Samuel, Schneider - III, 11. 798 Fr. - Sus. Schwab a. Gals. 1 T. - 834 Maria Louise.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Remund a. Mühleberg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Remund\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Händlerin\",\n      \"address\": \"II, 116 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"116 a\",\n      \"origin\": \"Mühleberg\",\n      \"birth_year\": \"1812\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 812 Anna, Händlerin - II, 116 a.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Renner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Renner\",\n      \"forename\": \"Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Musiklehrer\",\n      \"address\": \"IV, 36\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"Urseren\",\n      \"birth_year\": \"1805\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Franz, Musiklehrer, a. Urseren IV, 36.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Rennich.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rennich\",\n      \"forename\": \"Charlotte\",\n      \"title\": \"geb. Fueß\",\n      \"occupation\": \"Zimmervermietherin\",\n      \"address\": \"IV, 236\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"236\",\n      \"origin\": \"Lindau in Baiern\",\n      \"birth_year\": \"1807\",\n      \"household\": \"3 S. - 839 Gottlieb Emil. - 42 Christ. Friedrich. — 46 Franz Ed. Adolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Charlotte, geb. Fueß, Zimmervermietherin, a. Lindau in Baiern - IV, 236. 3 S. - 839 Gottlieb Emil. - 42 Christ. Friedrich. — 46 Franz Ed. Adolf.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Renz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Renz\",\n      \"forename\": \"Karl Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Chemiker\",\n      \"address\": \"VII, 110\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"110\",\n      \"origin\": \"Basel\",\n      \"birth_year\": \"1774\",\n      \"household\": \"771 Fr. - Louise Pfizer.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 774 Karl Friedrich, Chemiker, a. Basel - VII, 110. 771 Fr. - Louise Pfizer.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Reußer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Reußer\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Pächter\",\n      \"address\": \"I, 39\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"39\",\n      \"origin\": \"Röthenbach\",\n      \"birth_year\": \"1806\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 806 Christen, Pächter, a. Röthenbach - I, 39.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Reußer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Reußer\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Lehenmann\",\n      \"address\": \"I, 122\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"122\",\n      \"origin\": \"Aeschlen\",\n      \"birth_year\": \"1786\",\n      \"household\": \"792 Fr. - Anna Ingold a. Herzogenbuchsee. 9 K. - 814 Johann. - 18 Elisabetha. — 22 Samuel. — 25 Peter. - 27 Anna. - 31 Anna Elis. - 33 Maria Magd. - 34 Friedrich. - 36 Anna Barbara.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 786 Peter, Lehenmann, a. Aeschlen - I, 122. 792 Fr. - Anna Ingold a. Herzogenbuchsee. 9 K. - 814 Johann. - 18 Elisabetha. — 22 Samuel. — 25 Peter. - 27 Anna. - 31 Anna Elis. - 33 Maria Magd. - 34 Friedrich. - 36 Anna Barbara.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Reußer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Reußer\",\n      \"forename\": \"Barbara\",\n      \"title\": \"geb. Moser\",\n      \"occupation\": \"Ausschenkerin\",\n      \"address\": \"II, 6\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"6\",\n      \"origin\": \"Thungschneit\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 810 Barbara, geb. Moser, Ausschenkerin, a. Thungschneit - II, 6.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Ribi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ribi\",\n      \"forename\": \"Verena\",\n      \"title\": \"geb. Lienhard\",\n      \"occupation\": \"Metzgerin und Kostgeberin\",\n      \"address\": \"II, 245\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"245\",\n      \"origin\": \"Ermatingen, K. Thurgau\",\n      \"birth_year\": \"1798\",\n      \"household\": \"4 K. - 824 Johannes. - 29 Anna Maria. - 32 Gabr. Benj. Friedrich. - 39 Rosina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 798 Verena, geb. Lienhard, Metzgerin und Kostgeberin, a. Ermatingen, K. Thurgau - II, 245. 4 K. - 824 Johannes. - 29 Anna Maria. - 32 Gabr. Benj. Friedrich. - 39 Rosina.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Richard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Richard\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"VI, 107\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"107\",\n      \"origin\": \"Erlach\",\n      \"birth_year\": \"1814\",\n      \"household\": \"815 Fr. - Anna Maria Lehmann a. Worb. 1 T. - 843 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Friedrich, Schreiber, a. Erlach - VI, 107. 815 Fr. - Anna Maria Lehmann a. Worb. 1 T. - 843 Anna Maria.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "127",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 127 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Remke."
+   },
+   {
+    "n": 4,
+    "text": "1 Franz Peter, Schreiner, a. St. Dyonisius in Hanover"
+   },
+   {
+    "n": 5,
+    "text": "- IV, 84."
+   },
+   {
+    "n": 6,
+    "text": "807 Fr. - Elis. Stucker, Lohnwascherin, a. Bowyl."
+   },
+   {
+    "n": 7,
+    "text": "2 K. - 831 Franz Christ. - 33 Louise."
+   },
+   {
+    "n": 8,
+    "text": "Remund a. Mühleberg."
+   },
+   {
+    "n": 9,
+    "text": "1 802 Samuel, Schneider - III, 11."
+   },
+   {
+    "n": 10,
+    "text": "798 Fr. - Sus. Schwab a. Gals."
+   },
+   {
+    "n": 11,
+    "text": "1 T. - 834 Maria Louise."
+   },
+   {
+    "n": 12,
+    "text": "2 812 Anna, Händlerin - II, 116 a."
+   },
+   {
+    "n": 13,
+    "text": "Renner."
+   },
+   {
+    "n": 14,
+    "text": "1 805 Franz, Musiklehrer, a. Urseren IV, 36."
+   },
+   {
+    "n": 15,
+    "text": "Rennich."
+   },
+   {
+    "n": 16,
+    "text": "1 807 Charlotte, geb. Fueß, Zimmervermietherin, a. Lindau"
+   },
+   {
+    "n": 17,
+    "text": "in Baiern - IV, 236."
+   },
+   {
+    "n": 18,
+    "text": "3 S. - 839 Gottlieb Emil. - 42 Christ. Friedrich. —"
+   },
+   {
+    "n": 19,
+    "text": "46 Franz Ed. Adolf."
+   },
+   {
+    "n": 20,
+    "text": "Renz."
+   },
+   {
+    "n": 21,
+    "text": "1 774 Karl Friedrich, Chemiker, a. Basel - VII, 110."
+   },
+   {
+    "n": 22,
+    "text": "771 Fr. - Louise Pfizer."
+   },
+   {
+    "n": 23,
+    "text": "Reußer."
+   },
+   {
+    "n": 24,
+    "text": "1 806 Christen, Pächter, a. Röthenbach - I, 39."
+   },
+   {
+    "n": 25,
+    "text": "2 786 Peter, Lehenmann, a. Aeschlen - I, 122."
+   },
+   {
+    "n": 26,
+    "text": "792 Fr. - Anna Ingold a. Herzogenbuchsee."
+   },
+   {
+    "n": 27,
+    "text": "9 K. - 814 Johann. - 18 Elisabetha. — 22 Samuel."
+   },
+   {
+    "n": 28,
+    "text": "— 25 Peter. - 27 Anna. - 31 Anna Elis. - 33 Maria"
+   },
+   {
+    "n": 29,
+    "text": "Magd. - 34 Friedrich. - 36 Anna Barbara."
+   },
+   {
+    "n": 30,
+    "text": "3 810 Barbara, geb. Moser, Ausschenkerin, a. Thungschneit"
+   },
+   {
+    "n": 31,
+    "text": "- II, 6."
+   },
+   {
+    "n": 32,
+    "text": "Ribi."
+   },
+   {
+    "n": 33,
+    "text": "1 798 Verena, geb. Lienhard, Metzgerin und Kostgeberin, a."
+   },
+   {
+    "n": 34,
+    "text": "Ermatingen, K. Thurgau - II, 245."
+   },
+   {
+    "n": 35,
+    "text": "4 K. - 824 Johannes. - 29 Anna Maria. - 32 Gabr."
+   },
+   {
+    "n": 36,
+    "text": "Benj. Friedrich. - 39 Rosina."
+   },
+   {
+    "n": 37,
+    "text": "Richard."
+   },
+   {
+    "n": 38,
+    "text": "1 814 Friedrich, Schreiber, a. Erlach - VI, 107."
+   },
+   {
+    "n": 39,
+    "text": "815 Fr. - Anna Maria Lehmann a. Worb."
+   },
+   {
+    "n": 40,
+    "text": "1 T. - 843 Anna Maria."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Remke.",
+    "place": "Bern",
+    "surname": "Remke",
+    "forename": "Franz Peter",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "IV, 84",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "84",
+    "origin": "St. Dyonisius in Hanover",
+    "birth_year": "",
+    "household": "807 Fr. - Elis. Stucker, Lohnwascherin, a. Bowyl. 2 K. - 831 Franz Christ. - 33 Louise.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Franz Peter, Schreiner, a. St. Dyonisius in Hanover - IV, 84. 807 Fr. - Elis. Stucker, Lohnwascherin, a. Bowyl. 2 K. - 831 Franz Christ. - 33 Louise."
+   },
+   {
+    "line_from": 9,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Remund a. Mühleberg.",
+    "place": "Bern",
+    "surname": "Remund",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "III, 11",
+    "quarter": "III",
+    "street": "",
+    "house_no": "11",
+    "origin": "Mühleberg",
+    "birth_year": "1802",
+    "household": "798 Fr. - Sus. Schwab a. Gals. 1 T. - 834 Maria Louise.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Samuel, Schneider - III, 11. 798 Fr. - Sus. Schwab a. Gals. 1 T. - 834 Maria Louise."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Remund a. Mühleberg.",
+    "place": "Bern",
+    "surname": "Remund",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Händlerin",
+    "address": "II, 116 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "116 a",
+    "origin": "Mühleberg",
+    "birth_year": "1812",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 812 Anna, Händlerin - II, 116 a."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Renner.",
+    "place": "Bern",
+    "surname": "Renner",
+    "forename": "Franz",
+    "title": "",
+    "occupation": "Musiklehrer",
+    "address": "IV, 36",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "36",
+    "origin": "Urseren",
+    "birth_year": "1805",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Franz, Musiklehrer, a. Urseren IV, 36."
+   },
+   {
+    "line_from": 16,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Rennich.",
+    "place": "Bern",
+    "surname": "Rennich",
+    "forename": "Charlotte",
+    "title": "geb. Fueß",
+    "occupation": "Zimmervermietherin",
+    "address": "IV, 236",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "236",
+    "origin": "Lindau in Baiern",
+    "birth_year": "1807",
+    "household": "3 S. - 839 Gottlieb Emil. - 42 Christ. Friedrich. — 46 Franz Ed. Adolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Charlotte, geb. Fueß, Zimmervermietherin, a. Lindau in Baiern - IV, 236. 3 S. - 839 Gottlieb Emil. - 42 Christ. Friedrich. — 46 Franz Ed. Adolf."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Renz.",
+    "place": "Bern",
+    "surname": "Renz",
+    "forename": "Karl Friedrich",
+    "title": "",
+    "occupation": "Chemiker",
+    "address": "VII, 110",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "110",
+    "origin": "Basel",
+    "birth_year": "1774",
+    "household": "771 Fr. - Louise Pfizer.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 774 Karl Friedrich, Chemiker, a. Basel - VII, 110. 771 Fr. - Louise Pfizer."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Reußer.",
+    "place": "Bern",
+    "surname": "Reußer",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Pächter",
+    "address": "I, 39",
+    "quarter": "I",
+    "street": "",
+    "house_no": "39",
+    "origin": "Röthenbach",
+    "birth_year": "1806",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 806 Christen, Pächter, a. Röthenbach - I, 39."
+   },
+   {
+    "line_from": 25,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Reußer.",
+    "place": "Bern",
+    "surname": "Reußer",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Lehenmann",
+    "address": "I, 122",
+    "quarter": "I",
+    "street": "",
+    "house_no": "122",
+    "origin": "Aeschlen",
+    "birth_year": "1786",
+    "household": "792 Fr. - Anna Ingold a. Herzogenbuchsee. 9 K. - 814 Johann. - 18 Elisabetha. — 22 Samuel. — 25 Peter. - 27 Anna. - 31 Anna Elis. - 33 Maria Magd. - 34 Friedrich. - 36 Anna Barbara.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 786 Peter, Lehenmann, a. Aeschlen - I, 122. 792 Fr. - Anna Ingold a. Herzogenbuchsee. 9 K. - 814 Johann. - 18 Elisabetha. — 22 Samuel. — 25 Peter. - 27 Anna. - 31 Anna Elis. - 33 Maria Magd. - 34 Friedrich. - 36 Anna Barbara."
+   },
+   {
+    "line_from": 30,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Reußer.",
+    "place": "Bern",
+    "surname": "Reußer",
+    "forename": "Barbara",
+    "title": "geb. Moser",
+    "occupation": "Ausschenkerin",
+    "address": "II, 6",
+    "quarter": "II",
+    "street": "",
+    "house_no": "6",
+    "origin": "Thungschneit",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 810 Barbara, geb. Moser, Ausschenkerin, a. Thungschneit - II, 6."
+   },
+   {
+    "line_from": 33,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Ribi.",
+    "place": "Bern",
+    "surname": "Ribi",
+    "forename": "Verena",
+    "title": "geb. Lienhard",
+    "occupation": "Metzgerin und Kostgeberin",
+    "address": "II, 245",
+    "quarter": "II",
+    "street": "",
+    "house_no": "245",
+    "origin": "Ermatingen, K. Thurgau",
+    "birth_year": "1798",
+    "household": "4 K. - 824 Johannes. - 29 Anna Maria. - 32 Gabr. Benj. Friedrich. - 39 Rosina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 798 Verena, geb. Lienhard, Metzgerin und Kostgeberin, a. Ermatingen, K. Thurgau - II, 245. 4 K. - 824 Johannes. - 29 Anna Maria. - 32 Gabr. Benj. Friedrich. - 39 Rosina."
+   },
+   {
+    "line_from": 38,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Richard.",
+    "place": "Bern",
+    "surname": "Richard",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "VI, 107",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "107",
+    "origin": "Erlach",
+    "birth_year": "1814",
+    "household": "815 Fr. - Anna Maria Lehmann a. Worb. 1 T. - 843 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Friedrich, Schreiber, a. Erlach - VI, 107. 815 Fr. - Anna Maria Lehmann a. Worb. 1 T. - 843 Anna Maria."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:25:43+01:00",
+ "last_error": null
+}

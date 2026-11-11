@@ -1,0 +1,458 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 108,
+ "section": "einsassen",
+ "started": "2026-11-11T22:04:50+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 35.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4670,
+  "thoughts": 979
+ },
+ "response_text": "{\n  \"printed_page\": \"95\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 95 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Lenz.\"},\n    {\"n\": 4, \"text\": \"1 786 Emanuel Christ., Lohnbedienter, a. Biglen u. Arni -\"},\n    {\"n\": 5, \"text\": \"V, 36.\"},\n    {\"n\": 6, \"text\": \"797 Fr. II Ehe. - Elis. Leiser a. Seedorf.\"},\n    {\"n\": 7, \"text\": \"2 K. aus I Ehe. - 808 Anna Elis. - 13 Joh. Jakob.\"},\n    {\"n\": 8, \"text\": \"Lenzinger.\"},\n    {\"n\": 9, \"text\": \"1 798 Joh. Jakob, Strumpfweber u. Krämer, a. Weinfelden,\"},\n    {\"n\": 10, \"text\": \"K. Thurgau - II, 176.\"},\n    {\"n\": 11, \"text\": \"807 Fr. - Maria Agathe Werner a. Almendshofen, GH. Baden.\"},\n    {\"n\": 12, \"text\": \"5 K. - 831 Maria Karoline. - 32 Maria Johanna. -\"},\n    {\"n\": 13, \"text\": \"33 Xaver Jakob. - 39 Wend. Nikl. - 45 Franz Paul\"},\n    {\"n\": 14, \"text\": \"Adelbert.\"},\n    {\"n\": 15, \"text\": \"Leserv.\"},\n    {\"n\": 16, \"text\": \"1 803 Georg Friedrich, Schneider u. Krämer, a. Murhardt\"},\n    {\"n\": 17, \"text\": \"in Würtemberg - IV, 21.\"},\n    {\"n\": 18, \"text\": \"803 Fr. - Maria Fahrni a. Unterlangeneck.\"},\n    {\"n\": 19, \"text\": \"3 S. - 829 Friedr. - 32 Jakob. - 35 Adolf Theodor.\"},\n    {\"n\": 20, \"text\": \"Leu.\"},\n    {\"n\": 21, \"text\": \"1 808 Ferdinand, Schreiber, a. Rohrbachgraben - IV, 18.\"},\n    {\"n\": 22, \"text\": \"Fr. II Ehe. - Sus. Urfer a. Burgistein.\"},\n    {\"n\": 23, \"text\": \"3 K. aus I Ehe. - 840 August. - 42 Louise. - 43 Elise.\"},\n    {\"n\": 24, \"text\": \"Leuenberger.\"},\n    {\"n\": 25, \"text\": \"1 794 Melchior, Lohnkutscher, a. Graben - III, 116.\"},\n    {\"n\": 26, \"text\": \"4 K. - Aus I Ehe: 829 Jakob Abr. Friedrich. - 30\"},\n    {\"n\": 27, \"text\": \"Marie Julie Elise. - Aus II Ehe: 35 Melch. Robert.\"},\n    {\"n\": 28, \"text\": \"- 39 Ottilie Friederike Philippine.\"},\n    {\"n\": 29, \"text\": \"2 798 Joh. Jakob Ulrich, Geschäftsreisender, a. Rohrbach-\"},\n    {\"n\": 30, \"text\": \"graben - IV, 234.\"},\n    {\"n\": 31, \"text\": \"3 805 Joh. Isaak Dan., Sattler, a. Rohrbachgraben - V, 202.\"},\n    {\"n\": 32, \"text\": \"798 Fr. - Verena Jäger, geb. Bossart, a. Bern.\"},\n    {\"n\": 33, \"text\": \"4 811 Georg Gottl., Negotiant, a. Rohrbach - IV, 166.\"},\n    {\"n\": 34, \"text\": \"816 Fr. II Ehe. - Helena Klara Diersch a. Kassel.\"},\n    {\"n\": 35, \"text\": \"1 S. aus I Ehe. - 838 August Ludwig Ed.\"},\n    {\"n\": 36, \"text\": \"5 818 Jakob, Schuhmacher, a. Ursenbach - II, 71.\"},\n    {\"n\": 37, \"text\": \"818 Fr. - Elis. Hiltbold a. Schinznach.\"},\n    {\"n\": 38, \"text\": \"6 823 Jakob, Fürsprecher, a. Rüderswyl - IV, 236.\"},\n    {\"n\": 39, \"text\": \"7 814 Jakob, Metzger, a. Rohrbachgraben - IV, 72.\"},\n    {\"n\": 40, \"text\": \"819 Fr. - Maria Sahli a. Wohlen.\"},\n    {\"n\": 41, \"text\": \"Leuzinger.\"},\n    {\"n\": 42, \"text\": \"1 793 Rudolf, Baumwollenhandelsmann, a. Nettstall, K.\"},\n    {\"n\": 43, \"text\": \"Glarus, - IV, 141.\"},\n    {\"n\": 44, \"text\": \"798 Fr. - Salome Kulli ebendaher.\"},\n    {\"n\": 45, \"text\": \"6 K. - Nr. 2 u. 3. - 823 Rudolf. - 30 Fridolin. -\"},\n    {\"n\": 46, \"text\": \"35 Jakob. - 38 Sophie Ros. Maria.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Lenz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lenz\",\n      \"forename\": \"Emanuel Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnbedienter\",\n      \"address\": \"V, 36\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"Biglen u. Arni\",\n      \"birth_year\": \"1786\",\n      \"household\": \"797 Fr. II Ehe. - Elis. Leiser a. Seedorf. 2 K. aus I Ehe. - 808 Anna Elis. - 13 Joh. Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 786 Emanuel Christ., Lohnbedienter, a. Biglen u. Arni - V, 36. 797 Fr. II Ehe. - Elis. Leiser a. Seedorf. 2 K. aus I Ehe. - 808 Anna Elis. - 13 Joh. Jakob.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Lenzinger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lenzinger\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Strumpfweber u. Krämer\",\n      \"address\": \"II, 176\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"176\",\n      \"origin\": \"Weinfelden, K. Thurgau\",\n      \"birth_year\": \"1798\",\n      \"household\": \"807 Fr. - Maria Agathe Werner a. Almendshofen, GH. Baden. 5 K. - 831 Maria Karoline. - 32 Maria Johanna. - 33 Xaver Jakob. - 39 Wend. Nikl. - 45 Franz Paul Adelbert.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 798 Joh. Jakob, Strumpfweber u. Krämer, a. Weinfelden, K. Thurgau - II, 176. 807 Fr. - Maria Agathe Werner a. Almendshofen, GH. Baden. 5 K. - 831 Maria Karoline. - 32 Maria Johanna. - 33 Xaver Jakob. - 39 Wend. Nikl. - 45 Franz Paul Adelbert.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Leserv.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leserv\",\n      \"forename\": \"Georg Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider u. Krämer\",\n      \"address\": \"IV, 21\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"21\",\n      \"origin\": \"Murhardt in Würtemberg\",\n      \"birth_year\": \"1803\",\n      \"household\": \"803 Fr. - Maria Fahrni a. Unterlangeneck. 3 S. - 829 Friedr. - 32 Jakob. - 35 Adolf Theodor.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 Georg Friedrich, Schneider u. Krämer, a. Murhardt in Würtemberg - IV, 21. 803 Fr. - Maria Fahrni a. Unterlangeneck. 3 S. - 829 Friedr. - 32 Jakob. - 35 Adolf Theodor.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Leu.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leu\",\n      \"forename\": \"Ferdinand\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"IV, 18\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"18\",\n      \"origin\": \"Rohrbachgraben\",\n      \"birth_year\": \"1808\",\n      \"household\": \"Fr. II Ehe. - Sus. Urfer a. Burgistein. 3 K. aus I Ehe. - 840 August. - 42 Louise. - 43 Elise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 808 Ferdinand, Schreiber, a. Rohrbachgraben - IV, 18. Fr. II Ehe. - Sus. Urfer a. Burgistein. 3 K. aus I Ehe. - 840 August. - 42 Louise. - 43 Elise.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Leuenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leuenberger\",\n      \"forename\": \"Melchior\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnkutscher\",\n      \"address\": \"III, 116\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"116\",\n      \"origin\": \"Graben\",\n      \"birth_year\": \"1794\",\n      \"household\": \"4 K. - Aus I Ehe: 829 Jakob Abr. Friedrich. - 30 Marie Julie Elise. - Aus II Ehe: 35 Melch. Robert. - 39 Ottilie Friederike Philippine.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 794 Melchior, Lohnkutscher, a. Graben - III, 116. 4 K. - Aus I Ehe: 829 Jakob Abr. Friedrich. - 30 Marie Julie Elise. - Aus II Ehe: 35 Melch. Robert. - 39 Ottilie Friederike Philippine.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Leuenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leuenberger\",\n      \"forename\": \"Joh. Jakob Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Geschäftsreisender\",\n      \"address\": \"IV, 234\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"234\",\n      \"origin\": \"Rohrbachgraben\",\n      \"birth_year\": \"1798\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 798 Joh. Jakob Ulrich, Geschäftsreisender, a. Rohrbachgraben - IV, 234.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Leuenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leuenberger\",\n      \"forename\": \"Joh. Isaak Dan.\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"V, 202\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"202\",\n      \"origin\": \"Rohrbachgraben\",\n      \"birth_year\": \"1805\",\n      \"household\": \"798 Fr. - Verena Jäger, geb. Bossart, a. Bern.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 805 Joh. Isaak Dan., Sattler, a. Rohrbachgraben - V, 202. 798 Fr. - Verena Jäger, geb. Bossart, a. Bern.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Leuenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leuenberger\",\n      \"forename\": \"Georg Gottl.\",\n      \"title\": \"\",\n      \"occupation\": \"Negotiant\",\n      \"address\": \"IV, 166\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"166\",\n      \"origin\": \"Rohrbach\",\n      \"birth_year\": \"1811\",\n      \"household\": \"816 Fr. II Ehe. - Helena Klara Diersch a. Kassel. 1 S. aus I Ehe. - 838 August Ludwig Ed.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 811 Georg Gottl., Negotiant, a. Rohrbach - IV, 166. 816 Fr. II Ehe. - Helena Klara Diersch a. Kassel. 1 S. aus I Ehe. - 838 August Ludwig Ed.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Leuenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leuenberger\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 71\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"71\",\n      \"origin\": \"Ursenbach\",\n      \"birth_year\": \"1818\",\n      \"household\": \"818 Fr. - Elis. Hiltbold a. Schinznach.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 818 Jakob, Schuhmacher, a. Ursenbach - II, 71. 818 Fr. - Elis. Hiltbold a. Schinznach.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Leuenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leuenberger\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Fürsprecher\",\n      \"address\": \"IV, 236\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"236\",\n      \"origin\": \"Rüderswyl\",\n      \"birth_year\": \"1823\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 823 Jakob, Fürsprecher, a. Rüderswyl - IV, 236.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Leuenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leuenberger\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Metzger\",\n      \"address\": \"IV, 72\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"72\",\n      \"origin\": \"Rohrbachgraben\",\n      \"birth_year\": \"1814\",\n      \"household\": \"819 Fr. - Maria Sahli a. Wohlen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 814 Jakob, Metzger, a. Rohrbachgraben - IV, 72. 819 Fr. - Maria Sahli a. Wohlen.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"Leuzinger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Leuzinger\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Baumwollenhandelsmann\",\n      \"address\": \"IV, 141\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"141\",\n      \"origin\": \"Nettstall, K. Glarus\",\n      \"birth_year\": \"1793\",\n      \"household\": \"798 Fr. - Salome Kulli ebendaher. 6 K. - Nr. 2 u. 3. - 823 Rudolf. - 30 Fridolin. - 35 Jakob. - 38 Sophie Ros. Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 793 Rudolf, Baumwollenhandelsmann, a. Nettstall, K. Glarus, - IV, 141. 798 Fr. - Salome Kulli ebendaher. 6 K. - Nr. 2 u. 3. - 823 Rudolf. - 30 Fridolin. - 35 Jakob. - 38 Sophie Ros. Maria.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "95",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 95 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Lenz."
+   },
+   {
+    "n": 4,
+    "text": "1 786 Emanuel Christ., Lohnbedienter, a. Biglen u. Arni -"
+   },
+   {
+    "n": 5,
+    "text": "V, 36."
+   },
+   {
+    "n": 6,
+    "text": "797 Fr. II Ehe. - Elis. Leiser a. Seedorf."
+   },
+   {
+    "n": 7,
+    "text": "2 K. aus I Ehe. - 808 Anna Elis. - 13 Joh. Jakob."
+   },
+   {
+    "n": 8,
+    "text": "Lenzinger."
+   },
+   {
+    "n": 9,
+    "text": "1 798 Joh. Jakob, Strumpfweber u. Krämer, a. Weinfelden,"
+   },
+   {
+    "n": 10,
+    "text": "K. Thurgau - II, 176."
+   },
+   {
+    "n": 11,
+    "text": "807 Fr. - Maria Agathe Werner a. Almendshofen, GH. Baden."
+   },
+   {
+    "n": 12,
+    "text": "5 K. - 831 Maria Karoline. - 32 Maria Johanna. -"
+   },
+   {
+    "n": 13,
+    "text": "33 Xaver Jakob. - 39 Wend. Nikl. - 45 Franz Paul"
+   },
+   {
+    "n": 14,
+    "text": "Adelbert."
+   },
+   {
+    "n": 15,
+    "text": "Leserv."
+   },
+   {
+    "n": 16,
+    "text": "1 803 Georg Friedrich, Schneider u. Krämer, a. Murhardt"
+   },
+   {
+    "n": 17,
+    "text": "in Würtemberg - IV, 21."
+   },
+   {
+    "n": 18,
+    "text": "803 Fr. - Maria Fahrni a. Unterlangeneck."
+   },
+   {
+    "n": 19,
+    "text": "3 S. - 829 Friedr. - 32 Jakob. - 35 Adolf Theodor."
+   },
+   {
+    "n": 20,
+    "text": "Leu."
+   },
+   {
+    "n": 21,
+    "text": "1 808 Ferdinand, Schreiber, a. Rohrbachgraben - IV, 18."
+   },
+   {
+    "n": 22,
+    "text": "Fr. II Ehe. - Sus. Urfer a. Burgistein."
+   },
+   {
+    "n": 23,
+    "text": "3 K. aus I Ehe. - 840 August. - 42 Louise. - 43 Elise."
+   },
+   {
+    "n": 24,
+    "text": "Leuenberger."
+   },
+   {
+    "n": 25,
+    "text": "1 794 Melchior, Lohnkutscher, a. Graben - III, 116."
+   },
+   {
+    "n": 26,
+    "text": "4 K. - Aus I Ehe: 829 Jakob Abr. Friedrich. - 30"
+   },
+   {
+    "n": 27,
+    "text": "Marie Julie Elise. - Aus II Ehe: 35 Melch. Robert."
+   },
+   {
+    "n": 28,
+    "text": "- 39 Ottilie Friederike Philippine."
+   },
+   {
+    "n": 29,
+    "text": "2 798 Joh. Jakob Ulrich, Geschäftsreisender, a. Rohrbach-"
+   },
+   {
+    "n": 30,
+    "text": "graben - IV, 234."
+   },
+   {
+    "n": 31,
+    "text": "3 805 Joh. Isaak Dan., Sattler, a. Rohrbachgraben - V, 202."
+   },
+   {
+    "n": 32,
+    "text": "798 Fr. - Verena Jäger, geb. Bossart, a. Bern."
+   },
+   {
+    "n": 33,
+    "text": "4 811 Georg Gottl., Negotiant, a. Rohrbach - IV, 166."
+   },
+   {
+    "n": 34,
+    "text": "816 Fr. II Ehe. - Helena Klara Diersch a. Kassel."
+   },
+   {
+    "n": 35,
+    "text": "1 S. aus I Ehe. - 838 August Ludwig Ed."
+   },
+   {
+    "n": 36,
+    "text": "5 818 Jakob, Schuhmacher, a. Ursenbach - II, 71."
+   },
+   {
+    "n": 37,
+    "text": "818 Fr. - Elis. Hiltbold a. Schinznach."
+   },
+   {
+    "n": 38,
+    "text": "6 823 Jakob, Fürsprecher, a. Rüderswyl - IV, 236."
+   },
+   {
+    "n": 39,
+    "text": "7 814 Jakob, Metzger, a. Rohrbachgraben - IV, 72."
+   },
+   {
+    "n": 40,
+    "text": "819 Fr. - Maria Sahli a. Wohlen."
+   },
+   {
+    "n": 41,
+    "text": "Leuzinger."
+   },
+   {
+    "n": 42,
+    "text": "1 793 Rudolf, Baumwollenhandelsmann, a. Nettstall, K."
+   },
+   {
+    "n": 43,
+    "text": "Glarus, - IV, 141."
+   },
+   {
+    "n": 44,
+    "text": "798 Fr. - Salome Kulli ebendaher."
+   },
+   {
+    "n": 45,
+    "text": "6 K. - Nr. 2 u. 3. - 823 Rudolf. - 30 Fridolin. -"
+   },
+   {
+    "n": 46,
+    "text": "35 Jakob. - 38 Sophie Ros. Maria."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Lenz.",
+    "place": "Bern",
+    "surname": "Lenz",
+    "forename": "Emanuel Christ.",
+    "title": "",
+    "occupation": "Lohnbedienter",
+    "address": "V, 36",
+    "quarter": "V",
+    "street": "",
+    "house_no": "36",
+    "origin": "Biglen u. Arni",
+    "birth_year": "1786",
+    "household": "797 Fr. II Ehe. - Elis. Leiser a. Seedorf. 2 K. aus I Ehe. - 808 Anna Elis. - 13 Joh. Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 786 Emanuel Christ., Lohnbedienter, a. Biglen u. Arni - V, 36. 797 Fr. II Ehe. - Elis. Leiser a. Seedorf. 2 K. aus I Ehe. - 808 Anna Elis. - 13 Joh. Jakob."
+   },
+   {
+    "line_from": 9,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Lenzinger.",
+    "place": "Bern",
+    "surname": "Lenzinger",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Strumpfweber u. Krämer",
+    "address": "II, 176",
+    "quarter": "II",
+    "street": "",
+    "house_no": "176",
+    "origin": "Weinfelden, K. Thurgau",
+    "birth_year": "1798",
+    "household": "807 Fr. - Maria Agathe Werner a. Almendshofen, GH. Baden. 5 K. - 831 Maria Karoline. - 32 Maria Johanna. - 33 Xaver Jakob. - 39 Wend. Nikl. - 45 Franz Paul Adelbert.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 798 Joh. Jakob, Strumpfweber u. Krämer, a. Weinfelden, K. Thurgau - II, 176. 807 Fr. - Maria Agathe Werner a. Almendshofen, GH. Baden. 5 K. - 831 Maria Karoline. - 32 Maria Johanna. - 33 Xaver Jakob. - 39 Wend. Nikl. - 45 Franz Paul Adelbert."
+   },
+   {
+    "line_from": 16,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Leserv.",
+    "place": "Bern",
+    "surname": "Leserv",
+    "forename": "Georg Friedrich",
+    "title": "",
+    "occupation": "Schneider u. Krämer",
+    "address": "IV, 21",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "21",
+    "origin": "Murhardt in Würtemberg",
+    "birth_year": "1803",
+    "household": "803 Fr. - Maria Fahrni a. Unterlangeneck. 3 S. - 829 Friedr. - 32 Jakob. - 35 Adolf Theodor.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 Georg Friedrich, Schneider u. Krämer, a. Murhardt in Würtemberg - IV, 21. 803 Fr. - Maria Fahrni a. Unterlangeneck. 3 S. - 829 Friedr. - 32 Jakob. - 35 Adolf Theodor."
+   },
+   {
+    "line_from": 21,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Leu.",
+    "place": "Bern",
+    "surname": "Leu",
+    "forename": "Ferdinand",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "IV, 18",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "18",
+    "origin": "Rohrbachgraben",
+    "birth_year": "1808",
+    "household": "Fr. II Ehe. - Sus. Urfer a. Burgistein. 3 K. aus I Ehe. - 840 August. - 42 Louise. - 43 Elise.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 808 Ferdinand, Schreiber, a. Rohrbachgraben - IV, 18. Fr. II Ehe. - Sus. Urfer a. Burgistein. 3 K. aus I Ehe. - 840 August. - 42 Louise. - 43 Elise."
+   },
+   {
+    "line_from": 25,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Leuenberger.",
+    "place": "Bern",
+    "surname": "Leuenberger",
+    "forename": "Melchior",
+    "title": "",
+    "occupation": "Lohnkutscher",
+    "address": "III, 116",
+    "quarter": "III",
+    "street": "",
+    "house_no": "116",
+    "origin": "Graben",
+    "birth_year": "1794",
+    "household": "4 K. - Aus I Ehe: 829 Jakob Abr. Friedrich. - 30 Marie Julie Elise. - Aus II Ehe: 35 Melch. Robert. - 39 Ottilie Friederike Philippine.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 794 Melchior, Lohnkutscher, a. Graben - III, 116. 4 K. - Aus I Ehe: 829 Jakob Abr. Friedrich. - 30 Marie Julie Elise. - Aus II Ehe: 35 Melch. Robert. - 39 Ottilie Friederike Philippine."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Leuenberger.",
+    "place": "Bern",
+    "surname": "Leuenberger",
+    "forename": "Joh. Jakob Ulrich",
+    "title": "",
+    "occupation": "Geschäftsreisender",
+    "address": "IV, 234",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "234",
+    "origin": "Rohrbachgraben",
+    "birth_year": "1798",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 798 Joh. Jakob Ulrich, Geschäftsreisender, a. Rohrbachgraben - IV, 234."
+   },
+   {
+    "line_from": 31,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Leuenberger.",
+    "place": "Bern",
+    "surname": "Leuenberger",
+    "forename": "Joh. Isaak Dan.",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "V, 202",
+    "quarter": "V",
+    "street": "",
+    "house_no": "202",
+    "origin": "Rohrbachgraben",
+    "birth_year": "1805",
+    "household": "798 Fr. - Verena Jäger, geb. Bossart, a. Bern.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 805 Joh. Isaak Dan., Sattler, a. Rohrbachgraben - V, 202. 798 Fr. - Verena Jäger, geb. Bossart, a. Bern."
+   },
+   {
+    "line_from": 33,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Leuenberger.",
+    "place": "Bern",
+    "surname": "Leuenberger",
+    "forename": "Georg Gottl.",
+    "title": "",
+    "occupation": "Negotiant",
+    "address": "IV, 166",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "166",
+    "origin": "Rohrbach",
+    "birth_year": "1811",
+    "household": "816 Fr. II Ehe. - Helena Klara Diersch a. Kassel. 1 S. aus I Ehe. - 838 August Ludwig Ed.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 811 Georg Gottl., Negotiant, a. Rohrbach - IV, 166. 816 Fr. II Ehe. - Helena Klara Diersch a. Kassel. 1 S. aus I Ehe. - 838 August Ludwig Ed."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Leuenberger.",
+    "place": "Bern",
+    "surname": "Leuenberger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 71",
+    "quarter": "II",
+    "street": "",
+    "house_no": "71",
+    "origin": "Ursenbach",
+    "birth_year": "1818",
+    "household": "818 Fr. - Elis. Hiltbold a. Schinznach.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 818 Jakob, Schuhmacher, a. Ursenbach - II, 71. 818 Fr. - Elis. Hiltbold a. Schinznach."
+   },
+   {
+    "line_from": 38,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Leuenberger.",
+    "place": "Bern",
+    "surname": "Leuenberger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Fürsprecher",
+    "address": "IV, 236",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "236",
+    "origin": "Rüderswyl",
+    "birth_year": "1823",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "6 823 Jakob, Fürsprecher, a. Rüderswyl - IV, 236."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Leuenberger.",
+    "place": "Bern",
+    "surname": "Leuenberger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Metzger",
+    "address": "IV, 72",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "72",
+    "origin": "Rohrbachgraben",
+    "birth_year": "1814",
+    "household": "819 Fr. - Maria Sahli a. Wohlen.",
+    "note": "Name aus Zwischentitel",
+    "text": "7 814 Jakob, Metzger, a. Rohrbachgraben - IV, 72. 819 Fr. - Maria Sahli a. Wohlen."
+   },
+   {
+    "line_from": 42,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "Leuzinger.",
+    "place": "Bern",
+    "surname": "Leuzinger",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Baumwollenhandelsmann",
+    "address": "IV, 141",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "141",
+    "origin": "Nettstall, K. Glarus",
+    "birth_year": "1793",
+    "household": "798 Fr. - Salome Kulli ebendaher. 6 K. - Nr. 2 u. 3. - 823 Rudolf. - 30 Fridolin. - 35 Jakob. - 38 Sophie Ros. Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 793 Rudolf, Baumwollenhandelsmann, a. Nettstall, K. Glarus, - IV, 141. 798 Fr. - Salome Kulli ebendaher. 6 K. - Nr. 2 u. 3. - 823 Rudolf. - 30 Fridolin. - 35 Jakob. - 38 Sophie Ros. Maria."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:05:25+01:00",
+ "last_error": null
+}

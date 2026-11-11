@@ -75,3 +75,9 @@ dialog .close { float: right; border: 0; background: transparent; font-size: 1.4
 .prose h2 { font-size: 1.1rem; margin-top: 1.2em; }
 .prose table { font-size: 0.9rem; }
 .prose td { max-width: none; }
+
+/* Abweichung zwischen erster und zweiter Lesung */
+.dbt { color: var(--warn, #b45309); font-weight: 700; cursor: help; }
+.ent.doubtful { border-left: 3px solid var(--warn, #b45309); }
+.dbtline { color: var(--warn, #b45309); font-size: .85em; margin: .2em 0; }
+#blines .alt { display: block; color: var(--warn, #b45309); font-size: .85em; }

@@ -37,10 +37,11 @@
   function run() {
     const fz = $("fuzzy").checked ? 1 : 0;
     const terms = fold($("q").value, fz).split(/\s+/).filter(Boolean);
-    const vol = $("vol").value, field = $("field").value;
+    const vol = $("vol").value, field = $("field").value, onlyDoubt = C.doubt != null && $("onlydoubt").checked;
     hits = [];
     for (let i = 0; i < RAW.length; i++) {
       if (vol && RAW[i][C.volume] !== vol) continue;
+      if (onlyDoubt && !RAW[i][C.doubt]) continue;
       const hay = field ? idx[fz][i][field] : idx[fz][i]._all;
       if (terms.every(t => hay.includes(t))) hits.push(i);
     }
@@ -65,7 +66,7 @@
       const addr = r[C.address] || [r[C.quarter], r[C.street], r[C.house_no]].filter(Boolean).join(" ");
       const where = [r[C.place] && r[C.place] !== "Bern" ? r[C.place] : "", r[C.origin] ? "von " + r[C.origin] : ""].filter(Boolean).join("; ");
       return `<tr data-i="${i}"><td class="num">${r[C.volume]}</td><td class="num"><a href="${eraraUrl(r[C.volume], r[C.page])}" target="_blank" rel="noopener" title="Seite auf e-rara">${r[C.page]}</a></td>` +
-        `<td>${hl(r[C.surname])}</td><td>${hl(r[C.forename])}</td><td>${hl(r[C.occupation])}</td><td>${hl(addr)}</td><td>${hl(where)}</td><td>${hl(r[C.heading])}</td><td class="wt">${hl(r[C.text])}</td></tr>`;
+        `<td>${hl(r[C.surname])}${r[C.doubt] ? ` <span class="dbt" title="Zweite Lesung weicht ab: ${esc(r[C.doubt_detail])}">≠</span>` : ""}</td><td>${hl(r[C.forename])}</td><td>${hl(r[C.occupation])}</td><td>${hl(addr)}</td><td>${hl(where)}</td><td>${hl(r[C.heading])}</td><td class="wt">${hl(r[C.text])}</td></tr>`;
     }).join("");
     $("rows").insertAdjacentHTML("beforeend", html);
     shown += chunk.length;
@@ -73,9 +74,9 @@
   }
   $("more").onclick = more;
   let timer;
-  for (const id of ["q", "vol", "field", "fuzzy"]) $(id).addEventListener(id === "q" ? "input" : "change", () => { clearTimeout(timer); timer = setTimeout(run, 150); });
+  for (const id of ["q", "vol", "field", "fuzzy", "onlydoubt"]) $(id).addEventListener(id === "q" ? "input" : "change", () => { clearTimeout(timer); timer = setTimeout(run, 150); });
 
-  const LABEL = { entry_id: "Kennung", volume: "Band", page: "PDF-Seite", printed_page: "gedruckte Seite", section: "Abschnitt", line_from: "Zeile von", line_to: "Zeile bis", kind: "Art", heading: "Rubrik", place: "Ort", surname: "Nachname", forename: "Vorname", title: "Anrede/Titel", occupation: "Beruf / Gewerbe", address: "Adresse", quarter: "Quartier", street: "Gasse", house_no: "Hausnummer", origin: "Herkunft", birth_year: "Geburtsjahr", household: "Haushalt", note: "Vermerk", continues: "Seitenwechsel", text: "Wortlaut" };
+  const LABEL = { entry_id: "Kennung", volume: "Band", page: "PDF-Seite", printed_page: "gedruckte Seite", section: "Abschnitt", line_from: "Zeile von", line_to: "Zeile bis", kind: "Art", heading: "Rubrik", place: "Ort", surname: "Nachname", forename: "Vorname", title: "Anrede/Titel", occupation: "Beruf / Gewerbe", address: "Adresse", quarter: "Quartier", street: "Gasse", house_no: "Hausnummer", origin: "Herkunft", birth_year: "Geburtsjahr", household: "Haushalt", note: "Vermerk", continues: "Seitenwechsel", text: "Wortlaut", doubt: "Zweite Lesung weicht ab bei", doubt_detail: "Abweichungen (1. → 2. Lesung)" };
   function detail(i) {
     const r = RAW[i];
     let h = "<dl>";
@@ -121,10 +122,11 @@
     $("bentries").innerHTML = es.length ? es.map(i => {
       const r = RAW[i];
       const f = ["surname", "forename", "title", "occupation", "address", "place", "origin", "birth_year", "household", "note"].filter(c => r[C[c]]);
-      return `<div class="ent"><div class="h">Z. ${r[C.line_from]}${r[C.line_to] !== r[C.line_from] ? "–" + r[C.line_to] : ""} · ${esc(r[C.kind])}${r[C.heading] ? " · " + esc(r[C.heading]) : ""}</div><dl>${f.map(c => `<dt>${LABEL[c]}</dt><dd>${esc(r[C[c]])}</dd>`).join("")}</dl><div class="t">${esc(r[C.text])}</div></div>`;
+      const d = r[C.doubt] ? `<div class="dbtline">≠ zweite Lesung: ${esc(r[C.doubt_detail])}</div>` : "";
+      return `<div class="ent${r[C.doubt] ? " doubtful" : ""}"><div class="h">Z. ${r[C.line_from]}${r[C.line_to] !== r[C.line_from] ? "–" + r[C.line_to] : ""} · ${esc(r[C.kind])}${r[C.heading] ? " · " + esc(r[C.heading]) : ""}</div><dl>${f.map(c => `<dt>${LABEL[c]}</dt><dd>${esc(r[C[c]])}</dd>`).join("")}</dl>${d}<div class="t">${esc(r[C.text])}</div></div>`;
     }).join("") : "<p class='legend'>Keine Einträge (Seite nicht gelesen oder ohne Einträge).</p>";
     const ls = LINES[v + "|" + p] || [];
-    $("blines").innerHTML = ls.map(([n, t]) => `<li value="${n}">${esc(t)}</li>`).join("");
+    $("blines").innerHTML = ls.map(([n, t, b]) => `<li value="${n}">${esc(t)}${b ? `<span class="alt">2. Lesung: ${esc(b)}</span>` : ""}</li>`).join("");
     writeHash();
   }
   $("bvol").onchange = () => { fillPages(); renderPage(); };

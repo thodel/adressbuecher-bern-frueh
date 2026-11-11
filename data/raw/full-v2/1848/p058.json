@@ -1,0 +1,418 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 58,
+ "section": "einsassen",
+ "started": "2026-11-11T21:59:18+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 42.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3826,
+  "thoughts": 2840
+ },
+ "response_text": "{\n  \"printed_page\": \"45\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 45 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Freytag.\"},\n    {\"n\": 4, \"text\": \"1 813 Joh. Jakob, Quincailleriehändler, a. Scherzingen, K.\"},\n    {\"n\": 5, \"text\": \"Thurgau - III, 75.\"},\n    {\"n\": 6, \"text\": \"808 Fr. - Magd. Panchaud a. Colombier.\"},\n    {\"n\": 7, \"text\": \"Frieden.\"},\n    {\"n\": 8, \"text\": \"1 799 Jakob, Hausbesitzer, a. Ruppoltsried - VI, 75.\"},\n    {\"n\": 9, \"text\": \"790 Fr. - Anna Barbara Olivier, geb. Flükiger, franz.\"},\n    {\"n\": 10, \"text\": \"Kolonie.\"},\n    {\"n\": 11, \"text\": \"3 K. — 823 Maria Magd. — 27 Jakob Niklaus. —\"},\n    {\"n\": 12, \"text\": \"29 Bend. Rud. Gottlieb.\"},\n    {\"n\": 13, \"text\": \"2 782 Maria Elisabetha, geb. Thurni, Wittwe, a. Ruppolts-\"},\n    {\"n\": 14, \"text\": \"ried, privat. - VII, 186.\"},\n    {\"n\": 15, \"text\": \"Friedli.\"},\n    {\"n\": 16, \"text\": \"1 785 Johann, Schuhmacher, a. Ersigen - V, 16.\"},\n    {\"n\": 17, \"text\": \"784 Fr. - Barbara Dähler a. Seftigen.\"},\n    {\"n\": 18, \"text\": \"2 801 Samuel, Spezierer, a. Ursenbach - II, 145.\"},\n    {\"n\": 19, \"text\": \"804 Fr. - Henriette Marg. Walthard a. Bern.\"},\n    {\"n\": 20, \"text\": \"3 S. — 840 Gottfried Sam. — 41 Ferdinand Ed. —\"},\n    {\"n\": 21, \"text\": \"43 Ferd. Albert.\"},\n    {\"n\": 22, \"text\": \"3 812 Friedrich, Spezierer, a. Rohrbach - IV, 77.\"},\n    {\"n\": 23, \"text\": \"Friedrich.\"},\n    {\"n\": 24, \"text\": \"1 815 Johann, Milchträger, a. Eggiwyl - VI, 15.\"},\n    {\"n\": 25, \"text\": \"817 Fr. - Anna Wittwer.\"},\n    {\"n\": 26, \"text\": \"2 T. — 840 Anna. — 43 Katharina.\"},\n    {\"n\": 27, \"text\": \"Frick.\"},\n    {\"n\": 28, \"text\": \"1 807 Heinrich Franz, Weinhändler, a. Sennwald, K. St.\"},\n    {\"n\": 29, \"text\": \"Gallen - IV, 195.\"},\n    {\"n\": 30, \"text\": \"Fr. - Anna Kath. Ros. Niethmann a. Basel.\"},\n    {\"n\": 31, \"text\": \"3 K. — 841 Heinrich Otto. — 43 Rosina Math. —\"},\n    {\"n\": 32, \"text\": \"45 Louise Adele.\"},\n    {\"n\": 33, \"text\": \"2 Heinrich Niklaus Benjamin, Grundeigenthümer, a.\"},\n    {\"n\": 34, \"text\": \"Landau - II, 18.\"},\n    {\"n\": 35, \"text\": \"789 Fr. - Elisabetha Frei a. Veltheim.\"},\n    {\"n\": 36, \"text\": \"Fricker.\"},\n    {\"n\": 37, \"text\": \"1 812 Joh. Jakob, Weinhändler u. Kälberhändler, a. Velt-\"},\n    {\"n\": 38, \"text\": \"heim - II, 70.\"},\n    {\"n\": 39, \"text\": \"810 Fr. Rosina Fausti.\"},\n    {\"n\": 40, \"text\": \"Fritschi.\"},\n    {\"n\": 41, \"text\": \"1 790 Felix, Schmied, a. Hettligen, K. Zürich - III, 110.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Freytag\",\n      \"place\": \"Bern\",\n      \"surname\": \"Freytag\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Quincailleriehändler\",\n      \"address\": \"III, 75\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"Scherzingen, K. Thurgau\",\n      \"birth_year\": \"1813\",\n      \"household\": \"808 Fr. - Magd. Panchaud a. Colombier.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Joh. Jakob, Quincailleriehändler, a. Scherzingen, K. Thurgau - III, 75. 808 Fr. - Magd. Panchaud a. Colombier.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Frieden\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frieden\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Hausbesitzer\",\n      \"address\": \"VI, 75\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"Ruppoltsried\",\n      \"birth_year\": \"1799\",\n      \"household\": \"790 Fr. - Anna Barbara Olivier, geb. Flükiger, franz. Kolonie. 3 K. — 823 Maria Magd. — 27 Jakob Niklaus. — 29 Bend. Rud. Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Jakob, Hausbesitzer, a. Ruppoltsried - VI, 75. 790 Fr. - Anna Barbara Olivier, geb. Flükiger, franz. Kolonie. 3 K. — 823 Maria Magd. — 27 Jakob Niklaus. — 29 Bend. Rud. Gottlieb.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Frieden\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frieden\",\n      \"forename\": \"Maria Elisabetha\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"privat.\",\n      \"address\": \"VII, 186\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"186\",\n      \"origin\": \"Ruppoltsried\",\n      \"birth_year\": \"1782\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 782 Maria Elisabetha, geb. Thurni, Wittwe, a. Ruppoltsried, privat. - VII, 186.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Friedli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Friedli\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 16\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"16\",\n      \"origin\": \"Ersigen\",\n      \"birth_year\": \"1785\",\n      \"household\": \"784 Fr. - Barbara Dähler a. Seftigen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 785 Johann, Schuhmacher, a. Ersigen - V, 16. 784 Fr. - Barbara Dähler a. Seftigen.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Friedli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Friedli\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Spezierer\",\n      \"address\": \"II, 145\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"145\",\n      \"origin\": \"Ursenbach\",\n      \"birth_year\": \"1801\",\n      \"household\": \"804 Fr. - Henriette Marg. Walthard a. Bern. 3 S. — 840 Gottfried Sam. — 41 Ferdinand Ed. — 43 Ferd. Albert.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 801 Samuel, Spezierer, a. Ursenbach - II, 145. 804 Fr. - Henriette Marg. Walthard a. Bern. 3 S. — 840 Gottfried Sam. — 41 Ferdinand Ed. — 43 Ferd. Albert.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Friedli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Friedli\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Spezierer\",\n      \"address\": \"IV, 77\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"77\",\n      \"origin\": \"Rohrbach\",\n      \"birth_year\": \"1812\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 812 Friedrich, Spezierer, a. Rohrbach - IV, 77.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Friedrich\",\n      \"place\": \"Bern\",\n      \"surname\": \"Friedrich\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"VI, 15\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"15\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1815\",\n      \"household\": \"817 Fr. - Anna Wittwer. 2 T. — 840 Anna. — 43 Katharina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 815 Johann, Milchträger, a. Eggiwyl - VI, 15. 817 Fr. - Anna Wittwer. 2 T. — 840 Anna. — 43 Katharina.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Frick\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frick\",\n      \"forename\": \"Heinrich Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhändler\",\n      \"address\": \"IV, 195\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"195\",\n      \"origin\": \"Sennwald, K. St. Gallen\",\n      \"birth_year\": \"1807\",\n      \"household\": \"Fr. - Anna Kath. Ros. Niethmann a. Basel. 3 K. — 841 Heinrich Otto. — 43 Rosina Math. — 45 Louise Adele.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Heinrich Franz, Weinhändler, a. Sennwald, K. St. Gallen - IV, 195. Fr. - Anna Kath. Ros. Niethmann a. Basel. 3 K. — 841 Heinrich Otto. — 43 Rosina Math. — 45 Louise Adele.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Frick\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frick\",\n      \"forename\": \"Heinrich Niklaus Benjamin\",\n      \"title\": \"\",\n      \"occupation\": \"Grundeigenthümer\",\n      \"address\": \"II, 18\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"18\",\n      \"origin\": \"Landau\",\n      \"birth_year\": \"\",\n      \"household\": \"789 Fr. - Elisabetha Frei a. Veltheim.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 Heinrich Niklaus Benjamin, Grundeigenthümer, a. Landau - II, 18. 789 Fr. - Elisabetha Frei a. Veltheim.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Fricker\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fricker\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhändler u. Kälberhändler\",\n      \"address\": \"II, 70\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"70\",\n      \"origin\": \"Veltheim\",\n      \"birth_year\": \"1812\",\n      \"household\": \"810 Fr. Rosina Fausti.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Joh. Jakob, Weinhändler u. Kälberhändler, a. Veltheim - II, 70. 810 Fr. Rosina Fausti.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Fritschi\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fritschi\",\n      \"forename\": \"Felix\",\n      \"title\": \"\",\n      \"occupation\": \"Schmied\",\n      \"address\": \"III, 110\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"110\",\n      \"origin\": \"Hettligen, K. Zürich\",\n      \"birth_year\": \"1790\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Felix, Schmied, a. Hettligen, K. Zürich - III, 110.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "45",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 45 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Freytag."
+   },
+   {
+    "n": 4,
+    "text": "1 813 Joh. Jakob, Quincailleriehändler, a. Scherzingen, K."
+   },
+   {
+    "n": 5,
+    "text": "Thurgau - III, 75."
+   },
+   {
+    "n": 6,
+    "text": "808 Fr. - Magd. Panchaud a. Colombier."
+   },
+   {
+    "n": 7,
+    "text": "Frieden."
+   },
+   {
+    "n": 8,
+    "text": "1 799 Jakob, Hausbesitzer, a. Ruppoltsried - VI, 75."
+   },
+   {
+    "n": 9,
+    "text": "790 Fr. - Anna Barbara Olivier, geb. Flükiger, franz."
+   },
+   {
+    "n": 10,
+    "text": "Kolonie."
+   },
+   {
+    "n": 11,
+    "text": "3 K. — 823 Maria Magd. — 27 Jakob Niklaus. —"
+   },
+   {
+    "n": 12,
+    "text": "29 Bend. Rud. Gottlieb."
+   },
+   {
+    "n": 13,
+    "text": "2 782 Maria Elisabetha, geb. Thurni, Wittwe, a. Ruppolts-"
+   },
+   {
+    "n": 14,
+    "text": "ried, privat. - VII, 186."
+   },
+   {
+    "n": 15,
+    "text": "Friedli."
+   },
+   {
+    "n": 16,
+    "text": "1 785 Johann, Schuhmacher, a. Ersigen - V, 16."
+   },
+   {
+    "n": 17,
+    "text": "784 Fr. - Barbara Dähler a. Seftigen."
+   },
+   {
+    "n": 18,
+    "text": "2 801 Samuel, Spezierer, a. Ursenbach - II, 145."
+   },
+   {
+    "n": 19,
+    "text": "804 Fr. - Henriette Marg. Walthard a. Bern."
+   },
+   {
+    "n": 20,
+    "text": "3 S. — 840 Gottfried Sam. — 41 Ferdinand Ed. —"
+   },
+   {
+    "n": 21,
+    "text": "43 Ferd. Albert."
+   },
+   {
+    "n": 22,
+    "text": "3 812 Friedrich, Spezierer, a. Rohrbach - IV, 77."
+   },
+   {
+    "n": 23,
+    "text": "Friedrich."
+   },
+   {
+    "n": 24,
+    "text": "1 815 Johann, Milchträger, a. Eggiwyl - VI, 15."
+   },
+   {
+    "n": 25,
+    "text": "817 Fr. - Anna Wittwer."
+   },
+   {
+    "n": 26,
+    "text": "2 T. — 840 Anna. — 43 Katharina."
+   },
+   {
+    "n": 27,
+    "text": "Frick."
+   },
+   {
+    "n": 28,
+    "text": "1 807 Heinrich Franz, Weinhändler, a. Sennwald, K. St."
+   },
+   {
+    "n": 29,
+    "text": "Gallen - IV, 195."
+   },
+   {
+    "n": 30,
+    "text": "Fr. - Anna Kath. Ros. Niethmann a. Basel."
+   },
+   {
+    "n": 31,
+    "text": "3 K. — 841 Heinrich Otto. — 43 Rosina Math. —"
+   },
+   {
+    "n": 32,
+    "text": "45 Louise Adele."
+   },
+   {
+    "n": 33,
+    "text": "2 Heinrich Niklaus Benjamin, Grundeigenthümer, a."
+   },
+   {
+    "n": 34,
+    "text": "Landau - II, 18."
+   },
+   {
+    "n": 35,
+    "text": "789 Fr. - Elisabetha Frei a. Veltheim."
+   },
+   {
+    "n": 36,
+    "text": "Fricker."
+   },
+   {
+    "n": 37,
+    "text": "1 812 Joh. Jakob, Weinhändler u. Kälberhändler, a. Velt-"
+   },
+   {
+    "n": 38,
+    "text": "heim - II, 70."
+   },
+   {
+    "n": 39,
+    "text": "810 Fr. Rosina Fausti."
+   },
+   {
+    "n": 40,
+    "text": "Fritschi."
+   },
+   {
+    "n": 41,
+    "text": "1 790 Felix, Schmied, a. Hettligen, K. Zürich - III, 110."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Freytag",
+    "place": "Bern",
+    "surname": "Freytag",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Quincailleriehändler",
+    "address": "III, 75",
+    "quarter": "III",
+    "street": "",
+    "house_no": "75",
+    "origin": "Scherzingen, K. Thurgau",
+    "birth_year": "1813",
+    "household": "808 Fr. - Magd. Panchaud a. Colombier.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Joh. Jakob, Quincailleriehändler, a. Scherzingen, K. Thurgau - III, 75. 808 Fr. - Magd. Panchaud a. Colombier."
+   },
+   {
+    "line_from": 8,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Frieden",
+    "place": "Bern",
+    "surname": "Frieden",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Hausbesitzer",
+    "address": "VI, 75",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "75",
+    "origin": "Ruppoltsried",
+    "birth_year": "1799",
+    "household": "790 Fr. - Anna Barbara Olivier, geb. Flükiger, franz. Kolonie. 3 K. — 823 Maria Magd. — 27 Jakob Niklaus. — 29 Bend. Rud. Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Jakob, Hausbesitzer, a. Ruppoltsried - VI, 75. 790 Fr. - Anna Barbara Olivier, geb. Flükiger, franz. Kolonie. 3 K. — 823 Maria Magd. — 27 Jakob Niklaus. — 29 Bend. Rud. Gottlieb."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Frieden",
+    "place": "Bern",
+    "surname": "Frieden",
+    "forename": "Maria Elisabetha",
+    "title": "Wittwe",
+    "occupation": "privat.",
+    "address": "VII, 186",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "186",
+    "origin": "Ruppoltsried",
+    "birth_year": "1782",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 782 Maria Elisabetha, geb. Thurni, Wittwe, a. Ruppoltsried, privat. - VII, 186."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Friedli",
+    "place": "Bern",
+    "surname": "Friedli",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 16",
+    "quarter": "V",
+    "street": "",
+    "house_no": "16",
+    "origin": "Ersigen",
+    "birth_year": "1785",
+    "household": "784 Fr. - Barbara Dähler a. Seftigen.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 785 Johann, Schuhmacher, a. Ersigen - V, 16. 784 Fr. - Barbara Dähler a. Seftigen."
+   },
+   {
+    "line_from": 18,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Friedli",
+    "place": "Bern",
+    "surname": "Friedli",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Spezierer",
+    "address": "II, 145",
+    "quarter": "II",
+    "street": "",
+    "house_no": "145",
+    "origin": "Ursenbach",
+    "birth_year": "1801",
+    "household": "804 Fr. - Henriette Marg. Walthard a. Bern. 3 S. — 840 Gottfried Sam. — 41 Ferdinand Ed. — 43 Ferd. Albert.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 801 Samuel, Spezierer, a. Ursenbach - II, 145. 804 Fr. - Henriette Marg. Walthard a. Bern. 3 S. — 840 Gottfried Sam. — 41 Ferdinand Ed. — 43 Ferd. Albert."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Friedli",
+    "place": "Bern",
+    "surname": "Friedli",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Spezierer",
+    "address": "IV, 77",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "77",
+    "origin": "Rohrbach",
+    "birth_year": "1812",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 812 Friedrich, Spezierer, a. Rohrbach - IV, 77."
+   },
+   {
+    "line_from": 24,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Friedrich",
+    "place": "Bern",
+    "surname": "Friedrich",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "VI, 15",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "15",
+    "origin": "Eggiwyl",
+    "birth_year": "1815",
+    "household": "817 Fr. - Anna Wittwer. 2 T. — 840 Anna. — 43 Katharina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 815 Johann, Milchträger, a. Eggiwyl - VI, 15. 817 Fr. - Anna Wittwer. 2 T. — 840 Anna. — 43 Katharina."
+   },
+   {
+    "line_from": 28,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Frick",
+    "place": "Bern",
+    "surname": "Frick",
+    "forename": "Heinrich Franz",
+    "title": "",
+    "occupation": "Weinhändler",
+    "address": "IV, 195",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "195",
+    "origin": "Sennwald, K. St. Gallen",
+    "birth_year": "1807",
+    "household": "Fr. - Anna Kath. Ros. Niethmann a. Basel. 3 K. — 841 Heinrich Otto. — 43 Rosina Math. — 45 Louise Adele.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Heinrich Franz, Weinhändler, a. Sennwald, K. St. Gallen - IV, 195. Fr. - Anna Kath. Ros. Niethmann a. Basel. 3 K. — 841 Heinrich Otto. — 43 Rosina Math. — 45 Louise Adele."
+   },
+   {
+    "line_from": 33,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Frick",
+    "place": "Bern",
+    "surname": "Frick",
+    "forename": "Heinrich Niklaus Benjamin",
+    "title": "",
+    "occupation": "Grundeigenthümer",
+    "address": "II, 18",
+    "quarter": "II",
+    "street": "",
+    "house_no": "18",
+    "origin": "Landau",
+    "birth_year": "",
+    "household": "789 Fr. - Elisabetha Frei a. Veltheim.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 Heinrich Niklaus Benjamin, Grundeigenthümer, a. Landau - II, 18. 789 Fr. - Elisabetha Frei a. Veltheim."
+   },
+   {
+    "line_from": 37,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Fricker",
+    "place": "Bern",
+    "surname": "Fricker",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Weinhändler u. Kälberhändler",
+    "address": "II, 70",
+    "quarter": "II",
+    "street": "",
+    "house_no": "70",
+    "origin": "Veltheim",
+    "birth_year": "1812",
+    "household": "810 Fr. Rosina Fausti.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Joh. Jakob, Weinhändler u. Kälberhändler, a. Veltheim - II, 70. 810 Fr. Rosina Fausti."
+   },
+   {
+    "line_from": 41,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Fritschi",
+    "place": "Bern",
+    "surname": "Fritschi",
+    "forename": "Felix",
+    "title": "",
+    "occupation": "Schmied",
+    "address": "III, 110",
+    "quarter": "III",
+    "street": "",
+    "house_no": "110",
+    "origin": "Hettligen, K. Zürich",
+    "birth_year": "1790",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Felix, Schmied, a. Hettligen, K. Zürich - III, 110."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:00:00+01:00",
+ "last_error": null
+}

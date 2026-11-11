@@ -1,0 +1,434 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 50,
+ "section": "einsassen",
+ "started": "2026-11-11T21:58:30+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 26.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4219,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"37\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 37 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Edler.\"},\n    {\"n\": 4, \"text\": \"1 810 Anton Robert Gottfried, Uhrenmacher, a. Lacoudre,\"},\n    {\"n\": 5, \"text\": \"K. Neuenburg - V, 105.\"},\n    {\"n\": 6, \"text\": \"815 Fr. - M. Kath. Elwina Nußbaum a. Denschbüren.\"},\n    {\"n\": 7, \"text\": \"Edele.\"},\n    {\"n\": 8, \"text\": \"1 811 Julius, Musikdirektor, a. Ludwigsburg - II, 198.\"},\n    {\"n\": 9, \"text\": \"804 Fr. - Maria Magd. Weibel, verw. Dubi.\"},\n    {\"n\": 10, \"text\": \"1 S. - 837 Karl Rud. Julius.\"},\n    {\"n\": 11, \"text\": \"Egg.\"},\n    {\"n\": 12, \"text\": \"1 792 Gottlieb, Schneider, a. Ringgenberg - III, 90.\"},\n    {\"n\": 13, \"text\": \"794 Fr. - Susanna Elis. Gütli a. Ursenbach.\"},\n    {\"n\": 14, \"text\": \"1 T. - 827 Elisabetha Marg.\"},\n    {\"n\": 15, \"text\": \"Eggen.\"},\n    {\"n\": 16, \"text\": \"1 791 Margaritha, geb. Hartmann, Hauseigenthümerin und\"},\n    {\"n\": 17, \"text\": \"Mobilienhändlerin, a. Niederstocken - II, 15.\"},\n    {\"n\": 18, \"text\": \"3 K. - 821 Joh. Friedrich. - 24 Sophie. - 29 Joh.\"},\n    {\"n\": 19, \"text\": \"David.\"},\n    {\"n\": 20, \"text\": \"Eggimann.\"},\n    {\"n\": 21, \"text\": \"1 777 Rudolf, Notar, a. Eriswyl, B. v. 2 - IV, 278.\"},\n    {\"n\": 22, \"text\": \"2 787 Rosina Sus., Rentiere, Schw. v. 1 u. 3 - IV, 207.\"},\n    {\"n\": 23, \"text\": \"3 784 Jakob Friedrich, Handelsmann, B. v. 1 u. 2 - IV, 207.\"},\n    {\"n\": 24, \"text\": \"4 822 Johann, Notar, a. Sumiswald - III, 28.\"},\n    {\"n\": 25, \"text\": \"825 Fr. - Elis. Alb. Dubi a. Burgistein.\"},\n    {\"n\": 26, \"text\": \"Egli.\"},\n    {\"n\": 27, \"text\": \"1 802 Rudolf, Schreiner, a. Männedorf - IV, 30 u. 31.\"},\n    {\"n\": 28, \"text\": \"804 Fr. - Magd. Weber a. Veltheim.\"},\n    {\"n\": 29, \"text\": \"7 K. - 825 Sophie E. - 29 Joh. Friedr. - 31 Marg.\"},\n    {\"n\": 30, \"text\": \"Sus. - 35 Sophie E. - 36 E. Sus. - 38 Maria\"},\n    {\"n\": 31, \"text\": \"Magd. - 41 Friedrich Gottlieb.\"},\n    {\"n\": 32, \"text\": \"Eichenberger.\"},\n    {\"n\": 33, \"text\": \"1 799 Verena, Kellermagd, a. Beinwyl.\"},\n    {\"n\": 34, \"text\": \"2 789 Joh. Jakob, Schneider, a. Birr, K. Aargau - II, 150.\"},\n    {\"n\": 35, \"text\": \"807 Fr. - Maria Burkhard, gew. Stänz a. Küttigen.\"},\n    {\"n\": 36, \"text\": \"Eidam.\"},\n    {\"n\": 37, \"text\": \"1 810 Gottlieb Peter, Schreiber, a. Lenk - I, 20.\"},\n    {\"n\": 38, \"text\": \"815 Fr. II Ehe. - Rosina Julie Küpfer a. Bern.\"},\n    {\"n\": 39, \"text\": \"3 K. - Aus I Ehe: 833 A. Ros. Sovie. - 36 Gottlieb.\"},\n    {\"n\": 40, \"text\": \"- Aus II Ehe 42 Marg. Julie Bertha.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Edler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Edler\",\n      \"forename\": \"Anton Robert Gottfried\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher\",\n      \"address\": \"V, 105\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"105\",\n      \"origin\": \"Lacoudre, K. Neuenburg\",\n      \"birth_year\": \"1810\",\n      \"household\": \"815 Fr. - M. Kath. Elwina Nußbaum a. Denschbüren.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Anton Robert Gottfried, Uhrenmacher, a. Lacoudre, K. Neuenburg - V, 105. 815 Fr. - M. Kath. Elwina Nußbaum a. Denschbüren.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Edele.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Edele\",\n      \"forename\": \"Julius\",\n      \"title\": \"\",\n      \"occupation\": \"Musikdirektor\",\n      \"address\": \"II, 198\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"198\",\n      \"origin\": \"Ludwigsburg\",\n      \"birth_year\": \"1811\",\n      \"household\": \"804 Fr. - Maria Magd. Weibel, verw. Dubi. 1 S. - 837 Karl Rud. Julius.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Julius, Musikdirektor, a. Ludwigsburg - II, 198. 804 Fr. - Maria Magd. Weibel, verw. Dubi. 1 S. - 837 Karl Rud. Julius.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Egg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Egg\",\n      \"forename\": \"Gottlieb\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"III, 90\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"90\",\n      \"origin\": \"Ringgenberg\",\n      \"birth_year\": \"1792\",\n      \"household\": \"794 Fr. - Susanna Elis. Gütli a. Ursenbach. 1 T. - 827 Elisabetha Marg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 792 Gottlieb, Schneider, a. Ringgenberg - III, 90. 794 Fr. - Susanna Elis. Gütli a. Ursenbach. 1 T. - 827 Elisabetha Marg.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Eggen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eggen\",\n      \"forename\": \"Margaritha\",\n      \"title\": \"\",\n      \"occupation\": \"Hauseigenthümerin und Mobilienhändlerin\",\n      \"address\": \"II, 15\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"15\",\n      \"origin\": \"Niederstocken\",\n      \"birth_year\": \"1791\",\n      \"household\": \"3 K. - 821 Joh. Friedrich. - 24 Sophie. - 29 Joh. David.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 791 Margaritha, geb. Hartmann, Hauseigenthümerin und Mobilienhändlerin, a. Niederstocken - II, 15. 3 K. - 821 Joh. Friedrich. - 24 Sophie. - 29 Joh. David.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Eggimann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eggimann\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Notar\",\n      \"address\": \"IV, 278\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"278\",\n      \"origin\": \"Eriswyl\",\n      \"birth_year\": \"1777\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 777 Rudolf, Notar, a. Eriswyl, B. v. 2 - IV, 278.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Eggimann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eggimann\",\n      \"forename\": \"Rosina Sus.\",\n      \"title\": \"\",\n      \"occupation\": \"Rentiere\",\n      \"address\": \"IV, 207\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"207\",\n      \"origin\": \"\",\n      \"birth_year\": \"1787\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 787 Rosina Sus., Rentiere, Schw. v. 1 u. 3 - IV, 207.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Eggimann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eggimann\",\n      \"forename\": \"Jakob Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"IV, 207\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"207\",\n      \"origin\": \"\",\n      \"birth_year\": \"1784\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 784 Jakob Friedrich, Handelsmann, B. v. 1 u. 2 - IV, 207.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Eggimann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eggimann\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Notar\",\n      \"address\": \"III, 28\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"28\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1822\",\n      \"household\": \"825 Fr. - Elis. Alb. Dubi a. Burgistein.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 822 Johann, Notar, a. Sumiswald - III, 28. 825 Fr. - Elis. Alb. Dubi a. Burgistein.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Egli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Egli\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"IV, 30 u. 31\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"30 u. 31\",\n      \"origin\": \"Männedorf\",\n      \"birth_year\": \"1802\",\n      \"household\": \"804 Fr. - Magd. Weber a. Veltheim. 7 K. - 825 Sophie E. - 29 Joh. Friedr. - 31 Marg. Sus. - 35 Sophie E. - 36 E. Sus. - 38 Maria Magd. - 41 Friedrich Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Rudolf, Schreiner, a. Männedorf - IV, 30 u. 31. 804 Fr. - Magd. Weber a. Veltheim. 7 K. - 825 Sophie E. - 29 Joh. Friedr. - 31 Marg. Sus. - 35 Sophie E. - 36 E. Sus. - 38 Maria Magd. - 41 Friedrich Gottlieb.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Eichenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eichenberger\",\n      \"forename\": \"Verena\",\n      \"title\": \"\",\n      \"occupation\": \"Kellermagd\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"Beinwyl\",\n      \"birth_year\": \"1799\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Verena, Kellermagd, a. Beinwyl.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Eichenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eichenberger\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"II, 150\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"150\",\n      \"origin\": \"Birr, K. Aargau\",\n      \"birth_year\": \"1789\",\n      \"household\": \"807 Fr. - Maria Burkhard, gew. Stänz a. Küttigen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 789 Joh. Jakob, Schneider, a. Birr, K. Aargau - II, 150. 807 Fr. - Maria Burkhard, gew. Stänz a. Küttigen.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Eidam.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eidam\",\n      \"forename\": \"Gottlieb Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"I, 20\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"20\",\n      \"origin\": \"Lenk\",\n      \"birth_year\": \"1810\",\n      \"household\": \"815 Fr. II Ehe. - Rosina Julie Küpfer a. Bern. 3 K. - Aus I Ehe: 833 A. Ros. Sovie. - 36 Gottlieb. - Aus II Ehe 42 Marg. Julie Bertha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Gottlieb Peter, Schreiber, a. Lenk - I, 20. 815 Fr. II Ehe. - Rosina Julie Küpfer a. Bern. 3 K. - Aus I Ehe: 833 A. Ros. Sovie. - 36 Gottlieb. - Aus II Ehe 42 Marg. Julie Bertha.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "37",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 37 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Edler."
+   },
+   {
+    "n": 4,
+    "text": "1 810 Anton Robert Gottfried, Uhrenmacher, a. Lacoudre,"
+   },
+   {
+    "n": 5,
+    "text": "K. Neuenburg - V, 105."
+   },
+   {
+    "n": 6,
+    "text": "815 Fr. - M. Kath. Elwina Nußbaum a. Denschbüren."
+   },
+   {
+    "n": 7,
+    "text": "Edele."
+   },
+   {
+    "n": 8,
+    "text": "1 811 Julius, Musikdirektor, a. Ludwigsburg - II, 198."
+   },
+   {
+    "n": 9,
+    "text": "804 Fr. - Maria Magd. Weibel, verw. Dubi."
+   },
+   {
+    "n": 10,
+    "text": "1 S. - 837 Karl Rud. Julius."
+   },
+   {
+    "n": 11,
+    "text": "Egg."
+   },
+   {
+    "n": 12,
+    "text": "1 792 Gottlieb, Schneider, a. Ringgenberg - III, 90."
+   },
+   {
+    "n": 13,
+    "text": "794 Fr. - Susanna Elis. Gütli a. Ursenbach."
+   },
+   {
+    "n": 14,
+    "text": "1 T. - 827 Elisabetha Marg."
+   },
+   {
+    "n": 15,
+    "text": "Eggen."
+   },
+   {
+    "n": 16,
+    "text": "1 791 Margaritha, geb. Hartmann, Hauseigenthümerin und"
+   },
+   {
+    "n": 17,
+    "text": "Mobilienhändlerin, a. Niederstocken - II, 15."
+   },
+   {
+    "n": 18,
+    "text": "3 K. - 821 Joh. Friedrich. - 24 Sophie. - 29 Joh."
+   },
+   {
+    "n": 19,
+    "text": "David."
+   },
+   {
+    "n": 20,
+    "text": "Eggimann."
+   },
+   {
+    "n": 21,
+    "text": "1 777 Rudolf, Notar, a. Eriswyl, B. v. 2 - IV, 278."
+   },
+   {
+    "n": 22,
+    "text": "2 787 Rosina Sus., Rentiere, Schw. v. 1 u. 3 - IV, 207."
+   },
+   {
+    "n": 23,
+    "text": "3 784 Jakob Friedrich, Handelsmann, B. v. 1 u. 2 - IV, 207."
+   },
+   {
+    "n": 24,
+    "text": "4 822 Johann, Notar, a. Sumiswald - III, 28."
+   },
+   {
+    "n": 25,
+    "text": "825 Fr. - Elis. Alb. Dubi a. Burgistein."
+   },
+   {
+    "n": 26,
+    "text": "Egli."
+   },
+   {
+    "n": 27,
+    "text": "1 802 Rudolf, Schreiner, a. Männedorf - IV, 30 u. 31."
+   },
+   {
+    "n": 28,
+    "text": "804 Fr. - Magd. Weber a. Veltheim."
+   },
+   {
+    "n": 29,
+    "text": "7 K. - 825 Sophie E. - 29 Joh. Friedr. - 31 Marg."
+   },
+   {
+    "n": 30,
+    "text": "Sus. - 35 Sophie E. - 36 E. Sus. - 38 Maria"
+   },
+   {
+    "n": 31,
+    "text": "Magd. - 41 Friedrich Gottlieb."
+   },
+   {
+    "n": 32,
+    "text": "Eichenberger."
+   },
+   {
+    "n": 33,
+    "text": "1 799 Verena, Kellermagd, a. Beinwyl."
+   },
+   {
+    "n": 34,
+    "text": "2 789 Joh. Jakob, Schneider, a. Birr, K. Aargau - II, 150."
+   },
+   {
+    "n": 35,
+    "text": "807 Fr. - Maria Burkhard, gew. Stänz a. Küttigen."
+   },
+   {
+    "n": 36,
+    "text": "Eidam."
+   },
+   {
+    "n": 37,
+    "text": "1 810 Gottlieb Peter, Schreiber, a. Lenk - I, 20."
+   },
+   {
+    "n": 38,
+    "text": "815 Fr. II Ehe. - Rosina Julie Küpfer a. Bern."
+   },
+   {
+    "n": 39,
+    "text": "3 K. - Aus I Ehe: 833 A. Ros. Sovie. - 36 Gottlieb."
+   },
+   {
+    "n": 40,
+    "text": "- Aus II Ehe 42 Marg. Julie Bertha."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Edler.",
+    "place": "Bern",
+    "surname": "Edler",
+    "forename": "Anton Robert Gottfried",
+    "title": "",
+    "occupation": "Uhrenmacher",
+    "address": "V, 105",
+    "quarter": "V",
+    "street": "",
+    "house_no": "105",
+    "origin": "Lacoudre, K. Neuenburg",
+    "birth_year": "1810",
+    "household": "815 Fr. - M. Kath. Elwina Nußbaum a. Denschbüren.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Anton Robert Gottfried, Uhrenmacher, a. Lacoudre, K. Neuenburg - V, 105. 815 Fr. - M. Kath. Elwina Nußbaum a. Denschbüren."
+   },
+   {
+    "line_from": 8,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Edele.",
+    "place": "Bern",
+    "surname": "Edele",
+    "forename": "Julius",
+    "title": "",
+    "occupation": "Musikdirektor",
+    "address": "II, 198",
+    "quarter": "II",
+    "street": "",
+    "house_no": "198",
+    "origin": "Ludwigsburg",
+    "birth_year": "1811",
+    "household": "804 Fr. - Maria Magd. Weibel, verw. Dubi. 1 S. - 837 Karl Rud. Julius.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Julius, Musikdirektor, a. Ludwigsburg - II, 198. 804 Fr. - Maria Magd. Weibel, verw. Dubi. 1 S. - 837 Karl Rud. Julius."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Egg.",
+    "place": "Bern",
+    "surname": "Egg",
+    "forename": "Gottlieb",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "III, 90",
+    "quarter": "III",
+    "street": "",
+    "house_no": "90",
+    "origin": "Ringgenberg",
+    "birth_year": "1792",
+    "household": "794 Fr. - Susanna Elis. Gütli a. Ursenbach. 1 T. - 827 Elisabetha Marg.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 792 Gottlieb, Schneider, a. Ringgenberg - III, 90. 794 Fr. - Susanna Elis. Gütli a. Ursenbach. 1 T. - 827 Elisabetha Marg."
+   },
+   {
+    "line_from": 16,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Eggen.",
+    "place": "Bern",
+    "surname": "Eggen",
+    "forename": "Margaritha",
+    "title": "",
+    "occupation": "Hauseigenthümerin und Mobilienhändlerin",
+    "address": "II, 15",
+    "quarter": "II",
+    "street": "",
+    "house_no": "15",
+    "origin": "Niederstocken",
+    "birth_year": "1791",
+    "household": "3 K. - 821 Joh. Friedrich. - 24 Sophie. - 29 Joh. David.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 791 Margaritha, geb. Hartmann, Hauseigenthümerin und Mobilienhändlerin, a. Niederstocken - II, 15. 3 K. - 821 Joh. Friedrich. - 24 Sophie. - 29 Joh. David."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Eggimann.",
+    "place": "Bern",
+    "surname": "Eggimann",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Notar",
+    "address": "IV, 278",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "278",
+    "origin": "Eriswyl",
+    "birth_year": "1777",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 777 Rudolf, Notar, a. Eriswyl, B. v. 2 - IV, 278."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Eggimann.",
+    "place": "Bern",
+    "surname": "Eggimann",
+    "forename": "Rosina Sus.",
+    "title": "",
+    "occupation": "Rentiere",
+    "address": "IV, 207",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "207",
+    "origin": "",
+    "birth_year": "1787",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 787 Rosina Sus., Rentiere, Schw. v. 1 u. 3 - IV, 207."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Eggimann.",
+    "place": "Bern",
+    "surname": "Eggimann",
+    "forename": "Jakob Friedrich",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "IV, 207",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "207",
+    "origin": "",
+    "birth_year": "1784",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 784 Jakob Friedrich, Handelsmann, B. v. 1 u. 2 - IV, 207."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Eggimann.",
+    "place": "Bern",
+    "surname": "Eggimann",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Notar",
+    "address": "III, 28",
+    "quarter": "III",
+    "street": "",
+    "house_no": "28",
+    "origin": "Sumiswald",
+    "birth_year": "1822",
+    "household": "825 Fr. - Elis. Alb. Dubi a. Burgistein.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 822 Johann, Notar, a. Sumiswald - III, 28. 825 Fr. - Elis. Alb. Dubi a. Burgistein."
+   },
+   {
+    "line_from": 27,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Egli.",
+    "place": "Bern",
+    "surname": "Egli",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "IV, 30 u. 31",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "30 u. 31",
+    "origin": "Männedorf",
+    "birth_year": "1802",
+    "household": "804 Fr. - Magd. Weber a. Veltheim. 7 K. - 825 Sophie E. - 29 Joh. Friedr. - 31 Marg. Sus. - 35 Sophie E. - 36 E. Sus. - 38 Maria Magd. - 41 Friedrich Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Rudolf, Schreiner, a. Männedorf - IV, 30 u. 31. 804 Fr. - Magd. Weber a. Veltheim. 7 K. - 825 Sophie E. - 29 Joh. Friedr. - 31 Marg. Sus. - 35 Sophie E. - 36 E. Sus. - 38 Maria Magd. - 41 Friedrich Gottlieb."
+   },
+   {
+    "line_from": 33,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Eichenberger.",
+    "place": "Bern",
+    "surname": "Eichenberger",
+    "forename": "Verena",
+    "title": "",
+    "occupation": "Kellermagd",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "Beinwyl",
+    "birth_year": "1799",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Verena, Kellermagd, a. Beinwyl."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Eichenberger.",
+    "place": "Bern",
+    "surname": "Eichenberger",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "II, 150",
+    "quarter": "II",
+    "street": "",
+    "house_no": "150",
+    "origin": "Birr, K. Aargau",
+    "birth_year": "1789",
+    "household": "807 Fr. - Maria Burkhard, gew. Stänz a. Küttigen.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 789 Joh. Jakob, Schneider, a. Birr, K. Aargau - II, 150. 807 Fr. - Maria Burkhard, gew. Stänz a. Küttigen."
+   },
+   {
+    "line_from": 37,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Eidam.",
+    "place": "Bern",
+    "surname": "Eidam",
+    "forename": "Gottlieb Peter",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "I, 20",
+    "quarter": "I",
+    "street": "",
+    "house_no": "20",
+    "origin": "Lenk",
+    "birth_year": "1810",
+    "household": "815 Fr. II Ehe. - Rosina Julie Küpfer a. Bern. 3 K. - Aus I Ehe: 833 A. Ros. Sovie. - 36 Gottlieb. - Aus II Ehe 42 Marg. Julie Bertha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Gottlieb Peter, Schreiber, a. Lenk - I, 20. 815 Fr. II Ehe. - Rosina Julie Küpfer a. Bern. 3 K. - Aus I Ehe: 833 A. Ros. Sovie. - 36 Gottlieb. - Aus II Ehe 42 Marg. Julie Bertha."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:58:56+01:00",
+ "last_error": null
+}

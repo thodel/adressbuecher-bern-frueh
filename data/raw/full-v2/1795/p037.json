@@ -1,0 +1,206 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 37,
+ "section": "handbuch",
+ "started": "2026-11-11T20:49:08+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 11.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 1586,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"35\",\n  \"running_head\": \"Reichenbach.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Reichenbach. 35\"},\n    {\"n\": 2, \"text\": \"Reichenbach.\"},\n    {\"n\": 3, \"text\": \"Herr\"},\n    {\"n\": 4, \"text\": \"D. Abr. Rubin, verfertiget alle in die Calli-\"},\n    {\"n\": 5, \"text\": \"graphie einschlagende Arbeiten, als alle Arten Frac-\"},\n    {\"n\": 6, \"text\": \"tur = Züge und Bilder; Initial = Buchstaben sowohl\"},\n    {\"n\": 7, \"text\": \"nach seiner eigenen Invention als nach Copien.\"},\n    {\"n\": 8, \"text\": \"Seeberg, und bey Seeberg.\"},\n    {\"n\": 9, \"text\": \"Hans Jakob Weber, auf der Fuchten, verfer-\"},\n    {\"n\": 10, \"text\": \"tiget sehr gute und dauerhafte Orgeln, hat auch Kir-\"},\n    {\"n\": 11, \"text\": \"chen = Orgeln geliefert, die von seiner guten Kennt-\"},\n    {\"n\": 12, \"text\": \"niß das rühmlichste Zeugniß geben.\"},\n    {\"n\": 13, \"text\": \"Joh. Jakob Matthys, Schlosser in Seeberg,\"},\n    {\"n\": 14, \"text\": \"verfertiget alle in sein Handwerk einschlagende Arbei-\"},\n    {\"n\": 15, \"text\": \"ten, auf die neueste Art, und mit vielem Geschmak.\"},\n    {\"n\": 16, \"text\": \"Joh. Matthys in Seeberg, macht die vortref-\"},\n    {\"n\": 17, \"text\": \"lichsten engl. Federn zu Pendules und Sakuhren, in-\"},\n    {\"n\": 18, \"text\": \"gleichem zu elastischen Bruchbändern, und Pointes\"},\n    {\"n\": 19, \"text\": \"für Modelstecher. Auch hat er kürzlich, nach Joh.\"},\n    {\"n\": 20, \"text\": \"Riems Anleitung, für das aufgeblähete Vieh zu\"},\n    {\"n\": 21, \"text\": \"retten, einen vortreflichen Trokar oder trois quarts\"},\n    {\"n\": 22, \"text\": \"gemacht.\"},\n    {\"n\": 23, \"text\": \"C 2\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Reichenbach.\",\n      \"place\": \"Reichenbach\",\n      \"surname\": \"Rubin\",\n      \"forename\": \"D. Abr.\",\n      \"title\": \"Herr\",\n      \"occupation\": \"verfertiget alle in die Calligraphie einschlagende Arbeiten, als alle Arten Fractur = Züge und Bilder; Initial = Buchstaben sowohl nach seiner eigenen Invention als nach Copien\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr D. Abr. Rubin, verfertiget alle in die Calligraphie einschlagende Arbeiten, als alle Arten Fractur = Züge und Bilder; Initial = Buchstaben sowohl nach seiner eigenen Invention als nach Copien.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Seeberg, und bey Seeberg.\",\n      \"place\": \"Seeberg\",\n      \"surname\": \"Weber\",\n      \"forename\": \"Hans Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"verfertiget sehr gute und dauerhafte Orgeln, hat auch Kirchen = Orgeln geliefert\",\n      \"address\": \"auf der Fuchten\",\n      \"quarter\": \"\",\n      \"street\": \"auf der Fuchten\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hans Jakob Weber, auf der Fuchten, verfertiget sehr gute und dauerhafte Orgeln, hat auch Kirchen = Orgeln geliefert, die von seiner guten Kenntniß das rühmlichste Zeugniß geben.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Seeberg, und bey Seeberg.\",\n      \"place\": \"Seeberg\",\n      \"surname\": \"Matthys\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"in Seeberg\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Matthys, Schlosser in Seeberg, verfertiget alle in sein Handwerk einschlagende Arbeiten, auf die neueste Art, und mit vielem Geschmak.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Seeberg, und bey Seeberg.\",\n      \"place\": \"Seeberg\",\n      \"surname\": \"Matthys\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"macht die vortreflichsten engl. Federn zu Pendules und Sakuhren, ingleichem zu elastischen Bruchbändern, und Pointes für Modelstecher. Auch hat er kürzlich, nach Joh. Riems Anleitung, für das aufgeblähete Vieh zu retten, einen vortreflichen Trokar oder trois quarts gemacht\",\n      \"address\": \"in Seeberg\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Matthys in Seeberg, macht die vortreflichsten engl. Federn zu Pendules und Sakuhren, ingleichem zu elastischen Bruchbändern, und Pointes für Modelstecher. Auch hat er kürzlich, nach Joh. Riems Anleitung, für das aufgeblähete Vieh zu retten, einen vortreflichen Trokar oder trois quarts gemacht.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "35",
+  "running_head": "Reichenbach.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Reichenbach. 35"
+   },
+   {
+    "n": 2,
+    "text": "Reichenbach."
+   },
+   {
+    "n": 3,
+    "text": "Herr"
+   },
+   {
+    "n": 4,
+    "text": "D. Abr. Rubin, verfertiget alle in die Calli-"
+   },
+   {
+    "n": 5,
+    "text": "graphie einschlagende Arbeiten, als alle Arten Frac-"
+   },
+   {
+    "n": 6,
+    "text": "tur = Züge und Bilder; Initial = Buchstaben sowohl"
+   },
+   {
+    "n": 7,
+    "text": "nach seiner eigenen Invention als nach Copien."
+   },
+   {
+    "n": 8,
+    "text": "Seeberg, und bey Seeberg."
+   },
+   {
+    "n": 9,
+    "text": "Hans Jakob Weber, auf der Fuchten, verfer-"
+   },
+   {
+    "n": 10,
+    "text": "tiget sehr gute und dauerhafte Orgeln, hat auch Kir-"
+   },
+   {
+    "n": 11,
+    "text": "chen = Orgeln geliefert, die von seiner guten Kennt-"
+   },
+   {
+    "n": 12,
+    "text": "niß das rühmlichste Zeugniß geben."
+   },
+   {
+    "n": 13,
+    "text": "Joh. Jakob Matthys, Schlosser in Seeberg,"
+   },
+   {
+    "n": 14,
+    "text": "verfertiget alle in sein Handwerk einschlagende Arbei-"
+   },
+   {
+    "n": 15,
+    "text": "ten, auf die neueste Art, und mit vielem Geschmak."
+   },
+   {
+    "n": 16,
+    "text": "Joh. Matthys in Seeberg, macht die vortref-"
+   },
+   {
+    "n": 17,
+    "text": "lichsten engl. Federn zu Pendules und Sakuhren, in-"
+   },
+   {
+    "n": 18,
+    "text": "gleichem zu elastischen Bruchbändern, und Pointes"
+   },
+   {
+    "n": 19,
+    "text": "für Modelstecher. Auch hat er kürzlich, nach Joh."
+   },
+   {
+    "n": 20,
+    "text": "Riems Anleitung, für das aufgeblähete Vieh zu"
+   },
+   {
+    "n": 21,
+    "text": "retten, einen vortreflichen Trokar oder trois quarts"
+   },
+   {
+    "n": 22,
+    "text": "gemacht."
+   },
+   {
+    "n": 23,
+    "text": "C 2"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Reichenbach.",
+    "place": "Reichenbach",
+    "surname": "Rubin",
+    "forename": "D. Abr.",
+    "title": "Herr",
+    "occupation": "verfertiget alle in die Calligraphie einschlagende Arbeiten, als alle Arten Fractur = Züge und Bilder; Initial = Buchstaben sowohl nach seiner eigenen Invention als nach Copien",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr D. Abr. Rubin, verfertiget alle in die Calligraphie einschlagende Arbeiten, als alle Arten Fractur = Züge und Bilder; Initial = Buchstaben sowohl nach seiner eigenen Invention als nach Copien."
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Seeberg, und bey Seeberg.",
+    "place": "Seeberg",
+    "surname": "Weber",
+    "forename": "Hans Jakob",
+    "title": "",
+    "occupation": "verfertiget sehr gute und dauerhafte Orgeln, hat auch Kirchen = Orgeln geliefert",
+    "address": "auf der Fuchten",
+    "quarter": "",
+    "street": "auf der Fuchten",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hans Jakob Weber, auf der Fuchten, verfertiget sehr gute und dauerhafte Orgeln, hat auch Kirchen = Orgeln geliefert, die von seiner guten Kenntniß das rühmlichste Zeugniß geben."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Seeberg, und bey Seeberg.",
+    "place": "Seeberg",
+    "surname": "Matthys",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "in Seeberg",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Matthys, Schlosser in Seeberg, verfertiget alle in sein Handwerk einschlagende Arbeiten, auf die neueste Art, und mit vielem Geschmak."
+   },
+   {
+    "line_from": 16,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Seeberg, und bey Seeberg.",
+    "place": "Seeberg",
+    "surname": "Matthys",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "macht die vortreflichsten engl. Federn zu Pendules und Sakuhren, ingleichem zu elastischen Bruchbändern, und Pointes für Modelstecher. Auch hat er kürzlich, nach Joh. Riems Anleitung, für das aufgeblähete Vieh zu retten, einen vortreflichen Trokar oder trois quarts gemacht",
+    "address": "in Seeberg",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Matthys in Seeberg, macht die vortreflichsten engl. Federn zu Pendules und Sakuhren, ingleichem zu elastischen Bruchbändern, und Pointes für Modelstecher. Auch hat er kürzlich, nach Joh. Riems Anleitung, für das aufgeblähete Vieh zu retten, einen vortreflichen Trokar oder trois quarts gemacht."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:49:20+01:00",
+ "last_error": null
+}

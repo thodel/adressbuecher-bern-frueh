@@ -1,5 +1,7 @@
 PY ?= .venv/bin/python
 RUN ?= full-v1
+SECOND ?= full-v2
+PREFER ?= fix-rn
 
 .PHONY: venv pages smoke read csv site serve
 venv:  ## Python-Umgebung
@@ -12,7 +14,7 @@ read:  ## alle gewählten Seiten mit Gemini lesen (RUN=…)
 	$(PY) scripts/02_gemini.py --run $(RUN) --all --workers 6
 
 csv:  ## Gemini-Antworten -> data/csv/02_lines.csv, 03_page_status.csv, 04_entries.csv
-	$(PY) scripts/03_csv.py --run $(RUN)
+	$(PY) scripts/03_csv.py --run $(RUN) $(if $(SECOND),--second $(SECOND)) $(if $(PREFER),--prefer $(PREFER))
 
 site: csv  ## Daten für site/ erzeugen
 	$(PY) scripts/90_site.py

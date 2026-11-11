@@ -1,0 +1,510 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 84,
+ "section": "einsassen",
+ "started": "2026-11-11T22:02:06+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 61.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4947,
+  "thoughts": 5249
+ },
+ "response_text": "{\n  \"printed_page\": \"71\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 71 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"3 795 Joseph, Arzt, a. Dagmersellen, K. Luzern - III, 48.\"},\n    {\"n\": 4, \"text\": \"810 Fr. - Sus. Elis. Wälti.\"},\n    {\"n\": 5, \"text\": \"3 K. - 836 Ludw. Eduard. - 38 Elise Cäcile. - 42 Emma\"},\n    {\"n\": 6, \"text\": \"Mathilde.\"},\n    {\"n\": 7, \"text\": \"4 793 Maria Marg., geb. Halder, a. Mauraz, K. Waadt - II, 37.\"},\n    {\"n\": 8, \"text\": \"3 K. - 828 Karl Friedrich Rudolf. - 33 Rosalie. - 37\"},\n    {\"n\": 9, \"text\": \"Katharina Henriette.\"},\n    {\"n\": 10, \"text\": \"5 813 Jakob Andreas, Störschneider, a. Madiswyl - IV, 291.\"},\n    {\"n\": 11, \"text\": \"807 Fr. - Elis. Kiener.\"},\n    {\"n\": 12, \"text\": \"6 823 Sam. Joseph, Thierarzt, a. Mauraz, K. Waadt - VII, 178.\"},\n    {\"n\": 13, \"text\": \"821 Fr. - Kath. Elis. Luchsinger a. Schwanden, K. Glarus.\"},\n    {\"n\": 14, \"text\": \"1 S. - 846 Robert Adolf.\"},\n    {\"n\": 15, \"text\": \"7 805 Anna Maria, Schneiderin, a. Wollerau, K. Schwyz\"},\n    {\"n\": 16, \"text\": \"- IV, 225.\"},\n    {\"n\": 17, \"text\": \"Hubler.\"},\n    {\"n\": 18, \"text\": \"1 816 Rudolf, Abwart auf der Hypothekarkasse, a. Bätterkinden\"},\n    {\"n\": 19, \"text\": \"- III, 94.\"},\n    {\"n\": 20, \"text\": \"818 Fr. - Anna Maria Käsermann a. Bätterkinden.\"},\n    {\"n\": 21, \"text\": \"Hügi.\"},\n    {\"n\": 22, \"text\": \"1 809 Johann, Schneider, a. Niederbipp - IV, 34.\"},\n    {\"n\": 23, \"text\": \"811 Fr. - Magdalena Hegg a. Schüpfen.\"},\n    {\"n\": 24, \"text\": \"2 S. - 837 Joh. Karl Emanuel. - 39 Friedr. Bernhard.\"},\n    {\"n\": 25, \"text\": \"Hügli.\"},\n    {\"n\": 26, \"text\": \"1 797 Rudolf, gew. Spezierer, a. Meikirch - III, 139.\"},\n    {\"n\": 27, \"text\": \"1 S. - Rudolf, Postcommis.\"},\n    {\"n\": 28, \"text\": \"2 802 Rudolf, Schneider, a. Seedorf - IV, 6 u. 7.\"},\n    {\"n\": 29, \"text\": \"3 803 Johann, Schuhmacher, bern. Landsaß - II, 93.\"},\n    {\"n\": 30, \"text\": \"806 Fr. - Anna Zwahlen a. Uetendorf.\"},\n    {\"n\": 31, \"text\": \"3 K. - 839 Elis. Sophie. - 41 Rosa Susanna. - 43\"},\n    {\"n\": 32, \"text\": \"Johann Albrecht.\"},\n    {\"n\": 33, \"text\": \"4 809 David, Trödler, bern. Landsaß - II, 210.\"},\n    {\"n\": 34, \"text\": \"Fr. - Marg. Knobel, verw. Pfäffli, a. Signau.\"},\n    {\"n\": 35, \"text\": \"5 798 Bendicht, Schneider, a. Meikirch - IV, 5.\"},\n    {\"n\": 36, \"text\": \"Fr. - Magdalena Fischer.\"},\n    {\"n\": 37, \"text\": \"1 S. - 819 Bendicht.\"},\n    {\"n\": 38, \"text\": \"6 801 Samuel, Schmied, a. Wohlen - II, 73.\"},\n    {\"n\": 39, \"text\": \"800 Fr. - Maria Stämpfli a. Wohlen.\"},\n    {\"n\": 40, \"text\": \"Hürlimann.\"},\n    {\"n\": 41, \"text\": \"1 814 Joseph Karl, Schuhmacher, a. Walchwyl, K. Zug - II, 19.\"},\n    {\"n\": 42, \"text\": \"Hürzeler.\"},\n    {\"n\": 43, \"text\": \"1 805 Johann, Badwirth im Inseli, a. Aarwangen - VI, 97.\"},\n    {\"n\": 44, \"text\": \"Fr. - Anna Maria Flükiger a. Huttwyl.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Arzt\",\n      \"address\": \"III, 48\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"48\",\n      \"origin\": \"Dagmersellen, K. Luzern\",\n      \"birth_year\": \"1795\",\n      \"household\": \"810 Fr. - Sus. Elis. Wälti. 3 K. - 836 Ludw. Eduard. - 38 Elise Cäcile. - 42 Emma Mathilde.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"3 795 Joseph, Arzt, a. Dagmersellen, K. Luzern - III, 48. 810 Fr. - Sus. Elis. Wälti. 3 K. - 836 Ludw. Eduard. - 38 Elise Cäcile. - 42 Emma Mathilde.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Maria Marg.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"II, 37\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"37\",\n      \"origin\": \"Mauraz, K. Waadt\",\n      \"birth_year\": \"1793\",\n      \"household\": \"3 K. - 828 Karl Friedrich Rudolf. - 33 Rosalie. - 37 Katharina Henriette.\",\n      \"note\": \"geb. Halder; Familienname auf Vorseite\",\n      \"text\": \"4 793 Maria Marg., geb. Halder, a. Mauraz, K. Waadt - II, 37. 3 K. - 828 Karl Friedrich Rudolf. - 33 Rosalie. - 37 Katharina Henriette.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Jakob Andreas\",\n      \"title\": \"\",\n      \"occupation\": \"Störschneider\",\n      \"address\": \"IV, 291\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"291\",\n      \"origin\": \"Madiswyl\",\n      \"birth_year\": \"1813\",\n      \"household\": \"807 Fr. - Elis. Kiener.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"5 813 Jakob Andreas, Störschneider, a. Madiswyl - IV, 291. 807 Fr. - Elis. Kiener.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Sam. Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Thierarzt\",\n      \"address\": \"VII, 178\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"178\",\n      \"origin\": \"Mauraz, K. Waadt\",\n      \"birth_year\": \"1823\",\n      \"household\": \"821 Fr. - Kath. Elis. Luchsinger a. Schwanden, K. Glarus. 1 S. - 846 Robert Adolf.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"6 823 Sam. Joseph, Thierarzt, a. Mauraz, K. Waadt - VII, 178. 821 Fr. - Kath. Elis. Luchsinger a. Schwanden, K. Glarus. 1 S. - 846 Robert Adolf.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Anna Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"IV, 225\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"225\",\n      \"origin\": \"Wollerau, K. Schwyz\",\n      \"birth_year\": \"1805\",\n      \"household\": \"\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"7 805 Anna Maria, Schneiderin, a. Wollerau, K. Schwyz - IV, 225.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Hubler\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hubler\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Abwart auf der Hypothekarkasse\",\n      \"address\": \"III, 94\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"94\",\n      \"origin\": \"Bätterkinden\",\n      \"birth_year\": \"1816\",\n      \"household\": \"818 Fr. - Anna Maria Käsermann a. Bätterkinden.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Rudolf, Abwart auf der Hypothekarkasse, a. Bätterkinden - III, 94. 818 Fr. - Anna Maria Käsermann a. Bätterkinden.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Hügi\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hügi\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 34\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"34\",\n      \"origin\": \"Niederbipp\",\n      \"birth_year\": \"1809\",\n      \"household\": \"811 Fr. - Magdalena Hegg a. Schüpfen. 2 S. - 837 Joh. Karl Emanuel. - 39 Friedr. Bernhard.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Johann, Schneider, a. Niederbipp - IV, 34. 811 Fr. - Magdalena Hegg a. Schüpfen. 2 S. - 837 Joh. Karl Emanuel. - 39 Friedr. Bernhard.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Hügli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hügli\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Spezierer\",\n      \"address\": \"III, 139\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"139\",\n      \"origin\": \"Meikirch\",\n      \"birth_year\": \"1797\",\n      \"household\": \"1 S. - Rudolf, Postcommis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 Rudolf, gew. Spezierer, a. Meikirch - III, 139. 1 S. - Rudolf, Postcommis.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Hügli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hügli\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 6 u. 7\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"6 u. 7\",\n      \"origin\": \"Seedorf\",\n      \"birth_year\": \"1802\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 802 Rudolf, Schneider, a. Seedorf - IV, 6 u. 7.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Hügli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hügli\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 93\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"93\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1803\",\n      \"household\": \"806 Fr. - Anna Zwahlen a. Uetendorf. 3 K. - 839 Elis. Sophie. - 41 Rosa Susanna. - 43 Johann Albrecht.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 803 Johann, Schuhmacher, bern. Landsaß - II, 93. 806 Fr. - Anna Zwahlen a. Uetendorf. 3 K. - 839 Elis. Sophie. - 41 Rosa Susanna. - 43 Johann Albrecht.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Hügli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hügli\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Trödler\",\n      \"address\": \"II, 210\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"210\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1809\",\n      \"household\": \"Fr. - Marg. Knobel, verw. Pfäffli, a. Signau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 809 David, Trödler, bern. Landsaß - II, 210. Fr. - Marg. Knobel, verw. Pfäffli, a. Signau.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Hügli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hügli\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 5\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"5\",\n      \"origin\": \"Meikirch\",\n      \"birth_year\": \"1798\",\n      \"household\": \"Fr. - Magdalena Fischer. 1 S. - 819 Bendicht.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 798 Bendicht, Schneider, a. Meikirch - IV, 5. Fr. - Magdalena Fischer. 1 S. - 819 Bendicht.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Hügli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hügli\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Schmied\",\n      \"address\": \"II, 73\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"73\",\n      \"origin\": \"Wohlen\",\n      \"birth_year\": \"1801\",\n      \"household\": \"800 Fr. - Maria Stämpfli a. Wohlen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 801 Samuel, Schmied, a. Wohlen - II, 73. 800 Fr. - Maria Stämpfli a. Wohlen.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Hürlimann\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hürlimann\",\n      \"forename\": \"Joseph Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 19\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"19\",\n      \"origin\": \"Walchwyl, K. Zug\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Joseph Karl, Schuhmacher, a. Walchwyl, K. Zug - II, 19.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Hürzeler\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hürzeler\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Badwirth im Inseli\",\n      \"address\": \"VI, 97\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"97\",\n      \"origin\": \"Aarwangen\",\n      \"birth_year\": \"1805\",\n      \"household\": \"Fr. - Anna Maria Flükiger a. Huttwyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Johann, Badwirth im Inseli, a. Aarwangen - VI, 97. Fr. - Anna Maria Flükiger a. Huttwyl.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "71",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 71 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "3 795 Joseph, Arzt, a. Dagmersellen, K. Luzern - III, 48."
+   },
+   {
+    "n": 4,
+    "text": "810 Fr. - Sus. Elis. Wälti."
+   },
+   {
+    "n": 5,
+    "text": "3 K. - 836 Ludw. Eduard. - 38 Elise Cäcile. - 42 Emma"
+   },
+   {
+    "n": 6,
+    "text": "Mathilde."
+   },
+   {
+    "n": 7,
+    "text": "4 793 Maria Marg., geb. Halder, a. Mauraz, K. Waadt - II, 37."
+   },
+   {
+    "n": 8,
+    "text": "3 K. - 828 Karl Friedrich Rudolf. - 33 Rosalie. - 37"
+   },
+   {
+    "n": 9,
+    "text": "Katharina Henriette."
+   },
+   {
+    "n": 10,
+    "text": "5 813 Jakob Andreas, Störschneider, a. Madiswyl - IV, 291."
+   },
+   {
+    "n": 11,
+    "text": "807 Fr. - Elis. Kiener."
+   },
+   {
+    "n": 12,
+    "text": "6 823 Sam. Joseph, Thierarzt, a. Mauraz, K. Waadt - VII, 178."
+   },
+   {
+    "n": 13,
+    "text": "821 Fr. - Kath. Elis. Luchsinger a. Schwanden, K. Glarus."
+   },
+   {
+    "n": 14,
+    "text": "1 S. - 846 Robert Adolf."
+   },
+   {
+    "n": 15,
+    "text": "7 805 Anna Maria, Schneiderin, a. Wollerau, K. Schwyz"
+   },
+   {
+    "n": 16,
+    "text": "- IV, 225."
+   },
+   {
+    "n": 17,
+    "text": "Hubler."
+   },
+   {
+    "n": 18,
+    "text": "1 816 Rudolf, Abwart auf der Hypothekarkasse, a. Bätterkinden"
+   },
+   {
+    "n": 19,
+    "text": "- III, 94."
+   },
+   {
+    "n": 20,
+    "text": "818 Fr. - Anna Maria Käsermann a. Bätterkinden."
+   },
+   {
+    "n": 21,
+    "text": "Hügi."
+   },
+   {
+    "n": 22,
+    "text": "1 809 Johann, Schneider, a. Niederbipp - IV, 34."
+   },
+   {
+    "n": 23,
+    "text": "811 Fr. - Magdalena Hegg a. Schüpfen."
+   },
+   {
+    "n": 24,
+    "text": "2 S. - 837 Joh. Karl Emanuel. - 39 Friedr. Bernhard."
+   },
+   {
+    "n": 25,
+    "text": "Hügli."
+   },
+   {
+    "n": 26,
+    "text": "1 797 Rudolf, gew. Spezierer, a. Meikirch - III, 139."
+   },
+   {
+    "n": 27,
+    "text": "1 S. - Rudolf, Postcommis."
+   },
+   {
+    "n": 28,
+    "text": "2 802 Rudolf, Schneider, a. Seedorf - IV, 6 u. 7."
+   },
+   {
+    "n": 29,
+    "text": "3 803 Johann, Schuhmacher, bern. Landsaß - II, 93."
+   },
+   {
+    "n": 30,
+    "text": "806 Fr. - Anna Zwahlen a. Uetendorf."
+   },
+   {
+    "n": 31,
+    "text": "3 K. - 839 Elis. Sophie. - 41 Rosa Susanna. - 43"
+   },
+   {
+    "n": 32,
+    "text": "Johann Albrecht."
+   },
+   {
+    "n": 33,
+    "text": "4 809 David, Trödler, bern. Landsaß - II, 210."
+   },
+   {
+    "n": 34,
+    "text": "Fr. - Marg. Knobel, verw. Pfäffli, a. Signau."
+   },
+   {
+    "n": 35,
+    "text": "5 798 Bendicht, Schneider, a. Meikirch - IV, 5."
+   },
+   {
+    "n": 36,
+    "text": "Fr. - Magdalena Fischer."
+   },
+   {
+    "n": 37,
+    "text": "1 S. - 819 Bendicht."
+   },
+   {
+    "n": 38,
+    "text": "6 801 Samuel, Schmied, a. Wohlen - II, 73."
+   },
+   {
+    "n": 39,
+    "text": "800 Fr. - Maria Stämpfli a. Wohlen."
+   },
+   {
+    "n": 40,
+    "text": "Hürlimann."
+   },
+   {
+    "n": 41,
+    "text": "1 814 Joseph Karl, Schuhmacher, a. Walchwyl, K. Zug - II, 19."
+   },
+   {
+    "n": 42,
+    "text": "Hürzeler."
+   },
+   {
+    "n": 43,
+    "text": "1 805 Johann, Badwirth im Inseli, a. Aarwangen - VI, 97."
+   },
+   {
+    "n": 44,
+    "text": "Fr. - Anna Maria Flükiger a. Huttwyl."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Arzt",
+    "address": "III, 48",
+    "quarter": "III",
+    "street": "",
+    "house_no": "48",
+    "origin": "Dagmersellen, K. Luzern",
+    "birth_year": "1795",
+    "household": "810 Fr. - Sus. Elis. Wälti. 3 K. - 836 Ludw. Eduard. - 38 Elise Cäcile. - 42 Emma Mathilde.",
+    "note": "Familienname auf Vorseite",
+    "text": "3 795 Joseph, Arzt, a. Dagmersellen, K. Luzern - III, 48. 810 Fr. - Sus. Elis. Wälti. 3 K. - 836 Ludw. Eduard. - 38 Elise Cäcile. - 42 Emma Mathilde."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Maria Marg.",
+    "title": "",
+    "occupation": "",
+    "address": "II, 37",
+    "quarter": "II",
+    "street": "",
+    "house_no": "37",
+    "origin": "Mauraz, K. Waadt",
+    "birth_year": "1793",
+    "household": "3 K. - 828 Karl Friedrich Rudolf. - 33 Rosalie. - 37 Katharina Henriette.",
+    "note": "geb. Halder; Familienname auf Vorseite",
+    "text": "4 793 Maria Marg., geb. Halder, a. Mauraz, K. Waadt - II, 37. 3 K. - 828 Karl Friedrich Rudolf. - 33 Rosalie. - 37 Katharina Henriette."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Jakob Andreas",
+    "title": "",
+    "occupation": "Störschneider",
+    "address": "IV, 291",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "291",
+    "origin": "Madiswyl",
+    "birth_year": "1813",
+    "household": "807 Fr. - Elis. Kiener.",
+    "note": "Familienname auf Vorseite",
+    "text": "5 813 Jakob Andreas, Störschneider, a. Madiswyl - IV, 291. 807 Fr. - Elis. Kiener."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Sam. Joseph",
+    "title": "",
+    "occupation": "Thierarzt",
+    "address": "VII, 178",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "178",
+    "origin": "Mauraz, K. Waadt",
+    "birth_year": "1823",
+    "household": "821 Fr. - Kath. Elis. Luchsinger a. Schwanden, K. Glarus. 1 S. - 846 Robert Adolf.",
+    "note": "Familienname auf Vorseite",
+    "text": "6 823 Sam. Joseph, Thierarzt, a. Mauraz, K. Waadt - VII, 178. 821 Fr. - Kath. Elis. Luchsinger a. Schwanden, K. Glarus. 1 S. - 846 Robert Adolf."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Anna Maria",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "IV, 225",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "225",
+    "origin": "Wollerau, K. Schwyz",
+    "birth_year": "1805",
+    "household": "",
+    "note": "Familienname auf Vorseite",
+    "text": "7 805 Anna Maria, Schneiderin, a. Wollerau, K. Schwyz - IV, 225."
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Hubler",
+    "place": "Bern",
+    "surname": "Hubler",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Abwart auf der Hypothekarkasse",
+    "address": "III, 94",
+    "quarter": "III",
+    "street": "",
+    "house_no": "94",
+    "origin": "Bätterkinden",
+    "birth_year": "1816",
+    "household": "818 Fr. - Anna Maria Käsermann a. Bätterkinden.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Rudolf, Abwart auf der Hypothekarkasse, a. Bätterkinden - III, 94. 818 Fr. - Anna Maria Käsermann a. Bätterkinden."
+   },
+   {
+    "line_from": 22,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Hügi",
+    "place": "Bern",
+    "surname": "Hügi",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 34",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "34",
+    "origin": "Niederbipp",
+    "birth_year": "1809",
+    "household": "811 Fr. - Magdalena Hegg a. Schüpfen. 2 S. - 837 Joh. Karl Emanuel. - 39 Friedr. Bernhard.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Johann, Schneider, a. Niederbipp - IV, 34. 811 Fr. - Magdalena Hegg a. Schüpfen. 2 S. - 837 Joh. Karl Emanuel. - 39 Friedr. Bernhard."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Hügli",
+    "place": "Bern",
+    "surname": "Hügli",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "gew. Spezierer",
+    "address": "III, 139",
+    "quarter": "III",
+    "street": "",
+    "house_no": "139",
+    "origin": "Meikirch",
+    "birth_year": "1797",
+    "household": "1 S. - Rudolf, Postcommis.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 Rudolf, gew. Spezierer, a. Meikirch - III, 139. 1 S. - Rudolf, Postcommis."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Hügli",
+    "place": "Bern",
+    "surname": "Hügli",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 6 u. 7",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "6 u. 7",
+    "origin": "Seedorf",
+    "birth_year": "1802",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 802 Rudolf, Schneider, a. Seedorf - IV, 6 u. 7."
+   },
+   {
+    "line_from": 29,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Hügli",
+    "place": "Bern",
+    "surname": "Hügli",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 93",
+    "quarter": "II",
+    "street": "",
+    "house_no": "93",
+    "origin": "bern. Landsaß",
+    "birth_year": "1803",
+    "household": "806 Fr. - Anna Zwahlen a. Uetendorf. 3 K. - 839 Elis. Sophie. - 41 Rosa Susanna. - 43 Johann Albrecht.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 803 Johann, Schuhmacher, bern. Landsaß - II, 93. 806 Fr. - Anna Zwahlen a. Uetendorf. 3 K. - 839 Elis. Sophie. - 41 Rosa Susanna. - 43 Johann Albrecht."
+   },
+   {
+    "line_from": 33,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Hügli",
+    "place": "Bern",
+    "surname": "Hügli",
+    "forename": "David",
+    "title": "",
+    "occupation": "Trödler",
+    "address": "II, 210",
+    "quarter": "II",
+    "street": "",
+    "house_no": "210",
+    "origin": "bern. Landsaß",
+    "birth_year": "1809",
+    "household": "Fr. - Marg. Knobel, verw. Pfäffli, a. Signau.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 809 David, Trödler, bern. Landsaß - II, 210. Fr. - Marg. Knobel, verw. Pfäffli, a. Signau."
+   },
+   {
+    "line_from": 35,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Hügli",
+    "place": "Bern",
+    "surname": "Hügli",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 5",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "5",
+    "origin": "Meikirch",
+    "birth_year": "1798",
+    "household": "Fr. - Magdalena Fischer. 1 S. - 819 Bendicht.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 798 Bendicht, Schneider, a. Meikirch - IV, 5. Fr. - Magdalena Fischer. 1 S. - 819 Bendicht."
+   },
+   {
+    "line_from": 38,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Hügli",
+    "place": "Bern",
+    "surname": "Hügli",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Schmied",
+    "address": "II, 73",
+    "quarter": "II",
+    "street": "",
+    "house_no": "73",
+    "origin": "Wohlen",
+    "birth_year": "1801",
+    "household": "800 Fr. - Maria Stämpfli a. Wohlen.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 801 Samuel, Schmied, a. Wohlen - II, 73. 800 Fr. - Maria Stämpfli a. Wohlen."
+   },
+   {
+    "line_from": 41,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Hürlimann",
+    "place": "Bern",
+    "surname": "Hürlimann",
+    "forename": "Joseph Karl",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 19",
+    "quarter": "II",
+    "street": "",
+    "house_no": "19",
+    "origin": "Walchwyl, K. Zug",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Joseph Karl, Schuhmacher, a. Walchwyl, K. Zug - II, 19."
+   },
+   {
+    "line_from": 43,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Hürzeler",
+    "place": "Bern",
+    "surname": "Hürzeler",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Badwirth im Inseli",
+    "address": "VI, 97",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "97",
+    "origin": "Aarwangen",
+    "birth_year": "1805",
+    "household": "Fr. - Anna Maria Flükiger a. Huttwyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Johann, Badwirth im Inseli, a. Aarwangen - VI, 97. Fr. - Anna Maria Flükiger a. Huttwyl."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:03:08+01:00",
+ "last_error": null
+}

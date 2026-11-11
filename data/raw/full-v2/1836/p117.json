@@ -1,0 +1,966 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1836",
+ "page": 117,
+ "section": "einwohner",
+ "started": "2026-11-11T21:19:21+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 64.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2402,
+  "output": 9685,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"108\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"108\"},\n    {\"n\": 2, \"text\": \"Walthardt, Pfarrer zu Unterseen. B.\"},\n    {\"n\": 3, \"text\": \"Walther, Albr., Schneidermstr., Marchand, Gn. Qr. Hotellaube S.\"},\n    {\"n\": 4, \"text\": \"Nr. 235.\"},\n    {\"n\": 5, \"text\": \"Walther, Christ., Schuhmachermstr., Altenbergdrittel auf dem Berg\"},\n    {\"n\": 6, \"text\": \"Nr. 130. Gb. Qr. Kramg. S. Nr. 203.\"},\n    {\"n\": 7, \"text\": \"Walther, Friedr., Gb. Qr. Zeughausplatz ✠ Nr. 6 u. 7. W. Qr. Ge-\"},\n    {\"n\": 8, \"text\": \"rechtigkeitsgasse ✠ Nr. 145.\"},\n    {\"n\": 9, \"text\": \"Walther, Joh. Friedr., Eisenhandelsmann, Gn. Qr. Zeughausgasse\"},\n    {\"n\": 10, \"text\": \"S. Nr. 6. H. u. B.\"},\n    {\"n\": 11, \"text\": \"Walther, Ludw. Gottl., Engemeister, Länggaßdrittel Nr. 247. B.\"},\n    {\"n\": 12, \"text\": \"Wasem, Rud. Jak., gew. Flachmaler, R. Qr. Aarbergerg. ✠ Nr. 43. H.\"},\n    {\"n\": 13, \"text\": \"Waser, David Albr., Stubenschreiber, W. Qr. Klapperläubli Stalden\"},\n    {\"n\": 14, \"text\": \"Nr. 17. H. u. B.\"},\n    {\"n\": 15, \"text\": \"Waser, Franz Wilh., Brüggfeld, Länggaßdrittel Nr. 233. H.\"},\n    {\"n\": 16, \"text\": \"Waßmer, Joh. Bapt., Eisenhandelsm., R. Qr. Aarbergerg. ✠ Nr. 43.\"},\n    {\"n\": 17, \"text\": \"Watt, David, Stadtpolizeidirektor, Gb. Qr. Marktg. S. Nr. 57.\"},\n    {\"n\": 18, \"text\": \"Wattenwyl, v., Alb. Karl, von Belp, in Gerzensee. B.\"},\n    {\"n\": 19, \"text\": \"Wattenwyl, v., Albr., alt Oberamtmann von Konolfingen, R. Qr.\"},\n    {\"n\": 20, \"text\": \"Spitalg. ✠ Nr. 124. B.\"},\n    {\"n\": 21, \"text\": \"Wattenwyl, v., Bernh., Gn. Qr. Schulg. S. Nr. 329. H. u. B.\"},\n    {\"n\": 22, \"text\": \"Wattenwyl, v., Bernh. Ferd., von Loins u. Bursinel. B.\"},\n    {\"n\": 23, \"text\": \"Wattenwyl, v., Bernh. Frdr., gew. geh. Rathschreiber, landesabw. B.\"},\n    {\"n\": 24, \"text\": \"Wattenwyl, v., Bernh. Sigm., allié Lentulus, Gn. Qr. Herrengasse\"},\n    {\"n\": 25, \"text\": \"Nr. 329. B.\"},\n    {\"n\": 26, \"text\": \"Wattenwyl, v., Dav. Rud., v. Peterlingen, gew. Appellationsrichter,\"},\n    {\"n\": 27, \"text\": \"Gb. Qr. Weibermarkt Nr. 34.\"},\n    {\"n\": 28, \"text\": \"Wattenwyl, v., Eml., allié v. Hugspurger, Hauptm., R. Qr. Spitalg.\"},\n    {\"n\": 29, \"text\": \"S. Nr. 154. Schosshaldendr. Nr. 80, 81, 82 u. 91. H. u. B.\"},\n    {\"n\": 30, \"text\": \"Wattenwyl, v., Erbschaft des gew. Amtsschultheiß, Gb. Qr. Marktg.\"},\n    {\"n\": 31, \"text\": \"S. Nr. 72 u. 117. H. u. B.\"},\n    {\"n\": 32, \"text\": \"Wattenwyl, v., Albr. Karl, von Oberhofen, W. Qr. Gerechtigkeitsg.\"},\n    {\"n\": 33, \"text\": \"S. Nr. 198. B.\"},\n    {\"n\": 34, \"text\": \"Wattenwyl-Stettler, v., Em., gew. Oberstlieut., Gb. Qr. Marktg.\"},\n    {\"n\": 35, \"text\": \"✠ Nr. 40. B.\"},\n    {\"n\": 36, \"text\": \"Wattenwyl, v., Franz Friedr., gew. Generalmajor in engl. Diensten,\"},\n    {\"n\": 37, \"text\": \"W. Qr. Gerechtigkeitsg. ✠ Nr. 90. B.\"},\n    {\"n\": 38, \"text\": \"Wattenwyl, v., Franz Vikt., von Blankenburg, gew. Quartiermstr.\"},\n    {\"n\": 39, \"text\": \"in Holland, Gb. Qr. Inselg. S. Nr. 136. B.\"},\n    {\"n\": 40, \"text\": \"Wattenwyl v., von Malessert, Weinnegot., R. Qr. zwischen den Thoren\"},\n    {\"n\": 41, \"text\": \"Nr. 180—182 und 124.\"},\n    {\"n\": 42, \"text\": \"Wattenwyl, v., von Loins, Frd., Offizier in Neapel. B.\"},\n    {\"n\": 43, \"text\": \"Wattenwyl-Frisching, v., Frd. Ludw., W. Qr. Junkerng. S. Nr. 167. B.\"},\n    {\"n\": 44, \"text\": \"Wattenwyl, v., Gebrüder, Brunnaderndrittel, Klösterli, Nr. 1, 2 u. 3.\"},\n    {\"n\": 45, \"text\": \"H. u. B.\"},\n    {\"n\": 46, \"text\": \"Wattenwyl, v., Gottl., Theolog. Cand., landesabwesend. B.\"},\n    {\"n\": 47, \"text\": \"Wattenwyl, v., General, Schosshaldendrittel Nr. 38—40. W. Qr.\"},\n    {\"n\": 48, \"text\": \"Gerechtigkeitsg. ✠ Nr. 90. H. u. B.\"},\n    {\"n\": 49, \"text\": \"Wattenwyl-d'Albert, v., Gb. Qr. Marktg. S. Nr. 91. B.\"},\n    {\"n\": 50, \"text\": \"Wattenwyl, v., Karl Friedr. Alex., von Blankenburg, Weinnegot.,\"},\n    {\"n\": 51, \"text\": \"Gb. Qr. Inselg. S. Nr. 136. B.\"},\n    {\"n\": 52, \"text\": \"Wattenwyl, v., Karl Ludw., von Montbenay, Obergerichtspräsident,\"},\n    {\"n\": 53, \"text\": \"R. Qr. zwischen den Thoren Nr. 180—182 u. 124. Läng-\"},\n    {\"n\": 54, \"text\": \"gaßdrittel Nr. 197. H. u. B.\"},\n    {\"n\": 55, \"text\": \"Wattenwyl, v., Karl Ludw., von Rubigen, gewes. Generalmajor in\"},\n    {\"n\": 56, \"text\": \"engl. Diensten, zu Rubigen. B.\"},\n    {\"n\": 57, \"text\": \"Wattenwyl, v., Karl Salom., alt Landv. von Sumiswald, W. Qr.\"},\n    {\"n\": 58, \"text\": \"Gerechtigkeitsg. S. Nr. 118. B.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walthardt\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Pfarrer zu Unterseen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Walthardt, Pfarrer zu Unterseen. B.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneidermstr., Marchand\",\n      \"address\": \"Gn. Qr. Hotellaube S. Nr. 235\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Hotellaube\",\n      \"house_no\": \"235\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Walther, Albr., Schneidermstr., Marchand, Gn. Qr. Hotellaube S. Nr. 235.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmachermstr.\",\n      \"address\": \"Altenbergdrittel auf dem Berg Nr. 130. Gb. Qr. Kramg. S. Nr. 203\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Kramg.\",\n      \"house_no\": \"130, 203\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Walther, Christ., Schuhmachermstr., Altenbergdrittel auf dem Berg Nr. 130. Gb. Qr. Kramg. S. Nr. 203.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gb. Qr. Zeughausplatz * Nr. 6 u. 7. W. Qr. Gerechtigkeitsgasse * Nr. 145\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Zeughausplatz\",\n      \"house_no\": \"6 u. 7, 145\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Walther, Friedr., Gb. Qr. Zeughausplatz * Nr. 6 u. 7. W. Qr. Gerechtigkeitsgasse * Nr. 145.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Joh. Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Eisenhandelsmann\",\n      \"address\": \"Gn. Qr. Zeughausgasse S. Nr. 6\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Zeughausgasse\",\n      \"house_no\": \"6\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Walther, Joh. Friedr., Eisenhandelsmann, Gn. Qr. Zeughausgasse S. Nr. 6. H. u. B.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Ludw. Gottl.\",\n      \"title\": \"\",\n      \"occupation\": \"Engemeister\",\n      \"address\": \"Länggaßdrittel Nr. 247\",\n      \"quarter\": \"\",\n      \"street\": \"Länggaßdrittel\",\n      \"house_no\": \"247\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Walther, Ludw. Gottl., Engemeister, Länggaßdrittel Nr. 247. B.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wasem\",\n      \"forename\": \"Rud. Jak.\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Flachmaler\",\n      \"address\": \"R. Qr. Aarbergerg. * Nr. 43\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Aarbergerg.\",\n      \"house_no\": \"43\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Wasem, Rud. Jak., gew. Flachmaler, R. Qr. Aarbergerg. * Nr. 43. H.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Waser\",\n      \"forename\": \"David Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"Stubenschreiber\",\n      \"address\": \"W. Qr. Klapperläubli Stalden Nr. 17\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Klapperläubli Stalden\",\n      \"house_no\": \"17\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Waser, David Albr., Stubenschreiber, W. Qr. Klapperläubli Stalden Nr. 17. H. u. B.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Waser\",\n      \"forename\": \"Franz Wilh.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Brüggfeld, Länggaßdrittel Nr. 233\",\n      \"quarter\": \"\",\n      \"street\": \"Brüggfeld, Länggaßdrittel\",\n      \"house_no\": \"233\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Waser, Franz Wilh., Brüggfeld, Länggaßdrittel Nr. 233. H.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Waßmer\",\n      \"forename\": \"Joh. Bapt.\",\n      \"title\": \"\",\n      \"occupation\": \"Eisenhandelsm.\",\n      \"address\": \"R. Qr. Aarbergerg. * Nr. 43\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Aarbergerg.\",\n      \"house_no\": \"43\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Waßmer, Joh. Bapt., Eisenhandelsm., R. Qr. Aarbergerg. * Nr. 43.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Watt\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Stadtpolizeidirektor\",\n      \"address\": \"Gb. Qr. Marktg. S. Nr. 57\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"57\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Watt, David, Stadtpolizeidirektor, Gb. Qr. Marktg. S. Nr. 57.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Alb. Karl\",\n      \"title\": \"v.\",\n      \"occupation\": \"\",\n      \"address\": \"in Gerzensee\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"von Belp\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Alb. Karl, von Belp, in Gerzensee. B.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Albr.\",\n      \"title\": \"v.\",\n      \"occupation\": \"alt Oberamtmann von Konolfingen\",\n      \"address\": \"R. Qr. Spitalg. * Nr. 124\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Spitalg.\",\n      \"house_no\": \"124\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Albr., alt Oberamtmann von Konolfingen, R. Qr. Spitalg. * Nr. 124. B.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Bernh.\",\n      \"title\": \"v.\",\n      \"occupation\": \"\",\n      \"address\": \"Gn. Qr. Schulg. S. Nr. 329\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Schulg.\",\n      \"house_no\": \"329\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Wattenwyl, v., Bernh., Gn. Qr. Schulg. S. Nr. 329. H. u. B.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Bernh. Ferd.\",\n      \"title\": \"v.\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"von Loins u. Bursinel\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Bernh. Ferd., von Loins u. Bursinel. B.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Bernh. Frdr.\",\n      \"title\": \"v.\",\n      \"occupation\": \"gew. geh. Rathschreiber\",\n      \"address\": \"landesabw.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Bernh. Frdr., gew. geh. Rathschreiber, landesabw. B.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Bernh. Sigm.\",\n      \"title\": \"v.\",\n      \"occupation\": \"\",\n      \"address\": \"Gn. Qr. Herrengasse Nr. 329\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Herrengasse\",\n      \"house_no\": \"329\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"allié Lentulus; B.\",\n      \"text\": \"Wattenwyl, v., Bernh. Sigm., allié Lentulus, Gn. Qr. Herrengasse Nr. 329. B.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Dav. Rud.\",\n      \"title\": \"v.\",\n      \"occupation\": \"gew. Appellationsrichter\",\n      \"address\": \"Gb. Qr. Weibermarkt Nr. 34\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Weibermarkt\",\n      \"house_no\": \"34\",\n      \"origin\": \"v. Peterlingen\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wattenwyl, v., Dav. Rud., v. Peterlingen, gew. Appellationsrichter, Gb. Qr. Weibermarkt Nr. 34.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Eml.\",\n      \"title\": \"v.\",\n      \"occupation\": \"Hauptm.\",\n      \"address\": \"R. Qr. Spitalg. S. Nr. 154. Schosshaldendr. Nr. 80, 81, 82 u. 91\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Spitalg.\",\n      \"house_no\": \"154, 80, 81, 82 u. 91\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"allié v. Hugspurger; H. u. B.\",\n      \"text\": \"Wattenwyl, v., Eml., allié v. Hugspurger, Hauptm., R. Qr. Spitalg. S. Nr. 154. Schosshaldendr. Nr. 80, 81, 82 u. 91. H. u. B.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"\",\n      \"title\": \"v., Erbschaft des gew. Amtsschultheiß\",\n      \"occupation\": \"\",\n      \"address\": \"Gb. Qr. Marktg. S. Nr. 72 u. 117\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"72 u. 117\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Wattenwyl, v., Erbschaft des gew. Amtsschultheiß, Gb. Qr. Marktg. S. Nr. 72 u. 117. H. u. B.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Albr. Karl\",\n      \"title\": \"v.\",\n      \"occupation\": \"\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. S. Nr. 198\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"198\",\n      \"origin\": \"von Oberhofen\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Albr. Karl, von Oberhofen, W. Qr. Gerechtigkeitsg. S. Nr. 198. B.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl-Stettler\",\n      \"forename\": \"Em.\",\n      \"title\": \"v.\",\n      \"occupation\": \"gew. Oberstlieut.\",\n      \"address\": \"Gb. Qr. Marktg. * Nr. 40\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"40\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl-Stettler, v., Em., gew. Oberstlieut., Gb. Qr. Marktg. * Nr. 40. B.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Franz Friedr.\",\n      \"title\": \"v.\",\n      \"occupation\": \"gew. Generalmajor in engl. Diensten\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. * Nr. 90\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"90\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Franz Friedr., gew. Generalmajor in engl. Diensten, W. Qr. Gerechtigkeitsg. * Nr. 90. B.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Franz Vikt.\",\n      \"title\": \"v.\",\n      \"occupation\": \"gew. Quartiermstr. in Holland\",\n      \"address\": \"Gb. Qr. Inselg. S. Nr. 136\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Inselg.\",\n      \"house_no\": \"136\",\n      \"origin\": \"von Blankenburg\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Franz Vikt., von Blankenburg, gew. Quartiermstr. in Holland, Gb. Qr. Inselg. S. Nr. 136. B.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"\",\n      \"title\": \"v.\",\n      \"occupation\": \"Weinnegot.\",\n      \"address\": \"R. Qr. zwischen den Thoren Nr. 180—182 und 124\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"zwischen den Thoren\",\n      \"house_no\": \"180—182 und 124\",\n      \"origin\": \"von Malessert\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wattenwyl v., von Malessert, Weinnegot., R. Qr. zwischen den Thoren Nr. 180—182 und 124.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Frd.\",\n      \"title\": \"v.\",\n      \"occupation\": \"Offizier in Neapel\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"von Loins\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., von Loins, Frd., Offizier in Neapel. B.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl-Frisching\",\n      \"forename\": \"Frd. Ludw.\",\n      \"title\": \"v.\",\n      \"occupation\": \"\",\n      \"address\": \"W. Qr. Junkerng. S. Nr. 167\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerng.\",\n      \"house_no\": \"167\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl-Frisching, v., Frd. Ludw., W. Qr. Junkerng. S. Nr. 167. B.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"\",\n      \"title\": \"v., Gebrüder\",\n      \"occupation\": \"\",\n      \"address\": \"Brunnaderndrittel, Klösterli, Nr. 1, 2 u. 3\",\n      \"quarter\": \"\",\n      \"street\": \"Brunnaderndrittel, Klösterli\",\n      \"house_no\": \"1, 2 u. 3\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Wattenwyl, v., Gebrüder, Brunnaderndrittel, Klösterli, Nr. 1, 2 u. 3. H. u. B.\"\n    },\n    {\n      \"line_from\": 46,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Gottl.\",\n      \"title\": \"v.\",\n      \"occupation\": \"Theolog. Cand.\",\n      \"address\": \"landesabwesend\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Gottl., Theolog. Cand., landesabwesend. B.\"\n    },\n    {\n      \"line_from\": 47,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"\",\n      \"title\": \"v., General\",\n      \"occupation\": \"\",\n      \"address\": \"Schosshaldendrittel Nr. 38—40. W. Qr. Gerechtigkeitsg. * Nr. 90\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"38—40, 90\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Wattenwyl, v., General, Schosshaldendrittel Nr. 38—40. W. Qr. Gerechtigkeitsg. * Nr. 90. H. u. B.\"\n    },\n    {\n      \"line_from\": 49,\n      \"line_to\": 49,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl-d'Albert\",\n      \"forename\": \"\",\n      \"title\": \"v.\",\n      \"occupation\": \"\",\n      \"address\": \"Gb. Qr. Marktg. S. Nr. 91\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"91\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl-d'Albert, v., Gb. Qr. Marktg. S. Nr. 91. B.\"\n    },\n    {\n      \"line_from\": 50,\n      \"line_to\": 51,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Karl Friedr. Alex.\",\n      \"title\": \"v.\",\n      \"occupation\": \"Weinnegot.\",\n      \"address\": \"Gb. Qr. Inselg. S. Nr. 136\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Inselg.\",\n      \"house_no\": \"136\",\n      \"origin\": \"von Blankenburg\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Karl Friedr. Alex., von Blankenburg, Weinnegot., Gb. Qr. Inselg. S. Nr. 136. B.\"\n    },\n    {\n      \"line_from\": 52,\n      \"line_to\": 54,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Karl Ludw.\",\n      \"title\": \"v.\",\n      \"occupation\": \"Obergerichtspräsident\",\n      \"address\": \"R. Qr. zwischen den Thoren Nr. 180—182 u. 124. Länggaßdrittel Nr. 197\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"zwischen den Thoren\",\n      \"house_no\": \"180—182 u. 124, 197\",\n      \"origin\": \"von Montbenay\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Wattenwyl, v., Karl Ludw., von Montbenay, Obergerichtspräsident, R. Qr. zwischen den Thoren Nr. 180—182 u. 124. Länggaßdrittel Nr. 197. H. u. B.\"\n    },\n    {\n      \"line_from\": 55,\n      \"line_to\": 56,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Karl Ludw.\",\n      \"title\": \"v.\",\n      \"occupation\": \"gewes. Generalmajor in engl. Diensten\",\n      \"address\": \"zu Rubigen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"von Rubigen\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Karl Ludw., von Rubigen, gewes. Generalmajor in engl. Diensten, zu Rubigen. B.\"\n    },\n    {\n      \"line_from\": 57,\n      \"line_to\": 58,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wattenwyl\",\n      \"forename\": \"Karl Salom.\",\n      \"title\": \"v.\",\n      \"occupation\": \"alt Landv. von Sumiswald\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. S. Nr. 118\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"118\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Wattenwyl, v., Karl Salom., alt Landv. von Sumiswald, W. Qr. Gerechtigkeitsg. S. Nr. 118. B.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "108",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "108"
+   },
+   {
+    "n": 2,
+    "text": "Walthardt, Pfarrer zu Unterseen. B."
+   },
+   {
+    "n": 3,
+    "text": "Walther, Albr., Schneidermstr., Marchand, Gn. Qr. Hotellaube S."
+   },
+   {
+    "n": 4,
+    "text": "Nr. 235."
+   },
+   {
+    "n": 5,
+    "text": "Walther, Christ., Schuhmachermstr., Altenbergdrittel auf dem Berg"
+   },
+   {
+    "n": 6,
+    "text": "Nr. 130. Gb. Qr. Kramg. S. Nr. 203."
+   },
+   {
+    "n": 7,
+    "text": "Walther, Friedr., Gb. Qr. Zeughausplatz ✠ Nr. 6 u. 7. W. Qr. Ge-"
+   },
+   {
+    "n": 8,
+    "text": "rechtigkeitsgasse ✠ Nr. 145."
+   },
+   {
+    "n": 9,
+    "text": "Walther, Joh. Friedr., Eisenhandelsmann, Gn. Qr. Zeughausgasse"
+   },
+   {
+    "n": 10,
+    "text": "S. Nr. 6. H. u. B."
+   },
+   {
+    "n": 11,
+    "text": "Walther, Ludw. Gottl., Engemeister, Länggaßdrittel Nr. 247. B."
+   },
+   {
+    "n": 12,
+    "text": "Wasem, Rud. Jak., gew. Flachmaler, R. Qr. Aarbergerg. ✠ Nr. 43. H."
+   },
+   {
+    "n": 13,
+    "text": "Waser, David Albr., Stubenschreiber, W. Qr. Klapperläubli Stalden"
+   },
+   {
+    "n": 14,
+    "text": "Nr. 17. H. u. B."
+   },
+   {
+    "n": 15,
+    "text": "Waser, Franz Wilh., Brüggfeld, Länggaßdrittel Nr. 233. H."
+   },
+   {
+    "n": 16,
+    "text": "Waßmer, Joh. Bapt., Eisenhandelsm., R. Qr. Aarbergerg. ✠ Nr. 43."
+   },
+   {
+    "n": 17,
+    "text": "Watt, David, Stadtpolizeidirektor, Gb. Qr. Marktg. S. Nr. 57."
+   },
+   {
+    "n": 18,
+    "text": "Wattenwyl, v., Alb. Karl, von Belp, in Gerzensee. B."
+   },
+   {
+    "n": 19,
+    "text": "Wattenwyl, v., Albr., alt Oberamtmann von Konolfingen, R. Qr."
+   },
+   {
+    "n": 20,
+    "text": "Spitalg. ✠ Nr. 124. B."
+   },
+   {
+    "n": 21,
+    "text": "Wattenwyl, v., Bernh., Gn. Qr. Schulg. S. Nr. 329. H. u. B."
+   },
+   {
+    "n": 22,
+    "text": "Wattenwyl, v., Bernh. Ferd., von Loins u. Bursinel. B."
+   },
+   {
+    "n": 23,
+    "text": "Wattenwyl, v., Bernh. Frdr., gew. geh. Rathschreiber, landesabw. B."
+   },
+   {
+    "n": 24,
+    "text": "Wattenwyl, v., Bernh. Sigm., allié Lentulus, Gn. Qr. Herrengasse"
+   },
+   {
+    "n": 25,
+    "text": "Nr. 329. B."
+   },
+   {
+    "n": 26,
+    "text": "Wattenwyl, v., Dav. Rud., v. Peterlingen, gew. Appellationsrichter,"
+   },
+   {
+    "n": 27,
+    "text": "Gb. Qr. Weibermarkt Nr. 34."
+   },
+   {
+    "n": 28,
+    "text": "Wattenwyl, v., Eml., allié v. Hugspurger, Hauptm., R. Qr. Spitalg."
+   },
+   {
+    "n": 29,
+    "text": "S. Nr. 154. Schosshaldendr. Nr. 80, 81, 82 u. 91. H. u. B."
+   },
+   {
+    "n": 30,
+    "text": "Wattenwyl, v., Erbschaft des gew. Amtsschultheiß, Gb. Qr. Marktg."
+   },
+   {
+    "n": 31,
+    "text": "S. Nr. 72 u. 117. H. u. B."
+   },
+   {
+    "n": 32,
+    "text": "Wattenwyl, v., Albr. Karl, von Oberhofen, W. Qr. Gerechtigkeitsg."
+   },
+   {
+    "n": 33,
+    "text": "S. Nr. 198. B."
+   },
+   {
+    "n": 34,
+    "text": "Wattenwyl-Stettler, v., Em., gew. Oberstlieut., Gb. Qr. Marktg."
+   },
+   {
+    "n": 35,
+    "text": "✠ Nr. 40. B."
+   },
+   {
+    "n": 36,
+    "text": "Wattenwyl, v., Franz Friedr., gew. Generalmajor in engl. Diensten,"
+   },
+   {
+    "n": 37,
+    "text": "W. Qr. Gerechtigkeitsg. ✠ Nr. 90. B."
+   },
+   {
+    "n": 38,
+    "text": "Wattenwyl, v., Franz Vikt., von Blankenburg, gew. Quartiermstr."
+   },
+   {
+    "n": 39,
+    "text": "in Holland, Gb. Qr. Inselg. S. Nr. 136. B."
+   },
+   {
+    "n": 40,
+    "text": "Wattenwyl v., von Malessert, Weinnegot., R. Qr. zwischen den Thoren"
+   },
+   {
+    "n": 41,
+    "text": "Nr. 180—182 und 124."
+   },
+   {
+    "n": 42,
+    "text": "Wattenwyl, v., von Loins, Frd., Offizier in Neapel. B."
+   },
+   {
+    "n": 43,
+    "text": "Wattenwyl-Frisching, v., Frd. Ludw., W. Qr. Junkerng. S. Nr. 167. B."
+   },
+   {
+    "n": 44,
+    "text": "Wattenwyl, v., Gebrüder, Brunnaderndrittel, Klösterli, Nr. 1, 2 u. 3."
+   },
+   {
+    "n": 45,
+    "text": "H. u. B."
+   },
+   {
+    "n": 46,
+    "text": "Wattenwyl, v., Gottl., Theolog. Cand., landesabwesend. B."
+   },
+   {
+    "n": 47,
+    "text": "Wattenwyl, v., General, Schosshaldendrittel Nr. 38—40. W. Qr."
+   },
+   {
+    "n": 48,
+    "text": "Gerechtigkeitsg. ✠ Nr. 90. H. u. B."
+   },
+   {
+    "n": 49,
+    "text": "Wattenwyl-d'Albert, v., Gb. Qr. Marktg. S. Nr. 91. B."
+   },
+   {
+    "n": 50,
+    "text": "Wattenwyl, v., Karl Friedr. Alex., von Blankenburg, Weinnegot.,"
+   },
+   {
+    "n": 51,
+    "text": "Gb. Qr. Inselg. S. Nr. 136. B."
+   },
+   {
+    "n": 52,
+    "text": "Wattenwyl, v., Karl Ludw., von Montbenay, Obergerichtspräsident,"
+   },
+   {
+    "n": 53,
+    "text": "R. Qr. zwischen den Thoren Nr. 180—182 u. 124. Läng-"
+   },
+   {
+    "n": 54,
+    "text": "gaßdrittel Nr. 197. H. u. B."
+   },
+   {
+    "n": 55,
+    "text": "Wattenwyl, v., Karl Ludw., von Rubigen, gewes. Generalmajor in"
+   },
+   {
+    "n": 56,
+    "text": "engl. Diensten, zu Rubigen. B."
+   },
+   {
+    "n": 57,
+    "text": "Wattenwyl, v., Karl Salom., alt Landv. von Sumiswald, W. Qr."
+   },
+   {
+    "n": 58,
+    "text": "Gerechtigkeitsg. S. Nr. 118. B."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Walthardt",
+    "forename": "",
+    "title": "",
+    "occupation": "Pfarrer zu Unterseen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Walthardt, Pfarrer zu Unterseen. B."
+   },
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Albr.",
+    "title": "",
+    "occupation": "Schneidermstr., Marchand",
+    "address": "Gn. Qr. Hotellaube S. Nr. 235",
+    "quarter": "Gn. Qr.",
+    "street": "Hotellaube",
+    "house_no": "235",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Walther, Albr., Schneidermstr., Marchand, Gn. Qr. Hotellaube S. Nr. 235."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Christ.",
+    "title": "",
+    "occupation": "Schuhmachermstr.",
+    "address": "Altenbergdrittel auf dem Berg Nr. 130. Gb. Qr. Kramg. S. Nr. 203",
+    "quarter": "Gb. Qr.",
+    "street": "Kramg.",
+    "house_no": "130, 203",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Walther, Christ., Schuhmachermstr., Altenbergdrittel auf dem Berg Nr. 130. Gb. Qr. Kramg. S. Nr. 203."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Friedr.",
+    "title": "",
+    "occupation": "",
+    "address": "Gb. Qr. Zeughausplatz * Nr. 6 u. 7. W. Qr. Gerechtigkeitsgasse * Nr. 145",
+    "quarter": "Gb. Qr.",
+    "street": "Zeughausplatz",
+    "house_no": "6 u. 7, 145",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Walther, Friedr., Gb. Qr. Zeughausplatz * Nr. 6 u. 7. W. Qr. Gerechtigkeitsgasse * Nr. 145."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Joh. Friedr.",
+    "title": "",
+    "occupation": "Eisenhandelsmann",
+    "address": "Gn. Qr. Zeughausgasse S. Nr. 6",
+    "quarter": "Gn. Qr.",
+    "street": "Zeughausgasse",
+    "house_no": "6",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Walther, Joh. Friedr., Eisenhandelsmann, Gn. Qr. Zeughausgasse S. Nr. 6. H. u. B."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Ludw. Gottl.",
+    "title": "",
+    "occupation": "Engemeister",
+    "address": "Länggaßdrittel Nr. 247",
+    "quarter": "",
+    "street": "Länggaßdrittel",
+    "house_no": "247",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Walther, Ludw. Gottl., Engemeister, Länggaßdrittel Nr. 247. B."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wasem",
+    "forename": "Rud. Jak.",
+    "title": "",
+    "occupation": "gew. Flachmaler",
+    "address": "R. Qr. Aarbergerg. * Nr. 43",
+    "quarter": "R. Qr.",
+    "street": "Aarbergerg.",
+    "house_no": "43",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Wasem, Rud. Jak., gew. Flachmaler, R. Qr. Aarbergerg. * Nr. 43. H."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Waser",
+    "forename": "David Albr.",
+    "title": "",
+    "occupation": "Stubenschreiber",
+    "address": "W. Qr. Klapperläubli Stalden Nr. 17",
+    "quarter": "W. Qr.",
+    "street": "Klapperläubli Stalden",
+    "house_no": "17",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Waser, David Albr., Stubenschreiber, W. Qr. Klapperläubli Stalden Nr. 17. H. u. B."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Waser",
+    "forename": "Franz Wilh.",
+    "title": "",
+    "occupation": "",
+    "address": "Brüggfeld, Länggaßdrittel Nr. 233",
+    "quarter": "",
+    "street": "Brüggfeld, Länggaßdrittel",
+    "house_no": "233",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Waser, Franz Wilh., Brüggfeld, Länggaßdrittel Nr. 233. H."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Waßmer",
+    "forename": "Joh. Bapt.",
+    "title": "",
+    "occupation": "Eisenhandelsm.",
+    "address": "R. Qr. Aarbergerg. * Nr. 43",
+    "quarter": "R. Qr.",
+    "street": "Aarbergerg.",
+    "house_no": "43",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Waßmer, Joh. Bapt., Eisenhandelsm., R. Qr. Aarbergerg. * Nr. 43."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Watt",
+    "forename": "David",
+    "title": "",
+    "occupation": "Stadtpolizeidirektor",
+    "address": "Gb. Qr. Marktg. S. Nr. 57",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "57",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Watt, David, Stadtpolizeidirektor, Gb. Qr. Marktg. S. Nr. 57."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Alb. Karl",
+    "title": "v.",
+    "occupation": "",
+    "address": "in Gerzensee",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "von Belp",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Alb. Karl, von Belp, in Gerzensee. B."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Albr.",
+    "title": "v.",
+    "occupation": "alt Oberamtmann von Konolfingen",
+    "address": "R. Qr. Spitalg. * Nr. 124",
+    "quarter": "R. Qr.",
+    "street": "Spitalg.",
+    "house_no": "124",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Albr., alt Oberamtmann von Konolfingen, R. Qr. Spitalg. * Nr. 124. B."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Bernh.",
+    "title": "v.",
+    "occupation": "",
+    "address": "Gn. Qr. Schulg. S. Nr. 329",
+    "quarter": "Gn. Qr.",
+    "street": "Schulg.",
+    "house_no": "329",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Wattenwyl, v., Bernh., Gn. Qr. Schulg. S. Nr. 329. H. u. B."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Bernh. Ferd.",
+    "title": "v.",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "von Loins u. Bursinel",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Bernh. Ferd., von Loins u. Bursinel. B."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Bernh. Frdr.",
+    "title": "v.",
+    "occupation": "gew. geh. Rathschreiber",
+    "address": "landesabw.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Bernh. Frdr., gew. geh. Rathschreiber, landesabw. B."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Bernh. Sigm.",
+    "title": "v.",
+    "occupation": "",
+    "address": "Gn. Qr. Herrengasse Nr. 329",
+    "quarter": "Gn. Qr.",
+    "street": "Herrengasse",
+    "house_no": "329",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "allié Lentulus; B.",
+    "text": "Wattenwyl, v., Bernh. Sigm., allié Lentulus, Gn. Qr. Herrengasse Nr. 329. B."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Dav. Rud.",
+    "title": "v.",
+    "occupation": "gew. Appellationsrichter",
+    "address": "Gb. Qr. Weibermarkt Nr. 34",
+    "quarter": "Gb. Qr.",
+    "street": "Weibermarkt",
+    "house_no": "34",
+    "origin": "v. Peterlingen",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wattenwyl, v., Dav. Rud., v. Peterlingen, gew. Appellationsrichter, Gb. Qr. Weibermarkt Nr. 34."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Eml.",
+    "title": "v.",
+    "occupation": "Hauptm.",
+    "address": "R. Qr. Spitalg. S. Nr. 154. Schosshaldendr. Nr. 80, 81, 82 u. 91",
+    "quarter": "R. Qr.",
+    "street": "Spitalg.",
+    "house_no": "154, 80, 81, 82 u. 91",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "allié v. Hugspurger; H. u. B.",
+    "text": "Wattenwyl, v., Eml., allié v. Hugspurger, Hauptm., R. Qr. Spitalg. S. Nr. 154. Schosshaldendr. Nr. 80, 81, 82 u. 91. H. u. B."
+   },
+   {
+    "line_from": 30,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "",
+    "title": "v., Erbschaft des gew. Amtsschultheiß",
+    "occupation": "",
+    "address": "Gb. Qr. Marktg. S. Nr. 72 u. 117",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "72 u. 117",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Wattenwyl, v., Erbschaft des gew. Amtsschultheiß, Gb. Qr. Marktg. S. Nr. 72 u. 117. H. u. B."
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Albr. Karl",
+    "title": "v.",
+    "occupation": "",
+    "address": "W. Qr. Gerechtigkeitsg. S. Nr. 198",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "198",
+    "origin": "von Oberhofen",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Albr. Karl, von Oberhofen, W. Qr. Gerechtigkeitsg. S. Nr. 198. B."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl-Stettler",
+    "forename": "Em.",
+    "title": "v.",
+    "occupation": "gew. Oberstlieut.",
+    "address": "Gb. Qr. Marktg. * Nr. 40",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "40",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl-Stettler, v., Em., gew. Oberstlieut., Gb. Qr. Marktg. * Nr. 40. B."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Franz Friedr.",
+    "title": "v.",
+    "occupation": "gew. Generalmajor in engl. Diensten",
+    "address": "W. Qr. Gerechtigkeitsg. * Nr. 90",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "90",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Franz Friedr., gew. Generalmajor in engl. Diensten, W. Qr. Gerechtigkeitsg. * Nr. 90. B."
+   },
+   {
+    "line_from": 38,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Franz Vikt.",
+    "title": "v.",
+    "occupation": "gew. Quartiermstr. in Holland",
+    "address": "Gb. Qr. Inselg. S. Nr. 136",
+    "quarter": "Gb. Qr.",
+    "street": "Inselg.",
+    "house_no": "136",
+    "origin": "von Blankenburg",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Franz Vikt., von Blankenburg, gew. Quartiermstr. in Holland, Gb. Qr. Inselg. S. Nr. 136. B."
+   },
+   {
+    "line_from": 40,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "",
+    "title": "v.",
+    "occupation": "Weinnegot.",
+    "address": "R. Qr. zwischen den Thoren Nr. 180—182 und 124",
+    "quarter": "R. Qr.",
+    "street": "zwischen den Thoren",
+    "house_no": "180—182 und 124",
+    "origin": "von Malessert",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wattenwyl v., von Malessert, Weinnegot., R. Qr. zwischen den Thoren Nr. 180—182 und 124."
+   },
+   {
+    "line_from": 42,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Frd.",
+    "title": "v.",
+    "occupation": "Offizier in Neapel",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "von Loins",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., von Loins, Frd., Offizier in Neapel. B."
+   },
+   {
+    "line_from": 43,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl-Frisching",
+    "forename": "Frd. Ludw.",
+    "title": "v.",
+    "occupation": "",
+    "address": "W. Qr. Junkerng. S. Nr. 167",
+    "quarter": "W. Qr.",
+    "street": "Junkerng.",
+    "house_no": "167",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl-Frisching, v., Frd. Ludw., W. Qr. Junkerng. S. Nr. 167. B."
+   },
+   {
+    "line_from": 44,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "",
+    "title": "v., Gebrüder",
+    "occupation": "",
+    "address": "Brunnaderndrittel, Klösterli, Nr. 1, 2 u. 3",
+    "quarter": "",
+    "street": "Brunnaderndrittel, Klösterli",
+    "house_no": "1, 2 u. 3",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Wattenwyl, v., Gebrüder, Brunnaderndrittel, Klösterli, Nr. 1, 2 u. 3. H. u. B."
+   },
+   {
+    "line_from": 46,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Gottl.",
+    "title": "v.",
+    "occupation": "Theolog. Cand.",
+    "address": "landesabwesend",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Gottl., Theolog. Cand., landesabwesend. B."
+   },
+   {
+    "line_from": 47,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "",
+    "title": "v., General",
+    "occupation": "",
+    "address": "Schosshaldendrittel Nr. 38—40. W. Qr. Gerechtigkeitsg. * Nr. 90",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "38—40, 90",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Wattenwyl, v., General, Schosshaldendrittel Nr. 38—40. W. Qr. Gerechtigkeitsg. * Nr. 90. H. u. B."
+   },
+   {
+    "line_from": 49,
+    "line_to": 49,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl-d'Albert",
+    "forename": "",
+    "title": "v.",
+    "occupation": "",
+    "address": "Gb. Qr. Marktg. S. Nr. 91",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "91",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl-d'Albert, v., Gb. Qr. Marktg. S. Nr. 91. B."
+   },
+   {
+    "line_from": 50,
+    "line_to": 51,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Karl Friedr. Alex.",
+    "title": "v.",
+    "occupation": "Weinnegot.",
+    "address": "Gb. Qr. Inselg. S. Nr. 136",
+    "quarter": "Gb. Qr.",
+    "street": "Inselg.",
+    "house_no": "136",
+    "origin": "von Blankenburg",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Karl Friedr. Alex., von Blankenburg, Weinnegot., Gb. Qr. Inselg. S. Nr. 136. B."
+   },
+   {
+    "line_from": 52,
+    "line_to": 54,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Karl Ludw.",
+    "title": "v.",
+    "occupation": "Obergerichtspräsident",
+    "address": "R. Qr. zwischen den Thoren Nr. 180—182 u. 124. Länggaßdrittel Nr. 197",
+    "quarter": "R. Qr.",
+    "street": "zwischen den Thoren",
+    "house_no": "180—182 u. 124, 197",
+    "origin": "von Montbenay",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Wattenwyl, v., Karl Ludw., von Montbenay, Obergerichtspräsident, R. Qr. zwischen den Thoren Nr. 180—182 u. 124. Länggaßdrittel Nr. 197. H. u. B."
+   },
+   {
+    "line_from": 55,
+    "line_to": 56,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Karl Ludw.",
+    "title": "v.",
+    "occupation": "gewes. Generalmajor in engl. Diensten",
+    "address": "zu Rubigen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "von Rubigen",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Karl Ludw., von Rubigen, gewes. Generalmajor in engl. Diensten, zu Rubigen. B."
+   },
+   {
+    "line_from": 57,
+    "line_to": 58,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wattenwyl",
+    "forename": "Karl Salom.",
+    "title": "v.",
+    "occupation": "alt Landv. von Sumiswald",
+    "address": "W. Qr. Gerechtigkeitsg. S. Nr. 118",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "118",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Wattenwyl, v., Karl Salom., alt Landv. von Sumiswald, W. Qr. Gerechtigkeitsg. S. Nr. 118. B."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:20:26+01:00",
+ "last_error": null
+}

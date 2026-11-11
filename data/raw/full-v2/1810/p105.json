@@ -1,0 +1,470 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 105,
+ "section": "ville",
+ "started": "2026-11-11T20:57:02+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 65.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2301,
+  "output": 3804,
+  "thoughts": 5257
+ },
+ "response_text": "{\n  \"printed_page\": \"32\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"32\"},\n    {\"n\": 2, \"text\": \"Médecine véterinaire.\"},\n    {\"n\": 3, \"text\": \"Emmert, Frèd., cadet, Docteur et\"},\n    {\"n\": 4, \"text\": \"Professeur. … Q. j. 135.\"},\n    {\"n\": 5, \"text\": \"Forrer, Chrètien, Véterinaire pour\"},\n    {\"n\": 6, \"text\": \"chevaux. … — j. 29.\"},\n    {\"n\": 7, \"text\": \"Mercerie et Modes.\"},\n    {\"n\": 8, \"text\": \"Amalric, les sœurs, Modes. … Q. v. 222.\"},\n    {\"n\": 9, \"text\": \"Brounner, Jean Daniel, Mercerie,\"},\n    {\"n\": 10, \"text\": \"toiles et diverses étoffes. … — v. 226.\"},\n    {\"n\": 11, \"text\": \"Dürrig, Madame, Modes et Mer-\"},\n    {\"n\": 12, \"text\": \"cerie. … — v. 208.\"},\n    {\"n\": 13, \"text\": \"Eggimann, les sœurs, Modes. … — v. 189.\"},\n    {\"n\": 14, \"text\": \"Fucter, les sœurs, et Comp., Mer-\"},\n    {\"n\": 15, \"text\": \"cerie et diverses étoffes. … — j. 59.\"},\n    {\"n\": 16, \"text\": \"Gerber, J. Em., Mercerie. … — v. 146.\"},\n    {\"n\": 17, \"text\": \"Gerber, Rod. Frèd.. Mercerie, In-\"},\n    {\"n\": 18, \"text\": \"diennes et diverses étoffes. … — v. 140.\"},\n    {\"n\": 19, \"text\": \"G'feller, Jaques, fils, Mercerie. … — v. 226.\"},\n    {\"n\": 20, \"text\": \"Kurz - Frouting, Mercerie, Modes,\"},\n    {\"n\": 21, \"text\": \"et diverses étoffes. … — j. 71.\"},\n    {\"n\": 22, \"text\": \"Lang, Mademoiselle, Modes. … — v. 147.\"},\n    {\"n\": 23, \"text\": \"Maser, Samuel, Mercerie, toiles,\"},\n    {\"n\": 24, \"text\": \"diverses étoffes et autres objets\"},\n    {\"n\": 25, \"text\": \"de mode. … — v. 188.\"},\n    {\"n\": 26, \"text\": \"Molzheim, J. G., Modes et Mercerie. — v. 210.\"},\n    {\"n\": 27, \"text\": \"Neuenschwander, Mercerie, étoffes\"},\n    {\"n\": 28, \"text\": \"et bonneterie de laine. … — j. 64.\"},\n    {\"n\": 29, \"text\": \"Nichans, Madame, Modes. … — bl. 105.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Médecine véterinaire.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Emmert\",\n      \"forename\": \"Frèd.\",\n      \"title\": \"cadet\",\n      \"occupation\": \"Docteur et Professeur\",\n      \"address\": \"Q. j. 135\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"135\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Emmert, Frèd., cadet, Docteur et Professeur. Q. j. 135.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Médecine véterinaire.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Forrer\",\n      \"forename\": \"Chrètien\",\n      \"title\": \"\",\n      \"occupation\": \"Véterinaire pour chevaux\",\n      \"address\": \"— j. 29\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"29\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Forrer, Chrètien, Véterinaire pour chevaux. — j. 29.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"firma\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Amalric\",\n      \"forename\": \"\",\n      \"title\": \"les sœurs\",\n      \"occupation\": \"Modes\",\n      \"address\": \"Q. v. 222\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"222\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Amalric, les sœurs, Modes. Q. v. 222.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brounner\",\n      \"forename\": \"Jean Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Mercerie, toiles et diverses étoffes\",\n      \"address\": \"— v. 226\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"226\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brounner, Jean Daniel, Mercerie, toiles et diverses étoffes. — v. 226.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dürrig\",\n      \"forename\": \"\",\n      \"title\": \"Madame\",\n      \"occupation\": \"Modes et Mercerie\",\n      \"address\": \"— v. 208\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"208\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dürrig, Madame, Modes et Mercerie. — v. 208.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"firma\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eggimann\",\n      \"forename\": \"\",\n      \"title\": \"les sœurs\",\n      \"occupation\": \"Modes\",\n      \"address\": \"— v. 189\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"189\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eggimann, les sœurs, Modes. — v. 189.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"firma\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fucter\",\n      \"forename\": \"\",\n      \"title\": \"les sœurs, et Comp.\",\n      \"occupation\": \"Mercerie et diverses étoffes\",\n      \"address\": \"— j. 59\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"59\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fucter, les sœurs, et Comp., Mercerie et diverses étoffes. — j. 59.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerber\",\n      \"forename\": \"J. Em.\",\n      \"title\": \"\",\n      \"occupation\": \"Mercerie\",\n      \"address\": \"— v. 146\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"146\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gerber, J. Em., Mercerie. — v. 146.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerber\",\n      \"forename\": \"Rod. Frèd.\",\n      \"title\": \"\",\n      \"occupation\": \"Mercerie, Indiennes et diverses étoffes\",\n      \"address\": \"— v. 140\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"140\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gerber, Rod. Frèd.. Mercerie, Indiennes et diverses étoffes. — v. 140.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"G'feller\",\n      \"forename\": \"Jaques\",\n      \"title\": \"fils\",\n      \"occupation\": \"Mercerie\",\n      \"address\": \"— v. 226\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"226\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"G'feller, Jaques, fils, Mercerie. — v. 226.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"firma\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kurz - Frouting\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Mercerie, Modes, et diverses étoffes\",\n      \"address\": \"— j. 71\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"71\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kurz - Frouting, Mercerie, Modes, et diverses étoffes. — j. 71.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lang\",\n      \"forename\": \"\",\n      \"title\": \"Mademoiselle\",\n      \"occupation\": \"Modes\",\n      \"address\": \"— v. 147\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"147\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lang, Mademoiselle, Modes. — v. 147.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Maser\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Mercerie, toiles, diverses étoffes et autres objets de mode\",\n      \"address\": \"— v. 188\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"188\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Maser, Samuel, Mercerie, toiles, diverses étoffes et autres objets de mode. — v. 188.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Molzheim\",\n      \"forename\": \"J. G.\",\n      \"title\": \"\",\n      \"occupation\": \"Modes et Mercerie\",\n      \"address\": \"— v. 210\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"210\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Molzheim, J. G., Modes et Mercerie. — v. 210.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Neuenschwander\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Mercerie, étoffes et bonneterie de laine\",\n      \"address\": \"— j. 64\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"64\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Neuenschwander, Mercerie, étoffes et bonneterie de laine. — j. 64.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Mercerie et Modes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nichans\",\n      \"forename\": \"\",\n      \"title\": \"Madame\",\n      \"occupation\": \"Modes\",\n      \"address\": \"— bl. 105\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"105\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Nichans, Madame, Modes. — bl. 105.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "32",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "32"
+   },
+   {
+    "n": 2,
+    "text": "Médecine véterinaire."
+   },
+   {
+    "n": 3,
+    "text": "Emmert, Frèd., cadet, Docteur et"
+   },
+   {
+    "n": 4,
+    "text": "Professeur. … Q. j. 135."
+   },
+   {
+    "n": 5,
+    "text": "Forrer, Chrètien, Véterinaire pour"
+   },
+   {
+    "n": 6,
+    "text": "chevaux. … — j. 29."
+   },
+   {
+    "n": 7,
+    "text": "Mercerie et Modes."
+   },
+   {
+    "n": 8,
+    "text": "Amalric, les sœurs, Modes. … Q. v. 222."
+   },
+   {
+    "n": 9,
+    "text": "Brounner, Jean Daniel, Mercerie,"
+   },
+   {
+    "n": 10,
+    "text": "toiles et diverses étoffes. … — v. 226."
+   },
+   {
+    "n": 11,
+    "text": "Dürrig, Madame, Modes et Mer-"
+   },
+   {
+    "n": 12,
+    "text": "cerie. … — v. 208."
+   },
+   {
+    "n": 13,
+    "text": "Eggimann, les sœurs, Modes. … — v. 189."
+   },
+   {
+    "n": 14,
+    "text": "Fucter, les sœurs, et Comp., Mer-"
+   },
+   {
+    "n": 15,
+    "text": "cerie et diverses étoffes. … — j. 59."
+   },
+   {
+    "n": 16,
+    "text": "Gerber, J. Em., Mercerie. … — v. 146."
+   },
+   {
+    "n": 17,
+    "text": "Gerber, Rod. Frèd.. Mercerie, In-"
+   },
+   {
+    "n": 18,
+    "text": "diennes et diverses étoffes. … — v. 140."
+   },
+   {
+    "n": 19,
+    "text": "G'feller, Jaques, fils, Mercerie. … — v. 226."
+   },
+   {
+    "n": 20,
+    "text": "Kurz - Frouting, Mercerie, Modes,"
+   },
+   {
+    "n": 21,
+    "text": "et diverses étoffes. … — j. 71."
+   },
+   {
+    "n": 22,
+    "text": "Lang, Mademoiselle, Modes. … — v. 147."
+   },
+   {
+    "n": 23,
+    "text": "Maser, Samuel, Mercerie, toiles,"
+   },
+   {
+    "n": 24,
+    "text": "diverses étoffes et autres objets"
+   },
+   {
+    "n": 25,
+    "text": "de mode. … — v. 188."
+   },
+   {
+    "n": 26,
+    "text": "Molzheim, J. G., Modes et Mercerie. — v. 210."
+   },
+   {
+    "n": 27,
+    "text": "Neuenschwander, Mercerie, étoffes"
+   },
+   {
+    "n": 28,
+    "text": "et bonneterie de laine. … — j. 64."
+   },
+   {
+    "n": 29,
+    "text": "Nichans, Madame, Modes. … — bl. 105."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Médecine véterinaire.",
+    "place": "Bern",
+    "surname": "Emmert",
+    "forename": "Frèd.",
+    "title": "cadet",
+    "occupation": "Docteur et Professeur",
+    "address": "Q. j. 135",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "135",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Emmert, Frèd., cadet, Docteur et Professeur. Q. j. 135."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Médecine véterinaire.",
+    "place": "Bern",
+    "surname": "Forrer",
+    "forename": "Chrètien",
+    "title": "",
+    "occupation": "Véterinaire pour chevaux",
+    "address": "— j. 29",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "29",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Forrer, Chrètien, Véterinaire pour chevaux. — j. 29."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "firma",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Amalric",
+    "forename": "",
+    "title": "les sœurs",
+    "occupation": "Modes",
+    "address": "Q. v. 222",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "222",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Amalric, les sœurs, Modes. Q. v. 222."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Brounner",
+    "forename": "Jean Daniel",
+    "title": "",
+    "occupation": "Mercerie, toiles et diverses étoffes",
+    "address": "— v. 226",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "226",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brounner, Jean Daniel, Mercerie, toiles et diverses étoffes. — v. 226."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Dürrig",
+    "forename": "",
+    "title": "Madame",
+    "occupation": "Modes et Mercerie",
+    "address": "— v. 208",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "208",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dürrig, Madame, Modes et Mercerie. — v. 208."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "firma",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Eggimann",
+    "forename": "",
+    "title": "les sœurs",
+    "occupation": "Modes",
+    "address": "— v. 189",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "189",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eggimann, les sœurs, Modes. — v. 189."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "firma",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Fucter",
+    "forename": "",
+    "title": "les sœurs, et Comp.",
+    "occupation": "Mercerie et diverses étoffes",
+    "address": "— j. 59",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "59",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fucter, les sœurs, et Comp., Mercerie et diverses étoffes. — j. 59."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Gerber",
+    "forename": "J. Em.",
+    "title": "",
+    "occupation": "Mercerie",
+    "address": "— v. 146",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "146",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gerber, J. Em., Mercerie. — v. 146."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Gerber",
+    "forename": "Rod. Frèd.",
+    "title": "",
+    "occupation": "Mercerie, Indiennes et diverses étoffes",
+    "address": "— v. 140",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "140",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gerber, Rod. Frèd.. Mercerie, Indiennes et diverses étoffes. — v. 140."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "G'feller",
+    "forename": "Jaques",
+    "title": "fils",
+    "occupation": "Mercerie",
+    "address": "— v. 226",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "226",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "G'feller, Jaques, fils, Mercerie. — v. 226."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "firma",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Kurz - Frouting",
+    "forename": "",
+    "title": "",
+    "occupation": "Mercerie, Modes, et diverses étoffes",
+    "address": "— j. 71",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "71",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kurz - Frouting, Mercerie, Modes, et diverses étoffes. — j. 71."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Lang",
+    "forename": "",
+    "title": "Mademoiselle",
+    "occupation": "Modes",
+    "address": "— v. 147",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "147",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lang, Mademoiselle, Modes. — v. 147."
+   },
+   {
+    "line_from": 23,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Maser",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Mercerie, toiles, diverses étoffes et autres objets de mode",
+    "address": "— v. 188",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "188",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Maser, Samuel, Mercerie, toiles, diverses étoffes et autres objets de mode. — v. 188."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Molzheim",
+    "forename": "J. G.",
+    "title": "",
+    "occupation": "Modes et Mercerie",
+    "address": "— v. 210",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "210",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Molzheim, J. G., Modes et Mercerie. — v. 210."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Neuenschwander",
+    "forename": "",
+    "title": "",
+    "occupation": "Mercerie, étoffes et bonneterie de laine",
+    "address": "— j. 64",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "64",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Neuenschwander, Mercerie, étoffes et bonneterie de laine. — j. 64."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Mercerie et Modes.",
+    "place": "Bern",
+    "surname": "Nichans",
+    "forename": "",
+    "title": "Madame",
+    "occupation": "Modes",
+    "address": "— bl. 105",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "105",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nichans, Madame, Modes. — bl. 105."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:58:07+01:00",
+ "last_error": null
+}

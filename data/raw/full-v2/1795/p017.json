@@ -1,0 +1,370 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 17,
+ "section": "handbuch",
+ "started": "2026-11-11T20:46:51+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 22.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 2292,
+  "thoughts": null
+ },
+ "response_text": "{\"printed_page\": \"15\", \"running_head\": \"Arau.\", \"lines\": [{\"n\": 1, \"text\": \"Arau. 15\"}, {\"n\": 2, \"text\": \"Herr\"}, {\"n\": 3, \"text\": \"Joh. Georg Hunzikers (seel. Wittib) hält\"}, {\"n\": 4, \"text\": \"eine Güter-Fuhr nach Basel, welche alle Freitag\"}, {\"n\": 5, \"text\": \"hier abfährt.\"}, {\"n\": 6, \"text\": \"Johannes Herrosee, Indiennen und Türken-\"}, {\"n\": 7, \"text\": \"garn Fabrikant, führt zugleich einen Détail in Tuch\"}, {\"n\": 8, \"text\": \"und verschiedene andere Waaren.\"}, {\"n\": 9, \"text\": \"Andreas Hagnauer, jünger, verkauft Waaren\"}, {\"n\": 10, \"text\": \"von feinem Glas, Fayence englischer Erde 2c.\"}, {\"n\": 11, \"text\": \"Johann Georg Hagenbuch, Ladenhändler.\"}, {\"n\": 12, \"text\": \"Joh. Rudolf Imhoof, führen eine Stahl,\"}, {\"n\": 13, \"text\": \"Eisen, Zinn, Bley, Messing- und Specereyhand-\"}, {\"n\": 14, \"text\": \"lung.\"}, {\"n\": 15, \"text\": \"Ludwig Imhoof, Zuckerbek, handelt zugleich\"}, {\"n\": 16, \"text\": \"mit Liqueur 2c.\"}, {\"n\": 17, \"text\": \"Samuel Landolt, verkauft im détail Tuch-\"}, {\"n\": 18, \"text\": \"waaren, Baumwollen = Zeug, seidene und andere\"}, {\"n\": 19, \"text\": \"Strümpfe 2c.\"}, {\"n\": 20, \"text\": \"Joh. Rudolf Meyer und Comp. haben eine sehr\"}, {\"n\": 21, \"text\": \"ansehnliche Seidenband = Fabrik.\"}, {\"n\": 22, \"text\": \"Joh. Rudolf Maurer, verkauft in großem ge-\"}, {\"n\": 23, \"text\": \"färbtes und ungefärbtes Baumwollgarn, und führt\"}, {\"n\": 24, \"text\": \"anbey eine Handlung im détail mit allerhand Tuch-\"}, {\"n\": 25, \"text\": \"waaren und Stoffen.\"}, {\"n\": 26, \"text\": \"Franz Moser, verkauft im détail verschiedene\"}, {\"n\": 27, \"text\": \"Arten von leinenen, wollenen und baumwollenen\"}, {\"n\": 28, \"text\": \"Tüchern, wie auch Specerey.\"}, {\"n\": 29, \"text\": \"Nüsperlin (Wittib,) verkauft alle Arten Fe-\"}], \"entries\": [{\"line_from\": 3, \"line_to\": 5, \"kind\": \"person\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Hunziker\", \"forename\": \"Joh. Georg\", \"title\": \"Herr, seel. Wittib\", \"occupation\": \"hält eine Güter-Fuhr nach Basel\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Joh. Georg Hunzikers (seel. Wittib) hält eine Güter-Fuhr nach Basel, welche alle Freitag hier abfährt.\"}, {\"line_from\": 6, \"line_to\": 8, \"kind\": \"person\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Herrosee\", \"forename\": \"Johannes\", \"title\": \"\", \"occupation\": \"Indiennen und Türkengarn Fabrikant, führt zugleich einen Détail in Tuch und verschiedene andere Waaren\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Johannes Herrosee, Indiennen und Türkengarn Fabrikant, führt zugleich einen Détail in Tuch und verschiedene andere Waaren.\"}, {\"line_from\": 9, \"line_to\": 10, \"kind\": \"person\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Hagnauer\", \"forename\": \"Andreas\", \"title\": \"jünger\", \"occupation\": \"verkauft Waaren von feinem Glas, Fayence englischer Erde 2c.\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Andreas Hagnauer, jünger, verkauft Waaren von feinem Glas, Fayence englischer Erde 2c.\"}, {\"line_from\": 11, \"line_to\": 11, \"kind\": \"person\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Hagenbuch\", \"forename\": \"Johann Georg\", \"title\": \"\", \"occupation\": \"Ladenhändler\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Johann Georg Hagenbuch, Ladenhändler.\"}, {\"line_from\": 12, \"line_to\": 14, \"kind\": \"person\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Imhoof\", \"forename\": \"Joh. Rudolf\", \"title\": \"\", \"occupation\": \"führen eine Stahl, Eisen, Zinn, Bley, Messing- und Specereyhandlung\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Joh. Rudolf Imhoof, führen eine Stahl, Eisen, Zinn, Bley, Messing- und Specereyhandlung.\"}, {\"line_from\": 15, \"line_to\": 16, \"kind\": \"person\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Imhoof\", \"forename\": \"Ludwig\", \"title\": \"\", \"occupation\": \"Zuckerbek, handelt zugleich mit Liqueur 2c.\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Ludwig Imhoof, Zuckerbek, handelt zugleich mit Liqueur 2c.\"}, {\"line_from\": 17, \"line_to\": 19, \"kind\": \"person\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Landolt\", \"forename\": \"Samuel\", \"title\": \"\", \"occupation\": \"verkauft im détail Tuchwaaren, Baumwollen = Zeug, seidene und andere Strümpfe 2c.\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Samuel Landolt, verkauft im détail Tuchwaaren, Baumwollen = Zeug, seidene und andere Strümpfe 2c.\"}, {\"line_from\": 20, \"line_to\": 21, \"kind\": \"firma\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Meyer\", \"forename\": \"Joh. Rudolf\", \"title\": \"und Comp.\", \"occupation\": \"haben eine sehr ansehnliche Seidenband = Fabrik\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Joh. Rudolf Meyer und Comp. haben eine sehr ansehnliche Seidenband = Fabrik.\"}, {\"line_from\": 22, \"line_to\": 25, \"kind\": \"person\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Maurer\", \"forename\": \"Joh. Rudolf\", \"title\": \"\", \"occupation\": \"verkauft in großem gefärbtes und ungefärbtes Baumwollgarn, und führt anbey eine Handlung im détail mit allerhand Tuchwaaren und Stoffen\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Joh. Rudolf Maurer, verkauft in großem gefärbtes und ungefärbtes Baumwollgarn, und führt anbey eine Handlung im détail mit allerhand Tuchwaaren und Stoffen.\"}, {\"line_from\": 26, \"line_to\": 28, \"kind\": \"person\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Moser\", \"forename\": \"Franz\", \"title\": \"\", \"occupation\": \"verkauft im détail verschiedene Arten von leinenen, wollenen und baumwollenen Tüchern, wie auch Specerey\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Franz Moser, verkauft im détail verschiedene Arten von leinenen, wollenen und baumwollenen Tüchern, wie auch Specerey.\"}, {\"line_from\": 29, \"line_to\": 29, \"kind\": \"person\", \"heading\": \"Arau.\", \"place\": \"Arau\", \"surname\": \"Nüsperlin\", \"forename\": \"\", \"title\": \"Wittib\", \"occupation\": \"verkauft alle Arten Fe-\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\", \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\", \"text\": \"Nüsperlin (Wittib,) verkauft alle Arten Fe-\"}], \"first_entry_continues\": false, \"last_entry_continues\": true, \"complete\": true}",
+ "parsed": {
+  "printed_page": "15",
+  "running_head": "Arau.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Arau. 15"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Joh. Georg Hunzikers (seel. Wittib) hält"
+   },
+   {
+    "n": 4,
+    "text": "eine Güter-Fuhr nach Basel, welche alle Freitag"
+   },
+   {
+    "n": 5,
+    "text": "hier abfährt."
+   },
+   {
+    "n": 6,
+    "text": "Johannes Herrosee, Indiennen und Türken-"
+   },
+   {
+    "n": 7,
+    "text": "garn Fabrikant, führt zugleich einen Détail in Tuch"
+   },
+   {
+    "n": 8,
+    "text": "und verschiedene andere Waaren."
+   },
+   {
+    "n": 9,
+    "text": "Andreas Hagnauer, jünger, verkauft Waaren"
+   },
+   {
+    "n": 10,
+    "text": "von feinem Glas, Fayence englischer Erde 2c."
+   },
+   {
+    "n": 11,
+    "text": "Johann Georg Hagenbuch, Ladenhändler."
+   },
+   {
+    "n": 12,
+    "text": "Joh. Rudolf Imhoof, führen eine Stahl,"
+   },
+   {
+    "n": 13,
+    "text": "Eisen, Zinn, Bley, Messing- und Specereyhand-"
+   },
+   {
+    "n": 14,
+    "text": "lung."
+   },
+   {
+    "n": 15,
+    "text": "Ludwig Imhoof, Zuckerbek, handelt zugleich"
+   },
+   {
+    "n": 16,
+    "text": "mit Liqueur 2c."
+   },
+   {
+    "n": 17,
+    "text": "Samuel Landolt, verkauft im détail Tuch-"
+   },
+   {
+    "n": 18,
+    "text": "waaren, Baumwollen = Zeug, seidene und andere"
+   },
+   {
+    "n": 19,
+    "text": "Strümpfe 2c."
+   },
+   {
+    "n": 20,
+    "text": "Joh. Rudolf Meyer und Comp. haben eine sehr"
+   },
+   {
+    "n": 21,
+    "text": "ansehnliche Seidenband = Fabrik."
+   },
+   {
+    "n": 22,
+    "text": "Joh. Rudolf Maurer, verkauft in großem ge-"
+   },
+   {
+    "n": 23,
+    "text": "färbtes und ungefärbtes Baumwollgarn, und führt"
+   },
+   {
+    "n": 24,
+    "text": "anbey eine Handlung im détail mit allerhand Tuch-"
+   },
+   {
+    "n": 25,
+    "text": "waaren und Stoffen."
+   },
+   {
+    "n": 26,
+    "text": "Franz Moser, verkauft im détail verschiedene"
+   },
+   {
+    "n": 27,
+    "text": "Arten von leinenen, wollenen und baumwollenen"
+   },
+   {
+    "n": 28,
+    "text": "Tüchern, wie auch Specerey."
+   },
+   {
+    "n": 29,
+    "text": "Nüsperlin (Wittib,) verkauft alle Arten Fe-"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Hunziker",
+    "forename": "Joh. Georg",
+    "title": "Herr, seel. Wittib",
+    "occupation": "hält eine Güter-Fuhr nach Basel",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Georg Hunzikers (seel. Wittib) hält eine Güter-Fuhr nach Basel, welche alle Freitag hier abfährt."
+   },
+   {
+    "line_from": 6,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Herrosee",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Indiennen und Türkengarn Fabrikant, führt zugleich einen Détail in Tuch und verschiedene andere Waaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Herrosee, Indiennen und Türkengarn Fabrikant, führt zugleich einen Détail in Tuch und verschiedene andere Waaren."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Hagnauer",
+    "forename": "Andreas",
+    "title": "jünger",
+    "occupation": "verkauft Waaren von feinem Glas, Fayence englischer Erde 2c.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Andreas Hagnauer, jünger, verkauft Waaren von feinem Glas, Fayence englischer Erde 2c."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Hagenbuch",
+    "forename": "Johann Georg",
+    "title": "",
+    "occupation": "Ladenhändler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johann Georg Hagenbuch, Ladenhändler."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Imhoof",
+    "forename": "Joh. Rudolf",
+    "title": "",
+    "occupation": "führen eine Stahl, Eisen, Zinn, Bley, Messing- und Specereyhandlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Rudolf Imhoof, führen eine Stahl, Eisen, Zinn, Bley, Messing- und Specereyhandlung."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Imhoof",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Zuckerbek, handelt zugleich mit Liqueur 2c.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ludwig Imhoof, Zuckerbek, handelt zugleich mit Liqueur 2c."
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Landolt",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "verkauft im détail Tuchwaaren, Baumwollen = Zeug, seidene und andere Strümpfe 2c.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Landolt, verkauft im détail Tuchwaaren, Baumwollen = Zeug, seidene und andere Strümpfe 2c."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "firma",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Meyer",
+    "forename": "Joh. Rudolf",
+    "title": "und Comp.",
+    "occupation": "haben eine sehr ansehnliche Seidenband = Fabrik",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Rudolf Meyer und Comp. haben eine sehr ansehnliche Seidenband = Fabrik."
+   },
+   {
+    "line_from": 22,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Maurer",
+    "forename": "Joh. Rudolf",
+    "title": "",
+    "occupation": "verkauft in großem gefärbtes und ungefärbtes Baumwollgarn, und führt anbey eine Handlung im détail mit allerhand Tuchwaaren und Stoffen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Rudolf Maurer, verkauft in großem gefärbtes und ungefärbtes Baumwollgarn, und führt anbey eine Handlung im détail mit allerhand Tuchwaaren und Stoffen."
+   },
+   {
+    "line_from": 26,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Moser",
+    "forename": "Franz",
+    "title": "",
+    "occupation": "verkauft im détail verschiedene Arten von leinenen, wollenen und baumwollenen Tüchern, wie auch Specerey",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Franz Moser, verkauft im détail verschiedene Arten von leinenen, wollenen und baumwollenen Tüchern, wie auch Specerey."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Arau.",
+    "place": "Arau",
+    "surname": "Nüsperlin",
+    "forename": "",
+    "title": "Wittib",
+    "occupation": "verkauft alle Arten Fe-",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nüsperlin (Wittib,) verkauft alle Arten Fe-"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:47:13+01:00",
+ "last_error": null
+}

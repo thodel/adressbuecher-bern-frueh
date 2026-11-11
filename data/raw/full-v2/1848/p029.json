@@ -1,0 +1,482 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 29,
+ "section": "einsassen",
+ "started": "2026-11-11T21:56:23+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 30.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4589,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"16\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 16 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"3 772 Johannes, Hauseigenthümer u. Holzhändler, a. Bol-\"},\n    {\"n\": 4, \"text\": \"ligen — VI, 74.\"},\n    {\"n\": 5, \"text\": \"Fr. — Maria Suter.\"},\n    {\"n\": 6, \"text\": \"1 S. — 805 Johann.\"},\n    {\"n\": 7, \"text\": \"Blaser.\"},\n    {\"n\": 8, \"text\": \"1 777 Susanna, geb. Leu, Bettmacherin u. Mobilienvermie-\"},\n    {\"n\": 9, \"text\": \"therin, Wittwe, a. Trub — V, 67.\"},\n    {\"n\": 10, \"text\": \"1 S. — 811 Karl Gabr. Rud., Lehrer der Mathematik.\"},\n    {\"n\": 11, \"text\": \"2 800 Jakob, Schlosser, a. Trub — V, 18.\"},\n    {\"n\": 12, \"text\": \"793 Fr. — Anna Wenger a. Buchholterberg.\"},\n    {\"n\": 13, \"text\": \"3 805 Maria, Kittelschneiderin, a. Trub — V, 112.\"},\n    {\"n\": 14, \"text\": \"4 801 Christian, Schuhmacher, a. Lauperswyl — VII, 41.\"},\n    {\"n\": 15, \"text\": \"808 Fr. — Sus. Althaus a. Rüderswyl.\"},\n    {\"n\": 16, \"text\": \"4 K. — 839 Anna. — 42 Friedrich. — 45 Christian. —\"},\n    {\"n\": 17, \"text\": \"47 Johannes.\"},\n    {\"n\": 18, \"text\": \"5 803 Magdalena, Näherin, a. Langnau — VI, 29.\"},\n    {\"n\": 19, \"text\": \"6 793 Christian, Buchhalter u. Rosshaarfabrikant, a. Lang-\"},\n    {\"n\": 20, \"text\": \"nau — IV, 81.\"},\n    {\"n\": 21, \"text\": \"Fr. — Barbara Gerber, verw. Küpfer, a. Langnau.\"},\n    {\"n\": 22, \"text\": \"1 T. — 832 Anna Barbara.\"},\n    {\"n\": 23, \"text\": \"7 816 Christian, Schuhmacher, a. Langnau — II, 152.\"},\n    {\"n\": 24, \"text\": \"Fr. — Elis. Stettler, gesch. Hirschi, a. Schangnau.\"},\n    {\"n\": 25, \"text\": \"(Ein Kind nicht eingeschrieben.)\"},\n    {\"n\": 26, \"text\": \"Bloch.\"},\n    {\"n\": 27, \"text\": \"1 Samuel, Pferdehändler, a. Emmendingen im Badi-\"},\n    {\"n\": 28, \"text\": \"schen — II, 122 b.\"},\n    {\"n\": 29, \"text\": \"Fr. — Jeannette Sommer.\"},\n    {\"n\": 30, \"text\": \"3 K. — Ida, Rosalie, Leopold.\"},\n    {\"n\": 31, \"text\": \"2 Nathan, Pferdehändler, a. Hegenheim im Elsass — II, 195.\"},\n    {\"n\": 32, \"text\": \"Fr. — Rebekka Braunschweig.\"},\n    {\"n\": 33, \"text\": \"8 K. — Joseph, Marie, Cüstie, Elise, Jakob, Rosalie.\"},\n    {\"n\": 34, \"text\": \"— 845 Alexander. — 46 Bernhard.\"},\n    {\"n\": 35, \"text\": \"3 797 Jakob, Pferdehändler, a. Hegenheim — II, 122 d.\"},\n    {\"n\": 36, \"text\": \"Fr. — Therese Piccard a. Belfort.\"},\n    {\"n\": 37, \"text\": \"1 S. — 833 Leo.\"},\n    {\"n\": 38, \"text\": \"4 817 Emanuel, Kleiderhändler, Geschäftsführer des Hauses\"},\n    {\"n\": 39, \"text\": \"les deux Jumeaux, a. Durmenach im Elsass — IV, 175.\"},\n    {\"n\": 40, \"text\": \"823 Fr. — Sara Bloc a. Genf.\"},\n    {\"n\": 41, \"text\": \"Bloesch.\"},\n    {\"n\": 42, \"text\": \"1 777 Kornel. Kath. Marg., geb. Tscharner, a. Biel, Wittwe,\"},\n    {\"n\": 43, \"text\": \"privat. — II, 145.\"},\n    {\"n\": 44, \"text\": \"3 S. — 808 Karl Ludwig, Offizier in Neapel. — 12 Joh.\"},\n    {\"n\": 45, \"text\": \"Ludwig Julius, Handelsmann in Ulm. — 20 Ludwig\"},\n    {\"n\": 46, \"text\": \"Albrecht, Offizier in Neapel.\"},\n    {\"n\": 47, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Hauseigenthümer u. Holzhändler\",\n      \"address\": \"VI, 74\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"74\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1772\",\n      \"household\": \"Fr. — Maria Suter. 1 S. — 805 Johann.\",\n      \"note\": \"\",\n      \"text\": \"3 772 Johannes, Hauseigenthümer u. Holzhändler, a. Bolligen — VI, 74. Fr. — Maria Suter. 1 S. — 805 Johann.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Blaser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blaser\",\n      \"forename\": \"Susanna\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"Bettmacherin u. Mobilienvermietherin\",\n      \"address\": \"V, 67\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"67\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1777\",\n      \"household\": \"1 S. — 811 Karl Gabr. Rud., Lehrer der Mathematik.\",\n      \"note\": \"Name aus Zwischentitel; geb. Leu\",\n      \"text\": \"1 777 Susanna, geb. Leu, Bettmacherin u. Mobilienvermietherin, Wittwe, a. Trub — V, 67. 1 S. — 811 Karl Gabr. Rud., Lehrer der Mathematik.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Blaser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blaser\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"V, 18\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"18\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1800\",\n      \"household\": \"793 Fr. — Anna Wenger a. Buchholterberg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 800 Jakob, Schlosser, a. Trub — V, 18. 793 Fr. — Anna Wenger a. Buchholterberg.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Blaser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blaser\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Kittelschneiderin\",\n      \"address\": \"V, 112\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"112\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1805\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 805 Maria, Kittelschneiderin, a. Trub — V, 112.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Blaser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blaser\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"VII, 41\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"41\",\n      \"origin\": \"Lauperswyl\",\n      \"birth_year\": \"1801\",\n      \"household\": \"808 Fr. — Sus. Althaus a. Rüderswyl. 4 K. — 839 Anna. — 42 Friedrich. — 45 Christian. — 47 Johannes.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 801 Christian, Schuhmacher, a. Lauperswyl — VII, 41. 808 Fr. — Sus. Althaus a. Rüderswyl. 4 K. — 839 Anna. — 42 Friedrich. — 45 Christian. — 47 Johannes.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Blaser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blaser\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"\",\n      \"occupation\": \"Näherin\",\n      \"address\": \"VI, 29\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"29\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1803\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 803 Magdalena, Näherin, a. Langnau — VI, 29.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Blaser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blaser\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Buchhalter u. Rosshaarfabrikant\",\n      \"address\": \"IV, 81\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"81\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1793\",\n      \"household\": \"Fr. — Barbara Gerber, verw. Küpfer, a. Langnau. 1 T. — 832 Anna Barbara.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 793 Christian, Buchhalter u. Rosshaarfabrikant, a. Langnau — IV, 81. Fr. — Barbara Gerber, verw. Küpfer, a. Langnau. 1 T. — 832 Anna Barbara.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Blaser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blaser\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 152\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"152\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1816\",\n      \"household\": \"Fr. — Elis. Stettler, gesch. Hirschi, a. Schangnau. (Ein Kind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 816 Christian, Schuhmacher, a. Langnau — II, 152. Fr. — Elis. Stettler, gesch. Hirschi, a. Schangnau. (Ein Kind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Bloch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bloch\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Pferdehändler\",\n      \"address\": \"II, 122 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 b\",\n      \"origin\": \"Emmendingen im Badischen\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. — Jeannette Sommer. 3 K. — Ida, Rosalie, Leopold.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Samuel, Pferdehändler, a. Emmendingen im Badischen — II, 122 b. Fr. — Jeannette Sommer. 3 K. — Ida, Rosalie, Leopold.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Bloch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bloch\",\n      \"forename\": \"Nathan\",\n      \"title\": \"\",\n      \"occupation\": \"Pferdehändler\",\n      \"address\": \"II, 195\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"195\",\n      \"origin\": \"Hegenheim im Elsass\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. — Rebekka Braunschweig. 8 K. — Joseph, Marie, Cüstie, Elise, Jakob, Rosalie. — 845 Alexander. — 46 Bernhard.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 Nathan, Pferdehändler, a. Hegenheim im Elsass — II, 195. Fr. — Rebekka Braunschweig. 8 K. — Joseph, Marie, Cüstie, Elise, Jakob, Rosalie. — 845 Alexander. — 46 Bernhard.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Bloch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bloch\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Pferdehändler\",\n      \"address\": \"II, 122 d\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 d\",\n      \"origin\": \"Hegenheim\",\n      \"birth_year\": \"1797\",\n      \"household\": \"Fr. — Therese Piccard a. Belfort. 1 S. — 833 Leo.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 797 Jakob, Pferdehändler, a. Hegenheim — II, 122 d. Fr. — Therese Piccard a. Belfort. 1 S. — 833 Leo.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Bloch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bloch\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Kleiderhändler, Geschäftsführer des Hauses les deux Jumeaux\",\n      \"address\": \"IV, 175\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"175\",\n      \"origin\": \"Durmenach im Elsass\",\n      \"birth_year\": \"1817\",\n      \"household\": \"823 Fr. — Sara Bloc a. Genf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 817 Emanuel, Kleiderhändler, Geschäftsführer des Hauses les deux Jumeaux, a. Durmenach im Elsass — IV, 175. 823 Fr. — Sara Bloc a. Genf.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"Bloesch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bloesch\",\n      \"forename\": \"Kornel. Kath. Marg.\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"privat.\",\n      \"address\": \"II, 145\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"145\",\n      \"origin\": \"Biel\",\n      \"birth_year\": \"1777\",\n      \"household\": \"3 S. — 808 Karl Ludwig, Offizier in Neapel. — 12 Joh. Ludwig Julius, Handelsmann in Ulm. — 20 Ludwig Albrecht, Offizier in Neapel.\",\n      \"note\": \"Name aus Zwischentitel; geb. Tscharner\",\n      \"text\": \"1 777 Kornel. Kath. Marg., geb. Tscharner, a. Biel, Wittwe, privat. — II, 145. 3 S. — 808 Karl Ludwig, Offizier in Neapel. — 12 Joh. Ludwig Julius, Handelsmann in Ulm. — 20 Ludwig Albrecht, Offizier in Neapel.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "16",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 16 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "3 772 Johannes, Hauseigenthümer u. Holzhändler, a. Bol-"
+   },
+   {
+    "n": 4,
+    "text": "ligen — VI, 74."
+   },
+   {
+    "n": 5,
+    "text": "Fr. — Maria Suter."
+   },
+   {
+    "n": 6,
+    "text": "1 S. — 805 Johann."
+   },
+   {
+    "n": 7,
+    "text": "Blaser."
+   },
+   {
+    "n": 8,
+    "text": "1 777 Susanna, geb. Leu, Bettmacherin u. Mobilienvermie-"
+   },
+   {
+    "n": 9,
+    "text": "therin, Wittwe, a. Trub — V, 67."
+   },
+   {
+    "n": 10,
+    "text": "1 S. — 811 Karl Gabr. Rud., Lehrer der Mathematik."
+   },
+   {
+    "n": 11,
+    "text": "2 800 Jakob, Schlosser, a. Trub — V, 18."
+   },
+   {
+    "n": 12,
+    "text": "793 Fr. — Anna Wenger a. Buchholterberg."
+   },
+   {
+    "n": 13,
+    "text": "3 805 Maria, Kittelschneiderin, a. Trub — V, 112."
+   },
+   {
+    "n": 14,
+    "text": "4 801 Christian, Schuhmacher, a. Lauperswyl — VII, 41."
+   },
+   {
+    "n": 15,
+    "text": "808 Fr. — Sus. Althaus a. Rüderswyl."
+   },
+   {
+    "n": 16,
+    "text": "4 K. — 839 Anna. — 42 Friedrich. — 45 Christian. —"
+   },
+   {
+    "n": 17,
+    "text": "47 Johannes."
+   },
+   {
+    "n": 18,
+    "text": "5 803 Magdalena, Näherin, a. Langnau — VI, 29."
+   },
+   {
+    "n": 19,
+    "text": "6 793 Christian, Buchhalter u. Rosshaarfabrikant, a. Lang-"
+   },
+   {
+    "n": 20,
+    "text": "nau — IV, 81."
+   },
+   {
+    "n": 21,
+    "text": "Fr. — Barbara Gerber, verw. Küpfer, a. Langnau."
+   },
+   {
+    "n": 22,
+    "text": "1 T. — 832 Anna Barbara."
+   },
+   {
+    "n": 23,
+    "text": "7 816 Christian, Schuhmacher, a. Langnau — II, 152."
+   },
+   {
+    "n": 24,
+    "text": "Fr. — Elis. Stettler, gesch. Hirschi, a. Schangnau."
+   },
+   {
+    "n": 25,
+    "text": "(Ein Kind nicht eingeschrieben.)"
+   },
+   {
+    "n": 26,
+    "text": "Bloch."
+   },
+   {
+    "n": 27,
+    "text": "1 Samuel, Pferdehändler, a. Emmendingen im Badi-"
+   },
+   {
+    "n": 28,
+    "text": "schen — II, 122 b."
+   },
+   {
+    "n": 29,
+    "text": "Fr. — Jeannette Sommer."
+   },
+   {
+    "n": 30,
+    "text": "3 K. — Ida, Rosalie, Leopold."
+   },
+   {
+    "n": 31,
+    "text": "2 Nathan, Pferdehändler, a. Hegenheim im Elsass — II, 195."
+   },
+   {
+    "n": 32,
+    "text": "Fr. — Rebekka Braunschweig."
+   },
+   {
+    "n": 33,
+    "text": "8 K. — Joseph, Marie, Cüstie, Elise, Jakob, Rosalie."
+   },
+   {
+    "n": 34,
+    "text": "— 845 Alexander. — 46 Bernhard."
+   },
+   {
+    "n": 35,
+    "text": "3 797 Jakob, Pferdehändler, a. Hegenheim — II, 122 d."
+   },
+   {
+    "n": 36,
+    "text": "Fr. — Therese Piccard a. Belfort."
+   },
+   {
+    "n": 37,
+    "text": "1 S. — 833 Leo."
+   },
+   {
+    "n": 38,
+    "text": "4 817 Emanuel, Kleiderhändler, Geschäftsführer des Hauses"
+   },
+   {
+    "n": 39,
+    "text": "les deux Jumeaux, a. Durmenach im Elsass — IV, 175."
+   },
+   {
+    "n": 40,
+    "text": "823 Fr. — Sara Bloc a. Genf."
+   },
+   {
+    "n": 41,
+    "text": "Bloesch."
+   },
+   {
+    "n": 42,
+    "text": "1 777 Kornel. Kath. Marg., geb. Tscharner, a. Biel, Wittwe,"
+   },
+   {
+    "n": 43,
+    "text": "privat. — II, 145."
+   },
+   {
+    "n": 44,
+    "text": "3 S. — 808 Karl Ludwig, Offizier in Neapel. — 12 Joh."
+   },
+   {
+    "n": 45,
+    "text": "Ludwig Julius, Handelsmann in Ulm. — 20 Ludwig"
+   },
+   {
+    "n": 46,
+    "text": "Albrecht, Offizier in Neapel."
+   },
+   {
+    "n": 47,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Hauseigenthümer u. Holzhändler",
+    "address": "VI, 74",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "74",
+    "origin": "Bolligen",
+    "birth_year": "1772",
+    "household": "Fr. — Maria Suter. 1 S. — 805 Johann.",
+    "note": "",
+    "text": "3 772 Johannes, Hauseigenthümer u. Holzhändler, a. Bolligen — VI, 74. Fr. — Maria Suter. 1 S. — 805 Johann."
+   },
+   {
+    "line_from": 8,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Blaser.",
+    "place": "Bern",
+    "surname": "Blaser",
+    "forename": "Susanna",
+    "title": "Wittwe",
+    "occupation": "Bettmacherin u. Mobilienvermietherin",
+    "address": "V, 67",
+    "quarter": "V",
+    "street": "",
+    "house_no": "67",
+    "origin": "Trub",
+    "birth_year": "1777",
+    "household": "1 S. — 811 Karl Gabr. Rud., Lehrer der Mathematik.",
+    "note": "Name aus Zwischentitel; geb. Leu",
+    "text": "1 777 Susanna, geb. Leu, Bettmacherin u. Mobilienvermietherin, Wittwe, a. Trub — V, 67. 1 S. — 811 Karl Gabr. Rud., Lehrer der Mathematik."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Blaser.",
+    "place": "Bern",
+    "surname": "Blaser",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "V, 18",
+    "quarter": "V",
+    "street": "",
+    "house_no": "18",
+    "origin": "Trub",
+    "birth_year": "1800",
+    "household": "793 Fr. — Anna Wenger a. Buchholterberg.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 800 Jakob, Schlosser, a. Trub — V, 18. 793 Fr. — Anna Wenger a. Buchholterberg."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Blaser.",
+    "place": "Bern",
+    "surname": "Blaser",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Kittelschneiderin",
+    "address": "V, 112",
+    "quarter": "V",
+    "street": "",
+    "house_no": "112",
+    "origin": "Trub",
+    "birth_year": "1805",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 805 Maria, Kittelschneiderin, a. Trub — V, 112."
+   },
+   {
+    "line_from": 14,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Blaser.",
+    "place": "Bern",
+    "surname": "Blaser",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "VII, 41",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "41",
+    "origin": "Lauperswyl",
+    "birth_year": "1801",
+    "household": "808 Fr. — Sus. Althaus a. Rüderswyl. 4 K. — 839 Anna. — 42 Friedrich. — 45 Christian. — 47 Johannes.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 801 Christian, Schuhmacher, a. Lauperswyl — VII, 41. 808 Fr. — Sus. Althaus a. Rüderswyl. 4 K. — 839 Anna. — 42 Friedrich. — 45 Christian. — 47 Johannes."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Blaser.",
+    "place": "Bern",
+    "surname": "Blaser",
+    "forename": "Magdalena",
+    "title": "",
+    "occupation": "Näherin",
+    "address": "VI, 29",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "29",
+    "origin": "Langnau",
+    "birth_year": "1803",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "5 803 Magdalena, Näherin, a. Langnau — VI, 29."
+   },
+   {
+    "line_from": 19,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Blaser.",
+    "place": "Bern",
+    "surname": "Blaser",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Buchhalter u. Rosshaarfabrikant",
+    "address": "IV, 81",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "81",
+    "origin": "Langnau",
+    "birth_year": "1793",
+    "household": "Fr. — Barbara Gerber, verw. Küpfer, a. Langnau. 1 T. — 832 Anna Barbara.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 793 Christian, Buchhalter u. Rosshaarfabrikant, a. Langnau — IV, 81. Fr. — Barbara Gerber, verw. Küpfer, a. Langnau. 1 T. — 832 Anna Barbara."
+   },
+   {
+    "line_from": 23,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Blaser.",
+    "place": "Bern",
+    "surname": "Blaser",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 152",
+    "quarter": "II",
+    "street": "",
+    "house_no": "152",
+    "origin": "Langnau",
+    "birth_year": "1816",
+    "household": "Fr. — Elis. Stettler, gesch. Hirschi, a. Schangnau. (Ein Kind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "7 816 Christian, Schuhmacher, a. Langnau — II, 152. Fr. — Elis. Stettler, gesch. Hirschi, a. Schangnau. (Ein Kind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 27,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Bloch.",
+    "place": "Bern",
+    "surname": "Bloch",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Pferdehändler",
+    "address": "II, 122 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 b",
+    "origin": "Emmendingen im Badischen",
+    "birth_year": "",
+    "household": "Fr. — Jeannette Sommer. 3 K. — Ida, Rosalie, Leopold.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Samuel, Pferdehändler, a. Emmendingen im Badischen — II, 122 b. Fr. — Jeannette Sommer. 3 K. — Ida, Rosalie, Leopold."
+   },
+   {
+    "line_from": 31,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Bloch.",
+    "place": "Bern",
+    "surname": "Bloch",
+    "forename": "Nathan",
+    "title": "",
+    "occupation": "Pferdehändler",
+    "address": "II, 195",
+    "quarter": "II",
+    "street": "",
+    "house_no": "195",
+    "origin": "Hegenheim im Elsass",
+    "birth_year": "",
+    "household": "Fr. — Rebekka Braunschweig. 8 K. — Joseph, Marie, Cüstie, Elise, Jakob, Rosalie. — 845 Alexander. — 46 Bernhard.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 Nathan, Pferdehändler, a. Hegenheim im Elsass — II, 195. Fr. — Rebekka Braunschweig. 8 K. — Joseph, Marie, Cüstie, Elise, Jakob, Rosalie. — 845 Alexander. — 46 Bernhard."
+   },
+   {
+    "line_from": 35,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Bloch.",
+    "place": "Bern",
+    "surname": "Bloch",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Pferdehändler",
+    "address": "II, 122 d",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 d",
+    "origin": "Hegenheim",
+    "birth_year": "1797",
+    "household": "Fr. — Therese Piccard a. Belfort. 1 S. — 833 Leo.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 797 Jakob, Pferdehändler, a. Hegenheim — II, 122 d. Fr. — Therese Piccard a. Belfort. 1 S. — 833 Leo."
+   },
+   {
+    "line_from": 38,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Bloch.",
+    "place": "Bern",
+    "surname": "Bloch",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "Kleiderhändler, Geschäftsführer des Hauses les deux Jumeaux",
+    "address": "IV, 175",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "175",
+    "origin": "Durmenach im Elsass",
+    "birth_year": "1817",
+    "household": "823 Fr. — Sara Bloc a. Genf.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 817 Emanuel, Kleiderhändler, Geschäftsführer des Hauses les deux Jumeaux, a. Durmenach im Elsass — IV, 175. 823 Fr. — Sara Bloc a. Genf."
+   },
+   {
+    "line_from": 42,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "Bloesch.",
+    "place": "Bern",
+    "surname": "Bloesch",
+    "forename": "Kornel. Kath. Marg.",
+    "title": "Wittwe",
+    "occupation": "privat.",
+    "address": "II, 145",
+    "quarter": "II",
+    "street": "",
+    "house_no": "145",
+    "origin": "Biel",
+    "birth_year": "1777",
+    "household": "3 S. — 808 Karl Ludwig, Offizier in Neapel. — 12 Joh. Ludwig Julius, Handelsmann in Ulm. — 20 Ludwig Albrecht, Offizier in Neapel.",
+    "note": "Name aus Zwischentitel; geb. Tscharner",
+    "text": "1 777 Kornel. Kath. Marg., geb. Tscharner, a. Biel, Wittwe, privat. — II, 145. 3 S. — 808 Karl Ludwig, Offizier in Neapel. — 12 Joh. Ludwig Julius, Handelsmann in Ulm. — 20 Ludwig Albrecht, Offizier in Neapel."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:56:54+01:00",
+ "last_error": null
+}

@@ -1,0 +1,490 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 57,
+ "section": "einsassen",
+ "started": "2026-11-11T21:59:13+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 51.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4848,
+  "thoughts": 3839
+ },
+ "response_text": "{\n  \"printed_page\": \"44\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 44 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Förster.\"},\n    {\"n\": 4, \"text\": \"1 791 Abr. Karl, Kanzlist, a. Milden - IV, 293.\"},\n    {\"n\": 5, \"text\": \"2 S. — 823 Bernhard Alb. — 31 Karl Rudolf.\"},\n    {\"n\": 6, \"text\": \"Forst.\"},\n    {\"n\": 7, \"text\": \"1 819 Andreas, Schneider, a. Niederneisen, GH. Nassau - V, 41.\"},\n    {\"n\": 8, \"text\": \"825 Fr. - Elisabetha Kohl.\"},\n    {\"n\": 9, \"text\": \"2 K. — 845 Joh. Karl. — 47 Marg. Christ. Wilh.\"},\n    {\"n\": 10, \"text\": \"Forster.\"},\n    {\"n\": 11, \"text\": \"1 813 Heinrich, Baumwollenhändler, a. Thalwyl, K. Zürich\"},\n    {\"n\": 12, \"text\": \"- IV, 211.\"},\n    {\"n\": 13, \"text\": \"815 Fr. - Marg. Ros. Rommel a. Kirchdorf.\"},\n    {\"n\": 14, \"text\": \"2 T. — 843 Elis. Kath. Rosa. — 45 Emma.\"},\n    {\"n\": 15, \"text\": \"Franke.\"},\n    {\"n\": 16, \"text\": \"1 816 Ludwig, Tanzlehrer, a. Weimar - IV, 36.\"},\n    {\"n\": 17, \"text\": \"Franz.\"},\n    {\"n\": 18, \"text\": \"1 824 Anna Maria, Schneiderin, a. Hilterfingen - III, 37.\"},\n    {\"n\": 19, \"text\": \"Frey.\"},\n    {\"n\": 20, \"text\": \"1 788 Joh. Friedrich, Gewächshändler, a. Münsingen - II, 268.\"},\n    {\"n\": 21, \"text\": \"Fr. II Ehe. - Anna Aeschlimann a. Rüderswyl.\"},\n    {\"n\": 22, \"text\": \"4 K. — 832 Jakob Nikl Friedrich. — 34 Martin Chr.\"},\n    {\"n\": 23, \"text\": \"Rud. — 37 A. Mar. — 41 Anna Maria.\"},\n    {\"n\": 24, \"text\": \"2 804 Christ. Georg, Stiefelwichser, a. Gontenschwyl - IV, 295.\"},\n    {\"n\": 25, \"text\": \"808 Fr. - Louise Magd. Müller a. Langnau.\"},\n    {\"n\": 26, \"text\": \"1 S. — 845 Rudolf.\"},\n    {\"n\": 27, \"text\": \"3 800 Heinrich, Lohnkutscher, a. Biberstein - III, 127.\"},\n    {\"n\": 28, \"text\": \"807 Fr. II Ehe. Anna Kath. Staub a. Glarus.\"},\n    {\"n\": 29, \"text\": \"1 S. I Ehe. — 831 Joh. Ludwig Heinrich.\"},\n    {\"n\": 30, \"text\": \"4 808 Bend. Salomon, Schreiner, a. Münsingen - I, 201.\"},\n    {\"n\": 31, \"text\": \"816 Fr. - Rosina Kath. Breitfeld, bern. Landsassin.\"},\n    {\"n\": 32, \"text\": \"5 814 Xaver, Privatlehrer, a. Oberehrendingen, K. Aargau\"},\n    {\"n\": 33, \"text\": \"- IV, 62.\"},\n    {\"n\": 34, \"text\": \"6 820 Rud. Albrecht, Handelscommis, a. Münsingen - II, 113 a.\"},\n    {\"n\": 35, \"text\": \"824 Fr. - Sus. Rosina Hubacher a. Urtenen.\"},\n    {\"n\": 36, \"text\": \"1 T. — 847 Rosa Bertha.\"},\n    {\"n\": 37, \"text\": \"7 815 Franz Heinr., Spezierer, a. Mellingen, K. Aargau - II, 78.\"},\n    {\"n\": 38, \"text\": \"821 Fr. - Anna Barb. Schorer a. Wangen.\"},\n    {\"n\": 39, \"text\": \"1 S. — 847 Albert.\"},\n    {\"n\": 40, \"text\": \"8 827 Eleonore Sus., Schneiderin, a. Bolligen - III, 141.\"},\n    {\"n\": 41, \"text\": \"Freymann.\"},\n    {\"n\": 42, \"text\": \"1 803 Jakob, Schuhmacher, a. Richterschwyl, K. Zürich - II, 10 b.\"},\n    {\"n\": 43, \"text\": \"805 Fr. - Elis. Dill a. Pleujouse.\"},\n    {\"n\": 44, \"text\": \"2 K. — 832 Joh. Konrad. — 34 Maria Elis.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Förster.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Förster\",\n      \"forename\": \"Abr. Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Kanzlist\",\n      \"address\": \"IV, 293\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"293\",\n      \"origin\": \"Milden\",\n      \"birth_year\": \"1791\",\n      \"household\": \"2 S. — 823 Bernhard Alb. — 31 Karl Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 791 Abr. Karl, Kanzlist, a. Milden - IV, 293. 2 S. — 823 Bernhard Alb. — 31 Karl Rudolf.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Forst.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Forst\",\n      \"forename\": \"Andreas\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 41\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"41\",\n      \"origin\": \"Niederneisen, GH. Nassau\",\n      \"birth_year\": \"1819\",\n      \"household\": \"825 Fr. - Elisabetha Kohl. 2 K. — 845 Joh. Karl. — 47 Marg. Christ. Wilh.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 819 Andreas, Schneider, a. Niederneisen, GH. Nassau - V, 41. 825 Fr. - Elisabetha Kohl. 2 K. — 845 Joh. Karl. — 47 Marg. Christ. Wilh.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Forster.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Forster\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Baumwollenhändler\",\n      \"address\": \"IV, 211\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"211\",\n      \"origin\": \"Thalwyl, K. Zürich\",\n      \"birth_year\": \"1813\",\n      \"household\": \"815 Fr. - Marg. Ros. Rommel a. Kirchdorf. 2 T. — 843 Elis. Kath. Rosa. — 45 Emma.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Heinrich, Baumwollenhändler, a. Thalwyl, K. Zürich - IV, 211. 815 Fr. - Marg. Ros. Rommel a. Kirchdorf. 2 T. — 843 Elis. Kath. Rosa. — 45 Emma.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Franke.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Franke\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Tanzlehrer\",\n      \"address\": \"IV, 36\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"Weimar\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Ludwig, Tanzlehrer, a. Weimar - IV, 36.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Franz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Franz\",\n      \"forename\": \"Anna Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"III, 37\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"37\",\n      \"origin\": \"Hilterfingen\",\n      \"birth_year\": \"1824\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 824 Anna Maria, Schneiderin, a. Hilterfingen - III, 37.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Frey.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\",\n      \"forename\": \"Joh. Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Gewächshändler\",\n      \"address\": \"II, 268\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"268\",\n      \"origin\": \"Münsingen\",\n      \"birth_year\": \"1788\",\n      \"household\": \"Fr. II Ehe. - Anna Aeschlimann a. Rüderswyl. 4 K. — 832 Jakob Nikl Friedrich. — 34 Martin Chr. Rud. — 37 A. Mar. — 41 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 788 Joh. Friedrich, Gewächshändler, a. Münsingen - II, 268. Fr. II Ehe. - Anna Aeschlimann a. Rüderswyl. 4 K. — 832 Jakob Nikl Friedrich. — 34 Martin Chr. Rud. — 37 A. Mar. — 41 Anna Maria.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Frey.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\",\n      \"forename\": \"Christ. Georg\",\n      \"title\": \"\",\n      \"occupation\": \"Stiefelwichser\",\n      \"address\": \"IV, 295\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"295\",\n      \"origin\": \"Gontenschwyl\",\n      \"birth_year\": \"1804\",\n      \"household\": \"808 Fr. - Louise Magd. Müller a. Langnau. 1 S. — 845 Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 804 Christ. Georg, Stiefelwichser, a. Gontenschwyl - IV, 295. 808 Fr. - Louise Magd. Müller a. Langnau. 1 S. — 845 Rudolf.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Frey.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnkutscher\",\n      \"address\": \"III, 127\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"127\",\n      \"origin\": \"Biberstein\",\n      \"birth_year\": \"1800\",\n      \"household\": \"807 Fr. II Ehe. Anna Kath. Staub a. Glarus. 1 S. I Ehe. — 831 Joh. Ludwig Heinrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 800 Heinrich, Lohnkutscher, a. Biberstein - III, 127. 807 Fr. II Ehe. Anna Kath. Staub a. Glarus. 1 S. I Ehe. — 831 Joh. Ludwig Heinrich.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Frey.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\",\n      \"forename\": \"Bend. Salomon\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"I, 201\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"201\",\n      \"origin\": \"Münsingen\",\n      \"birth_year\": \"1808\",\n      \"household\": \"816 Fr. - Rosina Kath. Breitfeld, bern. Landsassin.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 808 Bend. Salomon, Schreiner, a. Münsingen - I, 201. 816 Fr. - Rosina Kath. Breitfeld, bern. Landsassin.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Frey.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\",\n      \"forename\": \"Xaver\",\n      \"title\": \"\",\n      \"occupation\": \"Privatlehrer\",\n      \"address\": \"IV, 62\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"Oberehrendingen, K. Aargau\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 814 Xaver, Privatlehrer, a. Oberehrendingen, K. Aargau - IV, 62.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Frey.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\",\n      \"forename\": \"Rud. Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"Handelscommis\",\n      \"address\": \"II, 113 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"113 a\",\n      \"origin\": \"Münsingen\",\n      \"birth_year\": \"1820\",\n      \"household\": \"824 Fr. - Sus. Rosina Hubacher a. Urtenen. 1 T. — 847 Rosa Bertha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 820 Rud. Albrecht, Handelscommis, a. Münsingen - II, 113 a. 824 Fr. - Sus. Rosina Hubacher a. Urtenen. 1 T. — 847 Rosa Bertha.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Frey.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\",\n      \"forename\": \"Franz Heinr.\",\n      \"title\": \"\",\n      \"occupation\": \"Spezierer\",\n      \"address\": \"II, 78\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"78\",\n      \"origin\": \"Mellingen, K. Aargau\",\n      \"birth_year\": \"1815\",\n      \"household\": \"821 Fr. - Anna Barb. Schorer a. Wangen. 1 S. — 847 Albert.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 815 Franz Heinr., Spezierer, a. Mellingen, K. Aargau - II, 78. 821 Fr. - Anna Barb. Schorer a. Wangen. 1 S. — 847 Albert.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Frey.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\",\n      \"forename\": \"Eleonore Sus.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"III, 141\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"141\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1827\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"8 827 Eleonore Sus., Schneiderin, a. Bolligen - III, 141.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Freymann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Freymann\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 10 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"10 b\",\n      \"origin\": \"Richterschwyl, K. Zürich\",\n      \"birth_year\": \"1803\",\n      \"household\": \"805 Fr. - Elis. Dill a. Pleujouse. 2 K. — 832 Joh. Konrad. — 34 Maria Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 Jakob, Schuhmacher, a. Richterschwyl, K. Zürich - II, 10 b. 805 Fr. - Elis. Dill a. Pleujouse. 2 K. — 832 Joh. Konrad. — 34 Maria Elis.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "44",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 44 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Förster."
+   },
+   {
+    "n": 4,
+    "text": "1 791 Abr. Karl, Kanzlist, a. Milden - IV, 293."
+   },
+   {
+    "n": 5,
+    "text": "2 S. — 823 Bernhard Alb. — 31 Karl Rudolf."
+   },
+   {
+    "n": 6,
+    "text": "Forst."
+   },
+   {
+    "n": 7,
+    "text": "1 819 Andreas, Schneider, a. Niederneisen, GH. Nassau - V, 41."
+   },
+   {
+    "n": 8,
+    "text": "825 Fr. - Elisabetha Kohl."
+   },
+   {
+    "n": 9,
+    "text": "2 K. — 845 Joh. Karl. — 47 Marg. Christ. Wilh."
+   },
+   {
+    "n": 10,
+    "text": "Forster."
+   },
+   {
+    "n": 11,
+    "text": "1 813 Heinrich, Baumwollenhändler, a. Thalwyl, K. Zürich"
+   },
+   {
+    "n": 12,
+    "text": "- IV, 211."
+   },
+   {
+    "n": 13,
+    "text": "815 Fr. - Marg. Ros. Rommel a. Kirchdorf."
+   },
+   {
+    "n": 14,
+    "text": "2 T. — 843 Elis. Kath. Rosa. — 45 Emma."
+   },
+   {
+    "n": 15,
+    "text": "Franke."
+   },
+   {
+    "n": 16,
+    "text": "1 816 Ludwig, Tanzlehrer, a. Weimar - IV, 36."
+   },
+   {
+    "n": 17,
+    "text": "Franz."
+   },
+   {
+    "n": 18,
+    "text": "1 824 Anna Maria, Schneiderin, a. Hilterfingen - III, 37."
+   },
+   {
+    "n": 19,
+    "text": "Frey."
+   },
+   {
+    "n": 20,
+    "text": "1 788 Joh. Friedrich, Gewächshändler, a. Münsingen - II, 268."
+   },
+   {
+    "n": 21,
+    "text": "Fr. II Ehe. - Anna Aeschlimann a. Rüderswyl."
+   },
+   {
+    "n": 22,
+    "text": "4 K. — 832 Jakob Nikl Friedrich. — 34 Martin Chr."
+   },
+   {
+    "n": 23,
+    "text": "Rud. — 37 A. Mar. — 41 Anna Maria."
+   },
+   {
+    "n": 24,
+    "text": "2 804 Christ. Georg, Stiefelwichser, a. Gontenschwyl - IV, 295."
+   },
+   {
+    "n": 25,
+    "text": "808 Fr. - Louise Magd. Müller a. Langnau."
+   },
+   {
+    "n": 26,
+    "text": "1 S. — 845 Rudolf."
+   },
+   {
+    "n": 27,
+    "text": "3 800 Heinrich, Lohnkutscher, a. Biberstein - III, 127."
+   },
+   {
+    "n": 28,
+    "text": "807 Fr. II Ehe. Anna Kath. Staub a. Glarus."
+   },
+   {
+    "n": 29,
+    "text": "1 S. I Ehe. — 831 Joh. Ludwig Heinrich."
+   },
+   {
+    "n": 30,
+    "text": "4 808 Bend. Salomon, Schreiner, a. Münsingen - I, 201."
+   },
+   {
+    "n": 31,
+    "text": "816 Fr. - Rosina Kath. Breitfeld, bern. Landsassin."
+   },
+   {
+    "n": 32,
+    "text": "5 814 Xaver, Privatlehrer, a. Oberehrendingen, K. Aargau"
+   },
+   {
+    "n": 33,
+    "text": "- IV, 62."
+   },
+   {
+    "n": 34,
+    "text": "6 820 Rud. Albrecht, Handelscommis, a. Münsingen - II, 113 a."
+   },
+   {
+    "n": 35,
+    "text": "824 Fr. - Sus. Rosina Hubacher a. Urtenen."
+   },
+   {
+    "n": 36,
+    "text": "1 T. — 847 Rosa Bertha."
+   },
+   {
+    "n": 37,
+    "text": "7 815 Franz Heinr., Spezierer, a. Mellingen, K. Aargau - II, 78."
+   },
+   {
+    "n": 38,
+    "text": "821 Fr. - Anna Barb. Schorer a. Wangen."
+   },
+   {
+    "n": 39,
+    "text": "1 S. — 847 Albert."
+   },
+   {
+    "n": 40,
+    "text": "8 827 Eleonore Sus., Schneiderin, a. Bolligen - III, 141."
+   },
+   {
+    "n": 41,
+    "text": "Freymann."
+   },
+   {
+    "n": 42,
+    "text": "1 803 Jakob, Schuhmacher, a. Richterschwyl, K. Zürich - II, 10 b."
+   },
+   {
+    "n": 43,
+    "text": "805 Fr. - Elis. Dill a. Pleujouse."
+   },
+   {
+    "n": 44,
+    "text": "2 K. — 832 Joh. Konrad. — 34 Maria Elis."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Förster.",
+    "place": "Bern",
+    "surname": "Förster",
+    "forename": "Abr. Karl",
+    "title": "",
+    "occupation": "Kanzlist",
+    "address": "IV, 293",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "293",
+    "origin": "Milden",
+    "birth_year": "1791",
+    "household": "2 S. — 823 Bernhard Alb. — 31 Karl Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 791 Abr. Karl, Kanzlist, a. Milden - IV, 293. 2 S. — 823 Bernhard Alb. — 31 Karl Rudolf."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Forst.",
+    "place": "Bern",
+    "surname": "Forst",
+    "forename": "Andreas",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 41",
+    "quarter": "V",
+    "street": "",
+    "house_no": "41",
+    "origin": "Niederneisen, GH. Nassau",
+    "birth_year": "1819",
+    "household": "825 Fr. - Elisabetha Kohl. 2 K. — 845 Joh. Karl. — 47 Marg. Christ. Wilh.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 819 Andreas, Schneider, a. Niederneisen, GH. Nassau - V, 41. 825 Fr. - Elisabetha Kohl. 2 K. — 845 Joh. Karl. — 47 Marg. Christ. Wilh."
+   },
+   {
+    "line_from": 11,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Forster.",
+    "place": "Bern",
+    "surname": "Forster",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Baumwollenhändler",
+    "address": "IV, 211",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "211",
+    "origin": "Thalwyl, K. Zürich",
+    "birth_year": "1813",
+    "household": "815 Fr. - Marg. Ros. Rommel a. Kirchdorf. 2 T. — 843 Elis. Kath. Rosa. — 45 Emma.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Heinrich, Baumwollenhändler, a. Thalwyl, K. Zürich - IV, 211. 815 Fr. - Marg. Ros. Rommel a. Kirchdorf. 2 T. — 843 Elis. Kath. Rosa. — 45 Emma."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Franke.",
+    "place": "Bern",
+    "surname": "Franke",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Tanzlehrer",
+    "address": "IV, 36",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "36",
+    "origin": "Weimar",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Ludwig, Tanzlehrer, a. Weimar - IV, 36."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Franz.",
+    "place": "Bern",
+    "surname": "Franz",
+    "forename": "Anna Maria",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "III, 37",
+    "quarter": "III",
+    "street": "",
+    "house_no": "37",
+    "origin": "Hilterfingen",
+    "birth_year": "1824",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 824 Anna Maria, Schneiderin, a. Hilterfingen - III, 37."
+   },
+   {
+    "line_from": 20,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Frey.",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "Joh. Friedrich",
+    "title": "",
+    "occupation": "Gewächshändler",
+    "address": "II, 268",
+    "quarter": "II",
+    "street": "",
+    "house_no": "268",
+    "origin": "Münsingen",
+    "birth_year": "1788",
+    "household": "Fr. II Ehe. - Anna Aeschlimann a. Rüderswyl. 4 K. — 832 Jakob Nikl Friedrich. — 34 Martin Chr. Rud. — 37 A. Mar. — 41 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 788 Joh. Friedrich, Gewächshändler, a. Münsingen - II, 268. Fr. II Ehe. - Anna Aeschlimann a. Rüderswyl. 4 K. — 832 Jakob Nikl Friedrich. — 34 Martin Chr. Rud. — 37 A. Mar. — 41 Anna Maria."
+   },
+   {
+    "line_from": 24,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Frey.",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "Christ. Georg",
+    "title": "",
+    "occupation": "Stiefelwichser",
+    "address": "IV, 295",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "295",
+    "origin": "Gontenschwyl",
+    "birth_year": "1804",
+    "household": "808 Fr. - Louise Magd. Müller a. Langnau. 1 S. — 845 Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 804 Christ. Georg, Stiefelwichser, a. Gontenschwyl - IV, 295. 808 Fr. - Louise Magd. Müller a. Langnau. 1 S. — 845 Rudolf."
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Frey.",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Lohnkutscher",
+    "address": "III, 127",
+    "quarter": "III",
+    "street": "",
+    "house_no": "127",
+    "origin": "Biberstein",
+    "birth_year": "1800",
+    "household": "807 Fr. II Ehe. Anna Kath. Staub a. Glarus. 1 S. I Ehe. — 831 Joh. Ludwig Heinrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 800 Heinrich, Lohnkutscher, a. Biberstein - III, 127. 807 Fr. II Ehe. Anna Kath. Staub a. Glarus. 1 S. I Ehe. — 831 Joh. Ludwig Heinrich."
+   },
+   {
+    "line_from": 30,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Frey.",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "Bend. Salomon",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "I, 201",
+    "quarter": "I",
+    "street": "",
+    "house_no": "201",
+    "origin": "Münsingen",
+    "birth_year": "1808",
+    "household": "816 Fr. - Rosina Kath. Breitfeld, bern. Landsassin.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 808 Bend. Salomon, Schreiner, a. Münsingen - I, 201. 816 Fr. - Rosina Kath. Breitfeld, bern. Landsassin."
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Frey.",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "Xaver",
+    "title": "",
+    "occupation": "Privatlehrer",
+    "address": "IV, 62",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "62",
+    "origin": "Oberehrendingen, K. Aargau",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "5 814 Xaver, Privatlehrer, a. Oberehrendingen, K. Aargau - IV, 62."
+   },
+   {
+    "line_from": 34,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Frey.",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "Rud. Albrecht",
+    "title": "",
+    "occupation": "Handelscommis",
+    "address": "II, 113 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "113 a",
+    "origin": "Münsingen",
+    "birth_year": "1820",
+    "household": "824 Fr. - Sus. Rosina Hubacher a. Urtenen. 1 T. — 847 Rosa Bertha.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 820 Rud. Albrecht, Handelscommis, a. Münsingen - II, 113 a. 824 Fr. - Sus. Rosina Hubacher a. Urtenen. 1 T. — 847 Rosa Bertha."
+   },
+   {
+    "line_from": 37,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Frey.",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "Franz Heinr.",
+    "title": "",
+    "occupation": "Spezierer",
+    "address": "II, 78",
+    "quarter": "II",
+    "street": "",
+    "house_no": "78",
+    "origin": "Mellingen, K. Aargau",
+    "birth_year": "1815",
+    "household": "821 Fr. - Anna Barb. Schorer a. Wangen. 1 S. — 847 Albert.",
+    "note": "Name aus Zwischentitel",
+    "text": "7 815 Franz Heinr., Spezierer, a. Mellingen, K. Aargau - II, 78. 821 Fr. - Anna Barb. Schorer a. Wangen. 1 S. — 847 Albert."
+   },
+   {
+    "line_from": 40,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Frey.",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "Eleonore Sus.",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "III, 141",
+    "quarter": "III",
+    "street": "",
+    "house_no": "141",
+    "origin": "Bolligen",
+    "birth_year": "1827",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "8 827 Eleonore Sus., Schneiderin, a. Bolligen - III, 141."
+   },
+   {
+    "line_from": 42,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Freymann.",
+    "place": "Bern",
+    "surname": "Freymann",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 10 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "10 b",
+    "origin": "Richterschwyl, K. Zürich",
+    "birth_year": "1803",
+    "household": "805 Fr. - Elis. Dill a. Pleujouse. 2 K. — 832 Joh. Konrad. — 34 Maria Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 Jakob, Schuhmacher, a. Richterschwyl, K. Zürich - II, 10 b. 805 Fr. - Elis. Dill a. Pleujouse. 2 K. — 832 Joh. Konrad. — 34 Maria Elis."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:00:05+01:00",
+ "last_error": null
+}

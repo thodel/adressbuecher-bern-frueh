@@ -1,0 +1,498 @@
+{
+ "run": "fix-high",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 143,
+ "section": "einsassen",
+ "started": "2026-11-11T22:23:38+01:00",
+ "thinking": "high",
+ "temperature": 0.0,
+ "seconds": 316.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 5110,
+  "thoughts": 38895
+ },
+ "response_text": "{\n  \"printed_page\": \"130\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 130 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"2 810 Samuel, Bannwart, a. Lauperswyl - I, 201.\"},\n    {\"n\": 4, \"text\": \"815 Fr. - Elis. Bürki a. Langnau.\"},\n    {\"n\": 5, \"text\": \"5 K. — 839 Sam. Friedrich. — 40 Karl Ludwig Dan.\"},\n    {\"n\": 6, \"text\": \"— 41 Christ. Gottl. — 43 Anna Mar. Elis. — 47 Maria.\"},\n    {\"n\": 7, \"text\": \"3 802 Christian, Sattler, a. Langnau - V, 207.\"},\n    {\"n\": 8, \"text\": \"812 Fr. - Anna Lehmann a. Signau.\"},\n    {\"n\": 9, \"text\": \"2 K. — 40 Joh. Christ. — 41 Anna Lisette.\"},\n    {\"n\": 10, \"text\": \"Rohrbach.\"},\n    {\"n\": 11, \"text\": \"1 u. 2 814 Barbara, u. 819 Maria Marg., Modisten, a. Rüggis-\"},\n    {\"n\": 12, \"text\": \"berg - V, 116.\"},\n    {\"n\": 13, \"text\": \"Rohrer.\"},\n    {\"n\": 14, \"text\": \"1 780 Elis., geb. Wahli, Hausbesitzerin u. Pintenwirthin, a.\"},\n    {\"n\": 15, \"text\": \"Bolligen - II, 85.\"},\n    {\"n\": 16, \"text\": \"5 K. — 807 Jakob Albr. — 809 Karl Rud. — 11 Elis.\"},\n    {\"n\": 17, \"text\": \"— 12 Joh. Peter. — 16 Margaritha.\"},\n    {\"n\": 18, \"text\": \"2 788 Christ. Em., Schneider, a. Krauchthal - V, 144 u. 145.\"},\n    {\"n\": 19, \"text\": \"Fr. III Ehe. - Anna Barbara Gwinner a. Liebezell in\"},\n    {\"n\": 20, \"text\": \"Würtemberg.\"},\n    {\"n\": 21, \"text\": \"3 K. — Aus I Ehe: 821 Joh. Daniel Emanuel. — 23\"},\n    {\"n\": 22, \"text\": \"Sam. Friedrich. — Aus III Ehe: 30 Maria Marg.\"},\n    {\"n\": 23, \"text\": \"3 780 Maria Zürcher, geb. Wüthrich, Hauseigenthümerin, a.\"},\n    {\"n\": 24, \"text\": \"Bolligen - II, 40.\"},\n    {\"n\": 25, \"text\": \"4 796 Christian, Gutsbesitzer, a. Bolligen - II, 267.\"},\n    {\"n\": 26, \"text\": \"Fr. - Anna Paux a. Trayton in England.\"},\n    {\"n\": 27, \"text\": \"3 K. — 833 Karoline Rosette und Anna Maria. — 37\"},\n    {\"n\": 28, \"text\": \"Christ. Adolf.\"},\n    {\"n\": 29, \"text\": \"5 813 Joh. Friedrich, Fuhrmann, a. Bolligen - I, 233.\"},\n    {\"n\": 30, \"text\": \"6 793 Daniel, Gypser, a. Hettiswyl - I, 125.\"},\n    {\"n\": 31, \"text\": \"Fr. II Ehe. - Elis. Christen a. Leimiswyl.\"},\n    {\"n\": 32, \"text\": \"8 K. I Ehe: 821 Maria Elis. — 24 Rosina. — 26 Marg.\"},\n    {\"n\": 33, \"text\": \"Louise. — 27 Emanuel Jakob Daniel. — 30 Marg. —\"},\n    {\"n\": 34, \"text\": \"31 Joh. David Gottlieb. — 41 Maria Elis. Sophie. —\"},\n    {\"n\": 35, \"text\": \"43 Karl Ludwig.\"},\n    {\"n\": 36, \"text\": \"7 816 Joh. Christian, Krämer, a. Bolligen - II, 184.\"},\n    {\"n\": 37, \"text\": \"8 816 Elisabetha, Ausschenkerin, a. Bolligen - IV, 117.\"},\n    {\"n\": 38, \"text\": \"Rolli.\"},\n    {\"n\": 39, \"text\": \"1 801 Christian, Lumpensammler, a. Köniz - VII, 146.\"},\n    {\"n\": 40, \"text\": \"804 Fr. - Anna Buchser a. Bätterkinden.\"},\n    {\"n\": 41, \"text\": \"1 T. — 832 Maria.\"},\n    {\"n\": 42, \"text\": \"Rommel.\"},\n    {\"n\": 43, \"text\": \"1 776 Joh. Jakob, gew. Zuckerbäcker, a. Kirchdorf - IV, 212.\"},\n    {\"n\": 44, \"text\": \"781 Fr. II Ehe. - Elis. Heer a. Rheinegg.\"},\n    {\"n\": 45, \"text\": \"3 K. I Ehe. — 813 Bendicht Friedrich Rudolf. — 16\"},\n    {\"n\": 46, \"text\": \"Marg. Cäcile. — 20 Christ. Friedrich.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Rohr.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohr\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Bannwart\",\n      \"address\": \"I, 201\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"201\",\n      \"origin\": \"Lauperswyl\",\n      \"birth_year\": \"1810\",\n      \"household\": \"815 Fr. - Elis. Bürki a. Langnau. 5 K. — 839 Sam. Friedrich. — 40 Karl Ludwig Dan. — 41 Christ. Gottl. — 43 Anna Mar. Elis. — 47 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 810 Samuel, Bannwart, a. Lauperswyl - I, 201. 815 Fr. - Elis. Bürki a. Langnau. 5 K. — 839 Sam. Friedrich. — 40 Karl Ludwig Dan. — 41 Christ. Gottl. — 43 Anna Mar. Elis. — 47 Maria.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Rohr.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohr\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"V, 207\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"207\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1802\",\n      \"household\": \"812 Fr. - Anna Lehmann a. Signau. 2 K. — 40 Joh. Christ. — 41 Anna Lisette.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 802 Christian, Sattler, a. Langnau - V, 207. 812 Fr. - Anna Lehmann a. Signau. 2 K. — 40 Joh. Christ. — 41 Anna Lisette.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Rohrbach.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohrbach\",\n      \"forename\": \"Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Modisten\",\n      \"address\": \"V, 116\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"116\",\n      \"origin\": \"Rüggisberg\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 u. 2 814 Barbara, u. 819 Maria Marg., Modisten, a. Rüggisberg - V, 116.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Rohrbach.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohrbach\",\n      \"forename\": \"Maria Marg.\",\n      \"title\": \"\",\n      \"occupation\": \"Modisten\",\n      \"address\": \"V, 116\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"116\",\n      \"origin\": \"Rüggisberg\",\n      \"birth_year\": \"1819\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 u. 2 814 Barbara, u. 819 Maria Marg., Modisten, a. Rüggisberg - V, 116.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Rohrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohrer\",\n      \"forename\": \"Elis.\",\n      \"title\": \"geb. Wahli\",\n      \"occupation\": \"Hausbesitzerin u. Pintenwirthin\",\n      \"address\": \"II, 85\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"85\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1780\",\n      \"household\": \"5 K. — 807 Jakob Albr. — 809 Karl Rud. — 11 Elis. — 12 Joh. Peter. — 16 Margaritha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 780 Elis., geb. Wahli, Hausbesitzerin u. Pintenwirthin, a. Bolligen - II, 85. 5 K. — 807 Jakob Albr. — 809 Karl Rud. — 11 Elis. — 12 Joh. Peter. — 16 Margaritha.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Rohrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohrer\",\n      \"forename\": \"Christ. Em.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 144 u. 145\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"144 u. 145\",\n      \"origin\": \"Krauchthal\",\n      \"birth_year\": \"1788\",\n      \"household\": \"Fr. III Ehe. - Anna Barbara Gwinner a. Liebezell in Würtemberg. 3 K. — Aus I Ehe: 821 Joh. Daniel Emanuel. — 23 Sam. Friedrich. — Aus III Ehe: 30 Maria Marg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 788 Christ. Em., Schneider, a. Krauchthal - V, 144 u. 145. Fr. III Ehe. - Anna Barbara Gwinner a. Liebezell in Würtemberg. 3 K. — Aus I Ehe: 821 Joh. Daniel Emanuel. — 23 Sam. Friedrich. — Aus III Ehe: 30 Maria Marg.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Rohrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zürcher\",\n      \"forename\": \"Maria\",\n      \"title\": \"geb. Wüthrich\",\n      \"occupation\": \"Hauseigenthümerin\",\n      \"address\": \"II, 40\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"40\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1780\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"3 780 Maria Zürcher, geb. Wüthrich, Hauseigenthümerin, a. Bolligen - II, 40.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Rohrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohrer\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Gutsbesitzer\",\n      \"address\": \"II, 267\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"267\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1796\",\n      \"household\": \"Fr. - Anna Paux a. Trayton in England. 3 K. — 833 Karoline Rosette und Anna Maria. — 37 Christ. Adolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 796 Christian, Gutsbesitzer, a. Bolligen - II, 267. Fr. - Anna Paux a. Trayton in England. 3 K. — 833 Karoline Rosette und Anna Maria. — 37 Christ. Adolf.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Rohrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohrer\",\n      \"forename\": \"Joh. Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Fuhrmann\",\n      \"address\": \"I, 233\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"233\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1813\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 813 Joh. Friedrich, Fuhrmann, a. Bolligen - I, 233.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Rohrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohrer\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Gypser\",\n      \"address\": \"I, 125\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"125\",\n      \"origin\": \"Hettiswyl\",\n      \"birth_year\": \"1793\",\n      \"household\": \"Fr. II Ehe. - Elis. Christen a. Leimiswyl. 8 K. I Ehe: 821 Maria Elis. — 24 Rosina. — 26 Marg. Louise. — 27 Emanuel Jakob Daniel. — 30 Marg. — 31 Joh. David Gottlieb. — 41 Maria Elis. Sophie. — 43 Karl Ludwig.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 793 Daniel, Gypser, a. Hettiswyl - I, 125. Fr. II Ehe. - Elis. Christen a. Leimiswyl. 8 K. I Ehe: 821 Maria Elis. — 24 Rosina. — 26 Marg. Louise. — 27 Emanuel Jakob Daniel. — 30 Marg. — 31 Joh. David Gottlieb. — 41 Maria Elis. Sophie. — 43 Karl Ludwig.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Rohrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohrer\",\n      \"forename\": \"Joh. Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"II, 184\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"184\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 816 Joh. Christian, Krämer, a. Bolligen - II, 184.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Rohrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rohrer\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Ausschenkerin\",\n      \"address\": \"IV, 117\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"117\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"8 816 Elisabetha, Ausschenkerin, a. Bolligen - IV, 117.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Rolli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rolli\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Lumpensammler\",\n      \"address\": \"VII, 146\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"146\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1801\",\n      \"household\": \"804 Fr. - Anna Buchser a. Bätterkinden. 1 T. — 832 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 801 Christian, Lumpensammler, a. Köniz - VII, 146. 804 Fr. - Anna Buchser a. Bätterkinden. 1 T. — 832 Maria.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"Rommel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rommel\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Zuckerbäcker\",\n      \"address\": \"IV, 212\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"212\",\n      \"origin\": \"Kirchdorf\",\n      \"birth_year\": \"1776\",\n      \"household\": \"781 Fr. II Ehe. - Elis. Heer a. Rheinegg. 3 K. I Ehe. — 813 Bendicht Friedrich Rudolf. — 16 Marg. Cäcile. — 20 Christ. Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 776 Joh. Jakob, gew. Zuckerbäcker, a. Kirchdorf - IV, 212. 781 Fr. II Ehe. - Elis. Heer a. Rheinegg. 3 K. I Ehe. — 813 Bendicht Friedrich Rudolf. — 16 Marg. Cäcile. — 20 Christ. Friedrich.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "130",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 130 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "2 810 Samuel, Bannwart, a. Lauperswyl - I, 201."
+   },
+   {
+    "n": 4,
+    "text": "815 Fr. - Elis. Bürki a. Langnau."
+   },
+   {
+    "n": 5,
+    "text": "5 K. — 839 Sam. Friedrich. — 40 Karl Ludwig Dan."
+   },
+   {
+    "n": 6,
+    "text": "— 41 Christ. Gottl. — 43 Anna Mar. Elis. — 47 Maria."
+   },
+   {
+    "n": 7,
+    "text": "3 802 Christian, Sattler, a. Langnau - V, 207."
+   },
+   {
+    "n": 8,
+    "text": "812 Fr. - Anna Lehmann a. Signau."
+   },
+   {
+    "n": 9,
+    "text": "2 K. — 40 Joh. Christ. — 41 Anna Lisette."
+   },
+   {
+    "n": 10,
+    "text": "Rohrbach."
+   },
+   {
+    "n": 11,
+    "text": "1 u. 2 814 Barbara, u. 819 Maria Marg., Modisten, a. Rüggis-"
+   },
+   {
+    "n": 12,
+    "text": "berg - V, 116."
+   },
+   {
+    "n": 13,
+    "text": "Rohrer."
+   },
+   {
+    "n": 14,
+    "text": "1 780 Elis., geb. Wahli, Hausbesitzerin u. Pintenwirthin, a."
+   },
+   {
+    "n": 15,
+    "text": "Bolligen - II, 85."
+   },
+   {
+    "n": 16,
+    "text": "5 K. — 807 Jakob Albr. — 809 Karl Rud. — 11 Elis."
+   },
+   {
+    "n": 17,
+    "text": "— 12 Joh. Peter. — 16 Margaritha."
+   },
+   {
+    "n": 18,
+    "text": "2 788 Christ. Em., Schneider, a. Krauchthal - V, 144 u. 145."
+   },
+   {
+    "n": 19,
+    "text": "Fr. III Ehe. - Anna Barbara Gwinner a. Liebezell in"
+   },
+   {
+    "n": 20,
+    "text": "Würtemberg."
+   },
+   {
+    "n": 21,
+    "text": "3 K. — Aus I Ehe: 821 Joh. Daniel Emanuel. — 23"
+   },
+   {
+    "n": 22,
+    "text": "Sam. Friedrich. — Aus III Ehe: 30 Maria Marg."
+   },
+   {
+    "n": 23,
+    "text": "3 780 Maria Zürcher, geb. Wüthrich, Hauseigenthümerin, a."
+   },
+   {
+    "n": 24,
+    "text": "Bolligen - II, 40."
+   },
+   {
+    "n": 25,
+    "text": "4 796 Christian, Gutsbesitzer, a. Bolligen - II, 267."
+   },
+   {
+    "n": 26,
+    "text": "Fr. - Anna Paux a. Trayton in England."
+   },
+   {
+    "n": 27,
+    "text": "3 K. — 833 Karoline Rosette und Anna Maria. — 37"
+   },
+   {
+    "n": 28,
+    "text": "Christ. Adolf."
+   },
+   {
+    "n": 29,
+    "text": "5 813 Joh. Friedrich, Fuhrmann, a. Bolligen - I, 233."
+   },
+   {
+    "n": 30,
+    "text": "6 793 Daniel, Gypser, a. Hettiswyl - I, 125."
+   },
+   {
+    "n": 31,
+    "text": "Fr. II Ehe. - Elis. Christen a. Leimiswyl."
+   },
+   {
+    "n": 32,
+    "text": "8 K. I Ehe: 821 Maria Elis. — 24 Rosina. — 26 Marg."
+   },
+   {
+    "n": 33,
+    "text": "Louise. — 27 Emanuel Jakob Daniel. — 30 Marg. —"
+   },
+   {
+    "n": 34,
+    "text": "31 Joh. David Gottlieb. — 41 Maria Elis. Sophie. —"
+   },
+   {
+    "n": 35,
+    "text": "43 Karl Ludwig."
+   },
+   {
+    "n": 36,
+    "text": "7 816 Joh. Christian, Krämer, a. Bolligen - II, 184."
+   },
+   {
+    "n": 37,
+    "text": "8 816 Elisabetha, Ausschenkerin, a. Bolligen - IV, 117."
+   },
+   {
+    "n": 38,
+    "text": "Rolli."
+   },
+   {
+    "n": 39,
+    "text": "1 801 Christian, Lumpensammler, a. Köniz - VII, 146."
+   },
+   {
+    "n": 40,
+    "text": "804 Fr. - Anna Buchser a. Bätterkinden."
+   },
+   {
+    "n": 41,
+    "text": "1 T. — 832 Maria."
+   },
+   {
+    "n": 42,
+    "text": "Rommel."
+   },
+   {
+    "n": 43,
+    "text": "1 776 Joh. Jakob, gew. Zuckerbäcker, a. Kirchdorf - IV, 212."
+   },
+   {
+    "n": 44,
+    "text": "781 Fr. II Ehe. - Elis. Heer a. Rheinegg."
+   },
+   {
+    "n": 45,
+    "text": "3 K. I Ehe. — 813 Bendicht Friedrich Rudolf. — 16"
+   },
+   {
+    "n": 46,
+    "text": "Marg. Cäcile. — 20 Christ. Friedrich."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Rohr.",
+    "place": "Bern",
+    "surname": "Rohr",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Bannwart",
+    "address": "I, 201",
+    "quarter": "I",
+    "street": "",
+    "house_no": "201",
+    "origin": "Lauperswyl",
+    "birth_year": "1810",
+    "household": "815 Fr. - Elis. Bürki a. Langnau. 5 K. — 839 Sam. Friedrich. — 40 Karl Ludwig Dan. — 41 Christ. Gottl. — 43 Anna Mar. Elis. — 47 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 810 Samuel, Bannwart, a. Lauperswyl - I, 201. 815 Fr. - Elis. Bürki a. Langnau. 5 K. — 839 Sam. Friedrich. — 40 Karl Ludwig Dan. — 41 Christ. Gottl. — 43 Anna Mar. Elis. — 47 Maria."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Rohr.",
+    "place": "Bern",
+    "surname": "Rohr",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "V, 207",
+    "quarter": "V",
+    "street": "",
+    "house_no": "207",
+    "origin": "Langnau",
+    "birth_year": "1802",
+    "household": "812 Fr. - Anna Lehmann a. Signau. 2 K. — 40 Joh. Christ. — 41 Anna Lisette.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 802 Christian, Sattler, a. Langnau - V, 207. 812 Fr. - Anna Lehmann a. Signau. 2 K. — 40 Joh. Christ. — 41 Anna Lisette."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Rohrbach.",
+    "place": "Bern",
+    "surname": "Rohrbach",
+    "forename": "Barbara",
+    "title": "",
+    "occupation": "Modisten",
+    "address": "V, 116",
+    "quarter": "V",
+    "street": "",
+    "house_no": "116",
+    "origin": "Rüggisberg",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 u. 2 814 Barbara, u. 819 Maria Marg., Modisten, a. Rüggisberg - V, 116."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Rohrbach.",
+    "place": "Bern",
+    "surname": "Rohrbach",
+    "forename": "Maria Marg.",
+    "title": "",
+    "occupation": "Modisten",
+    "address": "V, 116",
+    "quarter": "V",
+    "street": "",
+    "house_no": "116",
+    "origin": "Rüggisberg",
+    "birth_year": "1819",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 u. 2 814 Barbara, u. 819 Maria Marg., Modisten, a. Rüggisberg - V, 116."
+   },
+   {
+    "line_from": 14,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Rohrer.",
+    "place": "Bern",
+    "surname": "Rohrer",
+    "forename": "Elis.",
+    "title": "geb. Wahli",
+    "occupation": "Hausbesitzerin u. Pintenwirthin",
+    "address": "II, 85",
+    "quarter": "II",
+    "street": "",
+    "house_no": "85",
+    "origin": "Bolligen",
+    "birth_year": "1780",
+    "household": "5 K. — 807 Jakob Albr. — 809 Karl Rud. — 11 Elis. — 12 Joh. Peter. — 16 Margaritha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 780 Elis., geb. Wahli, Hausbesitzerin u. Pintenwirthin, a. Bolligen - II, 85. 5 K. — 807 Jakob Albr. — 809 Karl Rud. — 11 Elis. — 12 Joh. Peter. — 16 Margaritha."
+   },
+   {
+    "line_from": 18,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Rohrer.",
+    "place": "Bern",
+    "surname": "Rohrer",
+    "forename": "Christ. Em.",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 144 u. 145",
+    "quarter": "V",
+    "street": "",
+    "house_no": "144 u. 145",
+    "origin": "Krauchthal",
+    "birth_year": "1788",
+    "household": "Fr. III Ehe. - Anna Barbara Gwinner a. Liebezell in Würtemberg. 3 K. — Aus I Ehe: 821 Joh. Daniel Emanuel. — 23 Sam. Friedrich. — Aus III Ehe: 30 Maria Marg.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 788 Christ. Em., Schneider, a. Krauchthal - V, 144 u. 145. Fr. III Ehe. - Anna Barbara Gwinner a. Liebezell in Würtemberg. 3 K. — Aus I Ehe: 821 Joh. Daniel Emanuel. — 23 Sam. Friedrich. — Aus III Ehe: 30 Maria Marg."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Rohrer.",
+    "place": "Bern",
+    "surname": "Zürcher",
+    "forename": "Maria",
+    "title": "geb. Wüthrich",
+    "occupation": "Hauseigenthümerin",
+    "address": "II, 40",
+    "quarter": "II",
+    "street": "",
+    "house_no": "40",
+    "origin": "Bolligen",
+    "birth_year": "1780",
+    "household": "",
+    "note": "",
+    "text": "3 780 Maria Zürcher, geb. Wüthrich, Hauseigenthümerin, a. Bolligen - II, 40."
+   },
+   {
+    "line_from": 25,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Rohrer.",
+    "place": "Bern",
+    "surname": "Rohrer",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Gutsbesitzer",
+    "address": "II, 267",
+    "quarter": "II",
+    "street": "",
+    "house_no": "267",
+    "origin": "Bolligen",
+    "birth_year": "1796",
+    "household": "Fr. - Anna Paux a. Trayton in England. 3 K. — 833 Karoline Rosette und Anna Maria. — 37 Christ. Adolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 796 Christian, Gutsbesitzer, a. Bolligen - II, 267. Fr. - Anna Paux a. Trayton in England. 3 K. — 833 Karoline Rosette und Anna Maria. — 37 Christ. Adolf."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Rohrer.",
+    "place": "Bern",
+    "surname": "Rohrer",
+    "forename": "Joh. Friedrich",
+    "title": "",
+    "occupation": "Fuhrmann",
+    "address": "I, 233",
+    "quarter": "I",
+    "street": "",
+    "house_no": "233",
+    "origin": "Bolligen",
+    "birth_year": "1813",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "5 813 Joh. Friedrich, Fuhrmann, a. Bolligen - I, 233."
+   },
+   {
+    "line_from": 30,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Rohrer.",
+    "place": "Bern",
+    "surname": "Rohrer",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Gypser",
+    "address": "I, 125",
+    "quarter": "I",
+    "street": "",
+    "house_no": "125",
+    "origin": "Hettiswyl",
+    "birth_year": "1793",
+    "household": "Fr. II Ehe. - Elis. Christen a. Leimiswyl. 8 K. I Ehe: 821 Maria Elis. — 24 Rosina. — 26 Marg. Louise. — 27 Emanuel Jakob Daniel. — 30 Marg. — 31 Joh. David Gottlieb. — 41 Maria Elis. Sophie. — 43 Karl Ludwig.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 793 Daniel, Gypser, a. Hettiswyl - I, 125. Fr. II Ehe. - Elis. Christen a. Leimiswyl. 8 K. I Ehe: 821 Maria Elis. — 24 Rosina. — 26 Marg. Louise. — 27 Emanuel Jakob Daniel. — 30 Marg. — 31 Joh. David Gottlieb. — 41 Maria Elis. Sophie. — 43 Karl Ludwig."
+   },
+   {
+    "line_from": 36,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Rohrer.",
+    "place": "Bern",
+    "surname": "Rohrer",
+    "forename": "Joh. Christian",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "II, 184",
+    "quarter": "II",
+    "street": "",
+    "house_no": "184",
+    "origin": "Bolligen",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "7 816 Joh. Christian, Krämer, a. Bolligen - II, 184."
+   },
+   {
+    "line_from": 37,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Rohrer.",
+    "place": "Bern",
+    "surname": "Rohrer",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Ausschenkerin",
+    "address": "IV, 117",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "117",
+    "origin": "Bolligen",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "8 816 Elisabetha, Ausschenkerin, a. Bolligen - IV, 117."
+   },
+   {
+    "line_from": 39,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Rolli.",
+    "place": "Bern",
+    "surname": "Rolli",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Lumpensammler",
+    "address": "VII, 146",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "146",
+    "origin": "Köniz",
+    "birth_year": "1801",
+    "household": "804 Fr. - Anna Buchser a. Bätterkinden. 1 T. — 832 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 801 Christian, Lumpensammler, a. Köniz - VII, 146. 804 Fr. - Anna Buchser a. Bätterkinden. 1 T. — 832 Maria."
+   },
+   {
+    "line_from": 43,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "Rommel.",
+    "place": "Bern",
+    "surname": "Rommel",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "gew. Zuckerbäcker",
+    "address": "IV, 212",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "212",
+    "origin": "Kirchdorf",
+    "birth_year": "1776",
+    "household": "781 Fr. II Ehe. - Elis. Heer a. Rheinegg. 3 K. I Ehe. — 813 Bendicht Friedrich Rudolf. — 16 Marg. Cäcile. — 20 Christ. Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 776 Joh. Jakob, gew. Zuckerbäcker, a. Kirchdorf - IV, 212. 781 Fr. II Ehe. - Elis. Heer a. Rheinegg. 3 K. I Ehe. — 813 Bendicht Friedrich Rudolf. — 16 Marg. Cäcile. — 20 Christ. Friedrich."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:28:55+01:00",
+ "last_error": null
+}

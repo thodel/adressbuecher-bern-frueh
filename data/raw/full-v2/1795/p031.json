@@ -1,0 +1,350 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 31,
+ "section": "handbuch",
+ "started": "2026-11-11T20:48:23+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 319.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 2620,
+  "thoughts": 37416
+ },
+ "response_text": "{\n  \"printed_page\": \"29\",\n  \"running_head\": \"Langenthal.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Langenthal. 29\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Joh. David Dennler, Buchbinder, ist nebst\"},\n    {\"n\": 4, \"text\": \"seiner Profession vorzüglich geschikt in Verfertigung\"},\n    {\"n\": 5, \"text\": \"allerhand Sachen von Pappendeckel. Er macht ver=\"},\n    {\"n\": 6, \"text\": \"schiedene Arten von Galanterien und Souvenirs, so\"},\n    {\"n\": 7, \"text\": \"schön, daß es ihm schwerlich jemand vorthun wird.\"},\n    {\"n\": 8, \"text\": \"Friedrich Zulauf, Joh. Ulrich Zulauf, und\"},\n    {\"n\": 9, \"text\": \"Peter Roth, halten eine Bleiche.\"},\n    {\"n\": 10, \"text\": \"Christian Sägisser und Fridrich Sägisser,\"},\n    {\"n\": 11, \"text\": \"Weiß-Spengler.\"},\n    {\"n\": 12, \"text\": \"Jakob Herzog, Wollenkarten = und Streichen=\"},\n    {\"n\": 13, \"text\": \"macher.\"},\n    {\"n\": 14, \"text\": \"Johannes Marty, von Langenthal, jetzt Zoll=\"},\n    {\"n\": 15, \"text\": \"Commis in Wangen, ist ein geschikter Mößingdrechs=\"},\n    {\"n\": 16, \"text\": \"ler und Gießer, montiert physicalische und optische\"},\n    {\"n\": 17, \"text\": \"Instrumente, verfertiget auch alle Arten von Schrau=\"},\n    {\"n\": 18, \"text\": \"ben zu Feuersprützen.\"},\n    {\"n\": 19, \"text\": \"Johannes Trösch, von Thunstetten, eine halbe\"},\n    {\"n\": 20, \"text\": \"Stunde von Langenthal, ein Bauer, hatte das Un=\"},\n    {\"n\": 21, \"text\": \"glük den rechten Arm zu verlieren, und zu Gewin=\"},\n    {\"n\": 22, \"text\": \"nung seines Unterhalts lernte er mit der linken\"},\n    {\"n\": 23, \"text\": \"Hand zeichnen; und brachte es darinn ohne Anwei=\"},\n    {\"n\": 24, \"text\": \"sung so weit, daß er verschiedene vües de la Suisse\"},\n    {\"n\": 25, \"text\": \"hat in Kupfer gestochen, so von ihm selbst aufgenom=\"},\n    {\"n\": 26, \"text\": \"men und illuminirt werden. Die Harrisonische Fa=\"},\n    {\"n\": 27, \"text\": \"brik ist eines seiner schönsten Stüke. Hr. Jakob\"},\n    {\"n\": 28, \"text\": \"Mumenthaler kann diese Prospecte liefern.\"},\n    {\"n\": 29, \"text\": \"Er hat verfertiget: 1 Das Bad bey Langen=\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Dennler\",\n      \"forename\": \"Joh. David\",\n      \"title\": \"Herr\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Joh. David Dennler, Buchbinder, ist nebst seiner Profession vorzüglich geschikt in Verfertigung allerhand Sachen von Pappendeckel. Er macht verschiedene Arten von Galanterien und Souvenirs, so schön, daß es ihm schwerlich jemand vorthun wird.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Zulauf\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"halten eine Bleiche\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Friedrich Zulauf, Joh. Ulrich Zulauf, und Peter Roth, halten eine Bleiche.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Zulauf\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"halten eine Bleiche\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Friedrich Zulauf, Joh. Ulrich Zulauf, und Peter Roth, halten eine Bleiche.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Roth\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"halten eine Bleiche\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Friedrich Zulauf, Joh. Ulrich Zulauf, und Peter Roth, halten eine Bleiche.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Sägisser\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Weiß-Spengler\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Christian Sägisser und Fridrich Sägisser, Weiß-Spengler.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Sägisser\",\n      \"forename\": \"Fridrich\",\n      \"title\": \"\",\n      \"occupation\": \"Weiß-Spengler\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Christian Sägisser und Fridrich Sägisser, Weiß-Spengler.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Herzog\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Wollenkarten = und Streichenmacher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Herzog, Wollenkarten = und Streichenmacher.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Marty\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Zoll-Commis, Mößingdrechsler und Gießer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"von Langenthal\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Marty, von Langenthal, jetzt Zoll-Commis in Wangen, ist ein geschikter Mößingdrechsler und Gießer, montiert physicalische und optische Instrumente, verfertiget auch alle Arten von Schrauben zu Feuersprützen.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Trösch\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Bauer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"von Thunstetten\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Trösch, von Thunstetten, eine halbe Stunde von Langenthal, ein Bauer, hatte das Unglük den rechten Arm zu verlieren, und zu Gewinnung seines Unterhalts lernte er mit der linken Hand zeichnen; und brachte es darinn ohne Anweisung so weit, daß er verschiedene vües de la Suisse hat in Kupfer gestochen, so von ihm selbst aufgenommen und illuminirt werden. Die Harrisonische Fabrik ist eines seiner schönsten Stüke. Hr. Jakob Mumenthaler kann diese Prospecte liefern.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"sonst\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Er hat verfertiget: 1 Das Bad bey Langen=\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "29",
+  "running_head": "Langenthal.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Langenthal. 29"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Joh. David Dennler, Buchbinder, ist nebst"
+   },
+   {
+    "n": 4,
+    "text": "seiner Profession vorzüglich geschikt in Verfertigung"
+   },
+   {
+    "n": 5,
+    "text": "allerhand Sachen von Pappendeckel. Er macht ver="
+   },
+   {
+    "n": 6,
+    "text": "schiedene Arten von Galanterien und Souvenirs, so"
+   },
+   {
+    "n": 7,
+    "text": "schön, daß es ihm schwerlich jemand vorthun wird."
+   },
+   {
+    "n": 8,
+    "text": "Friedrich Zulauf, Joh. Ulrich Zulauf, und"
+   },
+   {
+    "n": 9,
+    "text": "Peter Roth, halten eine Bleiche."
+   },
+   {
+    "n": 10,
+    "text": "Christian Sägisser und Fridrich Sägisser,"
+   },
+   {
+    "n": 11,
+    "text": "Weiß-Spengler."
+   },
+   {
+    "n": 12,
+    "text": "Jakob Herzog, Wollenkarten = und Streichen="
+   },
+   {
+    "n": 13,
+    "text": "macher."
+   },
+   {
+    "n": 14,
+    "text": "Johannes Marty, von Langenthal, jetzt Zoll="
+   },
+   {
+    "n": 15,
+    "text": "Commis in Wangen, ist ein geschikter Mößingdrechs="
+   },
+   {
+    "n": 16,
+    "text": "ler und Gießer, montiert physicalische und optische"
+   },
+   {
+    "n": 17,
+    "text": "Instrumente, verfertiget auch alle Arten von Schrau="
+   },
+   {
+    "n": 18,
+    "text": "ben zu Feuersprützen."
+   },
+   {
+    "n": 19,
+    "text": "Johannes Trösch, von Thunstetten, eine halbe"
+   },
+   {
+    "n": 20,
+    "text": "Stunde von Langenthal, ein Bauer, hatte das Un="
+   },
+   {
+    "n": 21,
+    "text": "glük den rechten Arm zu verlieren, und zu Gewin="
+   },
+   {
+    "n": 22,
+    "text": "nung seines Unterhalts lernte er mit der linken"
+   },
+   {
+    "n": 23,
+    "text": "Hand zeichnen; und brachte es darinn ohne Anwei="
+   },
+   {
+    "n": 24,
+    "text": "sung so weit, daß er verschiedene vües de la Suisse"
+   },
+   {
+    "n": 25,
+    "text": "hat in Kupfer gestochen, so von ihm selbst aufgenom="
+   },
+   {
+    "n": 26,
+    "text": "men und illuminirt werden. Die Harrisonische Fa="
+   },
+   {
+    "n": 27,
+    "text": "brik ist eines seiner schönsten Stüke. Hr. Jakob"
+   },
+   {
+    "n": 28,
+    "text": "Mumenthaler kann diese Prospecte liefern."
+   },
+   {
+    "n": 29,
+    "text": "Er hat verfertiget: 1 Das Bad bey Langen="
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Dennler",
+    "forename": "Joh. David",
+    "title": "Herr",
+    "occupation": "Buchbinder",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Joh. David Dennler, Buchbinder, ist nebst seiner Profession vorzüglich geschikt in Verfertigung allerhand Sachen von Pappendeckel. Er macht verschiedene Arten von Galanterien und Souvenirs, so schön, daß es ihm schwerlich jemand vorthun wird."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Zulauf",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "halten eine Bleiche",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friedrich Zulauf, Joh. Ulrich Zulauf, und Peter Roth, halten eine Bleiche."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Zulauf",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "halten eine Bleiche",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friedrich Zulauf, Joh. Ulrich Zulauf, und Peter Roth, halten eine Bleiche."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Roth",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "halten eine Bleiche",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friedrich Zulauf, Joh. Ulrich Zulauf, und Peter Roth, halten eine Bleiche."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Sägisser",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Weiß-Spengler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Christian Sägisser und Fridrich Sägisser, Weiß-Spengler."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Sägisser",
+    "forename": "Fridrich",
+    "title": "",
+    "occupation": "Weiß-Spengler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Christian Sägisser und Fridrich Sägisser, Weiß-Spengler."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Herzog",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Wollenkarten = und Streichenmacher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Herzog, Wollenkarten = und Streichenmacher."
+   },
+   {
+    "line_from": 14,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Marty",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Zoll-Commis, Mößingdrechsler und Gießer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "von Langenthal",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Marty, von Langenthal, jetzt Zoll-Commis in Wangen, ist ein geschikter Mößingdrechsler und Gießer, montiert physicalische und optische Instrumente, verfertiget auch alle Arten von Schrauben zu Feuersprützen."
+   },
+   {
+    "line_from": 19,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Trösch",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Bauer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "von Thunstetten",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Trösch, von Thunstetten, eine halbe Stunde von Langenthal, ein Bauer, hatte das Unglük den rechten Arm zu verlieren, und zu Gewinnung seines Unterhalts lernte er mit der linken Hand zeichnen; und brachte es darinn ohne Anweisung so weit, daß er verschiedene vües de la Suisse hat in Kupfer gestochen, so von ihm selbst aufgenommen und illuminirt werden. Die Harrisonische Fabrik ist eines seiner schönsten Stüke. Hr. Jakob Mumenthaler kann diese Prospecte liefern."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "sonst",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Er hat verfertiget: 1 Das Bad bey Langen="
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:53:43+01:00",
+ "last_error": null
+}

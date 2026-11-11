@@ -1,0 +1,94 @@
+{
+ "model": "gemini-3.8-flash",
+ "input": "data/raw/qwen-p029/1795/p029.json",
+ "finish_reason": "FinishReason.STOP",
+ "seconds": 8.1,
+ "finished": "2026-11-11T20:46:31+01:00",
+ "raw": "{\"corrections\": [{\"n\": 1, \"wrong\": \"Langenthal.\", \"right\": \"Langenthal. 27\", \"certain\": true}, {\"n\": 2, \"wrong\": \"Commission\", \"right\": \"Commision\", \"certain\": true}, {\"n\": 9, \"wrong\": \"„Die\", \"right\": \"„ Die\", \"certain\": true}, {\"n\": 9, \"wrong\": \"Buchbinder-Profession,\", \"right\": \"Buchbinder = Profession,\", \"certain\": true}, {\"n\": 15, \"wrong\": \"grosser\", \"right\": \"groffer\", \"certain\": false}, {\"n\": 15, \"wrong\": \"physika-\", \"right\": \"phyfi-\", \"certain\": true}, {\"n\": 16, \"wrong\": \"lischen\", \"right\": \"calischen\", \"certain\": true}, {\"n\": 17, \"wrong\": \"Sonnen-Microscop\", \"right\": \"Sonnen = Microscop\", \"certain\": true}, {\"n\": 19, \"wrong\": \"grosses\", \"right\": \"großes\", \"certain\": true}, {\"n\": 24, \"wrong\": \"Stofuhr,\", \"right\": \"Stokuhr,\", \"certain\": true}, {\"n\": 25, \"wrong\": \"Fuss\", \"right\": \"Fuß\", \"certain\": true}, {\"n\": 27, \"wrong\": \"muss\", \"right\": \"muß\", \"certain\": true}, {\"n\": 28, \"wrong\": \"weiss\", \"right\": \"weiß\", \"certain\": true}], \"line_breaks_ok\": true, \"missing_lines\": [], \"comment\": \"Die Seitenzahl 27 stand neben dem Kolumnentitel; typische Fraktur-Ersetzungsfehler bei ß/ss, k/f (Stokuhr) sowie ein deutlicher Lesefehler bei physikalischen (physi-calischen).\", \"complete\": true}",
+ "parsed": {
+  "corrections": [
+   {
+    "n": 1,
+    "wrong": "Langenthal.",
+    "right": "Langenthal. 27",
+    "certain": true
+   },
+   {
+    "n": 2,
+    "wrong": "Commission",
+    "right": "Commision",
+    "certain": true
+   },
+   {
+    "n": 9,
+    "wrong": "„Die",
+    "right": "„ Die",
+    "certain": true
+   },
+   {
+    "n": 9,
+    "wrong": "Buchbinder-Profession,",
+    "right": "Buchbinder = Profession,",
+    "certain": true
+   },
+   {
+    "n": 15,
+    "wrong": "grosser",
+    "right": "groffer",
+    "certain": false
+   },
+   {
+    "n": 15,
+    "wrong": "physika-",
+    "right": "phyfi-",
+    "certain": true
+   },
+   {
+    "n": 16,
+    "wrong": "lischen",
+    "right": "calischen",
+    "certain": true
+   },
+   {
+    "n": 17,
+    "wrong": "Sonnen-Microscop",
+    "right": "Sonnen = Microscop",
+    "certain": true
+   },
+   {
+    "n": 19,
+    "wrong": "grosses",
+    "right": "großes",
+    "certain": true
+   },
+   {
+    "n": 24,
+    "wrong": "Stofuhr,",
+    "right": "Stokuhr,",
+    "certain": true
+   },
+   {
+    "n": 25,
+    "wrong": "Fuss",
+    "right": "Fuß",
+    "certain": true
+   },
+   {
+    "n": 27,
+    "wrong": "muss",
+    "right": "muß",
+    "certain": true
+   },
+   {
+    "n": 28,
+    "wrong": "weiss",
+    "right": "weiß",
+    "certain": true
+   }
+  ],
+  "line_breaks_ok": true,
+  "missing_lines": [],
+  "comment": "Die Seitenzahl 27 stand neben dem Kolumnentitel; typische Fraktur-Ersetzungsfehler bei ß/ss, k/f (Stokuhr) sowie ein deutlicher Lesefehler bei physikalischen (physi-calischen).",
+  "complete": true
+ }
+}

@@ -1,0 +1,490 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 167,
+ "section": "einsassen",
+ "started": "2026-11-11T22:11:06+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 62.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4866,
+  "thoughts": 4753
+ },
+ "response_text": "{\n  \"printed_page\": \"154\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"— 154 —\" },\n    { \"n\": 2, \"text\": \"Nr. Geb.\" },\n    { \"n\": 3, \"text\": \"3 787 Ulrich, Mehlhändler, a. Grafenried - IV, 74.\" },\n    { \"n\": 4, \"text\": \"806 Fr. - Maria Stucki a. Diemtigen.\" },\n    { \"n\": 5, \"text\": \"5 K. - 837 Maria Kath. - 38 Maria Elis. - 40 Sam.\" },\n    { \"n\": 6, \"text\": \"Friedrich. - 43 Anna Ros. - 46 Ida Rosalie.\" },\n    { \"n\": 7, \"text\": \"4 Elisabetha, geb. Lüscher, Fischhändlerin, a. Zauggen-\" },\n    { \"n\": 8, \"text\": \"ried - III, 12.\" },\n    { \"n\": 9, \"text\": \"1 Großkind. - 831 Albrecht.\" },\n    { \"n\": 10, \"text\": \"Stebler.\" },\n    { \"n\": 11, \"text\": \"1 780 Bendicht, Krämer mit Ellenwaaren, a. Seedorf - III, 92.\" },\n    { \"n\": 12, \"text\": \"Stegmann.\" },\n    { \"n\": 13, \"text\": \"1 804 Johann, Friedrich, Hafner, a. Steffisburg - II, 41.\" },\n    { \"n\": 14, \"text\": \"804 Fr. - Margaritha Rosina Krebs a. Tolochenaz.\" },\n    { \"n\": 15, \"text\": \"2 809 Johann, Gastwirth zum eidg. Kreuz, a. Eriz - III, 19.\" },\n    { \"n\": 16, \"text\": \"810 Fr. - Elis. Bühlmann a. Uetendorf.\" },\n    { \"n\": 17, \"text\": \"6 K. - 834 Johann. - 35 Jakob. - 38 Anna Elis. -\" },\n    { \"n\": 18, \"text\": \"39 Magdalena. - 43 Verena. - 44 Maria Magd.\" },\n    { \"n\": 19, \"text\": \"Steiger.\" },\n    { \"n\": 20, \"text\": \"1 814 Jakob, Sattler, a. Bleienbach - IV, 109.\" },\n    { \"n\": 21, \"text\": \"Steinegger.\" },\n    { \"n\": 22, \"text\": \"1 797 Jakob Friedr. Rud., Trödler, a. Bleienbach - VII, 179.\" },\n    { \"n\": 23, \"text\": \"799 Fr. - Barbara Keller a. Wyl.\" },\n    { \"n\": 24, \"text\": \"8 K. - 823 Jakob Rud. - 25 Friedrich. - 28 Elis. -\" },\n    { \"n\": 25, \"text\": \"30 Maria Henriette. - 34 Anna Rosina. - 38 Louise.\" },\n    { \"n\": 26, \"text\": \"- 41 Johannes. - 43 Sophie.\" },\n    { \"n\": 27, \"text\": \"Steiner.\" },\n    { \"n\": 28, \"text\": \"1 787 Ulrich, Dachdecker, a. Langnau - VI, 70.\" },\n    { \"n\": 29, \"text\": \"779 Fr. - Anna Regina Welauer a. Meziken.\" },\n    { \"n\": 30, \"text\": \"1 T. - 813 Elisabetha.\" },\n    { \"n\": 31, \"text\": \"2 793 Christian, Schuhmacher, a. Langnau - IV, 308.\" },\n    { \"n\": 32, \"text\": \"3 789 Magdalena, geb. Frei, des Dachdeckers Wittwe, a.\" },\n    { \"n\": 33, \"text\": \"Signau - VI, 58.\" },\n    { \"n\": 34, \"text\": \"2 K. - 823 Marg. Kath. - 27 Joh. Markus Nikl.\" },\n    { \"n\": 35, \"text\": \"4 793 Jakob, Gärtner, a. Wyler - I, 46.\" },\n    { \"n\": 36, \"text\": \"3 K. - 824 Magd. Elis. - 26 Joh. Jakob. - 33 David\" },\n    { \"n\": 37, \"text\": \"Friedrich.\" },\n    { \"n\": 38, \"text\": \"5 805 Joh. Ludwig Nikl., Müller und Bäcker, a. Innerbirr-\" },\n    { \"n\": 39, \"text\": \"moos - VI, 30.\" },\n    { \"n\": 40, \"text\": \"Fr. - Kath. Neuenschwander a. Trub.\" },\n    { \"n\": 41, \"text\": \"1 T. - 841 Anna Maria.\" },\n    { \"n\": 42, \"text\": \"6 822 Louise, Bettmacherin, a. Biel - III, 52.\" },\n    { \"n\": 43, \"text\": \"7 Marg. Ros., geb. Fehlmann, Negotiantin mit Ellen-\" },\n    { \"n\": 44, \"text\": \"waaren, a. Mühlhausen - IV, 138.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlhändler\",\n      \"address\": \"IV, 74\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"74\",\n      \"origin\": \"Grafenried\",\n      \"birth_year\": \"1787\",\n      \"household\": \"806 Fr. - Maria Stucki a. Diemtigen. 5 K. - 837 Maria Kath. - 38 Maria Elis. - 40 Sam. Friedrich. - 43 Anna Ros. - 46 Ida Rosalie.\",\n      \"note\": \"\",\n      \"text\": \"3 787 Ulrich, Mehlhändler, a. Grafenried - IV, 74. 806 Fr. - Maria Stucki a. Diemtigen. 5 K. - 837 Maria Kath. - 38 Maria Elis. - 40 Sam. Friedrich. - 43 Anna Ros. - 46 Ida Rosalie.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Fischhändlerin\",\n      \"address\": \"III, 12\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"12\",\n      \"origin\": \"Zauggenried\",\n      \"birth_year\": \"\",\n      \"household\": \"1 Großkind. - 831 Albrecht.\",\n      \"note\": \"geb. Lüscher\",\n      \"text\": \"4 Elisabetha, geb. Lüscher, Fischhändlerin, a. Zauggenried - III, 12. 1 Großkind. - 831 Albrecht.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Stebler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stebler\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer mit Ellenwaaren\",\n      \"address\": \"III, 92\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"92\",\n      \"origin\": \"Seedorf\",\n      \"birth_year\": \"1780\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 780 Bendicht, Krämer mit Ellenwaaren, a. Seedorf - III, 92.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Stegmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stegmann\",\n      \"forename\": \"Johann, Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Hafner\",\n      \"address\": \"II, 41\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"41\",\n      \"origin\": \"Steffisburg\",\n      \"birth_year\": \"1804\",\n      \"household\": \"804 Fr. - Margaritha Rosina Krebs a. Tolochenaz.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Johann, Friedrich, Hafner, a. Steffisburg - II, 41. 804 Fr. - Margaritha Rosina Krebs a. Tolochenaz.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Stegmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stegmann\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirth zum eidg. Kreuz\",\n      \"address\": \"III, 19\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"19\",\n      \"origin\": \"Eriz\",\n      \"birth_year\": \"1809\",\n      \"household\": \"810 Fr. - Elis. Bühlmann a. Uetendorf. 6 K. - 834 Johann. - 35 Jakob. - 38 Anna Elis. - 39 Magdalena. - 43 Verena. - 44 Maria Magd.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 809 Johann, Gastwirth zum eidg. Kreuz, a. Eriz - III, 19. 810 Fr. - Elis. Bühlmann a. Uetendorf. 6 K. - 834 Johann. - 35 Jakob. - 38 Anna Elis. - 39 Magdalena. - 43 Verena. - 44 Maria Magd.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Steiger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steiger\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"IV, 109\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"109\",\n      \"origin\": \"Bleienbach\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Jakob, Sattler, a. Bleienbach - IV, 109.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Steinegger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steinegger\",\n      \"forename\": \"Jakob Friedr. Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Trödler\",\n      \"address\": \"VII, 179\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"179\",\n      \"origin\": \"Bleienbach\",\n      \"birth_year\": \"1797\",\n      \"household\": \"799 Fr. - Barbara Keller a. Wyl. 8 K. - 823 Jakob Rud. - 25 Friedrich. - 28 Elis. - 30 Maria Henriette. - 34 Anna Rosina. - 38 Louise. - 41 Johannes. - 43 Sophie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 Jakob Friedr. Rud., Trödler, a. Bleienbach - VII, 179. 799 Fr. - Barbara Keller a. Wyl. 8 K. - 823 Jakob Rud. - 25 Friedrich. - 28 Elis. - 30 Maria Henriette. - 34 Anna Rosina. - 38 Louise. - 41 Johannes. - 43 Sophie.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Steiner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steiner\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"VI, 70\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"70\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1787\",\n      \"household\": \"779 Fr. - Anna Regina Welauer a. Meziken. 1 T. - 813 Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 787 Ulrich, Dachdecker, a. Langnau - VI, 70. 779 Fr. - Anna Regina Welauer a. Meziken. 1 T. - 813 Elisabetha.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Steiner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steiner\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 308\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"308\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1793\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 793 Christian, Schuhmacher, a. Langnau - IV, 308.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Steiner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steiner\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"des Dachdeckers Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"VI, 58\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"58\",\n      \"origin\": \"Signau\",\n      \"birth_year\": \"1789\",\n      \"household\": \"2 K. - 823 Marg. Kath. - 27 Joh. Markus Nikl.\",\n      \"note\": \"Name aus Zwischentitel; geb. Frei\",\n      \"text\": \"3 789 Magdalena, geb. Frei, des Dachdeckers Wittwe, a. Signau - VI, 58. 2 K. - 823 Marg. Kath. - 27 Joh. Markus Nikl.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Steiner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steiner\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Gärtner\",\n      \"address\": \"I, 46\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"46\",\n      \"origin\": \"Wyler\",\n      \"birth_year\": \"1793\",\n      \"household\": \"3 K. - 824 Magd. Elis. - 26 Joh. Jakob. - 33 David Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 793 Jakob, Gärtner, a. Wyler - I, 46. 3 K. - 824 Magd. Elis. - 26 Joh. Jakob. - 33 David Friedrich.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Steiner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steiner\",\n      \"forename\": \"Joh. Ludwig Nikl.\",\n      \"title\": \"\",\n      \"occupation\": \"Müller und Bäcker\",\n      \"address\": \"VI, 30\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"30\",\n      \"origin\": \"Innerbirrmoos\",\n      \"birth_year\": \"1805\",\n      \"household\": \"Fr. - Kath. Neuenschwander a. Trub. 1 T. - 841 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 805 Joh. Ludwig Nikl., Müller und Bäcker, a. Innerbirrmoos - VI, 30. Fr. - Kath. Neuenschwander a. Trub. 1 T. - 841 Anna Maria.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Steiner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steiner\",\n      \"forename\": \"Louise\",\n      \"title\": \"\",\n      \"occupation\": \"Bettmacherin\",\n      \"address\": \"III, 52\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"52\",\n      \"origin\": \"Biel\",\n      \"birth_year\": \"1822\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 822 Louise, Bettmacherin, a. Biel - III, 52.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Steiner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steiner\",\n      \"forename\": \"Marg. Ros.\",\n      \"title\": \"\",\n      \"occupation\": \"Negotiantin mit Ellenwaaren\",\n      \"address\": \"IV, 138\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"138\",\n      \"origin\": \"Mühlhausen\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Fehlmann\",\n      \"text\": \"7 Marg. Ros., geb. Fehlmann, Negotiantin mit Ellenwaaren, a. Mühlhausen - IV, 138.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "154",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 154 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "3 787 Ulrich, Mehlhändler, a. Grafenried - IV, 74."
+   },
+   {
+    "n": 4,
+    "text": "806 Fr. - Maria Stucki a. Diemtigen."
+   },
+   {
+    "n": 5,
+    "text": "5 K. - 837 Maria Kath. - 38 Maria Elis. - 40 Sam."
+   },
+   {
+    "n": 6,
+    "text": "Friedrich. - 43 Anna Ros. - 46 Ida Rosalie."
+   },
+   {
+    "n": 7,
+    "text": "4 Elisabetha, geb. Lüscher, Fischhändlerin, a. Zauggen-"
+   },
+   {
+    "n": 8,
+    "text": "ried - III, 12."
+   },
+   {
+    "n": 9,
+    "text": "1 Großkind. - 831 Albrecht."
+   },
+   {
+    "n": 10,
+    "text": "Stebler."
+   },
+   {
+    "n": 11,
+    "text": "1 780 Bendicht, Krämer mit Ellenwaaren, a. Seedorf - III, 92."
+   },
+   {
+    "n": 12,
+    "text": "Stegmann."
+   },
+   {
+    "n": 13,
+    "text": "1 804 Johann, Friedrich, Hafner, a. Steffisburg - II, 41."
+   },
+   {
+    "n": 14,
+    "text": "804 Fr. - Margaritha Rosina Krebs a. Tolochenaz."
+   },
+   {
+    "n": 15,
+    "text": "2 809 Johann, Gastwirth zum eidg. Kreuz, a. Eriz - III, 19."
+   },
+   {
+    "n": 16,
+    "text": "810 Fr. - Elis. Bühlmann a. Uetendorf."
+   },
+   {
+    "n": 17,
+    "text": "6 K. - 834 Johann. - 35 Jakob. - 38 Anna Elis. -"
+   },
+   {
+    "n": 18,
+    "text": "39 Magdalena. - 43 Verena. - 44 Maria Magd."
+   },
+   {
+    "n": 19,
+    "text": "Steiger."
+   },
+   {
+    "n": 20,
+    "text": "1 814 Jakob, Sattler, a. Bleienbach - IV, 109."
+   },
+   {
+    "n": 21,
+    "text": "Steinegger."
+   },
+   {
+    "n": 22,
+    "text": "1 797 Jakob Friedr. Rud., Trödler, a. Bleienbach - VII, 179."
+   },
+   {
+    "n": 23,
+    "text": "799 Fr. - Barbara Keller a. Wyl."
+   },
+   {
+    "n": 24,
+    "text": "8 K. - 823 Jakob Rud. - 25 Friedrich. - 28 Elis. -"
+   },
+   {
+    "n": 25,
+    "text": "30 Maria Henriette. - 34 Anna Rosina. - 38 Louise."
+   },
+   {
+    "n": 26,
+    "text": "- 41 Johannes. - 43 Sophie."
+   },
+   {
+    "n": 27,
+    "text": "Steiner."
+   },
+   {
+    "n": 28,
+    "text": "1 787 Ulrich, Dachdecker, a. Langnau - VI, 70."
+   },
+   {
+    "n": 29,
+    "text": "779 Fr. - Anna Regina Welauer a. Meziken."
+   },
+   {
+    "n": 30,
+    "text": "1 T. - 813 Elisabetha."
+   },
+   {
+    "n": 31,
+    "text": "2 793 Christian, Schuhmacher, a. Langnau - IV, 308."
+   },
+   {
+    "n": 32,
+    "text": "3 789 Magdalena, geb. Frei, des Dachdeckers Wittwe, a."
+   },
+   {
+    "n": 33,
+    "text": "Signau - VI, 58."
+   },
+   {
+    "n": 34,
+    "text": "2 K. - 823 Marg. Kath. - 27 Joh. Markus Nikl."
+   },
+   {
+    "n": 35,
+    "text": "4 793 Jakob, Gärtner, a. Wyler - I, 46."
+   },
+   {
+    "n": 36,
+    "text": "3 K. - 824 Magd. Elis. - 26 Joh. Jakob. - 33 David"
+   },
+   {
+    "n": 37,
+    "text": "Friedrich."
+   },
+   {
+    "n": 38,
+    "text": "5 805 Joh. Ludwig Nikl., Müller und Bäcker, a. Innerbirr-"
+   },
+   {
+    "n": 39,
+    "text": "moos - VI, 30."
+   },
+   {
+    "n": 40,
+    "text": "Fr. - Kath. Neuenschwander a. Trub."
+   },
+   {
+    "n": 41,
+    "text": "1 T. - 841 Anna Maria."
+   },
+   {
+    "n": 42,
+    "text": "6 822 Louise, Bettmacherin, a. Biel - III, 52."
+   },
+   {
+    "n": 43,
+    "text": "7 Marg. Ros., geb. Fehlmann, Negotiantin mit Ellen-"
+   },
+   {
+    "n": 44,
+    "text": "waaren, a. Mühlhausen - IV, 138."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Mehlhändler",
+    "address": "IV, 74",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "74",
+    "origin": "Grafenried",
+    "birth_year": "1787",
+    "household": "806 Fr. - Maria Stucki a. Diemtigen. 5 K. - 837 Maria Kath. - 38 Maria Elis. - 40 Sam. Friedrich. - 43 Anna Ros. - 46 Ida Rosalie.",
+    "note": "",
+    "text": "3 787 Ulrich, Mehlhändler, a. Grafenried - IV, 74. 806 Fr. - Maria Stucki a. Diemtigen. 5 K. - 837 Maria Kath. - 38 Maria Elis. - 40 Sam. Friedrich. - 43 Anna Ros. - 46 Ida Rosalie."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Fischhändlerin",
+    "address": "III, 12",
+    "quarter": "III",
+    "street": "",
+    "house_no": "12",
+    "origin": "Zauggenried",
+    "birth_year": "",
+    "household": "1 Großkind. - 831 Albrecht.",
+    "note": "geb. Lüscher",
+    "text": "4 Elisabetha, geb. Lüscher, Fischhändlerin, a. Zauggenried - III, 12. 1 Großkind. - 831 Albrecht."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Stebler.",
+    "place": "Bern",
+    "surname": "Stebler",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Krämer mit Ellenwaaren",
+    "address": "III, 92",
+    "quarter": "III",
+    "street": "",
+    "house_no": "92",
+    "origin": "Seedorf",
+    "birth_year": "1780",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 780 Bendicht, Krämer mit Ellenwaaren, a. Seedorf - III, 92."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Stegmann.",
+    "place": "Bern",
+    "surname": "Stegmann",
+    "forename": "Johann, Friedrich",
+    "title": "",
+    "occupation": "Hafner",
+    "address": "II, 41",
+    "quarter": "II",
+    "street": "",
+    "house_no": "41",
+    "origin": "Steffisburg",
+    "birth_year": "1804",
+    "household": "804 Fr. - Margaritha Rosina Krebs a. Tolochenaz.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Johann, Friedrich, Hafner, a. Steffisburg - II, 41. 804 Fr. - Margaritha Rosina Krebs a. Tolochenaz."
+   },
+   {
+    "line_from": 15,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Stegmann.",
+    "place": "Bern",
+    "surname": "Stegmann",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Gastwirth zum eidg. Kreuz",
+    "address": "III, 19",
+    "quarter": "III",
+    "street": "",
+    "house_no": "19",
+    "origin": "Eriz",
+    "birth_year": "1809",
+    "household": "810 Fr. - Elis. Bühlmann a. Uetendorf. 6 K. - 834 Johann. - 35 Jakob. - 38 Anna Elis. - 39 Magdalena. - 43 Verena. - 44 Maria Magd.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 809 Johann, Gastwirth zum eidg. Kreuz, a. Eriz - III, 19. 810 Fr. - Elis. Bühlmann a. Uetendorf. 6 K. - 834 Johann. - 35 Jakob. - 38 Anna Elis. - 39 Magdalena. - 43 Verena. - 44 Maria Magd."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Steiger.",
+    "place": "Bern",
+    "surname": "Steiger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "IV, 109",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "109",
+    "origin": "Bleienbach",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Jakob, Sattler, a. Bleienbach - IV, 109."
+   },
+   {
+    "line_from": 22,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Steinegger.",
+    "place": "Bern",
+    "surname": "Steinegger",
+    "forename": "Jakob Friedr. Rud.",
+    "title": "",
+    "occupation": "Trödler",
+    "address": "VII, 179",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "179",
+    "origin": "Bleienbach",
+    "birth_year": "1797",
+    "household": "799 Fr. - Barbara Keller a. Wyl. 8 K. - 823 Jakob Rud. - 25 Friedrich. - 28 Elis. - 30 Maria Henriette. - 34 Anna Rosina. - 38 Louise. - 41 Johannes. - 43 Sophie.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 Jakob Friedr. Rud., Trödler, a. Bleienbach - VII, 179. 799 Fr. - Barbara Keller a. Wyl. 8 K. - 823 Jakob Rud. - 25 Friedrich. - 28 Elis. - 30 Maria Henriette. - 34 Anna Rosina. - 38 Louise. - 41 Johannes. - 43 Sophie."
+   },
+   {
+    "line_from": 28,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Steiner.",
+    "place": "Bern",
+    "surname": "Steiner",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "VI, 70",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "70",
+    "origin": "Langnau",
+    "birth_year": "1787",
+    "household": "779 Fr. - Anna Regina Welauer a. Meziken. 1 T. - 813 Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 787 Ulrich, Dachdecker, a. Langnau - VI, 70. 779 Fr. - Anna Regina Welauer a. Meziken. 1 T. - 813 Elisabetha."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Steiner.",
+    "place": "Bern",
+    "surname": "Steiner",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 308",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "308",
+    "origin": "Langnau",
+    "birth_year": "1793",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 793 Christian, Schuhmacher, a. Langnau - IV, 308."
+   },
+   {
+    "line_from": 32,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Steiner.",
+    "place": "Bern",
+    "surname": "Steiner",
+    "forename": "Magdalena",
+    "title": "des Dachdeckers Wittwe",
+    "occupation": "",
+    "address": "VI, 58",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "58",
+    "origin": "Signau",
+    "birth_year": "1789",
+    "household": "2 K. - 823 Marg. Kath. - 27 Joh. Markus Nikl.",
+    "note": "Name aus Zwischentitel; geb. Frei",
+    "text": "3 789 Magdalena, geb. Frei, des Dachdeckers Wittwe, a. Signau - VI, 58. 2 K. - 823 Marg. Kath. - 27 Joh. Markus Nikl."
+   },
+   {
+    "line_from": 35,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Steiner.",
+    "place": "Bern",
+    "surname": "Steiner",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Gärtner",
+    "address": "I, 46",
+    "quarter": "I",
+    "street": "",
+    "house_no": "46",
+    "origin": "Wyler",
+    "birth_year": "1793",
+    "household": "3 K. - 824 Magd. Elis. - 26 Joh. Jakob. - 33 David Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 793 Jakob, Gärtner, a. Wyler - I, 46. 3 K. - 824 Magd. Elis. - 26 Joh. Jakob. - 33 David Friedrich."
+   },
+   {
+    "line_from": 38,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Steiner.",
+    "place": "Bern",
+    "surname": "Steiner",
+    "forename": "Joh. Ludwig Nikl.",
+    "title": "",
+    "occupation": "Müller und Bäcker",
+    "address": "VI, 30",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "30",
+    "origin": "Innerbirrmoos",
+    "birth_year": "1805",
+    "household": "Fr. - Kath. Neuenschwander a. Trub. 1 T. - 841 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 805 Joh. Ludwig Nikl., Müller und Bäcker, a. Innerbirrmoos - VI, 30. Fr. - Kath. Neuenschwander a. Trub. 1 T. - 841 Anna Maria."
+   },
+   {
+    "line_from": 42,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Steiner.",
+    "place": "Bern",
+    "surname": "Steiner",
+    "forename": "Louise",
+    "title": "",
+    "occupation": "Bettmacherin",
+    "address": "III, 52",
+    "quarter": "III",
+    "street": "",
+    "house_no": "52",
+    "origin": "Biel",
+    "birth_year": "1822",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "6 822 Louise, Bettmacherin, a. Biel - III, 52."
+   },
+   {
+    "line_from": 43,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Steiner.",
+    "place": "Bern",
+    "surname": "Steiner",
+    "forename": "Marg. Ros.",
+    "title": "",
+    "occupation": "Negotiantin mit Ellenwaaren",
+    "address": "IV, 138",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "138",
+    "origin": "Mühlhausen",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Fehlmann",
+    "text": "7 Marg. Ros., geb. Fehlmann, Negotiantin mit Ellenwaaren, a. Mühlhausen - IV, 138."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:12:09+01:00",
+ "last_error": null
+}

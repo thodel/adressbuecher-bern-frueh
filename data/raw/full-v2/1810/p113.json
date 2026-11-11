@@ -1,0 +1,374 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 113,
+ "section": "ville",
+ "started": "2026-11-11T20:58:07+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 54.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2301,
+  "output": 2820,
+  "thoughts": 5141
+ },
+ "response_text": "{\n  \"printed_page\": \"40\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"40\"},\n    {\"n\": 2, \"text\": \"Pharmaciens.\"},\n    {\"n\": 3, \"text\": \"Morel , Jaques. … Q. v. 181.\"},\n    {\"n\": 4, \"text\": \"Mukey , J. Fréd. … — bl. 119.\"},\n    {\"n\": 5, \"text\": \"Pagenstecher , J. Sam. Fréd. … — v. 193.\"},\n    {\"n\": 6, \"text\": \"Roudrauf , Fréd. … — j. 74.\"},\n    {\"n\": 7, \"text\": \"Wagner de Ortbühl. … — v. 53.\"},\n    {\"n\": 8, \"text\": \"Wyttenbach, Docteur en Médecin. — v. 228.\"},\n    {\"n\": 9, \"text\": \"Porcelaine , voyez Fayence.\"},\n    {\"n\": 10, \"text\": \"Potiers d'étain.\"},\n    {\"n\": 11, \"text\": \"Iselin , Jaques. … Q. v. 75.\"},\n    {\"n\": 12, \"text\": \"Meley , Fréd. … — v. 76.\"},\n    {\"n\": 13, \"text\": \"Roder , J. Sam. … — r. 135.\"},\n    {\"n\": 14, \"text\": \"Poudres et Salpêtre.\"},\n    {\"n\": 15, \"text\": \"Herbort , Albrecht , Directeur de la\"},\n    {\"n\": 16, \"text\": \"Regie cantonale. … Q. r. 131.\"},\n    {\"n\": 17, \"text\": \"Le détail de la poudre se fait par les épiciers et\"},\n    {\"n\": 18, \"text\": \"les marchands de fer.\"},\n    {\"n\": 19, \"text\": \"Poudre à poudrer.\"},\n    {\"n\": 20, \"text\": \"Houg , J, Sam. . Fabric. de poudre. Q. v. 71.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Pharmaciens.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Morel\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 181.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"181\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Morel , Jaques. Q. v. 181.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Pharmaciens.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mukey\",\n      \"forename\": \"J. Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— bl. 119.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"119\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mukey , J. Fréd. — bl. 119.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Pharmaciens.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pagenstecher\",\n      \"forename\": \"J. Sam. Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 193.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"193\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pagenstecher , J. Sam. Fréd. — v. 193.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Pharmaciens.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Roudrauf\",\n      \"forename\": \"Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— j. 74.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"74\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Roudrauf , Fréd. — j. 74.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Pharmaciens.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wagner de Ortbühl\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 53.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"53\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wagner de Ortbühl. — v. 53.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Pharmaciens.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wyttenbach\",\n      \"forename\": \"\",\n      \"title\": \"Docteur en Médecin.\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 228.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"228\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wyttenbach, Docteur en Médecin. — v. 228.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"verweis\",\n      \"heading\": \"Porcelaine\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Porcelaine , voyez Fayence.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Potiers d'étain.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Iselin\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 75.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Iselin , Jaques. Q. v. 75.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Potiers d'étain.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Meley\",\n      \"forename\": \"Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 76.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"76\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Meley , Fréd. — v. 76.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Potiers d'étain.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Roder\",\n      \"forename\": \"J. Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 135.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"135\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Roder , J. Sam. — r. 135.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Poudres et Salpêtre.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herbort\",\n      \"forename\": \"Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"Directeur de la Regie cantonale\",\n      \"address\": \"Q. r. 131.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"131\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herbort , Albrecht , Directeur de la Regie cantonale. Q. r. 131.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"sonst\",\n      \"heading\": \"Poudres et Salpêtre.\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Le détail de la poudre se fait par les épiciers et les marchands de fer.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Poudre à poudrer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Houg\",\n      \"forename\": \"J, Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Fabric. de poudre\",\n      \"address\": \"Q. v. 71.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"71\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Houg , J, Sam. . Fabric. de poudre. Q. v. 71.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "40",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "40"
+   },
+   {
+    "n": 2,
+    "text": "Pharmaciens."
+   },
+   {
+    "n": 3,
+    "text": "Morel , Jaques. … Q. v. 181."
+   },
+   {
+    "n": 4,
+    "text": "Mukey , J. Fréd. … — bl. 119."
+   },
+   {
+    "n": 5,
+    "text": "Pagenstecher , J. Sam. Fréd. … — v. 193."
+   },
+   {
+    "n": 6,
+    "text": "Roudrauf , Fréd. … — j. 74."
+   },
+   {
+    "n": 7,
+    "text": "Wagner de Ortbühl. … — v. 53."
+   },
+   {
+    "n": 8,
+    "text": "Wyttenbach, Docteur en Médecin. — v. 228."
+   },
+   {
+    "n": 9,
+    "text": "Porcelaine , voyez Fayence."
+   },
+   {
+    "n": 10,
+    "text": "Potiers d'étain."
+   },
+   {
+    "n": 11,
+    "text": "Iselin , Jaques. … Q. v. 75."
+   },
+   {
+    "n": 12,
+    "text": "Meley , Fréd. … — v. 76."
+   },
+   {
+    "n": 13,
+    "text": "Roder , J. Sam. … — r. 135."
+   },
+   {
+    "n": 14,
+    "text": "Poudres et Salpêtre."
+   },
+   {
+    "n": 15,
+    "text": "Herbort , Albrecht , Directeur de la"
+   },
+   {
+    "n": 16,
+    "text": "Regie cantonale. … Q. r. 131."
+   },
+   {
+    "n": 17,
+    "text": "Le détail de la poudre se fait par les épiciers et"
+   },
+   {
+    "n": 18,
+    "text": "les marchands de fer."
+   },
+   {
+    "n": 19,
+    "text": "Poudre à poudrer."
+   },
+   {
+    "n": 20,
+    "text": "Houg , J, Sam. . Fabric. de poudre. Q. v. 71."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Pharmaciens.",
+    "place": "Bern",
+    "surname": "Morel",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 181.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "181",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Morel , Jaques. Q. v. 181."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Pharmaciens.",
+    "place": "Bern",
+    "surname": "Mukey",
+    "forename": "J. Fréd.",
+    "title": "",
+    "occupation": "",
+    "address": "— bl. 119.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "119",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mukey , J. Fréd. — bl. 119."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Pharmaciens.",
+    "place": "Bern",
+    "surname": "Pagenstecher",
+    "forename": "J. Sam. Fréd.",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 193.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "193",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pagenstecher , J. Sam. Fréd. — v. 193."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Pharmaciens.",
+    "place": "Bern",
+    "surname": "Roudrauf",
+    "forename": "Fréd.",
+    "title": "",
+    "occupation": "",
+    "address": "— j. 74.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "74",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Roudrauf , Fréd. — j. 74."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Pharmaciens.",
+    "place": "Bern",
+    "surname": "Wagner de Ortbühl",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 53.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "53",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wagner de Ortbühl. — v. 53."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Pharmaciens.",
+    "place": "Bern",
+    "surname": "Wyttenbach",
+    "forename": "",
+    "title": "Docteur en Médecin.",
+    "occupation": "",
+    "address": "— v. 228.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "228",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wyttenbach, Docteur en Médecin. — v. 228."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "verweis",
+    "heading": "Porcelaine",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Porcelaine , voyez Fayence."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Potiers d'étain.",
+    "place": "Bern",
+    "surname": "Iselin",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 75.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "75",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Iselin , Jaques. Q. v. 75."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Potiers d'étain.",
+    "place": "Bern",
+    "surname": "Meley",
+    "forename": "Fréd.",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 76.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "76",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Meley , Fréd. — v. 76."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Potiers d'étain.",
+    "place": "Bern",
+    "surname": "Roder",
+    "forename": "J. Sam.",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 135.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "135",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Roder , J. Sam. — r. 135."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Poudres et Salpêtre.",
+    "place": "Bern",
+    "surname": "Herbort",
+    "forename": "Albrecht",
+    "title": "",
+    "occupation": "Directeur de la Regie cantonale",
+    "address": "Q. r. 131.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "131",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herbort , Albrecht , Directeur de la Regie cantonale. Q. r. 131."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "sonst",
+    "heading": "Poudres et Salpêtre.",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Le détail de la poudre se fait par les épiciers et les marchands de fer."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Poudre à poudrer.",
+    "place": "Bern",
+    "surname": "Houg",
+    "forename": "J, Sam.",
+    "title": "",
+    "occupation": "Fabric. de poudre",
+    "address": "Q. v. 71.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "71",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Houg , J, Sam. . Fabric. de poudre. Q. v. 71."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:59:01+01:00",
+ "last_error": null
+}

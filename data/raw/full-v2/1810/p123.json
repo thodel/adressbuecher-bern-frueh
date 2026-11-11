@@ -1,0 +1,470 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 123,
+ "section": "canton",
+ "started": "2026-11-11T20:58:57+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 22.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2305,
+  "output": 3545,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"50\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"50\" },\n    { \"n\": 2, \"text\": \"Langenthal.\" },\n    { \"n\": 3, \"text\": \"Dennler, David, Soieries.\" },\n    { \"n\": 4, \"text\": \"Dennler, Fréderic, Epicerie, Droguerie, Com-\" },\n    { \"n\": 5, \"text\": \"merce de Vin.\" },\n    { \"n\": 6, \"text\": \"Dennler, la Veuve, Apoticaire, Droguerie,\" },\n    { \"n\": 7, \"text\": \"Commerce de Vin.\" },\n    { \"n\": 8, \"text\": \"Geiser, Fréderic, Commerce de Vin.\" },\n    { \"n\": 9, \"text\": \"Marti, les frères, Epicerie, Toiles et autres\" },\n    { \"n\": 10, \"text\": \"Etoffes.\" },\n    { \"n\": 11, \"text\": \"Marti et Geiser, Commerce de Vin.\" },\n    { \"n\": 12, \"text\": \"Marti, la Veuve. Cuirs.\" },\n    { \"n\": 13, \"text\": \"Mummenthaler, J. David, Commerce de Fro-\" },\n    { \"n\": 14, \"text\": \"mages, Fruits secs, Eau de cerises, Su-\" },\n    { \"n\": 15, \"text\": \"cre de lait, Toiles et autres produits du\" },\n    { \"n\": 16, \"text\": \"sol et des manufactures du pays, Drogue-\" },\n    { \"n\": 17, \"text\": \"rie, Epicerie, Quincaillerie, Papier, Fabr.\" },\n    { \"n\": 18, \"text\": \"de Chandelles, Il tient un cabinet de lec-\" },\n    { \"n\": 19, \"text\": \"ture, au quel est reuni un cabinet de\" },\n    { \"n\": 20, \"text\": \"physique.\" },\n    { \"n\": 21, \"text\": \"Mummenthaler, Fréderic de Félice, Fer et Lai-\" },\n    { \"n\": 22, \"text\": \"ton, en gros et en détail.\" },\n    { \"n\": 23, \"text\": \"Neukom, la Veuve, Etoffes diverses.\" },\n    { \"n\": 24, \"text\": \"Ruegger, les frères, Toiles et Etoffes diverses.\" },\n    { \"n\": 25, \"text\": \"Schmid, Félice, Epiceries et Etoffes diverses.\" },\n    { \"n\": 26, \"text\": \"Schnéeberger, Jaques, Toiles blanches.\" },\n    { \"n\": 27, \"text\": \"Zoulauf, Félice, Blanchisseur.\" },\n    { \"n\": 28, \"text\": \"Zoulauf, Jaques, Toiles blanches.\" },\n    { \"n\": 29, \"text\": \"Zoulauf, J. Ulric, Blanchisseur.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Dennler\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Soieries\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dennler, David, Soieries.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Dennler\",\n      \"forename\": \"Fréderic\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie, Droguerie, Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dennler, Fréderic, Epicerie, Droguerie, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Dennler\",\n      \"forename\": \"\",\n      \"title\": \"la Veuve\",\n      \"occupation\": \"Apoticaire, Droguerie, Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dennler, la Veuve, Apoticaire, Droguerie, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Geiser\",\n      \"forename\": \"Fréderic\",\n      \"title\": \"\",\n      \"occupation\": \"Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Geiser, Fréderic, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"firma\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Marti\",\n      \"forename\": \"\",\n      \"title\": \"les frères\",\n      \"occupation\": \"Epicerie, Toiles et autres Etoffes\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Marti, les frères, Epicerie, Toiles et autres Etoffes.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Marti et Geiser\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Marti et Geiser, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Marti\",\n      \"forename\": \"\",\n      \"title\": \"la Veuve\",\n      \"occupation\": \"Cuirs\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Marti, la Veuve. Cuirs.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Mummenthaler\",\n      \"forename\": \"J. David\",\n      \"title\": \"\",\n      \"occupation\": \"Commerce de Fromages, Fruits secs, Eau de cerises, Sucre de lait, Toiles et autres produits du sol et des manufactures du pays, Droguerie, Epicerie, Quincaillerie, Papier, Fabr. de Chandelles, Il tient un cabinet de lecture, au quel est reuni un cabinet de physique\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mummenthaler, J. David, Commerce de Fromages, Fruits secs, Eau de cerises, Sucre de lait, Toiles et autres produits du sol et des manufactures du pays, Droguerie, Epicerie, Quincaillerie, Papier, Fabr. de Chandelles, Il tient un cabinet de lecture, au quel est reuni un cabinet de physique.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Mummenthaler\",\n      \"forename\": \"Fréderic\",\n      \"title\": \"de Félice\",\n      \"occupation\": \"Fer et Laiton, en gros et en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mummenthaler, Fréderic de Félice, Fer et Laiton, en gros et en détail.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Neukom\",\n      \"forename\": \"\",\n      \"title\": \"la Veuve\",\n      \"occupation\": \"Etoffes diverses\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Neukom, la Veuve, Etoffes diverses.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"firma\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Ruegger\",\n      \"forename\": \"\",\n      \"title\": \"les frères\",\n      \"occupation\": \"Toiles et Etoffes diverses\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ruegger, les frères, Toiles et Etoffes diverses.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"Félice\",\n      \"title\": \"\",\n      \"occupation\": \"Epiceries et Etoffes diverses\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schmid, Félice, Epiceries et Etoffes diverses.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Schnéeberger\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Toiles blanches\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schnéeberger, Jaques, Toiles blanches.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Zoulauf\",\n      \"forename\": \"Félice\",\n      \"title\": \"\",\n      \"occupation\": \"Blanchisseur\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zoulauf, Félice, Blanchisseur.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Zoulauf\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Toiles blanches\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zoulauf, Jaques, Toiles blanches.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal.\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Zoulauf\",\n      \"forename\": \"J. Ulric\",\n      \"title\": \"\",\n      \"occupation\": \"Blanchisseur\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zoulauf, J. Ulric, Blanchisseur.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "50",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "50"
+   },
+   {
+    "n": 2,
+    "text": "Langenthal."
+   },
+   {
+    "n": 3,
+    "text": "Dennler, David, Soieries."
+   },
+   {
+    "n": 4,
+    "text": "Dennler, Fréderic, Epicerie, Droguerie, Com-"
+   },
+   {
+    "n": 5,
+    "text": "merce de Vin."
+   },
+   {
+    "n": 6,
+    "text": "Dennler, la Veuve, Apoticaire, Droguerie,"
+   },
+   {
+    "n": 7,
+    "text": "Commerce de Vin."
+   },
+   {
+    "n": 8,
+    "text": "Geiser, Fréderic, Commerce de Vin."
+   },
+   {
+    "n": 9,
+    "text": "Marti, les frères, Epicerie, Toiles et autres"
+   },
+   {
+    "n": 10,
+    "text": "Etoffes."
+   },
+   {
+    "n": 11,
+    "text": "Marti et Geiser, Commerce de Vin."
+   },
+   {
+    "n": 12,
+    "text": "Marti, la Veuve. Cuirs."
+   },
+   {
+    "n": 13,
+    "text": "Mummenthaler, J. David, Commerce de Fro-"
+   },
+   {
+    "n": 14,
+    "text": "mages, Fruits secs, Eau de cerises, Su-"
+   },
+   {
+    "n": 15,
+    "text": "cre de lait, Toiles et autres produits du"
+   },
+   {
+    "n": 16,
+    "text": "sol et des manufactures du pays, Drogue-"
+   },
+   {
+    "n": 17,
+    "text": "rie, Epicerie, Quincaillerie, Papier, Fabr."
+   },
+   {
+    "n": 18,
+    "text": "de Chandelles, Il tient un cabinet de lec-"
+   },
+   {
+    "n": 19,
+    "text": "ture, au quel est reuni un cabinet de"
+   },
+   {
+    "n": 20,
+    "text": "physique."
+   },
+   {
+    "n": 21,
+    "text": "Mummenthaler, Fréderic de Félice, Fer et Lai-"
+   },
+   {
+    "n": 22,
+    "text": "ton, en gros et en détail."
+   },
+   {
+    "n": 23,
+    "text": "Neukom, la Veuve, Etoffes diverses."
+   },
+   {
+    "n": 24,
+    "text": "Ruegger, les frères, Toiles et Etoffes diverses."
+   },
+   {
+    "n": 25,
+    "text": "Schmid, Félice, Epiceries et Etoffes diverses."
+   },
+   {
+    "n": 26,
+    "text": "Schnéeberger, Jaques, Toiles blanches."
+   },
+   {
+    "n": 27,
+    "text": "Zoulauf, Félice, Blanchisseur."
+   },
+   {
+    "n": 28,
+    "text": "Zoulauf, Jaques, Toiles blanches."
+   },
+   {
+    "n": 29,
+    "text": "Zoulauf, J. Ulric, Blanchisseur."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Dennler",
+    "forename": "David",
+    "title": "",
+    "occupation": "Soieries",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dennler, David, Soieries."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Dennler",
+    "forename": "Fréderic",
+    "title": "",
+    "occupation": "Epicerie, Droguerie, Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dennler, Fréderic, Epicerie, Droguerie, Commerce de Vin."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Dennler",
+    "forename": "",
+    "title": "la Veuve",
+    "occupation": "Apoticaire, Droguerie, Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dennler, la Veuve, Apoticaire, Droguerie, Commerce de Vin."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Geiser",
+    "forename": "Fréderic",
+    "title": "",
+    "occupation": "Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Geiser, Fréderic, Commerce de Vin."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "firma",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Marti",
+    "forename": "",
+    "title": "les frères",
+    "occupation": "Epicerie, Toiles et autres Etoffes",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Marti, les frères, Epicerie, Toiles et autres Etoffes."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Marti et Geiser",
+    "forename": "",
+    "title": "",
+    "occupation": "Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Marti et Geiser, Commerce de Vin."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Marti",
+    "forename": "",
+    "title": "la Veuve",
+    "occupation": "Cuirs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Marti, la Veuve. Cuirs."
+   },
+   {
+    "line_from": 13,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Mummenthaler",
+    "forename": "J. David",
+    "title": "",
+    "occupation": "Commerce de Fromages, Fruits secs, Eau de cerises, Sucre de lait, Toiles et autres produits du sol et des manufactures du pays, Droguerie, Epicerie, Quincaillerie, Papier, Fabr. de Chandelles, Il tient un cabinet de lecture, au quel est reuni un cabinet de physique",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mummenthaler, J. David, Commerce de Fromages, Fruits secs, Eau de cerises, Sucre de lait, Toiles et autres produits du sol et des manufactures du pays, Droguerie, Epicerie, Quincaillerie, Papier, Fabr. de Chandelles, Il tient un cabinet de lecture, au quel est reuni un cabinet de physique."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Mummenthaler",
+    "forename": "Fréderic",
+    "title": "de Félice",
+    "occupation": "Fer et Laiton, en gros et en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mummenthaler, Fréderic de Félice, Fer et Laiton, en gros et en détail."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Neukom",
+    "forename": "",
+    "title": "la Veuve",
+    "occupation": "Etoffes diverses",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Neukom, la Veuve, Etoffes diverses."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "firma",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Ruegger",
+    "forename": "",
+    "title": "les frères",
+    "occupation": "Toiles et Etoffes diverses",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ruegger, les frères, Toiles et Etoffes diverses."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Schmid",
+    "forename": "Félice",
+    "title": "",
+    "occupation": "Epiceries et Etoffes diverses",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schmid, Félice, Epiceries et Etoffes diverses."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Schnéeberger",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "Toiles blanches",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schnéeberger, Jaques, Toiles blanches."
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Zoulauf",
+    "forename": "Félice",
+    "title": "",
+    "occupation": "Blanchisseur",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zoulauf, Félice, Blanchisseur."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Zoulauf",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "Toiles blanches",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zoulauf, Jaques, Toiles blanches."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Langenthal.",
+    "place": "Langenthal",
+    "surname": "Zoulauf",
+    "forename": "J. Ulric",
+    "title": "",
+    "occupation": "Blanchisseur",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zoulauf, J. Ulric, Blanchisseur."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:59:19+01:00",
+ "last_error": null
+}

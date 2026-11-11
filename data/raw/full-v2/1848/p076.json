@@ -1,0 +1,390 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 76,
+ "section": "einsassen",
+ "started": "2026-11-11T22:01:13+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 60.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3655,
+  "thoughts": 5814
+ },
+ "response_text": "{\n  \"printed_page\": \"63\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 63 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Hehlen.\"},\n    {\"n\": 4, \"text\": \"1 786 Anna Magd., geb. Stauffer, Wochenmarktkrämerin u.\"},\n    {\"n\": 5, \"text\": \"Finkenmacherin, a. Bolligen - VI, 117 b.\"},\n    {\"n\": 6, \"text\": \"Heidelberger.\"},\n    {\"n\": 7, \"text\": \"1 802 Franz Joseph, Schreiner, a. Rohrbach im Badischen\"},\n    {\"n\": 8, \"text\": \"- V, 10.\"},\n    {\"n\": 9, \"text\": \"797 Fr. - Elis. Geiser, verw. Hofer, a. Langenthal.\"},\n    {\"n\": 10, \"text\": \"Heim.\"},\n    {\"n\": 11, \"text\": \"1 u. 2 797 Maria Rosina, u. 807 Sophie Maria Magd., Schnei-\"},\n    {\"n\": 12, \"text\": \"derinnen, a. Wilderswyl - II, 251.\"},\n    {\"n\": 13, \"text\": \"3 819 Rudolf August, Sattler u. Tapezierer, a. Wilderswyl\"},\n    {\"n\": 14, \"text\": \"- IV, 98.\"},\n    {\"n\": 15, \"text\": \"822 Fr. - Maria Ursula Oechslin a. Schaffhausen.\"},\n    {\"n\": 16, \"text\": \"4 801 Philipp, Schuhmacher, a. Weil in Würtemberg -\"},\n    {\"n\": 17, \"text\": \"III, 80.\"},\n    {\"n\": 18, \"text\": \"802 Fr. - Kath. Lüthi a. Röthenbach.\"},\n    {\"n\": 19, \"text\": \"3 K. - 832 A. Maria Wilhelmine. - 36 Friedrich. -\"},\n    {\"n\": 20, \"text\": \"39 Karl Gotthelf Moriz.\"},\n    {\"n\": 21, \"text\": \"Heimel.\"},\n    {\"n\": 22, \"text\": \"1 802 Karl Ludwig Friedrich, Notar, a. Kappelen b. Aarberg\"},\n    {\"n\": 23, \"text\": \"- IV, 175.\"},\n    {\"n\": 24, \"text\": \"811 Fr. - Etiennette Alb. Güder a. Bern.\"},\n    {\"n\": 25, \"text\": \"2 K. - 839 Emma Kath. - 40 Rud. Friedrich Robert.\"},\n    {\"n\": 26, \"text\": \"Heiniger.\"},\n    {\"n\": 27, \"text\": \"1 790 Johann, Flachmaler, a. Affoltern - II, 219.\"},\n    {\"n\": 28, \"text\": \"793 Fr. II Ehe. - Maria Röthlisberger, geb. Gilgen.\"},\n    {\"n\": 29, \"text\": \"4 K. aus I Ehe. - 821 Rosina Louise. - 23 Maria\"},\n    {\"n\": 30, \"text\": \"Kath. - 27 Joh. Friedr. Rudolf. - 29 Joh. Gottfried\"},\n    {\"n\": 31, \"text\": \"Bernhard.\"},\n    {\"n\": 32, \"text\": \"2 810 Niklaus, Schneider, a. Dürrenroth - III, 102.\"},\n    {\"n\": 33, \"text\": \"Heller a. Kirchlindach.\"},\n    {\"n\": 34, \"text\": \"1 809 Maria Elis., geb. Mettler, Glashändlerin - V, 108.\"},\n    {\"n\": 35, \"text\": \"1 T. - 836 Maria Kath.\"},\n    {\"n\": 36, \"text\": \"Hemmerling.\"},\n    {\"n\": 37, \"text\": \"1 799 Maria Marg., geb. Heim, a. Vivis, Stickwaarenhänd-\"},\n    {\"n\": 38, \"text\": \"lerin, Associirte des Hauses Hemmerling-Heim u. Comp.\"},\n    {\"n\": 39, \"text\": \"- III, 92.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Hehlen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hehlen\",\n      \"forename\": \"Anna Magd.\",\n      \"title\": \"geb. Stauffer\",\n      \"occupation\": \"Wochenmarktkrämerin u. Finkenmacherin\",\n      \"address\": \"VI, 117 b.\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"117 b.\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1786\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 786 Anna Magd., geb. Stauffer, Wochenmarktkrämerin u. Finkenmacherin, a. Bolligen - VI, 117 b.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Heidelberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heidelberger\",\n      \"forename\": \"Franz Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"V, 10.\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"10.\",\n      \"origin\": \"Rohrbach im Badischen\",\n      \"birth_year\": \"1802\",\n      \"household\": \"797 Fr. - Elis. Geiser, verw. Hofer, a. Langenthal.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Franz Joseph, Schreiner, a. Rohrbach im Badischen - V, 10. 797 Fr. - Elis. Geiser, verw. Hofer, a. Langenthal.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Heim.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heim\",\n      \"forename\": \"Maria Rosina, u. Sophie Maria Magd.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderinnen\",\n      \"address\": \"II, 251.\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"251.\",\n      \"origin\": \"Wilderswyl\",\n      \"birth_year\": \"1797\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 u. 2 797 Maria Rosina, u. 807 Sophie Maria Magd., Schneiderinnen, a. Wilderswyl - II, 251.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Heim.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heim\",\n      \"forename\": \"Rudolf August\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler u. Tapezierer\",\n      \"address\": \"IV, 98.\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"98.\",\n      \"origin\": \"Wilderswyl\",\n      \"birth_year\": \"1819\",\n      \"household\": \"822 Fr. - Maria Ursula Oechslin a. Schaffhausen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 819 Rudolf August, Sattler u. Tapezierer, a. Wilderswyl - IV, 98. 822 Fr. - Maria Ursula Oechslin a. Schaffhausen.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Heim.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heim\",\n      \"forename\": \"Philipp\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"III, 80.\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"80.\",\n      \"origin\": \"Weil in Würtemberg\",\n      \"birth_year\": \"1801\",\n      \"household\": \"802 Fr. - Kath. Lüthi a. Röthenbach. 3 K. - 832 A. Maria Wilhelmine. - 36 Friedrich. - 39 Karl Gotthelf Moriz.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 801 Philipp, Schuhmacher, a. Weil in Würtemberg - III, 80. 802 Fr. - Kath. Lüthi a. Röthenbach. 3 K. - 832 A. Maria Wilhelmine. - 36 Friedrich. - 39 Karl Gotthelf Moriz.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Heimel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heimel\",\n      \"forename\": \"Karl Ludwig Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Notar\",\n      \"address\": \"IV, 175.\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"175.\",\n      \"origin\": \"Kappelen b. Aarberg\",\n      \"birth_year\": \"1802\",\n      \"household\": \"811 Fr. - Etiennette Alb. Güder a. Bern. 2 K. - 839 Emma Kath. - 40 Rud. Friedrich Robert.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Karl Ludwig Friedrich, Notar, a. Kappelen b. Aarberg - IV, 175. 811 Fr. - Etiennette Alb. Güder a. Bern. 2 K. - 839 Emma Kath. - 40 Rud. Friedrich Robert.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Heiniger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heiniger\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Flachmaler\",\n      \"address\": \"II, 219.\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"219.\",\n      \"origin\": \"Affoltern\",\n      \"birth_year\": \"1790\",\n      \"household\": \"793 Fr. II Ehe. - Maria Röthlisberger, geb. Gilgen. 4 K. aus I Ehe. - 821 Rosina Louise. - 23 Maria Kath. - 27 Joh. Friedr. Rudolf. - 29 Joh. Gottfried Bernhard.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Johann, Flachmaler, a. Affoltern - II, 219. 793 Fr. II Ehe. - Maria Röthlisberger, geb. Gilgen. 4 K. aus I Ehe. - 821 Rosina Louise. - 23 Maria Kath. - 27 Joh. Friedr. Rudolf. - 29 Joh. Gottfried Bernhard.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Heiniger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heiniger\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"III, 102.\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"102.\",\n      \"origin\": \"Dürrenroth\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 810 Niklaus, Schneider, a. Dürrenroth - III, 102.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Heller a. Kirchlindach.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heller\",\n      \"forename\": \"Maria Elis.\",\n      \"title\": \"geb. Mettler\",\n      \"occupation\": \"Glashändlerin\",\n      \"address\": \"V, 108.\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"108.\",\n      \"origin\": \"Kirchlindach\",\n      \"birth_year\": \"1809\",\n      \"household\": \"1 T. - 836 Maria Kath.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Maria Elis., geb. Mettler, Glashändlerin - V, 108. 1 T. - 836 Maria Kath.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Hemmerling.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hemmerling\",\n      \"forename\": \"Maria Marg.\",\n      \"title\": \"geb. Heim\",\n      \"occupation\": \"Stickwaarenhändlerin, Associirte des Hauses Hemmerling-Heim u. Comp.\",\n      \"address\": \"III, 92.\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"92.\",\n      \"origin\": \"Vivis\",\n      \"birth_year\": \"1799\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Maria Marg., geb. Heim, a. Vivis, Stickwaarenhändlerin, Associirte des Hauses Hemmerling-Heim u. Comp. - III, 92.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "63",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 63 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Hehlen."
+   },
+   {
+    "n": 4,
+    "text": "1 786 Anna Magd., geb. Stauffer, Wochenmarktkrämerin u."
+   },
+   {
+    "n": 5,
+    "text": "Finkenmacherin, a. Bolligen - VI, 117 b."
+   },
+   {
+    "n": 6,
+    "text": "Heidelberger."
+   },
+   {
+    "n": 7,
+    "text": "1 802 Franz Joseph, Schreiner, a. Rohrbach im Badischen"
+   },
+   {
+    "n": 8,
+    "text": "- V, 10."
+   },
+   {
+    "n": 9,
+    "text": "797 Fr. - Elis. Geiser, verw. Hofer, a. Langenthal."
+   },
+   {
+    "n": 10,
+    "text": "Heim."
+   },
+   {
+    "n": 11,
+    "text": "1 u. 2 797 Maria Rosina, u. 807 Sophie Maria Magd., Schnei-"
+   },
+   {
+    "n": 12,
+    "text": "derinnen, a. Wilderswyl - II, 251."
+   },
+   {
+    "n": 13,
+    "text": "3 819 Rudolf August, Sattler u. Tapezierer, a. Wilderswyl"
+   },
+   {
+    "n": 14,
+    "text": "- IV, 98."
+   },
+   {
+    "n": 15,
+    "text": "822 Fr. - Maria Ursula Oechslin a. Schaffhausen."
+   },
+   {
+    "n": 16,
+    "text": "4 801 Philipp, Schuhmacher, a. Weil in Würtemberg -"
+   },
+   {
+    "n": 17,
+    "text": "III, 80."
+   },
+   {
+    "n": 18,
+    "text": "802 Fr. - Kath. Lüthi a. Röthenbach."
+   },
+   {
+    "n": 19,
+    "text": "3 K. - 832 A. Maria Wilhelmine. - 36 Friedrich. -"
+   },
+   {
+    "n": 20,
+    "text": "39 Karl Gotthelf Moriz."
+   },
+   {
+    "n": 21,
+    "text": "Heimel."
+   },
+   {
+    "n": 22,
+    "text": "1 802 Karl Ludwig Friedrich, Notar, a. Kappelen b. Aarberg"
+   },
+   {
+    "n": 23,
+    "text": "- IV, 175."
+   },
+   {
+    "n": 24,
+    "text": "811 Fr. - Etiennette Alb. Güder a. Bern."
+   },
+   {
+    "n": 25,
+    "text": "2 K. - 839 Emma Kath. - 40 Rud. Friedrich Robert."
+   },
+   {
+    "n": 26,
+    "text": "Heiniger."
+   },
+   {
+    "n": 27,
+    "text": "1 790 Johann, Flachmaler, a. Affoltern - II, 219."
+   },
+   {
+    "n": 28,
+    "text": "793 Fr. II Ehe. - Maria Röthlisberger, geb. Gilgen."
+   },
+   {
+    "n": 29,
+    "text": "4 K. aus I Ehe. - 821 Rosina Louise. - 23 Maria"
+   },
+   {
+    "n": 30,
+    "text": "Kath. - 27 Joh. Friedr. Rudolf. - 29 Joh. Gottfried"
+   },
+   {
+    "n": 31,
+    "text": "Bernhard."
+   },
+   {
+    "n": 32,
+    "text": "2 810 Niklaus, Schneider, a. Dürrenroth - III, 102."
+   },
+   {
+    "n": 33,
+    "text": "Heller a. Kirchlindach."
+   },
+   {
+    "n": 34,
+    "text": "1 809 Maria Elis., geb. Mettler, Glashändlerin - V, 108."
+   },
+   {
+    "n": 35,
+    "text": "1 T. - 836 Maria Kath."
+   },
+   {
+    "n": 36,
+    "text": "Hemmerling."
+   },
+   {
+    "n": 37,
+    "text": "1 799 Maria Marg., geb. Heim, a. Vivis, Stickwaarenhänd-"
+   },
+   {
+    "n": 38,
+    "text": "lerin, Associirte des Hauses Hemmerling-Heim u. Comp."
+   },
+   {
+    "n": 39,
+    "text": "- III, 92."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Hehlen.",
+    "place": "Bern",
+    "surname": "Hehlen",
+    "forename": "Anna Magd.",
+    "title": "geb. Stauffer",
+    "occupation": "Wochenmarktkrämerin u. Finkenmacherin",
+    "address": "VI, 117 b.",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "117 b.",
+    "origin": "Bolligen",
+    "birth_year": "1786",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 786 Anna Magd., geb. Stauffer, Wochenmarktkrämerin u. Finkenmacherin, a. Bolligen - VI, 117 b."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Heidelberger.",
+    "place": "Bern",
+    "surname": "Heidelberger",
+    "forename": "Franz Joseph",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "V, 10.",
+    "quarter": "V",
+    "street": "",
+    "house_no": "10.",
+    "origin": "Rohrbach im Badischen",
+    "birth_year": "1802",
+    "household": "797 Fr. - Elis. Geiser, verw. Hofer, a. Langenthal.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Franz Joseph, Schreiner, a. Rohrbach im Badischen - V, 10. 797 Fr. - Elis. Geiser, verw. Hofer, a. Langenthal."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Heim.",
+    "place": "Bern",
+    "surname": "Heim",
+    "forename": "Maria Rosina, u. Sophie Maria Magd.",
+    "title": "",
+    "occupation": "Schneiderinnen",
+    "address": "II, 251.",
+    "quarter": "II",
+    "street": "",
+    "house_no": "251.",
+    "origin": "Wilderswyl",
+    "birth_year": "1797",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 u. 2 797 Maria Rosina, u. 807 Sophie Maria Magd., Schneiderinnen, a. Wilderswyl - II, 251."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Heim.",
+    "place": "Bern",
+    "surname": "Heim",
+    "forename": "Rudolf August",
+    "title": "",
+    "occupation": "Sattler u. Tapezierer",
+    "address": "IV, 98.",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "98.",
+    "origin": "Wilderswyl",
+    "birth_year": "1819",
+    "household": "822 Fr. - Maria Ursula Oechslin a. Schaffhausen.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 819 Rudolf August, Sattler u. Tapezierer, a. Wilderswyl - IV, 98. 822 Fr. - Maria Ursula Oechslin a. Schaffhausen."
+   },
+   {
+    "line_from": 16,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Heim.",
+    "place": "Bern",
+    "surname": "Heim",
+    "forename": "Philipp",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "III, 80.",
+    "quarter": "III",
+    "street": "",
+    "house_no": "80.",
+    "origin": "Weil in Würtemberg",
+    "birth_year": "1801",
+    "household": "802 Fr. - Kath. Lüthi a. Röthenbach. 3 K. - 832 A. Maria Wilhelmine. - 36 Friedrich. - 39 Karl Gotthelf Moriz.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 801 Philipp, Schuhmacher, a. Weil in Würtemberg - III, 80. 802 Fr. - Kath. Lüthi a. Röthenbach. 3 K. - 832 A. Maria Wilhelmine. - 36 Friedrich. - 39 Karl Gotthelf Moriz."
+   },
+   {
+    "line_from": 22,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Heimel.",
+    "place": "Bern",
+    "surname": "Heimel",
+    "forename": "Karl Ludwig Friedrich",
+    "title": "",
+    "occupation": "Notar",
+    "address": "IV, 175.",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "175.",
+    "origin": "Kappelen b. Aarberg",
+    "birth_year": "1802",
+    "household": "811 Fr. - Etiennette Alb. Güder a. Bern. 2 K. - 839 Emma Kath. - 40 Rud. Friedrich Robert.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Karl Ludwig Friedrich, Notar, a. Kappelen b. Aarberg - IV, 175. 811 Fr. - Etiennette Alb. Güder a. Bern. 2 K. - 839 Emma Kath. - 40 Rud. Friedrich Robert."
+   },
+   {
+    "line_from": 27,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Heiniger.",
+    "place": "Bern",
+    "surname": "Heiniger",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Flachmaler",
+    "address": "II, 219.",
+    "quarter": "II",
+    "street": "",
+    "house_no": "219.",
+    "origin": "Affoltern",
+    "birth_year": "1790",
+    "household": "793 Fr. II Ehe. - Maria Röthlisberger, geb. Gilgen. 4 K. aus I Ehe. - 821 Rosina Louise. - 23 Maria Kath. - 27 Joh. Friedr. Rudolf. - 29 Joh. Gottfried Bernhard.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Johann, Flachmaler, a. Affoltern - II, 219. 793 Fr. II Ehe. - Maria Röthlisberger, geb. Gilgen. 4 K. aus I Ehe. - 821 Rosina Louise. - 23 Maria Kath. - 27 Joh. Friedr. Rudolf. - 29 Joh. Gottfried Bernhard."
+   },
+   {
+    "line_from": 32,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Heiniger.",
+    "place": "Bern",
+    "surname": "Heiniger",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "III, 102.",
+    "quarter": "III",
+    "street": "",
+    "house_no": "102.",
+    "origin": "Dürrenroth",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 810 Niklaus, Schneider, a. Dürrenroth - III, 102."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Heller a. Kirchlindach.",
+    "place": "Bern",
+    "surname": "Heller",
+    "forename": "Maria Elis.",
+    "title": "geb. Mettler",
+    "occupation": "Glashändlerin",
+    "address": "V, 108.",
+    "quarter": "V",
+    "street": "",
+    "house_no": "108.",
+    "origin": "Kirchlindach",
+    "birth_year": "1809",
+    "household": "1 T. - 836 Maria Kath.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Maria Elis., geb. Mettler, Glashändlerin - V, 108. 1 T. - 836 Maria Kath."
+   },
+   {
+    "line_from": 37,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Hemmerling.",
+    "place": "Bern",
+    "surname": "Hemmerling",
+    "forename": "Maria Marg.",
+    "title": "geb. Heim",
+    "occupation": "Stickwaarenhändlerin, Associirte des Hauses Hemmerling-Heim u. Comp.",
+    "address": "III, 92.",
+    "quarter": "III",
+    "street": "",
+    "house_no": "92.",
+    "origin": "Vivis",
+    "birth_year": "1799",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Maria Marg., geb. Heim, a. Vivis, Stickwaarenhändlerin, Associirte des Hauses Hemmerling-Heim u. Comp. - III, 92."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:02:13+01:00",
+ "last_error": null
+}

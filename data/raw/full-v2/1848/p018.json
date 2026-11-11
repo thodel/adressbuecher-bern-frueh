@@ -1,0 +1,446 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 18,
+ "section": "einsassen",
+ "started": "2026-11-11T21:55:13+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 58.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4191,
+  "thoughts": 5037
+ },
+ "response_text": "{\n  \"printed_page\": \"5\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 5 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Anderwerth.\"},\n    {\"n\": 4, \"text\": \"1 813 Johann, Schuhmachermeister, a. Emishofen, K. Thur-\"},\n    {\"n\": 5, \"text\": \"gau — II, 23.\"},\n    {\"n\": 6, \"text\": \"812 Fr. — Anna Sterchi a. Lützelflüh.\"},\n    {\"n\": 7, \"text\": \"2 T. — 843 Margaritha. — 41 Maria Anna.\"},\n    {\"n\": 8, \"text\": \"Andres.\"},\n    {\"n\": 9, \"text\": \"1 806 Johannes, Weinhändler, a. Wynau — III, 13.\"},\n    {\"n\": 10, \"text\": \"786 Fr. — Anna Maria Flückiger, verw. Lüthi, a. Rüderswyl.\"},\n    {\"n\": 11, \"text\": \"*2 808 Andreas, Kellerwirth, a. Aarwangen — II, 206.\"},\n    {\"n\": 12, \"text\": \"824 Fr. II Ehe. — Anna Pfister, bern. Landsassin.\"},\n    {\"n\": 13, \"text\": \"2 K. — Aus I Ehe: 838 Marianne. — Aus II Ehe:\"},\n    {\"n\": 14, \"text\": \"40 Rudolf.\"},\n    {\"n\": 15, \"text\": \"3 797 Hans Rudolf, Schuhmacher, a. Bargen — I, 215.\"},\n    {\"n\": 16, \"text\": \"Fr. — Elisabetha Andres a. Bargen.\"},\n    {\"n\": 17, \"text\": \"5 K. — 830 Johannes. — 36 Magdalena. — 38 Abraham\"},\n    {\"n\": 18, \"text\": \"u. Peter Hans. — 43 Anna.\"},\n    {\"n\": 19, \"text\": \"Andrist.\"},\n    {\"n\": 20, \"text\": \"1 813 Sus. Katharina, Barbiererin, a. Boltigen — II, 24 u. 25.\"},\n    {\"n\": 21, \"text\": \"Anker.\"},\n    {\"n\": 22, \"text\": \"1 804 Johannes, Schuhmacher, a. Ins — V, 162.\"},\n    {\"n\": 23, \"text\": \"796 Fr. — Charlotte Probst a. Finsterhennen.\"},\n    {\"n\": 24, \"text\": \"2 S. — 832 Johann Daniel. — 34 Johann Gottlieb.\"},\n    {\"n\": 25, \"text\": \"Anneler.\"},\n    {\"n\": 26, \"text\": \"1 802 Joh. Emanuel Friedrich, Müller, a. Thun — VI, 11.\"},\n    {\"n\": 27, \"text\": \"807 Fr. — Maria Anna Eicher a. Riggisberg.\"},\n    {\"n\": 28, \"text\": \"1 S. — 829 Karl Friedrich.\"},\n    {\"n\": 29, \"text\": \"Antenen.\"},\n    {\"n\": 30, \"text\": \"1 795 Christian, Gärtner, a. Bleiken — IV, 329 b.\"},\n    {\"n\": 31, \"text\": \"794 Fr. — Elisabetha Zaugg a. Lützelflüh.\"},\n    {\"n\": 32, \"text\": \"Anton.\"},\n    {\"n\": 33, \"text\": \"1 776 Johann Jakob, gew. Handelsmann, a. Basel, privat. —\"},\n    {\"n\": 34, \"text\": \"III, 131 a.\"},\n    {\"n\": 35, \"text\": \"App.\"},\n    {\"n\": 36, \"text\": \"1 Mathias, Schuhmacher, a. Hingen, K. Basel-Land-\"},\n    {\"n\": 37, \"text\": \"schaft — IV, 67.\"},\n    {\"n\": 38, \"text\": \"798 Fr. — Susanna Ryser a. Seedorf.\"},\n    {\"n\": 39, \"text\": \"Appolloni.\"},\n    {\"n\": 40, \"text\": \"1 796 Elisabetha, geb. Liechti, a. Heimiswyl, Spinnerin — II, 216.\"},\n    {\"n\": 41, \"text\": \"2 812 Niklaus, Schneidermeister, a. Ochlenberg, Kgde. Her-\"},\n    {\"n\": 42, \"text\": \"zogenbuchsee — IV, 88.\"},\n    {\"n\": 43, \"text\": \"812 Fr. — Susanna Katharina Annen a. Saanen.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Anderwerth\",\n      \"place\": \"Bern\",\n      \"surname\": \"Anderwerth\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmachermeister\",\n      \"address\": \"II, 23\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"23\",\n      \"origin\": \"Emishofen, K. Thurgau\",\n      \"birth_year\": \"1813\",\n      \"household\": \"812 Fr. — Anna Sterchi a. Lützelflüh. 2 T. — 843 Margaritha. — 41 Maria Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Johann, Schuhmachermeister, a. Emishofen, K. Thurgau — II, 23. 812 Fr. — Anna Sterchi a. Lützelflüh. 2 T. — 843 Margaritha. — 41 Maria Anna.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Andres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Andres\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhändler\",\n      \"address\": \"III, 13\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"13\",\n      \"origin\": \"Wynau\",\n      \"birth_year\": \"1806\",\n      \"household\": \"786 Fr. — Anna Maria Flückiger, verw. Lüthi, a. Rüderswyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 806 Johannes, Weinhändler, a. Wynau — III, 13. 786 Fr. — Anna Maria Flückiger, verw. Lüthi, a. Rüderswyl.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Andres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Andres\",\n      \"forename\": \"Andreas\",\n      \"title\": \"\",\n      \"occupation\": \"Kellerwirth\",\n      \"address\": \"II, 206\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"206\",\n      \"origin\": \"Aarwangen\",\n      \"birth_year\": \"1808\",\n      \"household\": \"824 Fr. II Ehe. — Anna Pfister, bern. Landsassin. 2 K. — Aus I Ehe: 838 Marianne. — Aus II Ehe: 40 Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"*2 808 Andreas, Kellerwirth, a. Aarwangen — II, 206. 824 Fr. II Ehe. — Anna Pfister, bern. Landsassin. 2 K. — Aus I Ehe: 838 Marianne. — Aus II Ehe: 40 Rudolf.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Andres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Andres\",\n      \"forename\": \"Hans Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"I, 215\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215\",\n      \"origin\": \"Bargen\",\n      \"birth_year\": \"1797\",\n      \"household\": \"Fr. — Elisabetha Andres a. Bargen. 5 K. — 830 Johannes. — 36 Magdalena. — 38 Abraham u. Peter Hans. — 43 Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 797 Hans Rudolf, Schuhmacher, a. Bargen — I, 215. Fr. — Elisabetha Andres a. Bargen. 5 K. — 830 Johannes. — 36 Magdalena. — 38 Abraham u. Peter Hans. — 43 Anna.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Andrist\",\n      \"place\": \"Bern\",\n      \"surname\": \"Andrist\",\n      \"forename\": \"Sus. Katharina\",\n      \"title\": \"\",\n      \"occupation\": \"Barbiererin\",\n      \"address\": \"II, 24 u. 25\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"24 u. 25\",\n      \"origin\": \"Boltigen\",\n      \"birth_year\": \"1813\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Sus. Katharina, Barbiererin, a. Boltigen — II, 24 u. 25.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Anker\",\n      \"place\": \"Bern\",\n      \"surname\": \"Anker\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 162\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"162\",\n      \"origin\": \"Ins\",\n      \"birth_year\": \"1804\",\n      \"household\": \"796 Fr. — Charlotte Probst a. Finsterhennen. 2 S. — 832 Johann Daniel. — 34 Johann Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Johannes, Schuhmacher, a. Ins — V, 162. 796 Fr. — Charlotte Probst a. Finsterhennen. 2 S. — 832 Johann Daniel. — 34 Johann Gottlieb.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Anneler\",\n      \"place\": \"Bern\",\n      \"surname\": \"Anneler\",\n      \"forename\": \"Joh. Emanuel Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"VI, 11\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"11\",\n      \"origin\": \"Thun\",\n      \"birth_year\": \"1802\",\n      \"household\": \"807 Fr. — Maria Anna Eicher a. Riggisberg. 1 S. — 829 Karl Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Joh. Emanuel Friedrich, Müller, a. Thun — VI, 11. 807 Fr. — Maria Anna Eicher a. Riggisberg. 1 S. — 829 Karl Friedrich.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Antenen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Antenen\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Gärtner\",\n      \"address\": \"IV, 329 b\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"329 b\",\n      \"origin\": \"Bleiken\",\n      \"birth_year\": \"1795\",\n      \"household\": \"794 Fr. — Elisabetha Zaugg a. Lützelflüh.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 795 Christian, Gärtner, a. Bleiken — IV, 329 b. 794 Fr. — Elisabetha Zaugg a. Lützelflüh.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Anton\",\n      \"place\": \"Bern\",\n      \"surname\": \"Anton\",\n      \"forename\": \"Johann Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Handelsmann, privat.\",\n      \"address\": \"III, 131 a\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"131 a\",\n      \"origin\": \"Basel\",\n      \"birth_year\": \"1776\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 776 Johann Jakob, gew. Handelsmann, a. Basel, privat. — III, 131 a.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"App\",\n      \"place\": \"Bern\",\n      \"surname\": \"App\",\n      \"forename\": \"Mathias\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 67\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"67\",\n      \"origin\": \"Hingen, K. Basel-Landschaft\",\n      \"birth_year\": \"\",\n      \"household\": \"798 Fr. — Susanna Ryser a. Seedorf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Mathias, Schuhmacher, a. Hingen, K. Basel-Landschaft — IV, 67. 798 Fr. — Susanna Ryser a. Seedorf.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Appolloni\",\n      \"place\": \"Bern\",\n      \"surname\": \"Appolloni\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Spinnerin\",\n      \"address\": \"II, 216\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"216\",\n      \"origin\": \"Heimiswyl\",\n      \"birth_year\": \"1796\",\n      \"household\": \"\",\n      \"note\": \"geb. Liechti; Name aus Zwischentitel\",\n      \"text\": \"1 796 Elisabetha, geb. Liechti, a. Heimiswyl, Spinnerin — II, 216.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Appolloni\",\n      \"place\": \"Bern\",\n      \"surname\": \"Appolloni\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Schneidermeister\",\n      \"address\": \"IV, 88\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"88\",\n      \"origin\": \"Ochlenberg, Kgde. Herzogenbuchsee\",\n      \"birth_year\": \"1812\",\n      \"household\": \"812 Fr. — Susanna Katharina Annen a. Saanen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 812 Niklaus, Schneidermeister, a. Ochlenberg, Kgde. Herzogenbuchsee — IV, 88. 812 Fr. — Susanna Katharina Annen a. Saanen.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "5",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 5 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Anderwerth."
+   },
+   {
+    "n": 4,
+    "text": "1 813 Johann, Schuhmachermeister, a. Emishofen, K. Thur-"
+   },
+   {
+    "n": 5,
+    "text": "gau — II, 23."
+   },
+   {
+    "n": 6,
+    "text": "812 Fr. — Anna Sterchi a. Lützelflüh."
+   },
+   {
+    "n": 7,
+    "text": "2 T. — 843 Margaritha. — 41 Maria Anna."
+   },
+   {
+    "n": 8,
+    "text": "Andres."
+   },
+   {
+    "n": 9,
+    "text": "1 806 Johannes, Weinhändler, a. Wynau — III, 13."
+   },
+   {
+    "n": 10,
+    "text": "786 Fr. — Anna Maria Flückiger, verw. Lüthi, a. Rüderswyl."
+   },
+   {
+    "n": 11,
+    "text": "*2 808 Andreas, Kellerwirth, a. Aarwangen — II, 206."
+   },
+   {
+    "n": 12,
+    "text": "824 Fr. II Ehe. — Anna Pfister, bern. Landsassin."
+   },
+   {
+    "n": 13,
+    "text": "2 K. — Aus I Ehe: 838 Marianne. — Aus II Ehe:"
+   },
+   {
+    "n": 14,
+    "text": "40 Rudolf."
+   },
+   {
+    "n": 15,
+    "text": "3 797 Hans Rudolf, Schuhmacher, a. Bargen — I, 215."
+   },
+   {
+    "n": 16,
+    "text": "Fr. — Elisabetha Andres a. Bargen."
+   },
+   {
+    "n": 17,
+    "text": "5 K. — 830 Johannes. — 36 Magdalena. — 38 Abraham"
+   },
+   {
+    "n": 18,
+    "text": "u. Peter Hans. — 43 Anna."
+   },
+   {
+    "n": 19,
+    "text": "Andrist."
+   },
+   {
+    "n": 20,
+    "text": "1 813 Sus. Katharina, Barbiererin, a. Boltigen — II, 24 u. 25."
+   },
+   {
+    "n": 21,
+    "text": "Anker."
+   },
+   {
+    "n": 22,
+    "text": "1 804 Johannes, Schuhmacher, a. Ins — V, 162."
+   },
+   {
+    "n": 23,
+    "text": "796 Fr. — Charlotte Probst a. Finsterhennen."
+   },
+   {
+    "n": 24,
+    "text": "2 S. — 832 Johann Daniel. — 34 Johann Gottlieb."
+   },
+   {
+    "n": 25,
+    "text": "Anneler."
+   },
+   {
+    "n": 26,
+    "text": "1 802 Joh. Emanuel Friedrich, Müller, a. Thun — VI, 11."
+   },
+   {
+    "n": 27,
+    "text": "807 Fr. — Maria Anna Eicher a. Riggisberg."
+   },
+   {
+    "n": 28,
+    "text": "1 S. — 829 Karl Friedrich."
+   },
+   {
+    "n": 29,
+    "text": "Antenen."
+   },
+   {
+    "n": 30,
+    "text": "1 795 Christian, Gärtner, a. Bleiken — IV, 329 b."
+   },
+   {
+    "n": 31,
+    "text": "794 Fr. — Elisabetha Zaugg a. Lützelflüh."
+   },
+   {
+    "n": 32,
+    "text": "Anton."
+   },
+   {
+    "n": 33,
+    "text": "1 776 Johann Jakob, gew. Handelsmann, a. Basel, privat. —"
+   },
+   {
+    "n": 34,
+    "text": "III, 131 a."
+   },
+   {
+    "n": 35,
+    "text": "App."
+   },
+   {
+    "n": 36,
+    "text": "1 Mathias, Schuhmacher, a. Hingen, K. Basel-Land-"
+   },
+   {
+    "n": 37,
+    "text": "schaft — IV, 67."
+   },
+   {
+    "n": 38,
+    "text": "798 Fr. — Susanna Ryser a. Seedorf."
+   },
+   {
+    "n": 39,
+    "text": "Appolloni."
+   },
+   {
+    "n": 40,
+    "text": "1 796 Elisabetha, geb. Liechti, a. Heimiswyl, Spinnerin — II, 216."
+   },
+   {
+    "n": 41,
+    "text": "2 812 Niklaus, Schneidermeister, a. Ochlenberg, Kgde. Her-"
+   },
+   {
+    "n": 42,
+    "text": "zogenbuchsee — IV, 88."
+   },
+   {
+    "n": 43,
+    "text": "812 Fr. — Susanna Katharina Annen a. Saanen."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Anderwerth",
+    "place": "Bern",
+    "surname": "Anderwerth",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schuhmachermeister",
+    "address": "II, 23",
+    "quarter": "II",
+    "street": "",
+    "house_no": "23",
+    "origin": "Emishofen, K. Thurgau",
+    "birth_year": "1813",
+    "household": "812 Fr. — Anna Sterchi a. Lützelflüh. 2 T. — 843 Margaritha. — 41 Maria Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Johann, Schuhmachermeister, a. Emishofen, K. Thurgau — II, 23. 812 Fr. — Anna Sterchi a. Lützelflüh. 2 T. — 843 Margaritha. — 41 Maria Anna."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Andres",
+    "place": "Bern",
+    "surname": "Andres",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Weinhändler",
+    "address": "III, 13",
+    "quarter": "III",
+    "street": "",
+    "house_no": "13",
+    "origin": "Wynau",
+    "birth_year": "1806",
+    "household": "786 Fr. — Anna Maria Flückiger, verw. Lüthi, a. Rüderswyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 806 Johannes, Weinhändler, a. Wynau — III, 13. 786 Fr. — Anna Maria Flückiger, verw. Lüthi, a. Rüderswyl."
+   },
+   {
+    "line_from": 11,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Andres",
+    "place": "Bern",
+    "surname": "Andres",
+    "forename": "Andreas",
+    "title": "",
+    "occupation": "Kellerwirth",
+    "address": "II, 206",
+    "quarter": "II",
+    "street": "",
+    "house_no": "206",
+    "origin": "Aarwangen",
+    "birth_year": "1808",
+    "household": "824 Fr. II Ehe. — Anna Pfister, bern. Landsassin. 2 K. — Aus I Ehe: 838 Marianne. — Aus II Ehe: 40 Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "*2 808 Andreas, Kellerwirth, a. Aarwangen — II, 206. 824 Fr. II Ehe. — Anna Pfister, bern. Landsassin. 2 K. — Aus I Ehe: 838 Marianne. — Aus II Ehe: 40 Rudolf."
+   },
+   {
+    "line_from": 15,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Andres",
+    "place": "Bern",
+    "surname": "Andres",
+    "forename": "Hans Rudolf",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "I, 215",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215",
+    "origin": "Bargen",
+    "birth_year": "1797",
+    "household": "Fr. — Elisabetha Andres a. Bargen. 5 K. — 830 Johannes. — 36 Magdalena. — 38 Abraham u. Peter Hans. — 43 Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 797 Hans Rudolf, Schuhmacher, a. Bargen — I, 215. Fr. — Elisabetha Andres a. Bargen. 5 K. — 830 Johannes. — 36 Magdalena. — 38 Abraham u. Peter Hans. — 43 Anna."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Andrist",
+    "place": "Bern",
+    "surname": "Andrist",
+    "forename": "Sus. Katharina",
+    "title": "",
+    "occupation": "Barbiererin",
+    "address": "II, 24 u. 25",
+    "quarter": "II",
+    "street": "",
+    "house_no": "24 u. 25",
+    "origin": "Boltigen",
+    "birth_year": "1813",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Sus. Katharina, Barbiererin, a. Boltigen — II, 24 u. 25."
+   },
+   {
+    "line_from": 21,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Anker",
+    "place": "Bern",
+    "surname": "Anker",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 162",
+    "quarter": "V",
+    "street": "",
+    "house_no": "162",
+    "origin": "Ins",
+    "birth_year": "1804",
+    "household": "796 Fr. — Charlotte Probst a. Finsterhennen. 2 S. — 832 Johann Daniel. — 34 Johann Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Johannes, Schuhmacher, a. Ins — V, 162. 796 Fr. — Charlotte Probst a. Finsterhennen. 2 S. — 832 Johann Daniel. — 34 Johann Gottlieb."
+   },
+   {
+    "line_from": 25,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Anneler",
+    "place": "Bern",
+    "surname": "Anneler",
+    "forename": "Joh. Emanuel Friedrich",
+    "title": "",
+    "occupation": "Müller",
+    "address": "VI, 11",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "11",
+    "origin": "Thun",
+    "birth_year": "1802",
+    "household": "807 Fr. — Maria Anna Eicher a. Riggisberg. 1 S. — 829 Karl Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Joh. Emanuel Friedrich, Müller, a. Thun — VI, 11. 807 Fr. — Maria Anna Eicher a. Riggisberg. 1 S. — 829 Karl Friedrich."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Antenen",
+    "place": "Bern",
+    "surname": "Antenen",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Gärtner",
+    "address": "IV, 329 b",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "329 b",
+    "origin": "Bleiken",
+    "birth_year": "1795",
+    "household": "794 Fr. — Elisabetha Zaugg a. Lützelflüh.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 795 Christian, Gärtner, a. Bleiken — IV, 329 b. 794 Fr. — Elisabetha Zaugg a. Lützelflüh."
+   },
+   {
+    "line_from": 32,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Anton",
+    "place": "Bern",
+    "surname": "Anton",
+    "forename": "Johann Jakob",
+    "title": "",
+    "occupation": "gew. Handelsmann, privat.",
+    "address": "III, 131 a",
+    "quarter": "III",
+    "street": "",
+    "house_no": "131 a",
+    "origin": "Basel",
+    "birth_year": "1776",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 776 Johann Jakob, gew. Handelsmann, a. Basel, privat. — III, 131 a."
+   },
+   {
+    "line_from": 35,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "App",
+    "place": "Bern",
+    "surname": "App",
+    "forename": "Mathias",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 67",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "67",
+    "origin": "Hingen, K. Basel-Landschaft",
+    "birth_year": "",
+    "household": "798 Fr. — Susanna Ryser a. Seedorf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Mathias, Schuhmacher, a. Hingen, K. Basel-Landschaft — IV, 67. 798 Fr. — Susanna Ryser a. Seedorf."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Appolloni",
+    "place": "Bern",
+    "surname": "Appolloni",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Spinnerin",
+    "address": "II, 216",
+    "quarter": "II",
+    "street": "",
+    "house_no": "216",
+    "origin": "Heimiswyl",
+    "birth_year": "1796",
+    "household": "",
+    "note": "geb. Liechti; Name aus Zwischentitel",
+    "text": "1 796 Elisabetha, geb. Liechti, a. Heimiswyl, Spinnerin — II, 216."
+   },
+   {
+    "line_from": 41,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Appolloni",
+    "place": "Bern",
+    "surname": "Appolloni",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Schneidermeister",
+    "address": "IV, 88",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "88",
+    "origin": "Ochlenberg, Kgde. Herzogenbuchsee",
+    "birth_year": "1812",
+    "household": "812 Fr. — Susanna Katharina Annen a. Saanen.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 812 Niklaus, Schneidermeister, a. Ochlenberg, Kgde. Herzogenbuchsee — IV, 88. 812 Fr. — Susanna Katharina Annen a. Saanen."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:56:12+01:00",
+ "last_error": null
+}

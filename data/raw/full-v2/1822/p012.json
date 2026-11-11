@@ -1,0 +1,574 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 12,
+ "section": "berufe",
+ "started": "2026-11-11T21:00:41+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 248.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2188,
+  "output": 4756,
+  "thoughts": 27024
+ },
+ "response_text": "{\n  \"printed_page\": \"4\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"4\"},\n    {\"n\": 2, \"text\": \"Büreaux.\"},\n    {\"n\": 3, \"text\": \"Nro.\"},\n    {\"n\": 4, \"text\": \"Agentschafts-Bureau von Daniel Howard, Korn-\"},\n    {\"n\": 5, \"text\": \"hausplatz … 47\"},\n    {\"n\": 6, \"text\": \"— — — — Johann Jakob Lienhardt,\"},\n    {\"n\": 7, \"text\": \"Kornhausplatz 47\"},\n    {\"n\": 8, \"text\": \"— — — — Johann Ludwig Roth,\"},\n    {\"n\": 9, \"text\": \"Metzgergaße … 70\"},\n    {\"n\": 10, \"text\": \"Bureau des Berichthauses, Schulgaße … 327\"},\n    {\"n\": 11, \"text\": \"„ „ der Brandentschädigungs-Anstalt, im Sekre-\"},\n    {\"n\": 12, \"text\": \"tariat derselben, Gerechtigkeitgaße 94\"},\n    {\"n\": 13, \"text\": \"„ „ des Cantons-Buchhalters, Postgaße … 45\"},\n    {\"n\": 14, \"text\": \"„ „ des Cantons-Caßiers, Postgaße … 45\"},\n    {\"n\": 15, \"text\": \"„ „ der Dienstenzins-Cassa, Kestchgäßlein … 95\"},\n    {\"n\": 16, \"text\": \"„ „ des Kriegs-Commissariats, Zeughausgaße 163\"},\n    {\"n\": 17, \"text\": \"„ „ des Stadt-Bauamts, Spitalgaße … 123\"},\n    {\"n\": 18, \"text\": \"Canzley-Bureau des Ober = Appellations = Gerichts,\"},\n    {\"n\": 19, \"text\": \"Kramgaße … 172\"},\n    {\"n\": 20, \"text\": \"Central-Polizey-Bureau, bey der Hauptwache 335\"},\n    {\"n\": 21, \"text\": \"Ersparniß-Cassa, ausburgerliche, Bucher, Seckel-\"},\n    {\"n\": 22, \"text\": \"meister derselben, Marktgaße 42\"},\n    {\"n\": 23, \"text\": \"„ burgerliche, Doktor Isenschmid,\"},\n    {\"n\": 24, \"text\": \"Seckelmeister derselben, Inselgaße 132\"},\n    {\"n\": 25, \"text\": \"Geschäfts-Bureau von Samuel Gerber, Prokura-\"},\n    {\"n\": 26, \"text\": \"tor, Gerechtigkeitgaße 92\"},\n    {\"n\": 27, \"text\": \"— — von Emanuel Gonseth, Korn-\"},\n    {\"n\": 28, \"text\": \"hausplatz … 42\"},\n    {\"n\": 29, \"text\": \". . von Emanuel Kuenz, Markt-\"},\n    {\"n\": 30, \"text\": \"gaße … 39\"},\n    {\"n\": 31, \"text\": \". . von Ludwig Emanuel Mader,\"},\n    {\"n\": 32, \"text\": \"Kestichgäßlein … 23\"},\n    {\"n\": 33, \"text\": \" . von Johann Carl Studer,\"},\n    {\"n\": 34, \"text\": \"Metzgergaße … 70\"},\n    {\"n\": 35, \"text\": \"Justiz-Raths-Bureau, Kramgaße … 195\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Howard\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Agentschafts-Bureau\",\n      \"address\": \"Kornhausplatz 47\",\n      \"quarter\": \"\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"47\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Agentschafts-Bureau von Daniel Howard, Kornhausplatz 47\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lienhardt\",\n      \"forename\": \"Johann Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Agentschafts-Bureau\",\n      \"address\": \"Kornhausplatz 47\",\n      \"quarter\": \"\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"47\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Agentschafts-Bureau von aus Vorzeile\",\n      \"text\": \"Agentschafts-Bureau von Johann Jakob Lienhardt, Kornhausplatz 47\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Roth\",\n      \"forename\": \"Johann Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Agentschafts-Bureau\",\n      \"address\": \"Metzgergaße 70\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgergaße\",\n      \"house_no\": \"70\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Agentschafts-Bureau von aus Vorzeile\",\n      \"text\": \"Agentschafts-Bureau von Johann Ludwig Roth, Metzgergaße 70\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bureau des Berichthauses\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Schulgaße 327\",\n      \"quarter\": \"\",\n      \"street\": \"Schulgaße\",\n      \"house_no\": \"327\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bureau des Berichthauses, Schulgaße 327\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bureau der Brandentschädigungs-Anstalt\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"im Sekretariat derselben, Gerechtigkeitgaße 94\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"94\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Bureau aus Vorzeile\",\n      \"text\": \"Bureau der Brandentschädigungs-Anstalt, im Sekretariat derselben, Gerechtigkeitgaße 94\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bureau des Cantons-Buchhalters\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Postgaße 45\",\n      \"quarter\": \"\",\n      \"street\": \"Postgaße\",\n      \"house_no\": \"45\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Bureau aus Vorzeile\",\n      \"text\": \"Bureau des Cantons-Buchhalters, Postgaße 45\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bureau des Cantons-Caßiers\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Postgaße 45\",\n      \"quarter\": \"\",\n      \"street\": \"Postgaße\",\n      \"house_no\": \"45\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Bureau aus Vorzeile\",\n      \"text\": \"Bureau des Cantons-Caßiers, Postgaße 45\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bureau der Dienstenzins-Cassa\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kestchgäßlein 95\",\n      \"quarter\": \"\",\n      \"street\": \"Kestchgäßlein\",\n      \"house_no\": \"95\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Bureau aus Vorzeile\",\n      \"text\": \"Bureau der Dienstenzins-Cassa, Kestchgäßlein 95\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bureau des Kriegs-Commissariats\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Zeughausgaße 163\",\n      \"quarter\": \"\",\n      \"street\": \"Zeughausgaße\",\n      \"house_no\": \"163\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Bureau aus Vorzeile\",\n      \"text\": \"Bureau des Kriegs-Commissariats, Zeughausgaße 163\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bureau des Stadt-Bauamts\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Spitalgaße 123\",\n      \"quarter\": \"\",\n      \"street\": \"Spitalgaße\",\n      \"house_no\": \"123\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Bureau aus Vorzeile\",\n      \"text\": \"Bureau des Stadt-Bauamts, Spitalgaße 123\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Canzley-Bureau des Ober-Appellations-Gerichts\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 172\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"172\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Canzley-Bureau des Ober-Appellations-Gerichts, Kramgaße 172\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Central-Polizey-Bureau\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"bey der Hauptwache 335\",\n      \"quarter\": \"\",\n      \"street\": \"bey der Hauptwache\",\n      \"house_no\": \"335\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Central-Polizey-Bureau, bey der Hauptwache 335\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ersparniß-Cassa, ausburgerliche\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 42\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"42\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Bucher, Seckelmeister derselben\",\n      \"text\": \"Ersparniß-Cassa, ausburgerliche, Bucher, Seckelmeister derselben, Marktgaße 42\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ersparniß-Cassa, burgerliche\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Inselgaße 132\",\n      \"quarter\": \"\",\n      \"street\": \"Inselgaße\",\n      \"house_no\": \"132\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Ersparniß-Cassa aus Vorzeile; Doktor Isenschmid, Seckelmeister derselben\",\n      \"text\": \"Ersparniß-Cassa, burgerliche, Doktor Isenschmid, Seckelmeister derselben, Inselgaße 132\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerber\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Geschäfts-Bureau, Prokurator\",\n      \"address\": \"Gerechtigkeitgaße 92\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"92\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Geschäfts-Bureau von Samuel Gerber, Prokurator, Gerechtigkeitgaße 92\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gonseth\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Geschäfts-Bureau\",\n      \"address\": \"Kornhausplatz 42\",\n      \"quarter\": \"\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"42\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Geschäfts-Bureau aus Vorzeile\",\n      \"text\": \"Geschäfts-Bureau von Emanuel Gonseth, Kornhausplatz 42\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kuenz\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Geschäfts-Bureau\",\n      \"address\": \"Marktgaße 39\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"39\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Geschäfts-Bureau aus Vorzeile\",\n      \"text\": \"Geschäfts-Bureau von Emanuel Kuenz, Marktgaße 39\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mader\",\n      \"forename\": \"Ludwig Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Geschäfts-Bureau\",\n      \"address\": \"Kestichgäßlein 23\",\n      \"quarter\": \"\",\n      \"street\": \"Kestichgäßlein\",\n      \"house_no\": \"23\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Geschäfts-Bureau aus Vorzeile\",\n      \"text\": \"Geschäfts-Bureau von Ludwig Emanuel Mader, Kestichgäßlein 23\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Studer\",\n      \"forename\": \"Johann Carl\",\n      \"title\": \"\",\n      \"occupation\": \"Geschäfts-Bureau\",\n      \"address\": \"Metzgergaße 70\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgergaße\",\n      \"house_no\": \"70\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Geschäfts-Bureau aus Vorzeile\",\n      \"text\": \"Geschäfts-Bureau von Johann Carl Studer, Metzgergaße 70\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 35,\n      \"kind\": \"institution\",\n      \"heading\": \"Büreaux\",\n      \"place\": \"Bern\",\n      \"surname\": \"Justiz-Raths-Bureau\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 195\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"195\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Justiz-Raths-Bureau, Kramgaße 195\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "4",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "4"
+   },
+   {
+    "n": 2,
+    "text": "Büreaux."
+   },
+   {
+    "n": 3,
+    "text": "Nro."
+   },
+   {
+    "n": 4,
+    "text": "Agentschafts-Bureau von Daniel Howard, Korn-"
+   },
+   {
+    "n": 5,
+    "text": "hausplatz … 47"
+   },
+   {
+    "n": 6,
+    "text": "— — — — Johann Jakob Lienhardt,"
+   },
+   {
+    "n": 7,
+    "text": "Kornhausplatz 47"
+   },
+   {
+    "n": 8,
+    "text": "— — — — Johann Ludwig Roth,"
+   },
+   {
+    "n": 9,
+    "text": "Metzgergaße … 70"
+   },
+   {
+    "n": 10,
+    "text": "Bureau des Berichthauses, Schulgaße … 327"
+   },
+   {
+    "n": 11,
+    "text": "„ „ der Brandentschädigungs-Anstalt, im Sekre-"
+   },
+   {
+    "n": 12,
+    "text": "tariat derselben, Gerechtigkeitgaße 94"
+   },
+   {
+    "n": 13,
+    "text": "„ „ des Cantons-Buchhalters, Postgaße … 45"
+   },
+   {
+    "n": 14,
+    "text": "„ „ des Cantons-Caßiers, Postgaße … 45"
+   },
+   {
+    "n": 15,
+    "text": "„ „ der Dienstenzins-Cassa, Kestchgäßlein … 95"
+   },
+   {
+    "n": 16,
+    "text": "„ „ des Kriegs-Commissariats, Zeughausgaße 163"
+   },
+   {
+    "n": 17,
+    "text": "„ „ des Stadt-Bauamts, Spitalgaße … 123"
+   },
+   {
+    "n": 18,
+    "text": "Canzley-Bureau des Ober = Appellations = Gerichts,"
+   },
+   {
+    "n": 19,
+    "text": "Kramgaße … 172"
+   },
+   {
+    "n": 20,
+    "text": "Central-Polizey-Bureau, bey der Hauptwache 335"
+   },
+   {
+    "n": 21,
+    "text": "Ersparniß-Cassa, ausburgerliche, Bucher, Seckel-"
+   },
+   {
+    "n": 22,
+    "text": "meister derselben, Marktgaße 42"
+   },
+   {
+    "n": 23,
+    "text": "„ burgerliche, Doktor Isenschmid,"
+   },
+   {
+    "n": 24,
+    "text": "Seckelmeister derselben, Inselgaße 132"
+   },
+   {
+    "n": 25,
+    "text": "Geschäfts-Bureau von Samuel Gerber, Prokura-"
+   },
+   {
+    "n": 26,
+    "text": "tor, Gerechtigkeitgaße 92"
+   },
+   {
+    "n": 27,
+    "text": "— — von Emanuel Gonseth, Korn-"
+   },
+   {
+    "n": 28,
+    "text": "hausplatz … 42"
+   },
+   {
+    "n": 29,
+    "text": ". . von Emanuel Kuenz, Markt-"
+   },
+   {
+    "n": 30,
+    "text": "gaße … 39"
+   },
+   {
+    "n": 31,
+    "text": ". . von Ludwig Emanuel Mader,"
+   },
+   {
+    "n": 32,
+    "text": "Kestichgäßlein … 23"
+   },
+   {
+    "n": 33,
+    "text": " . von Johann Carl Studer,"
+   },
+   {
+    "n": 34,
+    "text": "Metzgergaße … 70"
+   },
+   {
+    "n": 35,
+    "text": "Justiz-Raths-Bureau, Kramgaße … 195"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Howard",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Agentschafts-Bureau",
+    "address": "Kornhausplatz 47",
+    "quarter": "",
+    "street": "Kornhausplatz",
+    "house_no": "47",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Agentschafts-Bureau von Daniel Howard, Kornhausplatz 47"
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Lienhardt",
+    "forename": "Johann Jakob",
+    "title": "",
+    "occupation": "Agentschafts-Bureau",
+    "address": "Kornhausplatz 47",
+    "quarter": "",
+    "street": "Kornhausplatz",
+    "house_no": "47",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Agentschafts-Bureau von aus Vorzeile",
+    "text": "Agentschafts-Bureau von Johann Jakob Lienhardt, Kornhausplatz 47"
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Roth",
+    "forename": "Johann Ludwig",
+    "title": "",
+    "occupation": "Agentschafts-Bureau",
+    "address": "Metzgergaße 70",
+    "quarter": "",
+    "street": "Metzgergaße",
+    "house_no": "70",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Agentschafts-Bureau von aus Vorzeile",
+    "text": "Agentschafts-Bureau von Johann Ludwig Roth, Metzgergaße 70"
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Bureau des Berichthauses",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Schulgaße 327",
+    "quarter": "",
+    "street": "Schulgaße",
+    "house_no": "327",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bureau des Berichthauses, Schulgaße 327"
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Bureau der Brandentschädigungs-Anstalt",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "im Sekretariat derselben, Gerechtigkeitgaße 94",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "94",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Bureau aus Vorzeile",
+    "text": "Bureau der Brandentschädigungs-Anstalt, im Sekretariat derselben, Gerechtigkeitgaße 94"
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Bureau des Cantons-Buchhalters",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Postgaße 45",
+    "quarter": "",
+    "street": "Postgaße",
+    "house_no": "45",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Bureau aus Vorzeile",
+    "text": "Bureau des Cantons-Buchhalters, Postgaße 45"
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Bureau des Cantons-Caßiers",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Postgaße 45",
+    "quarter": "",
+    "street": "Postgaße",
+    "house_no": "45",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Bureau aus Vorzeile",
+    "text": "Bureau des Cantons-Caßiers, Postgaße 45"
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Bureau der Dienstenzins-Cassa",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kestchgäßlein 95",
+    "quarter": "",
+    "street": "Kestchgäßlein",
+    "house_no": "95",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Bureau aus Vorzeile",
+    "text": "Bureau der Dienstenzins-Cassa, Kestchgäßlein 95"
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Bureau des Kriegs-Commissariats",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Zeughausgaße 163",
+    "quarter": "",
+    "street": "Zeughausgaße",
+    "house_no": "163",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Bureau aus Vorzeile",
+    "text": "Bureau des Kriegs-Commissariats, Zeughausgaße 163"
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Bureau des Stadt-Bauamts",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Spitalgaße 123",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "123",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Bureau aus Vorzeile",
+    "text": "Bureau des Stadt-Bauamts, Spitalgaße 123"
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Canzley-Bureau des Ober-Appellations-Gerichts",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 172",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "172",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Canzley-Bureau des Ober-Appellations-Gerichts, Kramgaße 172"
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Central-Polizey-Bureau",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "bey der Hauptwache 335",
+    "quarter": "",
+    "street": "bey der Hauptwache",
+    "house_no": "335",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Central-Polizey-Bureau, bey der Hauptwache 335"
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Ersparniß-Cassa, ausburgerliche",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 42",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "42",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Bucher, Seckelmeister derselben",
+    "text": "Ersparniß-Cassa, ausburgerliche, Bucher, Seckelmeister derselben, Marktgaße 42"
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Ersparniß-Cassa, burgerliche",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Inselgaße 132",
+    "quarter": "",
+    "street": "Inselgaße",
+    "house_no": "132",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Ersparniß-Cassa aus Vorzeile; Doktor Isenschmid, Seckelmeister derselben",
+    "text": "Ersparniß-Cassa, burgerliche, Doktor Isenschmid, Seckelmeister derselben, Inselgaße 132"
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Gerber",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Geschäfts-Bureau, Prokurator",
+    "address": "Gerechtigkeitgaße 92",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "92",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Geschäfts-Bureau von Samuel Gerber, Prokurator, Gerechtigkeitgaße 92"
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Gonseth",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "Geschäfts-Bureau",
+    "address": "Kornhausplatz 42",
+    "quarter": "",
+    "street": "Kornhausplatz",
+    "house_no": "42",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Geschäfts-Bureau aus Vorzeile",
+    "text": "Geschäfts-Bureau von Emanuel Gonseth, Kornhausplatz 42"
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Kuenz",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "Geschäfts-Bureau",
+    "address": "Marktgaße 39",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "39",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Geschäfts-Bureau aus Vorzeile",
+    "text": "Geschäfts-Bureau von Emanuel Kuenz, Marktgaße 39"
+   },
+   {
+    "line_from": 31,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Mader",
+    "forename": "Ludwig Emanuel",
+    "title": "",
+    "occupation": "Geschäfts-Bureau",
+    "address": "Kestichgäßlein 23",
+    "quarter": "",
+    "street": "Kestichgäßlein",
+    "house_no": "23",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Geschäfts-Bureau aus Vorzeile",
+    "text": "Geschäfts-Bureau von Ludwig Emanuel Mader, Kestichgäßlein 23"
+   },
+   {
+    "line_from": 33,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Studer",
+    "forename": "Johann Carl",
+    "title": "",
+    "occupation": "Geschäfts-Bureau",
+    "address": "Metzgergaße 70",
+    "quarter": "",
+    "street": "Metzgergaße",
+    "house_no": "70",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Geschäfts-Bureau aus Vorzeile",
+    "text": "Geschäfts-Bureau von Johann Carl Studer, Metzgergaße 70"
+   },
+   {
+    "line_from": 35,
+    "line_to": 35,
+    "kind": "institution",
+    "heading": "Büreaux",
+    "place": "Bern",
+    "surname": "Justiz-Raths-Bureau",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 195",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "195",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Justiz-Raths-Bureau, Kramgaße 195"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:04:49+01:00",
+ "last_error": null
+}

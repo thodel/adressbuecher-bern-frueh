@@ -1,0 +1,454 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 155,
+ "section": "einsassen",
+ "started": "2026-11-11T22:09:52+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 47.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4523,
+  "thoughts": 3298
+ },
+ "response_text": "{\n  \"printed_page\": \"142\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 142 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"4 791 Marx, Negotiant, a. Bernauhof - IV, 150.\"},\n    {\"n\": 4, \"text\": \"794 Fr. - Elis. Magd. Engimann a. Thun.\"},\n    {\"n\": 5, \"text\": \"1 S. - 829 Joseph Markus.\"},\n    {\"n\": 6, \"text\": \"5 794 Paul, Handelsmann, a. Bernauhof in Baden - III, 62.\"},\n    {\"n\": 7, \"text\": \"6 Fridolin, Handelsmann, a. Bernauhof in Baden - III, 62.\"},\n    {\"n\": 8, \"text\": \"(4, 5 u. 6 sind Associirte der Eisen- u. Holzwaarenhand-\"},\n    {\"n\": 9, \"text\": \"lung von Schmied, Beringer u. Comp.)\"},\n    {\"n\": 10, \"text\": \"7 801 Anna Mayer, geb. Horni, Kittelschneiderin, a. Urberg\"},\n    {\"n\": 11, \"text\": \"in Baden - III, 36.\"},\n    {\"n\": 12, \"text\": \"1 T. - 841 A. M. Elisabetha.\"},\n    {\"n\": 13, \"text\": \"Schmiedhauser.\"},\n    {\"n\": 14, \"text\": \"1 820 Joh. Ludwig, Küfer, a. Sulgen, K. Thurgau - IV, 94.\"},\n    {\"n\": 15, \"text\": \"820 Fr. - Louise Barb. Still a. Aeschlen.\"},\n    {\"n\": 16, \"text\": \"2 K. - 844 A. M. Françoise. - 46 Jean Jaques.\"},\n    {\"n\": 17, \"text\": \"Schmidt.\"},\n    {\"n\": 18, \"text\": \"1 781 Joh. Karl, Arzt u. Wundarzt, a. Bernstadt in d. Lausitz\"},\n    {\"n\": 19, \"text\": \"- II, 263.\"},\n    {\"n\": 20, \"text\": \"793 Fr. - Elis. Lew a. Langendorf.\"},\n    {\"n\": 21, \"text\": \"2 Philipp, Schuhmacher, a. Winzingen in Baiern - V, 32.\"},\n    {\"n\": 22, \"text\": \"799 Fr. - Charlotte Meixner.\"},\n    {\"n\": 23, \"text\": \"1 S. - Philipp Joseph.\"},\n    {\"n\": 24, \"text\": \"Schmidter.\"},\n    {\"n\": 25, \"text\": \"1 782 Joh. Ulrich, Handelsmann, a. Aarburg - V, 111.\"},\n    {\"n\": 26, \"text\": \"787 Fr. - Maria Fehlmann, geb. Streichenberg.\"},\n    {\"n\": 27, \"text\": \"Schmuz.\"},\n    {\"n\": 28, \"text\": \"1 803 A. Johanna, geb. Müller, Lohnwascherin, des Büchsen-\"},\n    {\"n\": 29, \"text\": \"schmidgesellen Frau, a. Nant, K. Freiburg - VI, 64.\"},\n    {\"n\": 30, \"text\": \"1 T. - 828 Anna Marg.\"},\n    {\"n\": 31, \"text\": \"2 805 Bend. Samuel, Kutscher, a. Oberried, K. Freiburg\"},\n    {\"n\": 32, \"text\": \"- III, 142.\"},\n    {\"n\": 33, \"text\": \"805 Fr. - Joh. Isab. Louise Emilie Hegg a. Münchenbuchsee.\"},\n    {\"n\": 34, \"text\": \"1 S. - 842 Bendicht Samuel.\"},\n    {\"n\": 35, \"text\": \"Schneeberger.\"},\n    {\"n\": 36, \"text\": \"1 794 Abraham, Weinhändler, a. Orpund - IV, 66.\"},\n    {\"n\": 37, \"text\": \"795 Fr. - Elis. Lüthi a. Nüderswyl.\"},\n    {\"n\": 38, \"text\": \"6 T. - 816 Anna Maria. - 19 Maria Elis. - 31 Ka-\"},\n    {\"n\": 39, \"text\": \"roline. - 33 Magd. Rosa Marg. - 38 Marg. Sophie\"},\n    {\"n\": 40, \"text\": \"Henriette. - 39 Rosa Marg. Elis.\"},\n    {\"n\": 41, \"text\": \"Schneering.\"},\n    {\"n\": 42, \"text\": \"1 811 Adam, Schneider, a. Beuren in Würtemberg - IV, 308.\"},\n    {\"n\": 43, \"text\": \"804 Fr. - Anna Maria Humm, geb. Haller, a. Kirchleerau.\"},\n    {\"n\": 44, \"text\": \"3 K. - 835 Theodor. - 39 Friedr. Wilhelm. (Das\"},\n    {\"n\": 45, \"text\": \"dritte nicht eingeschrieben.)\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Schmied\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmied\",\n      \"forename\": \"Marx\",\n      \"title\": \"\",\n      \"occupation\": \"Negotiant\",\n      \"address\": \"IV, 150\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"150\",\n      \"origin\": \"Bernauhof\",\n      \"birth_year\": \"1791\",\n      \"household\": \"Fr. - Elis. Magd. Engimann a. Thun. 1 S. - 829 Joseph Markus.\",\n      \"note\": \"Name aus Vorseite; 4, 5 u. 6 sind Associirte der Eisen- u. Holzwaarenhandlung von Schmied, Beringer u. Comp.\",\n      \"text\": \"4 791 Marx, Negotiant, a. Bernauhof - IV, 150. 794 Fr. - Elis. Magd. Engimann a. Thun. 1 S. - 829 Joseph Markus.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Schmied\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmied\",\n      \"forename\": \"Paul\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"III, 62\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"Bernauhof in Baden\",\n      \"birth_year\": \"1794\",\n      \"household\": \"\",\n      \"note\": \"Name aus Vorseite; 4, 5 u. 6 sind Associirte der Eisen- u. Holzwaarenhandlung von Schmied, Beringer u. Comp.\",\n      \"text\": \"5 794 Paul, Handelsmann, a. Bernauhof in Baden - III, 62.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Schmied\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmied\",\n      \"forename\": \"Fridolin\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"III, 62\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"Bernauhof in Baden\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Vorseite; (4, 5 u. 6 sind Associirte der Eisen- u. Holzwaarenhandlung von Schmied, Beringer u. Comp.)\",\n      \"text\": \"6 Fridolin, Handelsmann, a. Bernauhof in Baden - III, 62. (4, 5 u. 6 sind Associirte der Eisen- u. Holzwaarenhandlung von Schmied, Beringer u. Comp.)\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Schmied\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mayer\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Kittelschneiderin\",\n      \"address\": \"III, 36\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"Urberg in Baden\",\n      \"birth_year\": \"1801\",\n      \"household\": \"1 T. - 841 A. M. Elisabetha.\",\n      \"note\": \"\",\n      \"text\": \"7 801 Anna Mayer, geb. Horni, Kittelschneiderin, a. Urberg in Baden - III, 36. 1 T. - 841 A. M. Elisabetha.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Schmiedhauser\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmiedhauser\",\n      \"forename\": \"Joh. Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Küfer\",\n      \"address\": \"IV, 94\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"94\",\n      \"origin\": \"Sulgen, K. Thurgau\",\n      \"birth_year\": \"1820\",\n      \"household\": \"820 Fr. - Louise Barb. Still a. Aeschlen. 2 K. - 844 A. M. Françoise. - 46 Jean Jaques.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 820 Joh. Ludwig, Küfer, a. Sulgen, K. Thurgau - IV, 94. 820 Fr. - Louise Barb. Still a. Aeschlen. 2 K. - 844 A. M. Françoise. - 46 Jean Jaques.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Schmidt\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmidt\",\n      \"forename\": \"Joh. Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Arzt u. Wundarzt\",\n      \"address\": \"II, 263\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"263\",\n      \"origin\": \"Bernstadt in d. Lausitz\",\n      \"birth_year\": \"1781\",\n      \"household\": \"793 Fr. - Elis. Lew a. Langendorf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 781 Joh. Karl, Arzt u. Wundarzt, a. Bernstadt in d. Lausitz - II, 263. 793 Fr. - Elis. Lew a. Langendorf.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Schmidt\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmidt\",\n      \"forename\": \"Philipp\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 32\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"32\",\n      \"origin\": \"Winzingen in Baiern\",\n      \"birth_year\": \"\",\n      \"household\": \"799 Fr. - Charlotte Meixner. 1 S. - Philipp Joseph.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 Philipp, Schuhmacher, a. Winzingen in Baiern - V, 32. 799 Fr. - Charlotte Meixner. 1 S. - Philipp Joseph.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Schmidter\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmidter\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"V, 111\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"111\",\n      \"origin\": \"Aarburg\",\n      \"birth_year\": \"1782\",\n      \"household\": \"787 Fr. - Maria Fehlmann, geb. Streichenberg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 782 Joh. Ulrich, Handelsmann, a. Aarburg - V, 111. 787 Fr. - Maria Fehlmann, geb. Streichenberg.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Schmuz\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmuz\",\n      \"forename\": \"A. Johanna\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnwascherin, des Büchsenschmidgesellen Frau\",\n      \"address\": \"VI, 64\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"64\",\n      \"origin\": \"Nant, K. Freiburg\",\n      \"birth_year\": \"1803\",\n      \"household\": \"1 T. - 828 Anna Marg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 A. Johanna, geb. Müller, Lohnwascherin, des Büchsenschmidgesellen Frau, a. Nant, K. Freiburg - VI, 64. 1 T. - 828 Anna Marg.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Schmuz\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmuz\",\n      \"forename\": \"Bend. Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Kutscher\",\n      \"address\": \"III, 142\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"142\",\n      \"origin\": \"Oberried, K. Freiburg\",\n      \"birth_year\": \"1805\",\n      \"household\": \"805 Fr. - Joh. Isab. Louise Emilie Hegg a. Münchenbuchsee. 1 S. - 842 Bendicht Samuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 805 Bend. Samuel, Kutscher, a. Oberried, K. Freiburg - III, 142. 805 Fr. - Joh. Isab. Louise Emilie Hegg a. Münchenbuchsee. 1 S. - 842 Bendicht Samuel.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Schneeberger\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schneeberger\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhändler\",\n      \"address\": \"IV, 66\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"66\",\n      \"origin\": \"Orpund\",\n      \"birth_year\": \"1794\",\n      \"household\": \"795 Fr. - Elis. Lüthi a. Nüderswyl. 6 T. - 816 Anna Maria. - 19 Maria Elis. - 31 Karoline. - 33 Magd. Rosa Marg. - 38 Marg. Sophie Henriette. - 39 Rosa Marg. Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 794 Abraham, Weinhändler, a. Orpund - IV, 66. 795 Fr. - Elis. Lüthi a. Nüderswyl. 6 T. - 816 Anna Maria. - 19 Maria Elis. - 31 Karoline. - 33 Magd. Rosa Marg. - 38 Marg. Sophie Henriette. - 39 Rosa Marg. Elis.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Schneering\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schneering\",\n      \"forename\": \"Adam\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 308\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"308\",\n      \"origin\": \"Beuren in Würtemberg\",\n      \"birth_year\": \"1811\",\n      \"household\": \"804 Fr. - Anna Maria Humm, geb. Haller, a. Kirchleerau. 3 K. - 835 Theodor. - 39 Friedr. Wilhelm. (Das dritte nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Adam, Schneider, a. Beuren in Würtemberg - IV, 308. 804 Fr. - Anna Maria Humm, geb. Haller, a. Kirchleerau. 3 K. - 835 Theodor. - 39 Friedr. Wilhelm. (Das dritte nicht eingeschrieben.)\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "142",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 142 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "4 791 Marx, Negotiant, a. Bernauhof - IV, 150."
+   },
+   {
+    "n": 4,
+    "text": "794 Fr. - Elis. Magd. Engimann a. Thun."
+   },
+   {
+    "n": 5,
+    "text": "1 S. - 829 Joseph Markus."
+   },
+   {
+    "n": 6,
+    "text": "5 794 Paul, Handelsmann, a. Bernauhof in Baden - III, 62."
+   },
+   {
+    "n": 7,
+    "text": "6 Fridolin, Handelsmann, a. Bernauhof in Baden - III, 62."
+   },
+   {
+    "n": 8,
+    "text": "(4, 5 u. 6 sind Associirte der Eisen- u. Holzwaarenhand-"
+   },
+   {
+    "n": 9,
+    "text": "lung von Schmied, Beringer u. Comp.)"
+   },
+   {
+    "n": 10,
+    "text": "7 801 Anna Mayer, geb. Horni, Kittelschneiderin, a. Urberg"
+   },
+   {
+    "n": 11,
+    "text": "in Baden - III, 36."
+   },
+   {
+    "n": 12,
+    "text": "1 T. - 841 A. M. Elisabetha."
+   },
+   {
+    "n": 13,
+    "text": "Schmiedhauser."
+   },
+   {
+    "n": 14,
+    "text": "1 820 Joh. Ludwig, Küfer, a. Sulgen, K. Thurgau - IV, 94."
+   },
+   {
+    "n": 15,
+    "text": "820 Fr. - Louise Barb. Still a. Aeschlen."
+   },
+   {
+    "n": 16,
+    "text": "2 K. - 844 A. M. Françoise. - 46 Jean Jaques."
+   },
+   {
+    "n": 17,
+    "text": "Schmidt."
+   },
+   {
+    "n": 18,
+    "text": "1 781 Joh. Karl, Arzt u. Wundarzt, a. Bernstadt in d. Lausitz"
+   },
+   {
+    "n": 19,
+    "text": "- II, 263."
+   },
+   {
+    "n": 20,
+    "text": "793 Fr. - Elis. Lew a. Langendorf."
+   },
+   {
+    "n": 21,
+    "text": "2 Philipp, Schuhmacher, a. Winzingen in Baiern - V, 32."
+   },
+   {
+    "n": 22,
+    "text": "799 Fr. - Charlotte Meixner."
+   },
+   {
+    "n": 23,
+    "text": "1 S. - Philipp Joseph."
+   },
+   {
+    "n": 24,
+    "text": "Schmidter."
+   },
+   {
+    "n": 25,
+    "text": "1 782 Joh. Ulrich, Handelsmann, a. Aarburg - V, 111."
+   },
+   {
+    "n": 26,
+    "text": "787 Fr. - Maria Fehlmann, geb. Streichenberg."
+   },
+   {
+    "n": 27,
+    "text": "Schmuz."
+   },
+   {
+    "n": 28,
+    "text": "1 803 A. Johanna, geb. Müller, Lohnwascherin, des Büchsen-"
+   },
+   {
+    "n": 29,
+    "text": "schmidgesellen Frau, a. Nant, K. Freiburg - VI, 64."
+   },
+   {
+    "n": 30,
+    "text": "1 T. - 828 Anna Marg."
+   },
+   {
+    "n": 31,
+    "text": "2 805 Bend. Samuel, Kutscher, a. Oberried, K. Freiburg"
+   },
+   {
+    "n": 32,
+    "text": "- III, 142."
+   },
+   {
+    "n": 33,
+    "text": "805 Fr. - Joh. Isab. Louise Emilie Hegg a. Münchenbuchsee."
+   },
+   {
+    "n": 34,
+    "text": "1 S. - 842 Bendicht Samuel."
+   },
+   {
+    "n": 35,
+    "text": "Schneeberger."
+   },
+   {
+    "n": 36,
+    "text": "1 794 Abraham, Weinhändler, a. Orpund - IV, 66."
+   },
+   {
+    "n": 37,
+    "text": "795 Fr. - Elis. Lüthi a. Nüderswyl."
+   },
+   {
+    "n": 38,
+    "text": "6 T. - 816 Anna Maria. - 19 Maria Elis. - 31 Ka-"
+   },
+   {
+    "n": 39,
+    "text": "roline. - 33 Magd. Rosa Marg. - 38 Marg. Sophie"
+   },
+   {
+    "n": 40,
+    "text": "Henriette. - 39 Rosa Marg. Elis."
+   },
+   {
+    "n": 41,
+    "text": "Schneering."
+   },
+   {
+    "n": 42,
+    "text": "1 811 Adam, Schneider, a. Beuren in Würtemberg - IV, 308."
+   },
+   {
+    "n": 43,
+    "text": "804 Fr. - Anna Maria Humm, geb. Haller, a. Kirchleerau."
+   },
+   {
+    "n": 44,
+    "text": "3 K. - 835 Theodor. - 39 Friedr. Wilhelm. (Das"
+   },
+   {
+    "n": 45,
+    "text": "dritte nicht eingeschrieben.)"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Schmied",
+    "place": "Bern",
+    "surname": "Schmied",
+    "forename": "Marx",
+    "title": "",
+    "occupation": "Negotiant",
+    "address": "IV, 150",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "150",
+    "origin": "Bernauhof",
+    "birth_year": "1791",
+    "household": "Fr. - Elis. Magd. Engimann a. Thun. 1 S. - 829 Joseph Markus.",
+    "note": "Name aus Vorseite; 4, 5 u. 6 sind Associirte der Eisen- u. Holzwaarenhandlung von Schmied, Beringer u. Comp.",
+    "text": "4 791 Marx, Negotiant, a. Bernauhof - IV, 150. 794 Fr. - Elis. Magd. Engimann a. Thun. 1 S. - 829 Joseph Markus."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Schmied",
+    "place": "Bern",
+    "surname": "Schmied",
+    "forename": "Paul",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "III, 62",
+    "quarter": "III",
+    "street": "",
+    "house_no": "62",
+    "origin": "Bernauhof in Baden",
+    "birth_year": "1794",
+    "household": "",
+    "note": "Name aus Vorseite; 4, 5 u. 6 sind Associirte der Eisen- u. Holzwaarenhandlung von Schmied, Beringer u. Comp.",
+    "text": "5 794 Paul, Handelsmann, a. Bernauhof in Baden - III, 62."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Schmied",
+    "place": "Bern",
+    "surname": "Schmied",
+    "forename": "Fridolin",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "III, 62",
+    "quarter": "III",
+    "street": "",
+    "house_no": "62",
+    "origin": "Bernauhof in Baden",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Vorseite; (4, 5 u. 6 sind Associirte der Eisen- u. Holzwaarenhandlung von Schmied, Beringer u. Comp.)",
+    "text": "6 Fridolin, Handelsmann, a. Bernauhof in Baden - III, 62. (4, 5 u. 6 sind Associirte der Eisen- u. Holzwaarenhandlung von Schmied, Beringer u. Comp.)"
+   },
+   {
+    "line_from": 10,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Schmied",
+    "place": "Bern",
+    "surname": "Mayer",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Kittelschneiderin",
+    "address": "III, 36",
+    "quarter": "III",
+    "street": "",
+    "house_no": "36",
+    "origin": "Urberg in Baden",
+    "birth_year": "1801",
+    "household": "1 T. - 841 A. M. Elisabetha.",
+    "note": "",
+    "text": "7 801 Anna Mayer, geb. Horni, Kittelschneiderin, a. Urberg in Baden - III, 36. 1 T. - 841 A. M. Elisabetha."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Schmiedhauser",
+    "place": "Bern",
+    "surname": "Schmiedhauser",
+    "forename": "Joh. Ludwig",
+    "title": "",
+    "occupation": "Küfer",
+    "address": "IV, 94",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "94",
+    "origin": "Sulgen, K. Thurgau",
+    "birth_year": "1820",
+    "household": "820 Fr. - Louise Barb. Still a. Aeschlen. 2 K. - 844 A. M. Françoise. - 46 Jean Jaques.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 820 Joh. Ludwig, Küfer, a. Sulgen, K. Thurgau - IV, 94. 820 Fr. - Louise Barb. Still a. Aeschlen. 2 K. - 844 A. M. Françoise. - 46 Jean Jaques."
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Schmidt",
+    "place": "Bern",
+    "surname": "Schmidt",
+    "forename": "Joh. Karl",
+    "title": "",
+    "occupation": "Arzt u. Wundarzt",
+    "address": "II, 263",
+    "quarter": "II",
+    "street": "",
+    "house_no": "263",
+    "origin": "Bernstadt in d. Lausitz",
+    "birth_year": "1781",
+    "household": "793 Fr. - Elis. Lew a. Langendorf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 781 Joh. Karl, Arzt u. Wundarzt, a. Bernstadt in d. Lausitz - II, 263. 793 Fr. - Elis. Lew a. Langendorf."
+   },
+   {
+    "line_from": 21,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Schmidt",
+    "place": "Bern",
+    "surname": "Schmidt",
+    "forename": "Philipp",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 32",
+    "quarter": "V",
+    "street": "",
+    "house_no": "32",
+    "origin": "Winzingen in Baiern",
+    "birth_year": "",
+    "household": "799 Fr. - Charlotte Meixner. 1 S. - Philipp Joseph.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 Philipp, Schuhmacher, a. Winzingen in Baiern - V, 32. 799 Fr. - Charlotte Meixner. 1 S. - Philipp Joseph."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Schmidter",
+    "place": "Bern",
+    "surname": "Schmidter",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "V, 111",
+    "quarter": "V",
+    "street": "",
+    "house_no": "111",
+    "origin": "Aarburg",
+    "birth_year": "1782",
+    "household": "787 Fr. - Maria Fehlmann, geb. Streichenberg.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 782 Joh. Ulrich, Handelsmann, a. Aarburg - V, 111. 787 Fr. - Maria Fehlmann, geb. Streichenberg."
+   },
+   {
+    "line_from": 28,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Schmuz",
+    "place": "Bern",
+    "surname": "Schmuz",
+    "forename": "A. Johanna",
+    "title": "",
+    "occupation": "Lohnwascherin, des Büchsenschmidgesellen Frau",
+    "address": "VI, 64",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "64",
+    "origin": "Nant, K. Freiburg",
+    "birth_year": "1803",
+    "household": "1 T. - 828 Anna Marg.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 A. Johanna, geb. Müller, Lohnwascherin, des Büchsenschmidgesellen Frau, a. Nant, K. Freiburg - VI, 64. 1 T. - 828 Anna Marg."
+   },
+   {
+    "line_from": 31,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Schmuz",
+    "place": "Bern",
+    "surname": "Schmuz",
+    "forename": "Bend. Samuel",
+    "title": "",
+    "occupation": "Kutscher",
+    "address": "III, 142",
+    "quarter": "III",
+    "street": "",
+    "house_no": "142",
+    "origin": "Oberried, K. Freiburg",
+    "birth_year": "1805",
+    "household": "805 Fr. - Joh. Isab. Louise Emilie Hegg a. Münchenbuchsee. 1 S. - 842 Bendicht Samuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 805 Bend. Samuel, Kutscher, a. Oberried, K. Freiburg - III, 142. 805 Fr. - Joh. Isab. Louise Emilie Hegg a. Münchenbuchsee. 1 S. - 842 Bendicht Samuel."
+   },
+   {
+    "line_from": 36,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Schneeberger",
+    "place": "Bern",
+    "surname": "Schneeberger",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "Weinhändler",
+    "address": "IV, 66",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "66",
+    "origin": "Orpund",
+    "birth_year": "1794",
+    "household": "795 Fr. - Elis. Lüthi a. Nüderswyl. 6 T. - 816 Anna Maria. - 19 Maria Elis. - 31 Karoline. - 33 Magd. Rosa Marg. - 38 Marg. Sophie Henriette. - 39 Rosa Marg. Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 794 Abraham, Weinhändler, a. Orpund - IV, 66. 795 Fr. - Elis. Lüthi a. Nüderswyl. 6 T. - 816 Anna Maria. - 19 Maria Elis. - 31 Karoline. - 33 Magd. Rosa Marg. - 38 Marg. Sophie Henriette. - 39 Rosa Marg. Elis."
+   },
+   {
+    "line_from": 42,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Schneering",
+    "place": "Bern",
+    "surname": "Schneering",
+    "forename": "Adam",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 308",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "308",
+    "origin": "Beuren in Würtemberg",
+    "birth_year": "1811",
+    "household": "804 Fr. - Anna Maria Humm, geb. Haller, a. Kirchleerau. 3 K. - 835 Theodor. - 39 Friedr. Wilhelm. (Das dritte nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Adam, Schneider, a. Beuren in Würtemberg - IV, 308. 804 Fr. - Anna Maria Humm, geb. Haller, a. Kirchleerau. 3 K. - 835 Theodor. - 39 Friedr. Wilhelm. (Das dritte nicht eingeschrieben.)"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:10:39+01:00",
+ "last_error": null
+}

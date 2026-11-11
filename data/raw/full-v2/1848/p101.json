@@ -1,0 +1,490 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 101,
+ "section": "einsassen",
+ "started": "2026-11-11T22:04:03+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 56.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4759,
+  "thoughts": 4650
+ },
+ "response_text": "{\n  \"printed_page\": \"88\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 88 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"6 803 Johann, gew. Müller, a. Mühledorf - III, 136.\"},\n    {\"n\": 4, \"text\": \"1 T. — 825 Anna Maria Elisabetha.\"},\n    {\"n\": 5, \"text\": \"7 796 Hans Ulrich, Kaffewirth, a. Töß, K. Zürich - I, 158.\"},\n    {\"n\": 6, \"text\": \"800 Fr. - Barbara Bichsel.\"},\n    {\"n\": 7, \"text\": \"5 K. — 825 Kath. — 32 Anna Elis. — 35 Friedrich\"},\n    {\"n\": 8, \"text\": \"und Anna Marg. — 37 Anna Maria.\"},\n    {\"n\": 9, \"text\": \"8 811 Samuel, Müller, a. Mühledorf - VI, 29.\"},\n    {\"n\": 10, \"text\": \"817 Fr. - Anna Munz, bern. Landsaßin.\"},\n    {\"n\": 11, \"text\": \"3 K. — 843 Anna Elis. — 44 Samuel Friedrich. —\"},\n    {\"n\": 12, \"text\": \"46 Karl Eduard.\"},\n    {\"n\": 13, \"text\": \"9 812 Samuel, Kübler, a. Gerzensee - I, 140.\"},\n    {\"n\": 14, \"text\": \"809 Fr. - Anna König a. Iffwyl.\"},\n    {\"n\": 15, \"text\": \"2 K. — 840 Ros. Elis. — 845 Ferdinand Gottlieb.\"},\n    {\"n\": 16, \"text\": \"10 799 Sus. Julie Louise, Feinwascherin, a. Niederwichtrach\"},\n    {\"n\": 17, \"text\": \"- II, 159.\"},\n    {\"n\": 18, \"text\": \"11 803 Johann, Polizeidiener, a. Niederwichtrach - III, 32.\"},\n    {\"n\": 19, \"text\": \"788 Fr. - Elis. Kräuchi, geb. Zbinden.\"},\n    {\"n\": 20, \"text\": \"12 822 Barbara, Krämerin, a. Rüeggisberg - III, 58 u. 59.\"},\n    {\"n\": 21, \"text\": \"Kreienbühl.\"},\n    {\"n\": 22, \"text\": \"1 809 Laurenz, Cand. Med., a. Meienberg, K. Aargau - V,\"},\n    {\"n\": 23, \"text\": \"144 u. 145.\"},\n    {\"n\": 24, \"text\": \"805 Fr. - Maria Cipriani.\"},\n    {\"n\": 25, \"text\": \"Kretz.\"},\n    {\"n\": 26, \"text\": \"1 787 Heinrich, Schlosser, a. Olten, K. Solothurn - II, 56.\"},\n    {\"n\": 27, \"text\": \"790 Fr. - Anna M. Merz a. Burg, K. Freiburg.\"},\n    {\"n\": 28, \"text\": \"Krieg.\"},\n    {\"n\": 29, \"text\": \"1 782 Elisabetha, geb. Kehr, verw. Liechti, Zimmervermietherin,\"},\n    {\"n\": 30, \"text\": \"a. Konolfingen - IV, 30 u. 31.\"},\n    {\"n\": 31, \"text\": \"1 S. — 825 Joh. Samuel.\"},\n    {\"n\": 32, \"text\": \"2 801 Louise Henriette, geb. Corboz, Feinwascherin, a. Muri\"},\n    {\"n\": 33, \"text\": \"- II, 122 c.\"},\n    {\"n\": 34, \"text\": \"2 S. — Georg David. — 32 Ludwig Friedrich.\"},\n    {\"n\": 35, \"text\": \"Kronek.\"},\n    {\"n\": 36, \"text\": \"1 813 Anna Mar., geb. Studer, Kaffewirthin, Abr. Philipps\"},\n    {\"n\": 37, \"text\": \"des Kammerdieners Frau, a. Lenk - V, 162.\"},\n    {\"n\": 38, \"text\": \"Kropf.\"},\n    {\"n\": 39, \"text\": \"1 802 Johann, Schneider, a. Unterlangeneck - V, 29.\"},\n    {\"n\": 40, \"text\": \"797 Fr. - Anna Maria Roseng.\"},\n    {\"n\": 41, \"text\": \"Kropfli.\"},\n    {\"n\": 42, \"text\": \"1 812 Karl Gottlieb, Schreiber, a. Gsteig b. Saanen - IV, 327.\"},\n    {\"n\": 43, \"text\": \"809 Fr. - Jeannette Salzmann.\"},\n    {\"n\": 44, \"text\": \"2 S. — 837 Karl Ed. — 41 Joh. Theodor.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Müller\",\n      \"address\": \"III, 136\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"136\",\n      \"origin\": \"Mühledorf\",\n      \"birth_year\": \"1803\",\n      \"household\": \"1 T. — 825 Anna Maria Elisabetha.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"6 803 Johann, gew. Müller, a. Mühledorf - III, 136. 1 T. — 825 Anna Maria Elisabetha.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Hans Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Kaffewirth\",\n      \"address\": \"I, 158\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"158\",\n      \"origin\": \"Töß, K. Zürich\",\n      \"birth_year\": \"1796\",\n      \"household\": \"800 Fr. - Barbara Bichsel. 5 K. — 825 Kath. — 32 Anna Elis. — 35 Friedrich und Anna Marg. — 37 Anna Maria.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"7 796 Hans Ulrich, Kaffewirth, a. Töß, K. Zürich - I, 158. 800 Fr. - Barbara Bichsel. 5 K. — 825 Kath. — 32 Anna Elis. — 35 Friedrich und Anna Marg. — 37 Anna Maria.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"VI, 29\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"29\",\n      \"origin\": \"Mühledorf\",\n      \"birth_year\": \"1811\",\n      \"household\": \"817 Fr. - Anna Munz, bern. Landsaßin. 3 K. — 843 Anna Elis. — 44 Samuel Friedrich. — 46 Karl Eduard.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"8 811 Samuel, Müller, a. Mühledorf - VI, 29. 817 Fr. - Anna Munz, bern. Landsaßin. 3 K. — 843 Anna Elis. — 44 Samuel Friedrich. — 46 Karl Eduard.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Kübler\",\n      \"address\": \"I, 140\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"140\",\n      \"origin\": \"Gerzensee\",\n      \"birth_year\": \"1812\",\n      \"household\": \"809 Fr. - Anna König a. Iffwyl. 2 K. — 840 Ros. Elis. — 845 Ferdinand Gottlieb.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"9 812 Samuel, Kübler, a. Gerzensee - I, 140. 809 Fr. - Anna König a. Iffwyl. 2 K. — 840 Ros. Elis. — 845 Ferdinand Gottlieb.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Sus. Julie Louise\",\n      \"title\": \"\",\n      \"occupation\": \"Feinwascherin\",\n      \"address\": \"II, 159\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"159\",\n      \"origin\": \"Niederwichtrach\",\n      \"birth_year\": \"1799\",\n      \"household\": \"\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"10 799 Sus. Julie Louise, Feinwascherin, a. Niederwichtrach - II, 159.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Polizeidiener\",\n      \"address\": \"III, 32\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"32\",\n      \"origin\": \"Niederwichtrach\",\n      \"birth_year\": \"1803\",\n      \"household\": \"788 Fr. - Elis. Kräuchi, geb. Zbinden.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"11 803 Johann, Polizeidiener, a. Niederwichtrach - III, 32. 788 Fr. - Elis. Kräuchi, geb. Zbinden.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"III, 58 u. 59\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"58 u. 59\",\n      \"origin\": \"Rüeggisberg\",\n      \"birth_year\": \"1822\",\n      \"household\": \"\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"12 822 Barbara, Krämerin, a. Rüeggisberg - III, 58 u. 59.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Kreienbühl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kreienbühl\",\n      \"forename\": \"Laurenz\",\n      \"title\": \"\",\n      \"occupation\": \"Cand. Med.\",\n      \"address\": \"V, 144 u. 145\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"144 u. 145\",\n      \"origin\": \"Meienberg, K. Aargau\",\n      \"birth_year\": \"1809\",\n      \"household\": \"805 Fr. - Maria Cipriani.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Laurenz, Cand. Med., a. Meienberg, K. Aargau - V, 144 u. 145. 805 Fr. - Maria Cipriani.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Kretz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kretz\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"II, 56\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"56\",\n      \"origin\": \"Olten, K. Solothurn\",\n      \"birth_year\": \"1787\",\n      \"household\": \"790 Fr. - Anna M. Merz a. Burg, K. Freiburg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 787 Heinrich, Schlosser, a. Olten, K. Solothurn - II, 56. 790 Fr. - Anna M. Merz a. Burg, K. Freiburg.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Krieg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Krieg\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"geb. Kehr, verw. Liechti\",\n      \"occupation\": \"Zimmervermietherin\",\n      \"address\": \"IV, 30 u. 31\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"30 u. 31\",\n      \"origin\": \"Konolfingen\",\n      \"birth_year\": \"1782\",\n      \"household\": \"1 S. — 825 Joh. Samuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 782 Elisabetha, geb. Kehr, verw. Liechti, Zimmervermietherin, a. Konolfingen - IV, 30 u. 31. 1 S. — 825 Joh. Samuel.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Krieg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Krieg\",\n      \"forename\": \"Louise Henriette\",\n      \"title\": \"geb. Corboz\",\n      \"occupation\": \"Feinwascherin\",\n      \"address\": \"II, 122 c\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 c\",\n      \"origin\": \"Muri\",\n      \"birth_year\": \"1801\",\n      \"household\": \"2 S. — Georg David. — 32 Ludwig Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 801 Louise Henriette, geb. Corboz, Feinwascherin, a. Muri - II, 122 c. 2 S. — Georg David. — 32 Ludwig Friedrich.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Kronek.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kronek\",\n      \"forename\": \"Anna Mar.\",\n      \"title\": \"geb. Studer, Abr. Philipps des Kammerdieners Frau\",\n      \"occupation\": \"Kaffewirthin\",\n      \"address\": \"V, 162\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"162\",\n      \"origin\": \"Lenk\",\n      \"birth_year\": \"1813\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Anna Mar., geb. Studer, Kaffewirthin, Abr. Philipps des Kammerdieners Frau, a. Lenk - V, 162.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Kropf.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kropf\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 29\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"29\",\n      \"origin\": \"Unterlangeneck\",\n      \"birth_year\": \"1802\",\n      \"household\": \"797 Fr. - Anna Maria Roseng.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Johann, Schneider, a. Unterlangeneck - V, 29. 797 Fr. - Anna Maria Roseng.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Kropfli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kropfli\",\n      \"forename\": \"Karl Gottlieb\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"IV, 327\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"327\",\n      \"origin\": \"Gsteig b. Saanen\",\n      \"birth_year\": \"1812\",\n      \"household\": \"809 Fr. - Jeannette Salzmann. 2 S. — 837 Karl Ed. — 41 Joh. Theodor.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Karl Gottlieb, Schreiber, a. Gsteig b. Saanen - IV, 327. 809 Fr. - Jeannette Salzmann. 2 S. — 837 Karl Ed. — 41 Joh. Theodor.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "88",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 88 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "6 803 Johann, gew. Müller, a. Mühledorf - III, 136."
+   },
+   {
+    "n": 4,
+    "text": "1 T. — 825 Anna Maria Elisabetha."
+   },
+   {
+    "n": 5,
+    "text": "7 796 Hans Ulrich, Kaffewirth, a. Töß, K. Zürich - I, 158."
+   },
+   {
+    "n": 6,
+    "text": "800 Fr. - Barbara Bichsel."
+   },
+   {
+    "n": 7,
+    "text": "5 K. — 825 Kath. — 32 Anna Elis. — 35 Friedrich"
+   },
+   {
+    "n": 8,
+    "text": "und Anna Marg. — 37 Anna Maria."
+   },
+   {
+    "n": 9,
+    "text": "8 811 Samuel, Müller, a. Mühledorf - VI, 29."
+   },
+   {
+    "n": 10,
+    "text": "817 Fr. - Anna Munz, bern. Landsaßin."
+   },
+   {
+    "n": 11,
+    "text": "3 K. — 843 Anna Elis. — 44 Samuel Friedrich. —"
+   },
+   {
+    "n": 12,
+    "text": "46 Karl Eduard."
+   },
+   {
+    "n": 13,
+    "text": "9 812 Samuel, Kübler, a. Gerzensee - I, 140."
+   },
+   {
+    "n": 14,
+    "text": "809 Fr. - Anna König a. Iffwyl."
+   },
+   {
+    "n": 15,
+    "text": "2 K. — 840 Ros. Elis. — 845 Ferdinand Gottlieb."
+   },
+   {
+    "n": 16,
+    "text": "10 799 Sus. Julie Louise, Feinwascherin, a. Niederwichtrach"
+   },
+   {
+    "n": 17,
+    "text": "- II, 159."
+   },
+   {
+    "n": 18,
+    "text": "11 803 Johann, Polizeidiener, a. Niederwichtrach - III, 32."
+   },
+   {
+    "n": 19,
+    "text": "788 Fr. - Elis. Kräuchi, geb. Zbinden."
+   },
+   {
+    "n": 20,
+    "text": "12 822 Barbara, Krämerin, a. Rüeggisberg - III, 58 u. 59."
+   },
+   {
+    "n": 21,
+    "text": "Kreienbühl."
+   },
+   {
+    "n": 22,
+    "text": "1 809 Laurenz, Cand. Med., a. Meienberg, K. Aargau - V,"
+   },
+   {
+    "n": 23,
+    "text": "144 u. 145."
+   },
+   {
+    "n": 24,
+    "text": "805 Fr. - Maria Cipriani."
+   },
+   {
+    "n": 25,
+    "text": "Kretz."
+   },
+   {
+    "n": 26,
+    "text": "1 787 Heinrich, Schlosser, a. Olten, K. Solothurn - II, 56."
+   },
+   {
+    "n": 27,
+    "text": "790 Fr. - Anna M. Merz a. Burg, K. Freiburg."
+   },
+   {
+    "n": 28,
+    "text": "Krieg."
+   },
+   {
+    "n": 29,
+    "text": "1 782 Elisabetha, geb. Kehr, verw. Liechti, Zimmervermietherin,"
+   },
+   {
+    "n": 30,
+    "text": "a. Konolfingen - IV, 30 u. 31."
+   },
+   {
+    "n": 31,
+    "text": "1 S. — 825 Joh. Samuel."
+   },
+   {
+    "n": 32,
+    "text": "2 801 Louise Henriette, geb. Corboz, Feinwascherin, a. Muri"
+   },
+   {
+    "n": 33,
+    "text": "- II, 122 c."
+   },
+   {
+    "n": 34,
+    "text": "2 S. — Georg David. — 32 Ludwig Friedrich."
+   },
+   {
+    "n": 35,
+    "text": "Kronek."
+   },
+   {
+    "n": 36,
+    "text": "1 813 Anna Mar., geb. Studer, Kaffewirthin, Abr. Philipps"
+   },
+   {
+    "n": 37,
+    "text": "des Kammerdieners Frau, a. Lenk - V, 162."
+   },
+   {
+    "n": 38,
+    "text": "Kropf."
+   },
+   {
+    "n": 39,
+    "text": "1 802 Johann, Schneider, a. Unterlangeneck - V, 29."
+   },
+   {
+    "n": 40,
+    "text": "797 Fr. - Anna Maria Roseng."
+   },
+   {
+    "n": 41,
+    "text": "Kropfli."
+   },
+   {
+    "n": 42,
+    "text": "1 812 Karl Gottlieb, Schreiber, a. Gsteig b. Saanen - IV, 327."
+   },
+   {
+    "n": 43,
+    "text": "809 Fr. - Jeannette Salzmann."
+   },
+   {
+    "n": 44,
+    "text": "2 S. — 837 Karl Ed. — 41 Joh. Theodor."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "gew. Müller",
+    "address": "III, 136",
+    "quarter": "III",
+    "street": "",
+    "house_no": "136",
+    "origin": "Mühledorf",
+    "birth_year": "1803",
+    "household": "1 T. — 825 Anna Maria Elisabetha.",
+    "note": "Familienname auf Vorseite",
+    "text": "6 803 Johann, gew. Müller, a. Mühledorf - III, 136. 1 T. — 825 Anna Maria Elisabetha."
+   },
+   {
+    "line_from": 5,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Hans Ulrich",
+    "title": "",
+    "occupation": "Kaffewirth",
+    "address": "I, 158",
+    "quarter": "I",
+    "street": "",
+    "house_no": "158",
+    "origin": "Töß, K. Zürich",
+    "birth_year": "1796",
+    "household": "800 Fr. - Barbara Bichsel. 5 K. — 825 Kath. — 32 Anna Elis. — 35 Friedrich und Anna Marg. — 37 Anna Maria.",
+    "note": "Familienname auf Vorseite",
+    "text": "7 796 Hans Ulrich, Kaffewirth, a. Töß, K. Zürich - I, 158. 800 Fr. - Barbara Bichsel. 5 K. — 825 Kath. — 32 Anna Elis. — 35 Friedrich und Anna Marg. — 37 Anna Maria."
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Müller",
+    "address": "VI, 29",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "29",
+    "origin": "Mühledorf",
+    "birth_year": "1811",
+    "household": "817 Fr. - Anna Munz, bern. Landsaßin. 3 K. — 843 Anna Elis. — 44 Samuel Friedrich. — 46 Karl Eduard.",
+    "note": "Familienname auf Vorseite",
+    "text": "8 811 Samuel, Müller, a. Mühledorf - VI, 29. 817 Fr. - Anna Munz, bern. Landsaßin. 3 K. — 843 Anna Elis. — 44 Samuel Friedrich. — 46 Karl Eduard."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Kübler",
+    "address": "I, 140",
+    "quarter": "I",
+    "street": "",
+    "house_no": "140",
+    "origin": "Gerzensee",
+    "birth_year": "1812",
+    "household": "809 Fr. - Anna König a. Iffwyl. 2 K. — 840 Ros. Elis. — 845 Ferdinand Gottlieb.",
+    "note": "Familienname auf Vorseite",
+    "text": "9 812 Samuel, Kübler, a. Gerzensee - I, 140. 809 Fr. - Anna König a. Iffwyl. 2 K. — 840 Ros. Elis. — 845 Ferdinand Gottlieb."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Sus. Julie Louise",
+    "title": "",
+    "occupation": "Feinwascherin",
+    "address": "II, 159",
+    "quarter": "II",
+    "street": "",
+    "house_no": "159",
+    "origin": "Niederwichtrach",
+    "birth_year": "1799",
+    "household": "",
+    "note": "Familienname auf Vorseite",
+    "text": "10 799 Sus. Julie Louise, Feinwascherin, a. Niederwichtrach - II, 159."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Polizeidiener",
+    "address": "III, 32",
+    "quarter": "III",
+    "street": "",
+    "house_no": "32",
+    "origin": "Niederwichtrach",
+    "birth_year": "1803",
+    "household": "788 Fr. - Elis. Kräuchi, geb. Zbinden.",
+    "note": "Familienname auf Vorseite",
+    "text": "11 803 Johann, Polizeidiener, a. Niederwichtrach - III, 32. 788 Fr. - Elis. Kräuchi, geb. Zbinden."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Barbara",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "III, 58 u. 59",
+    "quarter": "III",
+    "street": "",
+    "house_no": "58 u. 59",
+    "origin": "Rüeggisberg",
+    "birth_year": "1822",
+    "household": "",
+    "note": "Familienname auf Vorseite",
+    "text": "12 822 Barbara, Krämerin, a. Rüeggisberg - III, 58 u. 59."
+   },
+   {
+    "line_from": 22,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Kreienbühl.",
+    "place": "Bern",
+    "surname": "Kreienbühl",
+    "forename": "Laurenz",
+    "title": "",
+    "occupation": "Cand. Med.",
+    "address": "V, 144 u. 145",
+    "quarter": "V",
+    "street": "",
+    "house_no": "144 u. 145",
+    "origin": "Meienberg, K. Aargau",
+    "birth_year": "1809",
+    "household": "805 Fr. - Maria Cipriani.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Laurenz, Cand. Med., a. Meienberg, K. Aargau - V, 144 u. 145. 805 Fr. - Maria Cipriani."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Kretz.",
+    "place": "Bern",
+    "surname": "Kretz",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "II, 56",
+    "quarter": "II",
+    "street": "",
+    "house_no": "56",
+    "origin": "Olten, K. Solothurn",
+    "birth_year": "1787",
+    "household": "790 Fr. - Anna M. Merz a. Burg, K. Freiburg.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 787 Heinrich, Schlosser, a. Olten, K. Solothurn - II, 56. 790 Fr. - Anna M. Merz a. Burg, K. Freiburg."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Krieg.",
+    "place": "Bern",
+    "surname": "Krieg",
+    "forename": "Elisabetha",
+    "title": "geb. Kehr, verw. Liechti",
+    "occupation": "Zimmervermietherin",
+    "address": "IV, 30 u. 31",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "30 u. 31",
+    "origin": "Konolfingen",
+    "birth_year": "1782",
+    "household": "1 S. — 825 Joh. Samuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 782 Elisabetha, geb. Kehr, verw. Liechti, Zimmervermietherin, a. Konolfingen - IV, 30 u. 31. 1 S. — 825 Joh. Samuel."
+   },
+   {
+    "line_from": 32,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Krieg.",
+    "place": "Bern",
+    "surname": "Krieg",
+    "forename": "Louise Henriette",
+    "title": "geb. Corboz",
+    "occupation": "Feinwascherin",
+    "address": "II, 122 c",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 c",
+    "origin": "Muri",
+    "birth_year": "1801",
+    "household": "2 S. — Georg David. — 32 Ludwig Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 801 Louise Henriette, geb. Corboz, Feinwascherin, a. Muri - II, 122 c. 2 S. — Georg David. — 32 Ludwig Friedrich."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Kronek.",
+    "place": "Bern",
+    "surname": "Kronek",
+    "forename": "Anna Mar.",
+    "title": "geb. Studer, Abr. Philipps des Kammerdieners Frau",
+    "occupation": "Kaffewirthin",
+    "address": "V, 162",
+    "quarter": "V",
+    "street": "",
+    "house_no": "162",
+    "origin": "Lenk",
+    "birth_year": "1813",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Anna Mar., geb. Studer, Kaffewirthin, Abr. Philipps des Kammerdieners Frau, a. Lenk - V, 162."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Kropf.",
+    "place": "Bern",
+    "surname": "Kropf",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 29",
+    "quarter": "V",
+    "street": "",
+    "house_no": "29",
+    "origin": "Unterlangeneck",
+    "birth_year": "1802",
+    "household": "797 Fr. - Anna Maria Roseng.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Johann, Schneider, a. Unterlangeneck - V, 29. 797 Fr. - Anna Maria Roseng."
+   },
+   {
+    "line_from": 42,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Kropfli.",
+    "place": "Bern",
+    "surname": "Kropfli",
+    "forename": "Karl Gottlieb",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "IV, 327",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "327",
+    "origin": "Gsteig b. Saanen",
+    "birth_year": "1812",
+    "household": "809 Fr. - Jeannette Salzmann. 2 S. — 837 Karl Ed. — 41 Joh. Theodor.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Karl Gottlieb, Schreiber, a. Gsteig b. Saanen - IV, 327. 809 Fr. - Jeannette Salzmann. 2 S. — 837 Karl Ed. — 41 Joh. Theodor."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:05:00+01:00",
+ "last_error": null
+}

@@ -1,0 +1,394 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 115,
+ "section": "einsassen",
+ "started": "2026-11-11T22:05:32+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 34.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 3945,
+  "thoughts": 1767
+ },
+ "response_text": "{\n  \"printed_page\": \"102\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"— 102 —\" },\n    { \"n\": 2, \"text\": \"Nr. Geb.\" },\n    { \"n\": 3, \"text\": \"Mante.\" },\n    { \"n\": 4, \"text\": \"1 802 Christ. Friedr. Wilhelm, gew. Schreiner, a. Schatten-\" },\n    { \"n\": 5, \"text\": \"halb — IV, 295.\" },\n    { \"n\": 6, \"text\": \"796 Fr. — Anna Maria Aeberhard a. Jegenstorf, Krämerin.\" },\n    { \"n\": 7, \"text\": \"4 K. — 827 Friedrich Wilhelm. — 31 Emma Fried. —\" },\n    { \"n\": 8, \"text\": \"36 Jos. Luzian. — 37 Karl Ludwig.\" },\n    { \"n\": 9, \"text\": \"Mantel.\" },\n    { \"n\": 10, \"text\": \"1 809 Johann, Keßler, bern. Landsaß — V, 73.\" },\n    { \"n\": 11, \"text\": \"814 Fr. — Elisabetha Stettler.\" },\n    { \"n\": 12, \"text\": \"4 K. — 836 Bendicht. — 42 Niklaus. — 45 Magdalena\" },\n    { \"n\": 13, \"text\": \"Elis. — 47 Anna.\" },\n    { \"n\": 14, \"text\": \"Margot.\" },\n    { \"n\": 15, \"text\": \"1 797 Isaac Louis, Sesselmacher, a. St. Croix, K. Waadt — V, 158.\" },\n    { \"n\": 16, \"text\": \"791 Fr. — Jeanne Henriette Berthoud a. Constantine.\" },\n    { \"n\": 17, \"text\": \"1 S. — 828 Ludwig.\" },\n    { \"n\": 18, \"text\": \"Markstein.\" },\n    { \"n\": 19, \"text\": \"1 809 Bernh., Steinhauer, a. Kammersrohr, K. Solothurn\" },\n    { \"n\": 20, \"text\": \"— II, 21.\" },\n    { \"n\": 21, \"text\": \"813 Fr. — Maria Ros. Warmbrodt a. Siselen.\" },\n    { \"n\": 22, \"text\": \"4 K. — 831 Maria Elis. Joh. — 33 Joh. Friedr. — 38\" },\n    { \"n\": 23, \"text\": \"Frz. Georg. — 43 Xaver Ad. Bernhard.\" },\n    { \"n\": 24, \"text\": \"Marpach.\" },\n    { \"n\": 25, \"text\": \"1 810 Johann, Speisewirth, a. Oberdießbach — III, 108.\" },\n    { \"n\": 26, \"text\": \"Fr. — Anna Pulver.\" },\n    { \"n\": 27, \"text\": \"1 T. — 834 Elisabetha.\" },\n    { \"n\": 28, \"text\": \"Marthaler.\" },\n    { \"n\": 29, \"text\": \"1 824 Christian, Kappenmacher, a. Bümpliz — VI, 26.\" },\n    { \"n\": 30, \"text\": \"816 Fr. — Kath. Krebs a. Röthenbach.\" },\n    { \"n\": 31, \"text\": \"Marti.\" },\n    { \"n\": 32, \"text\": \"1 785 Joh. Samuel, Schreiner, a. Ruppoldsried — I, 197.\" },\n    { \"n\": 33, \"text\": \"785 Fr. — Elis. Schneider a. Niederneunforn.\" },\n    { \"n\": 34, \"text\": \"5 K. 816 Sus. Elis. — 19 Joh. Christian. — 20 Friedr.\" },\n    { \"n\": 35, \"text\": \"Rudolf. — 23 Friedr. Jakob. — 26 Joh. Albrecht.\" },\n    { \"n\": 36, \"text\": \"2 824 Bendicht, Fuhrmann, a. Rapperswyl — I, 5.\" },\n    { \"n\": 37, \"text\": \"3 792 Josepha, geb. Zbinden, Musikantin, a. Rohr, K. Solo-\" },\n    { \"n\": 38, \"text\": \"thurn — II, 216.\" },\n    { \"n\": 39, \"text\": \"4 793 Magd. Kath., geb. Loder, a. Sumiswald — II, 42.\" },\n    { \"n\": 40, \"text\": \"2 K. — 810 Franz Sam. Friedr. — 22 A. M. Kath.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Mante.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mante\",\n      \"forename\": \"Christ. Friedr. Wilhelm\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Schreiner\",\n      \"address\": \"IV, 295\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"295\",\n      \"origin\": \"Schattenhalb\",\n      \"birth_year\": \"1802\",\n      \"household\": \"796 Fr. — Anna Maria Aeberhard a. Jegenstorf, Krämerin. 4 K. — 827 Friedrich Wilhelm. — 31 Emma Fried. — 36 Jos. Luzian. — 37 Karl Ludwig.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Christ. Friedr. Wilhelm, gew. Schreiner, a. Schattenhalb — IV, 295. 796 Fr. — Anna Maria Aeberhard a. Jegenstorf, Krämerin. 4 K. — 827 Friedrich Wilhelm. — 31 Emma Fried. — 36 Jos. Luzian. — 37 Karl Ludwig.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Mantel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mantel\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Keßler\",\n      \"address\": \"V, 73\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"73\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1809\",\n      \"household\": \"814 Fr. — Elisabetha Stettler. 4 K. — 836 Bendicht. — 42 Niklaus. — 45 Magdalena Elis. — 47 Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Johann, Keßler, bern. Landsaß — V, 73. 814 Fr. — Elisabetha Stettler. 4 K. — 836 Bendicht. — 42 Niklaus. — 45 Magdalena Elis. — 47 Anna.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Margot.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Margot\",\n      \"forename\": \"Isaac Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Sesselmacher\",\n      \"address\": \"V, 158\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"158\",\n      \"origin\": \"St. Croix, K. Waadt\",\n      \"birth_year\": \"1797\",\n      \"household\": \"791 Fr. — Jeanne Henriette Berthoud a. Constantine. 1 S. — 828 Ludwig.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 Isaac Louis, Sesselmacher, a. St. Croix, K. Waadt — V, 158. 791 Fr. — Jeanne Henriette Berthoud a. Constantine. 1 S. — 828 Ludwig.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Markstein.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Markstein\",\n      \"forename\": \"Bernh.\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauer\",\n      \"address\": \"II, 21\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"21\",\n      \"origin\": \"Kammersrohr, K. Solothurn\",\n      \"birth_year\": \"1809\",\n      \"household\": \"813 Fr. — Maria Ros. Warmbrodt a. Siselen. 4 K. — 831 Maria Elis. Joh. — 33 Joh. Friedr. — 38 Frz. Georg. — 43 Xaver Ad. Bernhard.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Bernh., Steinhauer, a. Kammersrohr, K. Solothurn — II, 21. 813 Fr. — Maria Ros. Warmbrodt a. Siselen. 4 K. — 831 Maria Elis. Joh. — 33 Joh. Friedr. — 38 Frz. Georg. — 43 Xaver Ad. Bernhard.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Marpach.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Marpach\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth\",\n      \"address\": \"III, 108\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"108\",\n      \"origin\": \"Oberdießbach\",\n      \"birth_year\": \"1810\",\n      \"household\": \"Fr. — Anna Pulver. 1 T. — 834 Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Johann, Speisewirth, a. Oberdießbach — III, 108. Fr. — Anna Pulver. 1 T. — 834 Elisabetha.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Marthaler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Marthaler\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Kappenmacher\",\n      \"address\": \"VI, 26\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"26\",\n      \"origin\": \"Bümpliz\",\n      \"birth_year\": \"1824\",\n      \"household\": \"816 Fr. — Kath. Krebs a. Röthenbach.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 824 Christian, Kappenmacher, a. Bümpliz — VI, 26. 816 Fr. — Kath. Krebs a. Röthenbach.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Marti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Marti\",\n      \"forename\": \"Joh. Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"I, 197\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"197\",\n      \"origin\": \"Ruppoldsried\",\n      \"birth_year\": \"1785\",\n      \"household\": \"785 Fr. — Elis. Schneider a. Niederneunforn. 5 K. 816 Sus. Elis. — 19 Joh. Christian. — 20 Friedr. Rudolf. — 23 Friedr. Jakob. — 26 Joh. Albrecht.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 785 Joh. Samuel, Schreiner, a. Ruppoldsried — I, 197. 785 Fr. — Elis. Schneider a. Niederneunforn. 5 K. 816 Sus. Elis. — 19 Joh. Christian. — 20 Friedr. Rudolf. — 23 Friedr. Jakob. — 26 Joh. Albrecht.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Marti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Marti\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Fuhrmann\",\n      \"address\": \"I, 5\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"5\",\n      \"origin\": \"Rapperswyl\",\n      \"birth_year\": \"1824\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 824 Bendicht, Fuhrmann, a. Rapperswyl — I, 5.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Marti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Marti\",\n      \"forename\": \"Josepha\",\n      \"title\": \"geb. Zbinden\",\n      \"occupation\": \"Musikantin\",\n      \"address\": \"II, 216\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"216\",\n      \"origin\": \"Rohr, K. Solothurn\",\n      \"birth_year\": \"1792\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 792 Josepha, geb. Zbinden, Musikantin, a. Rohr, K. Solothurn — II, 216.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Marti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Marti\",\n      \"forename\": \"Magd. Kath.\",\n      \"title\": \"geb. Loder\",\n      \"occupation\": \"\",\n      \"address\": \"II, 42\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"42\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1793\",\n      \"household\": \"2 K. — 810 Franz Sam. Friedr. — 22 A. M. Kath.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 793 Magd. Kath., geb. Loder, a. Sumiswald — II, 42. 2 K. — 810 Franz Sam. Friedr. — 22 A. M. Kath.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "102",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 102 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Mante."
+   },
+   {
+    "n": 4,
+    "text": "1 802 Christ. Friedr. Wilhelm, gew. Schreiner, a. Schatten-"
+   },
+   {
+    "n": 5,
+    "text": "halb — IV, 295."
+   },
+   {
+    "n": 6,
+    "text": "796 Fr. — Anna Maria Aeberhard a. Jegenstorf, Krämerin."
+   },
+   {
+    "n": 7,
+    "text": "4 K. — 827 Friedrich Wilhelm. — 31 Emma Fried. —"
+   },
+   {
+    "n": 8,
+    "text": "36 Jos. Luzian. — 37 Karl Ludwig."
+   },
+   {
+    "n": 9,
+    "text": "Mantel."
+   },
+   {
+    "n": 10,
+    "text": "1 809 Johann, Keßler, bern. Landsaß — V, 73."
+   },
+   {
+    "n": 11,
+    "text": "814 Fr. — Elisabetha Stettler."
+   },
+   {
+    "n": 12,
+    "text": "4 K. — 836 Bendicht. — 42 Niklaus. — 45 Magdalena"
+   },
+   {
+    "n": 13,
+    "text": "Elis. — 47 Anna."
+   },
+   {
+    "n": 14,
+    "text": "Margot."
+   },
+   {
+    "n": 15,
+    "text": "1 797 Isaac Louis, Sesselmacher, a. St. Croix, K. Waadt — V, 158."
+   },
+   {
+    "n": 16,
+    "text": "791 Fr. — Jeanne Henriette Berthoud a. Constantine."
+   },
+   {
+    "n": 17,
+    "text": "1 S. — 828 Ludwig."
+   },
+   {
+    "n": 18,
+    "text": "Markstein."
+   },
+   {
+    "n": 19,
+    "text": "1 809 Bernh., Steinhauer, a. Kammersrohr, K. Solothurn"
+   },
+   {
+    "n": 20,
+    "text": "— II, 21."
+   },
+   {
+    "n": 21,
+    "text": "813 Fr. — Maria Ros. Warmbrodt a. Siselen."
+   },
+   {
+    "n": 22,
+    "text": "4 K. — 831 Maria Elis. Joh. — 33 Joh. Friedr. — 38"
+   },
+   {
+    "n": 23,
+    "text": "Frz. Georg. — 43 Xaver Ad. Bernhard."
+   },
+   {
+    "n": 24,
+    "text": "Marpach."
+   },
+   {
+    "n": 25,
+    "text": "1 810 Johann, Speisewirth, a. Oberdießbach — III, 108."
+   },
+   {
+    "n": 26,
+    "text": "Fr. — Anna Pulver."
+   },
+   {
+    "n": 27,
+    "text": "1 T. — 834 Elisabetha."
+   },
+   {
+    "n": 28,
+    "text": "Marthaler."
+   },
+   {
+    "n": 29,
+    "text": "1 824 Christian, Kappenmacher, a. Bümpliz — VI, 26."
+   },
+   {
+    "n": 30,
+    "text": "816 Fr. — Kath. Krebs a. Röthenbach."
+   },
+   {
+    "n": 31,
+    "text": "Marti."
+   },
+   {
+    "n": 32,
+    "text": "1 785 Joh. Samuel, Schreiner, a. Ruppoldsried — I, 197."
+   },
+   {
+    "n": 33,
+    "text": "785 Fr. — Elis. Schneider a. Niederneunforn."
+   },
+   {
+    "n": 34,
+    "text": "5 K. 816 Sus. Elis. — 19 Joh. Christian. — 20 Friedr."
+   },
+   {
+    "n": 35,
+    "text": "Rudolf. — 23 Friedr. Jakob. — 26 Joh. Albrecht."
+   },
+   {
+    "n": 36,
+    "text": "2 824 Bendicht, Fuhrmann, a. Rapperswyl — I, 5."
+   },
+   {
+    "n": 37,
+    "text": "3 792 Josepha, geb. Zbinden, Musikantin, a. Rohr, K. Solo-"
+   },
+   {
+    "n": 38,
+    "text": "thurn — II, 216."
+   },
+   {
+    "n": 39,
+    "text": "4 793 Magd. Kath., geb. Loder, a. Sumiswald — II, 42."
+   },
+   {
+    "n": 40,
+    "text": "2 K. — 810 Franz Sam. Friedr. — 22 A. M. Kath."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Mante.",
+    "place": "Bern",
+    "surname": "Mante",
+    "forename": "Christ. Friedr. Wilhelm",
+    "title": "",
+    "occupation": "gew. Schreiner",
+    "address": "IV, 295",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "295",
+    "origin": "Schattenhalb",
+    "birth_year": "1802",
+    "household": "796 Fr. — Anna Maria Aeberhard a. Jegenstorf, Krämerin. 4 K. — 827 Friedrich Wilhelm. — 31 Emma Fried. — 36 Jos. Luzian. — 37 Karl Ludwig.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Christ. Friedr. Wilhelm, gew. Schreiner, a. Schattenhalb — IV, 295. 796 Fr. — Anna Maria Aeberhard a. Jegenstorf, Krämerin. 4 K. — 827 Friedrich Wilhelm. — 31 Emma Fried. — 36 Jos. Luzian. — 37 Karl Ludwig."
+   },
+   {
+    "line_from": 10,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Mantel.",
+    "place": "Bern",
+    "surname": "Mantel",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Keßler",
+    "address": "V, 73",
+    "quarter": "V",
+    "street": "",
+    "house_no": "73",
+    "origin": "bern. Landsaß",
+    "birth_year": "1809",
+    "household": "814 Fr. — Elisabetha Stettler. 4 K. — 836 Bendicht. — 42 Niklaus. — 45 Magdalena Elis. — 47 Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Johann, Keßler, bern. Landsaß — V, 73. 814 Fr. — Elisabetha Stettler. 4 K. — 836 Bendicht. — 42 Niklaus. — 45 Magdalena Elis. — 47 Anna."
+   },
+   {
+    "line_from": 15,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Margot.",
+    "place": "Bern",
+    "surname": "Margot",
+    "forename": "Isaac Louis",
+    "title": "",
+    "occupation": "Sesselmacher",
+    "address": "V, 158",
+    "quarter": "V",
+    "street": "",
+    "house_no": "158",
+    "origin": "St. Croix, K. Waadt",
+    "birth_year": "1797",
+    "household": "791 Fr. — Jeanne Henriette Berthoud a. Constantine. 1 S. — 828 Ludwig.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 Isaac Louis, Sesselmacher, a. St. Croix, K. Waadt — V, 158. 791 Fr. — Jeanne Henriette Berthoud a. Constantine. 1 S. — 828 Ludwig."
+   },
+   {
+    "line_from": 19,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Markstein.",
+    "place": "Bern",
+    "surname": "Markstein",
+    "forename": "Bernh.",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "II, 21",
+    "quarter": "II",
+    "street": "",
+    "house_no": "21",
+    "origin": "Kammersrohr, K. Solothurn",
+    "birth_year": "1809",
+    "household": "813 Fr. — Maria Ros. Warmbrodt a. Siselen. 4 K. — 831 Maria Elis. Joh. — 33 Joh. Friedr. — 38 Frz. Georg. — 43 Xaver Ad. Bernhard.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Bernh., Steinhauer, a. Kammersrohr, K. Solothurn — II, 21. 813 Fr. — Maria Ros. Warmbrodt a. Siselen. 4 K. — 831 Maria Elis. Joh. — 33 Joh. Friedr. — 38 Frz. Georg. — 43 Xaver Ad. Bernhard."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Marpach.",
+    "place": "Bern",
+    "surname": "Marpach",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Speisewirth",
+    "address": "III, 108",
+    "quarter": "III",
+    "street": "",
+    "house_no": "108",
+    "origin": "Oberdießbach",
+    "birth_year": "1810",
+    "household": "Fr. — Anna Pulver. 1 T. — 834 Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Johann, Speisewirth, a. Oberdießbach — III, 108. Fr. — Anna Pulver. 1 T. — 834 Elisabetha."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Marthaler.",
+    "place": "Bern",
+    "surname": "Marthaler",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Kappenmacher",
+    "address": "VI, 26",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "26",
+    "origin": "Bümpliz",
+    "birth_year": "1824",
+    "household": "816 Fr. — Kath. Krebs a. Röthenbach.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 824 Christian, Kappenmacher, a. Bümpliz — VI, 26. 816 Fr. — Kath. Krebs a. Röthenbach."
+   },
+   {
+    "line_from": 32,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Marti.",
+    "place": "Bern",
+    "surname": "Marti",
+    "forename": "Joh. Samuel",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "I, 197",
+    "quarter": "I",
+    "street": "",
+    "house_no": "197",
+    "origin": "Ruppoldsried",
+    "birth_year": "1785",
+    "household": "785 Fr. — Elis. Schneider a. Niederneunforn. 5 K. 816 Sus. Elis. — 19 Joh. Christian. — 20 Friedr. Rudolf. — 23 Friedr. Jakob. — 26 Joh. Albrecht.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 785 Joh. Samuel, Schreiner, a. Ruppoldsried — I, 197. 785 Fr. — Elis. Schneider a. Niederneunforn. 5 K. 816 Sus. Elis. — 19 Joh. Christian. — 20 Friedr. Rudolf. — 23 Friedr. Jakob. — 26 Joh. Albrecht."
+   },
+   {
+    "line_from": 36,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Marti.",
+    "place": "Bern",
+    "surname": "Marti",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Fuhrmann",
+    "address": "I, 5",
+    "quarter": "I",
+    "street": "",
+    "house_no": "5",
+    "origin": "Rapperswyl",
+    "birth_year": "1824",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 824 Bendicht, Fuhrmann, a. Rapperswyl — I, 5."
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Marti.",
+    "place": "Bern",
+    "surname": "Marti",
+    "forename": "Josepha",
+    "title": "geb. Zbinden",
+    "occupation": "Musikantin",
+    "address": "II, 216",
+    "quarter": "II",
+    "street": "",
+    "house_no": "216",
+    "origin": "Rohr, K. Solothurn",
+    "birth_year": "1792",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 792 Josepha, geb. Zbinden, Musikantin, a. Rohr, K. Solothurn — II, 216."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Marti.",
+    "place": "Bern",
+    "surname": "Marti",
+    "forename": "Magd. Kath.",
+    "title": "geb. Loder",
+    "occupation": "",
+    "address": "II, 42",
+    "quarter": "II",
+    "street": "",
+    "house_no": "42",
+    "origin": "Sumiswald",
+    "birth_year": "1793",
+    "household": "2 K. — 810 Franz Sam. Friedr. — 22 A. M. Kath.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 793 Magd. Kath., geb. Loder, a. Sumiswald — II, 42. 2 K. — 810 Franz Sam. Friedr. — 22 A. M. Kath."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:06:06+01:00",
+ "last_error": null
+}

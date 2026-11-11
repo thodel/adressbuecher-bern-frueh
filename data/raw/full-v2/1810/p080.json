@@ -1,0 +1,246 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 80,
+ "section": "ville",
+ "started": "2026-11-11T20:53:59+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 32.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2300,
+  "output": 1709,
+  "thoughts": 3042
+ },
+ "response_text": "{\n  \"printed_page\": null,\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"A. Ville de Berne.\"},\n    {\"n\": 2, \"text\": \"Acierie , voyez Fer et Acier.\"},\n    {\"n\": 3, \"text\": \"Agens de Change.\"},\n    {\"n\": 4, \"text\": \"Eckard , G. Philippe. … Q. v. 2.\"},\n    {\"n\": 5, \"text\": \"Greif , J. C. … — bl. 109.\"},\n    {\"n\": 6, \"text\": \"Apoticaires , voyez Pharmaciens.\"},\n    {\"n\": 7, \"text\": \"Aiguillers et Epingliers.\"},\n    {\"n\": 8, \"text\": \"Goldi, J. Abr. et Alex. père et fils. Q. r. 106.\"},\n    {\"n\": 9, \"text\": \"Antiquaires.\"},\n    {\"n\": 10, \"text\": \"Ochs , François. … Q. v. 202.\"},\n    {\"n\": 11, \"text\": \"Architectes.\"},\n    {\"n\": 12, \"text\": \"Haller , Charles Gabriel. … Q. v. 325.\"},\n    {\"n\": 13, \"text\": \"Imhoof, Samuel. … — r. 29.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"verweis\",\n      \"heading\": \"Acierie\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Acierie , voyez Fer et Acier.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Agens de Change\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eckard\",\n      \"forename\": \"G. Philippe\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 2.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"2\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eckard , G. Philippe. Q. v. 2.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Agens de Change\",\n      \"place\": \"Bern\",\n      \"surname\": \"Greif\",\n      \"forename\": \"J. C.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— bl. 109.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"109\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Greif , J. C. — bl. 109.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"verweis\",\n      \"heading\": \"Apoticaires\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Apoticaires , voyez Pharmaciens.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"firma\",\n      \"heading\": \"Aiguillers et Epingliers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Goldi\",\n      \"forename\": \"J. Abr. et Alex.\",\n      \"title\": \"père et fils\",\n      \"occupation\": \"\",\n      \"address\": \"Q. r. 106.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"106\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Goldi, J. Abr. et Alex. père et fils. Q. r. 106.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Antiquaires\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ochs\",\n      \"forename\": \"François\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 202.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"202\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ochs , François. Q. v. 202.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Architectes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"Charles Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 325.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"325\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haller , Charles Gabriel. Q. v. 325.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Architectes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Imhoof\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 29.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"29\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Imhoof, Samuel. — r. 29.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": null,
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "A. Ville de Berne."
+   },
+   {
+    "n": 2,
+    "text": "Acierie , voyez Fer et Acier."
+   },
+   {
+    "n": 3,
+    "text": "Agens de Change."
+   },
+   {
+    "n": 4,
+    "text": "Eckard , G. Philippe. … Q. v. 2."
+   },
+   {
+    "n": 5,
+    "text": "Greif , J. C. … — bl. 109."
+   },
+   {
+    "n": 6,
+    "text": "Apoticaires , voyez Pharmaciens."
+   },
+   {
+    "n": 7,
+    "text": "Aiguillers et Epingliers."
+   },
+   {
+    "n": 8,
+    "text": "Goldi, J. Abr. et Alex. père et fils. Q. r. 106."
+   },
+   {
+    "n": 9,
+    "text": "Antiquaires."
+   },
+   {
+    "n": 10,
+    "text": "Ochs , François. … Q. v. 202."
+   },
+   {
+    "n": 11,
+    "text": "Architectes."
+   },
+   {
+    "n": 12,
+    "text": "Haller , Charles Gabriel. … Q. v. 325."
+   },
+   {
+    "n": 13,
+    "text": "Imhoof, Samuel. … — r. 29."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "verweis",
+    "heading": "Acierie",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Acierie , voyez Fer et Acier."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Agens de Change",
+    "place": "Bern",
+    "surname": "Eckard",
+    "forename": "G. Philippe",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 2.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "2",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eckard , G. Philippe. Q. v. 2."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Agens de Change",
+    "place": "Bern",
+    "surname": "Greif",
+    "forename": "J. C.",
+    "title": "",
+    "occupation": "",
+    "address": "— bl. 109.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "109",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Greif , J. C. — bl. 109."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "verweis",
+    "heading": "Apoticaires",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Apoticaires , voyez Pharmaciens."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "firma",
+    "heading": "Aiguillers et Epingliers",
+    "place": "Bern",
+    "surname": "Goldi",
+    "forename": "J. Abr. et Alex.",
+    "title": "père et fils",
+    "occupation": "",
+    "address": "Q. r. 106.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "106",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Goldi, J. Abr. et Alex. père et fils. Q. r. 106."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Antiquaires",
+    "place": "Bern",
+    "surname": "Ochs",
+    "forename": "François",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 202.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "202",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ochs , François. Q. v. 202."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Architectes",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "Charles Gabriel",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 325.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "325",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haller , Charles Gabriel. Q. v. 325."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Architectes",
+    "place": "Bern",
+    "surname": "Imhoof",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 29.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "29",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Imhoof, Samuel. — r. 29."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:54:31+01:00",
+ "last_error": null
+}

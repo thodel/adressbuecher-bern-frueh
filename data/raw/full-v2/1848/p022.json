@@ -1,0 +1,410 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 22,
+ "section": "einsassen",
+ "started": "2026-11-11T21:55:53+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 61.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4062,
+  "thoughts": 4304
+ },
+ "response_text": "{\n  \"printed_page\": \"9\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 9 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Bauer.\"},\n    {\"n\": 4, \"text\": \"1 Friedrich, Metzger, a. Straßburg - IV, 95.\"},\n    {\"n\": 5, \"text\": \"Fr. - Anna Maria Müller a. Emishofen.\"},\n    {\"n\": 6, \"text\": \"4 K. - Joh. Ben. Friedrich. - 841 Aug. M. Alphons.\"},\n    {\"n\": 7, \"text\": \"- 43 Joh. Julius. - 46 Anna Maria Franziska.\"},\n    {\"n\": 8, \"text\": \"Bauhof.\"},\n    {\"n\": 9, \"text\": \"1 801 Joh. Christian, Bäckermeister, a. Kirchheim, K. Wür-\"},\n    {\"n\": 10, \"text\": \"temberg - VI, 27 u. 28.\"},\n    {\"n\": 11, \"text\": \"802 Fr. - Elisabetha Kunz, a. Wald, K. Zürich.\"},\n    {\"n\": 12, \"text\": \"11 K. - 827 Maria Marg. - 28 Elis. Kath. - 31 Sophie\"},\n    {\"n\": 13, \"text\": \"Anna. - 32 Rud. Abraham. - 34 Joh. Friedrich. -\"},\n    {\"n\": 14, \"text\": \"35 Joh. Christen. - 38 Johannes. - 40 Anna Barb. -\"},\n    {\"n\": 15, \"text\": \"42 Maria Marg. - 43 Karl. - 45 Amalie.\"},\n    {\"n\": 16, \"text\": \"Baumann.\"},\n    {\"n\": 17, \"text\": \"1 813 Rudolf, Schuhmacher, a. Hombrechtikon, K. Zürich -\"},\n    {\"n\": 18, \"text\": \"II, 160.\"},\n    {\"n\": 19, \"text\": \"801 Fr. - Anna Hürlimann, ebendaher.\"},\n    {\"n\": 20, \"text\": \"4 K. - 835 Barb. Louise. - 39 Eduard Alexander. -\"},\n    {\"n\": 21, \"text\": \"41 Jakob Alex. - 45 Joh. Friedrich Robert.\"},\n    {\"n\": 22, \"text\": \"2 787 Johannes, Pächter, a. Hauben, Kgde. Oberdießbach -\"},\n    {\"n\": 23, \"text\": \"I, 251.\"},\n    {\"n\": 24, \"text\": \"787 Fr. - Barbara Gehrig a. Lützelflüh.\"},\n    {\"n\": 25, \"text\": \"3 S. - 821 Johannes. - 24 Rud. Friedrich. - 28 Jakob.\"},\n    {\"n\": 26, \"text\": \"3 815 Joh. Chr. Peter, Handlanger, a. Grindelwald - II, 171.\"},\n    {\"n\": 27, \"text\": \"811 Fr. - Magd. Bütikofer a. Kirchlindach.\"},\n    {\"n\": 28, \"text\": \"1 S. - 842 Joh. Karl.\"},\n    {\"n\": 29, \"text\": \"4 804 Jakob, Lumpensammler, a. Aeschlen, Kgde. Oberdieß-\"},\n    {\"n\": 30, \"text\": \"bach - II, 40.\"},\n    {\"n\": 31, \"text\": \"806 Fr. - Ursula Kummer a. Obergraßwyl.\"},\n    {\"n\": 32, \"text\": \"5 821 Andreas, Schlosser, a. Oberhallau, K. Schaffhausen -\"},\n    {\"n\": 33, \"text\": \"II, 207.\"},\n    {\"n\": 34, \"text\": \"819 Fr. - Maria Gurtner a. Rüggisberg.\"},\n    {\"n\": 35, \"text\": \"Baumberger.\"},\n    {\"n\": 36, \"text\": \"1 793 Johann Jakob, Angestellter der evang. Gesellschaft, a.\"},\n    {\"n\": 37, \"text\": \"Koppigen - V, 225.\"},\n    {\"n\": 38, \"text\": \"795 Fr. - Christina Lanz a. Koppigen.\"},\n    {\"n\": 39, \"text\": \"1 T. - 821 Christina.\"},\n    {\"n\": 40, \"text\": \"Baumeister.\"},\n    {\"n\": 41, \"text\": \"1 819 Ludwig, Küfer u. Bierbrauer, a. Schlaitdorf, K. Wür-\"},\n    {\"n\": 42, \"text\": \"temberg - I, 95.\"},\n    {\"n\": 43, \"text\": \"Baumer.\"},\n    {\"n\": 44, \"text\": \"1 809 Maria, Modiste, a. Saanen - IV, 100.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Bauer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bauer\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Metzger\",\n      \"address\": \"IV, 95\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"Straßburg\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. - Anna Maria Müller a. Emishofen. 4 K. - Joh. Ben. Friedrich. - 841 Aug. M. Alphons. - 43 Joh. Julius. - 46 Anna Maria Franziska.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Friedrich, Metzger, a. Straßburg - IV, 95. Fr. - Anna Maria Müller a. Emishofen. 4 K. - Joh. Ben. Friedrich. - 841 Aug. M. Alphons. - 43 Joh. Julius. - 46 Anna Maria Franziska.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Bauhof.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bauhof\",\n      \"forename\": \"Joh. Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Bäckermeister\",\n      \"address\": \"VI, 27 u. 28\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"27 u. 28\",\n      \"origin\": \"Kirchheim, K. Würtemberg\",\n      \"birth_year\": \"1801\",\n      \"household\": \"802 Fr. - Elisabetha Kunz, a. Wald, K. Zürich. 11 K. - 827 Maria Marg. - 28 Elis. Kath. - 31 Sophie Anna. - 32 Rud. Abraham. - 34 Joh. Friedrich. - 35 Joh. Christen. - 38 Johannes. - 40 Anna Barb. - 42 Maria Marg. - 43 Karl. - 45 Amalie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 801 Joh. Christian, Bäckermeister, a. Kirchheim, K. Würtemberg - VI, 27 u. 28. 802 Fr. - Elisabetha Kunz, a. Wald, K. Zürich. 11 K. - 827 Maria Marg. - 28 Elis. Kath. - 31 Sophie Anna. - 32 Rud. Abraham. - 34 Joh. Friedrich. - 35 Joh. Christen. - 38 Johannes. - 40 Anna Barb. - 42 Maria Marg. - 43 Karl. - 45 Amalie.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Baumann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumann\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 160\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"160\",\n      \"origin\": \"Hombrechtikon, K. Zürich\",\n      \"birth_year\": \"1813\",\n      \"household\": \"801 Fr. - Anna Hürlimann, ebendaher. 4 K. - 835 Barb. Louise. - 39 Eduard Alexander. - 41 Jakob Alex. - 45 Joh. Friedrich Robert.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Rudolf, Schuhmacher, a. Hombrechtikon, K. Zürich - II, 160. 801 Fr. - Anna Hürlimann, ebendaher. 4 K. - 835 Barb. Louise. - 39 Eduard Alexander. - 41 Jakob Alex. - 45 Joh. Friedrich Robert.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Baumann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumann\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Pächter\",\n      \"address\": \"I, 251\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"251\",\n      \"origin\": \"Hauben, Kgde. Oberdießbach\",\n      \"birth_year\": \"1787\",\n      \"household\": \"787 Fr. - Barbara Gehrig a. Lützelflüh. 3 S. - 821 Johannes. - 24 Rud. Friedrich. - 28 Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 787 Johannes, Pächter, a. Hauben, Kgde. Oberdießbach - I, 251. 787 Fr. - Barbara Gehrig a. Lützelflüh. 3 S. - 821 Johannes. - 24 Rud. Friedrich. - 28 Jakob.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Baumann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumann\",\n      \"forename\": \"Joh. Chr. Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Handlanger\",\n      \"address\": \"II, 171\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"171\",\n      \"origin\": \"Grindelwald\",\n      \"birth_year\": \"1815\",\n      \"household\": \"811 Fr. - Magd. Bütikofer a. Kirchlindach. 1 S. - 842 Joh. Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 815 Joh. Chr. Peter, Handlanger, a. Grindelwald - II, 171. 811 Fr. - Magd. Bütikofer a. Kirchlindach. 1 S. - 842 Joh. Karl.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Baumann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumann\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Lumpensammler\",\n      \"address\": \"II, 40\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"40\",\n      \"origin\": \"Aeschlen, Kgde. Oberdießbach\",\n      \"birth_year\": \"1804\",\n      \"household\": \"806 Fr. - Ursula Kummer a. Obergraßwyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 804 Jakob, Lumpensammler, a. Aeschlen, Kgde. Oberdießbach - II, 40. 806 Fr. - Ursula Kummer a. Obergraßwyl.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Baumann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumann\",\n      \"forename\": \"Andreas\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"II, 207\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"207\",\n      \"origin\": \"Oberhallau, K. Schaffhausen\",\n      \"birth_year\": \"1821\",\n      \"household\": \"819 Fr. - Maria Gurtner a. Rüggisberg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 821 Andreas, Schlosser, a. Oberhallau, K. Schaffhausen - II, 207. 819 Fr. - Maria Gurtner a. Rüggisberg.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Baumberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumberger\",\n      \"forename\": \"Johann Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Angestellter der evang. Gesellschaft\",\n      \"address\": \"V, 225\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"225\",\n      \"origin\": \"Koppigen\",\n      \"birth_year\": \"1793\",\n      \"household\": \"795 Fr. - Christina Lanz a. Koppigen. 1 T. - 821 Christina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 793 Johann Jakob, Angestellter der evang. Gesellschaft, a. Koppigen - V, 225. 795 Fr. - Christina Lanz a. Koppigen. 1 T. - 821 Christina.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Baumeister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumeister\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Küfer u. Bierbrauer\",\n      \"address\": \"I, 95\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"Schlaitdorf, K. Würtemberg\",\n      \"birth_year\": \"1819\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 819 Ludwig, Küfer u. Bierbrauer, a. Schlaitdorf, K. Würtemberg - I, 95.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Baumer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumer\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Modiste\",\n      \"address\": \"IV, 100\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"100\",\n      \"origin\": \"Saanen\",\n      \"birth_year\": \"1809\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Maria, Modiste, a. Saanen - IV, 100.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "9",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 9 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Bauer."
+   },
+   {
+    "n": 4,
+    "text": "1 Friedrich, Metzger, a. Straßburg - IV, 95."
+   },
+   {
+    "n": 5,
+    "text": "Fr. - Anna Maria Müller a. Emishofen."
+   },
+   {
+    "n": 6,
+    "text": "4 K. - Joh. Ben. Friedrich. - 841 Aug. M. Alphons."
+   },
+   {
+    "n": 7,
+    "text": "- 43 Joh. Julius. - 46 Anna Maria Franziska."
+   },
+   {
+    "n": 8,
+    "text": "Bauhof."
+   },
+   {
+    "n": 9,
+    "text": "1 801 Joh. Christian, Bäckermeister, a. Kirchheim, K. Wür-"
+   },
+   {
+    "n": 10,
+    "text": "temberg - VI, 27 u. 28."
+   },
+   {
+    "n": 11,
+    "text": "802 Fr. - Elisabetha Kunz, a. Wald, K. Zürich."
+   },
+   {
+    "n": 12,
+    "text": "11 K. - 827 Maria Marg. - 28 Elis. Kath. - 31 Sophie"
+   },
+   {
+    "n": 13,
+    "text": "Anna. - 32 Rud. Abraham. - 34 Joh. Friedrich. -"
+   },
+   {
+    "n": 14,
+    "text": "35 Joh. Christen. - 38 Johannes. - 40 Anna Barb. -"
+   },
+   {
+    "n": 15,
+    "text": "42 Maria Marg. - 43 Karl. - 45 Amalie."
+   },
+   {
+    "n": 16,
+    "text": "Baumann."
+   },
+   {
+    "n": 17,
+    "text": "1 813 Rudolf, Schuhmacher, a. Hombrechtikon, K. Zürich -"
+   },
+   {
+    "n": 18,
+    "text": "II, 160."
+   },
+   {
+    "n": 19,
+    "text": "801 Fr. - Anna Hürlimann, ebendaher."
+   },
+   {
+    "n": 20,
+    "text": "4 K. - 835 Barb. Louise. - 39 Eduard Alexander. -"
+   },
+   {
+    "n": 21,
+    "text": "41 Jakob Alex. - 45 Joh. Friedrich Robert."
+   },
+   {
+    "n": 22,
+    "text": "2 787 Johannes, Pächter, a. Hauben, Kgde. Oberdießbach -"
+   },
+   {
+    "n": 23,
+    "text": "I, 251."
+   },
+   {
+    "n": 24,
+    "text": "787 Fr. - Barbara Gehrig a. Lützelflüh."
+   },
+   {
+    "n": 25,
+    "text": "3 S. - 821 Johannes. - 24 Rud. Friedrich. - 28 Jakob."
+   },
+   {
+    "n": 26,
+    "text": "3 815 Joh. Chr. Peter, Handlanger, a. Grindelwald - II, 171."
+   },
+   {
+    "n": 27,
+    "text": "811 Fr. - Magd. Bütikofer a. Kirchlindach."
+   },
+   {
+    "n": 28,
+    "text": "1 S. - 842 Joh. Karl."
+   },
+   {
+    "n": 29,
+    "text": "4 804 Jakob, Lumpensammler, a. Aeschlen, Kgde. Oberdieß-"
+   },
+   {
+    "n": 30,
+    "text": "bach - II, 40."
+   },
+   {
+    "n": 31,
+    "text": "806 Fr. - Ursula Kummer a. Obergraßwyl."
+   },
+   {
+    "n": 32,
+    "text": "5 821 Andreas, Schlosser, a. Oberhallau, K. Schaffhausen -"
+   },
+   {
+    "n": 33,
+    "text": "II, 207."
+   },
+   {
+    "n": 34,
+    "text": "819 Fr. - Maria Gurtner a. Rüggisberg."
+   },
+   {
+    "n": 35,
+    "text": "Baumberger."
+   },
+   {
+    "n": 36,
+    "text": "1 793 Johann Jakob, Angestellter der evang. Gesellschaft, a."
+   },
+   {
+    "n": 37,
+    "text": "Koppigen - V, 225."
+   },
+   {
+    "n": 38,
+    "text": "795 Fr. - Christina Lanz a. Koppigen."
+   },
+   {
+    "n": 39,
+    "text": "1 T. - 821 Christina."
+   },
+   {
+    "n": 40,
+    "text": "Baumeister."
+   },
+   {
+    "n": 41,
+    "text": "1 819 Ludwig, Küfer u. Bierbrauer, a. Schlaitdorf, K. Wür-"
+   },
+   {
+    "n": 42,
+    "text": "temberg - I, 95."
+   },
+   {
+    "n": 43,
+    "text": "Baumer."
+   },
+   {
+    "n": 44,
+    "text": "1 809 Maria, Modiste, a. Saanen - IV, 100."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Bauer.",
+    "place": "Bern",
+    "surname": "Bauer",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Metzger",
+    "address": "IV, 95",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "95",
+    "origin": "Straßburg",
+    "birth_year": "",
+    "household": "Fr. - Anna Maria Müller a. Emishofen. 4 K. - Joh. Ben. Friedrich. - 841 Aug. M. Alphons. - 43 Joh. Julius. - 46 Anna Maria Franziska.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Friedrich, Metzger, a. Straßburg - IV, 95. Fr. - Anna Maria Müller a. Emishofen. 4 K. - Joh. Ben. Friedrich. - 841 Aug. M. Alphons. - 43 Joh. Julius. - 46 Anna Maria Franziska."
+   },
+   {
+    "line_from": 9,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Bauhof.",
+    "place": "Bern",
+    "surname": "Bauhof",
+    "forename": "Joh. Christian",
+    "title": "",
+    "occupation": "Bäckermeister",
+    "address": "VI, 27 u. 28",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "27 u. 28",
+    "origin": "Kirchheim, K. Würtemberg",
+    "birth_year": "1801",
+    "household": "802 Fr. - Elisabetha Kunz, a. Wald, K. Zürich. 11 K. - 827 Maria Marg. - 28 Elis. Kath. - 31 Sophie Anna. - 32 Rud. Abraham. - 34 Joh. Friedrich. - 35 Joh. Christen. - 38 Johannes. - 40 Anna Barb. - 42 Maria Marg. - 43 Karl. - 45 Amalie.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 801 Joh. Christian, Bäckermeister, a. Kirchheim, K. Würtemberg - VI, 27 u. 28. 802 Fr. - Elisabetha Kunz, a. Wald, K. Zürich. 11 K. - 827 Maria Marg. - 28 Elis. Kath. - 31 Sophie Anna. - 32 Rud. Abraham. - 34 Joh. Friedrich. - 35 Joh. Christen. - 38 Johannes. - 40 Anna Barb. - 42 Maria Marg. - 43 Karl. - 45 Amalie."
+   },
+   {
+    "line_from": 17,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Baumann.",
+    "place": "Bern",
+    "surname": "Baumann",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 160",
+    "quarter": "II",
+    "street": "",
+    "house_no": "160",
+    "origin": "Hombrechtikon, K. Zürich",
+    "birth_year": "1813",
+    "household": "801 Fr. - Anna Hürlimann, ebendaher. 4 K. - 835 Barb. Louise. - 39 Eduard Alexander. - 41 Jakob Alex. - 45 Joh. Friedrich Robert.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Rudolf, Schuhmacher, a. Hombrechtikon, K. Zürich - II, 160. 801 Fr. - Anna Hürlimann, ebendaher. 4 K. - 835 Barb. Louise. - 39 Eduard Alexander. - 41 Jakob Alex. - 45 Joh. Friedrich Robert."
+   },
+   {
+    "line_from": 22,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Baumann.",
+    "place": "Bern",
+    "surname": "Baumann",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Pächter",
+    "address": "I, 251",
+    "quarter": "I",
+    "street": "",
+    "house_no": "251",
+    "origin": "Hauben, Kgde. Oberdießbach",
+    "birth_year": "1787",
+    "household": "787 Fr. - Barbara Gehrig a. Lützelflüh. 3 S. - 821 Johannes. - 24 Rud. Friedrich. - 28 Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 787 Johannes, Pächter, a. Hauben, Kgde. Oberdießbach - I, 251. 787 Fr. - Barbara Gehrig a. Lützelflüh. 3 S. - 821 Johannes. - 24 Rud. Friedrich. - 28 Jakob."
+   },
+   {
+    "line_from": 26,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Baumann.",
+    "place": "Bern",
+    "surname": "Baumann",
+    "forename": "Joh. Chr. Peter",
+    "title": "",
+    "occupation": "Handlanger",
+    "address": "II, 171",
+    "quarter": "II",
+    "street": "",
+    "house_no": "171",
+    "origin": "Grindelwald",
+    "birth_year": "1815",
+    "household": "811 Fr. - Magd. Bütikofer a. Kirchlindach. 1 S. - 842 Joh. Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 815 Joh. Chr. Peter, Handlanger, a. Grindelwald - II, 171. 811 Fr. - Magd. Bütikofer a. Kirchlindach. 1 S. - 842 Joh. Karl."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Baumann.",
+    "place": "Bern",
+    "surname": "Baumann",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Lumpensammler",
+    "address": "II, 40",
+    "quarter": "II",
+    "street": "",
+    "house_no": "40",
+    "origin": "Aeschlen, Kgde. Oberdießbach",
+    "birth_year": "1804",
+    "household": "806 Fr. - Ursula Kummer a. Obergraßwyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 804 Jakob, Lumpensammler, a. Aeschlen, Kgde. Oberdießbach - II, 40. 806 Fr. - Ursula Kummer a. Obergraßwyl."
+   },
+   {
+    "line_from": 32,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Baumann.",
+    "place": "Bern",
+    "surname": "Baumann",
+    "forename": "Andreas",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "II, 207",
+    "quarter": "II",
+    "street": "",
+    "house_no": "207",
+    "origin": "Oberhallau, K. Schaffhausen",
+    "birth_year": "1821",
+    "household": "819 Fr. - Maria Gurtner a. Rüggisberg.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 821 Andreas, Schlosser, a. Oberhallau, K. Schaffhausen - II, 207. 819 Fr. - Maria Gurtner a. Rüggisberg."
+   },
+   {
+    "line_from": 36,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Baumberger.",
+    "place": "Bern",
+    "surname": "Baumberger",
+    "forename": "Johann Jakob",
+    "title": "",
+    "occupation": "Angestellter der evang. Gesellschaft",
+    "address": "V, 225",
+    "quarter": "V",
+    "street": "",
+    "house_no": "225",
+    "origin": "Koppigen",
+    "birth_year": "1793",
+    "household": "795 Fr. - Christina Lanz a. Koppigen. 1 T. - 821 Christina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 793 Johann Jakob, Angestellter der evang. Gesellschaft, a. Koppigen - V, 225. 795 Fr. - Christina Lanz a. Koppigen. 1 T. - 821 Christina."
+   },
+   {
+    "line_from": 41,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Baumeister.",
+    "place": "Bern",
+    "surname": "Baumeister",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Küfer u. Bierbrauer",
+    "address": "I, 95",
+    "quarter": "I",
+    "street": "",
+    "house_no": "95",
+    "origin": "Schlaitdorf, K. Würtemberg",
+    "birth_year": "1819",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 819 Ludwig, Küfer u. Bierbrauer, a. Schlaitdorf, K. Würtemberg - I, 95."
+   },
+   {
+    "line_from": 44,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Baumer.",
+    "place": "Bern",
+    "surname": "Baumer",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Modiste",
+    "address": "IV, 100",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "100",
+    "origin": "Saanen",
+    "birth_year": "1809",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Maria, Modiste, a. Saanen - IV, 100."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:56:55+01:00",
+ "last_error": null
+}

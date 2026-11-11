@@ -1,0 +1,438 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 165,
+ "section": "einsassen",
+ "started": "2026-11-11T22:10:51+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 40.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4325,
+  "thoughts": 2073
+ },
+ "response_text": "{\n  \"printed_page\": \"152\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 152 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Spillmann a. Vilmergen, K. Aargau.\"},\n    {\"n\": 4, \"text\": \"1 805 Hans Jakob, Pintenwirth - II, 177.\"},\n    {\"n\": 5, \"text\": \"2 788 Joh. Daniel, Lohnbedienter - IV, 122.\"},\n    {\"n\": 6, \"text\": \"2 K. — Gottl. August. — Margaritha.\"},\n    {\"n\": 7, \"text\": \"Spöri.\"},\n    {\"n\": 8, \"text\": \"1 788 Heinrich, Barbier, a. Wald, K. Zürich - II, 251.\"},\n    {\"n\": 9, \"text\": \"773 Fr. — Wilhelmine Otth a. Schaffhausen.\"},\n    {\"n\": 10, \"text\": \"2 805 Kaspar, Barbier und Chirurg, a. Wald, K. Zürich -\"},\n    {\"n\": 11, \"text\": \"V, 114.\"},\n    {\"n\": 12, \"text\": \"817 Fr. II Ehe. — Anna Elis. Krähenbühl a. Höchstetten.\"},\n    {\"n\": 13, \"text\": \"2 S. — Aus I Ehe: 836 Heinrich. — Aus II Ehe: 46\"},\n    {\"n\": 14, \"text\": \"Wilhelm.\"},\n    {\"n\": 15, \"text\": \"3 819 Bendicht, Schneider, a. Schüpfen - III, 77.\"},\n    {\"n\": 16, \"text\": \"812 Fr. — Maria Isabelle Grieser a. Pizy, K. Waadt.\"},\n    {\"n\": 17, \"text\": \"Spring.\"},\n    {\"n\": 18, \"text\": \"1 793 Christian, Schreiner, a. Seftigen - VI, 114.\"},\n    {\"n\": 19, \"text\": \"792 Fr. — Elis. Barb. Wittwer, Kellermagd.\"},\n    {\"n\": 20, \"text\": \"2 792 Johann, Steinhauer, a. Vechigen - I, 28.\"},\n    {\"n\": 21, \"text\": \"805 Fr. III Ehe. — Elis. Jenni, verw. Großiger.\"},\n    {\"n\": 22, \"text\": \"1 T. aus II Ehe. — 820 Elisabetha.\"},\n    {\"n\": 23, \"text\": \"3 811 Rudolf, Schneider, a. Gelterfingen - IV, 85.\"},\n    {\"n\": 24, \"text\": \"801 Fr. — Elis. Gfeller a. Worb.\"},\n    {\"n\": 25, \"text\": \"4 808 Christian, Musiklehrer, a. Wimmis - IV, 39.\"},\n    {\"n\": 26, \"text\": \"801 Fr. — Kath. Marg. Meley a. Bern.\"},\n    {\"n\": 27, \"text\": \"3 K. — 831 Elis. Marg. Felicitas. — 33 Joh. Christ.\"},\n    {\"n\": 28, \"text\": \"Karl. — 36 Gottlieb Albert.\"},\n    {\"n\": 29, \"text\": \"Spycher.\"},\n    {\"n\": 30, \"text\": \"1 794 Christian, Lebküchler, a. Köniz - II, 274.\"},\n    {\"n\": 31, \"text\": \"6 K. — 828 Magd. — 35 Joh. Gottlieb. — 41 Anna\"},\n    {\"n\": 32, \"text\": \"Barb. Elis. — 42 Anna Maria. — 45 Maria Marg. —\"},\n    {\"n\": 33, \"text\": \"47 Joh. Jakob.\"},\n    {\"n\": 34, \"text\": \"Stadelmann.\"},\n    {\"n\": 35, \"text\": \"1 814 Philipp, Krämer, a. Escholzmatt, K. Luzern - III, 86.\"},\n    {\"n\": 36, \"text\": \"819 Fr. — Maria Gander a. Saanen.\"},\n    {\"n\": 37, \"text\": \"3 K. — 836 Maria. — 40 Philipp Albert. — 42 Ros.\"},\n    {\"n\": 38, \"text\": \"Karoline.\"},\n    {\"n\": 39, \"text\": \"Stadlin.\"},\n    {\"n\": 40, \"text\": \"1 796 Kaspar Michael, Zinngießer, a. Zug - II, 174.\"},\n    {\"n\": 41, \"text\": \"805 Fr. — Kath. Schweinberger, verw. Bolland.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Spillmann a. Vilmergen, K. Aargau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Spillmann\",\n      \"forename\": \"Hans Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"II, 177\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"177\",\n      \"origin\": \"Vilmergen, K. Aargau\",\n      \"birth_year\": \"1805\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 805 Hans Jakob, Pintenwirth - II, 177.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Spillmann a. Vilmergen, K. Aargau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Spillmann\",\n      \"forename\": \"Joh. Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnbedienter\",\n      \"address\": \"IV, 122\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"122\",\n      \"origin\": \"Vilmergen, K. Aargau\",\n      \"birth_year\": \"1788\",\n      \"household\": \"2 K. — Gottl. August. — Margaritha.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"2 788 Joh. Daniel, Lohnbedienter - IV, 122. 2 K. — Gottl. August. — Margaritha.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Spöri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Spöri\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Barbier\",\n      \"address\": \"II, 251\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"251\",\n      \"origin\": \"Wald, K. Zürich\",\n      \"birth_year\": \"1788\",\n      \"household\": \"773 Fr. — Wilhelmine Otth a. Schaffhausen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 788 Heinrich, Barbier, a. Wald, K. Zürich - II, 251. 773 Fr. — Wilhelmine Otth a. Schaffhausen.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Spöri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Spöri\",\n      \"forename\": \"Kaspar\",\n      \"title\": \"\",\n      \"occupation\": \"Barbier und Chirurg\",\n      \"address\": \"V, 114\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"114\",\n      \"origin\": \"Wald, K. Zürich\",\n      \"birth_year\": \"1805\",\n      \"household\": \"817 Fr. II Ehe. — Anna Elis. Krähenbühl a. Höchstetten. 2 S. — Aus I Ehe: 836 Heinrich. — Aus II Ehe: 46 Wilhelm.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 805 Kaspar, Barbier und Chirurg, a. Wald, K. Zürich - V, 114. 817 Fr. II Ehe. — Anna Elis. Krähenbühl a. Höchstetten. 2 S. — Aus I Ehe: 836 Heinrich. — Aus II Ehe: 46 Wilhelm.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Spöri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Spöri\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"III, 77\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"77\",\n      \"origin\": \"Schüpfen\",\n      \"birth_year\": \"1819\",\n      \"household\": \"812 Fr. — Maria Isabelle Grieser a. Pizy, K. Waadt.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 819 Bendicht, Schneider, a. Schüpfen - III, 77. 812 Fr. — Maria Isabelle Grieser a. Pizy, K. Waadt.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Spring.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Spring\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"VI, 114\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"114\",\n      \"origin\": \"Seftigen\",\n      \"birth_year\": \"1793\",\n      \"household\": \"792 Fr. — Elis. Barb. Wittwer, Kellermagd.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 793 Christian, Schreiner, a. Seftigen - VI, 114. 792 Fr. — Elis. Barb. Wittwer, Kellermagd.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Spring.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Spring\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauer\",\n      \"address\": \"I, 28\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"28\",\n      \"origin\": \"Vechigen\",\n      \"birth_year\": \"1792\",\n      \"household\": \"805 Fr. III Ehe. — Elis. Jenni, verw. Großiger. 1 T. aus II Ehe. — 820 Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 792 Johann, Steinhauer, a. Vechigen - I, 28. 805 Fr. III Ehe. — Elis. Jenni, verw. Großiger. 1 T. aus II Ehe. — 820 Elisabetha.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Spring.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Spring\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 85\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"85\",\n      \"origin\": \"Gelterfingen\",\n      \"birth_year\": \"1811\",\n      \"household\": \"801 Fr. — Elis. Gfeller a. Worb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 811 Rudolf, Schneider, a. Gelterfingen - IV, 85. 801 Fr. — Elis. Gfeller a. Worb.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Spring.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Spring\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Musiklehrer\",\n      \"address\": \"IV, 39\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"39\",\n      \"origin\": \"Wimmis\",\n      \"birth_year\": \"1808\",\n      \"household\": \"801 Fr. — Kath. Marg. Meley a. Bern. 3 K. — 831 Elis. Marg. Felicitas. — 33 Joh. Christ. Karl. — 36 Gottlieb Albert.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 808 Christian, Musiklehrer, a. Wimmis - IV, 39. 801 Fr. — Kath. Marg. Meley a. Bern. 3 K. — 831 Elis. Marg. Felicitas. — 33 Joh. Christ. Karl. — 36 Gottlieb Albert.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Spycher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Spycher\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Lebküchler\",\n      \"address\": \"II, 274\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"274\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1794\",\n      \"household\": \"6 K. — 828 Magd. — 35 Joh. Gottlieb. — 41 Anna Barb. Elis. — 42 Anna Maria. — 45 Maria Marg. — 47 Joh. Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 794 Christian, Lebküchler, a. Köniz - II, 274. 6 K. — 828 Magd. — 35 Joh. Gottlieb. — 41 Anna Barb. Elis. — 42 Anna Maria. — 45 Maria Marg. — 47 Joh. Jakob.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Stadelmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stadelmann\",\n      \"forename\": \"Philipp\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"III, 86\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"86\",\n      \"origin\": \"Escholzmatt, K. Luzern\",\n      \"birth_year\": \"1814\",\n      \"household\": \"819 Fr. — Maria Gander a. Saanen. 3 K. — 836 Maria. — 40 Philipp Albert. — 42 Ros. Karoline.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Philipp, Krämer, a. Escholzmatt, K. Luzern - III, 86. 819 Fr. — Maria Gander a. Saanen. 3 K. — 836 Maria. — 40 Philipp Albert. — 42 Ros. Karoline.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Stadlin.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stadlin\",\n      \"forename\": \"Kaspar Michael\",\n      \"title\": \"\",\n      \"occupation\": \"Zinngießer\",\n      \"address\": \"II, 174\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"174\",\n      \"origin\": \"Zug\",\n      \"birth_year\": \"1796\",\n      \"household\": \"805 Fr. — Kath. Schweinberger, verw. Bolland.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Kaspar Michael, Zinngießer, a. Zug - II, 174. 805 Fr. — Kath. Schweinberger, verw. Bolland.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "152",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 152 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Spillmann a. Vilmergen, K. Aargau."
+   },
+   {
+    "n": 4,
+    "text": "1 805 Hans Jakob, Pintenwirth - II, 177."
+   },
+   {
+    "n": 5,
+    "text": "2 788 Joh. Daniel, Lohnbedienter - IV, 122."
+   },
+   {
+    "n": 6,
+    "text": "2 K. — Gottl. August. — Margaritha."
+   },
+   {
+    "n": 7,
+    "text": "Spöri."
+   },
+   {
+    "n": 8,
+    "text": "1 788 Heinrich, Barbier, a. Wald, K. Zürich - II, 251."
+   },
+   {
+    "n": 9,
+    "text": "773 Fr. — Wilhelmine Otth a. Schaffhausen."
+   },
+   {
+    "n": 10,
+    "text": "2 805 Kaspar, Barbier und Chirurg, a. Wald, K. Zürich -"
+   },
+   {
+    "n": 11,
+    "text": "V, 114."
+   },
+   {
+    "n": 12,
+    "text": "817 Fr. II Ehe. — Anna Elis. Krähenbühl a. Höchstetten."
+   },
+   {
+    "n": 13,
+    "text": "2 S. — Aus I Ehe: 836 Heinrich. — Aus II Ehe: 46"
+   },
+   {
+    "n": 14,
+    "text": "Wilhelm."
+   },
+   {
+    "n": 15,
+    "text": "3 819 Bendicht, Schneider, a. Schüpfen - III, 77."
+   },
+   {
+    "n": 16,
+    "text": "812 Fr. — Maria Isabelle Grieser a. Pizy, K. Waadt."
+   },
+   {
+    "n": 17,
+    "text": "Spring."
+   },
+   {
+    "n": 18,
+    "text": "1 793 Christian, Schreiner, a. Seftigen - VI, 114."
+   },
+   {
+    "n": 19,
+    "text": "792 Fr. — Elis. Barb. Wittwer, Kellermagd."
+   },
+   {
+    "n": 20,
+    "text": "2 792 Johann, Steinhauer, a. Vechigen - I, 28."
+   },
+   {
+    "n": 21,
+    "text": "805 Fr. III Ehe. — Elis. Jenni, verw. Großiger."
+   },
+   {
+    "n": 22,
+    "text": "1 T. aus II Ehe. — 820 Elisabetha."
+   },
+   {
+    "n": 23,
+    "text": "3 811 Rudolf, Schneider, a. Gelterfingen - IV, 85."
+   },
+   {
+    "n": 24,
+    "text": "801 Fr. — Elis. Gfeller a. Worb."
+   },
+   {
+    "n": 25,
+    "text": "4 808 Christian, Musiklehrer, a. Wimmis - IV, 39."
+   },
+   {
+    "n": 26,
+    "text": "801 Fr. — Kath. Marg. Meley a. Bern."
+   },
+   {
+    "n": 27,
+    "text": "3 K. — 831 Elis. Marg. Felicitas. — 33 Joh. Christ."
+   },
+   {
+    "n": 28,
+    "text": "Karl. — 36 Gottlieb Albert."
+   },
+   {
+    "n": 29,
+    "text": "Spycher."
+   },
+   {
+    "n": 30,
+    "text": "1 794 Christian, Lebküchler, a. Köniz - II, 274."
+   },
+   {
+    "n": 31,
+    "text": "6 K. — 828 Magd. — 35 Joh. Gottlieb. — 41 Anna"
+   },
+   {
+    "n": 32,
+    "text": "Barb. Elis. — 42 Anna Maria. — 45 Maria Marg. —"
+   },
+   {
+    "n": 33,
+    "text": "47 Joh. Jakob."
+   },
+   {
+    "n": 34,
+    "text": "Stadelmann."
+   },
+   {
+    "n": 35,
+    "text": "1 814 Philipp, Krämer, a. Escholzmatt, K. Luzern - III, 86."
+   },
+   {
+    "n": 36,
+    "text": "819 Fr. — Maria Gander a. Saanen."
+   },
+   {
+    "n": 37,
+    "text": "3 K. — 836 Maria. — 40 Philipp Albert. — 42 Ros."
+   },
+   {
+    "n": 38,
+    "text": "Karoline."
+   },
+   {
+    "n": 39,
+    "text": "Stadlin."
+   },
+   {
+    "n": 40,
+    "text": "1 796 Kaspar Michael, Zinngießer, a. Zug - II, 174."
+   },
+   {
+    "n": 41,
+    "text": "805 Fr. — Kath. Schweinberger, verw. Bolland."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Spillmann a. Vilmergen, K. Aargau.",
+    "place": "Bern",
+    "surname": "Spillmann",
+    "forename": "Hans Jakob",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "II, 177",
+    "quarter": "II",
+    "street": "",
+    "house_no": "177",
+    "origin": "Vilmergen, K. Aargau",
+    "birth_year": "1805",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 805 Hans Jakob, Pintenwirth - II, 177."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Spillmann a. Vilmergen, K. Aargau.",
+    "place": "Bern",
+    "surname": "Spillmann",
+    "forename": "Joh. Daniel",
+    "title": "",
+    "occupation": "Lohnbedienter",
+    "address": "IV, 122",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "122",
+    "origin": "Vilmergen, K. Aargau",
+    "birth_year": "1788",
+    "household": "2 K. — Gottl. August. — Margaritha.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "2 788 Joh. Daniel, Lohnbedienter - IV, 122. 2 K. — Gottl. August. — Margaritha."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Spöri.",
+    "place": "Bern",
+    "surname": "Spöri",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Barbier",
+    "address": "II, 251",
+    "quarter": "II",
+    "street": "",
+    "house_no": "251",
+    "origin": "Wald, K. Zürich",
+    "birth_year": "1788",
+    "household": "773 Fr. — Wilhelmine Otth a. Schaffhausen.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 788 Heinrich, Barbier, a. Wald, K. Zürich - II, 251. 773 Fr. — Wilhelmine Otth a. Schaffhausen."
+   },
+   {
+    "line_from": 10,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Spöri.",
+    "place": "Bern",
+    "surname": "Spöri",
+    "forename": "Kaspar",
+    "title": "",
+    "occupation": "Barbier und Chirurg",
+    "address": "V, 114",
+    "quarter": "V",
+    "street": "",
+    "house_no": "114",
+    "origin": "Wald, K. Zürich",
+    "birth_year": "1805",
+    "household": "817 Fr. II Ehe. — Anna Elis. Krähenbühl a. Höchstetten. 2 S. — Aus I Ehe: 836 Heinrich. — Aus II Ehe: 46 Wilhelm.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 805 Kaspar, Barbier und Chirurg, a. Wald, K. Zürich - V, 114. 817 Fr. II Ehe. — Anna Elis. Krähenbühl a. Höchstetten. 2 S. — Aus I Ehe: 836 Heinrich. — Aus II Ehe: 46 Wilhelm."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Spöri.",
+    "place": "Bern",
+    "surname": "Spöri",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "III, 77",
+    "quarter": "III",
+    "street": "",
+    "house_no": "77",
+    "origin": "Schüpfen",
+    "birth_year": "1819",
+    "household": "812 Fr. — Maria Isabelle Grieser a. Pizy, K. Waadt.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 819 Bendicht, Schneider, a. Schüpfen - III, 77. 812 Fr. — Maria Isabelle Grieser a. Pizy, K. Waadt."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Spring.",
+    "place": "Bern",
+    "surname": "Spring",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "VI, 114",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "114",
+    "origin": "Seftigen",
+    "birth_year": "1793",
+    "household": "792 Fr. — Elis. Barb. Wittwer, Kellermagd.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 793 Christian, Schreiner, a. Seftigen - VI, 114. 792 Fr. — Elis. Barb. Wittwer, Kellermagd."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Spring.",
+    "place": "Bern",
+    "surname": "Spring",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "I, 28",
+    "quarter": "I",
+    "street": "",
+    "house_no": "28",
+    "origin": "Vechigen",
+    "birth_year": "1792",
+    "household": "805 Fr. III Ehe. — Elis. Jenni, verw. Großiger. 1 T. aus II Ehe. — 820 Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 792 Johann, Steinhauer, a. Vechigen - I, 28. 805 Fr. III Ehe. — Elis. Jenni, verw. Großiger. 1 T. aus II Ehe. — 820 Elisabetha."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Spring.",
+    "place": "Bern",
+    "surname": "Spring",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 85",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "85",
+    "origin": "Gelterfingen",
+    "birth_year": "1811",
+    "household": "801 Fr. — Elis. Gfeller a. Worb.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 811 Rudolf, Schneider, a. Gelterfingen - IV, 85. 801 Fr. — Elis. Gfeller a. Worb."
+   },
+   {
+    "line_from": 25,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Spring.",
+    "place": "Bern",
+    "surname": "Spring",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Musiklehrer",
+    "address": "IV, 39",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "39",
+    "origin": "Wimmis",
+    "birth_year": "1808",
+    "household": "801 Fr. — Kath. Marg. Meley a. Bern. 3 K. — 831 Elis. Marg. Felicitas. — 33 Joh. Christ. Karl. — 36 Gottlieb Albert.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 808 Christian, Musiklehrer, a. Wimmis - IV, 39. 801 Fr. — Kath. Marg. Meley a. Bern. 3 K. — 831 Elis. Marg. Felicitas. — 33 Joh. Christ. Karl. — 36 Gottlieb Albert."
+   },
+   {
+    "line_from": 30,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Spycher.",
+    "place": "Bern",
+    "surname": "Spycher",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Lebküchler",
+    "address": "II, 274",
+    "quarter": "II",
+    "street": "",
+    "house_no": "274",
+    "origin": "Köniz",
+    "birth_year": "1794",
+    "household": "6 K. — 828 Magd. — 35 Joh. Gottlieb. — 41 Anna Barb. Elis. — 42 Anna Maria. — 45 Maria Marg. — 47 Joh. Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 794 Christian, Lebküchler, a. Köniz - II, 274. 6 K. — 828 Magd. — 35 Joh. Gottlieb. — 41 Anna Barb. Elis. — 42 Anna Maria. — 45 Maria Marg. — 47 Joh. Jakob."
+   },
+   {
+    "line_from": 35,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Stadelmann.",
+    "place": "Bern",
+    "surname": "Stadelmann",
+    "forename": "Philipp",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "III, 86",
+    "quarter": "III",
+    "street": "",
+    "house_no": "86",
+    "origin": "Escholzmatt, K. Luzern",
+    "birth_year": "1814",
+    "household": "819 Fr. — Maria Gander a. Saanen. 3 K. — 836 Maria. — 40 Philipp Albert. — 42 Ros. Karoline.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Philipp, Krämer, a. Escholzmatt, K. Luzern - III, 86. 819 Fr. — Maria Gander a. Saanen. 3 K. — 836 Maria. — 40 Philipp Albert. — 42 Ros. Karoline."
+   },
+   {
+    "line_from": 40,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Stadlin.",
+    "place": "Bern",
+    "surname": "Stadlin",
+    "forename": "Kaspar Michael",
+    "title": "",
+    "occupation": "Zinngießer",
+    "address": "II, 174",
+    "quarter": "II",
+    "street": "",
+    "house_no": "174",
+    "origin": "Zug",
+    "birth_year": "1796",
+    "household": "805 Fr. — Kath. Schweinberger, verw. Bolland.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Kaspar Michael, Zinngießer, a. Zug - II, 174. 805 Fr. — Kath. Schweinberger, verw. Bolland."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:11:31+01:00",
+ "last_error": null
+}

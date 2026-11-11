@@ -1,0 +1,26 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 29,
+ "section": "handbuch",
+ "started": "2026-11-11T20:48:16+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 47.6,
+ "finish_reason": "RECITATION",
+ "usage": {
+  "prompt": 2330,
+  "output": null,
+  "thoughts": null
+ },
+ "response_text": "",
+ "problems": [
+  "finish_reason RECITATION",
+  "JSON: Expecting value: line 1 column 1 (char 0)"
+ ],
+ "ok": false,
+ "finished": "2026-11-11T20:50:38+01:00",
+ "last_error": "finish_reason RECITATION; JSON: Expecting value: line 1 column 1 (char 0)"
+}

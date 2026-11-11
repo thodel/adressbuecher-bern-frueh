@@ -1,0 +1,518 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 172,
+ "section": "einsassen",
+ "started": "2026-11-11T22:11:27+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 50.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 5076,
+  "thoughts": 3698
+ },
+ "response_text": "{\n  \"printed_page\": \"159\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 159 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"4 800 Niklaus, Mehlhändler, a. Höchstetten - II, 208.\"},\n    {\"n\": 4, \"text\": \"810 Fr. - Elis. Stuki ebendaher.\"},\n    {\"n\": 5, \"text\": \"3 K. - 835 Friedrich. - 40 Anna Kath. Elisabetha. -\"},\n    {\"n\": 6, \"text\": \"45 Elis. Sus. Louise.\"},\n    {\"n\": 7, \"text\": \"5 816 Friedrich, Barbier u. Amtsweibel, a. Wimmis - III, 69.\"},\n    {\"n\": 8, \"text\": \"814 Fr. - Elis. Louise Viktor a. Vich, K. Waadt.\"},\n    {\"n\": 9, \"text\": \"6 811 Samuel, Mehlhändler, a. Enschwyl - IV, 79.\"},\n    {\"n\": 10, \"text\": \"7 Kath., geb. Plattner, verw. Bigler, Krämerin, a. Höch-\"},\n    {\"n\": 11, \"text\": \"stetten - II, 61.\"},\n    {\"n\": 12, \"text\": \"8 789 Niklaus, Stückschneider, a. Tägertschi - I, 216.\"},\n    {\"n\": 13, \"text\": \"792 Fr. - Elis. Graf a. Häutligen.\"},\n    {\"n\": 14, \"text\": \"4 K. - 824 Johann. - 26 Elis. Kath. - 30 Christian.\"},\n    {\"n\": 15, \"text\": \"— 33 Maria.\"},\n    {\"n\": 16, \"text\": \"9 823 David Friedrich, Schreiber, a. Diemtigen - II, 116 a.\"},\n    {\"n\": 17, \"text\": \"Sturzenegger.\"},\n    {\"n\": 18, \"text\": \"1 774 Wibrath, geb. Schoch, Lumpensammlerin, a. Appen-\"},\n    {\"n\": 19, \"text\": \"zell - III, 30.\"},\n    {\"n\": 20, \"text\": \"Stutzmann a. Uebeschi.\"},\n    {\"n\": 21, \"text\": \"1 778 Joseph, Milchträger - IV, 19.\"},\n    {\"n\": 22, \"text\": \"Fr. - Elis. Harri.\"},\n    {\"n\": 23, \"text\": \"2 806 Elisabetha, geb. Nieder, Kappen- und Göllermacherin -\"},\n    {\"n\": 24, \"text\": \"I, 215 e.\"},\n    {\"n\": 25, \"text\": \"4 K. - 830 Maria Elis. - 33 Jakob Heinrich. - 35\"},\n    {\"n\": 26, \"text\": \"Joh. Karl. - 39 Joh. Bend. Alex.\"},\n    {\"n\": 27, \"text\": \"Sulzer.\"},\n    {\"n\": 28, \"text\": \"1 822 Johann, Bäcker, a. Amsoldingen - IV, 121.\"},\n    {\"n\": 29, \"text\": \"819 Fr. - Marg. Spielmann a. Bilnachern, K. Freiburg.\"},\n    {\"n\": 30, \"text\": \"1 S. - 846 August Niklaus.\"},\n    {\"n\": 31, \"text\": \"Suri.\"},\n    {\"n\": 32, \"text\": \"1 789 Albr. Abraham, Schlosser, a. Nidau - III, 105.\"},\n    {\"n\": 33, \"text\": \"806 Fr. - Kath. Barb. Bieri a. Schangnau.\"},\n    {\"n\": 34, \"text\": \"3 K. - 828 Rosa Maria Magd. - 31 Barb. Maria. -\"},\n    {\"n\": 35, \"text\": \"33 Karl Albrecht.\"},\n    {\"n\": 36, \"text\": \"Suter.\"},\n    {\"n\": 37, \"text\": \"1 776 Anna, geb. Hofer, Wochenmarktkrämerin, bern. Land-\"},\n    {\"n\": 38, \"text\": \"saßin - VI, 10.\"},\n    {\"n\": 39, \"text\": \"2 S. - 799 Johann. - 801 Barbara.\"},\n    {\"n\": 40, \"text\": \"2 799 Friedr. David, Klaviermacher, a. Münchenbuchsee - V, 38.\"},\n    {\"n\": 41, \"text\": \"2 K. - 824 Ludwig Friedrich. - 26 Joh. Rudolf Karl.\"},\n    {\"n\": 42, \"text\": \"3 806 Heinrich Karl, Zuckerbäcker, a. Münchenbuchsee - V, 38.\"},\n    {\"n\": 43, \"text\": \"1 T. - 845 Maria Kath. Elise.\"},\n    {\"n\": 44, \"text\": \"4 804 Franz Samuel, Schreiber, a. Oberrieden, K. Zürich - IV, 3.\"},\n    {\"n\": 45, \"text\": \"800 Fr. - Maria Kath. Aebi a. Lyss.\"},\n    {\"n\": 46, \"text\": \"1 T. - 841 Anna Maria.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlhändler\",\n      \"address\": \"II, 208\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"208\",\n      \"origin\": \"Höchstetten\",\n      \"birth_year\": \"1800\",\n      \"household\": \"810 Fr. - Elis. Stuki ebendaher. 3 K. - 835 Friedrich. - 40 Anna Kath. Elisabetha. - 45 Elis. Sus. Louise.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"4 800 Niklaus, Mehlhändler, a. Höchstetten - II, 208. 810 Fr. - Elis. Stuki ebendaher. 3 K. - 835 Friedrich. - 40 Anna Kath. Elisabetha. - 45 Elis. Sus. Louise.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Barbier u. Amtsweibel\",\n      \"address\": \"III, 69\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"69\",\n      \"origin\": \"Wimmis\",\n      \"birth_year\": \"1816\",\n      \"household\": \"814 Fr. - Elis. Louise Viktor a. Vich, K. Waadt.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"5 816 Friedrich, Barbier u. Amtsweibel, a. Wimmis - III, 69. 814 Fr. - Elis. Louise Viktor a. Vich, K. Waadt.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlhändler\",\n      \"address\": \"IV, 79\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"79\",\n      \"origin\": \"Enschwyl\",\n      \"birth_year\": \"1811\",\n      \"household\": \"\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"6 811 Samuel, Mehlhändler, a. Enschwyl - IV, 79.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Kath.\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"II, 61\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"Höchstetten\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Familienname auf Vorseite; geb. Plattner, verw. Bigler\",\n      \"text\": \"7 Kath., geb. Plattner, verw. Bigler, Krämerin, a. Höchstetten - II, 61.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Stückschneider\",\n      \"address\": \"I, 216\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"216\",\n      \"origin\": \"Tägertschi\",\n      \"birth_year\": \"1789\",\n      \"household\": \"792 Fr. - Elis. Graf a. Häutligen. 4 K. - 824 Johann. - 26 Elis. Kath. - 30 Christian. — 33 Maria.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"8 789 Niklaus, Stückschneider, a. Tägertschi - I, 216. 792 Fr. - Elis. Graf a. Häutligen. 4 K. - 824 Johann. - 26 Elis. Kath. - 30 Christian. — 33 Maria.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"David Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"II, 116 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"116 a\",\n      \"origin\": \"Diemtigen\",\n      \"birth_year\": \"1823\",\n      \"household\": \"\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"9 823 David Friedrich, Schreiber, a. Diemtigen - II, 116 a.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Sturzenegger\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sturzenegger\",\n      \"forename\": \"Wibrath\",\n      \"title\": \"\",\n      \"occupation\": \"Lumpensammlerin\",\n      \"address\": \"III, 30\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"30\",\n      \"origin\": \"Appenzell\",\n      \"birth_year\": \"1774\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Schoch\",\n      \"text\": \"1 774 Wibrath, geb. Schoch, Lumpensammlerin, a. Appenzell - III, 30.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Stutzmann a. Uebeschi\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stutzmann\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"IV, 19\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"19\",\n      \"origin\": \"Uebeschi\",\n      \"birth_year\": \"1778\",\n      \"household\": \"Fr. - Elis. Harri.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 778 Joseph, Milchträger - IV, 19. Fr. - Elis. Harri.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Stutzmann a. Uebeschi\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stutzmann\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Kappen- und Göllermacherin\",\n      \"address\": \"I, 215 e\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215 e\",\n      \"origin\": \"Uebeschi\",\n      \"birth_year\": \"1806\",\n      \"household\": \"4 K. - 830 Maria Elis. - 33 Jakob Heinrich. - 35 Joh. Karl. - 39 Joh. Bend. Alex.\",\n      \"note\": \"Name aus Zwischentitel; geb. Nieder\",\n      \"text\": \"2 806 Elisabetha, geb. Nieder, Kappen- und Göllermacherin - I, 215 e. 4 K. - 830 Maria Elis. - 33 Jakob Heinrich. - 35 Joh. Karl. - 39 Joh. Bend. Alex.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Sulzer\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sulzer\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"IV, 121\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"121\",\n      \"origin\": \"Amsoldingen\",\n      \"birth_year\": \"1822\",\n      \"household\": \"819 Fr. - Marg. Spielmann a. Bilnachern, K. Freiburg. 1 S. - 846 August Niklaus.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 822 Johann, Bäcker, a. Amsoldingen - IV, 121. 819 Fr. - Marg. Spielmann a. Bilnachern, K. Freiburg. 1 S. - 846 August Niklaus.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Suri\",\n      \"place\": \"Bern\",\n      \"surname\": \"Suri\",\n      \"forename\": \"Albr. Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"III, 105\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"105\",\n      \"origin\": \"Nidau\",\n      \"birth_year\": \"1789\",\n      \"household\": \"806 Fr. - Kath. Barb. Bieri a. Schangnau. 3 K. - 828 Rosa Maria Magd. - 31 Barb. Maria. - 33 Karl Albrecht.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 789 Albr. Abraham, Schlosser, a. Nidau - III, 105. 806 Fr. - Kath. Barb. Bieri a. Schangnau. 3 K. - 828 Rosa Maria Magd. - 31 Barb. Maria. - 33 Karl Albrecht.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Suter\",\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Wochenmarktkrämerin\",\n      \"address\": \"VI, 10\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"10\",\n      \"origin\": \"bern. Landsaßin\",\n      \"birth_year\": \"1776\",\n      \"household\": \"2 S. - 799 Johann. - 801 Barbara.\",\n      \"note\": \"Name aus Zwischentitel; geb. Hofer\",\n      \"text\": \"1 776 Anna, geb. Hofer, Wochenmarktkrämerin, bern. Landsaßin - VI, 10. 2 S. - 799 Johann. - 801 Barbara.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Suter\",\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Friedr. David\",\n      \"title\": \"\",\n      \"occupation\": \"Klaviermacher\",\n      \"address\": \"V, 38\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"38\",\n      \"origin\": \"Münchenbuchsee\",\n      \"birth_year\": \"1799\",\n      \"household\": \"2 K. - 824 Ludwig Friedrich. - 26 Joh. Rudolf Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 799 Friedr. David, Klaviermacher, a. Münchenbuchsee - V, 38. 2 K. - 824 Ludwig Friedrich. - 26 Joh. Rudolf Karl.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Suter\",\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Heinrich Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Zuckerbäcker\",\n      \"address\": \"V, 38\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"38\",\n      \"origin\": \"Münchenbuchsee\",\n      \"birth_year\": \"1806\",\n      \"household\": \"1 T. - 845 Maria Kath. Elise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 806 Heinrich Karl, Zuckerbäcker, a. Münchenbuchsee - V, 38. 1 T. - 845 Maria Kath. Elise.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"Suter\",\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Franz Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"IV, 3\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"3\",\n      \"origin\": \"Oberrieden, K. Zürich\",\n      \"birth_year\": \"1804\",\n      \"household\": \"800 Fr. - Maria Kath. Aebi a. Lyss. 1 T. - 841 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 804 Franz Samuel, Schreiber, a. Oberrieden, K. Zürich - IV, 3. 800 Fr. - Maria Kath. Aebi a. Lyss. 1 T. - 841 Anna Maria.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "159",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 159 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "4 800 Niklaus, Mehlhändler, a. Höchstetten - II, 208."
+   },
+   {
+    "n": 4,
+    "text": "810 Fr. - Elis. Stuki ebendaher."
+   },
+   {
+    "n": 5,
+    "text": "3 K. - 835 Friedrich. - 40 Anna Kath. Elisabetha. -"
+   },
+   {
+    "n": 6,
+    "text": "45 Elis. Sus. Louise."
+   },
+   {
+    "n": 7,
+    "text": "5 816 Friedrich, Barbier u. Amtsweibel, a. Wimmis - III, 69."
+   },
+   {
+    "n": 8,
+    "text": "814 Fr. - Elis. Louise Viktor a. Vich, K. Waadt."
+   },
+   {
+    "n": 9,
+    "text": "6 811 Samuel, Mehlhändler, a. Enschwyl - IV, 79."
+   },
+   {
+    "n": 10,
+    "text": "7 Kath., geb. Plattner, verw. Bigler, Krämerin, a. Höch-"
+   },
+   {
+    "n": 11,
+    "text": "stetten - II, 61."
+   },
+   {
+    "n": 12,
+    "text": "8 789 Niklaus, Stückschneider, a. Tägertschi - I, 216."
+   },
+   {
+    "n": 13,
+    "text": "792 Fr. - Elis. Graf a. Häutligen."
+   },
+   {
+    "n": 14,
+    "text": "4 K. - 824 Johann. - 26 Elis. Kath. - 30 Christian."
+   },
+   {
+    "n": 15,
+    "text": "— 33 Maria."
+   },
+   {
+    "n": 16,
+    "text": "9 823 David Friedrich, Schreiber, a. Diemtigen - II, 116 a."
+   },
+   {
+    "n": 17,
+    "text": "Sturzenegger."
+   },
+   {
+    "n": 18,
+    "text": "1 774 Wibrath, geb. Schoch, Lumpensammlerin, a. Appen-"
+   },
+   {
+    "n": 19,
+    "text": "zell - III, 30."
+   },
+   {
+    "n": 20,
+    "text": "Stutzmann a. Uebeschi."
+   },
+   {
+    "n": 21,
+    "text": "1 778 Joseph, Milchträger - IV, 19."
+   },
+   {
+    "n": 22,
+    "text": "Fr. - Elis. Harri."
+   },
+   {
+    "n": 23,
+    "text": "2 806 Elisabetha, geb. Nieder, Kappen- und Göllermacherin -"
+   },
+   {
+    "n": 24,
+    "text": "I, 215 e."
+   },
+   {
+    "n": 25,
+    "text": "4 K. - 830 Maria Elis. - 33 Jakob Heinrich. - 35"
+   },
+   {
+    "n": 26,
+    "text": "Joh. Karl. - 39 Joh. Bend. Alex."
+   },
+   {
+    "n": 27,
+    "text": "Sulzer."
+   },
+   {
+    "n": 28,
+    "text": "1 822 Johann, Bäcker, a. Amsoldingen - IV, 121."
+   },
+   {
+    "n": 29,
+    "text": "819 Fr. - Marg. Spielmann a. Bilnachern, K. Freiburg."
+   },
+   {
+    "n": 30,
+    "text": "1 S. - 846 August Niklaus."
+   },
+   {
+    "n": 31,
+    "text": "Suri."
+   },
+   {
+    "n": 32,
+    "text": "1 789 Albr. Abraham, Schlosser, a. Nidau - III, 105."
+   },
+   {
+    "n": 33,
+    "text": "806 Fr. - Kath. Barb. Bieri a. Schangnau."
+   },
+   {
+    "n": 34,
+    "text": "3 K. - 828 Rosa Maria Magd. - 31 Barb. Maria. -"
+   },
+   {
+    "n": 35,
+    "text": "33 Karl Albrecht."
+   },
+   {
+    "n": 36,
+    "text": "Suter."
+   },
+   {
+    "n": 37,
+    "text": "1 776 Anna, geb. Hofer, Wochenmarktkrämerin, bern. Land-"
+   },
+   {
+    "n": 38,
+    "text": "saßin - VI, 10."
+   },
+   {
+    "n": 39,
+    "text": "2 S. - 799 Johann. - 801 Barbara."
+   },
+   {
+    "n": 40,
+    "text": "2 799 Friedr. David, Klaviermacher, a. Münchenbuchsee - V, 38."
+   },
+   {
+    "n": 41,
+    "text": "2 K. - 824 Ludwig Friedrich. - 26 Joh. Rudolf Karl."
+   },
+   {
+    "n": 42,
+    "text": "3 806 Heinrich Karl, Zuckerbäcker, a. Münchenbuchsee - V, 38."
+   },
+   {
+    "n": 43,
+    "text": "1 T. - 845 Maria Kath. Elise."
+   },
+   {
+    "n": 44,
+    "text": "4 804 Franz Samuel, Schreiber, a. Oberrieden, K. Zürich - IV, 3."
+   },
+   {
+    "n": 45,
+    "text": "800 Fr. - Maria Kath. Aebi a. Lyss."
+   },
+   {
+    "n": 46,
+    "text": "1 T. - 841 Anna Maria."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Mehlhändler",
+    "address": "II, 208",
+    "quarter": "II",
+    "street": "",
+    "house_no": "208",
+    "origin": "Höchstetten",
+    "birth_year": "1800",
+    "household": "810 Fr. - Elis. Stuki ebendaher. 3 K. - 835 Friedrich. - 40 Anna Kath. Elisabetha. - 45 Elis. Sus. Louise.",
+    "note": "Familienname auf Vorseite",
+    "text": "4 800 Niklaus, Mehlhändler, a. Höchstetten - II, 208. 810 Fr. - Elis. Stuki ebendaher. 3 K. - 835 Friedrich. - 40 Anna Kath. Elisabetha. - 45 Elis. Sus. Louise."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Barbier u. Amtsweibel",
+    "address": "III, 69",
+    "quarter": "III",
+    "street": "",
+    "house_no": "69",
+    "origin": "Wimmis",
+    "birth_year": "1816",
+    "household": "814 Fr. - Elis. Louise Viktor a. Vich, K. Waadt.",
+    "note": "Familienname auf Vorseite",
+    "text": "5 816 Friedrich, Barbier u. Amtsweibel, a. Wimmis - III, 69. 814 Fr. - Elis. Louise Viktor a. Vich, K. Waadt."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Mehlhändler",
+    "address": "IV, 79",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "79",
+    "origin": "Enschwyl",
+    "birth_year": "1811",
+    "household": "",
+    "note": "Familienname auf Vorseite",
+    "text": "6 811 Samuel, Mehlhändler, a. Enschwyl - IV, 79."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Kath.",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "II, 61",
+    "quarter": "II",
+    "street": "",
+    "house_no": "61",
+    "origin": "Höchstetten",
+    "birth_year": "",
+    "household": "",
+    "note": "Familienname auf Vorseite; geb. Plattner, verw. Bigler",
+    "text": "7 Kath., geb. Plattner, verw. Bigler, Krämerin, a. Höchstetten - II, 61."
+   },
+   {
+    "line_from": 12,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Stückschneider",
+    "address": "I, 216",
+    "quarter": "I",
+    "street": "",
+    "house_no": "216",
+    "origin": "Tägertschi",
+    "birth_year": "1789",
+    "household": "792 Fr. - Elis. Graf a. Häutligen. 4 K. - 824 Johann. - 26 Elis. Kath. - 30 Christian. — 33 Maria.",
+    "note": "Familienname auf Vorseite",
+    "text": "8 789 Niklaus, Stückschneider, a. Tägertschi - I, 216. 792 Fr. - Elis. Graf a. Häutligen. 4 K. - 824 Johann. - 26 Elis. Kath. - 30 Christian. — 33 Maria."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "David Friedrich",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "II, 116 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "116 a",
+    "origin": "Diemtigen",
+    "birth_year": "1823",
+    "household": "",
+    "note": "Familienname auf Vorseite",
+    "text": "9 823 David Friedrich, Schreiber, a. Diemtigen - II, 116 a."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Sturzenegger",
+    "place": "Bern",
+    "surname": "Sturzenegger",
+    "forename": "Wibrath",
+    "title": "",
+    "occupation": "Lumpensammlerin",
+    "address": "III, 30",
+    "quarter": "III",
+    "street": "",
+    "house_no": "30",
+    "origin": "Appenzell",
+    "birth_year": "1774",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Schoch",
+    "text": "1 774 Wibrath, geb. Schoch, Lumpensammlerin, a. Appenzell - III, 30."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Stutzmann a. Uebeschi",
+    "place": "Bern",
+    "surname": "Stutzmann",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "IV, 19",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "19",
+    "origin": "Uebeschi",
+    "birth_year": "1778",
+    "household": "Fr. - Elis. Harri.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 778 Joseph, Milchträger - IV, 19. Fr. - Elis. Harri."
+   },
+   {
+    "line_from": 23,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Stutzmann a. Uebeschi",
+    "place": "Bern",
+    "surname": "Stutzmann",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Kappen- und Göllermacherin",
+    "address": "I, 215 e",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215 e",
+    "origin": "Uebeschi",
+    "birth_year": "1806",
+    "household": "4 K. - 830 Maria Elis. - 33 Jakob Heinrich. - 35 Joh. Karl. - 39 Joh. Bend. Alex.",
+    "note": "Name aus Zwischentitel; geb. Nieder",
+    "text": "2 806 Elisabetha, geb. Nieder, Kappen- und Göllermacherin - I, 215 e. 4 K. - 830 Maria Elis. - 33 Jakob Heinrich. - 35 Joh. Karl. - 39 Joh. Bend. Alex."
+   },
+   {
+    "line_from": 28,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Sulzer",
+    "place": "Bern",
+    "surname": "Sulzer",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "IV, 121",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "121",
+    "origin": "Amsoldingen",
+    "birth_year": "1822",
+    "household": "819 Fr. - Marg. Spielmann a. Bilnachern, K. Freiburg. 1 S. - 846 August Niklaus.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 822 Johann, Bäcker, a. Amsoldingen - IV, 121. 819 Fr. - Marg. Spielmann a. Bilnachern, K. Freiburg. 1 S. - 846 August Niklaus."
+   },
+   {
+    "line_from": 32,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Suri",
+    "place": "Bern",
+    "surname": "Suri",
+    "forename": "Albr. Abraham",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "III, 105",
+    "quarter": "III",
+    "street": "",
+    "house_no": "105",
+    "origin": "Nidau",
+    "birth_year": "1789",
+    "household": "806 Fr. - Kath. Barb. Bieri a. Schangnau. 3 K. - 828 Rosa Maria Magd. - 31 Barb. Maria. - 33 Karl Albrecht.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 789 Albr. Abraham, Schlosser, a. Nidau - III, 105. 806 Fr. - Kath. Barb. Bieri a. Schangnau. 3 K. - 828 Rosa Maria Magd. - 31 Barb. Maria. - 33 Karl Albrecht."
+   },
+   {
+    "line_from": 37,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Suter",
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Wochenmarktkrämerin",
+    "address": "VI, 10",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "10",
+    "origin": "bern. Landsaßin",
+    "birth_year": "1776",
+    "household": "2 S. - 799 Johann. - 801 Barbara.",
+    "note": "Name aus Zwischentitel; geb. Hofer",
+    "text": "1 776 Anna, geb. Hofer, Wochenmarktkrämerin, bern. Landsaßin - VI, 10. 2 S. - 799 Johann. - 801 Barbara."
+   },
+   {
+    "line_from": 40,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Suter",
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Friedr. David",
+    "title": "",
+    "occupation": "Klaviermacher",
+    "address": "V, 38",
+    "quarter": "V",
+    "street": "",
+    "house_no": "38",
+    "origin": "Münchenbuchsee",
+    "birth_year": "1799",
+    "household": "2 K. - 824 Ludwig Friedrich. - 26 Joh. Rudolf Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 799 Friedr. David, Klaviermacher, a. Münchenbuchsee - V, 38. 2 K. - 824 Ludwig Friedrich. - 26 Joh. Rudolf Karl."
+   },
+   {
+    "line_from": 42,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Suter",
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Heinrich Karl",
+    "title": "",
+    "occupation": "Zuckerbäcker",
+    "address": "V, 38",
+    "quarter": "V",
+    "street": "",
+    "house_no": "38",
+    "origin": "Münchenbuchsee",
+    "birth_year": "1806",
+    "household": "1 T. - 845 Maria Kath. Elise.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 806 Heinrich Karl, Zuckerbäcker, a. Münchenbuchsee - V, 38. 1 T. - 845 Maria Kath. Elise."
+   },
+   {
+    "line_from": 44,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "Suter",
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Franz Samuel",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "IV, 3",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "3",
+    "origin": "Oberrieden, K. Zürich",
+    "birth_year": "1804",
+    "household": "800 Fr. - Maria Kath. Aebi a. Lyss. 1 T. - 841 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 804 Franz Samuel, Schreiber, a. Oberrieden, K. Zürich - IV, 3. 800 Fr. - Maria Kath. Aebi a. Lyss. 1 T. - 841 Anna Maria."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:12:18+01:00",
+ "last_error": null
+}

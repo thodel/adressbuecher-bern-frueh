@@ -1,0 +1,282 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 15,
+ "section": "handbuch",
+ "started": "2026-11-11T20:46:13+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 26.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 2141,
+  "thoughts": 1801
+ },
+ "response_text": "{\n  \"printed_page\": \"13\",\n  \"running_head\": \"Bern.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Bern. 13\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"er in handelnden Figuren die verschiedene Costüme\"},\n    {\"n\": 4, \"text\": \"und das sittliche des Landvolkes zu schildern sucht,\"},\n    {\"n\": 5, \"text\": \"mit Herrn Lory; dessen in der Beschreibung von\"},\n    {\"n\": 6, \"text\": \"Bern gedacht ist, heraus; die man, wenn sie von\"},\n    {\"n\": 7, \"text\": \"Bern abwesend sind, bey Hr. Schimper, Kunsthänd-\"},\n    {\"n\": 8, \"text\": \"ler, dem sie ihr ganzes Zutrauen geschenkt haben, fin-\"},\n    {\"n\": 9, \"text\": \"den kann.\"},\n    {\"n\": 10, \"text\": \"Jakob Bürgi, Kunsthändler, gegen über dem\"},\n    {\"n\": 11, \"text\": \"Falken, sind zu haben, die Originale von den be-\"},\n    {\"n\": 12, \"text\": \"sten Schweizer = Landschaften, Costumes der berühm-\"},\n    {\"n\": 13, \"text\": \"testen Künstler, auch radierte und colorierte Blät-\"},\n    {\"n\": 14, \"text\": \"ter mancherley Art, wie auch Handzeichnungen und\"},\n    {\"n\": 15, \"text\": \"Gouachen.\"},\n    {\"n\": 16, \"text\": \"Joh. Lud. Schimper, oben an der Schaal, han-\"},\n    {\"n\": 17, \"text\": \"delt mit Tableaux, Zeichnungen ächten Schweizer-\"},\n    {\"n\": 18, \"text\": \"prospecten, Costumes, Kupferstichen, und allem was\"},\n    {\"n\": 19, \"text\": \"zur Mahlerey dient, desgl. Landkarten, Globen &c.\"},\n    {\"n\": 20, \"text\": \"Arau.\"},\n    {\"n\": 21, \"text\": \"Bär, (Gebrüder) Stück = und Glockengiesser.\"},\n    {\"n\": 22, \"text\": \"Joh. Jakob Dietiker und Comp. Indiennen-\"},\n    {\"n\": 23, \"text\": \"Fabricanten.\"},\n    {\"n\": 24, \"text\": \"Benedikt Dürr, verkauft alle Arten Federn,\"},\n    {\"n\": 25, \"text\": \"Flaum, und verfertiget auf Begehren neues Bettzeug.\"},\n    {\"n\": 26, \"text\": \"Ernst, (Gebrüder) führen eine Fabrique von\"},\n    {\"n\": 27, \"text\": \"baumwollenen und fädenen Strümpfen und Kappen.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"Herr\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr er in handelnden Figuren die verschiedene Costüme und das sittliche des Landvolkes zu schildern sucht, mit Herrn Lory; dessen in der Beschreibung von Bern gedacht ist, heraus; die man, wenn sie von Bern abwesend sind, bey Hr. Schimper, Kunsthändler, dem sie ihr ganzes Zutrauen geschenkt haben, finden kann.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bürgi\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Kunsthändler\",\n      \"address\": \"gegen über dem Falken\",\n      \"quarter\": \"\",\n      \"street\": \"gegen über dem Falken\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Bürgi, Kunsthändler, gegen über dem Falken, sind zu haben, die Originale von den besten Schweizer = Landschaften, Costumes der berühmtesten Künstler, auch radierte und colorierte Blätter mancherley Art, wie auch Handzeichnungen und Gouachen.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schimper\",\n      \"forename\": \"Joh. Lud.\",\n      \"title\": \"\",\n      \"occupation\": \"handelt mit Tableaux, Zeichnungen ächten Schweizerprospecten, Costumes, Kupferstichen, und allem was zur Mahlerey dient, desgl. Landkarten, Globen &c.\",\n      \"address\": \"oben an der Schaal\",\n      \"quarter\": \"\",\n      \"street\": \"oben an der Schaal\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Lud. Schimper, oben an der Schaal, handelt mit Tableaux, Zeichnungen ächten Schweizerprospecten, Costumes, Kupferstichen, und allem was zur Mahlerey dient, desgl. Landkarten, Globen &c.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"firma\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Bär\",\n      \"forename\": \"\",\n      \"title\": \"(Gebrüder)\",\n      \"occupation\": \"Stück = und Glockengiesser\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bär, (Gebrüder) Stück = und Glockengiesser.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"firma\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Dietiker\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"Indiennen-Fabricanten\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Dietiker und Comp. Indiennen-Fabricanten.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Dürr\",\n      \"forename\": \"Benedikt\",\n      \"title\": \"\",\n      \"occupation\": \"verkauft alle Arten Federn, Flaum, und verfertiget auf Begehren neues Bettzeug\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Benedikt Dürr, verkauft alle Arten Federn, Flaum, und verfertiget auf Begehren neues Bettzeug.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"firma\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Ernst\",\n      \"forename\": \"\",\n      \"title\": \"(Gebrüder)\",\n      \"occupation\": \"führen eine Fabrique von baumwollenen und fädenen Strümpfen und Kappen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ernst, (Gebrüder) führen eine Fabrique von baumwollenen und fädenen Strümpfen und Kappen.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "13",
+  "running_head": "Bern.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Bern. 13"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "er in handelnden Figuren die verschiedene Costüme"
+   },
+   {
+    "n": 4,
+    "text": "und das sittliche des Landvolkes zu schildern sucht,"
+   },
+   {
+    "n": 5,
+    "text": "mit Herrn Lory; dessen in der Beschreibung von"
+   },
+   {
+    "n": 6,
+    "text": "Bern gedacht ist, heraus; die man, wenn sie von"
+   },
+   {
+    "n": 7,
+    "text": "Bern abwesend sind, bey Hr. Schimper, Kunsthänd-"
+   },
+   {
+    "n": 8,
+    "text": "ler, dem sie ihr ganzes Zutrauen geschenkt haben, fin-"
+   },
+   {
+    "n": 9,
+    "text": "den kann."
+   },
+   {
+    "n": 10,
+    "text": "Jakob Bürgi, Kunsthändler, gegen über dem"
+   },
+   {
+    "n": 11,
+    "text": "Falken, sind zu haben, die Originale von den be-"
+   },
+   {
+    "n": 12,
+    "text": "sten Schweizer = Landschaften, Costumes der berühm-"
+   },
+   {
+    "n": 13,
+    "text": "testen Künstler, auch radierte und colorierte Blät-"
+   },
+   {
+    "n": 14,
+    "text": "ter mancherley Art, wie auch Handzeichnungen und"
+   },
+   {
+    "n": 15,
+    "text": "Gouachen."
+   },
+   {
+    "n": 16,
+    "text": "Joh. Lud. Schimper, oben an der Schaal, han-"
+   },
+   {
+    "n": 17,
+    "text": "delt mit Tableaux, Zeichnungen ächten Schweizer-"
+   },
+   {
+    "n": 18,
+    "text": "prospecten, Costumes, Kupferstichen, und allem was"
+   },
+   {
+    "n": 19,
+    "text": "zur Mahlerey dient, desgl. Landkarten, Globen &c."
+   },
+   {
+    "n": 20,
+    "text": "Arau."
+   },
+   {
+    "n": 21,
+    "text": "Bär, (Gebrüder) Stück = und Glockengiesser."
+   },
+   {
+    "n": 22,
+    "text": "Joh. Jakob Dietiker und Comp. Indiennen-"
+   },
+   {
+    "n": 23,
+    "text": "Fabricanten."
+   },
+   {
+    "n": 24,
+    "text": "Benedikt Dürr, verkauft alle Arten Federn,"
+   },
+   {
+    "n": 25,
+    "text": "Flaum, und verfertiget auf Begehren neues Bettzeug."
+   },
+   {
+    "n": 26,
+    "text": "Ernst, (Gebrüder) führen eine Fabrique von"
+   },
+   {
+    "n": 27,
+    "text": "baumwollenen und fädenen Strümpfen und Kappen."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "Herr",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr er in handelnden Figuren die verschiedene Costüme und das sittliche des Landvolkes zu schildern sucht, mit Herrn Lory; dessen in der Beschreibung von Bern gedacht ist, heraus; die man, wenn sie von Bern abwesend sind, bey Hr. Schimper, Kunsthändler, dem sie ihr ganzes Zutrauen geschenkt haben, finden kann."
+   },
+   {
+    "line_from": 10,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Bürgi",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Kunsthändler",
+    "address": "gegen über dem Falken",
+    "quarter": "",
+    "street": "gegen über dem Falken",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Bürgi, Kunsthändler, gegen über dem Falken, sind zu haben, die Originale von den besten Schweizer = Landschaften, Costumes der berühmtesten Künstler, auch radierte und colorierte Blätter mancherley Art, wie auch Handzeichnungen und Gouachen."
+   },
+   {
+    "line_from": 16,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Schimper",
+    "forename": "Joh. Lud.",
+    "title": "",
+    "occupation": "handelt mit Tableaux, Zeichnungen ächten Schweizerprospecten, Costumes, Kupferstichen, und allem was zur Mahlerey dient, desgl. Landkarten, Globen &c.",
+    "address": "oben an der Schaal",
+    "quarter": "",
+    "street": "oben an der Schaal",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Lud. Schimper, oben an der Schaal, handelt mit Tableaux, Zeichnungen ächten Schweizerprospecten, Costumes, Kupferstichen, und allem was zur Mahlerey dient, desgl. Landkarten, Globen &c."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "firma",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Bär",
+    "forename": "",
+    "title": "(Gebrüder)",
+    "occupation": "Stück = und Glockengiesser",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bär, (Gebrüder) Stück = und Glockengiesser."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "firma",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Dietiker",
+    "forename": "Joh. Jakob",
+    "title": "und Comp.",
+    "occupation": "Indiennen-Fabricanten",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Dietiker und Comp. Indiennen-Fabricanten."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Dürr",
+    "forename": "Benedikt",
+    "title": "",
+    "occupation": "verkauft alle Arten Federn, Flaum, und verfertiget auf Begehren neues Bettzeug",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Benedikt Dürr, verkauft alle Arten Federn, Flaum, und verfertiget auf Begehren neues Bettzeug."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "firma",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Ernst",
+    "forename": "",
+    "title": "(Gebrüder)",
+    "occupation": "führen eine Fabrique von baumwollenen und fädenen Strümpfen und Kappen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ernst, (Gebrüder) führen eine Fabrique von baumwollenen und fädenen Strümpfen und Kappen."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:46:40+01:00",
+ "last_error": null
+}

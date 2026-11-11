@@ -1,0 +1,334 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 27,
+ "section": "handbuch",
+ "started": "2026-11-11T20:48:06+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 45.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 2433,
+  "thoughts": 4140
+ },
+ "response_text": "{\n  \"printed_page\": \"25\",\n  \"running_head\": \"Langnau.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Langnau. 25\"},\n    {\"n\": 2, \"text\": \"Langnau.\"},\n    {\"n\": 3, \"text\": \"Herr\"},\n    {\"n\": 4, \"text\": \"Joost und Söhne, fabricieren gestreifte Cot=\"},\n    {\"n\": 5, \"text\": \"tonnetücher und Leinwand, und handlen mit Käsen.\"},\n    {\"n\": 6, \"text\": \"Joh. Maurhofer und Comp. handeln mit Lein=\"},\n    {\"n\": 7, \"text\": \"wand und Käs en gros.\"},\n    {\"n\": 8, \"text\": \"Daniel Röthlisperger, fabriciert Cotonne,\"},\n    {\"n\": 9, \"text\": \"und handelt mit Käs en gros.\"},\n    {\"n\": 10, \"text\": \"Michael Röthlisperger, handelt mit Käs\"},\n    {\"n\": 11, \"text\": \"und Flachs en gros.\"},\n    {\"n\": 12, \"text\": \"Joh. Ulrich Lüthy, handelt mit Käs und Milch=\"},\n    {\"n\": 13, \"text\": \"zucker en gros.\"},\n    {\"n\": 14, \"text\": \"Joh. Lüthy älter, handelt mit Käs en gros.\"},\n    {\"n\": 15, \"text\": \"Samuel Joost, fabriciert Leinwandtücher, und\"},\n    {\"n\": 16, \"text\": \"handelt mit Käs en gros.\"},\n    {\"n\": 17, \"text\": \"Es sind noch eine Menge kleiner Leinwand-Fabri=\"},\n    {\"n\": 18, \"text\": \"kanten hier, die ihre Tücher, hier oder in Langen=\"},\n    {\"n\": 19, \"text\": \"thal verkaufen.\"},\n    {\"n\": 20, \"text\": \"Joh. L. Schöne auf Gartegg bey Langnau,\"},\n    {\"n\": 21, \"text\": \"Büchsenschmied und Kirchuhrenmacher.\"},\n    {\"n\": 22, \"text\": \"Langenthal.\"},\n    {\"n\": 23, \"text\": \"Friedrich Felix Mumenthaler, führt eine Ei=\"},\n    {\"n\": 24, \"text\": \"senhandlung, nebst mehrern Artikeln, so dahin ein=\"},\n    {\"n\": 25, \"text\": \"schlagen, wie auch Specereywaaren.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"firma\",\n      \"heading\": \"Langnau\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Joost\",\n      \"forename\": \"\",\n      \"title\": \"Herr, und Söhne\",\n      \"occupation\": \"fabricieren gestreifte Cottonnetücher und Leinwand, und handlen mit Käsen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Joost und Söhne, fabricieren gestreifte Cottonnetücher und Leinwand, und handlen mit Käsen.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"Langnau\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Maurhofer\",\n      \"forename\": \"Joh.\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"handeln mit Leinwand und Käs en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Maurhofer und Comp. handeln mit Leinwand und Käs en gros.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Röthlisperger\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"fabriciert Cotonne, und handelt mit Käs en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Röthlisperger, fabriciert Cotonne, und handelt mit Käs en gros.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Röthlisperger\",\n      \"forename\": \"Michael\",\n      \"title\": \"\",\n      \"occupation\": \"handelt mit Käs und Flachs en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Michael Röthlisperger, handelt mit Käs und Flachs en gros.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Lüthy\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"handelt mit Käs und Milchzucker en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Ulrich Lüthy, handelt mit Käs und Milchzucker en gros.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Lüthy\",\n      \"forename\": \"Joh.\",\n      \"title\": \"älter\",\n      \"occupation\": \"handelt mit Käs en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Lüthy älter, handelt mit Käs en gros.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Joost\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"fabriciert Leinwandtücher, und handelt mit Käs en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Joost, fabriciert Leinwandtücher, und handelt mit Käs en gros.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 19,\n      \"kind\": \"sonst\",\n      \"heading\": \"Langnau\",\n      \"place\": \"Langnau\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Es sind noch eine Menge kleiner Leinwand-Fabrikanten hier, die ihre Tücher, hier oder in Langenthal verkaufen.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Langnau\",\n      \"place\": \"Langnau\",\n      \"surname\": \"Schöne\",\n      \"forename\": \"Joh. L.\",\n      \"title\": \"\",\n      \"occupation\": \"Büchsenschmied und Kirchuhrenmacher\",\n      \"address\": \"auf Gartegg bey Langnau\",\n      \"quarter\": \"\",\n      \"street\": \"Gartegg\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. L. Schöne auf Gartegg bey Langnau, Büchsenschmied und Kirchuhrenmacher.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Langenthal\",\n      \"place\": \"Langenthal\",\n      \"surname\": \"Mumenthaler\",\n      \"forename\": \"Friedrich Felix\",\n      \"title\": \"\",\n      \"occupation\": \"führt eine Eisenhandlung, nebst mehrern Artikeln, so dahin einschlagen, wie auch Specereywaaren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Friedrich Felix Mumenthaler, führt eine Eisenhandlung, nebst mehrern Artikeln, so dahin einschlagen, wie auch Specereywaaren.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "25",
+  "running_head": "Langnau.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Langnau. 25"
+   },
+   {
+    "n": 2,
+    "text": "Langnau."
+   },
+   {
+    "n": 3,
+    "text": "Herr"
+   },
+   {
+    "n": 4,
+    "text": "Joost und Söhne, fabricieren gestreifte Cot="
+   },
+   {
+    "n": 5,
+    "text": "tonnetücher und Leinwand, und handlen mit Käsen."
+   },
+   {
+    "n": 6,
+    "text": "Joh. Maurhofer und Comp. handeln mit Lein="
+   },
+   {
+    "n": 7,
+    "text": "wand und Käs en gros."
+   },
+   {
+    "n": 8,
+    "text": "Daniel Röthlisperger, fabriciert Cotonne,"
+   },
+   {
+    "n": 9,
+    "text": "und handelt mit Käs en gros."
+   },
+   {
+    "n": 10,
+    "text": "Michael Röthlisperger, handelt mit Käs"
+   },
+   {
+    "n": 11,
+    "text": "und Flachs en gros."
+   },
+   {
+    "n": 12,
+    "text": "Joh. Ulrich Lüthy, handelt mit Käs und Milch="
+   },
+   {
+    "n": 13,
+    "text": "zucker en gros."
+   },
+   {
+    "n": 14,
+    "text": "Joh. Lüthy älter, handelt mit Käs en gros."
+   },
+   {
+    "n": 15,
+    "text": "Samuel Joost, fabriciert Leinwandtücher, und"
+   },
+   {
+    "n": 16,
+    "text": "handelt mit Käs en gros."
+   },
+   {
+    "n": 17,
+    "text": "Es sind noch eine Menge kleiner Leinwand-Fabri="
+   },
+   {
+    "n": 18,
+    "text": "kanten hier, die ihre Tücher, hier oder in Langen="
+   },
+   {
+    "n": 19,
+    "text": "thal verkaufen."
+   },
+   {
+    "n": 20,
+    "text": "Joh. L. Schöne auf Gartegg bey Langnau,"
+   },
+   {
+    "n": 21,
+    "text": "Büchsenschmied und Kirchuhrenmacher."
+   },
+   {
+    "n": 22,
+    "text": "Langenthal."
+   },
+   {
+    "n": 23,
+    "text": "Friedrich Felix Mumenthaler, führt eine Ei="
+   },
+   {
+    "n": 24,
+    "text": "senhandlung, nebst mehrern Artikeln, so dahin ein="
+   },
+   {
+    "n": 25,
+    "text": "schlagen, wie auch Specereywaaren."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "firma",
+    "heading": "Langnau",
+    "place": "Langnau",
+    "surname": "Joost",
+    "forename": "",
+    "title": "Herr, und Söhne",
+    "occupation": "fabricieren gestreifte Cottonnetücher und Leinwand, und handlen mit Käsen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Joost und Söhne, fabricieren gestreifte Cottonnetücher und Leinwand, und handlen mit Käsen."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "Langnau",
+    "place": "Langnau",
+    "surname": "Maurhofer",
+    "forename": "Joh.",
+    "title": "und Comp.",
+    "occupation": "handeln mit Leinwand und Käs en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Maurhofer und Comp. handeln mit Leinwand und Käs en gros."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Langnau",
+    "place": "Langnau",
+    "surname": "Röthlisperger",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "fabriciert Cotonne, und handelt mit Käs en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Röthlisperger, fabriciert Cotonne, und handelt mit Käs en gros."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Langnau",
+    "place": "Langnau",
+    "surname": "Röthlisperger",
+    "forename": "Michael",
+    "title": "",
+    "occupation": "handelt mit Käs und Flachs en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Michael Röthlisperger, handelt mit Käs und Flachs en gros."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Langnau",
+    "place": "Langnau",
+    "surname": "Lüthy",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "handelt mit Käs und Milchzucker en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Ulrich Lüthy, handelt mit Käs und Milchzucker en gros."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Langnau",
+    "place": "Langnau",
+    "surname": "Lüthy",
+    "forename": "Joh.",
+    "title": "älter",
+    "occupation": "handelt mit Käs en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Lüthy älter, handelt mit Käs en gros."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Langnau",
+    "place": "Langnau",
+    "surname": "Joost",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "fabriciert Leinwandtücher, und handelt mit Käs en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Joost, fabriciert Leinwandtücher, und handelt mit Käs en gros."
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "sonst",
+    "heading": "Langnau",
+    "place": "Langnau",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Es sind noch eine Menge kleiner Leinwand-Fabrikanten hier, die ihre Tücher, hier oder in Langenthal verkaufen."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Langnau",
+    "place": "Langnau",
+    "surname": "Schöne",
+    "forename": "Joh. L.",
+    "title": "",
+    "occupation": "Büchsenschmied und Kirchuhrenmacher",
+    "address": "auf Gartegg bey Langnau",
+    "quarter": "",
+    "street": "Gartegg",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. L. Schöne auf Gartegg bey Langnau, Büchsenschmied und Kirchuhrenmacher."
+   },
+   {
+    "line_from": 23,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Langenthal",
+    "place": "Langenthal",
+    "surname": "Mumenthaler",
+    "forename": "Friedrich Felix",
+    "title": "",
+    "occupation": "führt eine Eisenhandlung, nebst mehrern Artikeln, so dahin einschlagen, wie auch Specereywaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friedrich Felix Mumenthaler, führt eine Eisenhandlung, nebst mehrern Artikeln, so dahin einschlagen, wie auch Specereywaaren."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:48:52+01:00",
+ "last_error": null
+}

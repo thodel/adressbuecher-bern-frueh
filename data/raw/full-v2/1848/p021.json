@@ -1,0 +1,462 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 21,
+ "section": "einsassen",
+ "started": "2026-11-11T21:55:52+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 59.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4379,
+  "thoughts": 4800
+ },
+ "response_text": "{\n  \"printed_page\": \"8\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 8 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"3 820 Bendicht, Müller - I, 71.\"},\n    {\"n\": 4, \"text\": \"823 Fr. - Elisabetha Moser a. Biglen.\"},\n    {\"n\": 5, \"text\": \"4 795 Niklaus, Zimmermann - I, 29.\"},\n    {\"n\": 6, \"text\": \"Fr. - Anna Hurst a. Guggisberg.\"},\n    {\"n\": 7, \"text\": \"6 K. - 832 Friedrich. - (Die 5 übrigen sind nicht\"},\n    {\"n\": 8, \"text\": \"eingeschrieben.)\"},\n    {\"n\": 9, \"text\": \"Bamberger.\"},\n    {\"n\": 10, \"text\": \"1 792 Baruch, Optikus, a. Anspach in Baiern - IV, 209.\"},\n    {\"n\": 11, \"text\": \"Bandelier a. Sornetan.\"},\n    {\"n\": 12, \"text\": \"1 812 Adolf Eugen, Advokat, gew. Reg.-Rath - IV, 239.\"},\n    {\"n\": 13, \"text\": \"Fr. - Adriane Senn, verw. Ritter a. Bern.\"},\n    {\"n\": 14, \"text\": \"1 S. - 840 Ad. Franz Alphons.\"},\n    {\"n\": 15, \"text\": \"2 812 Joseph Anton, Tapezirer - II, 13.\"},\n    {\"n\": 16, \"text\": \"817 Fr. - Sophie Charl. Max. Theodore Strähl a. Stuttgart.\"},\n    {\"n\": 17, \"text\": \"3 K. - 841 Heinrich August Joseph. - 44 Maria Aug.\"},\n    {\"n\": 18, \"text\": \"Hyacinthe. - 45 Ludwig Heinrich Albert.\"},\n    {\"n\": 19, \"text\": \"Bandi a. Oberwyl b. Büren.\"},\n    {\"n\": 20, \"text\": \"1 799 Franz Jakob, Großmetzger - IV, 120.\"},\n    {\"n\": 21, \"text\": \"Fr. II Ehe. - Anna Elis. Stegmann a. Oberlangenegg.\"},\n    {\"n\": 22, \"text\": \"1 T. aus I Ehe. - 833 Margaritha.\"},\n    {\"n\": 23, \"text\": \"2 799 Jakob, Steinhauer - V, 8.\"},\n    {\"n\": 24, \"text\": \"800 Fr. - Elisabetha Keusen a. Riggisberg.\"},\n    {\"n\": 25, \"text\": \"5 K. - 823 Christian. - 28 Maria. - 32 Jakob. -\"},\n    {\"n\": 26, \"text\": \"34 Johannes. - 43 Friedrich.\"},\n    {\"n\": 27, \"text\": \"Bangerter.\"},\n    {\"n\": 28, \"text\": \"1 783 Johannes, Steinhauer, a. Seedorf - II, 19.\"},\n    {\"n\": 29, \"text\": \"2 799 Jakob, Schneider, a. Seedorf - I, 264.\"},\n    {\"n\": 30, \"text\": \"777 Fr. - Maria Stauffenegger.\"},\n    {\"n\": 31, \"text\": \"3 803 Niklaus, Handlanger u. Grundeigenthümer, a. Wengi -\"},\n    {\"n\": 32, \"text\": \"I, 215.\"},\n    {\"n\": 33, \"text\": \"Fr. - Elisabetha Dick.\"},\n    {\"n\": 34, \"text\": \"6 K. - 830 Johannes. - 33 Elisabetha. - 35 Bendicht.\"},\n    {\"n\": 35, \"text\": \"- 40 Rosina. - 43 Maria. - 45 Anna.\"},\n    {\"n\": 36, \"text\": \"Barbazza.\"},\n    {\"n\": 37, \"text\": \"1 Jos. Antonio, Fümist, a. Masera in Piemont - IV, 102.\"},\n    {\"n\": 38, \"text\": \"Baß.\"},\n    {\"n\": 39, \"text\": \"1 797 Franz, Krämer, a. Clavaleyres - II, 209.\"},\n    {\"n\": 40, \"text\": \"800 Fr. - Barbara Schlatter.\"},\n    {\"n\": 41, \"text\": \"Bauder.\"},\n    {\"n\": 42, \"text\": \"1 815 Sigmund Jakob, Lithograph, a. Mett - V, 15.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"I, 71\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"71\",\n      \"origin\": \"\",\n      \"birth_year\": \"1820\",\n      \"household\": \"823 Fr. - Elisabetha Moser a. Biglen.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"3 820 Bendicht, Müller - I, 71. 823 Fr. - Elisabetha Moser a. Biglen.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Zimmermann\",\n      \"address\": \"I, 29\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"29\",\n      \"origin\": \"\",\n      \"birth_year\": \"1795\",\n      \"household\": \"Fr. - Anna Hurst a. Guggisberg. 6 K. - 832 Friedrich. - (Die 5 übrigen sind nicht eingeschrieben.)\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"4 795 Niklaus, Zimmermann - I, 29. Fr. - Anna Hurst a. Guggisberg. 6 K. - 832 Friedrich. - (Die 5 übrigen sind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Bamberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bamberger\",\n      \"forename\": \"Baruch\",\n      \"title\": \"\",\n      \"occupation\": \"Optikus\",\n      \"address\": \"IV, 209\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"209\",\n      \"origin\": \"Anspach in Baiern\",\n      \"birth_year\": \"1792\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 792 Baruch, Optikus, a. Anspach in Baiern - IV, 209.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Bandelier a. Sornetan.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bandelier\",\n      \"forename\": \"Adolf Eugen\",\n      \"title\": \"\",\n      \"occupation\": \"Advokat, gew. Reg.-Rath\",\n      \"address\": \"IV, 239\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"239\",\n      \"origin\": \"Sornetan\",\n      \"birth_year\": \"1812\",\n      \"household\": \"Fr. - Adriane Senn, verw. Ritter a. Bern. 1 S. - 840 Ad. Franz Alphons.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Adolf Eugen, Advokat, gew. Reg.-Rath - IV, 239. Fr. - Adriane Senn, verw. Ritter a. Bern. 1 S. - 840 Ad. Franz Alphons.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Bandelier a. Sornetan.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bandelier\",\n      \"forename\": \"Joseph Anton\",\n      \"title\": \"\",\n      \"occupation\": \"Tapezirer\",\n      \"address\": \"II, 13\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"13\",\n      \"origin\": \"Sornetan\",\n      \"birth_year\": \"1812\",\n      \"household\": \"817 Fr. - Sophie Charl. Max. Theodore Strähl a. Stuttgart. 3 K. - 841 Heinrich August Joseph. - 44 Maria Aug. Hyacinthe. - 45 Ludwig Heinrich Albert.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 812 Joseph Anton, Tapezirer - II, 13. 817 Fr. - Sophie Charl. Max. Theodore Strähl a. Stuttgart. 3 K. - 841 Heinrich August Joseph. - 44 Maria Aug. Hyacinthe. - 45 Ludwig Heinrich Albert.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Bandi a. Oberwyl b. Büren.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bandi\",\n      \"forename\": \"Franz Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Großmetzger\",\n      \"address\": \"IV, 120\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"120\",\n      \"origin\": \"Oberwyl b. Büren\",\n      \"birth_year\": \"1799\",\n      \"household\": \"Fr. II Ehe. - Anna Elis. Stegmann a. Oberlangenegg. 1 T. aus I Ehe. - 833 Margaritha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Franz Jakob, Großmetzger - IV, 120. Fr. II Ehe. - Anna Elis. Stegmann a. Oberlangenegg. 1 T. aus I Ehe. - 833 Margaritha.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Bandi a. Oberwyl b. Büren.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bandi\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauer\",\n      \"address\": \"V, 8\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"8\",\n      \"origin\": \"Oberwyl b. Büren\",\n      \"birth_year\": \"1799\",\n      \"household\": \"800 Fr. - Elisabetha Keusen a. Riggisberg. 5 K. - 823 Christian. - 28 Maria. - 32 Jakob. - 34 Johannes. - 43 Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 799 Jakob, Steinhauer - V, 8. 800 Fr. - Elisabetha Keusen a. Riggisberg. 5 K. - 823 Christian. - 28 Maria. - 32 Jakob. - 34 Johannes. - 43 Friedrich.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Bangerter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bangerter\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauer\",\n      \"address\": \"II, 19\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"19\",\n      \"origin\": \"Seedorf\",\n      \"birth_year\": \"1783\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 783 Johannes, Steinhauer, a. Seedorf - II, 19.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Bangerter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bangerter\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"I, 264\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"264\",\n      \"origin\": \"Seedorf\",\n      \"birth_year\": \"1799\",\n      \"household\": \"777 Fr. - Maria Stauffenegger.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 799 Jakob, Schneider, a. Seedorf - I, 264. 777 Fr. - Maria Stauffenegger.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Bangerter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bangerter\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Handlanger u. Grundeigenthümer\",\n      \"address\": \"I, 215\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215\",\n      \"origin\": \"Wengi\",\n      \"birth_year\": \"1803\",\n      \"household\": \"Fr. - Elisabetha Dick. 6 K. - 830 Johannes. - 33 Elisabetha. - 35 Bendicht. - 40 Rosina. - 43 Maria. - 45 Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 803 Niklaus, Handlanger u. Grundeigenthümer, a. Wengi - I, 215. Fr. - Elisabetha Dick. 6 K. - 830 Johannes. - 33 Elisabetha. - 35 Bendicht. - 40 Rosina. - 43 Maria. - 45 Anna.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Barbazza.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Barbazza\",\n      \"forename\": \"Jos. Antonio\",\n      \"title\": \"\",\n      \"occupation\": \"Fümist\",\n      \"address\": \"IV, 102\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"102\",\n      \"origin\": \"Masera in Piemont\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Jos. Antonio, Fümist, a. Masera in Piemont - IV, 102.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Baß.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baß\",\n      \"forename\": \"Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"II, 209\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"209\",\n      \"origin\": \"Clavaleyres\",\n      \"birth_year\": \"1797\",\n      \"household\": \"800 Fr. - Barbara Schlatter.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 Franz, Krämer, a. Clavaleyres - II, 209. 800 Fr. - Barbara Schlatter.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Bauder.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bauder\",\n      \"forename\": \"Sigmund Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Lithograph\",\n      \"address\": \"V, 15\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"15\",\n      \"origin\": \"Mett\",\n      \"birth_year\": \"1815\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 815 Sigmund Jakob, Lithograph, a. Mett - V, 15.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "8",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 8 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "3 820 Bendicht, Müller - I, 71."
+   },
+   {
+    "n": 4,
+    "text": "823 Fr. - Elisabetha Moser a. Biglen."
+   },
+   {
+    "n": 5,
+    "text": "4 795 Niklaus, Zimmermann - I, 29."
+   },
+   {
+    "n": 6,
+    "text": "Fr. - Anna Hurst a. Guggisberg."
+   },
+   {
+    "n": 7,
+    "text": "6 K. - 832 Friedrich. - (Die 5 übrigen sind nicht"
+   },
+   {
+    "n": 8,
+    "text": "eingeschrieben.)"
+   },
+   {
+    "n": 9,
+    "text": "Bamberger."
+   },
+   {
+    "n": 10,
+    "text": "1 792 Baruch, Optikus, a. Anspach in Baiern - IV, 209."
+   },
+   {
+    "n": 11,
+    "text": "Bandelier a. Sornetan."
+   },
+   {
+    "n": 12,
+    "text": "1 812 Adolf Eugen, Advokat, gew. Reg.-Rath - IV, 239."
+   },
+   {
+    "n": 13,
+    "text": "Fr. - Adriane Senn, verw. Ritter a. Bern."
+   },
+   {
+    "n": 14,
+    "text": "1 S. - 840 Ad. Franz Alphons."
+   },
+   {
+    "n": 15,
+    "text": "2 812 Joseph Anton, Tapezirer - II, 13."
+   },
+   {
+    "n": 16,
+    "text": "817 Fr. - Sophie Charl. Max. Theodore Strähl a. Stuttgart."
+   },
+   {
+    "n": 17,
+    "text": "3 K. - 841 Heinrich August Joseph. - 44 Maria Aug."
+   },
+   {
+    "n": 18,
+    "text": "Hyacinthe. - 45 Ludwig Heinrich Albert."
+   },
+   {
+    "n": 19,
+    "text": "Bandi a. Oberwyl b. Büren."
+   },
+   {
+    "n": 20,
+    "text": "1 799 Franz Jakob, Großmetzger - IV, 120."
+   },
+   {
+    "n": 21,
+    "text": "Fr. II Ehe. - Anna Elis. Stegmann a. Oberlangenegg."
+   },
+   {
+    "n": 22,
+    "text": "1 T. aus I Ehe. - 833 Margaritha."
+   },
+   {
+    "n": 23,
+    "text": "2 799 Jakob, Steinhauer - V, 8."
+   },
+   {
+    "n": 24,
+    "text": "800 Fr. - Elisabetha Keusen a. Riggisberg."
+   },
+   {
+    "n": 25,
+    "text": "5 K. - 823 Christian. - 28 Maria. - 32 Jakob. -"
+   },
+   {
+    "n": 26,
+    "text": "34 Johannes. - 43 Friedrich."
+   },
+   {
+    "n": 27,
+    "text": "Bangerter."
+   },
+   {
+    "n": 28,
+    "text": "1 783 Johannes, Steinhauer, a. Seedorf - II, 19."
+   },
+   {
+    "n": 29,
+    "text": "2 799 Jakob, Schneider, a. Seedorf - I, 264."
+   },
+   {
+    "n": 30,
+    "text": "777 Fr. - Maria Stauffenegger."
+   },
+   {
+    "n": 31,
+    "text": "3 803 Niklaus, Handlanger u. Grundeigenthümer, a. Wengi -"
+   },
+   {
+    "n": 32,
+    "text": "I, 215."
+   },
+   {
+    "n": 33,
+    "text": "Fr. - Elisabetha Dick."
+   },
+   {
+    "n": 34,
+    "text": "6 K. - 830 Johannes. - 33 Elisabetha. - 35 Bendicht."
+   },
+   {
+    "n": 35,
+    "text": "- 40 Rosina. - 43 Maria. - 45 Anna."
+   },
+   {
+    "n": 36,
+    "text": "Barbazza."
+   },
+   {
+    "n": 37,
+    "text": "1 Jos. Antonio, Fümist, a. Masera in Piemont - IV, 102."
+   },
+   {
+    "n": 38,
+    "text": "Baß."
+   },
+   {
+    "n": 39,
+    "text": "1 797 Franz, Krämer, a. Clavaleyres - II, 209."
+   },
+   {
+    "n": 40,
+    "text": "800 Fr. - Barbara Schlatter."
+   },
+   {
+    "n": 41,
+    "text": "Bauder."
+   },
+   {
+    "n": 42,
+    "text": "1 815 Sigmund Jakob, Lithograph, a. Mett - V, 15."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Müller",
+    "address": "I, 71",
+    "quarter": "I",
+    "street": "",
+    "house_no": "71",
+    "origin": "",
+    "birth_year": "1820",
+    "household": "823 Fr. - Elisabetha Moser a. Biglen.",
+    "note": "Familienname auf Vorseite",
+    "text": "3 820 Bendicht, Müller - I, 71. 823 Fr. - Elisabetha Moser a. Biglen."
+   },
+   {
+    "line_from": 5,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Zimmermann",
+    "address": "I, 29",
+    "quarter": "I",
+    "street": "",
+    "house_no": "29",
+    "origin": "",
+    "birth_year": "1795",
+    "household": "Fr. - Anna Hurst a. Guggisberg. 6 K. - 832 Friedrich. - (Die 5 übrigen sind nicht eingeschrieben.)",
+    "note": "Familienname auf Vorseite",
+    "text": "4 795 Niklaus, Zimmermann - I, 29. Fr. - Anna Hurst a. Guggisberg. 6 K. - 832 Friedrich. - (Die 5 übrigen sind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Bamberger.",
+    "place": "Bern",
+    "surname": "Bamberger",
+    "forename": "Baruch",
+    "title": "",
+    "occupation": "Optikus",
+    "address": "IV, 209",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "209",
+    "origin": "Anspach in Baiern",
+    "birth_year": "1792",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 792 Baruch, Optikus, a. Anspach in Baiern - IV, 209."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Bandelier a. Sornetan.",
+    "place": "Bern",
+    "surname": "Bandelier",
+    "forename": "Adolf Eugen",
+    "title": "",
+    "occupation": "Advokat, gew. Reg.-Rath",
+    "address": "IV, 239",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "239",
+    "origin": "Sornetan",
+    "birth_year": "1812",
+    "household": "Fr. - Adriane Senn, verw. Ritter a. Bern. 1 S. - 840 Ad. Franz Alphons.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Adolf Eugen, Advokat, gew. Reg.-Rath - IV, 239. Fr. - Adriane Senn, verw. Ritter a. Bern. 1 S. - 840 Ad. Franz Alphons."
+   },
+   {
+    "line_from": 15,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Bandelier a. Sornetan.",
+    "place": "Bern",
+    "surname": "Bandelier",
+    "forename": "Joseph Anton",
+    "title": "",
+    "occupation": "Tapezirer",
+    "address": "II, 13",
+    "quarter": "II",
+    "street": "",
+    "house_no": "13",
+    "origin": "Sornetan",
+    "birth_year": "1812",
+    "household": "817 Fr. - Sophie Charl. Max. Theodore Strähl a. Stuttgart. 3 K. - 841 Heinrich August Joseph. - 44 Maria Aug. Hyacinthe. - 45 Ludwig Heinrich Albert.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 812 Joseph Anton, Tapezirer - II, 13. 817 Fr. - Sophie Charl. Max. Theodore Strähl a. Stuttgart. 3 K. - 841 Heinrich August Joseph. - 44 Maria Aug. Hyacinthe. - 45 Ludwig Heinrich Albert."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Bandi a. Oberwyl b. Büren.",
+    "place": "Bern",
+    "surname": "Bandi",
+    "forename": "Franz Jakob",
+    "title": "",
+    "occupation": "Großmetzger",
+    "address": "IV, 120",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "120",
+    "origin": "Oberwyl b. Büren",
+    "birth_year": "1799",
+    "household": "Fr. II Ehe. - Anna Elis. Stegmann a. Oberlangenegg. 1 T. aus I Ehe. - 833 Margaritha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Franz Jakob, Großmetzger - IV, 120. Fr. II Ehe. - Anna Elis. Stegmann a. Oberlangenegg. 1 T. aus I Ehe. - 833 Margaritha."
+   },
+   {
+    "line_from": 23,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Bandi a. Oberwyl b. Büren.",
+    "place": "Bern",
+    "surname": "Bandi",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "V, 8",
+    "quarter": "V",
+    "street": "",
+    "house_no": "8",
+    "origin": "Oberwyl b. Büren",
+    "birth_year": "1799",
+    "household": "800 Fr. - Elisabetha Keusen a. Riggisberg. 5 K. - 823 Christian. - 28 Maria. - 32 Jakob. - 34 Johannes. - 43 Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 799 Jakob, Steinhauer - V, 8. 800 Fr. - Elisabetha Keusen a. Riggisberg. 5 K. - 823 Christian. - 28 Maria. - 32 Jakob. - 34 Johannes. - 43 Friedrich."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Bangerter.",
+    "place": "Bern",
+    "surname": "Bangerter",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "II, 19",
+    "quarter": "II",
+    "street": "",
+    "house_no": "19",
+    "origin": "Seedorf",
+    "birth_year": "1783",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 783 Johannes, Steinhauer, a. Seedorf - II, 19."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Bangerter.",
+    "place": "Bern",
+    "surname": "Bangerter",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "I, 264",
+    "quarter": "I",
+    "street": "",
+    "house_no": "264",
+    "origin": "Seedorf",
+    "birth_year": "1799",
+    "household": "777 Fr. - Maria Stauffenegger.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 799 Jakob, Schneider, a. Seedorf - I, 264. 777 Fr. - Maria Stauffenegger."
+   },
+   {
+    "line_from": 31,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Bangerter.",
+    "place": "Bern",
+    "surname": "Bangerter",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Handlanger u. Grundeigenthümer",
+    "address": "I, 215",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215",
+    "origin": "Wengi",
+    "birth_year": "1803",
+    "household": "Fr. - Elisabetha Dick. 6 K. - 830 Johannes. - 33 Elisabetha. - 35 Bendicht. - 40 Rosina. - 43 Maria. - 45 Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 803 Niklaus, Handlanger u. Grundeigenthümer, a. Wengi - I, 215. Fr. - Elisabetha Dick. 6 K. - 830 Johannes. - 33 Elisabetha. - 35 Bendicht. - 40 Rosina. - 43 Maria. - 45 Anna."
+   },
+   {
+    "line_from": 37,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Barbazza.",
+    "place": "Bern",
+    "surname": "Barbazza",
+    "forename": "Jos. Antonio",
+    "title": "",
+    "occupation": "Fümist",
+    "address": "IV, 102",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "102",
+    "origin": "Masera in Piemont",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Jos. Antonio, Fümist, a. Masera in Piemont - IV, 102."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Baß.",
+    "place": "Bern",
+    "surname": "Baß",
+    "forename": "Franz",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "II, 209",
+    "quarter": "II",
+    "street": "",
+    "house_no": "209",
+    "origin": "Clavaleyres",
+    "birth_year": "1797",
+    "household": "800 Fr. - Barbara Schlatter.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 Franz, Krämer, a. Clavaleyres - II, 209. 800 Fr. - Barbara Schlatter."
+   },
+   {
+    "line_from": 42,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Bauder.",
+    "place": "Bern",
+    "surname": "Bauder",
+    "forename": "Sigmund Jakob",
+    "title": "",
+    "occupation": "Lithograph",
+    "address": "V, 15",
+    "quarter": "V",
+    "street": "",
+    "house_no": "15",
+    "origin": "Mett",
+    "birth_year": "1815",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 815 Sigmund Jakob, Lithograph, a. Mett - V, 15."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:56:52+01:00",
+ "last_error": null
+}

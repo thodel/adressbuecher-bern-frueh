@@ -1,0 +1,462 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 170,
+ "section": "einsassen",
+ "started": "2026-11-11T22:11:17+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 52.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4616,
+  "thoughts": 4711
+ },
+ "response_text": "{\n  \"printed_page\": \"157\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 157 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Straßer.\"},\n    {\"n\": 4, \"text\": \"1 804 Johann, Bäcker u. Pintenwirth, a. Benken, K. Zürich\"},\n    {\"n\": 5, \"text\": \"— II, 101.\"},\n    {\"n\": 6, \"text\": \"810 Fr. II Ehe. — Elis. Richard, geb. Gygar, a. Wynau.\"},\n    {\"n\": 7, \"text\": \"2 K. aus I Ehe. — 829 Rosina. — 32 Joh. Rudolf.\"},\n    {\"n\": 8, \"text\": \"2 812 Anna Barbara, privat., a. Wangen — II, 185.\"},\n    {\"n\": 9, \"text\": \"Straub.\"},\n    {\"n\": 10, \"text\": \"1 Maria, geb. Lobsiger, Kellermagd, des Taglöhners Frau,\"},\n    {\"n\": 11, \"text\": \"a. Herzogenbuchsee — III, 100.\"},\n    {\"n\": 12, \"text\": \"2 Xaver, Schmied, a. Enggen in Baden — II, 83 b.\"},\n    {\"n\": 13, \"text\": \"Fr. — Kath. Müller a. Allmendshofen.\"},\n    {\"n\": 14, \"text\": \"2 T. — 828 Josephine. — 32 Maria Anna.\"},\n    {\"n\": 15, \"text\": \"Streichenberger.\"},\n    {\"n\": 16, \"text\": \"1 790 Barbara, geb. Bohnenblust, a. Aarburg — V, 106.\"},\n    {\"n\": 17, \"text\": \"3 K. — 812 Joh. Jakob. — 18 Karl Johann Jakob. —\"},\n    {\"n\": 18, \"text\": \"20 Maria Elis.\"},\n    {\"n\": 19, \"text\": \"Streit.\"},\n    {\"n\": 20, \"text\": \"1 793 Christian, Abwart der Lesegesellschaft, a. Köniz — V, 98.\"},\n    {\"n\": 21, \"text\": \"800 Fr. II Ehe. — Anna Maria Bossard a. Zofingen.\"},\n    {\"n\": 22, \"text\": \"4 S. aus I Ehe: 826 Rud. Christ. — Aus II Ehe: 35\"},\n    {\"n\": 23, \"text\": \"Georg Franz Armand. — 39 Jakob Dav. Friedrich. —\"},\n    {\"n\": 24, \"text\": \"41 Alex. Gottlieb Fridolin.\"},\n    {\"n\": 25, \"text\": \"2 788 Anna, geb. Pfister, Kellermagd, des Taglöhners Frau,\"},\n    {\"n\": 26, \"text\": \"a. Englisberg — II, 150.\"},\n    {\"n\": 27, \"text\": \"5 K. — 816 Johann. — 19 Christian. — 21 Samuel\"},\n    {\"n\": 28, \"text\": \"Friedrich. — 24 Anna Maria. — 27 Andreas Franz\"},\n    {\"n\": 29, \"text\": \"Ludwig.\"},\n    {\"n\": 30, \"text\": \"3 801 Gottlieb, Schreiner, a. Jaberg — II, 122 b.\"},\n    {\"n\": 31, \"text\": \"808 Fr. — Verena Franz a. Walkringen.\"},\n    {\"n\": 32, \"text\": \"6 K. — 832 Maria Rosina. — 33 Joh. Emanuel Gottl.\"},\n    {\"n\": 33, \"text\": \"— 36 Karl Friedr. — 39 Eduard Karl. — 41 Wilhelm.\"},\n    {\"n\": 34, \"text\": \"— 46 Christ. Wilhelm.\"},\n    {\"n\": 35, \"text\": \"4 813 Johann, Schweinmetzger, a. Köniz — II, 214.\"},\n    {\"n\": 36, \"text\": \"816 Fr. — Anna Jenni a. Signau.\"},\n    {\"n\": 37, \"text\": \"2 S. — 840 Joh. Friedrich Meinrad. — 42 Karl.\"},\n    {\"n\": 38, \"text\": \"5 820 Johann, Schweinmetzger, a. Köniz — II, 162.\"},\n    {\"n\": 39, \"text\": \"Fr. — Susanna Pleuer a. Schoren.\"},\n    {\"n\": 40, \"text\": \"3 K. — 844 Anna. — 45 Johann. — 47 Susanna.\"},\n    {\"n\": 41, \"text\": \"Stuber.\"},\n    {\"n\": 42, \"text\": \"1 812 Niklaus, Kellerhalter, a. Tschäppach, K. Solothurn —\"},\n    {\"n\": 43, \"text\": \"III, 52.\"},\n    {\"n\": 44, \"text\": \"808 Fr. — Anna Maria Rust.\"},\n    {\"n\": 45, \"text\": \"(2 K. nicht eingeschrieben.)\"},\n    {\"n\": 46, \"text\": \"2 818 Jakob, Spengler, a. Tschäppach, K. Solothurn — IV, 46.\"},\n    {\"n\": 47, \"text\": \"818 Fr. — Anna Barb. Bichsel.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Straßer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Straßer\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker u. Pintenwirth\",\n      \"address\": \"II, 101\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"101\",\n      \"origin\": \"Benken, K. Zürich\",\n      \"birth_year\": \"1804\",\n      \"household\": \"810 Fr. II Ehe. — Elis. Richard, geb. Gygar, a. Wynau. 2 K. aus I Ehe. — 829 Rosina. — 32 Joh. Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Johann, Bäcker u. Pintenwirth, a. Benken, K. Zürich — II, 101. 810 Fr. II Ehe. — Elis. Richard, geb. Gygar, a. Wynau. 2 K. aus I Ehe. — 829 Rosina. — 32 Joh. Rudolf.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Straßer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Straßer\",\n      \"forename\": \"Anna Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"II, 185\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"185\",\n      \"origin\": \"Wangen\",\n      \"birth_year\": \"1812\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 812 Anna Barbara, privat., a. Wangen — II, 185.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Straub.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Straub\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Kellermagd, des Taglöhners Frau\",\n      \"address\": \"III, 100\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"100\",\n      \"origin\": \"Herzogenbuchsee\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Maria, geb. Lobsiger, Kellermagd, des Taglöhners Frau, a. Herzogenbuchsee — III, 100.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Straub.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Straub\",\n      \"forename\": \"Xaver\",\n      \"title\": \"\",\n      \"occupation\": \"Schmied\",\n      \"address\": \"II, 83 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"83 b\",\n      \"origin\": \"Enggen in Baden\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. — Kath. Müller a. Allmendshofen. 2 T. — 828 Josephine. — 32 Maria Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 Xaver, Schmied, a. Enggen in Baden — II, 83 b. Fr. — Kath. Müller a. Allmendshofen. 2 T. — 828 Josephine. — 32 Maria Anna.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Streichenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Streichenberger\",\n      \"forename\": \"Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"V, 106\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"106\",\n      \"origin\": \"Aarburg\",\n      \"birth_year\": \"1790\",\n      \"household\": \"3 K. — 812 Joh. Jakob. — 18 Karl Johann Jakob. — 20 Maria Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Barbara, geb. Bohnenblust, a. Aarburg — V, 106. 3 K. — 812 Joh. Jakob. — 18 Karl Johann Jakob. — 20 Maria Elis.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Streit.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Streit\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Abwart der Lesegesellschaft\",\n      \"address\": \"V, 98\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"98\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1793\",\n      \"household\": \"800 Fr. II Ehe. — Anna Maria Bossard a. Zofingen. 4 S. aus I Ehe: 826 Rud. Christ. — Aus II Ehe: 35 Georg Franz Armand. — 39 Jakob Dav. Friedrich. — 41 Alex. Gottlieb Fridolin.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 793 Christian, Abwart der Lesegesellschaft, a. Köniz — V, 98. 800 Fr. II Ehe. — Anna Maria Bossard a. Zofingen. 4 S. aus I Ehe: 826 Rud. Christ. — Aus II Ehe: 35 Georg Franz Armand. — 39 Jakob Dav. Friedrich. — 41 Alex. Gottlieb Fridolin.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Streit.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Streit\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Kellermagd, des Taglöhners Frau\",\n      \"address\": \"II, 150\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"150\",\n      \"origin\": \"Englisberg\",\n      \"birth_year\": \"1788\",\n      \"household\": \"5 K. — 816 Johann. — 19 Christian. — 21 Samuel Friedrich. — 24 Anna Maria. — 27 Andreas Franz Ludwig.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 788 Anna, geb. Pfister, Kellermagd, des Taglöhners Frau, a. Englisberg — II, 150. 5 K. — 816 Johann. — 19 Christian. — 21 Samuel Friedrich. — 24 Anna Maria. — 27 Andreas Franz Ludwig.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Streit.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Streit\",\n      \"forename\": \"Gottlieb\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"II, 122 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 b\",\n      \"origin\": \"Jaberg\",\n      \"birth_year\": \"1801\",\n      \"household\": \"808 Fr. — Verena Franz a. Walkringen. 6 K. — 832 Maria Rosina. — 33 Joh. Emanuel Gottl. — 36 Karl Friedr. — 39 Eduard Karl. — 41 Wilhelm. — 46 Christ. Wilhelm.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 801 Gottlieb, Schreiner, a. Jaberg — II, 122 b. 808 Fr. — Verena Franz a. Walkringen. 6 K. — 832 Maria Rosina. — 33 Joh. Emanuel Gottl. — 36 Karl Friedr. — 39 Eduard Karl. — 41 Wilhelm. — 46 Christ. Wilhelm.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Streit.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Streit\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzger\",\n      \"address\": \"II, 214\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"214\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1813\",\n      \"household\": \"816 Fr. — Anna Jenni a. Signau. 2 S. — 840 Joh. Friedrich Meinrad. — 42 Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 813 Johann, Schweinmetzger, a. Köniz — II, 214. 816 Fr. — Anna Jenni a. Signau. 2 S. — 840 Joh. Friedrich Meinrad. — 42 Karl.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Streit.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Streit\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzger\",\n      \"address\": \"II, 162\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"162\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1820\",\n      \"household\": \"Fr. — Susanna Pleuer a. Schoren. 3 K. — 844 Anna. — 45 Johann. — 47 Susanna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 820 Johann, Schweinmetzger, a. Köniz — II, 162. Fr. — Susanna Pleuer a. Schoren. 3 K. — 844 Anna. — 45 Johann. — 47 Susanna.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Stuber.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stuber\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Kellerhalter\",\n      \"address\": \"III, 52\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"52\",\n      \"origin\": \"Tschäppach, K. Solothurn\",\n      \"birth_year\": \"1812\",\n      \"household\": \"808 Fr. — Anna Maria Rust. (2 K. nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Niklaus, Kellerhalter, a. Tschäppach, K. Solothurn — III, 52. 808 Fr. — Anna Maria Rust. (2 K. nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 46,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Stuber.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stuber\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Spengler\",\n      \"address\": \"IV, 46\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"46\",\n      \"origin\": \"Tschäppach, K. Solothurn\",\n      \"birth_year\": \"1818\",\n      \"household\": \"818 Fr. — Anna Barb. Bichsel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 818 Jakob, Spengler, a. Tschäppach, K. Solothurn — IV, 46. 818 Fr. — Anna Barb. Bichsel.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "157",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 157 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Straßer."
+   },
+   {
+    "n": 4,
+    "text": "1 804 Johann, Bäcker u. Pintenwirth, a. Benken, K. Zürich"
+   },
+   {
+    "n": 5,
+    "text": "— II, 101."
+   },
+   {
+    "n": 6,
+    "text": "810 Fr. II Ehe. — Elis. Richard, geb. Gygar, a. Wynau."
+   },
+   {
+    "n": 7,
+    "text": "2 K. aus I Ehe. — 829 Rosina. — 32 Joh. Rudolf."
+   },
+   {
+    "n": 8,
+    "text": "2 812 Anna Barbara, privat., a. Wangen — II, 185."
+   },
+   {
+    "n": 9,
+    "text": "Straub."
+   },
+   {
+    "n": 10,
+    "text": "1 Maria, geb. Lobsiger, Kellermagd, des Taglöhners Frau,"
+   },
+   {
+    "n": 11,
+    "text": "a. Herzogenbuchsee — III, 100."
+   },
+   {
+    "n": 12,
+    "text": "2 Xaver, Schmied, a. Enggen in Baden — II, 83 b."
+   },
+   {
+    "n": 13,
+    "text": "Fr. — Kath. Müller a. Allmendshofen."
+   },
+   {
+    "n": 14,
+    "text": "2 T. — 828 Josephine. — 32 Maria Anna."
+   },
+   {
+    "n": 15,
+    "text": "Streichenberger."
+   },
+   {
+    "n": 16,
+    "text": "1 790 Barbara, geb. Bohnenblust, a. Aarburg — V, 106."
+   },
+   {
+    "n": 17,
+    "text": "3 K. — 812 Joh. Jakob. — 18 Karl Johann Jakob. —"
+   },
+   {
+    "n": 18,
+    "text": "20 Maria Elis."
+   },
+   {
+    "n": 19,
+    "text": "Streit."
+   },
+   {
+    "n": 20,
+    "text": "1 793 Christian, Abwart der Lesegesellschaft, a. Köniz — V, 98."
+   },
+   {
+    "n": 21,
+    "text": "800 Fr. II Ehe. — Anna Maria Bossard a. Zofingen."
+   },
+   {
+    "n": 22,
+    "text": "4 S. aus I Ehe: 826 Rud. Christ. — Aus II Ehe: 35"
+   },
+   {
+    "n": 23,
+    "text": "Georg Franz Armand. — 39 Jakob Dav. Friedrich. —"
+   },
+   {
+    "n": 24,
+    "text": "41 Alex. Gottlieb Fridolin."
+   },
+   {
+    "n": 25,
+    "text": "2 788 Anna, geb. Pfister, Kellermagd, des Taglöhners Frau,"
+   },
+   {
+    "n": 26,
+    "text": "a. Englisberg — II, 150."
+   },
+   {
+    "n": 27,
+    "text": "5 K. — 816 Johann. — 19 Christian. — 21 Samuel"
+   },
+   {
+    "n": 28,
+    "text": "Friedrich. — 24 Anna Maria. — 27 Andreas Franz"
+   },
+   {
+    "n": 29,
+    "text": "Ludwig."
+   },
+   {
+    "n": 30,
+    "text": "3 801 Gottlieb, Schreiner, a. Jaberg — II, 122 b."
+   },
+   {
+    "n": 31,
+    "text": "808 Fr. — Verena Franz a. Walkringen."
+   },
+   {
+    "n": 32,
+    "text": "6 K. — 832 Maria Rosina. — 33 Joh. Emanuel Gottl."
+   },
+   {
+    "n": 33,
+    "text": "— 36 Karl Friedr. — 39 Eduard Karl. — 41 Wilhelm."
+   },
+   {
+    "n": 34,
+    "text": "— 46 Christ. Wilhelm."
+   },
+   {
+    "n": 35,
+    "text": "4 813 Johann, Schweinmetzger, a. Köniz — II, 214."
+   },
+   {
+    "n": 36,
+    "text": "816 Fr. — Anna Jenni a. Signau."
+   },
+   {
+    "n": 37,
+    "text": "2 S. — 840 Joh. Friedrich Meinrad. — 42 Karl."
+   },
+   {
+    "n": 38,
+    "text": "5 820 Johann, Schweinmetzger, a. Köniz — II, 162."
+   },
+   {
+    "n": 39,
+    "text": "Fr. — Susanna Pleuer a. Schoren."
+   },
+   {
+    "n": 40,
+    "text": "3 K. — 844 Anna. — 45 Johann. — 47 Susanna."
+   },
+   {
+    "n": 41,
+    "text": "Stuber."
+   },
+   {
+    "n": 42,
+    "text": "1 812 Niklaus, Kellerhalter, a. Tschäppach, K. Solothurn —"
+   },
+   {
+    "n": 43,
+    "text": "III, 52."
+   },
+   {
+    "n": 44,
+    "text": "808 Fr. — Anna Maria Rust."
+   },
+   {
+    "n": 45,
+    "text": "(2 K. nicht eingeschrieben.)"
+   },
+   {
+    "n": 46,
+    "text": "2 818 Jakob, Spengler, a. Tschäppach, K. Solothurn — IV, 46."
+   },
+   {
+    "n": 47,
+    "text": "818 Fr. — Anna Barb. Bichsel."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Straßer.",
+    "place": "Bern",
+    "surname": "Straßer",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Bäcker u. Pintenwirth",
+    "address": "II, 101",
+    "quarter": "II",
+    "street": "",
+    "house_no": "101",
+    "origin": "Benken, K. Zürich",
+    "birth_year": "1804",
+    "household": "810 Fr. II Ehe. — Elis. Richard, geb. Gygar, a. Wynau. 2 K. aus I Ehe. — 829 Rosina. — 32 Joh. Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Johann, Bäcker u. Pintenwirth, a. Benken, K. Zürich — II, 101. 810 Fr. II Ehe. — Elis. Richard, geb. Gygar, a. Wynau. 2 K. aus I Ehe. — 829 Rosina. — 32 Joh. Rudolf."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Straßer.",
+    "place": "Bern",
+    "surname": "Straßer",
+    "forename": "Anna Barbara",
+    "title": "",
+    "occupation": "privat.",
+    "address": "II, 185",
+    "quarter": "II",
+    "street": "",
+    "house_no": "185",
+    "origin": "Wangen",
+    "birth_year": "1812",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 812 Anna Barbara, privat., a. Wangen — II, 185."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Straub.",
+    "place": "Bern",
+    "surname": "Straub",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Kellermagd, des Taglöhners Frau",
+    "address": "III, 100",
+    "quarter": "III",
+    "street": "",
+    "house_no": "100",
+    "origin": "Herzogenbuchsee",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Maria, geb. Lobsiger, Kellermagd, des Taglöhners Frau, a. Herzogenbuchsee — III, 100."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Straub.",
+    "place": "Bern",
+    "surname": "Straub",
+    "forename": "Xaver",
+    "title": "",
+    "occupation": "Schmied",
+    "address": "II, 83 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "83 b",
+    "origin": "Enggen in Baden",
+    "birth_year": "",
+    "household": "Fr. — Kath. Müller a. Allmendshofen. 2 T. — 828 Josephine. — 32 Maria Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 Xaver, Schmied, a. Enggen in Baden — II, 83 b. Fr. — Kath. Müller a. Allmendshofen. 2 T. — 828 Josephine. — 32 Maria Anna."
+   },
+   {
+    "line_from": 16,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Streichenberger.",
+    "place": "Bern",
+    "surname": "Streichenberger",
+    "forename": "Barbara",
+    "title": "",
+    "occupation": "",
+    "address": "V, 106",
+    "quarter": "V",
+    "street": "",
+    "house_no": "106",
+    "origin": "Aarburg",
+    "birth_year": "1790",
+    "household": "3 K. — 812 Joh. Jakob. — 18 Karl Johann Jakob. — 20 Maria Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Barbara, geb. Bohnenblust, a. Aarburg — V, 106. 3 K. — 812 Joh. Jakob. — 18 Karl Johann Jakob. — 20 Maria Elis."
+   },
+   {
+    "line_from": 20,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Streit.",
+    "place": "Bern",
+    "surname": "Streit",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Abwart der Lesegesellschaft",
+    "address": "V, 98",
+    "quarter": "V",
+    "street": "",
+    "house_no": "98",
+    "origin": "Köniz",
+    "birth_year": "1793",
+    "household": "800 Fr. II Ehe. — Anna Maria Bossard a. Zofingen. 4 S. aus I Ehe: 826 Rud. Christ. — Aus II Ehe: 35 Georg Franz Armand. — 39 Jakob Dav. Friedrich. — 41 Alex. Gottlieb Fridolin.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 793 Christian, Abwart der Lesegesellschaft, a. Köniz — V, 98. 800 Fr. II Ehe. — Anna Maria Bossard a. Zofingen. 4 S. aus I Ehe: 826 Rud. Christ. — Aus II Ehe: 35 Georg Franz Armand. — 39 Jakob Dav. Friedrich. — 41 Alex. Gottlieb Fridolin."
+   },
+   {
+    "line_from": 25,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Streit.",
+    "place": "Bern",
+    "surname": "Streit",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Kellermagd, des Taglöhners Frau",
+    "address": "II, 150",
+    "quarter": "II",
+    "street": "",
+    "house_no": "150",
+    "origin": "Englisberg",
+    "birth_year": "1788",
+    "household": "5 K. — 816 Johann. — 19 Christian. — 21 Samuel Friedrich. — 24 Anna Maria. — 27 Andreas Franz Ludwig.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 788 Anna, geb. Pfister, Kellermagd, des Taglöhners Frau, a. Englisberg — II, 150. 5 K. — 816 Johann. — 19 Christian. — 21 Samuel Friedrich. — 24 Anna Maria. — 27 Andreas Franz Ludwig."
+   },
+   {
+    "line_from": 30,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Streit.",
+    "place": "Bern",
+    "surname": "Streit",
+    "forename": "Gottlieb",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "II, 122 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 b",
+    "origin": "Jaberg",
+    "birth_year": "1801",
+    "household": "808 Fr. — Verena Franz a. Walkringen. 6 K. — 832 Maria Rosina. — 33 Joh. Emanuel Gottl. — 36 Karl Friedr. — 39 Eduard Karl. — 41 Wilhelm. — 46 Christ. Wilhelm.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 801 Gottlieb, Schreiner, a. Jaberg — II, 122 b. 808 Fr. — Verena Franz a. Walkringen. 6 K. — 832 Maria Rosina. — 33 Joh. Emanuel Gottl. — 36 Karl Friedr. — 39 Eduard Karl. — 41 Wilhelm. — 46 Christ. Wilhelm."
+   },
+   {
+    "line_from": 35,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Streit.",
+    "place": "Bern",
+    "surname": "Streit",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schweinmetzger",
+    "address": "II, 214",
+    "quarter": "II",
+    "street": "",
+    "house_no": "214",
+    "origin": "Köniz",
+    "birth_year": "1813",
+    "household": "816 Fr. — Anna Jenni a. Signau. 2 S. — 840 Joh. Friedrich Meinrad. — 42 Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 813 Johann, Schweinmetzger, a. Köniz — II, 214. 816 Fr. — Anna Jenni a. Signau. 2 S. — 840 Joh. Friedrich Meinrad. — 42 Karl."
+   },
+   {
+    "line_from": 38,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Streit.",
+    "place": "Bern",
+    "surname": "Streit",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schweinmetzger",
+    "address": "II, 162",
+    "quarter": "II",
+    "street": "",
+    "house_no": "162",
+    "origin": "Köniz",
+    "birth_year": "1820",
+    "household": "Fr. — Susanna Pleuer a. Schoren. 3 K. — 844 Anna. — 45 Johann. — 47 Susanna.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 820 Johann, Schweinmetzger, a. Köniz — II, 162. Fr. — Susanna Pleuer a. Schoren. 3 K. — 844 Anna. — 45 Johann. — 47 Susanna."
+   },
+   {
+    "line_from": 42,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Stuber.",
+    "place": "Bern",
+    "surname": "Stuber",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Kellerhalter",
+    "address": "III, 52",
+    "quarter": "III",
+    "street": "",
+    "house_no": "52",
+    "origin": "Tschäppach, K. Solothurn",
+    "birth_year": "1812",
+    "household": "808 Fr. — Anna Maria Rust. (2 K. nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Niklaus, Kellerhalter, a. Tschäppach, K. Solothurn — III, 52. 808 Fr. — Anna Maria Rust. (2 K. nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 46,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Stuber.",
+    "place": "Bern",
+    "surname": "Stuber",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Spengler",
+    "address": "IV, 46",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "46",
+    "origin": "Tschäppach, K. Solothurn",
+    "birth_year": "1818",
+    "household": "818 Fr. — Anna Barb. Bichsel.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 818 Jakob, Spengler, a. Tschäppach, K. Solothurn — IV, 46. 818 Fr. — Anna Barb. Bichsel."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:12:09+01:00",
+ "last_error": null
+}

@@ -1,0 +1,458 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 48,
+ "section": "einsassen",
+ "started": "2026-11-11T21:58:23+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 27.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4421,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"35\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 35 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Droz.\"},\n    {\"n\": 4, \"text\": \"1 799 Rosette, Feinzeugwascherin, a. Montagne de la Fer-\"},\n    {\"n\": 5, \"text\": \"rière — V, 65.\"},\n    {\"n\": 6, \"text\": \"Dubach.\"},\n    {\"n\": 7, \"text\": \"1 797 David Gottlieb, Schreiner, a. Amsoldingen — II, 193.\"},\n    {\"n\": 8, \"text\": \"797 Fr. — Rosina Magd. Stucki a. Buchholterberg.\"},\n    {\"n\": 9, \"text\": \"2 K. — 832 Elis. Rosina. — 35 Gottlieb Albr.\"},\n    {\"n\": 10, \"text\": \"2 807 Elis., geb. Schenk, Schneiderin, a. Trub — III, 90.\"},\n    {\"n\": 11, \"text\": \"Ducommun.\"},\n    {\"n\": 12, \"text\": \"1 795 Abr. Louis, Sesselmacher, a. Monttramelan — II, 278.\"},\n    {\"n\": 13, \"text\": \"791 Fr. — Rosina Gauchat, Leistabwärterin, a. Lignières.\"},\n    {\"n\": 14, \"text\": \"Ducraux.\"},\n    {\"n\": 15, \"text\": \"1 799 Rose, Corsetmacherin, a. Biel — IV, 1.\"},\n    {\"n\": 16, \"text\": \"Dübi a. Schüpfen.\"},\n    {\"n\": 17, \"text\": \"1 806 Rud. Christian, Uhrenmacher u. Wochenmarktkrämer,\"},\n    {\"n\": 18, \"text\": \"V. v. 2 — IV, 235.\"},\n    {\"n\": 19, \"text\": \"801 Fr. — Magd. Knöri a. Urtenen.\"},\n    {\"n\": 20, \"text\": \"2 S. — 832 Karl Ed. — 38 Ad. Rudolf.\"},\n    {\"n\": 21, \"text\": \"2 810 Jakob Karl, Uhrenmacher, V. v. 1 — IV, 235.\"},\n    {\"n\": 22, \"text\": \"815 Fr. — Maria Kar. Welti a. Adlischwyl, Modiste.\"},\n    {\"n\": 23, \"text\": \"3 K. — 840 Anna Ros. Karolina. — 41 Rud. Emil. —\"},\n    {\"n\": 24, \"text\": \"44 Adolf.\"},\n    {\"n\": 25, \"text\": \"3 820 Johann Chr. Andreas, Buchbinder — V, 89.\"},\n    {\"n\": 26, \"text\": \"826 Fr. — Maria Elis. Berger a. Langnau.\"},\n    {\"n\": 27, \"text\": \"1 T. — 846 Maria Marg.\"},\n    {\"n\": 28, \"text\": \"4 798 Jakob Christian, Lohnbedienter — VI, 2.\"},\n    {\"n\": 29, \"text\": \"795 Fr. — Maria Schwyzer a. Hasle.\"},\n    {\"n\": 30, \"text\": \"Dünki.\"},\n    {\"n\": 31, \"text\": \"1 805 Johann Konrad, Buchbinder, a. Rohrbass, K. Zürich —\"},\n    {\"n\": 32, \"text\": \"II, 30.\"},\n    {\"n\": 33, \"text\": \"Dürig.\"},\n    {\"n\": 34, \"text\": \"1 799 Maria, geb. Lüthi, Schweinmetzgerin, a. Hettiswyl —\"},\n    {\"n\": 35, \"text\": \"V, 123.\"},\n    {\"n\": 36, \"text\": \"2 802 Joh. Samuel, Fürsprecher, a. Jegenstorf, V. v. 3 —\"},\n    {\"n\": 37, \"text\": \"IV, 1 k.\"},\n    {\"n\": 38, \"text\": \"Fr. — M. M. Elis. Stauffer a. Bern.\"},\n    {\"n\": 39, \"text\": \"3 K. — 839 Rosina Elis. — 43 Martha. — (Ein Kind\"},\n    {\"n\": 40, \"text\": \"nicht eingeschrieben.)\"},\n    {\"n\": 41, \"text\": \"3 805 Gottlieb Em., Schreiber, a. Jegenstorf, V. v. 2 — V, 38.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Droz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Droz\",\n      \"forename\": \"Rosette\",\n      \"title\": \"\",\n      \"occupation\": \"Feinzeugwascherin\",\n      \"address\": \"V, 65\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"65\",\n      \"origin\": \"Montagne de la Ferrière\",\n      \"birth_year\": \"1799\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Rosette, Feinzeugwascherin, a. Montagne de la Ferrière — V, 65.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Dubach.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dubach\",\n      \"forename\": \"David Gottlieb\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"II, 193\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"193\",\n      \"origin\": \"Amsoldingen\",\n      \"birth_year\": \"1797\",\n      \"household\": \"797 Fr. — Rosina Magd. Stucki a. Buchholterberg. 2 K. — 832 Elis. Rosina. — 35 Gottlieb Albr.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 David Gottlieb, Schreiner, a. Amsoldingen — II, 193. 797 Fr. — Rosina Magd. Stucki a. Buchholterberg. 2 K. — 832 Elis. Rosina. — 35 Gottlieb Albr.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Dubach.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dubach\",\n      \"forename\": \"Elis.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"III, 90\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"90\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1807\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Schenk\",\n      \"text\": \"2 807 Elis., geb. Schenk, Schneiderin, a. Trub — III, 90.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Ducommun.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ducommun\",\n      \"forename\": \"Abr. Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Sesselmacher\",\n      \"address\": \"II, 278\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"278\",\n      \"origin\": \"Monttramelan\",\n      \"birth_year\": \"1795\",\n      \"household\": \"791 Fr. — Rosina Gauchat, Leistabwärterin, a. Lignières.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 795 Abr. Louis, Sesselmacher, a. Monttramelan — II, 278. 791 Fr. — Rosina Gauchat, Leistabwärterin, a. Lignières.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Ducraux.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ducraux\",\n      \"forename\": \"Rose\",\n      \"title\": \"\",\n      \"occupation\": \"Corsetmacherin\",\n      \"address\": \"IV, 1\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"1\",\n      \"origin\": \"Biel\",\n      \"birth_year\": \"1799\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Rose, Corsetmacherin, a. Biel — IV, 1.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Dübi a. Schüpfen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"Rud. Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher u. Wochenmarktkrämer\",\n      \"address\": \"IV, 235\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"235\",\n      \"origin\": \"Schüpfen\",\n      \"birth_year\": \"1806\",\n      \"household\": \"801 Fr. — Magd. Knöri a. Urtenen. 2 S. — 832 Karl Ed. — 38 Ad. Rudolf.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel; V. v. 2\",\n      \"text\": \"1 806 Rud. Christian, Uhrenmacher u. Wochenmarktkrämer, V. v. 2 — IV, 235. 801 Fr. — Magd. Knöri a. Urtenen. 2 S. — 832 Karl Ed. — 38 Ad. Rudolf.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Dübi a. Schüpfen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"Jakob Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher\",\n      \"address\": \"IV, 235\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"235\",\n      \"origin\": \"Schüpfen\",\n      \"birth_year\": \"1810\",\n      \"household\": \"815 Fr. — Maria Kar. Welti a. Adlischwyl, Modiste. 3 K. — 840 Anna Ros. Karolina. — 41 Rud. Emil. — 44 Adolf.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel; V. v. 1\",\n      \"text\": \"2 810 Jakob Karl, Uhrenmacher, V. v. 1 — IV, 235. 815 Fr. — Maria Kar. Welti a. Adlischwyl, Modiste. 3 K. — 840 Anna Ros. Karolina. — 41 Rud. Emil. — 44 Adolf.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Dübi a. Schüpfen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"Johann Chr. Andreas\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"V, 89\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"89\",\n      \"origin\": \"Schüpfen\",\n      \"birth_year\": \"1820\",\n      \"household\": \"826 Fr. — Maria Elis. Berger a. Langnau. 1 T. — 846 Maria Marg.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"3 820 Johann Chr. Andreas, Buchbinder — V, 89. 826 Fr. — Maria Elis. Berger a. Langnau. 1 T. — 846 Maria Marg.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Dübi a. Schüpfen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"Jakob Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnbedienter\",\n      \"address\": \"VI, 2\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"2\",\n      \"origin\": \"Schüpfen\",\n      \"birth_year\": \"1798\",\n      \"household\": \"795 Fr. — Maria Schwyzer a. Hasle.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"4 798 Jakob Christian, Lohnbedienter — VI, 2. 795 Fr. — Maria Schwyzer a. Hasle.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Dünki.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünki\",\n      \"forename\": \"Johann Konrad\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"II, 30\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"30\",\n      \"origin\": \"Rohrbass, K. Zürich\",\n      \"birth_year\": \"1805\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Johann Konrad, Buchbinder, a. Rohrbass, K. Zürich — II, 30.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Dürig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dürig\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzgerin\",\n      \"address\": \"V, 123\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"123\",\n      \"origin\": \"Hettiswyl\",\n      \"birth_year\": \"1799\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Lüthi\",\n      \"text\": \"1 799 Maria, geb. Lüthi, Schweinmetzgerin, a. Hettiswyl — V, 123.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Dürig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dürig\",\n      \"forename\": \"Joh. Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Fürsprecher\",\n      \"address\": \"IV, 1 k\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"1 k\",\n      \"origin\": \"Jegenstorf\",\n      \"birth_year\": \"1802\",\n      \"household\": \"Fr. — M. M. Elis. Stauffer a. Bern. 3 K. — 839 Rosina Elis. — 43 Martha. — (Ein Kind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel; V. v. 3\",\n      \"text\": \"2 802 Joh. Samuel, Fürsprecher, a. Jegenstorf, V. v. 3 — IV, 1 k. Fr. — M. M. Elis. Stauffer a. Bern. 3 K. — 839 Rosina Elis. — 43 Martha. — (Ein Kind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Dürig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dürig\",\n      \"forename\": \"Gottlieb Em.\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"V, 38\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"38\",\n      \"origin\": \"Jegenstorf\",\n      \"birth_year\": \"1805\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; V. v. 2\",\n      \"text\": \"3 805 Gottlieb Em., Schreiber, a. Jegenstorf, V. v. 2 — V, 38.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "35",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 35 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Droz."
+   },
+   {
+    "n": 4,
+    "text": "1 799 Rosette, Feinzeugwascherin, a. Montagne de la Fer-"
+   },
+   {
+    "n": 5,
+    "text": "rière — V, 65."
+   },
+   {
+    "n": 6,
+    "text": "Dubach."
+   },
+   {
+    "n": 7,
+    "text": "1 797 David Gottlieb, Schreiner, a. Amsoldingen — II, 193."
+   },
+   {
+    "n": 8,
+    "text": "797 Fr. — Rosina Magd. Stucki a. Buchholterberg."
+   },
+   {
+    "n": 9,
+    "text": "2 K. — 832 Elis. Rosina. — 35 Gottlieb Albr."
+   },
+   {
+    "n": 10,
+    "text": "2 807 Elis., geb. Schenk, Schneiderin, a. Trub — III, 90."
+   },
+   {
+    "n": 11,
+    "text": "Ducommun."
+   },
+   {
+    "n": 12,
+    "text": "1 795 Abr. Louis, Sesselmacher, a. Monttramelan — II, 278."
+   },
+   {
+    "n": 13,
+    "text": "791 Fr. — Rosina Gauchat, Leistabwärterin, a. Lignières."
+   },
+   {
+    "n": 14,
+    "text": "Ducraux."
+   },
+   {
+    "n": 15,
+    "text": "1 799 Rose, Corsetmacherin, a. Biel — IV, 1."
+   },
+   {
+    "n": 16,
+    "text": "Dübi a. Schüpfen."
+   },
+   {
+    "n": 17,
+    "text": "1 806 Rud. Christian, Uhrenmacher u. Wochenmarktkrämer,"
+   },
+   {
+    "n": 18,
+    "text": "V. v. 2 — IV, 235."
+   },
+   {
+    "n": 19,
+    "text": "801 Fr. — Magd. Knöri a. Urtenen."
+   },
+   {
+    "n": 20,
+    "text": "2 S. — 832 Karl Ed. — 38 Ad. Rudolf."
+   },
+   {
+    "n": 21,
+    "text": "2 810 Jakob Karl, Uhrenmacher, V. v. 1 — IV, 235."
+   },
+   {
+    "n": 22,
+    "text": "815 Fr. — Maria Kar. Welti a. Adlischwyl, Modiste."
+   },
+   {
+    "n": 23,
+    "text": "3 K. — 840 Anna Ros. Karolina. — 41 Rud. Emil. —"
+   },
+   {
+    "n": 24,
+    "text": "44 Adolf."
+   },
+   {
+    "n": 25,
+    "text": "3 820 Johann Chr. Andreas, Buchbinder — V, 89."
+   },
+   {
+    "n": 26,
+    "text": "826 Fr. — Maria Elis. Berger a. Langnau."
+   },
+   {
+    "n": 27,
+    "text": "1 T. — 846 Maria Marg."
+   },
+   {
+    "n": 28,
+    "text": "4 798 Jakob Christian, Lohnbedienter — VI, 2."
+   },
+   {
+    "n": 29,
+    "text": "795 Fr. — Maria Schwyzer a. Hasle."
+   },
+   {
+    "n": 30,
+    "text": "Dünki."
+   },
+   {
+    "n": 31,
+    "text": "1 805 Johann Konrad, Buchbinder, a. Rohrbass, K. Zürich —"
+   },
+   {
+    "n": 32,
+    "text": "II, 30."
+   },
+   {
+    "n": 33,
+    "text": "Dürig."
+   },
+   {
+    "n": 34,
+    "text": "1 799 Maria, geb. Lüthi, Schweinmetzgerin, a. Hettiswyl —"
+   },
+   {
+    "n": 35,
+    "text": "V, 123."
+   },
+   {
+    "n": 36,
+    "text": "2 802 Joh. Samuel, Fürsprecher, a. Jegenstorf, V. v. 3 —"
+   },
+   {
+    "n": 37,
+    "text": "IV, 1 k."
+   },
+   {
+    "n": 38,
+    "text": "Fr. — M. M. Elis. Stauffer a. Bern."
+   },
+   {
+    "n": 39,
+    "text": "3 K. — 839 Rosina Elis. — 43 Martha. — (Ein Kind"
+   },
+   {
+    "n": 40,
+    "text": "nicht eingeschrieben.)"
+   },
+   {
+    "n": 41,
+    "text": "3 805 Gottlieb Em., Schreiber, a. Jegenstorf, V. v. 2 — V, 38."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Droz.",
+    "place": "Bern",
+    "surname": "Droz",
+    "forename": "Rosette",
+    "title": "",
+    "occupation": "Feinzeugwascherin",
+    "address": "V, 65",
+    "quarter": "V",
+    "street": "",
+    "house_no": "65",
+    "origin": "Montagne de la Ferrière",
+    "birth_year": "1799",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Rosette, Feinzeugwascherin, a. Montagne de la Ferrière — V, 65."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Dubach.",
+    "place": "Bern",
+    "surname": "Dubach",
+    "forename": "David Gottlieb",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "II, 193",
+    "quarter": "II",
+    "street": "",
+    "house_no": "193",
+    "origin": "Amsoldingen",
+    "birth_year": "1797",
+    "household": "797 Fr. — Rosina Magd. Stucki a. Buchholterberg. 2 K. — 832 Elis. Rosina. — 35 Gottlieb Albr.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 David Gottlieb, Schreiner, a. Amsoldingen — II, 193. 797 Fr. — Rosina Magd. Stucki a. Buchholterberg. 2 K. — 832 Elis. Rosina. — 35 Gottlieb Albr."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Dubach.",
+    "place": "Bern",
+    "surname": "Dubach",
+    "forename": "Elis.",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "III, 90",
+    "quarter": "III",
+    "street": "",
+    "house_no": "90",
+    "origin": "Trub",
+    "birth_year": "1807",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Schenk",
+    "text": "2 807 Elis., geb. Schenk, Schneiderin, a. Trub — III, 90."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Ducommun.",
+    "place": "Bern",
+    "surname": "Ducommun",
+    "forename": "Abr. Louis",
+    "title": "",
+    "occupation": "Sesselmacher",
+    "address": "II, 278",
+    "quarter": "II",
+    "street": "",
+    "house_no": "278",
+    "origin": "Monttramelan",
+    "birth_year": "1795",
+    "household": "791 Fr. — Rosina Gauchat, Leistabwärterin, a. Lignières.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 795 Abr. Louis, Sesselmacher, a. Monttramelan — II, 278. 791 Fr. — Rosina Gauchat, Leistabwärterin, a. Lignières."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Ducraux.",
+    "place": "Bern",
+    "surname": "Ducraux",
+    "forename": "Rose",
+    "title": "",
+    "occupation": "Corsetmacherin",
+    "address": "IV, 1",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "1",
+    "origin": "Biel",
+    "birth_year": "1799",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Rose, Corsetmacherin, a. Biel — IV, 1."
+   },
+   {
+    "line_from": 17,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Dübi a. Schüpfen.",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "Rud. Christian",
+    "title": "",
+    "occupation": "Uhrenmacher u. Wochenmarktkrämer",
+    "address": "IV, 235",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "235",
+    "origin": "Schüpfen",
+    "birth_year": "1806",
+    "household": "801 Fr. — Magd. Knöri a. Urtenen. 2 S. — 832 Karl Ed. — 38 Ad. Rudolf.",
+    "note": "Name und Herkunft aus Zwischentitel; V. v. 2",
+    "text": "1 806 Rud. Christian, Uhrenmacher u. Wochenmarktkrämer, V. v. 2 — IV, 235. 801 Fr. — Magd. Knöri a. Urtenen. 2 S. — 832 Karl Ed. — 38 Ad. Rudolf."
+   },
+   {
+    "line_from": 21,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Dübi a. Schüpfen.",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "Jakob Karl",
+    "title": "",
+    "occupation": "Uhrenmacher",
+    "address": "IV, 235",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "235",
+    "origin": "Schüpfen",
+    "birth_year": "1810",
+    "household": "815 Fr. — Maria Kar. Welti a. Adlischwyl, Modiste. 3 K. — 840 Anna Ros. Karolina. — 41 Rud. Emil. — 44 Adolf.",
+    "note": "Name und Herkunft aus Zwischentitel; V. v. 1",
+    "text": "2 810 Jakob Karl, Uhrenmacher, V. v. 1 — IV, 235. 815 Fr. — Maria Kar. Welti a. Adlischwyl, Modiste. 3 K. — 840 Anna Ros. Karolina. — 41 Rud. Emil. — 44 Adolf."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Dübi a. Schüpfen.",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "Johann Chr. Andreas",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "V, 89",
+    "quarter": "V",
+    "street": "",
+    "house_no": "89",
+    "origin": "Schüpfen",
+    "birth_year": "1820",
+    "household": "826 Fr. — Maria Elis. Berger a. Langnau. 1 T. — 846 Maria Marg.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "3 820 Johann Chr. Andreas, Buchbinder — V, 89. 826 Fr. — Maria Elis. Berger a. Langnau. 1 T. — 846 Maria Marg."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Dübi a. Schüpfen.",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "Jakob Christian",
+    "title": "",
+    "occupation": "Lohnbedienter",
+    "address": "VI, 2",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "2",
+    "origin": "Schüpfen",
+    "birth_year": "1798",
+    "household": "795 Fr. — Maria Schwyzer a. Hasle.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "4 798 Jakob Christian, Lohnbedienter — VI, 2. 795 Fr. — Maria Schwyzer a. Hasle."
+   },
+   {
+    "line_from": 31,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Dünki.",
+    "place": "Bern",
+    "surname": "Dünki",
+    "forename": "Johann Konrad",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "II, 30",
+    "quarter": "II",
+    "street": "",
+    "house_no": "30",
+    "origin": "Rohrbass, K. Zürich",
+    "birth_year": "1805",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Johann Konrad, Buchbinder, a. Rohrbass, K. Zürich — II, 30."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Dürig.",
+    "place": "Bern",
+    "surname": "Dürig",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Schweinmetzgerin",
+    "address": "V, 123",
+    "quarter": "V",
+    "street": "",
+    "house_no": "123",
+    "origin": "Hettiswyl",
+    "birth_year": "1799",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Lüthi",
+    "text": "1 799 Maria, geb. Lüthi, Schweinmetzgerin, a. Hettiswyl — V, 123."
+   },
+   {
+    "line_from": 36,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Dürig.",
+    "place": "Bern",
+    "surname": "Dürig",
+    "forename": "Joh. Samuel",
+    "title": "",
+    "occupation": "Fürsprecher",
+    "address": "IV, 1 k",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "1 k",
+    "origin": "Jegenstorf",
+    "birth_year": "1802",
+    "household": "Fr. — M. M. Elis. Stauffer a. Bern. 3 K. — 839 Rosina Elis. — 43 Martha. — (Ein Kind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel; V. v. 3",
+    "text": "2 802 Joh. Samuel, Fürsprecher, a. Jegenstorf, V. v. 3 — IV, 1 k. Fr. — M. M. Elis. Stauffer a. Bern. 3 K. — 839 Rosina Elis. — 43 Martha. — (Ein Kind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 41,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Dürig.",
+    "place": "Bern",
+    "surname": "Dürig",
+    "forename": "Gottlieb Em.",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "V, 38",
+    "quarter": "V",
+    "street": "",
+    "house_no": "38",
+    "origin": "Jegenstorf",
+    "birth_year": "1805",
+    "household": "",
+    "note": "Name aus Zwischentitel; V. v. 2",
+    "text": "3 805 Gottlieb Em., Schreiber, a. Jegenstorf, V. v. 2 — V, 38."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:58:51+01:00",
+ "last_error": null
+}

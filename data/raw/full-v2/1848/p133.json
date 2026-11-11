@@ -1,0 +1,422 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 133,
+ "section": "einsassen",
+ "started": "2026-11-11T22:07:35+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 33.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4072,
+  "thoughts": 1199
+ },
+ "response_text": "{\n  \"printed_page\": \"120\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 120 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Pequignot.\"},\n    {\"n\": 4, \"text\": \"1 805 Franz Xaver Ignaz, gew. Landammann, a. Noirmont\"},\n    {\"n\": 5, \"text\": \"- V, 88.\"},\n    {\"n\": 6, \"text\": \"Perreten.\"},\n    {\"n\": 7, \"text\": \"1 814 Heinrich, Schreiber, a. Lauenen - IV, 66.\"},\n    {\"n\": 8, \"text\": \"Perrin.\"},\n    {\"n\": 9, \"text\": \"1 800 Pierre Fréd., Uhrenmacher, a. Obertramlingen - V, 100.\"},\n    {\"n\": 10, \"text\": \"798 Fr. - (nicht eingeschrieben.)\"},\n    {\"n\": 11, \"text\": \"4 K. - 831 Maria. - 32 Samuel. - 33 Anna. -\"},\n    {\"n\": 12, \"text\": \"34 Joh. Emanuel.\"},\n    {\"n\": 13, \"text\": \"Peter.\"},\n    {\"n\": 14, \"text\": \"1 787 Heinrich, Schneider, a. Elsau, K. Zürich - IV, 9.\"},\n    {\"n\": 15, \"text\": \"793 Fr. - Sus. Maria Frei a. Auenstein.\"},\n    {\"n\": 16, \"text\": \"7 K. - 814 Maria Anna. - 16 Kath. Maria. - 20\"},\n    {\"n\": 17, \"text\": \"Maria Louise. - 22 Anna Magd. Sophie. - 26 Ros.\"},\n    {\"n\": 18, \"text\": \"Henriette. - 29 Joh. Heinrich. - 33 Rud. Kaspar.\"},\n    {\"n\": 19, \"text\": \"2 806 Magdalena, geb. Klosner, Kostgeberin, a. Eggiwyl -\"},\n    {\"n\": 20, \"text\": \"V, 191.\"},\n    {\"n\": 21, \"text\": \"Pfäffli.\"},\n    {\"n\": 22, \"text\": \"1 788 Ulrich, Pächter, a. Signau - I, 128.\"},\n    {\"n\": 23, \"text\": \"2 K. - 820 Anna. - 25 Friedrich.\"},\n    {\"n\": 24, \"text\": \"Pfäfflin.\"},\n    {\"n\": 25, \"text\": \"1 807 Christ. Ad., Schuhmacher, a. Lustnau in Würtemberg\"},\n    {\"n\": 26, \"text\": \"- V, 39.\"},\n    {\"n\": 27, \"text\": \"806 Fr. - Elis. Oswald a. Oberhofen.\"},\n    {\"n\": 28, \"text\": \"Pfenninger.\"},\n    {\"n\": 29, \"text\": \"1 813 Rudolf, Schuhmacher, a. Hinnwyl, K. Zürich - II, 83 b.\"},\n    {\"n\": 30, \"text\": \"805 Fr. - Ros. Bünzli, verw. Simon, a. Reiben.\"},\n    {\"n\": 31, \"text\": \"Pfister.\"},\n    {\"n\": 32, \"text\": \"1 800 Johann, Schlosser, a. Roggwyl - V, 9.\"},\n    {\"n\": 33, \"text\": \"801 Fr. - Maria Kath. Neuhaus a. Gals.\"},\n    {\"n\": 34, \"text\": \"8 K. - 823 Joh. Jakob. - 35 Gottlieb. - 37 Anna\"},\n    {\"n\": 35, \"text\": \"Elis. - 38 Karl Joh. Jakob. - 40 Jakob Friedrich. -\"},\n    {\"n\": 36, \"text\": \"46 Albert Rudolf. - (2 K. nicht eingeschrieben.)\"},\n    {\"n\": 37, \"text\": \"2 Johann, Hausbesitzer, a. Uetendorf - II, 2.\"},\n    {\"n\": 38, \"text\": \"1 T. - 825 Maria Elis.\"},\n    {\"n\": 39, \"text\": \"3 796 Joh. Ulrich, Schreiber, a. Walliswyl - V, 36.\"},\n    {\"n\": 40, \"text\": \"803 Fr. - Maria Lehmann a. Signau.\"},\n    {\"n\": 41, \"text\": \"5 K. - 830 Johann. - 32 Anna Elis. - 33 Maria\"},\n    {\"n\": 42, \"text\": \"Elis. - 36 Anna Marg. - 39 Sus. Rosina.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Pequignot.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pequignot\",\n      \"forename\": \"Franz Xaver Ignaz\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Landammann\",\n      \"address\": \"V, 88\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"88\",\n      \"origin\": \"Noirmont\",\n      \"birth_year\": \"1805\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Franz Xaver Ignaz, gew. Landammann, a. Noirmont - V, 88.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Perreten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Perreten\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"IV, 66\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"66\",\n      \"origin\": \"Lauenen\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Heinrich, Schreiber, a. Lauenen - IV, 66.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Perrin.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Perrin\",\n      \"forename\": \"Pierre Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher\",\n      \"address\": \"V, 100\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"100\",\n      \"origin\": \"Obertramlingen\",\n      \"birth_year\": \"1800\",\n      \"household\": \"798 Fr. - (nicht eingeschrieben.) 4 K. - 831 Maria. - 32 Samuel. - 33 Anna. - 34 Joh. Emanuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 800 Pierre Fréd., Uhrenmacher, a. Obertramlingen - V, 100. 798 Fr. - (nicht eingeschrieben.) 4 K. - 831 Maria. - 32 Samuel. - 33 Anna. - 34 Joh. Emanuel.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Peter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Peter\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 9\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"9\",\n      \"origin\": \"Elsau, K. Zürich\",\n      \"birth_year\": \"1787\",\n      \"household\": \"793 Fr. - Sus. Maria Frei a. Auenstein. 7 K. - 814 Maria Anna. - 16 Kath. Maria. - 20 Maria Louise. - 22 Anna Magd. Sophie. - 26 Ros. Henriette. - 29 Joh. Heinrich. - 33 Rud. Kaspar.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 787 Heinrich, Schneider, a. Elsau, K. Zürich - IV, 9. 793 Fr. - Sus. Maria Frei a. Auenstein. 7 K. - 814 Maria Anna. - 16 Kath. Maria. - 20 Maria Louise. - 22 Anna Magd. Sophie. - 26 Ros. Henriette. - 29 Joh. Heinrich. - 33 Rud. Kaspar.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Peter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Peter\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"\",\n      \"occupation\": \"Kostgeberin\",\n      \"address\": \"V, 191\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"191\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1806\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Klosner\",\n      \"text\": \"2 806 Magdalena, geb. Klosner, Kostgeberin, a. Eggiwyl - V, 191.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Pfäffli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pfäffli\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Pächter\",\n      \"address\": \"I, 128\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"128\",\n      \"origin\": \"Signau\",\n      \"birth_year\": \"1788\",\n      \"household\": \"2 K. - 820 Anna. - 25 Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 788 Ulrich, Pächter, a. Signau - I, 128. 2 K. - 820 Anna. - 25 Friedrich.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Pfäfflin.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pfäfflin\",\n      \"forename\": \"Christ. Ad.\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 39\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"39\",\n      \"origin\": \"Lustnau in Würtemberg\",\n      \"birth_year\": \"1807\",\n      \"household\": \"806 Fr. - Elis. Oswald a. Oberhofen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Christ. Ad., Schuhmacher, a. Lustnau in Würtemberg - V, 39. 806 Fr. - Elis. Oswald a. Oberhofen.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Pfenninger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pfenninger\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 83 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"83 b\",\n      \"origin\": \"Hinnwyl, K. Zürich\",\n      \"birth_year\": \"1813\",\n      \"household\": \"805 Fr. - Ros. Bünzli, verw. Simon, a. Reiben.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Rudolf, Schuhmacher, a. Hinnwyl, K. Zürich - II, 83 b. 805 Fr. - Ros. Bünzli, verw. Simon, a. Reiben.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Pfister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pfister\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"V, 9\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"9\",\n      \"origin\": \"Roggwyl\",\n      \"birth_year\": \"1800\",\n      \"household\": \"801 Fr. - Maria Kath. Neuhaus a. Gals. 8 K. - 823 Joh. Jakob. - 35 Gottlieb. - 37 Anna Elis. - 38 Karl Joh. Jakob. - 40 Jakob Friedrich. - 46 Albert Rudolf. - (2 K. nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 800 Johann, Schlosser, a. Roggwyl - V, 9. 801 Fr. - Maria Kath. Neuhaus a. Gals. 8 K. - 823 Joh. Jakob. - 35 Gottlieb. - 37 Anna Elis. - 38 Karl Joh. Jakob. - 40 Jakob Friedrich. - 46 Albert Rudolf. - (2 K. nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Pfister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pfister\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Hausbesitzer\",\n      \"address\": \"II, 2\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"2\",\n      \"origin\": \"Uetendorf\",\n      \"birth_year\": \"\",\n      \"household\": \"1 T. - 825 Maria Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 Johann, Hausbesitzer, a. Uetendorf - II, 2. 1 T. - 825 Maria Elis.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Pfister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pfister\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"V, 36\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"Walliswyl\",\n      \"birth_year\": \"1796\",\n      \"household\": \"803 Fr. - Maria Lehmann a. Signau. 5 K. - 830 Johann. - 32 Anna Elis. - 33 Maria Elis. - 36 Anna Marg. - 39 Sus. Rosina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 796 Joh. Ulrich, Schreiber, a. Walliswyl - V, 36. 803 Fr. - Maria Lehmann a. Signau. 5 K. - 830 Johann. - 32 Anna Elis. - 33 Maria Elis. - 36 Anna Marg. - 39 Sus. Rosina.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "120",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 120 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Pequignot."
+   },
+   {
+    "n": 4,
+    "text": "1 805 Franz Xaver Ignaz, gew. Landammann, a. Noirmont"
+   },
+   {
+    "n": 5,
+    "text": "- V, 88."
+   },
+   {
+    "n": 6,
+    "text": "Perreten."
+   },
+   {
+    "n": 7,
+    "text": "1 814 Heinrich, Schreiber, a. Lauenen - IV, 66."
+   },
+   {
+    "n": 8,
+    "text": "Perrin."
+   },
+   {
+    "n": 9,
+    "text": "1 800 Pierre Fréd., Uhrenmacher, a. Obertramlingen - V, 100."
+   },
+   {
+    "n": 10,
+    "text": "798 Fr. - (nicht eingeschrieben.)"
+   },
+   {
+    "n": 11,
+    "text": "4 K. - 831 Maria. - 32 Samuel. - 33 Anna. -"
+   },
+   {
+    "n": 12,
+    "text": "34 Joh. Emanuel."
+   },
+   {
+    "n": 13,
+    "text": "Peter."
+   },
+   {
+    "n": 14,
+    "text": "1 787 Heinrich, Schneider, a. Elsau, K. Zürich - IV, 9."
+   },
+   {
+    "n": 15,
+    "text": "793 Fr. - Sus. Maria Frei a. Auenstein."
+   },
+   {
+    "n": 16,
+    "text": "7 K. - 814 Maria Anna. - 16 Kath. Maria. - 20"
+   },
+   {
+    "n": 17,
+    "text": "Maria Louise. - 22 Anna Magd. Sophie. - 26 Ros."
+   },
+   {
+    "n": 18,
+    "text": "Henriette. - 29 Joh. Heinrich. - 33 Rud. Kaspar."
+   },
+   {
+    "n": 19,
+    "text": "2 806 Magdalena, geb. Klosner, Kostgeberin, a. Eggiwyl -"
+   },
+   {
+    "n": 20,
+    "text": "V, 191."
+   },
+   {
+    "n": 21,
+    "text": "Pfäffli."
+   },
+   {
+    "n": 22,
+    "text": "1 788 Ulrich, Pächter, a. Signau - I, 128."
+   },
+   {
+    "n": 23,
+    "text": "2 K. - 820 Anna. - 25 Friedrich."
+   },
+   {
+    "n": 24,
+    "text": "Pfäfflin."
+   },
+   {
+    "n": 25,
+    "text": "1 807 Christ. Ad., Schuhmacher, a. Lustnau in Würtemberg"
+   },
+   {
+    "n": 26,
+    "text": "- V, 39."
+   },
+   {
+    "n": 27,
+    "text": "806 Fr. - Elis. Oswald a. Oberhofen."
+   },
+   {
+    "n": 28,
+    "text": "Pfenninger."
+   },
+   {
+    "n": 29,
+    "text": "1 813 Rudolf, Schuhmacher, a. Hinnwyl, K. Zürich - II, 83 b."
+   },
+   {
+    "n": 30,
+    "text": "805 Fr. - Ros. Bünzli, verw. Simon, a. Reiben."
+   },
+   {
+    "n": 31,
+    "text": "Pfister."
+   },
+   {
+    "n": 32,
+    "text": "1 800 Johann, Schlosser, a. Roggwyl - V, 9."
+   },
+   {
+    "n": 33,
+    "text": "801 Fr. - Maria Kath. Neuhaus a. Gals."
+   },
+   {
+    "n": 34,
+    "text": "8 K. - 823 Joh. Jakob. - 35 Gottlieb. - 37 Anna"
+   },
+   {
+    "n": 35,
+    "text": "Elis. - 38 Karl Joh. Jakob. - 40 Jakob Friedrich. -"
+   },
+   {
+    "n": 36,
+    "text": "46 Albert Rudolf. - (2 K. nicht eingeschrieben.)"
+   },
+   {
+    "n": 37,
+    "text": "2 Johann, Hausbesitzer, a. Uetendorf - II, 2."
+   },
+   {
+    "n": 38,
+    "text": "1 T. - 825 Maria Elis."
+   },
+   {
+    "n": 39,
+    "text": "3 796 Joh. Ulrich, Schreiber, a. Walliswyl - V, 36."
+   },
+   {
+    "n": 40,
+    "text": "803 Fr. - Maria Lehmann a. Signau."
+   },
+   {
+    "n": 41,
+    "text": "5 K. - 830 Johann. - 32 Anna Elis. - 33 Maria"
+   },
+   {
+    "n": 42,
+    "text": "Elis. - 36 Anna Marg. - 39 Sus. Rosina."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Pequignot.",
+    "place": "Bern",
+    "surname": "Pequignot",
+    "forename": "Franz Xaver Ignaz",
+    "title": "",
+    "occupation": "gew. Landammann",
+    "address": "V, 88",
+    "quarter": "V",
+    "street": "",
+    "house_no": "88",
+    "origin": "Noirmont",
+    "birth_year": "1805",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Franz Xaver Ignaz, gew. Landammann, a. Noirmont - V, 88."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Perreten.",
+    "place": "Bern",
+    "surname": "Perreten",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "IV, 66",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "66",
+    "origin": "Lauenen",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Heinrich, Schreiber, a. Lauenen - IV, 66."
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Perrin.",
+    "place": "Bern",
+    "surname": "Perrin",
+    "forename": "Pierre Fréd.",
+    "title": "",
+    "occupation": "Uhrenmacher",
+    "address": "V, 100",
+    "quarter": "V",
+    "street": "",
+    "house_no": "100",
+    "origin": "Obertramlingen",
+    "birth_year": "1800",
+    "household": "798 Fr. - (nicht eingeschrieben.) 4 K. - 831 Maria. - 32 Samuel. - 33 Anna. - 34 Joh. Emanuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 800 Pierre Fréd., Uhrenmacher, a. Obertramlingen - V, 100. 798 Fr. - (nicht eingeschrieben.) 4 K. - 831 Maria. - 32 Samuel. - 33 Anna. - 34 Joh. Emanuel."
+   },
+   {
+    "line_from": 14,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Peter.",
+    "place": "Bern",
+    "surname": "Peter",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 9",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "9",
+    "origin": "Elsau, K. Zürich",
+    "birth_year": "1787",
+    "household": "793 Fr. - Sus. Maria Frei a. Auenstein. 7 K. - 814 Maria Anna. - 16 Kath. Maria. - 20 Maria Louise. - 22 Anna Magd. Sophie. - 26 Ros. Henriette. - 29 Joh. Heinrich. - 33 Rud. Kaspar.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 787 Heinrich, Schneider, a. Elsau, K. Zürich - IV, 9. 793 Fr. - Sus. Maria Frei a. Auenstein. 7 K. - 814 Maria Anna. - 16 Kath. Maria. - 20 Maria Louise. - 22 Anna Magd. Sophie. - 26 Ros. Henriette. - 29 Joh. Heinrich. - 33 Rud. Kaspar."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Peter.",
+    "place": "Bern",
+    "surname": "Peter",
+    "forename": "Magdalena",
+    "title": "",
+    "occupation": "Kostgeberin",
+    "address": "V, 191",
+    "quarter": "V",
+    "street": "",
+    "house_no": "191",
+    "origin": "Eggiwyl",
+    "birth_year": "1806",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Klosner",
+    "text": "2 806 Magdalena, geb. Klosner, Kostgeberin, a. Eggiwyl - V, 191."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Pfäffli.",
+    "place": "Bern",
+    "surname": "Pfäffli",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Pächter",
+    "address": "I, 128",
+    "quarter": "I",
+    "street": "",
+    "house_no": "128",
+    "origin": "Signau",
+    "birth_year": "1788",
+    "household": "2 K. - 820 Anna. - 25 Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 788 Ulrich, Pächter, a. Signau - I, 128. 2 K. - 820 Anna. - 25 Friedrich."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Pfäfflin.",
+    "place": "Bern",
+    "surname": "Pfäfflin",
+    "forename": "Christ. Ad.",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 39",
+    "quarter": "V",
+    "street": "",
+    "house_no": "39",
+    "origin": "Lustnau in Würtemberg",
+    "birth_year": "1807",
+    "household": "806 Fr. - Elis. Oswald a. Oberhofen.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Christ. Ad., Schuhmacher, a. Lustnau in Würtemberg - V, 39. 806 Fr. - Elis. Oswald a. Oberhofen."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Pfenninger.",
+    "place": "Bern",
+    "surname": "Pfenninger",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 83 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "83 b",
+    "origin": "Hinnwyl, K. Zürich",
+    "birth_year": "1813",
+    "household": "805 Fr. - Ros. Bünzli, verw. Simon, a. Reiben.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Rudolf, Schuhmacher, a. Hinnwyl, K. Zürich - II, 83 b. 805 Fr. - Ros. Bünzli, verw. Simon, a. Reiben."
+   },
+   {
+    "line_from": 32,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Pfister.",
+    "place": "Bern",
+    "surname": "Pfister",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "V, 9",
+    "quarter": "V",
+    "street": "",
+    "house_no": "9",
+    "origin": "Roggwyl",
+    "birth_year": "1800",
+    "household": "801 Fr. - Maria Kath. Neuhaus a. Gals. 8 K. - 823 Joh. Jakob. - 35 Gottlieb. - 37 Anna Elis. - 38 Karl Joh. Jakob. - 40 Jakob Friedrich. - 46 Albert Rudolf. - (2 K. nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 800 Johann, Schlosser, a. Roggwyl - V, 9. 801 Fr. - Maria Kath. Neuhaus a. Gals. 8 K. - 823 Joh. Jakob. - 35 Gottlieb. - 37 Anna Elis. - 38 Karl Joh. Jakob. - 40 Jakob Friedrich. - 46 Albert Rudolf. - (2 K. nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Pfister.",
+    "place": "Bern",
+    "surname": "Pfister",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Hausbesitzer",
+    "address": "II, 2",
+    "quarter": "II",
+    "street": "",
+    "house_no": "2",
+    "origin": "Uetendorf",
+    "birth_year": "",
+    "household": "1 T. - 825 Maria Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 Johann, Hausbesitzer, a. Uetendorf - II, 2. 1 T. - 825 Maria Elis."
+   },
+   {
+    "line_from": 39,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Pfister.",
+    "place": "Bern",
+    "surname": "Pfister",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "V, 36",
+    "quarter": "V",
+    "street": "",
+    "house_no": "36",
+    "origin": "Walliswyl",
+    "birth_year": "1796",
+    "household": "803 Fr. - Maria Lehmann a. Signau. 5 K. - 830 Johann. - 32 Anna Elis. - 33 Maria Elis. - 36 Anna Marg. - 39 Sus. Rosina.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 796 Joh. Ulrich, Schreiber, a. Walliswyl - V, 36. 803 Fr. - Maria Lehmann a. Signau. 5 K. - 830 Johann. - 32 Anna Elis. - 33 Maria Elis. - 36 Anna Marg. - 39 Sus. Rosina."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:08:08+01:00",
+ "last_error": null
+}

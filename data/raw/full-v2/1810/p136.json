@@ -1,0 +1,322 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 136,
+ "section": "canton",
+ "started": "2026-11-11T20:59:54+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 17.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2322,
+  "output": 2538,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"63\",\n  \"running_head\": null,\n  \"lines\": [\n    {\n      \"n\": 1,\n      \"text\": \"63\"\n    },\n    {\n      \"n\": 2,\n      \"text\": \"Probst, Chrétien, Toiles, Fromages.\"\n    },\n    {\n      \"n\": 3,\n      \"text\": \"Rætlisberger, Daniel, Fabrique de Cotonues\"\n    },\n    {\n      \"n\": 4,\n      \"text\": \"et Toiles, Commerce de Fromages et de\"\n    },\n    {\n      \"n\": 5,\n      \"text\": \"Vin.\"\n    },\n    {\n      \"n\": 6,\n      \"text\": \"Wyder, Emanuel, Fabrique de Cotonnes,\"\n    },\n    {\n      \"n\": 7,\n      \"text\": \"Fil, Toiles, Commerce de Vin.\"\n    },\n    {\n      \"n\": 8,\n      \"text\": \"Signau.\"\n    },\n    {\n      \"n\": 9,\n      \"text\": \"Gfeller, Ulric, Etoffes, Mercerie, Epicerie.\"\n    },\n    {\n      \"n\": 10,\n      \"text\": \"Grossenbacher, Samuel, Toiles, Lieteries,\"\n    },\n    {\n      \"n\": 11,\n      \"text\": \"Fromages, Eau de Vie, Vin.\"\n    },\n    {\n      \"n\": 12,\n      \"text\": \"Ræthlisberger, les Héritiers de Chrétien, Toi-\"\n    },\n    {\n      \"n\": 13,\n      \"text\": \"les et Fromages.\"\n    },\n    {\n      \"n\": 14,\n      \"text\": \"Troubschachen.\"\n    },\n    {\n      \"n\": 15,\n      \"text\": \"Maurhofer, les fréres, Filasse de lin et de\"\n    },\n    {\n      \"n\": 16,\n      \"text\": \"chanvre, Toiles, Fromages.\"\n    },\n    {\n      \"n\": 17,\n      \"text\": \"Préfecture du Bas-Simmenthal.\"\n    },\n    {\n      \"n\": 18,\n      \"text\": \"Erlenbach.\"\n    },\n    {\n      \"n\": 19,\n      \"text\": \"Marmet, Chrétien, Epicerie et Droguerie.\"\n    },\n    {\n      \"n\": 20,\n      \"text\": \"Reber, Jean, Cuirs.\"\n    },\n    {\n      \"n\": 21,\n      \"text\": \"Schweingrouber, Chrétien, Fer, Epicerie, Etof-\"\n    },\n    {\n      \"n\": 22,\n      \"text\": \"fes, Mercerie, Verrerie.\"\n    }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"Lauperswyl\",\n      \"place\": \"Lauperswyl\",\n      \"surname\": \"Probst\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Toiles, Fromages\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Probst, Chrétien, Toiles, Fromages.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Lauperswyl\",\n      \"place\": \"Lauperswyl\",\n      \"surname\": \"Rætlisberger\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrique de Cotonues et Toiles, Commerce de Fromages et de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rætlisberger, Daniel, Fabrique de Cotonues et Toiles, Commerce de Fromages et de Vin.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Lauperswyl\",\n      \"place\": \"Lauperswyl\",\n      \"surname\": \"Wyder\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrique de Cotonnes, Fil, Toiles, Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wyder, Emanuel, Fabrique de Cotonnes, Fil, Toiles, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Signau\",\n      \"place\": \"Signau\",\n      \"surname\": \"Gfeller\",\n      \"forename\": \"Ulric\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes, Mercerie, Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gfeller, Ulric, Etoffes, Mercerie, Epicerie.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Signau\",\n      \"place\": \"Signau\",\n      \"surname\": \"Grossenbacher\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Toiles, Lieteries, Fromages, Eau de Vie, Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Grossenbacher, Samuel, Toiles, Lieteries, Fromages, Eau de Vie, Vin.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"firma\",\n      \"heading\": \"Signau\",\n      \"place\": \"Signau\",\n      \"surname\": \"Ræthlisberger\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"les Héritiers de\",\n      \"occupation\": \"Toiles et Fromages\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ræthlisberger, les Héritiers de Chrétien, Toiles et Fromages.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Troubschachen\",\n      \"place\": \"Troubschachen\",\n      \"surname\": \"Maurhofer\",\n      \"forename\": \"\",\n      \"title\": \"les fréres\",\n      \"occupation\": \"Filasse de lin et de chanvre, Toiles, Fromages\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Maurhofer, les fréres, Filasse de lin et de chanvre, Toiles, Fromages.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture du Bas-Simmenthal. Erlenbach\",\n      \"place\": \"Erlenbach\",\n      \"surname\": \"Marmet\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie et Droguerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Marmet, Chrétien, Epicerie et Droguerie.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture du Bas-Simmenthal. Erlenbach\",\n      \"place\": \"Erlenbach\",\n      \"surname\": \"Reber\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Cuirs\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reber, Jean, Cuirs.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture du Bas-Simmenthal. Erlenbach\",\n      \"place\": \"Erlenbach\",\n      \"surname\": \"Schweingrouber\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Fer, Epicerie, Etoffes, Mercerie, Verrerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schweingrouber, Chrétien, Fer, Epicerie, Etoffes, Mercerie, Verrerie.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "63",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "63"
+   },
+   {
+    "n": 2,
+    "text": "Probst, Chrétien, Toiles, Fromages."
+   },
+   {
+    "n": 3,
+    "text": "Rætlisberger, Daniel, Fabrique de Cotonues"
+   },
+   {
+    "n": 4,
+    "text": "et Toiles, Commerce de Fromages et de"
+   },
+   {
+    "n": 5,
+    "text": "Vin."
+   },
+   {
+    "n": 6,
+    "text": "Wyder, Emanuel, Fabrique de Cotonnes,"
+   },
+   {
+    "n": 7,
+    "text": "Fil, Toiles, Commerce de Vin."
+   },
+   {
+    "n": 8,
+    "text": "Signau."
+   },
+   {
+    "n": 9,
+    "text": "Gfeller, Ulric, Etoffes, Mercerie, Epicerie."
+   },
+   {
+    "n": 10,
+    "text": "Grossenbacher, Samuel, Toiles, Lieteries,"
+   },
+   {
+    "n": 11,
+    "text": "Fromages, Eau de Vie, Vin."
+   },
+   {
+    "n": 12,
+    "text": "Ræthlisberger, les Héritiers de Chrétien, Toi-"
+   },
+   {
+    "n": 13,
+    "text": "les et Fromages."
+   },
+   {
+    "n": 14,
+    "text": "Troubschachen."
+   },
+   {
+    "n": 15,
+    "text": "Maurhofer, les fréres, Filasse de lin et de"
+   },
+   {
+    "n": 16,
+    "text": "chanvre, Toiles, Fromages."
+   },
+   {
+    "n": 17,
+    "text": "Préfecture du Bas-Simmenthal."
+   },
+   {
+    "n": 18,
+    "text": "Erlenbach."
+   },
+   {
+    "n": 19,
+    "text": "Marmet, Chrétien, Epicerie et Droguerie."
+   },
+   {
+    "n": 20,
+    "text": "Reber, Jean, Cuirs."
+   },
+   {
+    "n": 21,
+    "text": "Schweingrouber, Chrétien, Fer, Epicerie, Etof-"
+   },
+   {
+    "n": 22,
+    "text": "fes, Mercerie, Verrerie."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "Lauperswyl",
+    "place": "Lauperswyl",
+    "surname": "Probst",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Toiles, Fromages",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Probst, Chrétien, Toiles, Fromages."
+   },
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Lauperswyl",
+    "place": "Lauperswyl",
+    "surname": "Rætlisberger",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Fabrique de Cotonues et Toiles, Commerce de Fromages et de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rætlisberger, Daniel, Fabrique de Cotonues et Toiles, Commerce de Fromages et de Vin."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Lauperswyl",
+    "place": "Lauperswyl",
+    "surname": "Wyder",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "Fabrique de Cotonnes, Fil, Toiles, Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wyder, Emanuel, Fabrique de Cotonnes, Fil, Toiles, Commerce de Vin."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Signau",
+    "place": "Signau",
+    "surname": "Gfeller",
+    "forename": "Ulric",
+    "title": "",
+    "occupation": "Etoffes, Mercerie, Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gfeller, Ulric, Etoffes, Mercerie, Epicerie."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Signau",
+    "place": "Signau",
+    "surname": "Grossenbacher",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Toiles, Lieteries, Fromages, Eau de Vie, Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Grossenbacher, Samuel, Toiles, Lieteries, Fromages, Eau de Vie, Vin."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "firma",
+    "heading": "Signau",
+    "place": "Signau",
+    "surname": "Ræthlisberger",
+    "forename": "Chrétien",
+    "title": "les Héritiers de",
+    "occupation": "Toiles et Fromages",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ræthlisberger, les Héritiers de Chrétien, Toiles et Fromages."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Troubschachen",
+    "place": "Troubschachen",
+    "surname": "Maurhofer",
+    "forename": "",
+    "title": "les fréres",
+    "occupation": "Filasse de lin et de chanvre, Toiles, Fromages",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Maurhofer, les fréres, Filasse de lin et de chanvre, Toiles, Fromages."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Préfecture du Bas-Simmenthal. Erlenbach",
+    "place": "Erlenbach",
+    "surname": "Marmet",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Epicerie et Droguerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Marmet, Chrétien, Epicerie et Droguerie."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Préfecture du Bas-Simmenthal. Erlenbach",
+    "place": "Erlenbach",
+    "surname": "Reber",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Cuirs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reber, Jean, Cuirs."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Préfecture du Bas-Simmenthal. Erlenbach",
+    "place": "Erlenbach",
+    "surname": "Schweingrouber",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Fer, Epicerie, Etoffes, Mercerie, Verrerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schweingrouber, Chrétien, Fer, Epicerie, Etoffes, Mercerie, Verrerie."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:00:12+01:00",
+ "last_error": null
+}

@@ -1,0 +1,458 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 60,
+ "section": "einsassen",
+ "started": "2026-11-11T21:59:24+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 29.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4564,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"47\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 47 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Garraux.\"},\n    {\"n\": 4, \"text\": \"1 777 Maria geb. Scheidegger, a. Malleray, des Schreiners\"},\n    {\"n\": 5, \"text\": \"Wittwe — I, 218.\"},\n    {\"n\": 6, \"text\": \"4 K. — Nr. 2 u. 3. — 814 Joh. Rudolf. — 816 Christ.\"},\n    {\"n\": 7, \"text\": \"Albrecht.\"},\n    {\"n\": 8, \"text\": \"2 804 Joh. Ludwig, S. v. 1, Krämer — V, 131.\"},\n    {\"n\": 9, \"text\": \"798 Fr. — Anna Gfeller a. Bümpliz.\"},\n    {\"n\": 10, \"text\": \"5 S. — 826 Wilh. Ludwig. — 31 Franz Rudolf. — 35\"},\n    {\"n\": 11, \"text\": \"David Chr. Ludwig. — 36 Karl Joh. Jakob. — 39 Alb.\"},\n    {\"n\": 12, \"text\": \"Christian Friedrich.\"},\n    {\"n\": 13, \"text\": \"3 801 Johann Christian, S. v. 1, Schreiner — I, 213.\"},\n    {\"n\": 14, \"text\": \"799 Fr. — Marg. Kath. Berger a. Lauperswyl.\"},\n    {\"n\": 15, \"text\": \"5 K. — 824 Kath. Marg. — 30 Gottlieb Friedrich. —\"},\n    {\"n\": 16, \"text\": \"32 Maria Ros. Kath. — 37 Soph. Elis. — 40 Elis. Marg.\"},\n    {\"n\": 17, \"text\": \"4 816 Gustav, Kutscher, a. Bevilard — V, 77.\"},\n    {\"n\": 18, \"text\": \"Gaschen, a. Treiten.\"},\n    {\"n\": 19, \"text\": \"1 812 Johann Rudolf, Graveur u. Kommissionshändler — II, 153.\"},\n    {\"n\": 20, \"text\": \"Fr. — Anna Elis. Sus. Trabold a. Zollikofen.\"},\n    {\"n\": 21, \"text\": \"1 S. — 840 Johann Rudolf.\"},\n    {\"n\": 22, \"text\": \"2 795 Rudolf, Lohnbedienter — IV, 23.\"},\n    {\"n\": 23, \"text\": \"Gasser.\"},\n    {\"n\": 24, \"text\": \"1 803 Christian, Schreiber, a. Belp — V, 33.\"},\n    {\"n\": 25, \"text\": \"802 Fr. — Magd. Oppliger a. Signau.\"},\n    {\"n\": 26, \"text\": \"3 K. — 831 Joseph. Marie. — 34 Anna Louise. — 40\"},\n    {\"n\": 27, \"text\": \"Rudolf Alfred.\"},\n    {\"n\": 28, \"text\": \"2 805 Joh. Ulrich, Schuhmacher, a. Rüderswyl — IV, 18.\"},\n    {\"n\": 29, \"text\": \"800 Fr. — Sus. Zurbrügg a. Mülinen.\"},\n    {\"n\": 30, \"text\": \"1 T. — 832 Anna Maria.\"},\n    {\"n\": 31, \"text\": \"3 816 Friedrich, Sattler, a. Langnau — II, 127.\"},\n    {\"n\": 32, \"text\": \"Gaßmann.\"},\n    {\"n\": 33, \"text\": \"1 799 Rudolf, Schneider, bern. Landsaß — IV, 21.\"},\n    {\"n\": 34, \"text\": \"802 Fr. — Magd. Bigler a. Worb.\"},\n    {\"n\": 35, \"text\": \"5 K. — 835 Karoline. — 37 Joh. Christ. Rudolf. — 40\"},\n    {\"n\": 36, \"text\": \"Ed. Friedrich. — 45 Joh. Gottlieb. — 46 Ferdinand.\"},\n    {\"n\": 37, \"text\": \"Gast.\"},\n    {\"n\": 38, \"text\": \"1 Franz Rudolf, Schreiber, a. Marnand, K. Waadt — V, 218.\"},\n    {\"n\": 39, \"text\": \"782 Fr. — Joh. Kath. Stürler a. Bern.\"},\n    {\"n\": 40, \"text\": \"5 K. — 810 Henriette, Glätterin. — 14 Franz Rudolf.\"},\n    {\"n\": 41, \"text\": \"— 20 Karl.\"},\n    {\"n\": 42, \"text\": \"Gaudard.\"},\n    {\"n\": 43, \"text\": \"1 810 Joh. Friedrich (früher Krummen), a. Mühleberg, privat.\"},\n    {\"n\": 44, \"text\": \"— VII, 114.\"},\n    {\"n\": 45, \"text\": \"822 Fr. - Emilie Sophie Salchli, a. Lausanne.\"},\n    {\"n\": 46, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Garraux.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Garraux\",\n      \"forename\": \"Maria\",\n      \"title\": \"des Schreiners Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"I, 218\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"218\",\n      \"origin\": \"Malleray\",\n      \"birth_year\": \"1777\",\n      \"household\": \"4 K. — Nr. 2 u. 3. — 814 Joh. Rudolf. — 816 Christ. Albrecht.\",\n      \"note\": \"Name aus Zwischentitel. geb. Scheidegger\",\n      \"text\": \"1 777 Maria geb. Scheidegger, a. Malleray, des Schreiners Wittwe — I, 218. 4 K. — Nr. 2 u. 3. — 814 Joh. Rudolf. — 816 Christ. Albrecht.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Garraux.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Garraux\",\n      \"forename\": \"Joh. Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"V, 131\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"131\",\n      \"origin\": \"\",\n      \"birth_year\": \"1804\",\n      \"household\": \"798 Fr. — Anna Gfeller a. Bümpliz. 5 S. — 826 Wilh. Ludwig. — 31 Franz Rudolf. — 35 David Chr. Ludwig. — 36 Karl Joh. Jakob. — 39 Alb. Christian Friedrich.\",\n      \"note\": \"Name aus Zwischentitel. S. v. 1\",\n      \"text\": \"2 804 Joh. Ludwig, S. v. 1, Krämer — V, 131. 798 Fr. — Anna Gfeller a. Bümpliz. 5 S. — 826 Wilh. Ludwig. — 31 Franz Rudolf. — 35 David Chr. Ludwig. — 36 Karl Joh. Jakob. — 39 Alb. Christian Friedrich.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Garraux.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Garraux\",\n      \"forename\": \"Johann Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"I, 213\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"213\",\n      \"origin\": \"\",\n      \"birth_year\": \"1801\",\n      \"household\": \"799 Fr. — Marg. Kath. Berger a. Lauperswyl. 5 K. — 824 Kath. Marg. — 30 Gottlieb Friedrich. — 32 Maria Ros. Kath. — 37 Soph. Elis. — 40 Elis. Marg.\",\n      \"note\": \"Name aus Zwischentitel. S. v. 1\",\n      \"text\": \"3 801 Johann Christian, S. v. 1, Schreiner — I, 213. 799 Fr. — Marg. Kath. Berger a. Lauperswyl. 5 K. — 824 Kath. Marg. — 30 Gottlieb Friedrich. — 32 Maria Ros. Kath. — 37 Soph. Elis. — 40 Elis. Marg.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Garraux.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Garraux\",\n      \"forename\": \"Gustav\",\n      \"title\": \"\",\n      \"occupation\": \"Kutscher\",\n      \"address\": \"V, 77\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"77\",\n      \"origin\": \"Bevilard\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 816 Gustav, Kutscher, a. Bevilard — V, 77.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Gaschen, a. Treiten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gaschen\",\n      \"forename\": \"Johann Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Graveur u. Kommissionshändler\",\n      \"address\": \"II, 153\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"153\",\n      \"origin\": \"Treiten\",\n      \"birth_year\": \"1812\",\n      \"household\": \"Fr. — Anna Elis. Sus. Trabold a. Zollikofen. 1 S. — 840 Johann Rudolf.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 812 Johann Rudolf, Graveur u. Kommissionshändler — II, 153. Fr. — Anna Elis. Sus. Trabold a. Zollikofen. 1 S. — 840 Johann Rudolf.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Gaschen, a. Treiten.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gaschen\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnbedienter\",\n      \"address\": \"IV, 23\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"23\",\n      \"origin\": \"Treiten\",\n      \"birth_year\": \"1795\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"2 795 Rudolf, Lohnbedienter — IV, 23.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Gasser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gasser\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"V, 33\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"33\",\n      \"origin\": \"Belp\",\n      \"birth_year\": \"1803\",\n      \"household\": \"802 Fr. — Magd. Oppliger a. Signau. 3 K. — 831 Joseph. Marie. — 34 Anna Louise. — 40 Rudolf Alfred.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 Christian, Schreiber, a. Belp — V, 33. 802 Fr. — Magd. Oppliger a. Signau. 3 K. — 831 Joseph. Marie. — 34 Anna Louise. — 40 Rudolf Alfred.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Gasser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gasser\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 18\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"18\",\n      \"origin\": \"Rüderswyl\",\n      \"birth_year\": \"1805\",\n      \"household\": \"800 Fr. — Sus. Zurbrügg a. Mülinen. 1 T. — 832 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 805 Joh. Ulrich, Schuhmacher, a. Rüderswyl — IV, 18. 800 Fr. — Sus. Zurbrügg a. Mülinen. 1 T. — 832 Anna Maria.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Gasser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gasser\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"II, 127\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"127\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 816 Friedrich, Sattler, a. Langnau — II, 127.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Gaßmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gaßmann\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 21\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"21\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1799\",\n      \"household\": \"802 Fr. — Magd. Bigler a. Worb. 5 K. — 835 Karoline. — 37 Joh. Christ. Rudolf. — 40 Ed. Friedrich. — 45 Joh. Gottlieb. — 46 Ferdinand.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Rudolf, Schneider, bern. Landsaß — IV, 21. 802 Fr. — Magd. Bigler a. Worb. 5 K. — 835 Karoline. — 37 Joh. Christ. Rudolf. — 40 Ed. Friedrich. — 45 Joh. Gottlieb. — 46 Ferdinand.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Gast.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gast\",\n      \"forename\": \"Franz Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"V, 218\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"218\",\n      \"origin\": \"Marnand, K. Waadt\",\n      \"birth_year\": \"\",\n      \"household\": \"782 Fr. — Joh. Kath. Stürler a. Bern. 5 K. — 810 Henriette, Glätterin. — 14 Franz Rudolf. — 20 Karl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Franz Rudolf, Schreiber, a. Marnand, K. Waadt — V, 218. 782 Fr. — Joh. Kath. Stürler a. Bern. 5 K. — 810 Henriette, Glätterin. — 14 Franz Rudolf. — 20 Karl.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Gaudard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gaudard\",\n      \"forename\": \"Joh. Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"VII, 114\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"114\",\n      \"origin\": \"Mühleberg\",\n      \"birth_year\": \"1810\",\n      \"household\": \"822 Fr. - Emilie Sophie Salchli, a. Lausanne.\",\n      \"note\": \"Name aus Zwischentitel. (früher Krummen)\",\n      \"text\": \"1 810 Joh. Friedrich (früher Krummen), a. Mühleberg, privat. — VII, 114. 822 Fr. - Emilie Sophie Salchli, a. Lausanne.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "47",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 47 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Garraux."
+   },
+   {
+    "n": 4,
+    "text": "1 777 Maria geb. Scheidegger, a. Malleray, des Schreiners"
+   },
+   {
+    "n": 5,
+    "text": "Wittwe — I, 218."
+   },
+   {
+    "n": 6,
+    "text": "4 K. — Nr. 2 u. 3. — 814 Joh. Rudolf. — 816 Christ."
+   },
+   {
+    "n": 7,
+    "text": "Albrecht."
+   },
+   {
+    "n": 8,
+    "text": "2 804 Joh. Ludwig, S. v. 1, Krämer — V, 131."
+   },
+   {
+    "n": 9,
+    "text": "798 Fr. — Anna Gfeller a. Bümpliz."
+   },
+   {
+    "n": 10,
+    "text": "5 S. — 826 Wilh. Ludwig. — 31 Franz Rudolf. — 35"
+   },
+   {
+    "n": 11,
+    "text": "David Chr. Ludwig. — 36 Karl Joh. Jakob. — 39 Alb."
+   },
+   {
+    "n": 12,
+    "text": "Christian Friedrich."
+   },
+   {
+    "n": 13,
+    "text": "3 801 Johann Christian, S. v. 1, Schreiner — I, 213."
+   },
+   {
+    "n": 14,
+    "text": "799 Fr. — Marg. Kath. Berger a. Lauperswyl."
+   },
+   {
+    "n": 15,
+    "text": "5 K. — 824 Kath. Marg. — 30 Gottlieb Friedrich. —"
+   },
+   {
+    "n": 16,
+    "text": "32 Maria Ros. Kath. — 37 Soph. Elis. — 40 Elis. Marg."
+   },
+   {
+    "n": 17,
+    "text": "4 816 Gustav, Kutscher, a. Bevilard — V, 77."
+   },
+   {
+    "n": 18,
+    "text": "Gaschen, a. Treiten."
+   },
+   {
+    "n": 19,
+    "text": "1 812 Johann Rudolf, Graveur u. Kommissionshändler — II, 153."
+   },
+   {
+    "n": 20,
+    "text": "Fr. — Anna Elis. Sus. Trabold a. Zollikofen."
+   },
+   {
+    "n": 21,
+    "text": "1 S. — 840 Johann Rudolf."
+   },
+   {
+    "n": 22,
+    "text": "2 795 Rudolf, Lohnbedienter — IV, 23."
+   },
+   {
+    "n": 23,
+    "text": "Gasser."
+   },
+   {
+    "n": 24,
+    "text": "1 803 Christian, Schreiber, a. Belp — V, 33."
+   },
+   {
+    "n": 25,
+    "text": "802 Fr. — Magd. Oppliger a. Signau."
+   },
+   {
+    "n": 26,
+    "text": "3 K. — 831 Joseph. Marie. — 34 Anna Louise. — 40"
+   },
+   {
+    "n": 27,
+    "text": "Rudolf Alfred."
+   },
+   {
+    "n": 28,
+    "text": "2 805 Joh. Ulrich, Schuhmacher, a. Rüderswyl — IV, 18."
+   },
+   {
+    "n": 29,
+    "text": "800 Fr. — Sus. Zurbrügg a. Mülinen."
+   },
+   {
+    "n": 30,
+    "text": "1 T. — 832 Anna Maria."
+   },
+   {
+    "n": 31,
+    "text": "3 816 Friedrich, Sattler, a. Langnau — II, 127."
+   },
+   {
+    "n": 32,
+    "text": "Gaßmann."
+   },
+   {
+    "n": 33,
+    "text": "1 799 Rudolf, Schneider, bern. Landsaß — IV, 21."
+   },
+   {
+    "n": 34,
+    "text": "802 Fr. — Magd. Bigler a. Worb."
+   },
+   {
+    "n": 35,
+    "text": "5 K. — 835 Karoline. — 37 Joh. Christ. Rudolf. — 40"
+   },
+   {
+    "n": 36,
+    "text": "Ed. Friedrich. — 45 Joh. Gottlieb. — 46 Ferdinand."
+   },
+   {
+    "n": 37,
+    "text": "Gast."
+   },
+   {
+    "n": 38,
+    "text": "1 Franz Rudolf, Schreiber, a. Marnand, K. Waadt — V, 218."
+   },
+   {
+    "n": 39,
+    "text": "782 Fr. — Joh. Kath. Stürler a. Bern."
+   },
+   {
+    "n": 40,
+    "text": "5 K. — 810 Henriette, Glätterin. — 14 Franz Rudolf."
+   },
+   {
+    "n": 41,
+    "text": "— 20 Karl."
+   },
+   {
+    "n": 42,
+    "text": "Gaudard."
+   },
+   {
+    "n": 43,
+    "text": "1 810 Joh. Friedrich (früher Krummen), a. Mühleberg, privat."
+   },
+   {
+    "n": 44,
+    "text": "— VII, 114."
+   },
+   {
+    "n": 45,
+    "text": "822 Fr. - Emilie Sophie Salchli, a. Lausanne."
+   },
+   {
+    "n": 46,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Garraux.",
+    "place": "Bern",
+    "surname": "Garraux",
+    "forename": "Maria",
+    "title": "des Schreiners Wittwe",
+    "occupation": "",
+    "address": "I, 218",
+    "quarter": "I",
+    "street": "",
+    "house_no": "218",
+    "origin": "Malleray",
+    "birth_year": "1777",
+    "household": "4 K. — Nr. 2 u. 3. — 814 Joh. Rudolf. — 816 Christ. Albrecht.",
+    "note": "Name aus Zwischentitel. geb. Scheidegger",
+    "text": "1 777 Maria geb. Scheidegger, a. Malleray, des Schreiners Wittwe — I, 218. 4 K. — Nr. 2 u. 3. — 814 Joh. Rudolf. — 816 Christ. Albrecht."
+   },
+   {
+    "line_from": 8,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Garraux.",
+    "place": "Bern",
+    "surname": "Garraux",
+    "forename": "Joh. Ludwig",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "V, 131",
+    "quarter": "V",
+    "street": "",
+    "house_no": "131",
+    "origin": "",
+    "birth_year": "1804",
+    "household": "798 Fr. — Anna Gfeller a. Bümpliz. 5 S. — 826 Wilh. Ludwig. — 31 Franz Rudolf. — 35 David Chr. Ludwig. — 36 Karl Joh. Jakob. — 39 Alb. Christian Friedrich.",
+    "note": "Name aus Zwischentitel. S. v. 1",
+    "text": "2 804 Joh. Ludwig, S. v. 1, Krämer — V, 131. 798 Fr. — Anna Gfeller a. Bümpliz. 5 S. — 826 Wilh. Ludwig. — 31 Franz Rudolf. — 35 David Chr. Ludwig. — 36 Karl Joh. Jakob. — 39 Alb. Christian Friedrich."
+   },
+   {
+    "line_from": 13,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Garraux.",
+    "place": "Bern",
+    "surname": "Garraux",
+    "forename": "Johann Christian",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "I, 213",
+    "quarter": "I",
+    "street": "",
+    "house_no": "213",
+    "origin": "",
+    "birth_year": "1801",
+    "household": "799 Fr. — Marg. Kath. Berger a. Lauperswyl. 5 K. — 824 Kath. Marg. — 30 Gottlieb Friedrich. — 32 Maria Ros. Kath. — 37 Soph. Elis. — 40 Elis. Marg.",
+    "note": "Name aus Zwischentitel. S. v. 1",
+    "text": "3 801 Johann Christian, S. v. 1, Schreiner — I, 213. 799 Fr. — Marg. Kath. Berger a. Lauperswyl. 5 K. — 824 Kath. Marg. — 30 Gottlieb Friedrich. — 32 Maria Ros. Kath. — 37 Soph. Elis. — 40 Elis. Marg."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Garraux.",
+    "place": "Bern",
+    "surname": "Garraux",
+    "forename": "Gustav",
+    "title": "",
+    "occupation": "Kutscher",
+    "address": "V, 77",
+    "quarter": "V",
+    "street": "",
+    "house_no": "77",
+    "origin": "Bevilard",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "4 816 Gustav, Kutscher, a. Bevilard — V, 77."
+   },
+   {
+    "line_from": 19,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Gaschen, a. Treiten.",
+    "place": "Bern",
+    "surname": "Gaschen",
+    "forename": "Johann Rudolf",
+    "title": "",
+    "occupation": "Graveur u. Kommissionshändler",
+    "address": "II, 153",
+    "quarter": "II",
+    "street": "",
+    "house_no": "153",
+    "origin": "Treiten",
+    "birth_year": "1812",
+    "household": "Fr. — Anna Elis. Sus. Trabold a. Zollikofen. 1 S. — 840 Johann Rudolf.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 812 Johann Rudolf, Graveur u. Kommissionshändler — II, 153. Fr. — Anna Elis. Sus. Trabold a. Zollikofen. 1 S. — 840 Johann Rudolf."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Gaschen, a. Treiten.",
+    "place": "Bern",
+    "surname": "Gaschen",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Lohnbedienter",
+    "address": "IV, 23",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "23",
+    "origin": "Treiten",
+    "birth_year": "1795",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "2 795 Rudolf, Lohnbedienter — IV, 23."
+   },
+   {
+    "line_from": 24,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Gasser.",
+    "place": "Bern",
+    "surname": "Gasser",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "V, 33",
+    "quarter": "V",
+    "street": "",
+    "house_no": "33",
+    "origin": "Belp",
+    "birth_year": "1803",
+    "household": "802 Fr. — Magd. Oppliger a. Signau. 3 K. — 831 Joseph. Marie. — 34 Anna Louise. — 40 Rudolf Alfred.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 Christian, Schreiber, a. Belp — V, 33. 802 Fr. — Magd. Oppliger a. Signau. 3 K. — 831 Joseph. Marie. — 34 Anna Louise. — 40 Rudolf Alfred."
+   },
+   {
+    "line_from": 28,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Gasser.",
+    "place": "Bern",
+    "surname": "Gasser",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 18",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "18",
+    "origin": "Rüderswyl",
+    "birth_year": "1805",
+    "household": "800 Fr. — Sus. Zurbrügg a. Mülinen. 1 T. — 832 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 805 Joh. Ulrich, Schuhmacher, a. Rüderswyl — IV, 18. 800 Fr. — Sus. Zurbrügg a. Mülinen. 1 T. — 832 Anna Maria."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Gasser.",
+    "place": "Bern",
+    "surname": "Gasser",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "II, 127",
+    "quarter": "II",
+    "street": "",
+    "house_no": "127",
+    "origin": "Langnau",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 816 Friedrich, Sattler, a. Langnau — II, 127."
+   },
+   {
+    "line_from": 33,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Gaßmann.",
+    "place": "Bern",
+    "surname": "Gaßmann",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 21",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "21",
+    "origin": "bern. Landsaß",
+    "birth_year": "1799",
+    "household": "802 Fr. — Magd. Bigler a. Worb. 5 K. — 835 Karoline. — 37 Joh. Christ. Rudolf. — 40 Ed. Friedrich. — 45 Joh. Gottlieb. — 46 Ferdinand.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Rudolf, Schneider, bern. Landsaß — IV, 21. 802 Fr. — Magd. Bigler a. Worb. 5 K. — 835 Karoline. — 37 Joh. Christ. Rudolf. — 40 Ed. Friedrich. — 45 Joh. Gottlieb. — 46 Ferdinand."
+   },
+   {
+    "line_from": 38,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Gast.",
+    "place": "Bern",
+    "surname": "Gast",
+    "forename": "Franz Rudolf",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "V, 218",
+    "quarter": "V",
+    "street": "",
+    "house_no": "218",
+    "origin": "Marnand, K. Waadt",
+    "birth_year": "",
+    "household": "782 Fr. — Joh. Kath. Stürler a. Bern. 5 K. — 810 Henriette, Glätterin. — 14 Franz Rudolf. — 20 Karl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Franz Rudolf, Schreiber, a. Marnand, K. Waadt — V, 218. 782 Fr. — Joh. Kath. Stürler a. Bern. 5 K. — 810 Henriette, Glätterin. — 14 Franz Rudolf. — 20 Karl."
+   },
+   {
+    "line_from": 43,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Gaudard.",
+    "place": "Bern",
+    "surname": "Gaudard",
+    "forename": "Joh. Friedrich",
+    "title": "",
+    "occupation": "privat.",
+    "address": "VII, 114",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "114",
+    "origin": "Mühleberg",
+    "birth_year": "1810",
+    "household": "822 Fr. - Emilie Sophie Salchli, a. Lausanne.",
+    "note": "Name aus Zwischentitel. (früher Krummen)",
+    "text": "1 810 Joh. Friedrich (früher Krummen), a. Mühleberg, privat. — VII, 114. 822 Fr. - Emilie Sophie Salchli, a. Lausanne."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:59:53+01:00",
+ "last_error": null
+}

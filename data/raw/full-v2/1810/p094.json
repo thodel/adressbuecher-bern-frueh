@@ -1,0 +1,422 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 94,
+ "section": "ville",
+ "started": "2026-11-11T20:55:37+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 53.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2300,
+  "output": 3292,
+  "thoughts": 4761
+ },
+ "response_text": "{\n  \"printed_page\": \"21\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"21\"},\n    {\"n\": 2, \"text\": \"e) Epic. en détail.\"},\n    {\"n\": 3, \"text\": \"Benteli, les fils. … Q. r. 137.\"},\n    {\"n\": 4, \"text\": \"Berchtold, Rod. … — v. 164.\"},\n    {\"n\": 5, \"text\": \"Fischer de Gessenay. … — v. 258.\"},\n    {\"n\": 6, \"text\": \"Gaudard, Fréd. … — j. 88.\"},\n    {\"n\": 7, \"text\": \"Kœnig, Jaques. … — v. 180.\"},\n    {\"n\": 8, \"text\": \"Messerli, Chrétien. … — r. 141.\"},\n    {\"n\": 9, \"text\": \"Rosselet, Fréd. l'aîné. … — r. 176.\"},\n    {\"n\": 10, \"text\": \"Rosselet, Charles, cadet. … — j. 66.\"},\n    {\"n\": 11, \"text\": \"Sprüngli, Rod. … — v. 162.\"},\n    {\"n\": 12, \"text\": \"Urech, Louis, Dépôt de Tabac. … — j. 89.\"},\n    {\"n\": 13, \"text\": \"Wagner, Jaques Em. … — bl. 1.\"},\n    {\"n\": 14, \"text\": \"Wannaz, père. … — v. 171.\"},\n    {\"n\": 15, \"text\": \"Epingliers , voyez aiguillers.\"},\n    {\"n\": 16, \"text\": \"Estampes , Tableaux et Cartes\"},\n    {\"n\": 17, \"text\": \"géographiques.\"},\n    {\"n\": 18, \"text\": \"Bourgdorfer , J. J., Libraire , Mar-\"},\n    {\"n\": 19, \"text\": \"chand d'éstampes et de cartes\"},\n    {\"n\": 20, \"text\": \"géographiques. … Q. v. 52.\"},\n    {\"n\": 21, \"text\": \"Tessaro , P. F., Marchand d'éstam-\"},\n    {\"n\": 22, \"text\": \"pes et de cartes géographiques. — v. 176.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"firma\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Benteli\",\n      \"forename\": \"\",\n      \"title\": \"les fils\",\n      \"occupation\": \"\",\n      \"address\": \"Q. r. 137.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"137\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Benteli, les fils. Q. r. 137.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Berchtold\",\n      \"forename\": \"Rod.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 164.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"164\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Berchtold, Rod. — v. 164.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fischer de Gessenay\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 258.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"258\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fischer de Gessenay. — v. 258.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gaudard\",\n      \"forename\": \"Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— j. 88.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"88\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gaudard, Fréd. — j. 88.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kœnig\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 180.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"180\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kœnig, Jaques. — v. 180.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Messerli\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 141.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"141\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Messerli, Chrétien. — r. 141.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rosselet\",\n      \"forename\": \"Fréd.\",\n      \"title\": \"l'aîné\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 176.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"176\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rosselet, Fréd. l'aîné. — r. 176.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rosselet\",\n      \"forename\": \"Charles\",\n      \"title\": \"cadet\",\n      \"occupation\": \"\",\n      \"address\": \"— j. 66.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"66\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rosselet, Charles, cadet. — j. 66.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sprüngli\",\n      \"forename\": \"Rod.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 162.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"162\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sprüngli, Rod. — v. 162.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Urech\",\n      \"forename\": \"Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Dépôt de Tabac\",\n      \"address\": \"— j. 89.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"89\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Urech, Louis, Dépôt de Tabac. — j. 89.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wagner\",\n      \"forename\": \"Jaques Em.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— bl. 1.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"1\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wagner, Jaques Em. — bl. 1.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Epic. en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wannaz\",\n      \"forename\": \"\",\n      \"title\": \"père\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 171.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"171\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wannaz, père. — v. 171.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"verweis\",\n      \"heading\": \"Epingliers\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Epingliers , voyez aiguillers.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Estampes , Tableaux et Cartes géographiques.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bourgdorfer\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"Libraire , Marchand d'éstampes et de cartes géographiques\",\n      \"address\": \"Q. v. 52.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"52\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bourgdorfer , J. J., Libraire , Marchand d'éstampes et de cartes géographiques. Q. v. 52.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Estampes , Tableaux et Cartes géographiques.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tessaro\",\n      \"forename\": \"P. F.\",\n      \"title\": \"\",\n      \"occupation\": \"Marchand d'éstampes et de cartes géographiques\",\n      \"address\": \"— v. 176.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"176\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tessaro , P. F., Marchand d'éstampes et de cartes géographiques. — v. 176.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "21",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "21"
+   },
+   {
+    "n": 2,
+    "text": "e) Epic. en détail."
+   },
+   {
+    "n": 3,
+    "text": "Benteli, les fils. … Q. r. 137."
+   },
+   {
+    "n": 4,
+    "text": "Berchtold, Rod. … — v. 164."
+   },
+   {
+    "n": 5,
+    "text": "Fischer de Gessenay. … — v. 258."
+   },
+   {
+    "n": 6,
+    "text": "Gaudard, Fréd. … — j. 88."
+   },
+   {
+    "n": 7,
+    "text": "Kœnig, Jaques. … — v. 180."
+   },
+   {
+    "n": 8,
+    "text": "Messerli, Chrétien. … — r. 141."
+   },
+   {
+    "n": 9,
+    "text": "Rosselet, Fréd. l'aîné. … — r. 176."
+   },
+   {
+    "n": 10,
+    "text": "Rosselet, Charles, cadet. … — j. 66."
+   },
+   {
+    "n": 11,
+    "text": "Sprüngli, Rod. … — v. 162."
+   },
+   {
+    "n": 12,
+    "text": "Urech, Louis, Dépôt de Tabac. … — j. 89."
+   },
+   {
+    "n": 13,
+    "text": "Wagner, Jaques Em. … — bl. 1."
+   },
+   {
+    "n": 14,
+    "text": "Wannaz, père. … — v. 171."
+   },
+   {
+    "n": 15,
+    "text": "Epingliers , voyez aiguillers."
+   },
+   {
+    "n": 16,
+    "text": "Estampes , Tableaux et Cartes"
+   },
+   {
+    "n": 17,
+    "text": "géographiques."
+   },
+   {
+    "n": 18,
+    "text": "Bourgdorfer , J. J., Libraire , Mar-"
+   },
+   {
+    "n": 19,
+    "text": "chand d'éstampes et de cartes"
+   },
+   {
+    "n": 20,
+    "text": "géographiques. … Q. v. 52."
+   },
+   {
+    "n": 21,
+    "text": "Tessaro , P. F., Marchand d'éstam-"
+   },
+   {
+    "n": 22,
+    "text": "pes et de cartes géographiques. — v. 176."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "firma",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Benteli",
+    "forename": "",
+    "title": "les fils",
+    "occupation": "",
+    "address": "Q. r. 137.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "137",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Benteli, les fils. Q. r. 137."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Berchtold",
+    "forename": "Rod.",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 164.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "164",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Berchtold, Rod. — v. 164."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Fischer de Gessenay",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 258.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "258",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fischer de Gessenay. — v. 258."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Gaudard",
+    "forename": "Fréd.",
+    "title": "",
+    "occupation": "",
+    "address": "— j. 88.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "88",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gaudard, Fréd. — j. 88."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Kœnig",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 180.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "180",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kœnig, Jaques. — v. 180."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Messerli",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 141.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "141",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Messerli, Chrétien. — r. 141."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Rosselet",
+    "forename": "Fréd.",
+    "title": "l'aîné",
+    "occupation": "",
+    "address": "— r. 176.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "176",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rosselet, Fréd. l'aîné. — r. 176."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Rosselet",
+    "forename": "Charles",
+    "title": "cadet",
+    "occupation": "",
+    "address": "— j. 66.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "66",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rosselet, Charles, cadet. — j. 66."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Sprüngli",
+    "forename": "Rod.",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 162.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "162",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sprüngli, Rod. — v. 162."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Urech",
+    "forename": "Louis",
+    "title": "",
+    "occupation": "Dépôt de Tabac",
+    "address": "— j. 89.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "89",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Urech, Louis, Dépôt de Tabac. — j. 89."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Wagner",
+    "forename": "Jaques Em.",
+    "title": "",
+    "occupation": "",
+    "address": "— bl. 1.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "1",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wagner, Jaques Em. — bl. 1."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Epic. en détail.",
+    "place": "Bern",
+    "surname": "Wannaz",
+    "forename": "",
+    "title": "père",
+    "occupation": "",
+    "address": "— v. 171.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "171",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wannaz, père. — v. 171."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "verweis",
+    "heading": "Epingliers",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Epingliers , voyez aiguillers."
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Estampes , Tableaux et Cartes géographiques.",
+    "place": "Bern",
+    "surname": "Bourgdorfer",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "Libraire , Marchand d'éstampes et de cartes géographiques",
+    "address": "Q. v. 52.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "52",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bourgdorfer , J. J., Libraire , Marchand d'éstampes et de cartes géographiques. Q. v. 52."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Estampes , Tableaux et Cartes géographiques.",
+    "place": "Bern",
+    "surname": "Tessaro",
+    "forename": "P. F.",
+    "title": "",
+    "occupation": "Marchand d'éstampes et de cartes géographiques",
+    "address": "— v. 176.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "176",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tessaro , P. F., Marchand d'éstampes et de cartes géographiques. — v. 176."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:56:31+01:00",
+ "last_error": null
+}

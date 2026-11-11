@@ -1,0 +1,390 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 129,
+ "section": "canton",
+ "started": "2026-11-11T20:59:27+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 33.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2305,
+  "output": 2882,
+  "thoughts": 2221
+ },
+ "response_text": "{\n  \"printed_page\": \"56\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"56\"},\n    {\"n\": 2, \"text\": \"Wenge.\"},\n    {\"n\": 3, \"text\": \"Zourbrougg, Jean, Etoffes de l'Oberland.\"},\n    {\"n\": 4, \"text\": \"In Winklen.\"},\n    {\"n\": 5, \"text\": \"Teuscher, Rodolphe, Etoffes de l'Oberland.\"},\n    {\"n\": 6, \"text\": \"Préfecture de Géssenay.\"},\n    {\"n\": 7, \"text\": \"Gessenay.\"},\n    {\"n\": 8, \"text\": \"Brand, Jaques, Tanneur, Draperie et Quin-\"},\n    {\"n\": 9, \"text\": \"caillerie.\"},\n    {\"n\": 10, \"text\": \"Gruningen, de, Chrétien, Draperie, Duvet,\"},\n    {\"n\": 11, \"text\": \"Quincaillerie.\"},\n    {\"n\": 12, \"text\": \"Haldy, Jean, Quincaillerie.\"},\n    {\"n\": 13, \"text\": \"Houzli, Guillaume, au G'stad, Chamoiseur.\"},\n    {\"n\": 14, \"text\": \"Kohli, Chrétien, Notaire au G'stad, Cuirs,\"},\n    {\"n\": 15, \"text\": \"Draperie, Quincaillerie.\"},\n    {\"n\": 16, \"text\": \"Linder, Pièrre, Teinturier.\"},\n    {\"n\": 17, \"text\": \"Matty, Emanuel, Cuirs.\"},\n    {\"n\": 18, \"text\": \"Reichenbach, Charles, au G'stad, Draperie,\"},\n    {\"n\": 19, \"text\": \"Quincaillerie.\"},\n    {\"n\": 20, \"text\": \"Stouder, Jean, Teinturier.\"},\n    {\"n\": 21, \"text\": \"Währen, Jaques, Distillateur d'Eau de Gen-\"},\n    {\"n\": 22, \"text\": \"tiane.\"},\n    {\"n\": 23, \"text\": \"Weiss, Chrétien, Quincaillerie, Cuirs, Eau\"},\n    {\"n\": 24, \"text\": \"de Gentiane.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Wenge\",\n      \"place\": \"Wenge\",\n      \"surname\": \"Zourbrougg\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes de l'Oberland\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zourbrougg, Jean, Etoffes de l'Oberland.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"In Winklen\",\n      \"place\": \"In Winklen\",\n      \"surname\": \"Teuscher\",\n      \"forename\": \"Rodolphe\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes de l'Oberland\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Teuscher, Rodolphe, Etoffes de l'Oberland.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Brand\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Tanneur, Draperie et Quincaillerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brand, Jaques, Tanneur, Draperie et Quincaillerie.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Gruningen, de\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Draperie, Duvet, Quincaillerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gruningen, de, Chrétien, Draperie, Duvet, Quincaillerie.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Haldy\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Quincaillerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haldy, Jean, Quincaillerie.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Houzli\",\n      \"forename\": \"Guillaume\",\n      \"title\": \"\",\n      \"occupation\": \"Chamoiseur\",\n      \"address\": \"au G'stad\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Houzli, Guillaume, au G'stad, Chamoiseur.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Kohli\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Notaire, Cuirs, Draperie, Quincaillerie\",\n      \"address\": \"au G'stad\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kohli, Chrétien, Notaire au G'stad, Cuirs, Draperie, Quincaillerie.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Linder\",\n      \"forename\": \"Pièrre\",\n      \"title\": \"\",\n      \"occupation\": \"Teinturier\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Linder, Pièrre, Teinturier.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Matty\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Cuirs\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Matty, Emanuel, Cuirs.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Reichenbach\",\n      \"forename\": \"Charles\",\n      \"title\": \"\",\n      \"occupation\": \"Draperie, Quincaillerie\",\n      \"address\": \"au G'stad\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reichenbach, Charles, au G'stad, Draperie, Quincaillerie.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Stouder\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Teinturier\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stouder, Jean, Teinturier.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Währen\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Distillateur d'Eau de Gentiane\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Währen, Jaques, Distillateur d'Eau de Gentiane.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Géssenay. Gessenay\",\n      \"place\": \"Gessenay\",\n      \"surname\": \"Weiss\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Quincaillerie, Cuirs, Eau de Gentiane\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Weiss, Chrétien, Quincaillerie, Cuirs, Eau de Gentiane.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "56",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "56"
+   },
+   {
+    "n": 2,
+    "text": "Wenge."
+   },
+   {
+    "n": 3,
+    "text": "Zourbrougg, Jean, Etoffes de l'Oberland."
+   },
+   {
+    "n": 4,
+    "text": "In Winklen."
+   },
+   {
+    "n": 5,
+    "text": "Teuscher, Rodolphe, Etoffes de l'Oberland."
+   },
+   {
+    "n": 6,
+    "text": "Préfecture de Géssenay."
+   },
+   {
+    "n": 7,
+    "text": "Gessenay."
+   },
+   {
+    "n": 8,
+    "text": "Brand, Jaques, Tanneur, Draperie et Quin-"
+   },
+   {
+    "n": 9,
+    "text": "caillerie."
+   },
+   {
+    "n": 10,
+    "text": "Gruningen, de, Chrétien, Draperie, Duvet,"
+   },
+   {
+    "n": 11,
+    "text": "Quincaillerie."
+   },
+   {
+    "n": 12,
+    "text": "Haldy, Jean, Quincaillerie."
+   },
+   {
+    "n": 13,
+    "text": "Houzli, Guillaume, au G'stad, Chamoiseur."
+   },
+   {
+    "n": 14,
+    "text": "Kohli, Chrétien, Notaire au G'stad, Cuirs,"
+   },
+   {
+    "n": 15,
+    "text": "Draperie, Quincaillerie."
+   },
+   {
+    "n": 16,
+    "text": "Linder, Pièrre, Teinturier."
+   },
+   {
+    "n": 17,
+    "text": "Matty, Emanuel, Cuirs."
+   },
+   {
+    "n": 18,
+    "text": "Reichenbach, Charles, au G'stad, Draperie,"
+   },
+   {
+    "n": 19,
+    "text": "Quincaillerie."
+   },
+   {
+    "n": 20,
+    "text": "Stouder, Jean, Teinturier."
+   },
+   {
+    "n": 21,
+    "text": "Währen, Jaques, Distillateur d'Eau de Gen-"
+   },
+   {
+    "n": 22,
+    "text": "tiane."
+   },
+   {
+    "n": 23,
+    "text": "Weiss, Chrétien, Quincaillerie, Cuirs, Eau"
+   },
+   {
+    "n": 24,
+    "text": "de Gentiane."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Wenge",
+    "place": "Wenge",
+    "surname": "Zourbrougg",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Etoffes de l'Oberland",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zourbrougg, Jean, Etoffes de l'Oberland."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "In Winklen",
+    "place": "In Winklen",
+    "surname": "Teuscher",
+    "forename": "Rodolphe",
+    "title": "",
+    "occupation": "Etoffes de l'Oberland",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Teuscher, Rodolphe, Etoffes de l'Oberland."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Brand",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "Tanneur, Draperie et Quincaillerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brand, Jaques, Tanneur, Draperie et Quincaillerie."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Gruningen, de",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Draperie, Duvet, Quincaillerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gruningen, de, Chrétien, Draperie, Duvet, Quincaillerie."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Haldy",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Quincaillerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haldy, Jean, Quincaillerie."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Houzli",
+    "forename": "Guillaume",
+    "title": "",
+    "occupation": "Chamoiseur",
+    "address": "au G'stad",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Houzli, Guillaume, au G'stad, Chamoiseur."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Kohli",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Notaire, Cuirs, Draperie, Quincaillerie",
+    "address": "au G'stad",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kohli, Chrétien, Notaire au G'stad, Cuirs, Draperie, Quincaillerie."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Linder",
+    "forename": "Pièrre",
+    "title": "",
+    "occupation": "Teinturier",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Linder, Pièrre, Teinturier."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Matty",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "Cuirs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Matty, Emanuel, Cuirs."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Reichenbach",
+    "forename": "Charles",
+    "title": "",
+    "occupation": "Draperie, Quincaillerie",
+    "address": "au G'stad",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reichenbach, Charles, au G'stad, Draperie, Quincaillerie."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Stouder",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Teinturier",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stouder, Jean, Teinturier."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Währen",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "Distillateur d'Eau de Gentiane",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Währen, Jaques, Distillateur d'Eau de Gentiane."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Préfecture de Géssenay. Gessenay",
+    "place": "Gessenay",
+    "surname": "Weiss",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Quincaillerie, Cuirs, Eau de Gentiane",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Weiss, Chrétien, Quincaillerie, Cuirs, Eau de Gentiane."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:00:01+01:00",
+ "last_error": null
+}

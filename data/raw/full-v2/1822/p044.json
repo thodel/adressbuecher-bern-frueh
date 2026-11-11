@@ -1,0 +1,522 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 44,
+ "section": "berufe",
+ "started": "2026-11-11T21:04:39+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 38.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2214,
+  "output": 3647,
+  "thoughts": 2403
+ },
+ "response_text": "{\n  \"printed_page\": \"36\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"36\"},\n    {\"n\": 2, \"text\": \"Gürtler und Schwerdtfeger.\"},\n    {\"n\": 3, \"text\": \"Nro.\"},\n    {\"n\": 4, \"text\": \"Brügger, Samuel, Kramgaße … 184\"},\n    {\"n\": 5, \"text\": \"Reinhard, Alexander, Bollwerk … 79\"},\n    {\"n\": 6, \"text\": \"Schönauer, Rudolf, Bollwerk … 83\"},\n    {\"n\": 7, \"text\": \"Hafner.\"},\n    {\"n\": 8, \"text\": \"Fetscherin, Albrecht, Aarberggaße … 68\"},\n    {\"n\": 9, \"text\": \"Jenner, Wittwe, Matten … 127\"},\n    {\"n\": 10, \"text\": \"Lager, Aarberggaße … 41\"},\n    {\"n\": 11, \"text\": \"Sybold, Ludw., hinter den Speichern … 5\"},\n    {\"n\": 12, \"text\": \"Wäber, Friedrich, Bollwerk … 78\"},\n    {\"n\": 13, \"text\": \"Haftenmacher oder Nadler.\"},\n    {\"n\": 14, \"text\": \"Brunner, Friedrich, Marktgaße … 78\"},\n    {\"n\": 15, \"text\": \"Golde, Neuengaße … 106\"},\n    {\"n\": 16, \"text\": \"Handschuhmacher.\"},\n    {\"n\": 17, \"text\": \"Frey, Samuel, Kramgaße … 222\"},\n    {\"n\": 18, \"text\": \"Hufschmiede.\"},\n    {\"n\": 19, \"text\": \"Bichsel, Stalden … 219\"},\n    {\"n\": 20, \"text\": \"Fawer, A., (im Thierspital), Neuengaße … 93\"},\n    {\"n\": 21, \"text\": \"Kurz, Spitalgaße … 173\"},\n    {\"n\": 22, \"text\": \"Mader, Kesichgäßlein … 110\"},\n    {\"n\": 23, \"text\": \"Nöthinger, Jakob, Stalden … 11\"},\n    {\"n\": 24, \"text\": \"Schmid, Johann, Kesichgäßlein … 21\"},\n    {\"n\": 25, \"text\": \"Hutmacher.\"},\n    {\"n\": 26, \"text\": \"Dübi und Schwendimann, Spitalgaße … 138\"},\n    {\"n\": 27, \"text\": \"Heim, Alexander, Spitalgaße … 176\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4, \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Gürtler und Schwerdtfeger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brügger\", \"forename\": \"Samuel\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Kramgaße 184\", \"quarter\": \"\", \"street\": \"Kramgaße\", \"house_no\": \"184\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Brügger, Samuel, Kramgaße 184\"\n    },\n    {\n      \"line_from\": 5, \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Gürtler und Schwerdtfeger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Reinhard\", \"forename\": \"Alexander\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Bollwerk 79\", \"quarter\": \"\", \"street\": \"Bollwerk\", \"house_no\": \"79\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Reinhard, Alexander, Bollwerk 79\"\n    },\n    {\n      \"line_from\": 6, \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Gürtler und Schwerdtfeger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schönauer\", \"forename\": \"Rudolf\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Bollwerk 83\", \"quarter\": \"\", \"street\": \"Bollwerk\", \"house_no\": \"83\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Schönauer, Rudolf, Bollwerk 83\"\n    },\n    {\n      \"line_from\": 8, \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Hafner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fetscherin\", \"forename\": \"Albrecht\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Aarberggaße 68\", \"quarter\": \"\", \"street\": \"Aarberggaße\", \"house_no\": \"68\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Fetscherin, Albrecht, Aarberggaße 68\"\n    },\n    {\n      \"line_from\": 9, \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Hafner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jenner\", \"forename\": \"\", \"title\": \"Wittwe\",\n      \"occupation\": \"\", \"address\": \"Matten 127\", \"quarter\": \"\", \"street\": \"Matten\", \"house_no\": \"127\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Jenner, Wittwe, Matten 127\"\n    },\n    {\n      \"line_from\": 10, \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Hafner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lager\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Aarberggaße 41\", \"quarter\": \"\", \"street\": \"Aarberggaße\", \"house_no\": \"41\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Lager, Aarberggaße 41\"\n    },\n    {\n      \"line_from\": 11, \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Hafner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sybold\", \"forename\": \"Ludw.\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"hinter den Speichern 5\", \"quarter\": \"\", \"street\": \"hinter den Speichern\", \"house_no\": \"5\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Sybold, Ludw., hinter den Speichern 5\"\n    },\n    {\n      \"line_from\": 12, \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Hafner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wäber\", \"forename\": \"Friedrich\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Bollwerk 78\", \"quarter\": \"\", \"street\": \"Bollwerk\", \"house_no\": \"78\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Wäber, Friedrich, Bollwerk 78\"\n    },\n    {\n      \"line_from\": 14, \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Haftenmacher oder Nadler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunner\", \"forename\": \"Friedrich\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Marktgaße 78\", \"quarter\": \"\", \"street\": \"Marktgaße\", \"house_no\": \"78\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Brunner, Friedrich, Marktgaße 78\"\n    },\n    {\n      \"line_from\": 15, \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Haftenmacher oder Nadler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Golde\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Neuengaße 106\", \"quarter\": \"\", \"street\": \"Neuengaße\", \"house_no\": \"106\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Golde, Neuengaße 106\"\n    },\n    {\n      \"line_from\": 17, \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Handschuhmacher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frey\", \"forename\": \"Samuel\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Kramgaße 222\", \"quarter\": \"\", \"street\": \"Kramgaße\", \"house_no\": \"222\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Frey, Samuel, Kramgaße 222\"\n    },\n    {\n      \"line_from\": 19, \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Hufschmiede.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bichsel\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Stalden 219\", \"quarter\": \"\", \"street\": \"Stalden\", \"house_no\": \"219\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Bichsel, Stalden 219\"\n    },\n    {\n      \"line_from\": 20, \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Hufschmiede.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fawer\", \"forename\": \"A.\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"(im Thierspital), Neuengaße 93\", \"quarter\": \"\", \"street\": \"Neuengaße\", \"house_no\": \"93\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"im Thierspital\",\n      \"text\": \"Fawer, A., (im Thierspital), Neuengaße 93\"\n    },\n    {\n      \"line_from\": 21, \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Hufschmiede.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kurz\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Spitalgaße 173\", \"quarter\": \"\", \"street\": \"Spitalgaße\", \"house_no\": \"173\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Kurz, Spitalgaße 173\"\n    },\n    {\n      \"line_from\": 22, \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Hufschmiede.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mader\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Kesichgäßlein 110\", \"quarter\": \"\", \"street\": \"Kesichgäßlein\", \"house_no\": \"110\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Mader, Kesichgäßlein 110\"\n    },\n    {\n      \"line_from\": 23, \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Hufschmiede.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nöthinger\", \"forename\": \"Jakob\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Stalden 11\", \"quarter\": \"\", \"street\": \"Stalden\", \"house_no\": \"11\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Nöthinger, Jakob, Stalden 11\"\n    },\n    {\n      \"line_from\": 24, \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Hufschmiede.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmid\", \"forename\": \"Johann\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Kesichgäßlein 21\", \"quarter\": \"\", \"street\": \"Kesichgäßlein\", \"house_no\": \"21\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Schmid, Johann, Kesichgäßlein 21\"\n    },\n    {\n      \"line_from\": 26, \"line_to\": 26,\n      \"kind\": \"firma\",\n      \"heading\": \"Hutmacher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi und Schwendimann\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Spitalgaße 138\", \"quarter\": \"\", \"street\": \"Spitalgaße\", \"house_no\": \"138\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Dübi und Schwendimann, Spitalgaße 138\"\n    },\n    {\n      \"line_from\": 27, \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Hutmacher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heim\", \"forename\": \"Alexander\", \"title\": \"\",\n      \"occupation\": \"\", \"address\": \"Spitalgaße 176\", \"quarter\": \"\", \"street\": \"Spitalgaße\", \"house_no\": \"176\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Heim, Alexander, Spitalgaße 176\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "36",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "36"
+   },
+   {
+    "n": 2,
+    "text": "Gürtler und Schwerdtfeger."
+   },
+   {
+    "n": 3,
+    "text": "Nro."
+   },
+   {
+    "n": 4,
+    "text": "Brügger, Samuel, Kramgaße … 184"
+   },
+   {
+    "n": 5,
+    "text": "Reinhard, Alexander, Bollwerk … 79"
+   },
+   {
+    "n": 6,
+    "text": "Schönauer, Rudolf, Bollwerk … 83"
+   },
+   {
+    "n": 7,
+    "text": "Hafner."
+   },
+   {
+    "n": 8,
+    "text": "Fetscherin, Albrecht, Aarberggaße … 68"
+   },
+   {
+    "n": 9,
+    "text": "Jenner, Wittwe, Matten … 127"
+   },
+   {
+    "n": 10,
+    "text": "Lager, Aarberggaße … 41"
+   },
+   {
+    "n": 11,
+    "text": "Sybold, Ludw., hinter den Speichern … 5"
+   },
+   {
+    "n": 12,
+    "text": "Wäber, Friedrich, Bollwerk … 78"
+   },
+   {
+    "n": 13,
+    "text": "Haftenmacher oder Nadler."
+   },
+   {
+    "n": 14,
+    "text": "Brunner, Friedrich, Marktgaße … 78"
+   },
+   {
+    "n": 15,
+    "text": "Golde, Neuengaße … 106"
+   },
+   {
+    "n": 16,
+    "text": "Handschuhmacher."
+   },
+   {
+    "n": 17,
+    "text": "Frey, Samuel, Kramgaße … 222"
+   },
+   {
+    "n": 18,
+    "text": "Hufschmiede."
+   },
+   {
+    "n": 19,
+    "text": "Bichsel, Stalden … 219"
+   },
+   {
+    "n": 20,
+    "text": "Fawer, A., (im Thierspital), Neuengaße … 93"
+   },
+   {
+    "n": 21,
+    "text": "Kurz, Spitalgaße … 173"
+   },
+   {
+    "n": 22,
+    "text": "Mader, Kesichgäßlein … 110"
+   },
+   {
+    "n": 23,
+    "text": "Nöthinger, Jakob, Stalden … 11"
+   },
+   {
+    "n": 24,
+    "text": "Schmid, Johann, Kesichgäßlein … 21"
+   },
+   {
+    "n": 25,
+    "text": "Hutmacher."
+   },
+   {
+    "n": 26,
+    "text": "Dübi und Schwendimann, Spitalgaße … 138"
+   },
+   {
+    "n": 27,
+    "text": "Heim, Alexander, Spitalgaße … 176"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Gürtler und Schwerdtfeger.",
+    "place": "Bern",
+    "surname": "Brügger",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 184",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "184",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brügger, Samuel, Kramgaße 184"
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Gürtler und Schwerdtfeger.",
+    "place": "Bern",
+    "surname": "Reinhard",
+    "forename": "Alexander",
+    "title": "",
+    "occupation": "",
+    "address": "Bollwerk 79",
+    "quarter": "",
+    "street": "Bollwerk",
+    "house_no": "79",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reinhard, Alexander, Bollwerk 79"
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Gürtler und Schwerdtfeger.",
+    "place": "Bern",
+    "surname": "Schönauer",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "",
+    "address": "Bollwerk 83",
+    "quarter": "",
+    "street": "Bollwerk",
+    "house_no": "83",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schönauer, Rudolf, Bollwerk 83"
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Hafner.",
+    "place": "Bern",
+    "surname": "Fetscherin",
+    "forename": "Albrecht",
+    "title": "",
+    "occupation": "",
+    "address": "Aarberggaße 68",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "68",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fetscherin, Albrecht, Aarberggaße 68"
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Hafner.",
+    "place": "Bern",
+    "surname": "Jenner",
+    "forename": "",
+    "title": "Wittwe",
+    "occupation": "",
+    "address": "Matten 127",
+    "quarter": "",
+    "street": "Matten",
+    "house_no": "127",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jenner, Wittwe, Matten 127"
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Hafner.",
+    "place": "Bern",
+    "surname": "Lager",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Aarberggaße 41",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "41",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lager, Aarberggaße 41"
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Hafner.",
+    "place": "Bern",
+    "surname": "Sybold",
+    "forename": "Ludw.",
+    "title": "",
+    "occupation": "",
+    "address": "hinter den Speichern 5",
+    "quarter": "",
+    "street": "hinter den Speichern",
+    "house_no": "5",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sybold, Ludw., hinter den Speichern 5"
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Hafner.",
+    "place": "Bern",
+    "surname": "Wäber",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "",
+    "address": "Bollwerk 78",
+    "quarter": "",
+    "street": "Bollwerk",
+    "house_no": "78",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wäber, Friedrich, Bollwerk 78"
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Haftenmacher oder Nadler.",
+    "place": "Bern",
+    "surname": "Brunner",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 78",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "78",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brunner, Friedrich, Marktgaße 78"
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Haftenmacher oder Nadler.",
+    "place": "Bern",
+    "surname": "Golde",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Neuengaße 106",
+    "quarter": "",
+    "street": "Neuengaße",
+    "house_no": "106",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Golde, Neuengaße 106"
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Handschuhmacher.",
+    "place": "Bern",
+    "surname": "Frey",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 222",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "222",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Frey, Samuel, Kramgaße 222"
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Hufschmiede.",
+    "place": "Bern",
+    "surname": "Bichsel",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Stalden 219",
+    "quarter": "",
+    "street": "Stalden",
+    "house_no": "219",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bichsel, Stalden 219"
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Hufschmiede.",
+    "place": "Bern",
+    "surname": "Fawer",
+    "forename": "A.",
+    "title": "",
+    "occupation": "",
+    "address": "(im Thierspital), Neuengaße 93",
+    "quarter": "",
+    "street": "Neuengaße",
+    "house_no": "93",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "im Thierspital",
+    "text": "Fawer, A., (im Thierspital), Neuengaße 93"
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Hufschmiede.",
+    "place": "Bern",
+    "surname": "Kurz",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Spitalgaße 173",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "173",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kurz, Spitalgaße 173"
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Hufschmiede.",
+    "place": "Bern",
+    "surname": "Mader",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kesichgäßlein 110",
+    "quarter": "",
+    "street": "Kesichgäßlein",
+    "house_no": "110",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mader, Kesichgäßlein 110"
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Hufschmiede.",
+    "place": "Bern",
+    "surname": "Nöthinger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "",
+    "address": "Stalden 11",
+    "quarter": "",
+    "street": "Stalden",
+    "house_no": "11",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nöthinger, Jakob, Stalden 11"
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Hufschmiede.",
+    "place": "Bern",
+    "surname": "Schmid",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "",
+    "address": "Kesichgäßlein 21",
+    "quarter": "",
+    "street": "Kesichgäßlein",
+    "house_no": "21",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schmid, Johann, Kesichgäßlein 21"
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "firma",
+    "heading": "Hutmacher.",
+    "place": "Bern",
+    "surname": "Dübi und Schwendimann",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Spitalgaße 138",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "138",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dübi und Schwendimann, Spitalgaße 138"
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Hutmacher.",
+    "place": "Bern",
+    "surname": "Heim",
+    "forename": "Alexander",
+    "title": "",
+    "occupation": "",
+    "address": "Spitalgaße 176",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "176",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Heim, Alexander, Spitalgaße 176"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:05:17+01:00",
+ "last_error": null
+}

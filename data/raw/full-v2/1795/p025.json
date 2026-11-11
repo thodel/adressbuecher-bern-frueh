@@ -1,0 +1,386 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 25,
+ "section": "handbuch",
+ "started": "2026-11-11T20:47:16+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 49.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 2901,
+  "thoughts": 3830
+ },
+ "response_text": "{\n  \"printed_page\": \"23\",\n  \"running_head\": \"Burgdorf.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Burgdorf. 23\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Samuel Heggi, Leimsieder und Weißgerber.\"},\n    {\"n\": 4, \"text\": \"A. David Jmhoof, allerhand Gürtlerarbeit,\"},\n    {\"n\": 5, \"text\": \"wie auch Vergoldung und Versilberung.\"},\n    {\"n\": 6, \"text\": \"Joh. Jakob Kupferschmid und Comp. Drape-\"},\n    {\"n\": 7, \"text\": \"rie; und Käsehandel en gros.\"},\n    {\"n\": 8, \"text\": \"Gebrüder Kupferschmid, Leinwand en gros\"},\n    {\"n\": 9, \"text\": \"und Draperie en détail.\"},\n    {\"n\": 10, \"text\": \"Joh. Jakob Schnell, Specereywaren und Dra-\"},\n    {\"n\": 11, \"text\": \"perie en gros & en détail; auch Wolle für Strümpf-\"},\n    {\"n\": 12, \"text\": \"und Hutmacher, aber bloß ins Große.\"},\n    {\"n\": 13, \"text\": \"Sam. Stähli, Fabrikant in wollenen Strüm-\"},\n    {\"n\": 14, \"text\": \"pfen.\"},\n    {\"n\": 15, \"text\": \"Johannes Störchi, in Hofern bey Burgdorf,\"},\n    {\"n\": 16, \"text\": \"Käshändler en gros.\"},\n    {\"n\": 17, \"text\": \"Christian Tellenbach, Uhrenmacher und Me-\"},\n    {\"n\": 18, \"text\": \"chaniker.\"},\n    {\"n\": 19, \"text\": \"Joh. Trechsel, Hutmacher, en gros & en\"},\n    {\"n\": 20, \"text\": \"détail.\"},\n    {\"n\": 21, \"text\": \"Hans Ulrich Ursenbacher in Oberburg bey Burg-\"},\n    {\"n\": 22, \"text\": \"dorf, verfertiget Feuerspritzen ꝛc.\"},\n    {\"n\": 23, \"text\": \"Caspar Schwander zu Heimiswyl bey Burg-\"},\n    {\"n\": 24, \"text\": \"dorf, hat eine Baumschule, bey ihm sind junge\"},\n    {\"n\": 25, \"text\": \"Bäume von allen Obstarten zu bekommen.\"},\n    {\"n\": 26, \"text\": \"Caspar Widmer zu Heimiswyl, verfertiget\"},\n    {\"n\": 27, \"text\": \"alle Sorten künstliche mechanische Instrumente, als\"},\n    {\"n\": 28, \"text\": \"B 4\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Heggi\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Leimsieder und Weißgerber\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Heggi, Leimsieder und Weißgerber.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Jmhoof\",\n      \"forename\": \"A. David\",\n      \"title\": \"\",\n      \"occupation\": \"allerhand Gürtlerarbeit, wie auch Vergoldung und Versilberung\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"A. David Jmhoof, allerhand Gürtlerarbeit, wie auch Vergoldung und Versilberung.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Kupferschmid\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"Draperie; und Käsehandel en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Kupferschmid und Comp. Draperie; und Käsehandel en gros.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"firma\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Kupferschmid\",\n      \"forename\": \"\",\n      \"title\": \"Gebrüder\",\n      \"occupation\": \"Leinwand en gros und Draperie en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gebrüder Kupferschmid, Leinwand en gros und Draperie en détail.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Schnell\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Specereywaren und Draperie en gros & en détail; auch Wolle für Strümpf- und Hutmacher, aber bloß ins Große\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Schnell, Specereywaren und Draperie en gros & en détail; auch Wolle für Strümpf- und Hutmacher, aber bloß ins Große.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Stähli\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrikant in wollenen Strümpfen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sam. Stähli, Fabrikant in wollenen Strümpfen.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Störchi\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Käshändler en gros\",\n      \"address\": \"in Hofern bey Burgdorf\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Störchi, in Hofern bey Burgdorf, Käshändler en gros.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Tellenbach\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher und Mechaniker\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Christian Tellenbach, Uhrenmacher und Mechaniker.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Trechsel\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Hutmacher, en gros & en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Trechsel, Hutmacher, en gros & en détail.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Ursenbacher\",\n      \"forename\": \"Hans Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"verfertiget Feuerspritzen ꝛc.\",\n      \"address\": \"in Oberburg bey Burgdorf\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hans Ulrich Ursenbacher in Oberburg bey Burgdorf, verfertiget Feuerspritzen ꝛc.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Schwander\",\n      \"forename\": \"Caspar\",\n      \"title\": \"\",\n      \"occupation\": \"hat eine Baumschule, bey ihm sind junge Bäume von allen Obstarten zu bekommen\",\n      \"address\": \"zu Heimiswyl bey Burgdorf\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Caspar Schwander zu Heimiswyl bey Burgdorf, hat eine Baumschule, bey ihm sind junge Bäume von allen Obstarten zu bekommen.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Widmer\",\n      \"forename\": \"Caspar\",\n      \"title\": \"\",\n      \"occupation\": \"verfertiget alle Sorten künstliche mechanische Instrumente, als\",\n      \"address\": \"zu Heimiswyl\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Caspar Widmer zu Heimiswyl, verfertiget alle Sorten künstliche mechanische Instrumente, als\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "23",
+  "running_head": "Burgdorf.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Burgdorf. 23"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Samuel Heggi, Leimsieder und Weißgerber."
+   },
+   {
+    "n": 4,
+    "text": "A. David Jmhoof, allerhand Gürtlerarbeit,"
+   },
+   {
+    "n": 5,
+    "text": "wie auch Vergoldung und Versilberung."
+   },
+   {
+    "n": 6,
+    "text": "Joh. Jakob Kupferschmid und Comp. Drape-"
+   },
+   {
+    "n": 7,
+    "text": "rie; und Käsehandel en gros."
+   },
+   {
+    "n": 8,
+    "text": "Gebrüder Kupferschmid, Leinwand en gros"
+   },
+   {
+    "n": 9,
+    "text": "und Draperie en détail."
+   },
+   {
+    "n": 10,
+    "text": "Joh. Jakob Schnell, Specereywaren und Dra-"
+   },
+   {
+    "n": 11,
+    "text": "perie en gros & en détail; auch Wolle für Strümpf-"
+   },
+   {
+    "n": 12,
+    "text": "und Hutmacher, aber bloß ins Große."
+   },
+   {
+    "n": 13,
+    "text": "Sam. Stähli, Fabrikant in wollenen Strüm-"
+   },
+   {
+    "n": 14,
+    "text": "pfen."
+   },
+   {
+    "n": 15,
+    "text": "Johannes Störchi, in Hofern bey Burgdorf,"
+   },
+   {
+    "n": 16,
+    "text": "Käshändler en gros."
+   },
+   {
+    "n": 17,
+    "text": "Christian Tellenbach, Uhrenmacher und Me-"
+   },
+   {
+    "n": 18,
+    "text": "chaniker."
+   },
+   {
+    "n": 19,
+    "text": "Joh. Trechsel, Hutmacher, en gros & en"
+   },
+   {
+    "n": 20,
+    "text": "détail."
+   },
+   {
+    "n": 21,
+    "text": "Hans Ulrich Ursenbacher in Oberburg bey Burg-"
+   },
+   {
+    "n": 22,
+    "text": "dorf, verfertiget Feuerspritzen ꝛc."
+   },
+   {
+    "n": 23,
+    "text": "Caspar Schwander zu Heimiswyl bey Burg-"
+   },
+   {
+    "n": 24,
+    "text": "dorf, hat eine Baumschule, bey ihm sind junge"
+   },
+   {
+    "n": 25,
+    "text": "Bäume von allen Obstarten zu bekommen."
+   },
+   {
+    "n": 26,
+    "text": "Caspar Widmer zu Heimiswyl, verfertiget"
+   },
+   {
+    "n": 27,
+    "text": "alle Sorten künstliche mechanische Instrumente, als"
+   },
+   {
+    "n": 28,
+    "text": "B 4"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Heggi",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Leimsieder und Weißgerber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Heggi, Leimsieder und Weißgerber."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Jmhoof",
+    "forename": "A. David",
+    "title": "",
+    "occupation": "allerhand Gürtlerarbeit, wie auch Vergoldung und Versilberung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "A. David Jmhoof, allerhand Gürtlerarbeit, wie auch Vergoldung und Versilberung."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Kupferschmid",
+    "forename": "Joh. Jakob",
+    "title": "und Comp.",
+    "occupation": "Draperie; und Käsehandel en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Kupferschmid und Comp. Draperie; und Käsehandel en gros."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "firma",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Kupferschmid",
+    "forename": "",
+    "title": "Gebrüder",
+    "occupation": "Leinwand en gros und Draperie en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gebrüder Kupferschmid, Leinwand en gros und Draperie en détail."
+   },
+   {
+    "line_from": 10,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Schnell",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Specereywaren und Draperie en gros & en détail; auch Wolle für Strümpf- und Hutmacher, aber bloß ins Große",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Schnell, Specereywaren und Draperie en gros & en détail; auch Wolle für Strümpf- und Hutmacher, aber bloß ins Große."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Stähli",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "Fabrikant in wollenen Strümpfen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sam. Stähli, Fabrikant in wollenen Strümpfen."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Störchi",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Käshändler en gros",
+    "address": "in Hofern bey Burgdorf",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Störchi, in Hofern bey Burgdorf, Käshändler en gros."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Tellenbach",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Uhrenmacher und Mechaniker",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Christian Tellenbach, Uhrenmacher und Mechaniker."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Trechsel",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Hutmacher, en gros & en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Trechsel, Hutmacher, en gros & en détail."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Ursenbacher",
+    "forename": "Hans Ulrich",
+    "title": "",
+    "occupation": "verfertiget Feuerspritzen ꝛc.",
+    "address": "in Oberburg bey Burgdorf",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hans Ulrich Ursenbacher in Oberburg bey Burgdorf, verfertiget Feuerspritzen ꝛc."
+   },
+   {
+    "line_from": 23,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Schwander",
+    "forename": "Caspar",
+    "title": "",
+    "occupation": "hat eine Baumschule, bey ihm sind junge Bäume von allen Obstarten zu bekommen",
+    "address": "zu Heimiswyl bey Burgdorf",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Caspar Schwander zu Heimiswyl bey Burgdorf, hat eine Baumschule, bey ihm sind junge Bäume von allen Obstarten zu bekommen."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Widmer",
+    "forename": "Caspar",
+    "title": "",
+    "occupation": "verfertiget alle Sorten künstliche mechanische Instrumente, als",
+    "address": "zu Heimiswyl",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Caspar Widmer zu Heimiswyl, verfertiget alle Sorten künstliche mechanische Instrumente, als"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:48:06+01:00",
+ "last_error": null
+}

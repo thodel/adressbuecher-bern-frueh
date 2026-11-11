@@ -1,0 +1,322 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 40,
+ "section": "handbuch",
+ "started": "2026-11-11T20:49:20+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 14.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 2318,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"38\",\n  \"running_head\": \"Thun.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"38 Thun.\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"David Schrämli, mit Tücher und Specerey-\"},\n    {\"n\": 4, \"text\": \"waaren.\"},\n    {\"n\": 5, \"text\": \"Stråhl, (Doktor und Apotheker.)\"},\n    {\"n\": 6, \"text\": \"Gabriel Wånger, Kåshändler en gros.\"},\n    {\"n\": 7, \"text\": \"Johannes Wånger, hat eine Garnbleiche.\"},\n    {\"n\": 8, \"text\": \"Walkringen, Wegmühle.\"},\n    {\"n\": 9, \"text\": \"Ulrich Neuenschwander bey der Wegmühle,\"},\n    {\"n\": 10, \"text\": \"handelt mit Kås en gros.\"},\n    {\"n\": 11, \"text\": \"Christian und Joh. Miescher zu Walkringen,\"},\n    {\"n\": 12, \"text\": \"handeln mit Kås und leinen Tuch ins Große.\"},\n    {\"n\": 13, \"text\": \"Wiedlisbach.\"},\n    {\"n\": 14, \"text\": \"Jakob Oberöcht, fabriciert und verkauft alle\"},\n    {\"n\": 15, \"text\": \"Arten Hüthe.\"},\n    {\"n\": 16, \"text\": \"Jakob Hügi in Niederbipp bey Wiedlisbach,\"},\n    {\"n\": 17, \"text\": \"Strumpffabrikant.\"},\n    {\"n\": 18, \"text\": \"Peter Hügi in Niederbipp bey Wiedlisbach,\"},\n    {\"n\": 19, \"text\": \"Strumpffabrikant.\"},\n    {\"n\": 20, \"text\": \"Johann Beer zu Gundiswyl bey Wiedlisbach,\"},\n    {\"n\": 21, \"text\": \"handelt en gros mit Kåse, und nimmt Bestellungen\"},\n    {\"n\": 22, \"text\": \"darauf an.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Thun.\",\n      \"place\": \"Thun\",\n      \"surname\": \"Schrämli\",\n      \"forename\": \"David\",\n      \"title\": \"Herr\",\n      \"occupation\": \"mit Tücher und Specereywaaren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr David Schrämli, mit Tücher und Specereywaaren.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Thun.\",\n      \"place\": \"Thun\",\n      \"surname\": \"Stråhl\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Doktor und Apotheker\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stråhl, (Doktor und Apotheker.)\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Thun.\",\n      \"place\": \"Thun\",\n      \"surname\": \"Wånger\",\n      \"forename\": \"Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"Kåshändler en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gabriel Wånger, Kåshändler en gros.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Thun.\",\n      \"place\": \"Thun\",\n      \"surname\": \"Wånger\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"hat eine Garnbleiche\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Wånger, hat eine Garnbleiche.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Walkringen, Wegmühle.\",\n      \"place\": \"Wegmühle\",\n      \"surname\": \"Neuenschwander\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"handelt mit Kås en gros\",\n      \"address\": \"bey der Wegmühle\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ulrich Neuenschwander bey der Wegmühle, handelt mit Kås en gros.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Walkringen, Wegmühle.\",\n      \"place\": \"Walkringen\",\n      \"surname\": \"Miescher\",\n      \"forename\": \"Christian und Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"handeln mit Kås und leinen Tuch ins Große\",\n      \"address\": \"zu Walkringen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Christian und Joh. Miescher zu Walkringen, handeln mit Kås und leinen Tuch ins Große.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Wiedlisbach.\",\n      \"place\": \"Wiedlisbach\",\n      \"surname\": \"Oberöcht\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"fabriciert und verkauft alle Arten Hüthe\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Oberöcht, fabriciert und verkauft alle Arten Hüthe.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Wiedlisbach.\",\n      \"place\": \"Niederbipp bey Wiedlisbach\",\n      \"surname\": \"Hügi\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Strumpffabrikant\",\n      \"address\": \"in Niederbipp bey Wiedlisbach\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Hügi in Niederbipp bey Wiedlisbach, Strumpffabrikant.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Wiedlisbach.\",\n      \"place\": \"Niederbipp bey Wiedlisbach\",\n      \"surname\": \"Hügi\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Strumpffabrikant\",\n      \"address\": \"in Niederbipp bey Wiedlisbach\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Peter Hügi in Niederbipp bey Wiedlisbach, Strumpffabrikant.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Wiedlisbach.\",\n      \"place\": \"Gundiswyl bey Wiedlisbach\",\n      \"surname\": \"Beer\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"handelt en gros mit Kåse, und nimmt Bestellungen darauf an\",\n      \"address\": \"zu Gundiswyl bey Wiedlisbach\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johann Beer zu Gundiswyl bey Wiedlisbach, handelt en gros mit Kåse, und nimmt Bestellungen darauf an.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "38",
+  "running_head": "Thun.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "38 Thun."
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "David Schrämli, mit Tücher und Specerey-"
+   },
+   {
+    "n": 4,
+    "text": "waaren."
+   },
+   {
+    "n": 5,
+    "text": "Stråhl, (Doktor und Apotheker.)"
+   },
+   {
+    "n": 6,
+    "text": "Gabriel Wånger, Kåshändler en gros."
+   },
+   {
+    "n": 7,
+    "text": "Johannes Wånger, hat eine Garnbleiche."
+   },
+   {
+    "n": 8,
+    "text": "Walkringen, Wegmühle."
+   },
+   {
+    "n": 9,
+    "text": "Ulrich Neuenschwander bey der Wegmühle,"
+   },
+   {
+    "n": 10,
+    "text": "handelt mit Kås en gros."
+   },
+   {
+    "n": 11,
+    "text": "Christian und Joh. Miescher zu Walkringen,"
+   },
+   {
+    "n": 12,
+    "text": "handeln mit Kås und leinen Tuch ins Große."
+   },
+   {
+    "n": 13,
+    "text": "Wiedlisbach."
+   },
+   {
+    "n": 14,
+    "text": "Jakob Oberöcht, fabriciert und verkauft alle"
+   },
+   {
+    "n": 15,
+    "text": "Arten Hüthe."
+   },
+   {
+    "n": 16,
+    "text": "Jakob Hügi in Niederbipp bey Wiedlisbach,"
+   },
+   {
+    "n": 17,
+    "text": "Strumpffabrikant."
+   },
+   {
+    "n": 18,
+    "text": "Peter Hügi in Niederbipp bey Wiedlisbach,"
+   },
+   {
+    "n": 19,
+    "text": "Strumpffabrikant."
+   },
+   {
+    "n": 20,
+    "text": "Johann Beer zu Gundiswyl bey Wiedlisbach,"
+   },
+   {
+    "n": 21,
+    "text": "handelt en gros mit Kåse, und nimmt Bestellungen"
+   },
+   {
+    "n": 22,
+    "text": "darauf an."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Thun.",
+    "place": "Thun",
+    "surname": "Schrämli",
+    "forename": "David",
+    "title": "Herr",
+    "occupation": "mit Tücher und Specereywaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr David Schrämli, mit Tücher und Specereywaaren."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Thun.",
+    "place": "Thun",
+    "surname": "Stråhl",
+    "forename": "",
+    "title": "",
+    "occupation": "Doktor und Apotheker",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stråhl, (Doktor und Apotheker.)"
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Thun.",
+    "place": "Thun",
+    "surname": "Wånger",
+    "forename": "Gabriel",
+    "title": "",
+    "occupation": "Kåshändler en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gabriel Wånger, Kåshändler en gros."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Thun.",
+    "place": "Thun",
+    "surname": "Wånger",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "hat eine Garnbleiche",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Wånger, hat eine Garnbleiche."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Walkringen, Wegmühle.",
+    "place": "Wegmühle",
+    "surname": "Neuenschwander",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "handelt mit Kås en gros",
+    "address": "bey der Wegmühle",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ulrich Neuenschwander bey der Wegmühle, handelt mit Kås en gros."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Walkringen, Wegmühle.",
+    "place": "Walkringen",
+    "surname": "Miescher",
+    "forename": "Christian und Joh.",
+    "title": "",
+    "occupation": "handeln mit Kås und leinen Tuch ins Große",
+    "address": "zu Walkringen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Christian und Joh. Miescher zu Walkringen, handeln mit Kås und leinen Tuch ins Große."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Wiedlisbach.",
+    "place": "Wiedlisbach",
+    "surname": "Oberöcht",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "fabriciert und verkauft alle Arten Hüthe",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Oberöcht, fabriciert und verkauft alle Arten Hüthe."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Wiedlisbach.",
+    "place": "Niederbipp bey Wiedlisbach",
+    "surname": "Hügi",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Strumpffabrikant",
+    "address": "in Niederbipp bey Wiedlisbach",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Hügi in Niederbipp bey Wiedlisbach, Strumpffabrikant."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Wiedlisbach.",
+    "place": "Niederbipp bey Wiedlisbach",
+    "surname": "Hügi",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Strumpffabrikant",
+    "address": "in Niederbipp bey Wiedlisbach",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Peter Hügi in Niederbipp bey Wiedlisbach, Strumpffabrikant."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Wiedlisbach.",
+    "place": "Gundiswyl bey Wiedlisbach",
+    "surname": "Beer",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "handelt en gros mit Kåse, und nimmt Bestellungen darauf an",
+    "address": "zu Gundiswyl bey Wiedlisbach",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johann Beer zu Gundiswyl bey Wiedlisbach, handelt en gros mit Kåse, und nimmt Bestellungen darauf an."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:49:34+01:00",
+ "last_error": null
+}

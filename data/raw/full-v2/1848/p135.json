@@ -1,0 +1,398 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 135,
+ "section": "einsassen",
+ "started": "2026-11-11T22:07:43+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 22.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 3678,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"122\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 122 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Plattner a. Diegten, K. Basel.\"},\n    {\"n\": 4, \"text\": \"1 773 Maria Rosine, gew. Bühler, geb. Fröhlich, privat.,\"},\n    {\"n\": 5, \"text\": \"a. Männedorf — I, 29.\"},\n    {\"n\": 6, \"text\": \"Plösch.\"},\n    {\"n\": 7, \"text\": \"1 817 Nikl. Peter Friedr., Buchbinder, a. Mörigen — VI, 58.\"},\n    {\"n\": 8, \"text\": \"824 Fr. — Elis. Großenbacher, Kleinwascherin.\"},\n    {\"n\": 9, \"text\": \"1 T. — 846 Maria Louise.\"},\n    {\"n\": 10, \"text\": \"Pluer a. Vich, K. Waadt.\"},\n    {\"n\": 11, \"text\": \"1 787 Christina, Krämerin — II, 247.\"},\n    {\"n\": 12, \"text\": \"2 799 Rosine Magd., geb. Krebser, Krämerin — II, 171.\"},\n    {\"n\": 13, \"text\": \"Pochon.\"},\n    {\"n\": 14, \"text\": \"1 804 Jean Fréd. Alex., Goldschmied, Associrter von Pochon\"},\n    {\"n\": 15, \"text\": \"u. Parel, a. Cortaillod — IV, 203.\"},\n    {\"n\": 16, \"text\": \"3 K. — 833 Ed. Rudolf. — 35 Charlotte Adele. — 36\"},\n    {\"n\": 17, \"text\": \"Ludwig Heinrich Adolf.\"},\n    {\"n\": 18, \"text\": \"Poelsterli.\"},\n    {\"n\": 19, \"text\": \"1 817 Simeon, Privatlehrer, a. Clösters, K. Graubünden —\"},\n    {\"n\": 20, \"text\": \"III, 49 c.\"},\n    {\"n\": 21, \"text\": \"819 Fr. — Louise Phil. Lavanchy a. Lutry.\"},\n    {\"n\": 22, \"text\": \"1 T. — 845 Helena.\"},\n    {\"n\": 23, \"text\": \"Poeterlin.\"},\n    {\"n\": 24, \"text\": \"1 800 Sam. Ludwig, Eisenhändler, a. Milden — IV, 167.\"},\n    {\"n\": 25, \"text\": \"803 Fr. — Maria Elis. Louise Marti a. Bern.\"},\n    {\"n\": 26, \"text\": \"Ponti.\"},\n    {\"n\": 27, \"text\": \"1 811 Xavier, Handelsmann, a. St. Marie Maggiore in Pie-\"},\n    {\"n\": 28, \"text\": \"mont — IV, 175.\"},\n    {\"n\": 29, \"text\": \"Fr. — Julie Peccora.\"},\n    {\"n\": 30, \"text\": \"2 T. — 834 Mathea Kath. Angele Mathilde. — 38 Maria\"},\n    {\"n\": 31, \"text\": \"Cordola Kath.\"},\n    {\"n\": 32, \"text\": \"Portenier.\"},\n    {\"n\": 33, \"text\": \"1 801 Bendicht, Schneider, a. Meikirch — II, 20.\"},\n    {\"n\": 34, \"text\": \"785 Fr. — Elis. Guggisberg a. Obermuhlern.\"},\n    {\"n\": 35, \"text\": \"1 T. — 822 Anna Barbara.\"},\n    {\"n\": 36, \"text\": \"Poyet.\"},\n    {\"n\": 37, \"text\": \"1 816 Charles Louis, Schneider, a. Orges, K. Waadt — III, 36.\"},\n    {\"n\": 38, \"text\": \"815 Fr. — Maria Elisabetha Tribelhorn a. Schwellbrunn, K.\"},\n    {\"n\": 39, \"text\": \"Appenzell.\"},\n    {\"n\": 40, \"text\": \"1 T. — 846 Elise Franziska.\"},\n    {\"n\": 41, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Plattner a. Diegten, K. Basel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Plattner\",\n      \"forename\": \"Maria Rosine\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"I, 29\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"29\",\n      \"origin\": \"Männedorf\",\n      \"birth_year\": \"1773\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; gew. Bühler, geb. Fröhlich\",\n      \"text\": \"1 773 Maria Rosine, gew. Bühler, geb. Fröhlich, privat., a. Männedorf — I, 29.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Plösch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Plösch\",\n      \"forename\": \"Nikl. Peter Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"VI, 58\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"58\",\n      \"origin\": \"Mörigen\",\n      \"birth_year\": \"1817\",\n      \"household\": \"824 Fr. — Elis. Großenbacher, Kleinwascherin. 1 T. — 846 Maria Louise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 817 Nikl. Peter Friedr., Buchbinder, a. Mörigen — VI, 58. 824 Fr. — Elis. Großenbacher, Kleinwascherin. 1 T. — 846 Maria Louise.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Pluer a. Vich, K. Waadt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pluer\",\n      \"forename\": \"Christina\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"II, 247\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"247\",\n      \"origin\": \"Vich, K. Waadt\",\n      \"birth_year\": \"1787\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 787 Christina, Krämerin — II, 247.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Pluer a. Vich, K. Waadt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pluer\",\n      \"forename\": \"Rosine Magd.\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"II, 171\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"171\",\n      \"origin\": \"Vich, K. Waadt\",\n      \"birth_year\": \"1799\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel; geb. Krebser\",\n      \"text\": \"2 799 Rosine Magd., geb. Krebser, Krämerin — II, 171.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Pochon.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pochon\",\n      \"forename\": \"Jean Fréd. Alex.\",\n      \"title\": \"\",\n      \"occupation\": \"Goldschmied, Associrter von Pochon u. Parel\",\n      \"address\": \"IV, 203\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"203\",\n      \"origin\": \"Cortaillod\",\n      \"birth_year\": \"1804\",\n      \"household\": \"3 K. — 833 Ed. Rudolf. — 35 Charlotte Adele. — 36 Ludwig Heinrich Adolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Jean Fréd. Alex., Goldschmied, Associrter von Pochon u. Parel, a. Cortaillod — IV, 203. 3 K. — 833 Ed. Rudolf. — 35 Charlotte Adele. — 36 Ludwig Heinrich Adolf.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Poelsterli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Poelsterli\",\n      \"forename\": \"Simeon\",\n      \"title\": \"\",\n      \"occupation\": \"Privatlehrer\",\n      \"address\": \"III, 49 c\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"49 c\",\n      \"origin\": \"Clösters, K. Graubünden\",\n      \"birth_year\": \"1817\",\n      \"household\": \"819 Fr. — Louise Phil. Lavanchy a. Lutry. 1 T. — 845 Helena.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 817 Simeon, Privatlehrer, a. Clösters, K. Graubünden — III, 49 c. 819 Fr. — Louise Phil. Lavanchy a. Lutry. 1 T. — 845 Helena.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Poeterlin.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Poeterlin\",\n      \"forename\": \"Sam. Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Eisenhändler\",\n      \"address\": \"IV, 167\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"167\",\n      \"origin\": \"Milden\",\n      \"birth_year\": \"1800\",\n      \"household\": \"803 Fr. — Maria Elis. Louise Marti a. Bern.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 800 Sam. Ludwig, Eisenhändler, a. Milden — IV, 167. 803 Fr. — Maria Elis. Louise Marti a. Bern.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Ponti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ponti\",\n      \"forename\": \"Xavier\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"IV, 175\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"175\",\n      \"origin\": \"St. Marie Maggiore in Piemont\",\n      \"birth_year\": \"1811\",\n      \"household\": \"Fr. — Julie Peccora. 2 T. — 834 Mathea Kath. Angele Mathilde. — 38 Maria Cordola Kath.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Xavier, Handelsmann, a. St. Marie Maggiore in Piemont — IV, 175. Fr. — Julie Peccora. 2 T. — 834 Mathea Kath. Angele Mathilde. — 38 Maria Cordola Kath.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Portenier.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Portenier\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"II, 20\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"20\",\n      \"origin\": \"Meikirch\",\n      \"birth_year\": \"1801\",\n      \"household\": \"785 Fr. — Elis. Guggisberg a. Obermuhlern. 1 T. — 822 Anna Barbara.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 801 Bendicht, Schneider, a. Meikirch — II, 20. 785 Fr. — Elis. Guggisberg a. Obermuhlern. 1 T. — 822 Anna Barbara.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Poyet.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Poyet\",\n      \"forename\": \"Charles Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"III, 36\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"Orges, K. Waadt\",\n      \"birth_year\": \"1816\",\n      \"household\": \"815 Fr. — Maria Elisabetha Tribelhorn a. Schwellbrunn, K. Appenzell. 1 T. — 846 Elise Franziska.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Charles Louis, Schneider, a. Orges, K. Waadt — III, 36. 815 Fr. — Maria Elisabetha Tribelhorn a. Schwellbrunn, K. Appenzell. 1 T. — 846 Elise Franziska.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "122",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 122 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Plattner a. Diegten, K. Basel."
+   },
+   {
+    "n": 4,
+    "text": "1 773 Maria Rosine, gew. Bühler, geb. Fröhlich, privat.,"
+   },
+   {
+    "n": 5,
+    "text": "a. Männedorf — I, 29."
+   },
+   {
+    "n": 6,
+    "text": "Plösch."
+   },
+   {
+    "n": 7,
+    "text": "1 817 Nikl. Peter Friedr., Buchbinder, a. Mörigen — VI, 58."
+   },
+   {
+    "n": 8,
+    "text": "824 Fr. — Elis. Großenbacher, Kleinwascherin."
+   },
+   {
+    "n": 9,
+    "text": "1 T. — 846 Maria Louise."
+   },
+   {
+    "n": 10,
+    "text": "Pluer a. Vich, K. Waadt."
+   },
+   {
+    "n": 11,
+    "text": "1 787 Christina, Krämerin — II, 247."
+   },
+   {
+    "n": 12,
+    "text": "2 799 Rosine Magd., geb. Krebser, Krämerin — II, 171."
+   },
+   {
+    "n": 13,
+    "text": "Pochon."
+   },
+   {
+    "n": 14,
+    "text": "1 804 Jean Fréd. Alex., Goldschmied, Associrter von Pochon"
+   },
+   {
+    "n": 15,
+    "text": "u. Parel, a. Cortaillod — IV, 203."
+   },
+   {
+    "n": 16,
+    "text": "3 K. — 833 Ed. Rudolf. — 35 Charlotte Adele. — 36"
+   },
+   {
+    "n": 17,
+    "text": "Ludwig Heinrich Adolf."
+   },
+   {
+    "n": 18,
+    "text": "Poelsterli."
+   },
+   {
+    "n": 19,
+    "text": "1 817 Simeon, Privatlehrer, a. Clösters, K. Graubünden —"
+   },
+   {
+    "n": 20,
+    "text": "III, 49 c."
+   },
+   {
+    "n": 21,
+    "text": "819 Fr. — Louise Phil. Lavanchy a. Lutry."
+   },
+   {
+    "n": 22,
+    "text": "1 T. — 845 Helena."
+   },
+   {
+    "n": 23,
+    "text": "Poeterlin."
+   },
+   {
+    "n": 24,
+    "text": "1 800 Sam. Ludwig, Eisenhändler, a. Milden — IV, 167."
+   },
+   {
+    "n": 25,
+    "text": "803 Fr. — Maria Elis. Louise Marti a. Bern."
+   },
+   {
+    "n": 26,
+    "text": "Ponti."
+   },
+   {
+    "n": 27,
+    "text": "1 811 Xavier, Handelsmann, a. St. Marie Maggiore in Pie-"
+   },
+   {
+    "n": 28,
+    "text": "mont — IV, 175."
+   },
+   {
+    "n": 29,
+    "text": "Fr. — Julie Peccora."
+   },
+   {
+    "n": 30,
+    "text": "2 T. — 834 Mathea Kath. Angele Mathilde. — 38 Maria"
+   },
+   {
+    "n": 31,
+    "text": "Cordola Kath."
+   },
+   {
+    "n": 32,
+    "text": "Portenier."
+   },
+   {
+    "n": 33,
+    "text": "1 801 Bendicht, Schneider, a. Meikirch — II, 20."
+   },
+   {
+    "n": 34,
+    "text": "785 Fr. — Elis. Guggisberg a. Obermuhlern."
+   },
+   {
+    "n": 35,
+    "text": "1 T. — 822 Anna Barbara."
+   },
+   {
+    "n": 36,
+    "text": "Poyet."
+   },
+   {
+    "n": 37,
+    "text": "1 816 Charles Louis, Schneider, a. Orges, K. Waadt — III, 36."
+   },
+   {
+    "n": 38,
+    "text": "815 Fr. — Maria Elisabetha Tribelhorn a. Schwellbrunn, K."
+   },
+   {
+    "n": 39,
+    "text": "Appenzell."
+   },
+   {
+    "n": 40,
+    "text": "1 T. — 846 Elise Franziska."
+   },
+   {
+    "n": 41,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Plattner a. Diegten, K. Basel.",
+    "place": "Bern",
+    "surname": "Plattner",
+    "forename": "Maria Rosine",
+    "title": "",
+    "occupation": "privat.",
+    "address": "I, 29",
+    "quarter": "I",
+    "street": "",
+    "house_no": "29",
+    "origin": "Männedorf",
+    "birth_year": "1773",
+    "household": "",
+    "note": "Name aus Zwischentitel; gew. Bühler, geb. Fröhlich",
+    "text": "1 773 Maria Rosine, gew. Bühler, geb. Fröhlich, privat., a. Männedorf — I, 29."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Plösch.",
+    "place": "Bern",
+    "surname": "Plösch",
+    "forename": "Nikl. Peter Friedr.",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "VI, 58",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "58",
+    "origin": "Mörigen",
+    "birth_year": "1817",
+    "household": "824 Fr. — Elis. Großenbacher, Kleinwascherin. 1 T. — 846 Maria Louise.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 817 Nikl. Peter Friedr., Buchbinder, a. Mörigen — VI, 58. 824 Fr. — Elis. Großenbacher, Kleinwascherin. 1 T. — 846 Maria Louise."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Pluer a. Vich, K. Waadt.",
+    "place": "Bern",
+    "surname": "Pluer",
+    "forename": "Christina",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "II, 247",
+    "quarter": "II",
+    "street": "",
+    "house_no": "247",
+    "origin": "Vich, K. Waadt",
+    "birth_year": "1787",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 787 Christina, Krämerin — II, 247."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Pluer a. Vich, K. Waadt.",
+    "place": "Bern",
+    "surname": "Pluer",
+    "forename": "Rosine Magd.",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "II, 171",
+    "quarter": "II",
+    "street": "",
+    "house_no": "171",
+    "origin": "Vich, K. Waadt",
+    "birth_year": "1799",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel; geb. Krebser",
+    "text": "2 799 Rosine Magd., geb. Krebser, Krämerin — II, 171."
+   },
+   {
+    "line_from": 14,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Pochon.",
+    "place": "Bern",
+    "surname": "Pochon",
+    "forename": "Jean Fréd. Alex.",
+    "title": "",
+    "occupation": "Goldschmied, Associrter von Pochon u. Parel",
+    "address": "IV, 203",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "203",
+    "origin": "Cortaillod",
+    "birth_year": "1804",
+    "household": "3 K. — 833 Ed. Rudolf. — 35 Charlotte Adele. — 36 Ludwig Heinrich Adolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Jean Fréd. Alex., Goldschmied, Associrter von Pochon u. Parel, a. Cortaillod — IV, 203. 3 K. — 833 Ed. Rudolf. — 35 Charlotte Adele. — 36 Ludwig Heinrich Adolf."
+   },
+   {
+    "line_from": 19,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Poelsterli.",
+    "place": "Bern",
+    "surname": "Poelsterli",
+    "forename": "Simeon",
+    "title": "",
+    "occupation": "Privatlehrer",
+    "address": "III, 49 c",
+    "quarter": "III",
+    "street": "",
+    "house_no": "49 c",
+    "origin": "Clösters, K. Graubünden",
+    "birth_year": "1817",
+    "household": "819 Fr. — Louise Phil. Lavanchy a. Lutry. 1 T. — 845 Helena.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 817 Simeon, Privatlehrer, a. Clösters, K. Graubünden — III, 49 c. 819 Fr. — Louise Phil. Lavanchy a. Lutry. 1 T. — 845 Helena."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Poeterlin.",
+    "place": "Bern",
+    "surname": "Poeterlin",
+    "forename": "Sam. Ludwig",
+    "title": "",
+    "occupation": "Eisenhändler",
+    "address": "IV, 167",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "167",
+    "origin": "Milden",
+    "birth_year": "1800",
+    "household": "803 Fr. — Maria Elis. Louise Marti a. Bern.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 800 Sam. Ludwig, Eisenhändler, a. Milden — IV, 167. 803 Fr. — Maria Elis. Louise Marti a. Bern."
+   },
+   {
+    "line_from": 27,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Ponti.",
+    "place": "Bern",
+    "surname": "Ponti",
+    "forename": "Xavier",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "IV, 175",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "175",
+    "origin": "St. Marie Maggiore in Piemont",
+    "birth_year": "1811",
+    "household": "Fr. — Julie Peccora. 2 T. — 834 Mathea Kath. Angele Mathilde. — 38 Maria Cordola Kath.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Xavier, Handelsmann, a. St. Marie Maggiore in Piemont — IV, 175. Fr. — Julie Peccora. 2 T. — 834 Mathea Kath. Angele Mathilde. — 38 Maria Cordola Kath."
+   },
+   {
+    "line_from": 33,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Portenier.",
+    "place": "Bern",
+    "surname": "Portenier",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "II, 20",
+    "quarter": "II",
+    "street": "",
+    "house_no": "20",
+    "origin": "Meikirch",
+    "birth_year": "1801",
+    "household": "785 Fr. — Elis. Guggisberg a. Obermuhlern. 1 T. — 822 Anna Barbara.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 801 Bendicht, Schneider, a. Meikirch — II, 20. 785 Fr. — Elis. Guggisberg a. Obermuhlern. 1 T. — 822 Anna Barbara."
+   },
+   {
+    "line_from": 37,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Poyet.",
+    "place": "Bern",
+    "surname": "Poyet",
+    "forename": "Charles Louis",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "III, 36",
+    "quarter": "III",
+    "street": "",
+    "house_no": "36",
+    "origin": "Orges, K. Waadt",
+    "birth_year": "1816",
+    "household": "815 Fr. — Maria Elisabetha Tribelhorn a. Schwellbrunn, K. Appenzell. 1 T. — 846 Elise Franziska.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Charles Louis, Schneider, a. Orges, K. Waadt — III, 36. 815 Fr. — Maria Elisabetha Tribelhorn a. Schwellbrunn, K. Appenzell. 1 T. — 846 Elise Franziska."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:08:06+01:00",
+ "last_error": null
+}

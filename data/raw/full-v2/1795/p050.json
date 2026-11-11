@@ -1,0 +1,534 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 50,
+ "section": "handbuch",
+ "started": "2026-11-11T20:50:51+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 24.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 4024,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"48\",\n  \"running_head\": \"LAUSANNE.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"48 LAUSANNE.\"},\n    {\"n\": 2, \"text\": \"Monsieur\"},\n    {\"n\": 3, \"text\": \"Michel Hollard & Comp., en Mousselines &\"},\n    {\"n\": 4, \"text\": \"Toillerie en gros.\"},\n    {\"n\": 5, \"text\": \"Mieville, ) Fabricants & Marchands\"},\n    {\"n\": 6, \"text\": \"Mad. Elis. Pachoud ) de Chapeaux de toutes\"},\n    {\"n\": 7, \"text\": \"& Comp. ) espèces.\"},\n    {\"n\": 8, \"text\": \"Paul Remy & Fils aîné, ont une Fabrique,\"},\n    {\"n\": 9, \"text\": \"ou plutôt une Teinture en rouge pour le Coton,\"},\n    {\"n\": 10, \"text\": \"dont la solidité de la couleur est reconnue, &\"},\n    {\"n\": 11, \"text\": \"qui est d'une grande utilité.\"},\n    {\"n\": 12, \"text\": \"Garcin, née David, Vve. ) Marchands, Caincail-\"},\n    {\"n\": 13, \"text\": \"Auboin, Fils, ) lers, Merciers &\"},\n    {\"n\": 14, \"text\": \"Boutan & Penserot, ) Toiliers en gros.\"},\n    {\"n\": 15, \"text\": \"Louis Porta & Comp. )\"},\n    {\"n\": 16, \"text\": \"Francillon, Marignac & Fils, ) Banquiers.\"},\n    {\"n\": 17, \"text\": \"Marcel Carrard & Comp. )\"},\n    {\"n\": 18, \"text\": \"Cette derniere maison a en même tems un grand\"},\n    {\"n\": 19, \"text\": \"commerce d'Epiceries en gros.\"},\n    {\"n\": 20, \"text\": \"Jaques Elie Oboussier, Commissionnaire.\"},\n    {\"n\": 21, \"text\": \"Jn. Fabre, )\"},\n    {\"n\": 22, \"text\": \"Papon & Oboussier, )\"},\n    {\"n\": 23, \"text\": \"Corboz & Roulet, ) Marchands Drapiers\"},\n    {\"n\": 24, \"text\": \"Louis Boutan, ) en détail.\"},\n    {\"n\": 25, \"text\": \"Samuel Weibel, )\"},\n    {\"n\": 26, \"text\": \"Elis. Pachoud née )\"},\n    {\"n\": 27, \"text\": \"Houser. )\"},\n    {\"n\": 28, \"text\": \"Ferrier, Christ & Comp., Marchands Dra-\"},\n    {\"n\": 29, \"text\": \"piers en gros.\"},\n    {\"n\": 30, \"text\": \"Isaac\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Hollard\",\n      \"forename\": \"Michel\",\n      \"title\": \"& Comp.\",\n      \"occupation\": \"en Mousselines & Toillerie en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Michel Hollard & Comp., en Mousselines & Toillerie en gros.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Mieville\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Fabricants & Marchands de Chapeaux de toutes espèces\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mieville, Fabricants & Marchands de Chapeaux de toutes espèces.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Pachoud\",\n      \"forename\": \"Elis.\",\n      \"title\": \"Mad. … & Comp.\",\n      \"occupation\": \"Fabricants & Marchands de Chapeaux de toutes espèces\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mad. Elis. Pachoud & Comp. Fabricants & Marchands de Chapeaux de toutes espèces.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Remy\",\n      \"forename\": \"Paul\",\n      \"title\": \"& Fils aîné\",\n      \"occupation\": \"ont une Fabrique, ou plutôt une Teinture en rouge pour le Coton\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Paul Remy & Fils aîné, ont une Fabrique, ou plutôt une Teinture en rouge pour le Coton, dont la solidité de la couleur est reconnue, & qui est d'une grande utilité.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Garcin\",\n      \"forename\": \"\",\n      \"title\": \"Vve.\",\n      \"occupation\": \"Marchands, Caincaillers, Merciers & Toiliers en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"née David\",\n      \"text\": \"Garcin, née David, Vve. Marchands, Caincaillers, Merciers & Toiliers en gros.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Auboin\",\n      \"forename\": \"\",\n      \"title\": \"Fils\",\n      \"occupation\": \"Marchands, Caincaillers, Merciers & Toiliers en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Auboin, Fils, Marchands, Caincaillers, Merciers & Toiliers en gros.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Boutan & Penserot\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands, Caincaillers, Merciers & Toiliers en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Boutan & Penserot, Marchands, Caincaillers, Merciers & Toiliers en gros.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Porta\",\n      \"forename\": \"Louis\",\n      \"title\": \"& Comp.\",\n      \"occupation\": \"Banquiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Louis Porta & Comp. Banquiers.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Francillon, Marignac & Fils\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Banquiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Francillon, Marignac & Fils, Banquiers.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Carrard\",\n      \"forename\": \"Marcel\",\n      \"title\": \"& Comp.\",\n      \"occupation\": \"Banquiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Cette derniere maison a en même tems un grand commerce d'Epiceries en gros.\",\n      \"text\": \"Marcel Carrard & Comp. Banquiers. Cette derniere maison a en même tems un grand commerce d'Epiceries en gros.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Oboussier\",\n      \"forename\": \"Jaques Elie\",\n      \"title\": \"\",\n      \"occupation\": \"Commissionnaire\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jaques Elie Oboussier, Commissionnaire.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Fabre\",\n      \"forename\": \"Jn.\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands Drapiers en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jn. Fabre, Marchands Drapiers en détail.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 24,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Papon & Oboussier\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands Drapiers en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Papon & Oboussier, Marchands Drapiers en détail.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Corboz & Roulet\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands Drapiers en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Corboz & Roulet, Marchands Drapiers en détail.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Boutan\",\n      \"forename\": \"Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands Drapiers en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Louis Boutan, Marchands Drapiers en détail.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Weibel\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands Drapiers en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Weibel, Marchands Drapiers en détail.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Pachoud\",\n      \"forename\": \"Elis.\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands Drapiers en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"née Houser\",\n      \"text\": \"Elis. Pachoud née Houser. Marchands Drapiers en détail.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"firma\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Ferrier, Christ & Comp.\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands Drapiers en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ferrier, Christ & Comp., Marchands Drapiers en gros.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"\",\n      \"forename\": \"Isaac\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Isaac\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "48",
+  "running_head": "LAUSANNE.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "48 LAUSANNE."
+   },
+   {
+    "n": 2,
+    "text": "Monsieur"
+   },
+   {
+    "n": 3,
+    "text": "Michel Hollard & Comp., en Mousselines &"
+   },
+   {
+    "n": 4,
+    "text": "Toillerie en gros."
+   },
+   {
+    "n": 5,
+    "text": "Mieville, ) Fabricants & Marchands"
+   },
+   {
+    "n": 6,
+    "text": "Mad. Elis. Pachoud ) de Chapeaux de toutes"
+   },
+   {
+    "n": 7,
+    "text": "& Comp. ) espèces."
+   },
+   {
+    "n": 8,
+    "text": "Paul Remy & Fils aîné, ont une Fabrique,"
+   },
+   {
+    "n": 9,
+    "text": "ou plutôt une Teinture en rouge pour le Coton,"
+   },
+   {
+    "n": 10,
+    "text": "dont la solidité de la couleur est reconnue, &"
+   },
+   {
+    "n": 11,
+    "text": "qui est d'une grande utilité."
+   },
+   {
+    "n": 12,
+    "text": "Garcin, née David, Vve. ) Marchands, Caincail-"
+   },
+   {
+    "n": 13,
+    "text": "Auboin, Fils, ) lers, Merciers &"
+   },
+   {
+    "n": 14,
+    "text": "Boutan & Penserot, ) Toiliers en gros."
+   },
+   {
+    "n": 15,
+    "text": "Louis Porta & Comp. )"
+   },
+   {
+    "n": 16,
+    "text": "Francillon, Marignac & Fils, ) Banquiers."
+   },
+   {
+    "n": 17,
+    "text": "Marcel Carrard & Comp. )"
+   },
+   {
+    "n": 18,
+    "text": "Cette derniere maison a en même tems un grand"
+   },
+   {
+    "n": 19,
+    "text": "commerce d'Epiceries en gros."
+   },
+   {
+    "n": 20,
+    "text": "Jaques Elie Oboussier, Commissionnaire."
+   },
+   {
+    "n": 21,
+    "text": "Jn. Fabre, )"
+   },
+   {
+    "n": 22,
+    "text": "Papon & Oboussier, )"
+   },
+   {
+    "n": 23,
+    "text": "Corboz & Roulet, ) Marchands Drapiers"
+   },
+   {
+    "n": 24,
+    "text": "Louis Boutan, ) en détail."
+   },
+   {
+    "n": 25,
+    "text": "Samuel Weibel, )"
+   },
+   {
+    "n": 26,
+    "text": "Elis. Pachoud née )"
+   },
+   {
+    "n": 27,
+    "text": "Houser. )"
+   },
+   {
+    "n": 28,
+    "text": "Ferrier, Christ & Comp., Marchands Dra-"
+   },
+   {
+    "n": 29,
+    "text": "piers en gros."
+   },
+   {
+    "n": 30,
+    "text": "Isaac"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Hollard",
+    "forename": "Michel",
+    "title": "& Comp.",
+    "occupation": "en Mousselines & Toillerie en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Michel Hollard & Comp., en Mousselines & Toillerie en gros."
+   },
+   {
+    "line_from": 5,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Mieville",
+    "forename": "",
+    "title": "",
+    "occupation": "Fabricants & Marchands de Chapeaux de toutes espèces",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mieville, Fabricants & Marchands de Chapeaux de toutes espèces."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Pachoud",
+    "forename": "Elis.",
+    "title": "Mad. … & Comp.",
+    "occupation": "Fabricants & Marchands de Chapeaux de toutes espèces",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mad. Elis. Pachoud & Comp. Fabricants & Marchands de Chapeaux de toutes espèces."
+   },
+   {
+    "line_from": 8,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Remy",
+    "forename": "Paul",
+    "title": "& Fils aîné",
+    "occupation": "ont une Fabrique, ou plutôt une Teinture en rouge pour le Coton",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Paul Remy & Fils aîné, ont une Fabrique, ou plutôt une Teinture en rouge pour le Coton, dont la solidité de la couleur est reconnue, & qui est d'une grande utilité."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Garcin",
+    "forename": "",
+    "title": "Vve.",
+    "occupation": "Marchands, Caincaillers, Merciers & Toiliers en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "née David",
+    "text": "Garcin, née David, Vve. Marchands, Caincaillers, Merciers & Toiliers en gros."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Auboin",
+    "forename": "",
+    "title": "Fils",
+    "occupation": "Marchands, Caincaillers, Merciers & Toiliers en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Auboin, Fils, Marchands, Caincaillers, Merciers & Toiliers en gros."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Boutan & Penserot",
+    "forename": "",
+    "title": "",
+    "occupation": "Marchands, Caincaillers, Merciers & Toiliers en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Boutan & Penserot, Marchands, Caincaillers, Merciers & Toiliers en gros."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Porta",
+    "forename": "Louis",
+    "title": "& Comp.",
+    "occupation": "Banquiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Louis Porta & Comp. Banquiers."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Francillon, Marignac & Fils",
+    "forename": "",
+    "title": "",
+    "occupation": "Banquiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Francillon, Marignac & Fils, Banquiers."
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Carrard",
+    "forename": "Marcel",
+    "title": "& Comp.",
+    "occupation": "Banquiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Cette derniere maison a en même tems un grand commerce d'Epiceries en gros.",
+    "text": "Marcel Carrard & Comp. Banquiers. Cette derniere maison a en même tems un grand commerce d'Epiceries en gros."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Oboussier",
+    "forename": "Jaques Elie",
+    "title": "",
+    "occupation": "Commissionnaire",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jaques Elie Oboussier, Commissionnaire."
+   },
+   {
+    "line_from": 21,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Fabre",
+    "forename": "Jn.",
+    "title": "",
+    "occupation": "Marchands Drapiers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jn. Fabre, Marchands Drapiers en détail."
+   },
+   {
+    "line_from": 22,
+    "line_to": 24,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Papon & Oboussier",
+    "forename": "",
+    "title": "",
+    "occupation": "Marchands Drapiers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Papon & Oboussier, Marchands Drapiers en détail."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Corboz & Roulet",
+    "forename": "",
+    "title": "",
+    "occupation": "Marchands Drapiers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Corboz & Roulet, Marchands Drapiers en détail."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Boutan",
+    "forename": "Louis",
+    "title": "",
+    "occupation": "Marchands Drapiers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Louis Boutan, Marchands Drapiers en détail."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Weibel",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Marchands Drapiers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Weibel, Marchands Drapiers en détail."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Pachoud",
+    "forename": "Elis.",
+    "title": "",
+    "occupation": "Marchands Drapiers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "née Houser",
+    "text": "Elis. Pachoud née Houser. Marchands Drapiers en détail."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "firma",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Ferrier, Christ & Comp.",
+    "forename": "",
+    "title": "",
+    "occupation": "Marchands Drapiers en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ferrier, Christ & Comp., Marchands Drapiers en gros."
+   },
+   {
+    "line_from": 30,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "",
+    "forename": "Isaac",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Isaac"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:51:16+01:00",
+ "last_error": null
+}

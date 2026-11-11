@@ -1,0 +1,398 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 110,
+ "section": "ville",
+ "started": "2026-11-11T20:57:35+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 19.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2301,
+  "output": 3055,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"37\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"37\"},\n    {\"n\": 2, \"text\": \"Gaudard et Leuenberger, papier de\"},\n    {\"n\": 3, \"text\": \"differens genres, carton et dépôt\"},\n    {\"n\": 4, \"text\": \"de Grouner à Worblaufen. … Q. v. 199.\"},\n    {\"n\": 5, \"text\": \"Halder, J. J. … — j. 62.\"},\n    {\"n\": 6, \"text\": \"Haller, Bernh. Albr., idem. … — j. 91.\"},\n    {\"n\": 7, \"text\": \"Heintz, Bernh., idem. … — j. 30.\"},\n    {\"n\": 8, \"text\": \"Knieling, Jaques. … — v. 157.\"},\n    {\"n\": 9, \"text\": \"On trouve chez les Marchands nommés dans cet ar-\"},\n    {\"n\": 10, \"text\": \"ticle: cire à cacheter oublis, encre, crayons,\"},\n    {\"n\": 11, \"text\": \"porte feuilles etc.\"},\n    {\"n\": 12, \"text\": \"Papier timbré.\"},\n    {\"n\": 13, \"text\": \"Gerster, fils, Notaire, Directeur du\"},\n    {\"n\": 14, \"text\": \"Timbre. … Q. j. 114.\"},\n    {\"n\": 15, \"text\": \"se distribue et se vend:\"},\n    {\"n\": 16, \"text\": \"Au Bureau du greffe de la Pré-\"},\n    {\"n\": 17, \"text\": \"fecture. … Q. j. 151.\"},\n    {\"n\": 18, \"text\": \"chez Mlle. Schnell. … — bl. 125.\"},\n    {\"n\": 19, \"text\": \"et chez J. E. Wagner, Epic. … — bl. 1.\"},\n    {\"n\": 20, \"text\": \"Papiers peints pour decors, orne-\"},\n    {\"n\": 21, \"text\": \"mens et tentures.\"},\n    {\"n\": 22, \"text\": \"Gaudard et Leuenberger. … Q. v. 199.\"},\n    {\"n\": 23, \"text\": \"Haller, Bernh. Albr. … — j. 91.\"},\n    {\"n\": 24, \"text\": \"Maser, Samuel. … — v. 188.\"},\n    {\"n\": 25, \"text\": \"\"},\n    {\"n\": 26, \"text\": \"\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 4,\n      \"kind\": \"firma\",\n      \"heading\": \"Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gaudard et Leuenberger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"papier de differens genres, carton et dépôt de Grouner à Worblaufen\",\n      \"address\": \"Q. v. 199.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"199\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gaudard et Leuenberger, papier de differens genres, carton et dépôt de Grouner à Worblaufen. Q. v. 199.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Halder\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— j. 62.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Halder, J. J. — j. 62.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"Bernh. Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"idem\",\n      \"address\": \"— j. 91.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"91\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haller, Bernh. Albr., idem. — j. 91.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heintz\",\n      \"forename\": \"Bernh.\",\n      \"title\": \"\",\n      \"occupation\": \"idem\",\n      \"address\": \"— j. 30.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"30\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Heintz, Bernh., idem. — j. 30.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Knieling\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 157.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"157\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Knieling, Jaques. — v. 157.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 11,\n      \"kind\": \"sonst\",\n      \"heading\": \"Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Hinweis zu den Marchands\",\n      \"text\": \"On trouve chez les Marchands nommés dans cet article: cire à cacheter oublis, encre, crayons, porte feuilles etc.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Papier timbré\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerster\",\n      \"forename\": \"\",\n      \"title\": \"fils\",\n      \"occupation\": \"Notaire, Directeur du Timbre\",\n      \"address\": \"Q. j. 114.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"114\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gerster, fils, Notaire, Directeur du Timbre. Q. j. 114.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"institution\",\n      \"heading\": \"Papier timbré\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. j. 151.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"151\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"se distribue et se vend\",\n      \"text\": \"se distribue et se vend: Au Bureau du greffe de la Préfecture. Q. j. 151.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Papier timbré\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schnell\",\n      \"forename\": \"\",\n      \"title\": \"Mlle.\",\n      \"occupation\": \"\",\n      \"address\": \"— bl. 125.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"125\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"se distribue et se vend\",\n      \"text\": \"chez Mlle. Schnell. — bl. 125.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Papier timbré\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wagner\",\n      \"forename\": \"J. E.\",\n      \"title\": \"\",\n      \"occupation\": \"Epic.\",\n      \"address\": \"— bl. 1.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"1\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"se distribue et se vend\",\n      \"text\": \"et chez J. E. Wagner, Epic. — bl. 1.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"firma\",\n      \"heading\": \"Papiers peints pour decors, ornemens et tentures\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gaudard et Leuenberger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 199.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"199\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gaudard et Leuenberger. Q. v. 199.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Papiers peints pour decors, ornemens et tentures\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"Bernh. Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— j. 91.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"91\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haller, Bernh. Albr. — j. 91.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Papiers peints pour decors, ornemens et tentures\",\n      \"place\": \"Bern\",\n      \"surname\": \"Maser\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 188.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"188\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Maser, Samuel. — v. 188.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "37",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "37"
+   },
+   {
+    "n": 2,
+    "text": "Gaudard et Leuenberger, papier de"
+   },
+   {
+    "n": 3,
+    "text": "differens genres, carton et dépôt"
+   },
+   {
+    "n": 4,
+    "text": "de Grouner à Worblaufen. … Q. v. 199."
+   },
+   {
+    "n": 5,
+    "text": "Halder, J. J. … — j. 62."
+   },
+   {
+    "n": 6,
+    "text": "Haller, Bernh. Albr., idem. … — j. 91."
+   },
+   {
+    "n": 7,
+    "text": "Heintz, Bernh., idem. … — j. 30."
+   },
+   {
+    "n": 8,
+    "text": "Knieling, Jaques. … — v. 157."
+   },
+   {
+    "n": 9,
+    "text": "On trouve chez les Marchands nommés dans cet ar-"
+   },
+   {
+    "n": 10,
+    "text": "ticle: cire à cacheter oublis, encre, crayons,"
+   },
+   {
+    "n": 11,
+    "text": "porte feuilles etc."
+   },
+   {
+    "n": 12,
+    "text": "Papier timbré."
+   },
+   {
+    "n": 13,
+    "text": "Gerster, fils, Notaire, Directeur du"
+   },
+   {
+    "n": 14,
+    "text": "Timbre. … Q. j. 114."
+   },
+   {
+    "n": 15,
+    "text": "se distribue et se vend:"
+   },
+   {
+    "n": 16,
+    "text": "Au Bureau du greffe de la Pré-"
+   },
+   {
+    "n": 17,
+    "text": "fecture. … Q. j. 151."
+   },
+   {
+    "n": 18,
+    "text": "chez Mlle. Schnell. … — bl. 125."
+   },
+   {
+    "n": 19,
+    "text": "et chez J. E. Wagner, Epic. … — bl. 1."
+   },
+   {
+    "n": 20,
+    "text": "Papiers peints pour decors, orne-"
+   },
+   {
+    "n": 21,
+    "text": "mens et tentures."
+   },
+   {
+    "n": 22,
+    "text": "Gaudard et Leuenberger. … Q. v. 199."
+   },
+   {
+    "n": 23,
+    "text": "Haller, Bernh. Albr. … — j. 91."
+   },
+   {
+    "n": 24,
+    "text": "Maser, Samuel. … — v. 188."
+   },
+   {
+    "n": 25,
+    "text": ""
+   },
+   {
+    "n": 26,
+    "text": ""
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 4,
+    "kind": "firma",
+    "heading": "Papier",
+    "place": "Bern",
+    "surname": "Gaudard et Leuenberger",
+    "forename": "",
+    "title": "",
+    "occupation": "papier de differens genres, carton et dépôt de Grouner à Worblaufen",
+    "address": "Q. v. 199.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "199",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gaudard et Leuenberger, papier de differens genres, carton et dépôt de Grouner à Worblaufen. Q. v. 199."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Papier",
+    "place": "Bern",
+    "surname": "Halder",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "",
+    "address": "— j. 62.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "62",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Halder, J. J. — j. 62."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Papier",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "Bernh. Albr.",
+    "title": "",
+    "occupation": "idem",
+    "address": "— j. 91.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "91",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haller, Bernh. Albr., idem. — j. 91."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Papier",
+    "place": "Bern",
+    "surname": "Heintz",
+    "forename": "Bernh.",
+    "title": "",
+    "occupation": "idem",
+    "address": "— j. 30.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "30",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Heintz, Bernh., idem. — j. 30."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Papier",
+    "place": "Bern",
+    "surname": "Knieling",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 157.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "157",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Knieling, Jaques. — v. 157."
+   },
+   {
+    "line_from": 9,
+    "line_to": 11,
+    "kind": "sonst",
+    "heading": "Papier",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Hinweis zu den Marchands",
+    "text": "On trouve chez les Marchands nommés dans cet article: cire à cacheter oublis, encre, crayons, porte feuilles etc."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Papier timbré",
+    "place": "Bern",
+    "surname": "Gerster",
+    "forename": "",
+    "title": "fils",
+    "occupation": "Notaire, Directeur du Timbre",
+    "address": "Q. j. 114.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "114",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gerster, fils, Notaire, Directeur du Timbre. Q. j. 114."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "institution",
+    "heading": "Papier timbré",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Q. j. 151.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "151",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "se distribue et se vend",
+    "text": "se distribue et se vend: Au Bureau du greffe de la Préfecture. Q. j. 151."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Papier timbré",
+    "place": "Bern",
+    "surname": "Schnell",
+    "forename": "",
+    "title": "Mlle.",
+    "occupation": "",
+    "address": "— bl. 125.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "125",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "se distribue et se vend",
+    "text": "chez Mlle. Schnell. — bl. 125."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Papier timbré",
+    "place": "Bern",
+    "surname": "Wagner",
+    "forename": "J. E.",
+    "title": "",
+    "occupation": "Epic.",
+    "address": "— bl. 1.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "1",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "se distribue et se vend",
+    "text": "et chez J. E. Wagner, Epic. — bl. 1."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "firma",
+    "heading": "Papiers peints pour decors, ornemens et tentures",
+    "place": "Bern",
+    "surname": "Gaudard et Leuenberger",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 199.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "199",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gaudard et Leuenberger. Q. v. 199."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Papiers peints pour decors, ornemens et tentures",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "Bernh. Albr.",
+    "title": "",
+    "occupation": "",
+    "address": "— j. 91.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "91",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haller, Bernh. Albr. — j. 91."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Papiers peints pour decors, ornemens et tentures",
+    "place": "Bern",
+    "surname": "Maser",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 188.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "188",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Maser, Samuel. — v. 188."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:57:55+01:00",
+ "last_error": null
+}

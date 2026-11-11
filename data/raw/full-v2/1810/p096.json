@@ -1,0 +1,330 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 96,
+ "section": "ville",
+ "started": "2026-11-11T20:55:56+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 65.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2300,
+  "output": 2406,
+  "thoughts": 7403
+ },
+ "response_text": "{\n  \"printed_page\": \"23\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"23\"},\n    {\"n\": 2, \"text\": \"Heller, Jean Henri. … Q. v. 216.\"},\n    {\"n\": 3, \"text\": \"Zyset, Frèd. … — bl. 214.\"},\n    {\"n\": 4, \"text\": \"Fleuristes, voyez Jardiniers.\"},\n    {\"n\": 5, \"text\": \"Fourbisseurs.\"},\n    {\"n\": 6, \"text\": \"Hackeni, Christophe. … Q. v. 76.\"},\n    {\"n\": 7, \"text\": \"Dünz, Albr. … — r. 61.\"},\n    {\"n\": 8, \"text\": \"Schanauer, Rodolphe. … — r. 82.\"},\n    {\"n\": 9, \"text\": \"Fourbisseurs doreurs et fondeurs.\"},\n    {\"n\": 10, \"text\": \"(Gürtler.)\"},\n    {\"n\": 11, \"text\": \"Aerni, Antoine. … Q. v. 158.\"},\n    {\"n\": 12, \"text\": \"Fasnacht, Charles. … — r. 206.\"},\n    {\"n\": 13, \"text\": \"Lang, Gabriel. … — v. 18.\"},\n    {\"n\": 14, \"text\": \"Fourreurs, voyez Pelletiers.\"},\n    {\"n\": 15, \"text\": \"Fruits d'Italie.\"},\n    {\"n\": 16, \"text\": \"Massa, Nicolas, Citrons, oranges,\"},\n    {\"n\": 17, \"text\": \"fruits secs, Macaronis de Gènes\"},\n    {\"n\": 18, \"text\": \"et autres articles appartenants\"},\n    {\"n\": 19, \"text\": \"à cette branche. … Q. v. 186.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heller\",\n      \"forename\": \"Jean Henri\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 216.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"216\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Heller, Jean Henri. Q. v. 216.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zyset\",\n      \"forename\": \"Frèd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— bl. 214.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"214\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zyset, Frèd. — bl. 214.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"verweis\",\n      \"heading\": \"Fleuristes\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fleuristes, voyez Jardiniers.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Fourbisseurs\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hackeni\",\n      \"forename\": \"Christophe\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 76.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"76\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hackeni, Christophe. Q. v. 76.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Fourbisseurs\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dünz\",\n      \"forename\": \"Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 61.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dünz, Albr. — r. 61.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Fourbisseurs\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schanauer\",\n      \"forename\": \"Rodolphe\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 82.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"82\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schanauer, Rodolphe. — r. 82.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Fourbisseurs doreurs et fondeurs. (Gürtler.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aerni\",\n      \"forename\": \"Antoine\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 158.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"158\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aerni, Antoine. Q. v. 158.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Fourbisseurs doreurs et fondeurs. (Gürtler.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fasnacht\",\n      \"forename\": \"Charles\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 206.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"206\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fasnacht, Charles. — r. 206.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Fourbisseurs doreurs et fondeurs. (Gürtler.)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lang\",\n      \"forename\": \"Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 18.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"18\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lang, Gabriel. — v. 18.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"verweis\",\n      \"heading\": \"Fourreurs\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fourreurs, voyez Pelletiers.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Fruits d'Italie\",\n      \"place\": \"Bern\",\n      \"surname\": \"Massa\",\n      \"forename\": \"Nicolas\",\n      \"title\": \"\",\n      \"occupation\": \"Citrons, oranges, fruits secs, Macaronis de Gènes et autres articles appartenants à cette branche.\",\n      \"address\": \"Q. v. 186.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"186\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Massa, Nicolas, Citrons, oranges, fruits secs, Macaronis de Gènes et autres articles appartenants à cette branche. Q. v. 186.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "23",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "23"
+   },
+   {
+    "n": 2,
+    "text": "Heller, Jean Henri. … Q. v. 216."
+   },
+   {
+    "n": 3,
+    "text": "Zyset, Frèd. … — bl. 214."
+   },
+   {
+    "n": 4,
+    "text": "Fleuristes, voyez Jardiniers."
+   },
+   {
+    "n": 5,
+    "text": "Fourbisseurs."
+   },
+   {
+    "n": 6,
+    "text": "Hackeni, Christophe. … Q. v. 76."
+   },
+   {
+    "n": 7,
+    "text": "Dünz, Albr. … — r. 61."
+   },
+   {
+    "n": 8,
+    "text": "Schanauer, Rodolphe. … — r. 82."
+   },
+   {
+    "n": 9,
+    "text": "Fourbisseurs doreurs et fondeurs."
+   },
+   {
+    "n": 10,
+    "text": "(Gürtler.)"
+   },
+   {
+    "n": 11,
+    "text": "Aerni, Antoine. … Q. v. 158."
+   },
+   {
+    "n": 12,
+    "text": "Fasnacht, Charles. … — r. 206."
+   },
+   {
+    "n": 13,
+    "text": "Lang, Gabriel. … — v. 18."
+   },
+   {
+    "n": 14,
+    "text": "Fourreurs, voyez Pelletiers."
+   },
+   {
+    "n": 15,
+    "text": "Fruits d'Italie."
+   },
+   {
+    "n": 16,
+    "text": "Massa, Nicolas, Citrons, oranges,"
+   },
+   {
+    "n": 17,
+    "text": "fruits secs, Macaronis de Gènes"
+   },
+   {
+    "n": 18,
+    "text": "et autres articles appartenants"
+   },
+   {
+    "n": 19,
+    "text": "à cette branche. … Q. v. 186."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Heller",
+    "forename": "Jean Henri",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 216.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "216",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Heller, Jean Henri. Q. v. 216."
+   },
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Zyset",
+    "forename": "Frèd.",
+    "title": "",
+    "occupation": "",
+    "address": "— bl. 214.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "214",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zyset, Frèd. — bl. 214."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "verweis",
+    "heading": "Fleuristes",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fleuristes, voyez Jardiniers."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Fourbisseurs",
+    "place": "Bern",
+    "surname": "Hackeni",
+    "forename": "Christophe",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 76.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "76",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hackeni, Christophe. Q. v. 76."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Fourbisseurs",
+    "place": "Bern",
+    "surname": "Dünz",
+    "forename": "Albr.",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 61.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "61",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dünz, Albr. — r. 61."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Fourbisseurs",
+    "place": "Bern",
+    "surname": "Schanauer",
+    "forename": "Rodolphe",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 82.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "82",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schanauer, Rodolphe. — r. 82."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Fourbisseurs doreurs et fondeurs. (Gürtler.)",
+    "place": "Bern",
+    "surname": "Aerni",
+    "forename": "Antoine",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 158.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "158",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aerni, Antoine. Q. v. 158."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Fourbisseurs doreurs et fondeurs. (Gürtler.)",
+    "place": "Bern",
+    "surname": "Fasnacht",
+    "forename": "Charles",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 206.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "206",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fasnacht, Charles. — r. 206."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Fourbisseurs doreurs et fondeurs. (Gürtler.)",
+    "place": "Bern",
+    "surname": "Lang",
+    "forename": "Gabriel",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 18.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "18",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lang, Gabriel. — v. 18."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "verweis",
+    "heading": "Fourreurs",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fourreurs, voyez Pelletiers."
+   },
+   {
+    "line_from": 16,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Fruits d'Italie",
+    "place": "Bern",
+    "surname": "Massa",
+    "forename": "Nicolas",
+    "title": "",
+    "occupation": "Citrons, oranges, fruits secs, Macaronis de Gènes et autres articles appartenants à cette branche.",
+    "address": "Q. v. 186.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "186",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Massa, Nicolas, Citrons, oranges, fruits secs, Macaronis de Gènes et autres articles appartenants à cette branche. Q. v. 186."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:57:02+01:00",
+ "last_error": null
+}

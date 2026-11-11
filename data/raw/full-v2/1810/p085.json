@@ -1,0 +1,294 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 85,
+ "section": "ville",
+ "started": "2026-11-11T20:54:25+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 12.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2300,
+  "output": 2202,
+  "thoughts": 352
+ },
+ "response_text": "{\n  \"printed_page\": \"12\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"12\"},\n    {\"n\": 2, \"text\": \"Botanistes.\"},\n    {\"n\": 3, \"text\": \"Seringe, Charles. … Q. r. 2.\"},\n    {\"n\": 4, \"text\": \"On trouve chez lui des herbiers portatifs de plantes\"},\n    {\"n\": 5, \"text\": \"alpines, médecinales et économiques.\"},\n    {\"n\": 6, \"text\": \"Bottes et Souliers.\"},\n    {\"n\": 7, \"text\": \"Kinkel, Jean. Magazin. … Q. v. 205.\"},\n    {\"n\": 8, \"text\": \"Mattey, J. Em. idem. … — bl. 129.\"},\n    {\"n\": 9, \"text\": \"Brasseurs de Bierre.\"},\n    {\"n\": 10, \"text\": \"Gerhard, Charles. … Q. n. 116.\"},\n    {\"n\": 11, \"text\": \"Wälty, Em. … — n. 93.\"},\n    {\"n\": 12, \"text\": \"Ziegler, Fréd. Quart. de Hollinguen 97.\"},\n    {\"n\": 13, \"text\": \"Bureaux.\"},\n    {\"n\": 14, \"text\": \"Bureau de la feuille d'avis. … Q. v. 327.\"},\n    {\"n\": 15, \"text\": \"Bureau-central établi par le gouvernement\"},\n    {\"n\": 16, \"text\": \"pour la partie des poursuites juridiques :\"},\n    {\"n\": 17, \"text\": \"Chef, A. Rod. Wilhelmi, Avocat et Pro-\"},\n    {\"n\": 18, \"text\": \"cureur central du gouvernement. Q. v. 183.\"},\n    {\"n\": 19, \"text\": \"Bureau d'affaires de Samuel Gerber,\"},\n    {\"n\": 20, \"text\": \"Avocat et Notaire. … — v. 210.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Botanistes.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Seringe\",\n      \"forename\": \"Charles\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. r. 2\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"2\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Seringe, Charles. Q. r. 2. On trouve chez lui des herbiers portatifs de plantes alpines, médecinales et économiques.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Bottes et Souliers.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kinkel\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Magazin\",\n      \"address\": \"Q. v. 205\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"205\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kinkel, Jean. Magazin. Q. v. 205.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Bottes et Souliers.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mattey\",\n      \"forename\": \"J. Em.\",\n      \"title\": \"\",\n      \"occupation\": \"idem\",\n      \"address\": \"— bl. 129\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"129\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mattey, J. Em. idem. — bl. 129.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Brasseurs de Bierre.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerhard\",\n      \"forename\": \"Charles\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. n. 116\",\n      \"quarter\": \"n.\",\n      \"street\": \"\",\n      \"house_no\": \"116\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gerhard, Charles. Q. n. 116.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Brasseurs de Bierre.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wälty\",\n      \"forename\": \"Em.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— n. 93\",\n      \"quarter\": \"n.\",\n      \"street\": \"\",\n      \"house_no\": \"93\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Quartier aus Vorzeile\",\n      \"text\": \"Wälty, Em. — n. 93.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Brasseurs de Bierre.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ziegler\",\n      \"forename\": \"Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Quart. de Hollinguen 97\",\n      \"quarter\": \"Quart. de Hollinguen\",\n      \"street\": \"\",\n      \"house_no\": \"97\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ziegler, Fréd. Quart. de Hollinguen 97.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"institution\",\n      \"heading\": \"Bureaux.\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 327\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"327\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bureau de la feuille d'avis. Q. v. 327.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 18,\n      \"kind\": \"institution\",\n      \"heading\": \"Bureaux.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wilhelmi\",\n      \"forename\": \"A. Rod.\",\n      \"title\": \"Chef\",\n      \"occupation\": \"Avocat et Procureur central du gouvernement\",\n      \"address\": \"Q. v. 183\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"183\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bureau-central établi par le gouvernement pour la partie des poursuites juridiques : Chef, A. Rod. Wilhelmi, Avocat et Procureur central du gouvernement. Q. v. 183.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"institution\",\n      \"heading\": \"Bureaux.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerber\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Avocat et Notaire\",\n      \"address\": \"— v. 210\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"210\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Quartier aus Vorzeile\",\n      \"text\": \"Bureau d'affaires de Samuel Gerber, Avocat et Notaire. — v. 210.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "12",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "12"
+   },
+   {
+    "n": 2,
+    "text": "Botanistes."
+   },
+   {
+    "n": 3,
+    "text": "Seringe, Charles. … Q. r. 2."
+   },
+   {
+    "n": 4,
+    "text": "On trouve chez lui des herbiers portatifs de plantes"
+   },
+   {
+    "n": 5,
+    "text": "alpines, médecinales et économiques."
+   },
+   {
+    "n": 6,
+    "text": "Bottes et Souliers."
+   },
+   {
+    "n": 7,
+    "text": "Kinkel, Jean. Magazin. … Q. v. 205."
+   },
+   {
+    "n": 8,
+    "text": "Mattey, J. Em. idem. … — bl. 129."
+   },
+   {
+    "n": 9,
+    "text": "Brasseurs de Bierre."
+   },
+   {
+    "n": 10,
+    "text": "Gerhard, Charles. … Q. n. 116."
+   },
+   {
+    "n": 11,
+    "text": "Wälty, Em. … — n. 93."
+   },
+   {
+    "n": 12,
+    "text": "Ziegler, Fréd. Quart. de Hollinguen 97."
+   },
+   {
+    "n": 13,
+    "text": "Bureaux."
+   },
+   {
+    "n": 14,
+    "text": "Bureau de la feuille d'avis. … Q. v. 327."
+   },
+   {
+    "n": 15,
+    "text": "Bureau-central établi par le gouvernement"
+   },
+   {
+    "n": 16,
+    "text": "pour la partie des poursuites juridiques :"
+   },
+   {
+    "n": 17,
+    "text": "Chef, A. Rod. Wilhelmi, Avocat et Pro-"
+   },
+   {
+    "n": 18,
+    "text": "cureur central du gouvernement. Q. v. 183."
+   },
+   {
+    "n": 19,
+    "text": "Bureau d'affaires de Samuel Gerber,"
+   },
+   {
+    "n": 20,
+    "text": "Avocat et Notaire. … — v. 210."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Botanistes.",
+    "place": "Bern",
+    "surname": "Seringe",
+    "forename": "Charles",
+    "title": "",
+    "occupation": "",
+    "address": "Q. r. 2",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "2",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Seringe, Charles. Q. r. 2. On trouve chez lui des herbiers portatifs de plantes alpines, médecinales et économiques."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Bottes et Souliers.",
+    "place": "Bern",
+    "surname": "Kinkel",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Magazin",
+    "address": "Q. v. 205",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "205",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kinkel, Jean. Magazin. Q. v. 205."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Bottes et Souliers.",
+    "place": "Bern",
+    "surname": "Mattey",
+    "forename": "J. Em.",
+    "title": "",
+    "occupation": "idem",
+    "address": "— bl. 129",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "129",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mattey, J. Em. idem. — bl. 129."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Brasseurs de Bierre.",
+    "place": "Bern",
+    "surname": "Gerhard",
+    "forename": "Charles",
+    "title": "",
+    "occupation": "",
+    "address": "Q. n. 116",
+    "quarter": "n.",
+    "street": "",
+    "house_no": "116",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gerhard, Charles. Q. n. 116."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Brasseurs de Bierre.",
+    "place": "Bern",
+    "surname": "Wälty",
+    "forename": "Em.",
+    "title": "",
+    "occupation": "",
+    "address": "— n. 93",
+    "quarter": "n.",
+    "street": "",
+    "house_no": "93",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Quartier aus Vorzeile",
+    "text": "Wälty, Em. — n. 93."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Brasseurs de Bierre.",
+    "place": "Bern",
+    "surname": "Ziegler",
+    "forename": "Fréd.",
+    "title": "",
+    "occupation": "",
+    "address": "Quart. de Hollinguen 97",
+    "quarter": "Quart. de Hollinguen",
+    "street": "",
+    "house_no": "97",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ziegler, Fréd. Quart. de Hollinguen 97."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "institution",
+    "heading": "Bureaux.",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 327",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "327",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bureau de la feuille d'avis. Q. v. 327."
+   },
+   {
+    "line_from": 15,
+    "line_to": 18,
+    "kind": "institution",
+    "heading": "Bureaux.",
+    "place": "Bern",
+    "surname": "Wilhelmi",
+    "forename": "A. Rod.",
+    "title": "Chef",
+    "occupation": "Avocat et Procureur central du gouvernement",
+    "address": "Q. v. 183",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "183",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bureau-central établi par le gouvernement pour la partie des poursuites juridiques : Chef, A. Rod. Wilhelmi, Avocat et Procureur central du gouvernement. Q. v. 183."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "institution",
+    "heading": "Bureaux.",
+    "place": "Bern",
+    "surname": "Gerber",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Avocat et Notaire",
+    "address": "— v. 210",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "210",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Quartier aus Vorzeile",
+    "text": "Bureau d'affaires de Samuel Gerber, Avocat et Notaire. — v. 210."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:54:38+01:00",
+ "last_error": null
+}

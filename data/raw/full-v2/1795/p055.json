@@ -1,0 +1,462 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 55,
+ "section": "handbuch",
+ "started": "2026-11-11T20:51:44+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 60.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 3349,
+  "thoughts": 4784
+ },
+ "response_text": "{\n  \"printed_page\": \"55\",\n  \"running_head\": \"Morges.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Morges. 55\"},\n    {\"n\": 2, \"text\": \"Monsieur\"},\n    {\"n\": 3, \"text\": \"Samuel Glaire,\"},\n    {\"n\": 4, \"text\": \"François Guibert, } Tanneries.\"},\n    {\"n\": 5, \"text\": \"Jean Mercier,\"},\n    {\"n\": 6, \"text\": \"François Centlivre, Fabrique de Chandelles.\"},\n    {\"n\": 7, \"text\": \"Les Freres Cupelin, Couteliers, très-renom-\"},\n    {\"n\": 8, \"text\": \"més pour les serpettes à tailler la vigne.\"},\n    {\"n\": 9, \"text\": \"Jean Marcel, à Biere, riere ce Baillage, Papé-\"},\n    {\"n\": 10, \"text\": \"terie.\"},\n    {\"n\": 11, \"text\": \"La Combe, Chamoiseur.\"},\n    {\"n\": 12, \"text\": \"César Dellient &\"},\n    {\"n\": 13, \"text\": \"De Petra, } Négocians, en épice-\"},\n    {\"n\": 14, \"text\": \"Les Freres Muret, } ries en gros.\"},\n    {\"n\": 15, \"text\": \"Muret Guex,\"},\n    {\"n\": 16, \"text\": \"Billon & Foltz, } Négoc. en toileries,\"},\n    {\"n\": 17, \"text\": \"P. Muret & Landry, } Indienne en gros.\"},\n    {\"n\": 18, \"text\": \"Jacob Hochreutiner, Négociant en toi-\"},\n    {\"n\": 19, \"text\": \"leries.\"},\n    {\"n\": 20, \"text\": \"Aléxandre Buvelot, Négociant en Draperie\"},\n    {\"n\": 21, \"text\": \"en gros.\"},\n    {\"n\": 22, \"text\": \"Moudon.\"},\n    {\"n\": 23, \"text\": \"Daniel Philippe Bour- } tous les deux en Drape-\"},\n    {\"n\": 24, \"text\": \"geois, } rie en détail, & achê-\"},\n    {\"n\": 25, \"text\": \"Benjamin Bourgeois, } tent par tout le pays\"},\n    {\"n\": 26, \"text\": \"Fils. } des Marchandises.\"},\n    {\"n\": 27, \"text\": \"D 4\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Glaire\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Tanneries\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Glaire, Tanneries.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Guibert\",\n      \"forename\": \"François\",\n      \"title\": \"\",\n      \"occupation\": \"Tanneries\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"François Guibert, Tanneries.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Mercier\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Tanneries\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jean Mercier, Tanneries.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Centlivre\",\n      \"forename\": \"François\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrique de Chandelles\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"François Centlivre, Fabrique de Chandelles.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"firma\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Cupelin\",\n      \"forename\": \"\",\n      \"title\": \"Les Freres\",\n      \"occupation\": \"Couteliers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Les Freres Cupelin, Couteliers, très-renommés pour les serpettes à tailler la vigne.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Marcel\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Papéterie\",\n      \"address\": \"à Biere, riere ce Baillage\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jean Marcel, à Biere, riere ce Baillage, Papéterie.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"La Combe\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Chamoiseur\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"La Combe, Chamoiseur.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Dellient & De Petra\",\n      \"forename\": \"César\",\n      \"title\": \"\",\n      \"occupation\": \"Négocians, en épiceries en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"César Dellient & De Petra, Négocians, en épiceries en gros.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Muret\",\n      \"forename\": \"\",\n      \"title\": \"Les Freres\",\n      \"occupation\": \"Négocians, en épiceries en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Les Freres Muret, Négocians, en épiceries en gros.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"firma\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Muret Guex\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Négocians, en épiceries en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Muret Guex, Négocians, en épiceries en gros.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Billon & Foltz\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Négoc. en toileries, Indienne en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Billon & Foltz, Négoc. en toileries, Indienne en gros.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Muret & Landry\",\n      \"forename\": \"P.\",\n      \"title\": \"\",\n      \"occupation\": \"Négoc. en toileries, Indienne en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"P. Muret & Landry, Négoc. en toileries, Indienne en gros.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Hochreutiner\",\n      \"forename\": \"Jacob\",\n      \"title\": \"\",\n      \"occupation\": \"Négociant en toileries\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jacob Hochreutiner, Négociant en toileries.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Morges.\",\n      \"place\": \"Morges\",\n      \"surname\": \"Buvelot\",\n      \"forename\": \"Aléxandre\",\n      \"title\": \"\",\n      \"occupation\": \"Négociant en Draperie en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aléxandre Buvelot, Négociant en Draperie en gros.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Moudon.\",\n      \"place\": \"Moudon\",\n      \"surname\": \"Bourgeois\",\n      \"forename\": \"Daniel Philippe\",\n      \"title\": \"\",\n      \"occupation\": \"Draperie en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Philippe Bourgeois, tous les deux en Draperie en détail, & achêtent par tout le pays des Marchandises.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Moudon.\",\n      \"place\": \"Moudon\",\n      \"surname\": \"Bourgeois\",\n      \"forename\": \"Benjamin\",\n      \"title\": \"Fils\",\n      \"occupation\": \"Draperie en détail\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Benjamin Bourgeois, Fils, tous les deux en Draperie en détail, & achêtent par tout le pays des Marchandises.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "55",
+  "running_head": "Morges.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Morges. 55"
+   },
+   {
+    "n": 2,
+    "text": "Monsieur"
+   },
+   {
+    "n": 3,
+    "text": "Samuel Glaire,"
+   },
+   {
+    "n": 4,
+    "text": "François Guibert, } Tanneries."
+   },
+   {
+    "n": 5,
+    "text": "Jean Mercier,"
+   },
+   {
+    "n": 6,
+    "text": "François Centlivre, Fabrique de Chandelles."
+   },
+   {
+    "n": 7,
+    "text": "Les Freres Cupelin, Couteliers, très-renom-"
+   },
+   {
+    "n": 8,
+    "text": "més pour les serpettes à tailler la vigne."
+   },
+   {
+    "n": 9,
+    "text": "Jean Marcel, à Biere, riere ce Baillage, Papé-"
+   },
+   {
+    "n": 10,
+    "text": "terie."
+   },
+   {
+    "n": 11,
+    "text": "La Combe, Chamoiseur."
+   },
+   {
+    "n": 12,
+    "text": "César Dellient &"
+   },
+   {
+    "n": 13,
+    "text": "De Petra, } Négocians, en épice-"
+   },
+   {
+    "n": 14,
+    "text": "Les Freres Muret, } ries en gros."
+   },
+   {
+    "n": 15,
+    "text": "Muret Guex,"
+   },
+   {
+    "n": 16,
+    "text": "Billon & Foltz, } Négoc. en toileries,"
+   },
+   {
+    "n": 17,
+    "text": "P. Muret & Landry, } Indienne en gros."
+   },
+   {
+    "n": 18,
+    "text": "Jacob Hochreutiner, Négociant en toi-"
+   },
+   {
+    "n": 19,
+    "text": "leries."
+   },
+   {
+    "n": 20,
+    "text": "Aléxandre Buvelot, Négociant en Draperie"
+   },
+   {
+    "n": 21,
+    "text": "en gros."
+   },
+   {
+    "n": 22,
+    "text": "Moudon."
+   },
+   {
+    "n": 23,
+    "text": "Daniel Philippe Bour- } tous les deux en Drape-"
+   },
+   {
+    "n": 24,
+    "text": "geois, } rie en détail, & achê-"
+   },
+   {
+    "n": 25,
+    "text": "Benjamin Bourgeois, } tent par tout le pays"
+   },
+   {
+    "n": 26,
+    "text": "Fils. } des Marchandises."
+   },
+   {
+    "n": 27,
+    "text": "D 4"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Glaire",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Tanneries",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Glaire, Tanneries."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Guibert",
+    "forename": "François",
+    "title": "",
+    "occupation": "Tanneries",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "François Guibert, Tanneries."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Mercier",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Tanneries",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jean Mercier, Tanneries."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Centlivre",
+    "forename": "François",
+    "title": "",
+    "occupation": "Fabrique de Chandelles",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "François Centlivre, Fabrique de Chandelles."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "firma",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Cupelin",
+    "forename": "",
+    "title": "Les Freres",
+    "occupation": "Couteliers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Les Freres Cupelin, Couteliers, très-renommés pour les serpettes à tailler la vigne."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Marcel",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Papéterie",
+    "address": "à Biere, riere ce Baillage",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jean Marcel, à Biere, riere ce Baillage, Papéterie."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "La Combe",
+    "forename": "",
+    "title": "",
+    "occupation": "Chamoiseur",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "La Combe, Chamoiseur."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Dellient & De Petra",
+    "forename": "César",
+    "title": "",
+    "occupation": "Négocians, en épiceries en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "César Dellient & De Petra, Négocians, en épiceries en gros."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Muret",
+    "forename": "",
+    "title": "Les Freres",
+    "occupation": "Négocians, en épiceries en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Les Freres Muret, Négocians, en épiceries en gros."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "firma",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Muret Guex",
+    "forename": "",
+    "title": "",
+    "occupation": "Négocians, en épiceries en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Muret Guex, Négocians, en épiceries en gros."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Billon & Foltz",
+    "forename": "",
+    "title": "",
+    "occupation": "Négoc. en toileries, Indienne en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Billon & Foltz, Négoc. en toileries, Indienne en gros."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Muret & Landry",
+    "forename": "P.",
+    "title": "",
+    "occupation": "Négoc. en toileries, Indienne en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "P. Muret & Landry, Négoc. en toileries, Indienne en gros."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Hochreutiner",
+    "forename": "Jacob",
+    "title": "",
+    "occupation": "Négociant en toileries",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jacob Hochreutiner, Négociant en toileries."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Morges.",
+    "place": "Morges",
+    "surname": "Buvelot",
+    "forename": "Aléxandre",
+    "title": "",
+    "occupation": "Négociant en Draperie en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aléxandre Buvelot, Négociant en Draperie en gros."
+   },
+   {
+    "line_from": 23,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Moudon.",
+    "place": "Moudon",
+    "surname": "Bourgeois",
+    "forename": "Daniel Philippe",
+    "title": "",
+    "occupation": "Draperie en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Philippe Bourgeois, tous les deux en Draperie en détail, & achêtent par tout le pays des Marchandises."
+   },
+   {
+    "line_from": 23,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Moudon.",
+    "place": "Moudon",
+    "surname": "Bourgeois",
+    "forename": "Benjamin",
+    "title": "Fils",
+    "occupation": "Draperie en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Benjamin Bourgeois, Fils, tous les deux en Draperie en détail, & achêtent par tout le pays des Marchandises."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:52:44+01:00",
+ "last_error": null
+}

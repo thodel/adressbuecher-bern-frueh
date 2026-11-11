@@ -1,0 +1,430 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 111,
+ "section": "einsassen",
+ "started": "2026-11-11T22:05:22+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 46.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4137,
+  "thoughts": 3053
+ },
+ "response_text": "{\n  \"printed_page\": \"98\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"— 98 —\" },\n    { \"n\": 2, \"text\": \"Nr. Geb.\" },\n    { \"n\": 3, \"text\": \"2 817 Friedrich Joh., Arbeiter in der Kapselfabrike, B. v. 1\" },\n    { \"n\": 4, \"text\": \"- I, 1.\" },\n    { \"n\": 5, \"text\": \"816 Fr. - Elis. Hammer.\" },\n    { \"n\": 6, \"text\": \"1 T. - 845 Maria.\" },\n    { \"n\": 7, \"text\": \"Löffel.\" },\n    { \"n\": 8, \"text\": \"1 819 Joh. Franz, Mehlhändler, a. Bremgarten - II, 115.\" },\n    { \"n\": 9, \"text\": \"819 Fr. - Anna Barbara Ellenberger a. Landiswyl.\" },\n    { \"n\": 10, \"text\": \"1 T. - 847 Anna Maria.\" },\n    { \"n\": 11, \"text\": \"Löhrer a. Bischoffzell, K. Thurgau.\" },\n    { \"n\": 12, \"text\": \"1 Kath., geb. Dittlinger, des Malers Wittwe - II, 37.\" },\n    { \"n\": 13, \"text\": \"2 822 Joh. Jakob, Sattler - V, 92.\" },\n    { \"n\": 14, \"text\": \"Lörtscher.\" },\n    { \"n\": 15, \"text\": \"1 822 Joseph, Speisewirth, a. Spiez - IV, 102.\" },\n    { \"n\": 16, \"text\": \"820 Fr. - Elis. Berger\" },\n    { \"n\": 17, \"text\": \"Lohri.\" },\n    { \"n\": 18, \"text\": \"1 Henriette Louise, geb. de Meuron, a. Stalden - VII, 174.\" },\n    { \"n\": 19, \"text\": \"2 792 Christen, Weinhändler, a. Stalden - III, 103.\" },\n    { \"n\": 20, \"text\": \"791 Fr. - Anna Magd. Bühlmann a. Uetendorf.\" },\n    { \"n\": 21, \"text\": \"Lombard.\" },\n    { \"n\": 22, \"text\": \"1 797 Pierre, Schirmhändler, a. Valjouse in Frankreich -\" },\n    { \"n\": 23, \"text\": \"IV, 149.\" },\n    { \"n\": 24, \"text\": \"812 Fr. - Elis. Gast a. Marnand.\" },\n    { \"n\": 25, \"text\": \"3 K. - 835 Pierre August. - 42 Elis. Karoline. -\" },\n    { \"n\": 26, \"text\": \"45 Marie Karoline.\" },\n    { \"n\": 27, \"text\": \"Losli.\" },\n    { \"n\": 28, \"text\": \"1 799 Ulrich, Schneider, a. Sumiswald - II, 23.\" },\n    { \"n\": 29, \"text\": \"793 Fr. - Marg. Boß a. Langnau.\" },\n    { \"n\": 30, \"text\": \"2 822 Sophie, Schneiderin, a. Sumiswald - III, 35.\" },\n    { \"n\": 31, \"text\": \"Luchsinger.\" },\n    { \"n\": 32, \"text\": \"1 791 Heinrich, Wagner, a. Schwanden, K. Glarus - VI, 9.\" },\n    { \"n\": 33, \"text\": \"791 Fr. II Ehe. - Barb. Vögeli a. Bettschwanden, K. Glarus.\" },\n    { \"n\": 34, \"text\": \"3 S. aus II Ehe. - 823 Kaspar Johann. - 26 Rudolf\" },\n    { \"n\": 35, \"text\": \"Niklaus. - 32 Friedrich.\" },\n    { \"n\": 36, \"text\": \"2 787 David, Wollenhändler, a. Matt, K. Glarus - VI, 57.\" },\n    { \"n\": 37, \"text\": \"787 Fr. - Kath. Kundert a. Rüthe.\" },\n    { \"n\": 38, \"text\": \"4 K. - 818 Katharina. - 21 Anna Magdalena. - 25\" },\n    { \"n\": 39, \"text\": \"Christen. - 28 David Joh. Jakob.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Friedrich Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Arbeiter in der Kapselfabrike\",\n      \"address\": \"I, 1\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"1\",\n      \"origin\": \"\",\n      \"birth_year\": \"1817\",\n      \"household\": \"816 Fr. - Elis. Hammer. 1 T. - 845 Maria.\",\n      \"note\": \"B. v. 1\",\n      \"text\": \"2 817 Friedrich Joh., Arbeiter in der Kapselfabrike, B. v. 1 - I, 1. 816 Fr. - Elis. Hammer. 1 T. - 845 Maria.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Löffel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Löffel\",\n      \"forename\": \"Joh. Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlhändler\",\n      \"address\": \"II, 115\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"115\",\n      \"origin\": \"Bremgarten\",\n      \"birth_year\": \"1819\",\n      \"household\": \"819 Fr. - Anna Barbara Ellenberger a. Landiswyl. 1 T. - 847 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 819 Joh. Franz, Mehlhändler, a. Bremgarten - II, 115. 819 Fr. - Anna Barbara Ellenberger a. Landiswyl. 1 T. - 847 Anna Maria.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Löhrer a. Bischoffzell, K. Thurgau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Löhrer\",\n      \"forename\": \"Kath., geb. Dittlinger\",\n      \"title\": \"des Malers Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"II, 37\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"37\",\n      \"origin\": \"Bischoffzell, K. Thurgau\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Kath., geb. Dittlinger, des Malers Wittwe - II, 37.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Löhrer a. Bischoffzell, K. Thurgau.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Löhrer\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"V, 92\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"92\",\n      \"origin\": \"Bischoffzell, K. Thurgau\",\n      \"birth_year\": \"1822\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 822 Joh. Jakob, Sattler - V, 92.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Lörtscher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lörtscher\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth\",\n      \"address\": \"IV, 102\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"102\",\n      \"origin\": \"Spiez\",\n      \"birth_year\": \"1822\",\n      \"household\": \"820 Fr. - Elis. Berger\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 822 Joseph, Speisewirth, a. Spiez - IV, 102. 820 Fr. - Elis. Berger\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Lohri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lohri\",\n      \"forename\": \"Henriette Louise, geb. de Meuron\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"VII, 174\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"174\",\n      \"origin\": \"Stalden\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Henriette Louise, geb. de Meuron, a. Stalden - VII, 174.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Lohri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lohri\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhändler\",\n      \"address\": \"III, 103\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"103\",\n      \"origin\": \"Stalden\",\n      \"birth_year\": \"1792\",\n      \"household\": \"791 Fr. - Anna Magd. Bühlmann a. Uetendorf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 792 Christen, Weinhändler, a. Stalden - III, 103. 791 Fr. - Anna Magd. Bühlmann a. Uetendorf.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Lombard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lombard\",\n      \"forename\": \"Pierre\",\n      \"title\": \"\",\n      \"occupation\": \"Schirmhändler\",\n      \"address\": \"IV, 149\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"149\",\n      \"origin\": \"Valjouse in Frankreich\",\n      \"birth_year\": \"1797\",\n      \"household\": \"812 Fr. - Elis. Gast a. Marnand. 3 K. - 835 Pierre August. - 42 Elis. Karoline. - 45 Marie Karoline.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 Pierre, Schirmhändler, a. Valjouse in Frankreich - IV, 149. 812 Fr. - Elis. Gast a. Marnand. 3 K. - 835 Pierre August. - 42 Elis. Karoline. - 45 Marie Karoline.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Losli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Losli\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"II, 23\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"23\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1799\",\n      \"household\": \"793 Fr. - Marg. Boß a. Langnau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Ulrich, Schneider, a. Sumiswald - II, 23. 793 Fr. - Marg. Boß a. Langnau.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Losli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Losli\",\n      \"forename\": \"Sophie\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"III, 35\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"35\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1822\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 822 Sophie, Schneiderin, a. Sumiswald - III, 35.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Luchsinger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Luchsinger\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Wagner\",\n      \"address\": \"VI, 9\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"9\",\n      \"origin\": \"Schwanden, K. Glarus\",\n      \"birth_year\": \"1791\",\n      \"household\": \"791 Fr. II Ehe. - Barb. Vögeli a. Bettschwanden, K. Glarus. 3 S. aus II Ehe. - 823 Kaspar Johann. - 26 Rudolf Niklaus. - 32 Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 791 Heinrich, Wagner, a. Schwanden, K. Glarus - VI, 9. 791 Fr. II Ehe. - Barb. Vögeli a. Bettschwanden, K. Glarus. 3 S. aus II Ehe. - 823 Kaspar Johann. - 26 Rudolf Niklaus. - 32 Friedrich.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Luchsinger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Luchsinger\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Wollenhändler\",\n      \"address\": \"VI, 57\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"57\",\n      \"origin\": \"Matt, K. Glarus\",\n      \"birth_year\": \"1787\",\n      \"household\": \"787 Fr. - Kath. Kundert a. Rüthe. 4 K. - 818 Katharina. - 21 Anna Magdalena. - 25 Christen. - 28 David Joh. Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 787 David, Wollenhändler, a. Matt, K. Glarus - VI, 57. 787 Fr. - Kath. Kundert a. Rüthe. 4 K. - 818 Katharina. - 21 Anna Magdalena. - 25 Christen. - 28 David Joh. Jakob.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "98",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 98 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "2 817 Friedrich Joh., Arbeiter in der Kapselfabrike, B. v. 1"
+   },
+   {
+    "n": 4,
+    "text": "- I, 1."
+   },
+   {
+    "n": 5,
+    "text": "816 Fr. - Elis. Hammer."
+   },
+   {
+    "n": 6,
+    "text": "1 T. - 845 Maria."
+   },
+   {
+    "n": 7,
+    "text": "Löffel."
+   },
+   {
+    "n": 8,
+    "text": "1 819 Joh. Franz, Mehlhändler, a. Bremgarten - II, 115."
+   },
+   {
+    "n": 9,
+    "text": "819 Fr. - Anna Barbara Ellenberger a. Landiswyl."
+   },
+   {
+    "n": 10,
+    "text": "1 T. - 847 Anna Maria."
+   },
+   {
+    "n": 11,
+    "text": "Löhrer a. Bischoffzell, K. Thurgau."
+   },
+   {
+    "n": 12,
+    "text": "1 Kath., geb. Dittlinger, des Malers Wittwe - II, 37."
+   },
+   {
+    "n": 13,
+    "text": "2 822 Joh. Jakob, Sattler - V, 92."
+   },
+   {
+    "n": 14,
+    "text": "Lörtscher."
+   },
+   {
+    "n": 15,
+    "text": "1 822 Joseph, Speisewirth, a. Spiez - IV, 102."
+   },
+   {
+    "n": 16,
+    "text": "820 Fr. - Elis. Berger"
+   },
+   {
+    "n": 17,
+    "text": "Lohri."
+   },
+   {
+    "n": 18,
+    "text": "1 Henriette Louise, geb. de Meuron, a. Stalden - VII, 174."
+   },
+   {
+    "n": 19,
+    "text": "2 792 Christen, Weinhändler, a. Stalden - III, 103."
+   },
+   {
+    "n": 20,
+    "text": "791 Fr. - Anna Magd. Bühlmann a. Uetendorf."
+   },
+   {
+    "n": 21,
+    "text": "Lombard."
+   },
+   {
+    "n": 22,
+    "text": "1 797 Pierre, Schirmhändler, a. Valjouse in Frankreich -"
+   },
+   {
+    "n": 23,
+    "text": "IV, 149."
+   },
+   {
+    "n": 24,
+    "text": "812 Fr. - Elis. Gast a. Marnand."
+   },
+   {
+    "n": 25,
+    "text": "3 K. - 835 Pierre August. - 42 Elis. Karoline. -"
+   },
+   {
+    "n": 26,
+    "text": "45 Marie Karoline."
+   },
+   {
+    "n": 27,
+    "text": "Losli."
+   },
+   {
+    "n": 28,
+    "text": "1 799 Ulrich, Schneider, a. Sumiswald - II, 23."
+   },
+   {
+    "n": 29,
+    "text": "793 Fr. - Marg. Boß a. Langnau."
+   },
+   {
+    "n": 30,
+    "text": "2 822 Sophie, Schneiderin, a. Sumiswald - III, 35."
+   },
+   {
+    "n": 31,
+    "text": "Luchsinger."
+   },
+   {
+    "n": 32,
+    "text": "1 791 Heinrich, Wagner, a. Schwanden, K. Glarus - VI, 9."
+   },
+   {
+    "n": 33,
+    "text": "791 Fr. II Ehe. - Barb. Vögeli a. Bettschwanden, K. Glarus."
+   },
+   {
+    "n": 34,
+    "text": "3 S. aus II Ehe. - 823 Kaspar Johann. - 26 Rudolf"
+   },
+   {
+    "n": 35,
+    "text": "Niklaus. - 32 Friedrich."
+   },
+   {
+    "n": 36,
+    "text": "2 787 David, Wollenhändler, a. Matt, K. Glarus - VI, 57."
+   },
+   {
+    "n": 37,
+    "text": "787 Fr. - Kath. Kundert a. Rüthe."
+   },
+   {
+    "n": 38,
+    "text": "4 K. - 818 Katharina. - 21 Anna Magdalena. - 25"
+   },
+   {
+    "n": 39,
+    "text": "Christen. - 28 David Joh. Jakob."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Friedrich Joh.",
+    "title": "",
+    "occupation": "Arbeiter in der Kapselfabrike",
+    "address": "I, 1",
+    "quarter": "I",
+    "street": "",
+    "house_no": "1",
+    "origin": "",
+    "birth_year": "1817",
+    "household": "816 Fr. - Elis. Hammer. 1 T. - 845 Maria.",
+    "note": "B. v. 1",
+    "text": "2 817 Friedrich Joh., Arbeiter in der Kapselfabrike, B. v. 1 - I, 1. 816 Fr. - Elis. Hammer. 1 T. - 845 Maria."
+   },
+   {
+    "line_from": 8,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Löffel.",
+    "place": "Bern",
+    "surname": "Löffel",
+    "forename": "Joh. Franz",
+    "title": "",
+    "occupation": "Mehlhändler",
+    "address": "II, 115",
+    "quarter": "II",
+    "street": "",
+    "house_no": "115",
+    "origin": "Bremgarten",
+    "birth_year": "1819",
+    "household": "819 Fr. - Anna Barbara Ellenberger a. Landiswyl. 1 T. - 847 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 819 Joh. Franz, Mehlhändler, a. Bremgarten - II, 115. 819 Fr. - Anna Barbara Ellenberger a. Landiswyl. 1 T. - 847 Anna Maria."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Löhrer a. Bischoffzell, K. Thurgau.",
+    "place": "Bern",
+    "surname": "Löhrer",
+    "forename": "Kath., geb. Dittlinger",
+    "title": "des Malers Wittwe",
+    "occupation": "",
+    "address": "II, 37",
+    "quarter": "II",
+    "street": "",
+    "house_no": "37",
+    "origin": "Bischoffzell, K. Thurgau",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Kath., geb. Dittlinger, des Malers Wittwe - II, 37."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Löhrer a. Bischoffzell, K. Thurgau.",
+    "place": "Bern",
+    "surname": "Löhrer",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "V, 92",
+    "quarter": "V",
+    "street": "",
+    "house_no": "92",
+    "origin": "Bischoffzell, K. Thurgau",
+    "birth_year": "1822",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 822 Joh. Jakob, Sattler - V, 92."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Lörtscher.",
+    "place": "Bern",
+    "surname": "Lörtscher",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Speisewirth",
+    "address": "IV, 102",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "102",
+    "origin": "Spiez",
+    "birth_year": "1822",
+    "household": "820 Fr. - Elis. Berger",
+    "note": "Name aus Zwischentitel",
+    "text": "1 822 Joseph, Speisewirth, a. Spiez - IV, 102. 820 Fr. - Elis. Berger"
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Lohri.",
+    "place": "Bern",
+    "surname": "Lohri",
+    "forename": "Henriette Louise, geb. de Meuron",
+    "title": "",
+    "occupation": "",
+    "address": "VII, 174",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "174",
+    "origin": "Stalden",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Henriette Louise, geb. de Meuron, a. Stalden - VII, 174."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Lohri.",
+    "place": "Bern",
+    "surname": "Lohri",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Weinhändler",
+    "address": "III, 103",
+    "quarter": "III",
+    "street": "",
+    "house_no": "103",
+    "origin": "Stalden",
+    "birth_year": "1792",
+    "household": "791 Fr. - Anna Magd. Bühlmann a. Uetendorf.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 792 Christen, Weinhändler, a. Stalden - III, 103. 791 Fr. - Anna Magd. Bühlmann a. Uetendorf."
+   },
+   {
+    "line_from": 22,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Lombard.",
+    "place": "Bern",
+    "surname": "Lombard",
+    "forename": "Pierre",
+    "title": "",
+    "occupation": "Schirmhändler",
+    "address": "IV, 149",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "149",
+    "origin": "Valjouse in Frankreich",
+    "birth_year": "1797",
+    "household": "812 Fr. - Elis. Gast a. Marnand. 3 K. - 835 Pierre August. - 42 Elis. Karoline. - 45 Marie Karoline.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 Pierre, Schirmhändler, a. Valjouse in Frankreich - IV, 149. 812 Fr. - Elis. Gast a. Marnand. 3 K. - 835 Pierre August. - 42 Elis. Karoline. - 45 Marie Karoline."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Losli.",
+    "place": "Bern",
+    "surname": "Losli",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "II, 23",
+    "quarter": "II",
+    "street": "",
+    "house_no": "23",
+    "origin": "Sumiswald",
+    "birth_year": "1799",
+    "household": "793 Fr. - Marg. Boß a. Langnau.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Ulrich, Schneider, a. Sumiswald - II, 23. 793 Fr. - Marg. Boß a. Langnau."
+   },
+   {
+    "line_from": 30,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Losli.",
+    "place": "Bern",
+    "surname": "Losli",
+    "forename": "Sophie",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "III, 35",
+    "quarter": "III",
+    "street": "",
+    "house_no": "35",
+    "origin": "Sumiswald",
+    "birth_year": "1822",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 822 Sophie, Schneiderin, a. Sumiswald - III, 35."
+   },
+   {
+    "line_from": 32,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Luchsinger.",
+    "place": "Bern",
+    "surname": "Luchsinger",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Wagner",
+    "address": "VI, 9",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "9",
+    "origin": "Schwanden, K. Glarus",
+    "birth_year": "1791",
+    "household": "791 Fr. II Ehe. - Barb. Vögeli a. Bettschwanden, K. Glarus. 3 S. aus II Ehe. - 823 Kaspar Johann. - 26 Rudolf Niklaus. - 32 Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 791 Heinrich, Wagner, a. Schwanden, K. Glarus - VI, 9. 791 Fr. II Ehe. - Barb. Vögeli a. Bettschwanden, K. Glarus. 3 S. aus II Ehe. - 823 Kaspar Johann. - 26 Rudolf Niklaus. - 32 Friedrich."
+   },
+   {
+    "line_from": 36,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Luchsinger.",
+    "place": "Bern",
+    "surname": "Luchsinger",
+    "forename": "David",
+    "title": "",
+    "occupation": "Wollenhändler",
+    "address": "VI, 57",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "57",
+    "origin": "Matt, K. Glarus",
+    "birth_year": "1787",
+    "household": "787 Fr. - Kath. Kundert a. Rüthe. 4 K. - 818 Katharina. - 21 Anna Magdalena. - 25 Christen. - 28 David Joh. Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 787 David, Wollenhändler, a. Matt, K. Glarus - VI, 57. 787 Fr. - Kath. Kundert a. Rüthe. 4 K. - 818 Katharina. - 21 Anna Magdalena. - 25 Christen. - 28 David Joh. Jakob."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:06:09+01:00",
+ "last_error": null
+}

@@ -27,12 +27,28 @@
   <li><b>Schreibung.</b> Namen, Berufe und Orte stehen so, wie sie gedruckt sind (z. B. «Kramgaße», «Arau», «Apoticaires»). Es gibt keine Normalisierung und keine Verknüpfung von Personen über die Bände. Die Suche gleicht auf Wunsch einige Schreibvarianten an (ä/a, ß/ss, y/i, th/t, Doppelkonsonanten).</li>
   <li><b>Adressen.</b> Vor 1798 und bis in die 1850er Jahre zählte Bern die Häuser je Quartier (Farbquartiere bzw. römische Quartiersnummern), nicht je Gasse. Eine Hausnummer ist darum nur zusammen mit dem Quartier eindeutig und lässt sich nicht direkt auf heutige Adressen übertragen.</li>
   <li><b>Vollständigkeit.</b> Die Verzeichnisse vor 1848 sind Auswahlen («ansehnliche» Gewerbetreibende, «bemerkenswerte» Einwohner) und keine Einwohnerlisten. Das Verzeichnis von 1848 erfasst nur die Einsassen, also Niedergelassene ohne Berner Burgerrecht, nicht die Burger.</li>
-  <li><b>Eine Seite fehlt.</b> 1795, PDF-Seite 29 (Langenthal, Jakob Mumenthaler und sein abgedruckter Brief) hat Gemini auch nach mehreren Versuchen verweigert (Filter gegen wörtliche Wiedergabe bekannter Texte). Sie ist nicht gelesen und nicht von Hand ergänzt.</li>
+  <li><b>Eine Seite fehlt.</b> 1795, PDF-Seite 29 (Langenthal, Jakob Mumenthaler und sein abgedruckter Brief) hat Gemini auch nach mehreren Versuchen verweigert (Filter gegen wörtliche Wiedergabe bekannter Texte). Sie ist nicht gelesen und nicht von Hand ergänzt. Versuchsweise hat ein anderes Modell (qwen3.8-27b auf dem GPU-Dienst der Universität Bern) die Seite gelesen: Zeilen und Wörter stimmen, aber ß ist durchgehend als ss geschrieben und drei Wörter sind falsch gelesen. Gemini konnte diese Lesung mit dem Bild prüfen (ohne den Text zu wiederholen), fand aber nur einen Teil der Fehler und «verbesserte» zwei richtige Stellen. Die Seite bleibt darum ausgelassen.</li>
   <li><b>Sprache.</b> Der Band von 1810 und Teile von 1795 und 1839 sind französisch; Felder stehen in der Sprache der Vorlage.</li>
 </ul>
 
 <h2>Umfang</h2>
-<p>Volllauf am 10. November 2026: 627 von 628 ausgewählten Seiten gelesen, 30 276 Zeilen, 17 244 Einträge (1795: 723, 1810: 771, 1822: 1453, 1836: 9652, 1839: 2290, 1848: 2355). In 1848 stehen Haushalte oben auf einer Seite ohne eigenen Familiennamen; dieser wurde aus dem letzten Zwischentitel der Vorseite übernommen und im Vermerk gekennzeichnet. 1795 steht über manchen Namenslisten der Spaltenkopf «Herr» bzw. «Monsieur»; das Modell hatte ihn bei 37 Einträgen als Rubrik genommen. Dort gilt nun die vorangehende Rubrik (Ort bzw. Gewerbe), mit Vermerk.</p>
+<p>Volllauf am 10. November 2026: 627 von 628 ausgewählten Seiten gelesen. Nach der Neulesung von 85 Seiten (siehe unten) 30 255 Zeilen, 17 245 Einträge (1795: 723, 1810: 771, 1822: 1453, 1836: 9652, 1839: 2290, 1848: 2356). In 1848 stehen Haushalte oben auf einer Seite ohne eigenen Familiennamen; dieser wurde aus dem letzten Zwischentitel der Vorseite übernommen und im Vermerk gekennzeichnet. 1795 steht über manchen Namenslisten der Spaltenkopf «Herr» bzw. «Monsieur»; das Modell hatte ihn bei 37 Einträgen als Rubrik genommen. Dort gilt nun die vorangehende Rubrik (Ort bzw. Gewerbe), mit Vermerk.</p>
+
+<h2>Zweite Lesung und Markierung «≠»</h2>
+<p>Am 11. November 2026 hat Gemini alle Seiten ein zweites Mal gelesen (dasselbe Modell und dieselbe Anleitung, aber mit mittlerer statt geringer Denkstufe, damit die Fehler nicht einfach wiederholt werden). Angezeigt wird weiterhin die erste Lesung; die zweite dient nur dem Vergleich:</p>
+<ul>
+  <li><b>Zeilen:</b> 26 902 von 30 255 Zeilen (89 %) lauten in beiden Lesungen gleich. Wo sie abweichen, steht beim Blättern unter der Zeile «2. Lesung: …».</li>
+  <li><b>Einträge:</b> Bei 925 von 17 245 Einträgen (5,4 %) steht ein Wort aus Name, Vorname, Beruf, Gasse, Hausnummer oder Herkunft in der zweiten Lesung anders. Diese Einträge tragen das Zeichen <b>≠</b> und lassen sich mit «nur unsichere (≠)» herausfiltern. Je Band: 1795 11,5 %, 1810 3,9 %, 1822 6,3 %, 1836 5,1 %, 1839 6,2 %, 1848 3,4 %.</li>
+  <li><b>Was nicht zählt:</b> Unterschiede bei ß/ss/ſ, bei Trenn- und Gedankenstrichen und bei Sperrsatz gelten als gleich.</li>
+</ul>
+<p>Die Abweichungen sind fast immer einzelne Buchstaben, die sich in der Fraktur gleichen: R und N, B und V, f und langes s, k und f. Eine Stichprobe am Seitenbild zeigt, dass keine der beiden Lesungen grundsätzlich besser ist: Richtig war einmal die erste («Häßig», «Quinquallerie», «Rickli»), einmal die zweite («Roth» statt «Noth», «Rösch» statt «Nösch», «Basserstorf» statt «Vasserstorf»). <b>Ein ≠ heisst also: hier am Bild nachsehen.</b> Umgekehrt ist ein Eintrag ohne ≠ nicht sicher richtig, denn beide Lesungen können denselben Fehler machen.</p>
+<h3>Fraktur-R als N gelesen</h3>
+<p>Der Vergleich hat einen systematischen Fehler aufgedeckt: Gemini liest das grosse Fraktur-R oft als N, umgekehrt kaum. Auf einzelnen Seiten betraf das alle Namen (1836, PDF-Seite 98: «Noder, Nodotti, Nodt» statt Roder, Rodotti, Rodt; 1848, PDF-Seiten 141, 146, 147: «Nupp, Nusch» statt Rupp, Rusch), teils in beiden Lesungen gleich. Darum:</p>
+<ul>
+  <li>85 Seiten (die R- und N-Strecken der alphabetischen Verzeichnisse 1836, 1839 und 1848 sowie Seiten mit R/N-Abweichungen) wurden ein drittes Mal gelesen, mit hoher Denkstufe und einem ausdrücklichen Hinweis auf die Verwechslung. Für diese Seiten gilt die dritte Lesung (Spalte <code>run</code> = <code>fix-rn</code>).</li>
+  <li>Beginnt ein Wort in Name, Ort, Gasse oder Herkunft mit N und hat eine andere Lesung derselben Seite dasselbe Wort mit R, wird R übernommen (59 Einträge, mit Vermerk «R statt N nach anderer Lesung»). Die Zeilen bleiben, wie gelesen.</li>
+</ul>
+<p>Einzelne N statt R können trotzdem verbleiben, wenn alle Lesungen sich irren.</p>
 
 <h2>Stichprobe vor dem Volllauf</h2>
 <div id="smoke">
@@ -41,7 +57,7 @@
 </div>
 
 <h2>Daten</h2>
-<p>Alle Daten liegen als CSV im Repository unter <code>data/csv/</code>: <code>00_volumes.csv</code> (Bände), <code>01_pages.csv</code> (gelesene Seiten mit e-rara-Verweis), <code>02_lines.csv</code> (gelesene Zeilen), <code>03_page_status.csv</code> (Lesestatus je Seite), <code>04_entries.csv</code> (Einträge). Die Rohantworten des Modells liegen unter <code>data/raw/</code>. Seitenschlüssel ist die PDF-Seite der e-rara-PDF-Datei (PDF-Seite 1 ist das e-rara-Deckblatt; PDF-Seite <i>n</i> entspricht dem Bild <i>n</i>−1 im e-rara-Viewer).</p>
+<p>Alle Daten liegen als CSV im Repository unter <code>data/csv/</code>: <code>00_volumes.csv</code> (Bände), <code>01_pages.csv</code> (gelesene Seiten mit e-rara-Verweis), <code>02_lines.csv</code> (gelesene Zeilen), <code>03_page_status.csv</code> (Lesestatus je Seite), <code>04_entries.csv</code> (Einträge, mit den Spalten <code>doubt</code> und <code>doubt_detail</code> für die Abweichungen der zweiten Lesung), <code>05_second_reading.csv</code> (Vergleich je Seite). Die Rohantworten des Modells liegen unter <code>data/raw/</code>. Seitenschlüssel ist die PDF-Seite der e-rara-PDF-Datei (PDF-Seite 1 ist das e-rara-Deckblatt; PDF-Seite <i>n</i> entspricht dem Bild <i>n</i>−1 im e-rara-Viewer).</p>
 <p>Diese Sammlung steht für sich und ist nicht mit anderen Adressbuch- oder Telefonbuchdaten verknüpft.</p>
 </main>
 </body>

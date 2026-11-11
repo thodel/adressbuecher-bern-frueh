@@ -1,0 +1,414 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 120,
+ "section": "ville",
+ "started": "2026-11-11T20:58:34+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 147.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2301,
+  "output": 3132,
+  "thoughts": 16448
+ },
+ "response_text": "{\n  \"printed_page\": \"47\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"47\"},\n    {\"n\": 2, \"text\": \"Stauffer, Bernh. … j. 82.\"},\n    {\"n\": 3, \"text\": \"Wendel, J. J. … v. 179.\"},\n    {\"n\": 4, \"text\": \"Traductions, voyez Langues,\"},\n    {\"n\": 5, \"text\": \"voyez Rédactions.\"},\n    {\"n\": 6, \"text\": \"Verreries.\"},\n    {\"n\": 7, \"text\": \"Güder, Jaques, Marchand de ver-\"},\n    {\"n\": 8, \"text\": \"res, bombe des verres pour Lan-\"},\n    {\"n\": 9, \"text\": \"ternes, Pendules, Silhouettes et\"},\n    {\"n\": 10, \"text\": \"Tabatieres. … Q. j. 55.\"},\n    {\"n\": 11, \"text\": \"Howard, Madame, Marchande de\"},\n    {\"n\": 12, \"text\": \"verres. … r. 130.\"},\n    {\"n\": 13, \"text\": \"Maurer, Abram, Marchand de\"},\n    {\"n\": 14, \"text\": \"verres. … v. 192.\"},\n    {\"n\": 15, \"text\": \"Weiss, J. Nicolas, Marchand de\"},\n    {\"n\": 16, \"text\": \"verres. … bl. 108.\"},\n    {\"n\": 17, \"text\": \"Vin. Commerce de —\"},\n    {\"n\": 18, \"text\": \"Coffrane, de, David Henri. … Q. v. 178.\"},\n    {\"n\": 19, \"text\": \"Couchoux, Pièrre. … j. 66.\"},\n    {\"n\": 20, \"text\": \"Diessbach, de, de Diemerswyl. … bl. 106.\"},\n    {\"n\": 21, \"text\": \"Gautschi, Melchior: … v. 229.\"},\n    {\"n\": 22, \"text\": \"Graffenried, de, Charles, de Be-\"},\n    {\"n\": 23, \"text\": \"vieux. … v. 152.\"},\n    {\"n\": 24, \"text\": \"Heiniger, J. … v. 35.\"},\n    {\"n\": 25, \"text\": \"Herrenschwand de Herrenschwanden. … j. 85.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stauffer\",\n      \"forename\": \"Bernh.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 82.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"82\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stauffer, Bernh. j. 82.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wendel\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 179.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"179\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wendel, J. J. v. 179.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"verweis\",\n      \"heading\": \"Traductions\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Traductions, voyez Langues, voyez Rédactions.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Verreries.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Güder\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Marchand de verres, bombe des verres pour Lanternes, Pendules, Silhouettes et Tabatieres.\",\n      \"address\": \"Q. j. 55.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"55\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Güder, Jaques, Marchand de verres, bombe des verres pour Lanternes, Pendules, Silhouettes et Tabatieres. Q. j. 55.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Verreries.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Howard\",\n      \"forename\": \"\",\n      \"title\": \"Madame\",\n      \"occupation\": \"Marchande de verres.\",\n      \"address\": \"r. 130.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"130\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Howard, Madame, Marchande de verres. r. 130.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Verreries.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Maurer\",\n      \"forename\": \"Abram\",\n      \"title\": \"\",\n      \"occupation\": \"Marchand de verres.\",\n      \"address\": \"v. 192.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"192\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Maurer, Abram, Marchand de verres. v. 192.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Verreries.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Weiss\",\n      \"forename\": \"J. Nicolas\",\n      \"title\": \"\",\n      \"occupation\": \"Marchand de verres.\",\n      \"address\": \"bl. 108.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"108\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Weiss, J. Nicolas, Marchand de verres. bl. 108.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Vin. Commerce de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Coffrane, de\",\n      \"forename\": \"David Henri\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 178.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"178\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Coffrane, de, David Henri. Q. v. 178.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Vin. Commerce de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Couchoux\",\n      \"forename\": \"Pièrre\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"j. 66.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"66\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Couchoux, Pièrre. j. 66.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Vin. Commerce de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Diessbach, de\",\n      \"forename\": \"\",\n      \"title\": \"de Diemerswyl\",\n      \"occupation\": \"\",\n      \"address\": \"bl. 106.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"106\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Diessbach, de, de Diemerswyl. bl. 106.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Vin. Commerce de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gautschi\",\n      \"forename\": \"Melchior\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 229.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"229\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gautschi, Melchior. v. 229.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Vin. Commerce de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Graffenried, de\",\n      \"forename\": \"Charles\",\n      \"title\": \"de Bevieux\",\n      \"occupation\": \"\",\n      \"address\": \"v. 152.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"152\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Graffenried, de, Charles, de Bevieux. v. 152.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Vin. Commerce de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heiniger\",\n      \"forename\": \"J.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"v. 35.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"35\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Heiniger, J. v. 35.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Vin. Commerce de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herrenschwand\",\n      \"forename\": \"\",\n      \"title\": \"de Herrenschwanden\",\n      \"occupation\": \"\",\n      \"address\": \"j. 85.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"85\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herrenschwand de Herrenschwanden. j. 85.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "47",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "47"
+   },
+   {
+    "n": 2,
+    "text": "Stauffer, Bernh. … j. 82."
+   },
+   {
+    "n": 3,
+    "text": "Wendel, J. J. … v. 179."
+   },
+   {
+    "n": 4,
+    "text": "Traductions, voyez Langues,"
+   },
+   {
+    "n": 5,
+    "text": "voyez Rédactions."
+   },
+   {
+    "n": 6,
+    "text": "Verreries."
+   },
+   {
+    "n": 7,
+    "text": "Güder, Jaques, Marchand de ver-"
+   },
+   {
+    "n": 8,
+    "text": "res, bombe des verres pour Lan-"
+   },
+   {
+    "n": 9,
+    "text": "ternes, Pendules, Silhouettes et"
+   },
+   {
+    "n": 10,
+    "text": "Tabatieres. … Q. j. 55."
+   },
+   {
+    "n": 11,
+    "text": "Howard, Madame, Marchande de"
+   },
+   {
+    "n": 12,
+    "text": "verres. … r. 130."
+   },
+   {
+    "n": 13,
+    "text": "Maurer, Abram, Marchand de"
+   },
+   {
+    "n": 14,
+    "text": "verres. … v. 192."
+   },
+   {
+    "n": 15,
+    "text": "Weiss, J. Nicolas, Marchand de"
+   },
+   {
+    "n": 16,
+    "text": "verres. … bl. 108."
+   },
+   {
+    "n": 17,
+    "text": "Vin. Commerce de —"
+   },
+   {
+    "n": 18,
+    "text": "Coffrane, de, David Henri. … Q. v. 178."
+   },
+   {
+    "n": 19,
+    "text": "Couchoux, Pièrre. … j. 66."
+   },
+   {
+    "n": 20,
+    "text": "Diessbach, de, de Diemerswyl. … bl. 106."
+   },
+   {
+    "n": 21,
+    "text": "Gautschi, Melchior: … v. 229."
+   },
+   {
+    "n": 22,
+    "text": "Graffenried, de, Charles, de Be-"
+   },
+   {
+    "n": 23,
+    "text": "vieux. … v. 152."
+   },
+   {
+    "n": 24,
+    "text": "Heiniger, J. … v. 35."
+   },
+   {
+    "n": 25,
+    "text": "Herrenschwand de Herrenschwanden. … j. 85."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Stauffer",
+    "forename": "Bernh.",
+    "title": "",
+    "occupation": "",
+    "address": "j. 82.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "82",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stauffer, Bernh. j. 82."
+   },
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Wendel",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "",
+    "address": "v. 179.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "179",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wendel, J. J. v. 179."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "verweis",
+    "heading": "Traductions",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Traductions, voyez Langues, voyez Rédactions."
+   },
+   {
+    "line_from": 7,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Verreries.",
+    "place": "Bern",
+    "surname": "Güder",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "Marchand de verres, bombe des verres pour Lanternes, Pendules, Silhouettes et Tabatieres.",
+    "address": "Q. j. 55.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "55",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Güder, Jaques, Marchand de verres, bombe des verres pour Lanternes, Pendules, Silhouettes et Tabatieres. Q. j. 55."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Verreries.",
+    "place": "Bern",
+    "surname": "Howard",
+    "forename": "",
+    "title": "Madame",
+    "occupation": "Marchande de verres.",
+    "address": "r. 130.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "130",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Howard, Madame, Marchande de verres. r. 130."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Verreries.",
+    "place": "Bern",
+    "surname": "Maurer",
+    "forename": "Abram",
+    "title": "",
+    "occupation": "Marchand de verres.",
+    "address": "v. 192.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "192",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Maurer, Abram, Marchand de verres. v. 192."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Verreries.",
+    "place": "Bern",
+    "surname": "Weiss",
+    "forename": "J. Nicolas",
+    "title": "",
+    "occupation": "Marchand de verres.",
+    "address": "bl. 108.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "108",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Weiss, J. Nicolas, Marchand de verres. bl. 108."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Vin. Commerce de —",
+    "place": "Bern",
+    "surname": "Coffrane, de",
+    "forename": "David Henri",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 178.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "178",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Coffrane, de, David Henri. Q. v. 178."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Vin. Commerce de —",
+    "place": "Bern",
+    "surname": "Couchoux",
+    "forename": "Pièrre",
+    "title": "",
+    "occupation": "",
+    "address": "j. 66.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "66",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Couchoux, Pièrre. j. 66."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Vin. Commerce de —",
+    "place": "Bern",
+    "surname": "Diessbach, de",
+    "forename": "",
+    "title": "de Diemerswyl",
+    "occupation": "",
+    "address": "bl. 106.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "106",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Diessbach, de, de Diemerswyl. bl. 106."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Vin. Commerce de —",
+    "place": "Bern",
+    "surname": "Gautschi",
+    "forename": "Melchior",
+    "title": "",
+    "occupation": "",
+    "address": "v. 229.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "229",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gautschi, Melchior. v. 229."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Vin. Commerce de —",
+    "place": "Bern",
+    "surname": "Graffenried, de",
+    "forename": "Charles",
+    "title": "de Bevieux",
+    "occupation": "",
+    "address": "v. 152.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "152",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Graffenried, de, Charles, de Bevieux. v. 152."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Vin. Commerce de —",
+    "place": "Bern",
+    "surname": "Heiniger",
+    "forename": "J.",
+    "title": "",
+    "occupation": "",
+    "address": "v. 35.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "35",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Heiniger, J. v. 35."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Vin. Commerce de —",
+    "place": "Bern",
+    "surname": "Herrenschwand",
+    "forename": "",
+    "title": "de Herrenschwanden",
+    "occupation": "",
+    "address": "j. 85.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "85",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herrenschwand de Herrenschwanden. j. 85."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:01:01+01:00",
+ "last_error": null
+}

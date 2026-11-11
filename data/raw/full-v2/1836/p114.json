@@ -1,0 +1,934 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1836",
+ "page": 114,
+ "section": "einwohner",
+ "started": "2026-11-11T21:18:47+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 115.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 9140,
+  "thoughts": 8875
+ },
+ "response_text": "{\n  \"printed_page\": \"105\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"105\"},\n    {\"n\": 2, \"text\": \"Tscharner, Karl Rudolf, von Rothhaus, Unterschaffner, W. Qr. Jun-\"},\n    {\"n\": 3, \"text\": \"kerngasse S. Nr. 201. B.\"},\n    {\"n\": 4, \"text\": \"Tscharner, Elise, Gn. Qr. Keßlerg. * Nr. 208 u. 253. H. u. B.\"},\n    {\"n\": 5, \"text\": \"Tscharner, Karl Beat Rud., von Rothhaus, Kommissionsschreiber,\"},\n    {\"n\": 6, \"text\": \"W. Qr. Junkerng. S. Nr. 20. B.\"},\n    {\"n\": 7, \"text\": \"Tscharner, Karl Eduard, Artillerieoffizier, Gn. Qr. Kramgasse *\"},\n    {\"n\": 8, \"text\": \"Nr. 143. B.\"},\n    {\"n\": 9, \"text\": \"Tscharner, Karl Em., von Lohn, gew. Hauptmann, im Lohn bei\"},\n    {\"n\": 10, \"text\": \"Kehrsatz. B.\"},\n    {\"n\": 11, \"text\": \"Tscharner, Karl Friedr., Schultheiß, Gn. Qr. Kramgasse * Nr. 143\"},\n    {\"n\": 12, \"text\": \"u. 144. Holligendrittel Nr. 108, 112 u. 117. H. u. B.\"},\n    {\"n\": 13, \"text\": \"Tscharner, Frau, Joh., W. Qr. Junkerng. S. Nr. 182. H. u. B.\"},\n    {\"n\": 14, \"text\": \"Tscharner, Karl Ludwig, alt Appellationsrichter, Gn. Qr. Hotellaube\"},\n    {\"n\": 15, \"text\": \"S. Nr. 232. Junkerngasse S. Nr. 184 und Schifflaube\"},\n    {\"n\": 16, \"text\": \"Nr. 43a. H. u. B.\"},\n    {\"n\": 17, \"text\": \"Tscharner, Karl Ludw. Em., allié Fischer, vom Gwatt, W. Qr. Jun-\"},\n    {\"n\": 18, \"text\": \"kerngasse S. Nr. 194. B.\"},\n    {\"n\": 19, \"text\": \"Tscharner, Karl Ludw., alt Oberamtmann von Burgdorf, W. Qr.\"},\n    {\"n\": 20, \"text\": \"Junkerng. S. Nr. 184. B.\"},\n    {\"n\": 21, \"text\": \"Tscharner, von Lohn, Gn. Qr. Metzgerg. S. Nr. 128 u. 154. H. u. B.\"},\n    {\"n\": 22, \"text\": \"Tscharner, B. G., von Romainmotier, Gn. Qr. Schulg. * Nr. 312\"},\n    {\"n\": 23, \"text\": \"u. 313. H. u. B.\"},\n    {\"n\": 24, \"text\": \"Tscharner, Rud., von Bümplitz, gew. Stadtkassier, Gb. Qr. Marktg.\"},\n    {\"n\": 25, \"text\": \"* Nr. 45. H. u. B.\"},\n    {\"n\": 26, \"text\": \"Tscharner, Rud., von Eymatt, Länggaßdrittel Nr. 192. Holligendr.\"},\n    {\"n\": 27, \"text\": \"Nr. 165. B.\"},\n    {\"n\": 28, \"text\": \"Tscharner, Rud. Aug., Stadtkommissionsschreiber, W. Qr. Gerechtig-\"},\n    {\"n\": 29, \"text\": \"keitsgasse Nr. 84. B.\"},\n    {\"n\": 30, \"text\": \"Tscharner, Rud., alt Schultheiß, Eymatt, Länggaßdrittel Nr. 192.\"},\n    {\"n\": 31, \"text\": \"Holligendrittel Nr. 165a. H. u. B.\"},\n    {\"n\": 32, \"text\": \"Tscharner, Sigm. Albr., von Kirchberg, Altenbergdrittel Nr. 122. B.\"},\n    {\"n\": 33, \"text\": \"Tscharner, geb. Sinner, Sophie, W. Qr. Junkerngasse S. Nr. 166.\"},\n    {\"n\": 34, \"text\": \"H. u. B.\"},\n    {\"n\": 35, \"text\": \"Tscharner, Jungf., von Lausanne, Länggaßdrittel, Viererhaus Nr. 272\"},\n    {\"n\": 36, \"text\": \"und 273. H. u. B.\"},\n    {\"n\": 37, \"text\": \"Tschiffeli, Dav. Frd., zu Washington. B.\"},\n    {\"n\": 38, \"text\": \"Tschiffeli, Franz Frdr. Adolf, Schreiber, Aarzieledrittel Nr. 1. B.\"},\n    {\"n\": 39, \"text\": \"Tschiffeli, Frdr. Andr. Em., in Amerika. B.\"},\n    {\"n\": 40, \"text\": \"Tschiffeli, Frdr., Baumstr., R. Qr. Zeughausg. * Nr. 8. B.\"},\n    {\"n\": 41, \"text\": \"Tschiffeli, Frdr. Dan., gew. Hauptmann in franz. Diensten, Gn. Qr.\"},\n    {\"n\": 42, \"text\": \"Metzgerg. * Nr. 102. B.\"},\n    {\"n\": 43, \"text\": \"Tschiffeli, Gabriel Frdr. Rud., zu Brüssel. B.\"},\n    {\"n\": 44, \"text\": \"Tschiffeli, Georg Heinr., R. Qr. Neuengasse S. Nr. 190. B.\"},\n    {\"n\": 45, \"text\": \"Tschiffeli, Jakob Georg, alt Appellationsrichter in Neuenstadt. B.\"},\n    {\"n\": 46, \"text\": \"Tschiffeli, Joh. Em., alt Amtsschreiber, von Trachselwald, Gb. Qr.\"},\n    {\"n\": 47, \"text\": \"Judengasse S. Nr. 113. B.\"},\n    {\"n\": 48, \"text\": \"Tschiffeli, Karl Rud., alt Bauamtschreiber, landesabwesend. B.\"},\n    {\"n\": 49, \"text\": \"Tschiffeli, Narcis Ludw., R. Qr. Neuengasse * Nr. 191. B.\"},\n    {\"n\": 50, \"text\": \"Tschiffeli, Rud. Sam., gew. Handelsmann, R. Qr. Schauplatzgasse\"},\n    {\"n\": 51, \"text\": \"Nr. 198. B.\"},\n    {\"n\": 52, \"text\": \"Tschiffeli u. Stöckli, Spezereihandl. u. Tabakfabrik, R. Qr. Neueng.\"},\n    {\"n\": 53, \"text\": \"* Nr. 91. H. u. B.\"},\n    {\"n\": 54, \"text\": \"Turtaz, geb. Stämpfli, Rosine, Rentière, Gb. Qr. Marktgasse * Nr. 35.\"},\n    {\"n\": 55, \"text\": \"Tüscher, Joh., Handelsmann, Gn. Qr. Kramg. * Nr. 151.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Karl Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Unterschaffner\",\n      \"address\": \"W. Qr. Junkerngasse S. Nr. 201.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerngasse\",\n      \"house_no\": \"201\",\n      \"origin\": \"von Rothhaus\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tscharner, Karl Rudolf, von Rothhaus, Unterschaffner, W. Qr. Junkerngasse S. Nr. 201. B.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Elise\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gn. Qr. Keßlerg. * Nr. 208 u. 253.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Keßlerg.\",\n      \"house_no\": \"208 u. 253\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tscharner, Elise, Gn. Qr. Keßlerg. * Nr. 208 u. 253. H. u. B.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Karl Beat Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Kommissionsschreiber\",\n      \"address\": \"W. Qr. Junkerng. S. Nr. 20.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerng.\",\n      \"house_no\": \"20\",\n      \"origin\": \"von Rothhaus\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tscharner, Karl Beat Rud., von Rothhaus, Kommissionsschreiber, W. Qr. Junkerng. S. Nr. 20. B.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Karl Eduard\",\n      \"title\": \"\",\n      \"occupation\": \"Artillerieoffizier\",\n      \"address\": \"Gn. Qr. Kramgasse * Nr. 143.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramgasse\",\n      \"house_no\": \"143\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tscharner, Karl Eduard, Artillerieoffizier, Gn. Qr. Kramgasse * Nr. 143. B.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Karl Em.\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Hauptmann\",\n      \"address\": \"im Lohn bei Kehrsatz.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"von Lohn\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tscharner, Karl Em., von Lohn, gew. Hauptmann, im Lohn bei Kehrsatz. B.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Karl Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Schultheiß\",\n      \"address\": \"Gn. Qr. Kramgasse * Nr. 143 u. 144. Holligendrittel Nr. 108, 112 u. 117.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramgasse\",\n      \"house_no\": \"143 u. 144\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tscharner, Karl Friedr., Schultheiß, Gn. Qr. Kramgasse * Nr. 143 u. 144. Holligendrittel Nr. 108, 112 u. 117. H. u. B.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Joh.\",\n      \"title\": \"Frau\",\n      \"occupation\": \"\",\n      \"address\": \"W. Qr. Junkerng. S. Nr. 182.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerng.\",\n      \"house_no\": \"182\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tscharner, Frau, Joh., W. Qr. Junkerng. S. Nr. 182. H. u. B.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Karl Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"alt Appellationsrichter\",\n      \"address\": \"Gn. Qr. Hotellaube S. Nr. 232. Junkerngasse S. Nr. 184 und Schifflaube Nr. 43a.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Hotellaube\",\n      \"house_no\": \"232\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tscharner, Karl Ludwig, alt Appellationsrichter, Gn. Qr. Hotellaube S. Nr. 232. Junkerngasse S. Nr. 184 und Schifflaube Nr. 43a. H. u. B.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Karl Ludw. Em.\",\n      \"title\": \"allié Fischer\",\n      \"occupation\": \"\",\n      \"address\": \"W. Qr. Junkerngasse S. Nr. 194.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerngasse\",\n      \"house_no\": \"194\",\n      \"origin\": \"vom Gwatt\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tscharner, Karl Ludw. Em., allié Fischer, vom Gwatt, W. Qr. Junkerngasse S. Nr. 194. B.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Karl Ludw.\",\n      \"title\": \"\",\n      \"occupation\": \"alt Oberamtmann von Burgdorf\",\n      \"address\": \"W. Qr. Junkerng. S. Nr. 184.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerng.\",\n      \"house_no\": \"184\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tscharner, Karl Ludw., alt Oberamtmann von Burgdorf, W. Qr. Junkerng. S. Nr. 184. B.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gn. Qr. Metzgerg. S. Nr. 128 u. 154.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Metzgerg.\",\n      \"house_no\": \"128 u. 154\",\n      \"origin\": \"von Lohn\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tscharner, von Lohn, Gn. Qr. Metzgerg. S. Nr. 128 u. 154. H. u. B.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"B. G.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gn. Qr. Schulg. * Nr. 312 u. 313.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Schulg.\",\n      \"house_no\": \"312 u. 313\",\n      \"origin\": \"von Romainmotier\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tscharner, B. G., von Romainmotier, Gn. Qr. Schulg. * Nr. 312 u. 313. H. u. B.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Stadtkassier\",\n      \"address\": \"Gb. Qr. Marktg. * Nr. 45.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"45\",\n      \"origin\": \"von Bümplitz\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tscharner, Rud., von Bümplitz, gew. Stadtkassier, Gb. Qr. Marktg. * Nr. 45. H. u. B.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Länggaßdrittel Nr. 192. Holligendr. Nr. 165.\",\n      \"quarter\": \"\",\n      \"street\": \"Länggaßdrittel\",\n      \"house_no\": \"192\",\n      \"origin\": \"von Eymatt\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tscharner, Rud., von Eymatt, Länggaßdrittel Nr. 192. Holligendr. Nr. 165. B.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Rud. Aug.\",\n      \"title\": \"\",\n      \"occupation\": \"Stadtkommissionsschreiber\",\n      \"address\": \"W. Qr. Gerechtigkeitsgasse Nr. 84.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsgasse\",\n      \"house_no\": \"84\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tscharner, Rud. Aug., Stadtkommissionsschreiber, W. Qr. Gerechtigkeitsgasse Nr. 84. B.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"alt Schultheiß\",\n      \"address\": \"Eymatt, Länggaßdrittel Nr. 192. Holligendrittel Nr. 165a.\",\n      \"quarter\": \"\",\n      \"street\": \"Länggaßdrittel\",\n      \"house_no\": \"192\",\n      \"origin\": \"Eymatt\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tscharner, Rud., alt Schultheiß, Eymatt, Länggaßdrittel Nr. 192. Holligendrittel Nr. 165a. H. u. B.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Sigm. Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Altenbergdrittel Nr. 122.\",\n      \"quarter\": \"\",\n      \"street\": \"Altenbergdrittel\",\n      \"house_no\": \"122\",\n      \"origin\": \"von Kirchberg\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tscharner, Sigm. Albr., von Kirchberg, Altenbergdrittel Nr. 122. B.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"Sophie\",\n      \"title\": \"geb. Sinner\",\n      \"occupation\": \"\",\n      \"address\": \"W. Qr. Junkerngasse S. Nr. 166.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerngasse\",\n      \"house_no\": \"166\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tscharner, geb. Sinner, Sophie, W. Qr. Junkerngasse S. Nr. 166. H. u. B.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tscharner\",\n      \"forename\": \"\",\n      \"title\": \"Jungf.\",\n      \"occupation\": \"\",\n      \"address\": \"Länggaßdrittel, Viererhaus Nr. 272 und 273.\",\n      \"quarter\": \"\",\n      \"street\": \"Länggaßdrittel, Viererhaus\",\n      \"house_no\": \"272 und 273\",\n      \"origin\": \"von Lausanne\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tscharner, Jungf., von Lausanne, Länggaßdrittel, Viererhaus Nr. 272 und 273. H. u. B.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Dav. Frd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zu Washington.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Dav. Frd., zu Washington. B.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Franz Frdr. Adolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"Aarzieledrittel Nr. 1.\",\n      \"quarter\": \"\",\n      \"street\": \"Aarzieledrittel\",\n      \"house_no\": \"1\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Franz Frdr. Adolf, Schreiber, Aarzieledrittel Nr. 1. B.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Frdr. Andr. Em.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"in Amerika.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Frdr. Andr. Em., in Amerika. B.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Frdr.\",\n      \"title\": \"\",\n      \"occupation\": \"Baumstr.\",\n      \"address\": \"R. Qr. Zeughausg. * Nr. 8.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Zeughausg.\",\n      \"house_no\": \"8\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Frdr., Baumstr., R. Qr. Zeughausg. * Nr. 8. B.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Frdr. Dan.\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Hauptmann in franz. Diensten\",\n      \"address\": \"Gn. Qr. Metzgerg. * Nr. 102.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Metzgerg.\",\n      \"house_no\": \"102\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Frdr. Dan., gew. Hauptmann in franz. Diensten, Gn. Qr. Metzgerg. * Nr. 102. B.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Gabriel Frdr. Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zu Brüssel.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Gabriel Frdr. Rud., zu Brüssel. B.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Georg Heinr.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"R. Qr. Neuengasse S. Nr. 190.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Neuengasse\",\n      \"house_no\": \"190\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Georg Heinr., R. Qr. Neuengasse S. Nr. 190. B.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Jakob Georg\",\n      \"title\": \"\",\n      \"occupation\": \"alt Appellationsrichter\",\n      \"address\": \"in Neuenstadt.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Jakob Georg, alt Appellationsrichter in Neuenstadt. B.\"\n    },\n    {\n      \"line_from\": 46,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Joh. Em.\",\n      \"title\": \"\",\n      \"occupation\": \"alt Amtsschreiber\",\n      \"address\": \"Gb. Qr. Judengasse S. Nr. 113.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Judengasse\",\n      \"house_no\": \"113\",\n      \"origin\": \"von Trachselwald\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Joh. Em., alt Amtsschreiber, von Trachselwald, Gb. Qr. Judengasse S. Nr. 113. B.\"\n    },\n    {\n      \"line_from\": 48,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Karl Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"alt Bauamtschreiber\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"landesabwesend. B.\",\n      \"text\": \"Tschiffeli, Karl Rud., alt Bauamtschreiber, landesabwesend. B.\"\n    },\n    {\n      \"line_from\": 49,\n      \"line_to\": 49,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Narcis Ludw.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"R. Qr. Neuengasse * Nr. 191.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Neuengasse\",\n      \"house_no\": \"191\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Narcis Ludw., R. Qr. Neuengasse * Nr. 191. B.\"\n    },\n    {\n      \"line_from\": 50,\n      \"line_to\": 51,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli\",\n      \"forename\": \"Rud. Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Handelsmann\",\n      \"address\": \"R. Qr. Schauplatzgasse Nr. 198.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Schauplatzgasse\",\n      \"house_no\": \"198\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tschiffeli, Rud. Sam., gew. Handelsmann, R. Qr. Schauplatzgasse Nr. 198. B.\"\n    },\n    {\n      \"line_from\": 52,\n      \"line_to\": 53,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tschiffeli u. Stöckli\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Spezereihandl. u. Tabakfabrik\",\n      \"address\": \"R. Qr. Neueng. * Nr. 91.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Neueng.\",\n      \"house_no\": \"91\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tschiffeli u. Stöckli, Spezereihandl. u. Tabakfabrik, R. Qr. Neueng. * Nr. 91. H. u. B.\"\n    },\n    {\n      \"line_from\": 54,\n      \"line_to\": 54,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Turtaz\",\n      \"forename\": \"Rosine\",\n      \"title\": \"geb. Stämpfli\",\n      \"occupation\": \"Rentière\",\n      \"address\": \"Gb. Qr. Marktgasse * Nr. 35.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktgasse\",\n      \"house_no\": \"35\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Turtaz, geb. Stämpfli, Rosine, Rentière, Gb. Qr. Marktgasse * Nr. 35.\"\n    },\n    {\n      \"line_from\": 55,\n      \"line_to\": 55,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tüscher\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"Gn. Qr. Kramg. * Nr. 151.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramg.\",\n      \"house_no\": \"151\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tüscher, Joh., Handelsmann, Gn. Qr. Kramg. * Nr. 151.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "105",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "105"
+   },
+   {
+    "n": 2,
+    "text": "Tscharner, Karl Rudolf, von Rothhaus, Unterschaffner, W. Qr. Jun-"
+   },
+   {
+    "n": 3,
+    "text": "kerngasse S. Nr. 201. B."
+   },
+   {
+    "n": 4,
+    "text": "Tscharner, Elise, Gn. Qr. Keßlerg. * Nr. 208 u. 253. H. u. B."
+   },
+   {
+    "n": 5,
+    "text": "Tscharner, Karl Beat Rud., von Rothhaus, Kommissionsschreiber,"
+   },
+   {
+    "n": 6,
+    "text": "W. Qr. Junkerng. S. Nr. 20. B."
+   },
+   {
+    "n": 7,
+    "text": "Tscharner, Karl Eduard, Artillerieoffizier, Gn. Qr. Kramgasse *"
+   },
+   {
+    "n": 8,
+    "text": "Nr. 143. B."
+   },
+   {
+    "n": 9,
+    "text": "Tscharner, Karl Em., von Lohn, gew. Hauptmann, im Lohn bei"
+   },
+   {
+    "n": 10,
+    "text": "Kehrsatz. B."
+   },
+   {
+    "n": 11,
+    "text": "Tscharner, Karl Friedr., Schultheiß, Gn. Qr. Kramgasse * Nr. 143"
+   },
+   {
+    "n": 12,
+    "text": "u. 144. Holligendrittel Nr. 108, 112 u. 117. H. u. B."
+   },
+   {
+    "n": 13,
+    "text": "Tscharner, Frau, Joh., W. Qr. Junkerng. S. Nr. 182. H. u. B."
+   },
+   {
+    "n": 14,
+    "text": "Tscharner, Karl Ludwig, alt Appellationsrichter, Gn. Qr. Hotellaube"
+   },
+   {
+    "n": 15,
+    "text": "S. Nr. 232. Junkerngasse S. Nr. 184 und Schifflaube"
+   },
+   {
+    "n": 16,
+    "text": "Nr. 43a. H. u. B."
+   },
+   {
+    "n": 17,
+    "text": "Tscharner, Karl Ludw. Em., allié Fischer, vom Gwatt, W. Qr. Jun-"
+   },
+   {
+    "n": 18,
+    "text": "kerngasse S. Nr. 194. B."
+   },
+   {
+    "n": 19,
+    "text": "Tscharner, Karl Ludw., alt Oberamtmann von Burgdorf, W. Qr."
+   },
+   {
+    "n": 20,
+    "text": "Junkerng. S. Nr. 184. B."
+   },
+   {
+    "n": 21,
+    "text": "Tscharner, von Lohn, Gn. Qr. Metzgerg. S. Nr. 128 u. 154. H. u. B."
+   },
+   {
+    "n": 22,
+    "text": "Tscharner, B. G., von Romainmotier, Gn. Qr. Schulg. * Nr. 312"
+   },
+   {
+    "n": 23,
+    "text": "u. 313. H. u. B."
+   },
+   {
+    "n": 24,
+    "text": "Tscharner, Rud., von Bümplitz, gew. Stadtkassier, Gb. Qr. Marktg."
+   },
+   {
+    "n": 25,
+    "text": "* Nr. 45. H. u. B."
+   },
+   {
+    "n": 26,
+    "text": "Tscharner, Rud., von Eymatt, Länggaßdrittel Nr. 192. Holligendr."
+   },
+   {
+    "n": 27,
+    "text": "Nr. 165. B."
+   },
+   {
+    "n": 28,
+    "text": "Tscharner, Rud. Aug., Stadtkommissionsschreiber, W. Qr. Gerechtig-"
+   },
+   {
+    "n": 29,
+    "text": "keitsgasse Nr. 84. B."
+   },
+   {
+    "n": 30,
+    "text": "Tscharner, Rud., alt Schultheiß, Eymatt, Länggaßdrittel Nr. 192."
+   },
+   {
+    "n": 31,
+    "text": "Holligendrittel Nr. 165a. H. u. B."
+   },
+   {
+    "n": 32,
+    "text": "Tscharner, Sigm. Albr., von Kirchberg, Altenbergdrittel Nr. 122. B."
+   },
+   {
+    "n": 33,
+    "text": "Tscharner, geb. Sinner, Sophie, W. Qr. Junkerngasse S. Nr. 166."
+   },
+   {
+    "n": 34,
+    "text": "H. u. B."
+   },
+   {
+    "n": 35,
+    "text": "Tscharner, Jungf., von Lausanne, Länggaßdrittel, Viererhaus Nr. 272"
+   },
+   {
+    "n": 36,
+    "text": "und 273. H. u. B."
+   },
+   {
+    "n": 37,
+    "text": "Tschiffeli, Dav. Frd., zu Washington. B."
+   },
+   {
+    "n": 38,
+    "text": "Tschiffeli, Franz Frdr. Adolf, Schreiber, Aarzieledrittel Nr. 1. B."
+   },
+   {
+    "n": 39,
+    "text": "Tschiffeli, Frdr. Andr. Em., in Amerika. B."
+   },
+   {
+    "n": 40,
+    "text": "Tschiffeli, Frdr., Baumstr., R. Qr. Zeughausg. * Nr. 8. B."
+   },
+   {
+    "n": 41,
+    "text": "Tschiffeli, Frdr. Dan., gew. Hauptmann in franz. Diensten, Gn. Qr."
+   },
+   {
+    "n": 42,
+    "text": "Metzgerg. * Nr. 102. B."
+   },
+   {
+    "n": 43,
+    "text": "Tschiffeli, Gabriel Frdr. Rud., zu Brüssel. B."
+   },
+   {
+    "n": 44,
+    "text": "Tschiffeli, Georg Heinr., R. Qr. Neuengasse S. Nr. 190. B."
+   },
+   {
+    "n": 45,
+    "text": "Tschiffeli, Jakob Georg, alt Appellationsrichter in Neuenstadt. B."
+   },
+   {
+    "n": 46,
+    "text": "Tschiffeli, Joh. Em., alt Amtsschreiber, von Trachselwald, Gb. Qr."
+   },
+   {
+    "n": 47,
+    "text": "Judengasse S. Nr. 113. B."
+   },
+   {
+    "n": 48,
+    "text": "Tschiffeli, Karl Rud., alt Bauamtschreiber, landesabwesend. B."
+   },
+   {
+    "n": 49,
+    "text": "Tschiffeli, Narcis Ludw., R. Qr. Neuengasse * Nr. 191. B."
+   },
+   {
+    "n": 50,
+    "text": "Tschiffeli, Rud. Sam., gew. Handelsmann, R. Qr. Schauplatzgasse"
+   },
+   {
+    "n": 51,
+    "text": "Nr. 198. B."
+   },
+   {
+    "n": 52,
+    "text": "Tschiffeli u. Stöckli, Spezereihandl. u. Tabakfabrik, R. Qr. Neueng."
+   },
+   {
+    "n": 53,
+    "text": "* Nr. 91. H. u. B."
+   },
+   {
+    "n": 54,
+    "text": "Turtaz, geb. Stämpfli, Rosine, Rentière, Gb. Qr. Marktgasse * Nr. 35."
+   },
+   {
+    "n": 55,
+    "text": "Tüscher, Joh., Handelsmann, Gn. Qr. Kramg. * Nr. 151."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Karl Rudolf",
+    "title": "",
+    "occupation": "Unterschaffner",
+    "address": "W. Qr. Junkerngasse S. Nr. 201.",
+    "quarter": "W. Qr.",
+    "street": "Junkerngasse",
+    "house_no": "201",
+    "origin": "von Rothhaus",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tscharner, Karl Rudolf, von Rothhaus, Unterschaffner, W. Qr. Junkerngasse S. Nr. 201. B."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Elise",
+    "title": "",
+    "occupation": "",
+    "address": "Gn. Qr. Keßlerg. * Nr. 208 u. 253.",
+    "quarter": "Gn. Qr.",
+    "street": "Keßlerg.",
+    "house_no": "208 u. 253",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tscharner, Elise, Gn. Qr. Keßlerg. * Nr. 208 u. 253. H. u. B."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Karl Beat Rud.",
+    "title": "",
+    "occupation": "Kommissionsschreiber",
+    "address": "W. Qr. Junkerng. S. Nr. 20.",
+    "quarter": "W. Qr.",
+    "street": "Junkerng.",
+    "house_no": "20",
+    "origin": "von Rothhaus",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tscharner, Karl Beat Rud., von Rothhaus, Kommissionsschreiber, W. Qr. Junkerng. S. Nr. 20. B."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Karl Eduard",
+    "title": "",
+    "occupation": "Artillerieoffizier",
+    "address": "Gn. Qr. Kramgasse * Nr. 143.",
+    "quarter": "Gn. Qr.",
+    "street": "Kramgasse",
+    "house_no": "143",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tscharner, Karl Eduard, Artillerieoffizier, Gn. Qr. Kramgasse * Nr. 143. B."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Karl Em.",
+    "title": "",
+    "occupation": "gew. Hauptmann",
+    "address": "im Lohn bei Kehrsatz.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "von Lohn",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tscharner, Karl Em., von Lohn, gew. Hauptmann, im Lohn bei Kehrsatz. B."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Karl Friedr.",
+    "title": "",
+    "occupation": "Schultheiß",
+    "address": "Gn. Qr. Kramgasse * Nr. 143 u. 144. Holligendrittel Nr. 108, 112 u. 117.",
+    "quarter": "Gn. Qr.",
+    "street": "Kramgasse",
+    "house_no": "143 u. 144",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tscharner, Karl Friedr., Schultheiß, Gn. Qr. Kramgasse * Nr. 143 u. 144. Holligendrittel Nr. 108, 112 u. 117. H. u. B."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Joh.",
+    "title": "Frau",
+    "occupation": "",
+    "address": "W. Qr. Junkerng. S. Nr. 182.",
+    "quarter": "W. Qr.",
+    "street": "Junkerng.",
+    "house_no": "182",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tscharner, Frau, Joh., W. Qr. Junkerng. S. Nr. 182. H. u. B."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Karl Ludwig",
+    "title": "",
+    "occupation": "alt Appellationsrichter",
+    "address": "Gn. Qr. Hotellaube S. Nr. 232. Junkerngasse S. Nr. 184 und Schifflaube Nr. 43a.",
+    "quarter": "Gn. Qr.",
+    "street": "Hotellaube",
+    "house_no": "232",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tscharner, Karl Ludwig, alt Appellationsrichter, Gn. Qr. Hotellaube S. Nr. 232. Junkerngasse S. Nr. 184 und Schifflaube Nr. 43a. H. u. B."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Karl Ludw. Em.",
+    "title": "allié Fischer",
+    "occupation": "",
+    "address": "W. Qr. Junkerngasse S. Nr. 194.",
+    "quarter": "W. Qr.",
+    "street": "Junkerngasse",
+    "house_no": "194",
+    "origin": "vom Gwatt",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tscharner, Karl Ludw. Em., allié Fischer, vom Gwatt, W. Qr. Junkerngasse S. Nr. 194. B."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Karl Ludw.",
+    "title": "",
+    "occupation": "alt Oberamtmann von Burgdorf",
+    "address": "W. Qr. Junkerng. S. Nr. 184.",
+    "quarter": "W. Qr.",
+    "street": "Junkerng.",
+    "house_no": "184",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tscharner, Karl Ludw., alt Oberamtmann von Burgdorf, W. Qr. Junkerng. S. Nr. 184. B."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Gn. Qr. Metzgerg. S. Nr. 128 u. 154.",
+    "quarter": "Gn. Qr.",
+    "street": "Metzgerg.",
+    "house_no": "128 u. 154",
+    "origin": "von Lohn",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tscharner, von Lohn, Gn. Qr. Metzgerg. S. Nr. 128 u. 154. H. u. B."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "B. G.",
+    "title": "",
+    "occupation": "",
+    "address": "Gn. Qr. Schulg. * Nr. 312 u. 313.",
+    "quarter": "Gn. Qr.",
+    "street": "Schulg.",
+    "house_no": "312 u. 313",
+    "origin": "von Romainmotier",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tscharner, B. G., von Romainmotier, Gn. Qr. Schulg. * Nr. 312 u. 313. H. u. B."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Rud.",
+    "title": "",
+    "occupation": "gew. Stadtkassier",
+    "address": "Gb. Qr. Marktg. * Nr. 45.",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "45",
+    "origin": "von Bümplitz",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tscharner, Rud., von Bümplitz, gew. Stadtkassier, Gb. Qr. Marktg. * Nr. 45. H. u. B."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Rud.",
+    "title": "",
+    "occupation": "",
+    "address": "Länggaßdrittel Nr. 192. Holligendr. Nr. 165.",
+    "quarter": "",
+    "street": "Länggaßdrittel",
+    "house_no": "192",
+    "origin": "von Eymatt",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tscharner, Rud., von Eymatt, Länggaßdrittel Nr. 192. Holligendr. Nr. 165. B."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Rud. Aug.",
+    "title": "",
+    "occupation": "Stadtkommissionsschreiber",
+    "address": "W. Qr. Gerechtigkeitsgasse Nr. 84.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsgasse",
+    "house_no": "84",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tscharner, Rud. Aug., Stadtkommissionsschreiber, W. Qr. Gerechtigkeitsgasse Nr. 84. B."
+   },
+   {
+    "line_from": 30,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Rud.",
+    "title": "",
+    "occupation": "alt Schultheiß",
+    "address": "Eymatt, Länggaßdrittel Nr. 192. Holligendrittel Nr. 165a.",
+    "quarter": "",
+    "street": "Länggaßdrittel",
+    "house_no": "192",
+    "origin": "Eymatt",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tscharner, Rud., alt Schultheiß, Eymatt, Länggaßdrittel Nr. 192. Holligendrittel Nr. 165a. H. u. B."
+   },
+   {
+    "line_from": 32,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Sigm. Albr.",
+    "title": "",
+    "occupation": "",
+    "address": "Altenbergdrittel Nr. 122.",
+    "quarter": "",
+    "street": "Altenbergdrittel",
+    "house_no": "122",
+    "origin": "von Kirchberg",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tscharner, Sigm. Albr., von Kirchberg, Altenbergdrittel Nr. 122. B."
+   },
+   {
+    "line_from": 33,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "Sophie",
+    "title": "geb. Sinner",
+    "occupation": "",
+    "address": "W. Qr. Junkerngasse S. Nr. 166.",
+    "quarter": "W. Qr.",
+    "street": "Junkerngasse",
+    "house_no": "166",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tscharner, geb. Sinner, Sophie, W. Qr. Junkerngasse S. Nr. 166. H. u. B."
+   },
+   {
+    "line_from": 35,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tscharner",
+    "forename": "",
+    "title": "Jungf.",
+    "occupation": "",
+    "address": "Länggaßdrittel, Viererhaus Nr. 272 und 273.",
+    "quarter": "",
+    "street": "Länggaßdrittel, Viererhaus",
+    "house_no": "272 und 273",
+    "origin": "von Lausanne",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tscharner, Jungf., von Lausanne, Länggaßdrittel, Viererhaus Nr. 272 und 273. H. u. B."
+   },
+   {
+    "line_from": 37,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Dav. Frd.",
+    "title": "",
+    "occupation": "",
+    "address": "zu Washington.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Dav. Frd., zu Washington. B."
+   },
+   {
+    "line_from": 38,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Franz Frdr. Adolf",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "Aarzieledrittel Nr. 1.",
+    "quarter": "",
+    "street": "Aarzieledrittel",
+    "house_no": "1",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Franz Frdr. Adolf, Schreiber, Aarzieledrittel Nr. 1. B."
+   },
+   {
+    "line_from": 39,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Frdr. Andr. Em.",
+    "title": "",
+    "occupation": "",
+    "address": "in Amerika.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Frdr. Andr. Em., in Amerika. B."
+   },
+   {
+    "line_from": 40,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Frdr.",
+    "title": "",
+    "occupation": "Baumstr.",
+    "address": "R. Qr. Zeughausg. * Nr. 8.",
+    "quarter": "R. Qr.",
+    "street": "Zeughausg.",
+    "house_no": "8",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Frdr., Baumstr., R. Qr. Zeughausg. * Nr. 8. B."
+   },
+   {
+    "line_from": 41,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Frdr. Dan.",
+    "title": "",
+    "occupation": "gew. Hauptmann in franz. Diensten",
+    "address": "Gn. Qr. Metzgerg. * Nr. 102.",
+    "quarter": "Gn. Qr.",
+    "street": "Metzgerg.",
+    "house_no": "102",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Frdr. Dan., gew. Hauptmann in franz. Diensten, Gn. Qr. Metzgerg. * Nr. 102. B."
+   },
+   {
+    "line_from": 43,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Gabriel Frdr. Rud.",
+    "title": "",
+    "occupation": "",
+    "address": "zu Brüssel.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Gabriel Frdr. Rud., zu Brüssel. B."
+   },
+   {
+    "line_from": 44,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Georg Heinr.",
+    "title": "",
+    "occupation": "",
+    "address": "R. Qr. Neuengasse S. Nr. 190.",
+    "quarter": "R. Qr.",
+    "street": "Neuengasse",
+    "house_no": "190",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Georg Heinr., R. Qr. Neuengasse S. Nr. 190. B."
+   },
+   {
+    "line_from": 45,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Jakob Georg",
+    "title": "",
+    "occupation": "alt Appellationsrichter",
+    "address": "in Neuenstadt.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Jakob Georg, alt Appellationsrichter in Neuenstadt. B."
+   },
+   {
+    "line_from": 46,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Joh. Em.",
+    "title": "",
+    "occupation": "alt Amtsschreiber",
+    "address": "Gb. Qr. Judengasse S. Nr. 113.",
+    "quarter": "Gb. Qr.",
+    "street": "Judengasse",
+    "house_no": "113",
+    "origin": "von Trachselwald",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Joh. Em., alt Amtsschreiber, von Trachselwald, Gb. Qr. Judengasse S. Nr. 113. B."
+   },
+   {
+    "line_from": 48,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Karl Rud.",
+    "title": "",
+    "occupation": "alt Bauamtschreiber",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "landesabwesend. B.",
+    "text": "Tschiffeli, Karl Rud., alt Bauamtschreiber, landesabwesend. B."
+   },
+   {
+    "line_from": 49,
+    "line_to": 49,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Narcis Ludw.",
+    "title": "",
+    "occupation": "",
+    "address": "R. Qr. Neuengasse * Nr. 191.",
+    "quarter": "R. Qr.",
+    "street": "Neuengasse",
+    "house_no": "191",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Narcis Ludw., R. Qr. Neuengasse * Nr. 191. B."
+   },
+   {
+    "line_from": 50,
+    "line_to": 51,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli",
+    "forename": "Rud. Sam.",
+    "title": "",
+    "occupation": "gew. Handelsmann",
+    "address": "R. Qr. Schauplatzgasse Nr. 198.",
+    "quarter": "R. Qr.",
+    "street": "Schauplatzgasse",
+    "house_no": "198",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tschiffeli, Rud. Sam., gew. Handelsmann, R. Qr. Schauplatzgasse Nr. 198. B."
+   },
+   {
+    "line_from": 52,
+    "line_to": 53,
+    "kind": "firma",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tschiffeli u. Stöckli",
+    "forename": "",
+    "title": "",
+    "occupation": "Spezereihandl. u. Tabakfabrik",
+    "address": "R. Qr. Neueng. * Nr. 91.",
+    "quarter": "R. Qr.",
+    "street": "Neueng.",
+    "house_no": "91",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tschiffeli u. Stöckli, Spezereihandl. u. Tabakfabrik, R. Qr. Neueng. * Nr. 91. H. u. B."
+   },
+   {
+    "line_from": 54,
+    "line_to": 54,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Turtaz",
+    "forename": "Rosine",
+    "title": "geb. Stämpfli",
+    "occupation": "Rentière",
+    "address": "Gb. Qr. Marktgasse * Nr. 35.",
+    "quarter": "Gb. Qr.",
+    "street": "Marktgasse",
+    "house_no": "35",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Turtaz, geb. Stämpfli, Rosine, Rentière, Gb. Qr. Marktgasse * Nr. 35."
+   },
+   {
+    "line_from": 55,
+    "line_to": 55,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Tüscher",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "Gn. Qr. Kramg. * Nr. 151.",
+    "quarter": "Gn. Qr.",
+    "street": "Kramg.",
+    "house_no": "151",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tüscher, Joh., Handelsmann, Gn. Qr. Kramg. * Nr. 151."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:20:42+01:00",
+ "last_error": null
+}

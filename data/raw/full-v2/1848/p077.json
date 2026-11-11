@@ -1,0 +1,402 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 77,
+ "section": "einsassen",
+ "started": "2026-11-11T22:01:13+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 24.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3959,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"64\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"— 64 —\" },\n    { \"n\": 2, \"text\": \"Nr. Geb.\" },\n    { \"n\": 3, \"text\": \"Hemmi.\" },\n    { \"n\": 4, \"text\": \"1 822 Johann, Küfermeister, a. Churwalden in Graubünden\" },\n    { \"n\": 5, \"text\": \"— III, 12.\" },\n    { \"n\": 6, \"text\": \"819 Fr. - Marg. Holzer a. Moosseedorf, Krämerin.\" },\n    { \"n\": 7, \"text\": \"(Ein Kind nicht eingeschrieben.)\" },\n    { \"n\": 8, \"text\": \"Hemund.\" },\n    { \"n\": 9, \"text\": \"1 802 Bendicht, Krämer, a. Kappelen - III, 12.\" },\n    { \"n\": 10, \"text\": \"818 Fr. - Anna Henzer a. Albligen.\" },\n    { \"n\": 11, \"text\": \"4 K. — 840 Joh. Friedrich. — 43 Jakob Bernard. —\" },\n    { \"n\": 12, \"text\": \"46 Anna Elis. — 47 Maria Magd.\" },\n    { \"n\": 13, \"text\": \"Hendrich.\" },\n    { \"n\": 14, \"text\": \"1 794 Karl Fredrich, Schreiner, a. Myes, K. Waadt - II, 204.\" },\n    { \"n\": 15, \"text\": \"5 K. — 823 Karl Christ. — 25 Barbara Margaritha. —\" },\n    { \"n\": 16, \"text\": \"28 Rosina Louise. — 31 Gottlieb Rudolf. — 35 Maria\" },\n    { \"n\": 17, \"text\": \"Sophie.\" },\n    { \"n\": 18, \"text\": \"Henriod.\" },\n    { \"n\": 19, \"text\": \"1 Marie, geb. Grobon, Krämerin, a. Belmont - IV, 236.\" },\n    { \"n\": 20, \"text\": \"Heri.\" },\n    { \"n\": 21, \"text\": \"1 Johann, Lohnbedienter, a. Biberist - IV, 150.\" },\n    { \"n\": 22, \"text\": \"796 Fr. - Anna Maria Scheurer a. Kallnach.\" },\n    { \"n\": 23, \"text\": \"(2 K. sind nicht eingeschrieben.)\" },\n    { \"n\": 24, \"text\": \"Herrmann.\" },\n    { \"n\": 25, \"text\": \"1 Samuel, Grempler, a. Signau - II, 116 a.\" },\n    { \"n\": 26, \"text\": \"790 Fr. - Magd. Zbinden, verw. Messerli, Finkenmacherin.\" },\n    { \"n\": 27, \"text\": \"7 K. — 820 Magdalena. — 23 Samuel Gottlieb. —\" },\n    { \"n\": 28, \"text\": \"26 Joh. David. — 28 Anna Barb. — 30 Friedrich. —\" },\n    { \"n\": 29, \"text\": \"32 Anna Maria. — 35 Daniel.\" },\n    { \"n\": 30, \"text\": \"2 811 Jakob, Büchsenmacher, a. Rohrbach - II, 83 a.\" },\n    { \"n\": 31, \"text\": \"809 Fr. - Anna Barb. Freitag.\" },\n    { \"n\": 32, \"text\": \"3 819 Joh. Ulrich, Weißmüller, a. Auswyl - V, 6.\" },\n    { \"n\": 33, \"text\": \"816 Fr. - Anna Barb. Mühlemann a. Koppigen.\" },\n    { \"n\": 34, \"text\": \"2 K. — 844 Maria Louise. — 46 Joh. Friedrich.\" },\n    { \"n\": 35, \"text\": \"Herndl.\" },\n    { \"n\": 36, \"text\": \"1 802 Mathias, Schuhmacher, a. Elay - IV, 6 u. 7.\" },\n    { \"n\": 37, \"text\": \"800 Fr. - Aramanda Schelle a. Besigheim.\" },\n    { \"n\": 38, \"text\": \"4 T. — 819 Kath. Louise. — 31 Kath. Verena Maria.\" },\n    { \"n\": 39, \"text\": \"— 32 Maria Elisabetha. — 36 Maria Aramanda.\" },\n    { \"n\": 40, \"text\": \"Herren.\" },\n    { \"n\": 41, \"text\": \"1 789 Anna, geb. Scherler, a. Mühleberg, privat. - VI, 11.\" },\n    { \"n\": 42, \"text\": \"1 S. — 832 Johann.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Hemmi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hemmi\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Küfermeister\",\n      \"address\": \"III, 12.\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"12.\",\n      \"origin\": \"Churwalden in Graubünden\",\n      \"birth_year\": \"1822\",\n      \"household\": \"819 Fr. - Marg. Holzer a. Moosseedorf, Krämerin. (Ein Kind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 822 Johann, Küfermeister, a. Churwalden in Graubünden — III, 12. 819 Fr. - Marg. Holzer a. Moosseedorf, Krämerin. (Ein Kind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Hemund.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hemund\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"III, 12.\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"12.\",\n      \"origin\": \"Kappelen\",\n      \"birth_year\": \"1802\",\n      \"household\": \"818 Fr. - Anna Henzer a. Albligen. 4 K. — 840 Joh. Friedrich. — 43 Jakob Bernard. — 46 Anna Elis. — 47 Maria Magd.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Bendicht, Krämer, a. Kappelen - III, 12. 818 Fr. - Anna Henzer a. Albligen. 4 K. — 840 Joh. Friedrich. — 43 Jakob Bernard. — 46 Anna Elis. — 47 Maria Magd.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Hendrich.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hendrich\",\n      \"forename\": \"Karl Fredrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"II, 204.\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"204.\",\n      \"origin\": \"Myes, K. Waadt\",\n      \"birth_year\": \"1794\",\n      \"household\": \"5 K. — 823 Karl Christ. — 25 Barbara Margaritha. — 28 Rosina Louise. — 31 Gottlieb Rudolf. — 35 Maria Sophie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 794 Karl Fredrich, Schreiner, a. Myes, K. Waadt - II, 204. 5 K. — 823 Karl Christ. — 25 Barbara Margaritha. — 28 Rosina Louise. — 31 Gottlieb Rudolf. — 35 Maria Sophie.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Henriod.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Henriod\",\n      \"forename\": \"Marie\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"IV, 236.\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"236.\",\n      \"origin\": \"Belmont\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Marie, geb. Grobon, Krämerin, a. Belmont - IV, 236.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Heri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heri\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnbedienter\",\n      \"address\": \"IV, 150.\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"150.\",\n      \"origin\": \"Biberist\",\n      \"birth_year\": \"\",\n      \"household\": \"796 Fr. - Anna Maria Scheurer a. Kallnach. (2 K. sind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Johann, Lohnbedienter, a. Biberist - IV, 150. 796 Fr. - Anna Maria Scheurer a. Kallnach. (2 K. sind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Herrmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herrmann\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Grempler\",\n      \"address\": \"II, 116 a.\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"116 a.\",\n      \"origin\": \"Signau\",\n      \"birth_year\": \"\",\n      \"household\": \"790 Fr. - Magd. Zbinden, verw. Messerli, Finkenmacherin. 7 K. — 820 Magdalena. — 23 Samuel Gottlieb. — 26 Joh. David. — 28 Anna Barb. — 30 Friedrich. — 32 Anna Maria. — 35 Daniel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Samuel, Grempler, a. Signau - II, 116 a. 790 Fr. - Magd. Zbinden, verw. Messerli, Finkenmacherin. 7 K. — 820 Magdalena. — 23 Samuel Gottlieb. — 26 Joh. David. — 28 Anna Barb. — 30 Friedrich. — 32 Anna Maria. — 35 Daniel.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Herrmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herrmann\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Büchsenmacher\",\n      \"address\": \"II, 83 a.\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"83 a.\",\n      \"origin\": \"Rohrbach\",\n      \"birth_year\": \"1811\",\n      \"household\": \"809 Fr. - Anna Barb. Freitag.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 811 Jakob, Büchsenmacher, a. Rohrbach - II, 83 a. 809 Fr. - Anna Barb. Freitag.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Herrmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herrmann\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Weißmüller\",\n      \"address\": \"V, 6.\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"6.\",\n      \"origin\": \"Auswyl\",\n      \"birth_year\": \"1819\",\n      \"household\": \"816 Fr. - Anna Barb. Mühlemann a. Koppigen. 2 K. — 844 Maria Louise. — 46 Joh. Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 819 Joh. Ulrich, Weißmüller, a. Auswyl - V, 6. 816 Fr. - Anna Barb. Mühlemann a. Koppigen. 2 K. — 844 Maria Louise. — 46 Joh. Friedrich.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Herndl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herndl\",\n      \"forename\": \"Mathias\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 6 u. 7.\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"6 u. 7.\",\n      \"origin\": \"Elay\",\n      \"birth_year\": \"1802\",\n      \"household\": \"800 Fr. - Aramanda Schelle a. Besigheim. 4 T. — 819 Kath. Louise. — 31 Kath. Verena Maria. — 32 Maria Elisabetha. — 36 Maria Aramanda.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Mathias, Schuhmacher, a. Elay - IV, 6 u. 7. 800 Fr. - Aramanda Schelle a. Besigheim. 4 T. — 819 Kath. Louise. — 31 Kath. Verena Maria. — 32 Maria Elisabetha. — 36 Maria Aramanda.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Herren.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herren\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"VI, 11.\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"11.\",\n      \"origin\": \"Mühleberg\",\n      \"birth_year\": \"1789\",\n      \"household\": \"1 S. — 832 Johann.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 789 Anna, geb. Scherler, a. Mühleberg, privat. - VI, 11. 1 S. — 832 Johann.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "64",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 64 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Hemmi."
+   },
+   {
+    "n": 4,
+    "text": "1 822 Johann, Küfermeister, a. Churwalden in Graubünden"
+   },
+   {
+    "n": 5,
+    "text": "— III, 12."
+   },
+   {
+    "n": 6,
+    "text": "819 Fr. - Marg. Holzer a. Moosseedorf, Krämerin."
+   },
+   {
+    "n": 7,
+    "text": "(Ein Kind nicht eingeschrieben.)"
+   },
+   {
+    "n": 8,
+    "text": "Hemund."
+   },
+   {
+    "n": 9,
+    "text": "1 802 Bendicht, Krämer, a. Kappelen - III, 12."
+   },
+   {
+    "n": 10,
+    "text": "818 Fr. - Anna Henzer a. Albligen."
+   },
+   {
+    "n": 11,
+    "text": "4 K. — 840 Joh. Friedrich. — 43 Jakob Bernard. —"
+   },
+   {
+    "n": 12,
+    "text": "46 Anna Elis. — 47 Maria Magd."
+   },
+   {
+    "n": 13,
+    "text": "Hendrich."
+   },
+   {
+    "n": 14,
+    "text": "1 794 Karl Fredrich, Schreiner, a. Myes, K. Waadt - II, 204."
+   },
+   {
+    "n": 15,
+    "text": "5 K. — 823 Karl Christ. — 25 Barbara Margaritha. —"
+   },
+   {
+    "n": 16,
+    "text": "28 Rosina Louise. — 31 Gottlieb Rudolf. — 35 Maria"
+   },
+   {
+    "n": 17,
+    "text": "Sophie."
+   },
+   {
+    "n": 18,
+    "text": "Henriod."
+   },
+   {
+    "n": 19,
+    "text": "1 Marie, geb. Grobon, Krämerin, a. Belmont - IV, 236."
+   },
+   {
+    "n": 20,
+    "text": "Heri."
+   },
+   {
+    "n": 21,
+    "text": "1 Johann, Lohnbedienter, a. Biberist - IV, 150."
+   },
+   {
+    "n": 22,
+    "text": "796 Fr. - Anna Maria Scheurer a. Kallnach."
+   },
+   {
+    "n": 23,
+    "text": "(2 K. sind nicht eingeschrieben.)"
+   },
+   {
+    "n": 24,
+    "text": "Herrmann."
+   },
+   {
+    "n": 25,
+    "text": "1 Samuel, Grempler, a. Signau - II, 116 a."
+   },
+   {
+    "n": 26,
+    "text": "790 Fr. - Magd. Zbinden, verw. Messerli, Finkenmacherin."
+   },
+   {
+    "n": 27,
+    "text": "7 K. — 820 Magdalena. — 23 Samuel Gottlieb. —"
+   },
+   {
+    "n": 28,
+    "text": "26 Joh. David. — 28 Anna Barb. — 30 Friedrich. —"
+   },
+   {
+    "n": 29,
+    "text": "32 Anna Maria. — 35 Daniel."
+   },
+   {
+    "n": 30,
+    "text": "2 811 Jakob, Büchsenmacher, a. Rohrbach - II, 83 a."
+   },
+   {
+    "n": 31,
+    "text": "809 Fr. - Anna Barb. Freitag."
+   },
+   {
+    "n": 32,
+    "text": "3 819 Joh. Ulrich, Weißmüller, a. Auswyl - V, 6."
+   },
+   {
+    "n": 33,
+    "text": "816 Fr. - Anna Barb. Mühlemann a. Koppigen."
+   },
+   {
+    "n": 34,
+    "text": "2 K. — 844 Maria Louise. — 46 Joh. Friedrich."
+   },
+   {
+    "n": 35,
+    "text": "Herndl."
+   },
+   {
+    "n": 36,
+    "text": "1 802 Mathias, Schuhmacher, a. Elay - IV, 6 u. 7."
+   },
+   {
+    "n": 37,
+    "text": "800 Fr. - Aramanda Schelle a. Besigheim."
+   },
+   {
+    "n": 38,
+    "text": "4 T. — 819 Kath. Louise. — 31 Kath. Verena Maria."
+   },
+   {
+    "n": 39,
+    "text": "— 32 Maria Elisabetha. — 36 Maria Aramanda."
+   },
+   {
+    "n": 40,
+    "text": "Herren."
+   },
+   {
+    "n": 41,
+    "text": "1 789 Anna, geb. Scherler, a. Mühleberg, privat. - VI, 11."
+   },
+   {
+    "n": 42,
+    "text": "1 S. — 832 Johann."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Hemmi.",
+    "place": "Bern",
+    "surname": "Hemmi",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Küfermeister",
+    "address": "III, 12.",
+    "quarter": "III",
+    "street": "",
+    "house_no": "12.",
+    "origin": "Churwalden in Graubünden",
+    "birth_year": "1822",
+    "household": "819 Fr. - Marg. Holzer a. Moosseedorf, Krämerin. (Ein Kind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 822 Johann, Küfermeister, a. Churwalden in Graubünden — III, 12. 819 Fr. - Marg. Holzer a. Moosseedorf, Krämerin. (Ein Kind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Hemund.",
+    "place": "Bern",
+    "surname": "Hemund",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "III, 12.",
+    "quarter": "III",
+    "street": "",
+    "house_no": "12.",
+    "origin": "Kappelen",
+    "birth_year": "1802",
+    "household": "818 Fr. - Anna Henzer a. Albligen. 4 K. — 840 Joh. Friedrich. — 43 Jakob Bernard. — 46 Anna Elis. — 47 Maria Magd.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Bendicht, Krämer, a. Kappelen - III, 12. 818 Fr. - Anna Henzer a. Albligen. 4 K. — 840 Joh. Friedrich. — 43 Jakob Bernard. — 46 Anna Elis. — 47 Maria Magd."
+   },
+   {
+    "line_from": 14,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Hendrich.",
+    "place": "Bern",
+    "surname": "Hendrich",
+    "forename": "Karl Fredrich",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "II, 204.",
+    "quarter": "II",
+    "street": "",
+    "house_no": "204.",
+    "origin": "Myes, K. Waadt",
+    "birth_year": "1794",
+    "household": "5 K. — 823 Karl Christ. — 25 Barbara Margaritha. — 28 Rosina Louise. — 31 Gottlieb Rudolf. — 35 Maria Sophie.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 794 Karl Fredrich, Schreiner, a. Myes, K. Waadt - II, 204. 5 K. — 823 Karl Christ. — 25 Barbara Margaritha. — 28 Rosina Louise. — 31 Gottlieb Rudolf. — 35 Maria Sophie."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Henriod.",
+    "place": "Bern",
+    "surname": "Henriod",
+    "forename": "Marie",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "IV, 236.",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "236.",
+    "origin": "Belmont",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Marie, geb. Grobon, Krämerin, a. Belmont - IV, 236."
+   },
+   {
+    "line_from": 21,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Heri.",
+    "place": "Bern",
+    "surname": "Heri",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Lohnbedienter",
+    "address": "IV, 150.",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "150.",
+    "origin": "Biberist",
+    "birth_year": "",
+    "household": "796 Fr. - Anna Maria Scheurer a. Kallnach. (2 K. sind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Johann, Lohnbedienter, a. Biberist - IV, 150. 796 Fr. - Anna Maria Scheurer a. Kallnach. (2 K. sind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 25,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Herrmann.",
+    "place": "Bern",
+    "surname": "Herrmann",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Grempler",
+    "address": "II, 116 a.",
+    "quarter": "II",
+    "street": "",
+    "house_no": "116 a.",
+    "origin": "Signau",
+    "birth_year": "",
+    "household": "790 Fr. - Magd. Zbinden, verw. Messerli, Finkenmacherin. 7 K. — 820 Magdalena. — 23 Samuel Gottlieb. — 26 Joh. David. — 28 Anna Barb. — 30 Friedrich. — 32 Anna Maria. — 35 Daniel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Samuel, Grempler, a. Signau - II, 116 a. 790 Fr. - Magd. Zbinden, verw. Messerli, Finkenmacherin. 7 K. — 820 Magdalena. — 23 Samuel Gottlieb. — 26 Joh. David. — 28 Anna Barb. — 30 Friedrich. — 32 Anna Maria. — 35 Daniel."
+   },
+   {
+    "line_from": 30,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Herrmann.",
+    "place": "Bern",
+    "surname": "Herrmann",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Büchsenmacher",
+    "address": "II, 83 a.",
+    "quarter": "II",
+    "street": "",
+    "house_no": "83 a.",
+    "origin": "Rohrbach",
+    "birth_year": "1811",
+    "household": "809 Fr. - Anna Barb. Freitag.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 811 Jakob, Büchsenmacher, a. Rohrbach - II, 83 a. 809 Fr. - Anna Barb. Freitag."
+   },
+   {
+    "line_from": 32,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Herrmann.",
+    "place": "Bern",
+    "surname": "Herrmann",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "Weißmüller",
+    "address": "V, 6.",
+    "quarter": "V",
+    "street": "",
+    "house_no": "6.",
+    "origin": "Auswyl",
+    "birth_year": "1819",
+    "household": "816 Fr. - Anna Barb. Mühlemann a. Koppigen. 2 K. — 844 Maria Louise. — 46 Joh. Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 819 Joh. Ulrich, Weißmüller, a. Auswyl - V, 6. 816 Fr. - Anna Barb. Mühlemann a. Koppigen. 2 K. — 844 Maria Louise. — 46 Joh. Friedrich."
+   },
+   {
+    "line_from": 36,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Herndl.",
+    "place": "Bern",
+    "surname": "Herndl",
+    "forename": "Mathias",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 6 u. 7.",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "6 u. 7.",
+    "origin": "Elay",
+    "birth_year": "1802",
+    "household": "800 Fr. - Aramanda Schelle a. Besigheim. 4 T. — 819 Kath. Louise. — 31 Kath. Verena Maria. — 32 Maria Elisabetha. — 36 Maria Aramanda.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Mathias, Schuhmacher, a. Elay - IV, 6 u. 7. 800 Fr. - Aramanda Schelle a. Besigheim. 4 T. — 819 Kath. Louise. — 31 Kath. Verena Maria. — 32 Maria Elisabetha. — 36 Maria Aramanda."
+   },
+   {
+    "line_from": 41,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Herren.",
+    "place": "Bern",
+    "surname": "Herren",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "privat.",
+    "address": "VI, 11.",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "11.",
+    "origin": "Mühleberg",
+    "birth_year": "1789",
+    "household": "1 S. — 832 Johann.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 789 Anna, geb. Scherler, a. Mühleberg, privat. - VI, 11. 1 S. — 832 Johann."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:01:38+01:00",
+ "last_error": null
+}

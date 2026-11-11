@@ -1,0 +1,642 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 53,
+ "section": "handbuch",
+ "started": "2026-11-11T20:51:16+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 28.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 4337,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"51\",\n  \"running_head\": \"LAUSANNE.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"LAUSANNE.\"},\n    {\"n\": 2, \"text\": \"51\"},\n    {\"n\": 3, \"text\": \"Monsieur\"},\n    {\"n\": 4, \"text\": \"Henry Chambaud,\"},\n    {\"n\": 5, \"text\": \"Fabriq. Tanneurs, le\"},\n    {\"n\": 6, \"text\": \"Jaques Damas,\"},\n    {\"n\": 7, \"text\": \"premier ayant un Eta-\"},\n    {\"n\": 8, \"text\": \"Borgeau,\"},\n    {\"n\": 9, \"text\": \"blissement considé-\"},\n    {\"n\": 10, \"text\": \"Blanchet,\"},\n    {\"n\": 11, \"text\": \"rable.\"},\n    {\"n\": 12, \"text\": \"Duvoisin Campart,\"},\n    {\"n\": 13, \"text\": \"Renoud & Fils,\"},\n    {\"n\": 14, \"text\": \"Fabriq. de Cotonne.\"},\n    {\"n\": 15, \"text\": \"Veuve Pertufon, Fils,\"},\n    {\"n\": 16, \"text\": \"& Campard.\"},\n    {\"n\": 17, \"text\": \"Saucon,\"},\n    {\"n\": 18, \"text\": \"Teinturiers pour toute\"},\n    {\"n\": 19, \"text\": \"Ledermand,\"},\n    {\"n\": 20, \"text\": \"forte d'étoffes.\"},\n    {\"n\": 21, \"text\": \"Pierre Louis Mercier,\"},\n    {\"n\": 22, \"text\": \"François Louis Jaque-\"},\n    {\"n\": 23, \"text\": \"noud.\"},\n    {\"n\": 24, \"text\": \"Marchands d'Etof-\"},\n    {\"n\": 25, \"text\": \"Kretler & Jaque-\"},\n    {\"n\": 26, \"text\": \"fes en Laine & Co-\"},\n    {\"n\": 27, \"text\": \"noud.\"},\n    {\"n\": 28, \"text\": \"tonnes.\"},\n    {\"n\": 29, \"text\": \"G. Gautier,\"},\n    {\"n\": 30, \"text\": \"J. L. Galay,\"},\n    {\"n\": 31, \"text\": \"P. Et. Delpuech,\"},\n    {\"n\": 32, \"text\": \"Rinclin, Potier d'Etain.\"},\n    {\"n\": 33, \"text\": \"Robert, Marchand de Fayence & Porce-\"},\n    {\"n\": 34, \"text\": \"laine.\"},\n    {\"n\": 35, \"text\": \"Chapuis, Marchand de Verroterie.\"},\n    {\"n\": 36, \"text\": \"Fajon, Fabricant de Bas de toute espéce.\"},\n    {\"n\": 37, \"text\": \"Isaac Renou,\"},\n    {\"n\": 38, \"text\": \"Marchands Epi-\"},\n    {\"n\": 39, \"text\": \"Isaac Renou & Fils.\"},\n    {\"n\": 40, \"text\": \"ciers en détail.\"},\n    {\"n\": 41, \"text\": \"Isaac Campart & Fils.\"},\n    {\"n\": 42, \"text\": \"D 2\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4, \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Fabriq. Tanneurs\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Chambaud\", \"forename\": \"Henry\", \"title\": \"\",\n      \"occupation\": \"Fabriq. Tanneurs\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"le premier ayant un Etablissement considérable.\",\n      \"text\": \"Henry Chambaud, Fabriq. Tanneurs, le premier ayant un Etablissement considérable.\"\n    },\n    {\n      \"line_from\": 6, \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Fabriq. Tanneurs\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Damas\", \"forename\": \"Jaques\", \"title\": \"\",\n      \"occupation\": \"Fabriq. Tanneurs\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Jaques Damas, Fabriq. Tanneurs\"\n    },\n    {\n      \"line_from\": 8, \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Fabriq. Tanneurs\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Borgeau\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"Fabriq. Tanneurs\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Borgeau, Fabriq. Tanneurs\"\n    },\n    {\n      \"line_from\": 10, \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Fabriq. Tanneurs\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Blanchet\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"Fabriq. Tanneurs\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Blanchet, Fabriq. Tanneurs\"\n    },\n    {\n      \"line_from\": 12, \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Fabriq. de Cotonne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Campart\", \"forename\": \"Duvoisin\", \"title\": \"\",\n      \"occupation\": \"Fabriq. de Cotonne\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Duvoisin Campart, Fabriq. de Cotonne.\"\n    },\n    {\n      \"line_from\": 13, \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Fabriq. de Cotonne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Renoud\", \"forename\": \"\", \"title\": \"& Fils\",\n      \"occupation\": \"Fabriq. de Cotonne\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Renoud & Fils, Fabriq. de Cotonne.\"\n    },\n    {\n      \"line_from\": 15, \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Fabriq. de Cotonne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Pertufon\", \"forename\": \"\", \"title\": \"Veuve, Fils, & Campard\",\n      \"occupation\": \"Fabriq. de Cotonne\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Veuve Pertufon, Fils, & Campard. Fabriq. de Cotonne.\"\n    },\n    {\n      \"line_from\": 17, \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Teinturiers pour toute forte d'étoffes\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Saucon\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"Teinturiers pour toute forte d'étoffes\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Saucon, Teinturiers pour toute forte d'étoffes.\"\n    },\n    {\n      \"line_from\": 19, \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Teinturiers pour toute forte d'étoffes\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Ledermand\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"Teinturiers pour toute forte d'étoffes\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Ledermand, Teinturiers pour toute forte d'étoffes.\"\n    },\n    {\n      \"line_from\": 21, \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Marchands d'Etoffes en Laine & Cotonnes\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Mercier\", \"forename\": \"Pierre Louis\", \"title\": \"\",\n      \"occupation\": \"Marchands d'Etoffes en Laine & Cotonnes\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Pierre Louis Mercier, Marchands d'Etoffes en Laine & Cotonnes.\"\n    },\n    {\n      \"line_from\": 22, \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Marchands d'Etoffes en Laine & Cotonnes\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Jaquenoud\", \"forename\": \"François Louis\", \"title\": \"\",\n      \"occupation\": \"Marchands d'Etoffes en Laine & Cotonnes\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"François Louis Jaquenoud. Marchands d'Etoffes en Laine & Cotonnes.\"\n    },\n    {\n      \"line_from\": 25, \"line_to\": 28,\n      \"kind\": \"firma\",\n      \"heading\": \"Marchands d'Etoffes en Laine & Cotonnes\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Kretler\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"Marchands d'Etoffes en Laine & Cotonnes\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Kretler & Jaquenoud. Marchands d'Etoffes en Laine & Cotonnes.\"\n    },\n    {\n      \"line_from\": 29, \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Marchands d'Etoffes en Laine & Cotonnes\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Gautier\", \"forename\": \"G.\", \"title\": \"\",\n      \"occupation\": \"Marchands d'Etoffes en Laine & Cotonnes\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"G. Gautier, Marchands d'Etoffes en Laine & Cotonnes.\"\n    },\n    {\n      \"line_from\": 30, \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Marchands d'Etoffes en Laine & Cotonnes\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Galay\", \"forename\": \"J. L.\", \"title\": \"\",\n      \"occupation\": \"Marchands d'Etoffes en Laine & Cotonnes\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"J. L. Galay, Marchands d'Etoffes en Laine & Cotonnes.\"\n    },\n    {\n      \"line_from\": 31, \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Marchands d'Etoffes en Laine & Cotonnes\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Delpuech\", \"forename\": \"P. Et.\", \"title\": \"\",\n      \"occupation\": \"Marchands d'Etoffes en Laine & Cotonnes\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"P. Et. Delpuech, Marchands d'Etoffes en Laine & Cotonnes.\"\n    },\n    {\n      \"line_from\": 32, \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Rinclin\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"Potier d'Etain\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Rinclin, Potier d'Etain.\"\n    },\n    {\n      \"line_from\": 33, \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Robert\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"Marchand de Fayence & Porcelaine\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Robert, Marchand de Fayence & Porcelaine.\"\n    },\n    {\n      \"line_from\": 35, \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Chapuis\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"Marchand de Verroterie\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Chapuis, Marchand de Verroterie.\"\n    },\n    {\n      \"line_from\": 36, \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Lausanne\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Fajon\", \"forename\": \"\", \"title\": \"\",\n      \"occupation\": \"Fabricant de Bas de toute espéce\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Fajon, Fabricant de Bas de toute espéce.\"\n    },\n    {\n      \"line_from\": 37, \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Marchands Epiciers en détail\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Renou\", \"forename\": \"Isaac\", \"title\": \"\",\n      \"occupation\": \"Marchands Epiciers en détail\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Isaac Renou, Marchands Epiciers en détail.\"\n    },\n    {\n      \"line_from\": 39, \"line_to\": 40,\n      \"kind\": \"firma\",\n      \"heading\": \"Marchands Epiciers en détail\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Renou\", \"forename\": \"Isaac\", \"title\": \"& Fils\",\n      \"occupation\": \"Marchands Epiciers en détail\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Isaac Renou & Fils. Marchands Epiciers en détail.\"\n    },\n    {\n      \"line_from\": 41, \"line_to\": 41,\n      \"kind\": \"firma\",\n      \"heading\": \"Marchands Epiciers en détail\",\n      \"place\": \"Lausanne\",\n      \"surname\": \"Campart\", \"forename\": \"Isaac\", \"title\": \"& Fils\",\n      \"occupation\": \"Marchands Epiciers en détail\", \"address\": \"\", \"quarter\": \"\", \"street\": \"\", \"house_no\": \"\",\n      \"origin\": \"\", \"birth_year\": \"\", \"household\": \"\", \"note\": \"\",\n      \"text\": \"Isaac Campart & Fils. Marchands Epiciers en détail.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "51",
+  "running_head": "LAUSANNE.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "LAUSANNE."
+   },
+   {
+    "n": 2,
+    "text": "51"
+   },
+   {
+    "n": 3,
+    "text": "Monsieur"
+   },
+   {
+    "n": 4,
+    "text": "Henry Chambaud,"
+   },
+   {
+    "n": 5,
+    "text": "Fabriq. Tanneurs, le"
+   },
+   {
+    "n": 6,
+    "text": "Jaques Damas,"
+   },
+   {
+    "n": 7,
+    "text": "premier ayant un Eta-"
+   },
+   {
+    "n": 8,
+    "text": "Borgeau,"
+   },
+   {
+    "n": 9,
+    "text": "blissement considé-"
+   },
+   {
+    "n": 10,
+    "text": "Blanchet,"
+   },
+   {
+    "n": 11,
+    "text": "rable."
+   },
+   {
+    "n": 12,
+    "text": "Duvoisin Campart,"
+   },
+   {
+    "n": 13,
+    "text": "Renoud & Fils,"
+   },
+   {
+    "n": 14,
+    "text": "Fabriq. de Cotonne."
+   },
+   {
+    "n": 15,
+    "text": "Veuve Pertufon, Fils,"
+   },
+   {
+    "n": 16,
+    "text": "& Campard."
+   },
+   {
+    "n": 17,
+    "text": "Saucon,"
+   },
+   {
+    "n": 18,
+    "text": "Teinturiers pour toute"
+   },
+   {
+    "n": 19,
+    "text": "Ledermand,"
+   },
+   {
+    "n": 20,
+    "text": "forte d'étoffes."
+   },
+   {
+    "n": 21,
+    "text": "Pierre Louis Mercier,"
+   },
+   {
+    "n": 22,
+    "text": "François Louis Jaque-"
+   },
+   {
+    "n": 23,
+    "text": "noud."
+   },
+   {
+    "n": 24,
+    "text": "Marchands d'Etof-"
+   },
+   {
+    "n": 25,
+    "text": "Kretler & Jaque-"
+   },
+   {
+    "n": 26,
+    "text": "fes en Laine & Co-"
+   },
+   {
+    "n": 27,
+    "text": "noud."
+   },
+   {
+    "n": 28,
+    "text": "tonnes."
+   },
+   {
+    "n": 29,
+    "text": "G. Gautier,"
+   },
+   {
+    "n": 30,
+    "text": "J. L. Galay,"
+   },
+   {
+    "n": 31,
+    "text": "P. Et. Delpuech,"
+   },
+   {
+    "n": 32,
+    "text": "Rinclin, Potier d'Etain."
+   },
+   {
+    "n": 33,
+    "text": "Robert, Marchand de Fayence & Porce-"
+   },
+   {
+    "n": 34,
+    "text": "laine."
+   },
+   {
+    "n": 35,
+    "text": "Chapuis, Marchand de Verroterie."
+   },
+   {
+    "n": 36,
+    "text": "Fajon, Fabricant de Bas de toute espéce."
+   },
+   {
+    "n": 37,
+    "text": "Isaac Renou,"
+   },
+   {
+    "n": 38,
+    "text": "Marchands Epi-"
+   },
+   {
+    "n": 39,
+    "text": "Isaac Renou & Fils."
+   },
+   {
+    "n": 40,
+    "text": "ciers en détail."
+   },
+   {
+    "n": 41,
+    "text": "Isaac Campart & Fils."
+   },
+   {
+    "n": 42,
+    "text": "D 2"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Fabriq. Tanneurs",
+    "place": "Lausanne",
+    "surname": "Chambaud",
+    "forename": "Henry",
+    "title": "",
+    "occupation": "Fabriq. Tanneurs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "le premier ayant un Etablissement considérable.",
+    "text": "Henry Chambaud, Fabriq. Tanneurs, le premier ayant un Etablissement considérable."
+   },
+   {
+    "line_from": 6,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Fabriq. Tanneurs",
+    "place": "Lausanne",
+    "surname": "Damas",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "Fabriq. Tanneurs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jaques Damas, Fabriq. Tanneurs"
+   },
+   {
+    "line_from": 8,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Fabriq. Tanneurs",
+    "place": "Lausanne",
+    "surname": "Borgeau",
+    "forename": "",
+    "title": "",
+    "occupation": "Fabriq. Tanneurs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Borgeau, Fabriq. Tanneurs"
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Fabriq. Tanneurs",
+    "place": "Lausanne",
+    "surname": "Blanchet",
+    "forename": "",
+    "title": "",
+    "occupation": "Fabriq. Tanneurs",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Blanchet, Fabriq. Tanneurs"
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Fabriq. de Cotonne",
+    "place": "Lausanne",
+    "surname": "Campart",
+    "forename": "Duvoisin",
+    "title": "",
+    "occupation": "Fabriq. de Cotonne",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Duvoisin Campart, Fabriq. de Cotonne."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Fabriq. de Cotonne",
+    "place": "Lausanne",
+    "surname": "Renoud",
+    "forename": "",
+    "title": "& Fils",
+    "occupation": "Fabriq. de Cotonne",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Renoud & Fils, Fabriq. de Cotonne."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Fabriq. de Cotonne",
+    "place": "Lausanne",
+    "surname": "Pertufon",
+    "forename": "",
+    "title": "Veuve, Fils, & Campard",
+    "occupation": "Fabriq. de Cotonne",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Veuve Pertufon, Fils, & Campard. Fabriq. de Cotonne."
+   },
+   {
+    "line_from": 17,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Teinturiers pour toute forte d'étoffes",
+    "place": "Lausanne",
+    "surname": "Saucon",
+    "forename": "",
+    "title": "",
+    "occupation": "Teinturiers pour toute forte d'étoffes",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Saucon, Teinturiers pour toute forte d'étoffes."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Teinturiers pour toute forte d'étoffes",
+    "place": "Lausanne",
+    "surname": "Ledermand",
+    "forename": "",
+    "title": "",
+    "occupation": "Teinturiers pour toute forte d'étoffes",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ledermand, Teinturiers pour toute forte d'étoffes."
+   },
+   {
+    "line_from": 21,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Marchands d'Etoffes en Laine & Cotonnes",
+    "place": "Lausanne",
+    "surname": "Mercier",
+    "forename": "Pierre Louis",
+    "title": "",
+    "occupation": "Marchands d'Etoffes en Laine & Cotonnes",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pierre Louis Mercier, Marchands d'Etoffes en Laine & Cotonnes."
+   },
+   {
+    "line_from": 22,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Marchands d'Etoffes en Laine & Cotonnes",
+    "place": "Lausanne",
+    "surname": "Jaquenoud",
+    "forename": "François Louis",
+    "title": "",
+    "occupation": "Marchands d'Etoffes en Laine & Cotonnes",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "François Louis Jaquenoud. Marchands d'Etoffes en Laine & Cotonnes."
+   },
+   {
+    "line_from": 25,
+    "line_to": 28,
+    "kind": "firma",
+    "heading": "Marchands d'Etoffes en Laine & Cotonnes",
+    "place": "Lausanne",
+    "surname": "Kretler",
+    "forename": "",
+    "title": "",
+    "occupation": "Marchands d'Etoffes en Laine & Cotonnes",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kretler & Jaquenoud. Marchands d'Etoffes en Laine & Cotonnes."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Marchands d'Etoffes en Laine & Cotonnes",
+    "place": "Lausanne",
+    "surname": "Gautier",
+    "forename": "G.",
+    "title": "",
+    "occupation": "Marchands d'Etoffes en Laine & Cotonnes",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "G. Gautier, Marchands d'Etoffes en Laine & Cotonnes."
+   },
+   {
+    "line_from": 30,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Marchands d'Etoffes en Laine & Cotonnes",
+    "place": "Lausanne",
+    "surname": "Galay",
+    "forename": "J. L.",
+    "title": "",
+    "occupation": "Marchands d'Etoffes en Laine & Cotonnes",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. L. Galay, Marchands d'Etoffes en Laine & Cotonnes."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Marchands d'Etoffes en Laine & Cotonnes",
+    "place": "Lausanne",
+    "surname": "Delpuech",
+    "forename": "P. Et.",
+    "title": "",
+    "occupation": "Marchands d'Etoffes en Laine & Cotonnes",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "P. Et. Delpuech, Marchands d'Etoffes en Laine & Cotonnes."
+   },
+   {
+    "line_from": 32,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Rinclin",
+    "forename": "",
+    "title": "",
+    "occupation": "Potier d'Etain",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rinclin, Potier d'Etain."
+   },
+   {
+    "line_from": 33,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Robert",
+    "forename": "",
+    "title": "",
+    "occupation": "Marchand de Fayence & Porcelaine",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Robert, Marchand de Fayence & Porcelaine."
+   },
+   {
+    "line_from": 35,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Chapuis",
+    "forename": "",
+    "title": "",
+    "occupation": "Marchand de Verroterie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Chapuis, Marchand de Verroterie."
+   },
+   {
+    "line_from": 36,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Lausanne",
+    "place": "Lausanne",
+    "surname": "Fajon",
+    "forename": "",
+    "title": "",
+    "occupation": "Fabricant de Bas de toute espéce",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fajon, Fabricant de Bas de toute espéce."
+   },
+   {
+    "line_from": 37,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Marchands Epiciers en détail",
+    "place": "Lausanne",
+    "surname": "Renou",
+    "forename": "Isaac",
+    "title": "",
+    "occupation": "Marchands Epiciers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Isaac Renou, Marchands Epiciers en détail."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "firma",
+    "heading": "Marchands Epiciers en détail",
+    "place": "Lausanne",
+    "surname": "Renou",
+    "forename": "Isaac",
+    "title": "& Fils",
+    "occupation": "Marchands Epiciers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Isaac Renou & Fils. Marchands Epiciers en détail."
+   },
+   {
+    "line_from": 41,
+    "line_to": 41,
+    "kind": "firma",
+    "heading": "Marchands Epiciers en détail",
+    "place": "Lausanne",
+    "surname": "Campart",
+    "forename": "Isaac",
+    "title": "& Fils",
+    "occupation": "Marchands Epiciers en détail",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Isaac Campart & Fils. Marchands Epiciers en détail."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:51:44+01:00",
+ "last_error": null
+}

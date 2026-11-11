@@ -1,0 +1,426 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 158,
+ "section": "einsassen",
+ "started": "2026-11-11T22:10:13+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 56.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4035,
+  "thoughts": 4497
+ },
+ "response_text": "{\n  \"printed_page\": \"145\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 145 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"2 818 Joh. Rudolf, Bürstenbinder, a. Wangen — II, 72.\"},\n    {\"n\": 4, \"text\": \"820 Fr. — Elis. Henriette Franziska Sonderegger, a. Wolfs-\"},\n    {\"n\": 5, \"text\": \"halden, K. Appenzell.\"},\n    {\"n\": 6, \"text\": \"1 S. — 845 Karl Emil.\"},\n    {\"n\": 7, \"text\": \"Schori.\"},\n    {\"n\": 8, \"text\": \"1 812 Jakob, Pächter, a. Radelfingen — VII, 93 b.\"},\n    {\"n\": 9, \"text\": \"816 Fr. — Anna, geb. Wonnerau.\"},\n    {\"n\": 10, \"text\": \"2 T. — 844 Elis. — 47 Anna.\"},\n    {\"n\": 11, \"text\": \"2 797 Niklaus, Schneider, a. Seedorf — I, 264.\"},\n    {\"n\": 12, \"text\": \"Fr. — Maria, geb. Schori.\"},\n    {\"n\": 13, \"text\": \"3 793 Niklaus, Lehenmann, a. Radelfingen — I, 163.\"},\n    {\"n\": 14, \"text\": \"796 Fr. — Elis. Simon a. Wangen.\"},\n    {\"n\": 15, \"text\": \"4 K. — 823 Elis. — 25 Nikl. — 26 Friedr. — 31 Rud.\"},\n    {\"n\": 16, \"text\": \"Schouwen.\"},\n    {\"n\": 17, \"text\": \"1 808 Joseph, Musiker, a. Hauteville, K. Freiburg — IV, 74.\"},\n    {\"n\": 18, \"text\": \"804 Fr. — Maria Marg. Groß a. Duggingen.\"},\n    {\"n\": 19, \"text\": \"6 K. — 832 Maria Marg. Louise. — 33 Augustin Ant.\"},\n    {\"n\": 20, \"text\": \"— 38 J. Adolf. — 41 Friedr. Nicolas. — 41 Jos. Jonas.\"},\n    {\"n\": 21, \"text\": \"— 47 Kath. Rosalie.\"},\n    {\"n\": 22, \"text\": \"Schrämli.\"},\n    {\"n\": 23, \"text\": \"1 799 Johann Jakob, Schuhmacher, a. Hattlingen, K. Zürich\"},\n    {\"n\": 24, \"text\": \"— III, 86.\"},\n    {\"n\": 25, \"text\": \"803 Fr. — A. Marg. Herrmann a. Colmar.\"},\n    {\"n\": 26, \"text\": \"7 K. — 827 Kath. Rosa. — 30 Franz. (Die übrigen\"},\n    {\"n\": 27, \"text\": \"nicht eingeschrieben.)\"},\n    {\"n\": 28, \"text\": \"Schramm.\"},\n    {\"n\": 29, \"text\": \"1 Karl, Uhrenmacher, a. Osterfingen, K. Schaffhausen\"},\n    {\"n\": 30, \"text\": \"— III, 149.\"},\n    {\"n\": 31, \"text\": \"813 Fr. — Maria Marg. Aebi a. Bern.\"},\n    {\"n\": 32, \"text\": \"Schranz.\"},\n    {\"n\": 33, \"text\": \"1 812 Rudolf, Spengler, a. Adelboden — V, 74.\"},\n    {\"n\": 34, \"text\": \"Schreiner.\"},\n    {\"n\": 35, \"text\": \"1 802 Joh. Friedr. Christ., Schreiner, a. Niederstocken — II, 234.\"},\n    {\"n\": 36, \"text\": \"797 Fr. — Elis. Marthaler.\"},\n    {\"n\": 37, \"text\": \"Schubert a. Pleujouse.\"},\n    {\"n\": 38, \"text\": \"1 770 Maria Anna, geb. Scherner, Lohnwascherin, M. v. 2 — V, 35.\"},\n    {\"n\": 39, \"text\": \"1 S. — 801 Joh. Heinrich.\"},\n    {\"n\": 40, \"text\": \"2 805 Joh. Konrad, Barbier, S. v. 1 — V, 85.\"},\n    {\"n\": 41, \"text\": \"807 Fr. — Maria Anna Josepha Hotz a. Baar.\"},\n    {\"n\": 42, \"text\": \"2 K. — 833 Elis. Jos. Anna. — 35 Karl Konrad.\"},\n    {\"n\": 43, \"text\": \"10\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Joh. Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Bürstenbinder\",\n      \"address\": \"II, 72\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"72\",\n      \"origin\": \"Wangen\",\n      \"birth_year\": \"1818\",\n      \"household\": \"Fr. — Elis. Henriette Franziska Sonderegger, a. Wolfshalden, K. Appenzell.; 1 S. — 845 Karl Emil.\",\n      \"note\": \"Familienname auf Vorseite\",\n      \"text\": \"Joh. Rudolf, Bürstenbinder, a. Wangen — II, 72. Fr. — Elis. Henriette Franziska Sonderegger, a. Wolfshalden, K. Appenzell. 1 S. — 845 Karl Emil.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Schori\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schori\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Pächter\",\n      \"address\": \"VII, 93 b\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"93 b\",\n      \"origin\": \"Radelfingen\",\n      \"birth_year\": \"1812\",\n      \"household\": \"Fr. — Anna, geb. Wonnerau.; 2 T. — 844 Elis. — 47 Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Jakob, Pächter, a. Radelfingen — VII, 93 b. Fr. — Anna, geb. Wonnerau. 2 T. — 844 Elis. — 47 Anna.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Schori\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schori\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"I, 264\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"264\",\n      \"origin\": \"Seedorf\",\n      \"birth_year\": \"1797\",\n      \"household\": \"Fr. — Maria, geb. Schori.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Niklaus, Schneider, a. Seedorf — I, 264. Fr. — Maria, geb. Schori.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Schori\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schori\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Lehenmann\",\n      \"address\": \"I, 163\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"163\",\n      \"origin\": \"Radelfingen\",\n      \"birth_year\": \"1793\",\n      \"household\": \"Fr. — Elis. Simon a. Wangen.; 4 K. — 823 Elis. — 25 Nikl. — 26 Friedr. — 31 Rud.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Niklaus, Lehenmann, a. Radelfingen — I, 163. Fr. — Elis. Simon a. Wangen. 4 K. — 823 Elis. — 25 Nikl. — 26 Friedr. — 31 Rud.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Schouwen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schouwen\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Musiker\",\n      \"address\": \"IV, 74\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"74\",\n      \"origin\": \"Hauteville, K. Freiburg\",\n      \"birth_year\": \"1808\",\n      \"household\": \"Fr. — Maria Marg. Groß a. Duggingen.; 6 K. — 832 Maria Marg. Louise. — 33 Augustin Ant. — 38 J. Adolf. — 41 Friedr. Nicolas. — 41 Jos. Jonas. — 47 Kath. Rosalie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Joseph, Musiker, a. Hauteville, K. Freiburg — IV, 74. Fr. — Maria Marg. Groß a. Duggingen. 6 K. — 832 Maria Marg. Louise. — 33 Augustin Ant. — 38 J. Adolf. — 41 Friedr. Nicolas. — 41 Jos. Jonas. — 47 Kath. Rosalie.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Schrämli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schrämli\",\n      \"forename\": \"Johann Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"III, 86\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"86\",\n      \"origin\": \"Hattlingen, K. Zürich\",\n      \"birth_year\": \"1799\",\n      \"household\": \"Fr. — A. Marg. Herrmann a. Colmar.; 7 K. — 827 Kath. Rosa. — 30 Franz. (Die übrigen nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Johann Jakob, Schuhmacher, a. Hattlingen, K. Zürich — III, 86. Fr. — A. Marg. Herrmann a. Colmar. 7 K. — 827 Kath. Rosa. — 30 Franz. (Die übrigen nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Schramm\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schramm\",\n      \"forename\": \"Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher\",\n      \"address\": \"III, 149\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"149\",\n      \"origin\": \"Osterfingen, K. Schaffhausen\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. — Maria Marg. Aebi a. Bern.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Karl, Uhrenmacher, a. Osterfingen, K. Schaffhausen — III, 149. Fr. — Maria Marg. Aebi a. Bern.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Schranz\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schranz\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Spengler\",\n      \"address\": \"V, 74\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"74\",\n      \"origin\": \"Adelboden\",\n      \"birth_year\": \"1812\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Rudolf, Spengler, a. Adelboden — V, 74.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Schreiner\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schreiner\",\n      \"forename\": \"Joh. Friedr. Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"II, 234\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"234\",\n      \"origin\": \"Niederstocken\",\n      \"birth_year\": \"1802\",\n      \"household\": \"Fr. — Elis. Marthaler.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Joh. Friedr. Christ., Schreiner, a. Niederstocken — II, 234. Fr. — Elis. Marthaler.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Schubert a. Pleujouse\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schubert\",\n      \"forename\": \"Maria Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnwascherin\",\n      \"address\": \"V, 35\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"35\",\n      \"origin\": \"Pleujouse\",\n      \"birth_year\": \"1770\",\n      \"household\": \"1 S. — 801 Joh. Heinrich.\",\n      \"note\": \"Name aus Zwischentitel; geb. Scherner, M. v. 2\",\n      \"text\": \"Maria Anna, geb. Scherner, Lohnwascherin, M. v. 2 — V, 35. 1 S. — 801 Joh. Heinrich.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Schubert a. Pleujouse\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schubert\",\n      \"forename\": \"Joh. Konrad\",\n      \"title\": \"\",\n      \"occupation\": \"Barbier\",\n      \"address\": \"V, 85\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"85\",\n      \"origin\": \"Pleujouse\",\n      \"birth_year\": \"1805\",\n      \"household\": \"Fr. — Maria Anna Josepha Hotz a. Baar.; 2 K. — 833 Elis. Jos. Anna. — 35 Karl Konrad.\",\n      \"note\": \"Name aus Zwischentitel; S. v. 1\",\n      \"text\": \"Joh. Konrad, Barbier, S. v. 1 — V, 85. Fr. — Maria Anna Josepha Hotz a. Baar. 2 K. — 833 Elis. Jos. Anna. — 35 Karl Konrad.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "145",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 145 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "2 818 Joh. Rudolf, Bürstenbinder, a. Wangen — II, 72."
+   },
+   {
+    "n": 4,
+    "text": "820 Fr. — Elis. Henriette Franziska Sonderegger, a. Wolfs-"
+   },
+   {
+    "n": 5,
+    "text": "halden, K. Appenzell."
+   },
+   {
+    "n": 6,
+    "text": "1 S. — 845 Karl Emil."
+   },
+   {
+    "n": 7,
+    "text": "Schori."
+   },
+   {
+    "n": 8,
+    "text": "1 812 Jakob, Pächter, a. Radelfingen — VII, 93 b."
+   },
+   {
+    "n": 9,
+    "text": "816 Fr. — Anna, geb. Wonnerau."
+   },
+   {
+    "n": 10,
+    "text": "2 T. — 844 Elis. — 47 Anna."
+   },
+   {
+    "n": 11,
+    "text": "2 797 Niklaus, Schneider, a. Seedorf — I, 264."
+   },
+   {
+    "n": 12,
+    "text": "Fr. — Maria, geb. Schori."
+   },
+   {
+    "n": 13,
+    "text": "3 793 Niklaus, Lehenmann, a. Radelfingen — I, 163."
+   },
+   {
+    "n": 14,
+    "text": "796 Fr. — Elis. Simon a. Wangen."
+   },
+   {
+    "n": 15,
+    "text": "4 K. — 823 Elis. — 25 Nikl. — 26 Friedr. — 31 Rud."
+   },
+   {
+    "n": 16,
+    "text": "Schouwen."
+   },
+   {
+    "n": 17,
+    "text": "1 808 Joseph, Musiker, a. Hauteville, K. Freiburg — IV, 74."
+   },
+   {
+    "n": 18,
+    "text": "804 Fr. — Maria Marg. Groß a. Duggingen."
+   },
+   {
+    "n": 19,
+    "text": "6 K. — 832 Maria Marg. Louise. — 33 Augustin Ant."
+   },
+   {
+    "n": 20,
+    "text": "— 38 J. Adolf. — 41 Friedr. Nicolas. — 41 Jos. Jonas."
+   },
+   {
+    "n": 21,
+    "text": "— 47 Kath. Rosalie."
+   },
+   {
+    "n": 22,
+    "text": "Schrämli."
+   },
+   {
+    "n": 23,
+    "text": "1 799 Johann Jakob, Schuhmacher, a. Hattlingen, K. Zürich"
+   },
+   {
+    "n": 24,
+    "text": "— III, 86."
+   },
+   {
+    "n": 25,
+    "text": "803 Fr. — A. Marg. Herrmann a. Colmar."
+   },
+   {
+    "n": 26,
+    "text": "7 K. — 827 Kath. Rosa. — 30 Franz. (Die übrigen"
+   },
+   {
+    "n": 27,
+    "text": "nicht eingeschrieben.)"
+   },
+   {
+    "n": 28,
+    "text": "Schramm."
+   },
+   {
+    "n": 29,
+    "text": "1 Karl, Uhrenmacher, a. Osterfingen, K. Schaffhausen"
+   },
+   {
+    "n": 30,
+    "text": "— III, 149."
+   },
+   {
+    "n": 31,
+    "text": "813 Fr. — Maria Marg. Aebi a. Bern."
+   },
+   {
+    "n": 32,
+    "text": "Schranz."
+   },
+   {
+    "n": 33,
+    "text": "1 812 Rudolf, Spengler, a. Adelboden — V, 74."
+   },
+   {
+    "n": 34,
+    "text": "Schreiner."
+   },
+   {
+    "n": 35,
+    "text": "1 802 Joh. Friedr. Christ., Schreiner, a. Niederstocken — II, 234."
+   },
+   {
+    "n": 36,
+    "text": "797 Fr. — Elis. Marthaler."
+   },
+   {
+    "n": 37,
+    "text": "Schubert a. Pleujouse."
+   },
+   {
+    "n": 38,
+    "text": "1 770 Maria Anna, geb. Scherner, Lohnwascherin, M. v. 2 — V, 35."
+   },
+   {
+    "n": 39,
+    "text": "1 S. — 801 Joh. Heinrich."
+   },
+   {
+    "n": 40,
+    "text": "2 805 Joh. Konrad, Barbier, S. v. 1 — V, 85."
+   },
+   {
+    "n": 41,
+    "text": "807 Fr. — Maria Anna Josepha Hotz a. Baar."
+   },
+   {
+    "n": 42,
+    "text": "2 K. — 833 Elis. Jos. Anna. — 35 Karl Konrad."
+   },
+   {
+    "n": 43,
+    "text": "10"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Joh. Rudolf",
+    "title": "",
+    "occupation": "Bürstenbinder",
+    "address": "II, 72",
+    "quarter": "II",
+    "street": "",
+    "house_no": "72",
+    "origin": "Wangen",
+    "birth_year": "1818",
+    "household": "Fr. — Elis. Henriette Franziska Sonderegger, a. Wolfshalden, K. Appenzell.; 1 S. — 845 Karl Emil.",
+    "note": "Familienname auf Vorseite",
+    "text": "Joh. Rudolf, Bürstenbinder, a. Wangen — II, 72. Fr. — Elis. Henriette Franziska Sonderegger, a. Wolfshalden, K. Appenzell. 1 S. — 845 Karl Emil."
+   },
+   {
+    "line_from": 8,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Schori",
+    "place": "Bern",
+    "surname": "Schori",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Pächter",
+    "address": "VII, 93 b",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "93 b",
+    "origin": "Radelfingen",
+    "birth_year": "1812",
+    "household": "Fr. — Anna, geb. Wonnerau.; 2 T. — 844 Elis. — 47 Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "Jakob, Pächter, a. Radelfingen — VII, 93 b. Fr. — Anna, geb. Wonnerau. 2 T. — 844 Elis. — 47 Anna."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Schori",
+    "place": "Bern",
+    "surname": "Schori",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "I, 264",
+    "quarter": "I",
+    "street": "",
+    "house_no": "264",
+    "origin": "Seedorf",
+    "birth_year": "1797",
+    "household": "Fr. — Maria, geb. Schori.",
+    "note": "Name aus Zwischentitel",
+    "text": "Niklaus, Schneider, a. Seedorf — I, 264. Fr. — Maria, geb. Schori."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Schori",
+    "place": "Bern",
+    "surname": "Schori",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Lehenmann",
+    "address": "I, 163",
+    "quarter": "I",
+    "street": "",
+    "house_no": "163",
+    "origin": "Radelfingen",
+    "birth_year": "1793",
+    "household": "Fr. — Elis. Simon a. Wangen.; 4 K. — 823 Elis. — 25 Nikl. — 26 Friedr. — 31 Rud.",
+    "note": "Name aus Zwischentitel",
+    "text": "Niklaus, Lehenmann, a. Radelfingen — I, 163. Fr. — Elis. Simon a. Wangen. 4 K. — 823 Elis. — 25 Nikl. — 26 Friedr. — 31 Rud."
+   },
+   {
+    "line_from": 17,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Schouwen",
+    "place": "Bern",
+    "surname": "Schouwen",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Musiker",
+    "address": "IV, 74",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "74",
+    "origin": "Hauteville, K. Freiburg",
+    "birth_year": "1808",
+    "household": "Fr. — Maria Marg. Groß a. Duggingen.; 6 K. — 832 Maria Marg. Louise. — 33 Augustin Ant. — 38 J. Adolf. — 41 Friedr. Nicolas. — 41 Jos. Jonas. — 47 Kath. Rosalie.",
+    "note": "Name aus Zwischentitel",
+    "text": "Joseph, Musiker, a. Hauteville, K. Freiburg — IV, 74. Fr. — Maria Marg. Groß a. Duggingen. 6 K. — 832 Maria Marg. Louise. — 33 Augustin Ant. — 38 J. Adolf. — 41 Friedr. Nicolas. — 41 Jos. Jonas. — 47 Kath. Rosalie."
+   },
+   {
+    "line_from": 23,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Schrämli",
+    "place": "Bern",
+    "surname": "Schrämli",
+    "forename": "Johann Jakob",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "III, 86",
+    "quarter": "III",
+    "street": "",
+    "house_no": "86",
+    "origin": "Hattlingen, K. Zürich",
+    "birth_year": "1799",
+    "household": "Fr. — A. Marg. Herrmann a. Colmar.; 7 K. — 827 Kath. Rosa. — 30 Franz. (Die übrigen nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "Johann Jakob, Schuhmacher, a. Hattlingen, K. Zürich — III, 86. Fr. — A. Marg. Herrmann a. Colmar. 7 K. — 827 Kath. Rosa. — 30 Franz. (Die übrigen nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Schramm",
+    "place": "Bern",
+    "surname": "Schramm",
+    "forename": "Karl",
+    "title": "",
+    "occupation": "Uhrenmacher",
+    "address": "III, 149",
+    "quarter": "III",
+    "street": "",
+    "house_no": "149",
+    "origin": "Osterfingen, K. Schaffhausen",
+    "birth_year": "",
+    "household": "Fr. — Maria Marg. Aebi a. Bern.",
+    "note": "Name aus Zwischentitel",
+    "text": "Karl, Uhrenmacher, a. Osterfingen, K. Schaffhausen — III, 149. Fr. — Maria Marg. Aebi a. Bern."
+   },
+   {
+    "line_from": 33,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Schranz",
+    "place": "Bern",
+    "surname": "Schranz",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Spengler",
+    "address": "V, 74",
+    "quarter": "V",
+    "street": "",
+    "house_no": "74",
+    "origin": "Adelboden",
+    "birth_year": "1812",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "Rudolf, Spengler, a. Adelboden — V, 74."
+   },
+   {
+    "line_from": 35,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Schreiner",
+    "place": "Bern",
+    "surname": "Schreiner",
+    "forename": "Joh. Friedr. Christ.",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "II, 234",
+    "quarter": "II",
+    "street": "",
+    "house_no": "234",
+    "origin": "Niederstocken",
+    "birth_year": "1802",
+    "household": "Fr. — Elis. Marthaler.",
+    "note": "Name aus Zwischentitel",
+    "text": "Joh. Friedr. Christ., Schreiner, a. Niederstocken — II, 234. Fr. — Elis. Marthaler."
+   },
+   {
+    "line_from": 38,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Schubert a. Pleujouse",
+    "place": "Bern",
+    "surname": "Schubert",
+    "forename": "Maria Anna",
+    "title": "",
+    "occupation": "Lohnwascherin",
+    "address": "V, 35",
+    "quarter": "V",
+    "street": "",
+    "house_no": "35",
+    "origin": "Pleujouse",
+    "birth_year": "1770",
+    "household": "1 S. — 801 Joh. Heinrich.",
+    "note": "Name aus Zwischentitel; geb. Scherner, M. v. 2",
+    "text": "Maria Anna, geb. Scherner, Lohnwascherin, M. v. 2 — V, 35. 1 S. — 801 Joh. Heinrich."
+   },
+   {
+    "line_from": 40,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Schubert a. Pleujouse",
+    "place": "Bern",
+    "surname": "Schubert",
+    "forename": "Joh. Konrad",
+    "title": "",
+    "occupation": "Barbier",
+    "address": "V, 85",
+    "quarter": "V",
+    "street": "",
+    "house_no": "85",
+    "origin": "Pleujouse",
+    "birth_year": "1805",
+    "household": "Fr. — Maria Anna Josepha Hotz a. Baar.; 2 K. — 833 Elis. Jos. Anna. — 35 Karl Konrad.",
+    "note": "Name aus Zwischentitel; S. v. 1",
+    "text": "Joh. Konrad, Barbier, S. v. 1 — V, 85. Fr. — Maria Anna Josepha Hotz a. Baar. 2 K. — 833 Elis. Jos. Anna. — 35 Karl Konrad."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:11:09+01:00",
+ "last_error": null
+}

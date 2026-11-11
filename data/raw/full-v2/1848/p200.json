@@ -1,0 +1,682 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 200,
+ "section": "beamte",
+ "started": "2026-11-11T22:14:18+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 52.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2428,
+  "output": 5340,
+  "thoughts": 2960
+ },
+ "response_text": "{\n  \"printed_page\": \"187\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 187 —\"},\n    {\"n\": 2, \"text\": \"Veränderungen,\"},\n    {\"n\": 3, \"text\": \"die bis Ende Februars 1848 eingetreten sind und nicht noch\"},\n    {\"n\": 4, \"text\": \"während des Druckes haben berücksichtigt werden können.\"},\n    {\"n\": 5, \"text\": \"Die den Namen beigesetzten Zahlen weisen auf die Nummern\"},\n    {\"n\": 6, \"text\": \"hin, welche die betreffende Person im Einsassenetat trägt.\"},\n    {\"n\": 7, \"text\": \"1) Todesfälle.\"},\n    {\"n\": 8, \"text\": \"(Es werden hier nur die erwachsenen Personen angeführt, da das\"},\n    {\"n\": 9, \"text\": \"Aussuchen der Kinder das Erscheinen des Werkes allzulange\"},\n    {\"n\": 10, \"text\": \"verzögert haben würde.)\"},\n    {\"n\": 11, \"text\": \"Arm, geb. Stegmann, Margaritha, Fr. v. 1.\"},\n    {\"n\": 12, \"text\": \"Bertsch, geb. Steck, Sophie, Fr. v. 2.\"},\n    {\"n\": 13, \"text\": \"Hügli, Bendicht, Schneider (5).\"},\n    {\"n\": 14, \"text\": \"Müller, Samuel, Lohnbedienter (23).\"},\n    {\"n\": 15, \"text\": \"2) Entfernungen aus der Gemeinde.\"},\n    {\"n\": 16, \"text\": \"Beck, geb. Rufener, Maria, Gastgeberin (3).\"},\n    {\"n\": 17, \"text\": \"Bigler, Jakob, Dachdecker (2).\"},\n    {\"n\": 18, \"text\": \"Brawand, Christian, Schuhmacher (1).\"},\n    {\"n\": 19, \"text\": \"Minder, Niklaus Friedrich, Schuhmacher (4).\"},\n    {\"n\": 20, \"text\": \"3) Wohnungsveränderungen.\"},\n    {\"n\": 21, \"text\": \"Aeppli, Störschneider (1) - V, 6.\"},\n    {\"n\": 22, \"text\": \"Bandi, Steinhauer (2) - I, 215 g.\"},\n    {\"n\": 23, \"text\": \"Baumann, Schuhmacher (1) - II, 170.\"},\n    {\"n\": 24, \"text\": \"Bigler, Weinhändler (4) - III, 10 b.\"},\n    {\"n\": 25, \"text\": \"„ Obsthändlerin (5) - I, 26.\"},\n    {\"n\": 26, \"text\": \"Brand, Christina (3) - II, 29.\"},\n    {\"n\": 27, \"text\": \"Brönnimann, Schneider (1) - III, 77.\"},\n    {\"n\": 28, \"text\": \"Bürki, Kittelschneider (10) - II, 83.\"},\n    {\"n\": 29, \"text\": \"Burger, Schuhmacher (1) - II, 77.\"},\n    {\"n\": 30, \"text\": \"Christen, Dachdecker (3) - IV, 309.\"},\n    {\"n\": 31, \"text\": \"Diebold, Schlosser (1) - II, 217.\"},\n    {\"n\": 32, \"text\": \"Dübi, Lohnbedienter (4) - V, 41.\"},\n    {\"n\": 33, \"text\": \"Düperret, Schneiderin (2) - IV, 40.\"},\n    {\"n\": 34, \"text\": \"Emch, Krämerin (1) - II, 61.\"},\n    {\"n\": 35, \"text\": \"Erismann, Schneider (1) - II, 5.\"},\n    {\"n\": 36, \"text\": \"Falkenstein. Schuhmacher (1) - IV, 30.\"},\n    {\"n\": 37, \"text\": \"Fleur de Lys, Schuhmacher (1) - II, 95.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Todesfälle\",\n      \"place\": \"Bern\",\n      \"surname\": \"Arm\",\n      \"forename\": \"Margaritha\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"geb. Stegmann, Fr. v. 1.\",\n      \"note\": \"\",\n      \"text\": \"Arm, geb. Stegmann, Margaritha, Fr. v. 1.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Todesfälle\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bertsch\",\n      \"forename\": \"Sophie\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"geb. Steck, Fr. v. 2.\",\n      \"note\": \"\",\n      \"text\": \"Bertsch, geb. Steck, Sophie, Fr. v. 2.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Todesfälle\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hügli\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hügli, Bendicht, Schneider (5).\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Todesfälle\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnbedienter\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Müller, Samuel, Lohnbedienter (23).\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Entfernungen aus der Gemeinde\",\n      \"place\": \"Bern\",\n      \"surname\": \"Beck\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Gastgeberin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"geb. Rufener\",\n      \"note\": \"\",\n      \"text\": \"Beck, geb. Rufener, Maria, Gastgeberin (3).\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Entfernungen aus der Gemeinde\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bigler, Jakob, Dachdecker (2).\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Entfernungen aus der Gemeinde\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brawand\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brawand, Christian, Schuhmacher (1).\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Entfernungen aus der Gemeinde\",\n      \"place\": \"Bern\",\n      \"surname\": \"Minder\",\n      \"forename\": \"Niklaus Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Minder, Niklaus Friedrich, Schuhmacher (4).\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeppli\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Störschneider\",\n      \"address\": \"V, 6\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"6\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Aeppli, Störschneider (1) - V, 6.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bandi\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauer\",\n      \"address\": \"I, 215 g\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215 g\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bandi, Steinhauer (2) - I, 215 g.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baumann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 170\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"170\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Baumann, Schuhmacher (1) - II, 170.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhändler\",\n      \"address\": \"III, 10 b\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"10 b\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bigler, Weinhändler (4) - III, 10 b.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bigler\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Obsthändlerin\",\n      \"address\": \"I, 26\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"26\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Vorzeile\",\n      \"text\": \"„ Obsthändlerin (5) - I, 26.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brand\",\n      \"forename\": \"Christina\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"II, 29\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"29\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brand, Christina (3) - II, 29.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brönnimann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"III, 77\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"77\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brönnimann, Schneider (1) - III, 77.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bürki\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Kittelschneider\",\n      \"address\": \"II, 83\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"83\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bürki, Kittelschneider (10) - II, 83.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Burger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 77\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"77\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Burger, Schuhmacher (1) - II, 77.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christen\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Dachdecker\",\n      \"address\": \"IV, 309\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"309\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Christen, Dachdecker (3) - IV, 309.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Diebold\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"II, 217\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"217\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Diebold, Schlosser (1) - II, 217.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dübi\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnbedienter\",\n      \"address\": \"V, 41\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"41\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dübi, Lohnbedienter (4) - V, 41.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Düperret\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"IV, 40\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"40\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Düperret, Schneiderin (2) - IV, 40.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Emch\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"II, 61\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Emch, Krämerin (1) - II, 61.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Erismann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"II, 5\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"5\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Erismann, Schneider (1) - II, 5.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Falkenstein\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 30\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"30\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Falkenstein. Schuhmacher (1) - IV, 30.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Wohnungsveränderungen\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fleur de Lys\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 95\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fleur de Lys, Schuhmacher (1) - II, 95.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "187",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 187 —"
+   },
+   {
+    "n": 2,
+    "text": "Veränderungen,"
+   },
+   {
+    "n": 3,
+    "text": "die bis Ende Februars 1848 eingetreten sind und nicht noch"
+   },
+   {
+    "n": 4,
+    "text": "während des Druckes haben berücksichtigt werden können."
+   },
+   {
+    "n": 5,
+    "text": "Die den Namen beigesetzten Zahlen weisen auf die Nummern"
+   },
+   {
+    "n": 6,
+    "text": "hin, welche die betreffende Person im Einsassenetat trägt."
+   },
+   {
+    "n": 7,
+    "text": "1) Todesfälle."
+   },
+   {
+    "n": 8,
+    "text": "(Es werden hier nur die erwachsenen Personen angeführt, da das"
+   },
+   {
+    "n": 9,
+    "text": "Aussuchen der Kinder das Erscheinen des Werkes allzulange"
+   },
+   {
+    "n": 10,
+    "text": "verzögert haben würde.)"
+   },
+   {
+    "n": 11,
+    "text": "Arm, geb. Stegmann, Margaritha, Fr. v. 1."
+   },
+   {
+    "n": 12,
+    "text": "Bertsch, geb. Steck, Sophie, Fr. v. 2."
+   },
+   {
+    "n": 13,
+    "text": "Hügli, Bendicht, Schneider (5)."
+   },
+   {
+    "n": 14,
+    "text": "Müller, Samuel, Lohnbedienter (23)."
+   },
+   {
+    "n": 15,
+    "text": "2) Entfernungen aus der Gemeinde."
+   },
+   {
+    "n": 16,
+    "text": "Beck, geb. Rufener, Maria, Gastgeberin (3)."
+   },
+   {
+    "n": 17,
+    "text": "Bigler, Jakob, Dachdecker (2)."
+   },
+   {
+    "n": 18,
+    "text": "Brawand, Christian, Schuhmacher (1)."
+   },
+   {
+    "n": 19,
+    "text": "Minder, Niklaus Friedrich, Schuhmacher (4)."
+   },
+   {
+    "n": 20,
+    "text": "3) Wohnungsveränderungen."
+   },
+   {
+    "n": 21,
+    "text": "Aeppli, Störschneider (1) - V, 6."
+   },
+   {
+    "n": 22,
+    "text": "Bandi, Steinhauer (2) - I, 215 g."
+   },
+   {
+    "n": 23,
+    "text": "Baumann, Schuhmacher (1) - II, 170."
+   },
+   {
+    "n": 24,
+    "text": "Bigler, Weinhändler (4) - III, 10 b."
+   },
+   {
+    "n": 25,
+    "text": "„ Obsthändlerin (5) - I, 26."
+   },
+   {
+    "n": 26,
+    "text": "Brand, Christina (3) - II, 29."
+   },
+   {
+    "n": 27,
+    "text": "Brönnimann, Schneider (1) - III, 77."
+   },
+   {
+    "n": 28,
+    "text": "Bürki, Kittelschneider (10) - II, 83."
+   },
+   {
+    "n": 29,
+    "text": "Burger, Schuhmacher (1) - II, 77."
+   },
+   {
+    "n": 30,
+    "text": "Christen, Dachdecker (3) - IV, 309."
+   },
+   {
+    "n": 31,
+    "text": "Diebold, Schlosser (1) - II, 217."
+   },
+   {
+    "n": 32,
+    "text": "Dübi, Lohnbedienter (4) - V, 41."
+   },
+   {
+    "n": 33,
+    "text": "Düperret, Schneiderin (2) - IV, 40."
+   },
+   {
+    "n": 34,
+    "text": "Emch, Krämerin (1) - II, 61."
+   },
+   {
+    "n": 35,
+    "text": "Erismann, Schneider (1) - II, 5."
+   },
+   {
+    "n": 36,
+    "text": "Falkenstein. Schuhmacher (1) - IV, 30."
+   },
+   {
+    "n": 37,
+    "text": "Fleur de Lys, Schuhmacher (1) - II, 95."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Todesfälle",
+    "place": "Bern",
+    "surname": "Arm",
+    "forename": "Margaritha",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "geb. Stegmann, Fr. v. 1.",
+    "note": "",
+    "text": "Arm, geb. Stegmann, Margaritha, Fr. v. 1."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Todesfälle",
+    "place": "Bern",
+    "surname": "Bertsch",
+    "forename": "Sophie",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "geb. Steck, Fr. v. 2.",
+    "note": "",
+    "text": "Bertsch, geb. Steck, Sophie, Fr. v. 2."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Todesfälle",
+    "place": "Bern",
+    "surname": "Hügli",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hügli, Bendicht, Schneider (5)."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Todesfälle",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Lohnbedienter",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müller, Samuel, Lohnbedienter (23)."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Entfernungen aus der Gemeinde",
+    "place": "Bern",
+    "surname": "Beck",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Gastgeberin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "geb. Rufener",
+    "note": "",
+    "text": "Beck, geb. Rufener, Maria, Gastgeberin (3)."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Entfernungen aus der Gemeinde",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bigler, Jakob, Dachdecker (2)."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Entfernungen aus der Gemeinde",
+    "place": "Bern",
+    "surname": "Brawand",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brawand, Christian, Schuhmacher (1)."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Entfernungen aus der Gemeinde",
+    "place": "Bern",
+    "surname": "Minder",
+    "forename": "Niklaus Friedrich",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Minder, Niklaus Friedrich, Schuhmacher (4)."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Aeppli",
+    "forename": "",
+    "title": "",
+    "occupation": "Störschneider",
+    "address": "V, 6",
+    "quarter": "V",
+    "street": "",
+    "house_no": "6",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Aeppli, Störschneider (1) - V, 6."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Bandi",
+    "forename": "",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "I, 215 g",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215 g",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bandi, Steinhauer (2) - I, 215 g."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Baumann",
+    "forename": "",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 170",
+    "quarter": "II",
+    "street": "",
+    "house_no": "170",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Baumann, Schuhmacher (1) - II, 170."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "",
+    "title": "",
+    "occupation": "Weinhändler",
+    "address": "III, 10 b",
+    "quarter": "III",
+    "street": "",
+    "house_no": "10 b",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bigler, Weinhändler (4) - III, 10 b."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Bigler",
+    "forename": "",
+    "title": "",
+    "occupation": "Obsthändlerin",
+    "address": "I, 26",
+    "quarter": "I",
+    "street": "",
+    "house_no": "26",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Vorzeile",
+    "text": "„ Obsthändlerin (5) - I, 26."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Brand",
+    "forename": "Christina",
+    "title": "",
+    "occupation": "",
+    "address": "II, 29",
+    "quarter": "II",
+    "street": "",
+    "house_no": "29",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brand, Christina (3) - II, 29."
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Brönnimann",
+    "forename": "",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "III, 77",
+    "quarter": "III",
+    "street": "",
+    "house_no": "77",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brönnimann, Schneider (1) - III, 77."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Bürki",
+    "forename": "",
+    "title": "",
+    "occupation": "Kittelschneider",
+    "address": "II, 83",
+    "quarter": "II",
+    "street": "",
+    "house_no": "83",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bürki, Kittelschneider (10) - II, 83."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Burger",
+    "forename": "",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 77",
+    "quarter": "II",
+    "street": "",
+    "house_no": "77",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Burger, Schuhmacher (1) - II, 77."
+   },
+   {
+    "line_from": 30,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Christen",
+    "forename": "",
+    "title": "",
+    "occupation": "Dachdecker",
+    "address": "IV, 309",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "309",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Christen, Dachdecker (3) - IV, 309."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Diebold",
+    "forename": "",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "II, 217",
+    "quarter": "II",
+    "street": "",
+    "house_no": "217",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Diebold, Schlosser (1) - II, 217."
+   },
+   {
+    "line_from": 32,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Dübi",
+    "forename": "",
+    "title": "",
+    "occupation": "Lohnbedienter",
+    "address": "V, 41",
+    "quarter": "V",
+    "street": "",
+    "house_no": "41",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dübi, Lohnbedienter (4) - V, 41."
+   },
+   {
+    "line_from": 33,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Düperret",
+    "forename": "",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "IV, 40",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "40",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Düperret, Schneiderin (2) - IV, 40."
+   },
+   {
+    "line_from": 34,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Emch",
+    "forename": "",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "II, 61",
+    "quarter": "II",
+    "street": "",
+    "house_no": "61",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Emch, Krämerin (1) - II, 61."
+   },
+   {
+    "line_from": 35,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Erismann",
+    "forename": "",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "II, 5",
+    "quarter": "II",
+    "street": "",
+    "house_no": "5",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Erismann, Schneider (1) - II, 5."
+   },
+   {
+    "line_from": 36,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Falkenstein",
+    "forename": "",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 30",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "30",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Falkenstein. Schuhmacher (1) - IV, 30."
+   },
+   {
+    "line_from": 37,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Wohnungsveränderungen",
+    "place": "Bern",
+    "surname": "Fleur de Lys",
+    "forename": "",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 95",
+    "quarter": "II",
+    "street": "",
+    "house_no": "95",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fleur de Lys, Schuhmacher (1) - II, 95."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:15:10+01:00",
+ "last_error": null
+}

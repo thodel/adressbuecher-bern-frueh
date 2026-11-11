@@ -1,0 +1,610 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 123,
+ "section": "einsassen",
+ "started": "2026-11-11T22:06:14+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 64.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 6330,
+  "thoughts": 4125
+ },
+ "response_text": "{\n  \"printed_page\": \"110\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 110 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Müller.\"},\n    {\"n\": 4, \"text\": \"1 Hans Ulrich, Steinhauergesell u. Krämer, a. Schöftland,\"},\n    {\"n\": 5, \"text\": \"K. Aargau - I, 215 a.\"},\n    {\"n\": 6, \"text\": \"796 Fr. - Elis. Walther, geb. Ott.\"},\n    {\"n\": 7, \"text\": \"2 Verena, geb. Speich, a. Vordemwald, K. Aargau, Speck-\"},\n    {\"n\": 8, \"text\": \"stubenhalterin - VI, 6.\"},\n    {\"n\": 9, \"text\": \"3 792 Joh. Jakob, Kupferschmied, a. Straßburg - III, 97.\"},\n    {\"n\": 10, \"text\": \"4 816 Christian, Apotheker, Associirter von Müller u. Stern,\"},\n    {\"n\": 11, \"text\": \"a. Dudenhofen in Hessen - IV, 181.\"},\n    {\"n\": 12, \"text\": \"(Die Familie ist nicht eingeschrieben.)\"},\n    {\"n\": 13, \"text\": \"5 809 Andr. Christ. Ludw., Drechsler, a. Frankfurt a. M. - V, 97.\"},\n    {\"n\": 14, \"text\": \"813 Fr. - Salome Elis. Kehl.\"},\n    {\"n\": 15, \"text\": \"3 K. - 839 Elis. Karol. Magdalena. - 41 Joh. Gottlieb\"},\n    {\"n\": 16, \"text\": \"August Karl. - 46 Joh. Friedrich Eduard.\"},\n    {\"n\": 17, \"text\": \"6 782 Jakob Friedrich, Schreiber, bern. Landsaß - I, 201.\"},\n    {\"n\": 18, \"text\": \"788 Fr. - Magdalena Hänni a. Gerzensee.\"},\n    {\"n\": 19, \"text\": \"5 K. - 817 Maria Marg. - 19 Maria Rosa. - 23 Henr.\"},\n    {\"n\": 20, \"text\": \"Elis. - 25 Christian Friedrich. - 27 Anna Barb. Rosa.\"},\n    {\"n\": 21, \"text\": \"7 800 Johann, Büchsenschmied, a. Biel - II, 208.\"},\n    {\"n\": 22, \"text\": \"814 Fr. II Ehe. - Maria Marg. Schenk a. Langnau.\"},\n    {\"n\": 23, \"text\": \"5 K. - Aus I Ehe: 831 Joh. Rud. - 32 Rosa Henriette\"},\n    {\"n\": 24, \"text\": \"Louise. - Aus II Ehe: 38 Henr. Anna Maria. - 40 Joh.\"},\n    {\"n\": 25, \"text\": \"Gottlieb Albert. - 42 Rosa Elise.\"},\n    {\"n\": 26, \"text\": \"8 785 Abraham Jakob, Gärtner, a. Nidau - II, 5 a.\"},\n    {\"n\": 27, \"text\": \"9 781 Anna, geb. Tschiegg, a. Oberhofen - II, 11.\"},\n    {\"n\": 28, \"text\": \"3 S. - 811 Christian. - 18 Friedrich. - 19 Niklaus.\"},\n    {\"n\": 29, \"text\": \"10 819 Hans Jakob, Handelsmann mit Kolonialwaaren u. Süd-\"},\n    {\"n\": 30, \"text\": \"früchten, Associirter von Müller u. Häberli, a. Birmen-\"},\n    {\"n\": 31, \"text\": \"storf, K. Aargau - IV, 191.\"},\n    {\"n\": 32, \"text\": \"11 803 Magd., geb. Niklaus, Käshändlerin, a. Lauterbrunnen\"},\n    {\"n\": 33, \"text\": \"- VII, 101.\"},\n    {\"n\": 34, \"text\": \"1 T. - 829 Anna Maria Elis.\"},\n    {\"n\": 35, \"text\": \"12 789 Anna Barbara, geb. Buchhofer, a. Emishofen, K. Thur-\"},\n    {\"n\": 36, \"text\": \"gau, Schweinmetzgerin - IV, 95.\"},\n    {\"n\": 37, \"text\": \"6 K. - 816 Anna Maria. - 19 Maria Ros. - 23 Johann.\"},\n    {\"n\": 38, \"text\": \"- 25 Elise Sophie. - 28 Maria Ludovika. - 30 Anna\"},\n    {\"n\": 39, \"text\": \"Magdalena.\"},\n    {\"n\": 40, \"text\": \"13 781 Rosina, geb. Blatter, a. Niederbipp, privat. - V, 34.\"},\n    {\"n\": 41, \"text\": \"14 787 Emanuel, gew. Strohhutfabrikant, a. Belp - IV, 149.\"},\n    {\"n\": 42, \"text\": \"788 Fr. - Magd. Friedli a. Lützelflüh.\"},\n    {\"n\": 43, \"text\": \"2 S. - 818 Samuel Ludwig. - 22 Samuel Emanuel\"},\n    {\"n\": 44, \"text\": \"Heinrich.\"},\n    {\"n\": 45, \"text\": \"15 811 Johann Emanuel Gottlieb, Antiquar und Buchbinder, a.\"},\n    {\"n\": 46, \"text\": \"Kehrsatz - II, 133.\"},\n    {\"n\": 47, \"text\": \"811 Fr. - Elis. Maria Ermel a. Eggiwyl.\"},\n    {\"n\": 48, \"text\": \"16 791 Hans Ulrich, Wagner, a. Rohrbach - I, 142.\"},\n    {\"n\": 49, \"text\": \"792 Fr. - Maria Strahm a. Signau.\"},\n    {\"n\": 50, \"text\": \"2 K. - 820 Johann. - 23 Maria.\"},\n    {\"n\": 51, \"text\": \"17 801 Karl Joseph, Schneider, a. Flawyl, K. St. Gallen -IV, 164.\"},\n    {\"n\": 52, \"text\": \"797 Fr. - Verena Louise Leuzinger a. Glarus.\"},\n    {\"n\": 53, \"text\": \"18 815 Karl Daniel, Buchbinder, bern. Landsaß - II, 180.\"},\n    {\"n\": 54, \"text\": \"813 Fr. - Anna Maria Leu a. Niedergraswyl.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Hans Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauergesell u. Krämer\",\n      \"address\": \"I, 215 a\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215 a\",\n      \"origin\": \"Schöftland, K. Aargau\",\n      \"birth_year\": \"\",\n      \"household\": \"796 Fr. - Elis. Walther, geb. Ott.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Hans Ulrich, Steinhauergesell u. Krämer, a. Schöftland, K. Aargau - I, 215 a. 796 Fr. - Elis. Walther, geb. Ott.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Verena\",\n      \"title\": \"\",\n      \"occupation\": \"Speckstubenhalterin\",\n      \"address\": \"VI, 6\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"6\",\n      \"origin\": \"Vordemwald, K. Aargau\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 Verena, geb. Speich, a. Vordemwald, K. Aargau, Speckstubenhalterin - VI, 6.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Kupferschmied\",\n      \"address\": \"III, 97\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"97\",\n      \"origin\": \"Straßburg\",\n      \"birth_year\": \"1792\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 792 Joh. Jakob, Kupferschmied, a. Straßburg - III, 97.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Apotheker, Associirter von Müller u. Stern\",\n      \"address\": \"IV, 181\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"181\",\n      \"origin\": \"Dudenhofen in Hessen\",\n      \"birth_year\": \"1816\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel. (Die Familie ist nicht eingeschrieben.)\",\n      \"text\": \"4 816 Christian, Apotheker, Associirter von Müller u. Stern, a. Dudenhofen in Hessen - IV, 181. (Die Familie ist nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Andr. Christ. Ludw.\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"V, 97\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"97\",\n      \"origin\": \"Frankfurt a. M.\",\n      \"birth_year\": \"1809\",\n      \"household\": \"813 Fr. - Salome Elis. Kehl. 3 K. - 839 Elis. Karol. Magdalena. - 41 Joh. Gottlieb August Karl. - 46 Joh. Friedrich Eduard.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 809 Andr. Christ. Ludw., Drechsler, a. Frankfurt a. M. - V, 97. 813 Fr. - Salome Elis. Kehl. 3 K. - 839 Elis. Karol. Magdalena. - 41 Joh. Gottlieb August Karl. - 46 Joh. Friedrich Eduard.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Jakob Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"I, 201\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"201\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1782\",\n      \"household\": \"788 Fr. - Magdalena Hänni a. Gerzensee. 5 K. - 817 Maria Marg. - 19 Maria Rosa. - 23 Henr. Elis. - 25 Christian Friedrich. - 27 Anna Barb. Rosa.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 782 Jakob Friedrich, Schreiber, bern. Landsaß - I, 201. 788 Fr. - Magdalena Hänni a. Gerzensee. 5 K. - 817 Maria Marg. - 19 Maria Rosa. - 23 Henr. Elis. - 25 Christian Friedrich. - 27 Anna Barb. Rosa.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Büchsenschmied\",\n      \"address\": \"II, 208\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"208\",\n      \"origin\": \"Biel\",\n      \"birth_year\": \"1800\",\n      \"household\": \"814 Fr. II Ehe. - Maria Marg. Schenk a. Langnau. 5 K. - Aus I Ehe: 831 Joh. Rud. - 32 Rosa Henriette Louise. - Aus II Ehe: 38 Henr. Anna Maria. - 40 Joh. Gottlieb Albert. - 42 Rosa Elise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"7 800 Johann, Büchsenschmied, a. Biel - II, 208. 814 Fr. II Ehe. - Maria Marg. Schenk a. Langnau. 5 K. - Aus I Ehe: 831 Joh. Rud. - 32 Rosa Henriette Louise. - Aus II Ehe: 38 Henr. Anna Maria. - 40 Joh. Gottlieb Albert. - 42 Rosa Elise.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Abraham Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Gärtner\",\n      \"address\": \"II, 5 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"5 a\",\n      \"origin\": \"Nidau\",\n      \"birth_year\": \"1785\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"8 785 Abraham Jakob, Gärtner, a. Nidau - II, 5 a.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"II, 11\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"11\",\n      \"origin\": \"Oberhofen\",\n      \"birth_year\": \"1781\",\n      \"household\": \"3 S. - 811 Christian. - 18 Friedrich. - 19 Niklaus.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"9 781 Anna, geb. Tschiegg, a. Oberhofen - II, 11. 3 S. - 811 Christian. - 18 Friedrich. - 19 Niklaus.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Hans Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann mit Kolonialwaaren u. Südfrüchten, Associirter von Müller u. Häberli\",\n      \"address\": \"IV, 191\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"191\",\n      \"origin\": \"Birmenstorf, K. Aargau\",\n      \"birth_year\": \"1819\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"10 819 Hans Jakob, Handelsmann mit Kolonialwaaren u. Südfrüchten, Associirter von Müller u. Häberli, a. Birmenstorf, K. Aargau - IV, 191.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Magd.\",\n      \"title\": \"\",\n      \"occupation\": \"Käshändlerin\",\n      \"address\": \"VII, 101\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"101\",\n      \"origin\": \"Lauterbrunnen\",\n      \"birth_year\": \"1803\",\n      \"household\": \"1 T. - 829 Anna Maria Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"11 803 Magd., geb. Niklaus, Käshändlerin, a. Lauterbrunnen - VII, 101. 1 T. - 829 Anna Maria Elis.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Anna Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzgerin\",\n      \"address\": \"IV, 95\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"95\",\n      \"origin\": \"Emishofen, K. Thurgau\",\n      \"birth_year\": \"1789\",\n      \"household\": \"6 K. - 816 Anna Maria. - 19 Maria Ros. - 23 Johann. - 25 Elise Sophie. - 28 Maria Ludovika. - 30 Anna Magdalena.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"12 789 Anna Barbara, geb. Buchhofer, a. Emishofen, K. Thurgau, Schweinmetzgerin - IV, 95. 6 K. - 816 Anna Maria. - 19 Maria Ros. - 23 Johann. - 25 Elise Sophie. - 28 Maria Ludovika. - 30 Anna Magdalena.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Rosina\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"V, 34\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"34\",\n      \"origin\": \"Niederbipp\",\n      \"birth_year\": \"1781\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"13 781 Rosina, geb. Blatter, a. Niederbipp, privat. - V, 34.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Strohhutfabrikant\",\n      \"address\": \"IV, 149\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"149\",\n      \"origin\": \"Belp\",\n      \"birth_year\": \"1787\",\n      \"household\": \"788 Fr. - Magd. Friedli a. Lützelflüh. 2 S. - 818 Samuel Ludwig. - 22 Samuel Emanuel Heinrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"14 787 Emanuel, gew. Strohhutfabrikant, a. Belp - IV, 149. 788 Fr. - Magd. Friedli a. Lützelflüh. 2 S. - 818 Samuel Ludwig. - 22 Samuel Emanuel Heinrich.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Johann Emanuel Gottlieb\",\n      \"title\": \"\",\n      \"occupation\": \"Antiquar und Buchbinder\",\n      \"address\": \"II, 133\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"133\",\n      \"origin\": \"Kehrsatz\",\n      \"birth_year\": \"1811\",\n      \"household\": \"811 Fr. - Elis. Maria Ermel a. Eggiwyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"15 811 Johann Emanuel Gottlieb, Antiquar und Buchbinder, a. Kehrsatz - II, 133. 811 Fr. - Elis. Maria Ermel a. Eggiwyl.\"\n    },\n    {\n      \"line_from\": 48,\n      \"line_to\": 50,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Hans Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Wagner\",\n      \"address\": \"I, 142\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"142\",\n      \"origin\": \"Rohrbach\",\n      \"birth_year\": \"1791\",\n      \"household\": \"792 Fr. - Maria Strahm a. Signau. 2 K. - 820 Johann. - 23 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"16 791 Hans Ulrich, Wagner, a. Rohrbach - I, 142. 792 Fr. - Maria Strahm a. Signau. 2 K. - 820 Johann. - 23 Maria.\"\n    },\n    {\n      \"line_from\": 51,\n      \"line_to\": 52,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Karl Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 164\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"164\",\n      \"origin\": \"Flawyl, K. St. Gallen\",\n      \"birth_year\": \"1801\",\n      \"household\": \"797 Fr. - Verena Louise Leuzinger a. Glarus.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"17 801 Karl Joseph, Schneider, a. Flawyl, K. St. Gallen -IV, 164. 797 Fr. - Verena Louise Leuzinger a. Glarus.\"\n    },\n    {\n      \"line_from\": 53,\n      \"line_to\": 54,\n      \"kind\": \"person\",\n      \"heading\": \"Müller.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Karl Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"II, 180\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"180\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1815\",\n      \"household\": \"813 Fr. - Anna Maria Leu a. Niedergraswyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"18 815 Karl Daniel, Buchbinder, bern. Landsaß - II, 180. 813 Fr. - Anna Maria Leu a. Niedergraswyl.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "110",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 110 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Müller."
+   },
+   {
+    "n": 4,
+    "text": "1 Hans Ulrich, Steinhauergesell u. Krämer, a. Schöftland,"
+   },
+   {
+    "n": 5,
+    "text": "K. Aargau - I, 215 a."
+   },
+   {
+    "n": 6,
+    "text": "796 Fr. - Elis. Walther, geb. Ott."
+   },
+   {
+    "n": 7,
+    "text": "2 Verena, geb. Speich, a. Vordemwald, K. Aargau, Speck-"
+   },
+   {
+    "n": 8,
+    "text": "stubenhalterin - VI, 6."
+   },
+   {
+    "n": 9,
+    "text": "3 792 Joh. Jakob, Kupferschmied, a. Straßburg - III, 97."
+   },
+   {
+    "n": 10,
+    "text": "4 816 Christian, Apotheker, Associirter von Müller u. Stern,"
+   },
+   {
+    "n": 11,
+    "text": "a. Dudenhofen in Hessen - IV, 181."
+   },
+   {
+    "n": 12,
+    "text": "(Die Familie ist nicht eingeschrieben.)"
+   },
+   {
+    "n": 13,
+    "text": "5 809 Andr. Christ. Ludw., Drechsler, a. Frankfurt a. M. - V, 97."
+   },
+   {
+    "n": 14,
+    "text": "813 Fr. - Salome Elis. Kehl."
+   },
+   {
+    "n": 15,
+    "text": "3 K. - 839 Elis. Karol. Magdalena. - 41 Joh. Gottlieb"
+   },
+   {
+    "n": 16,
+    "text": "August Karl. - 46 Joh. Friedrich Eduard."
+   },
+   {
+    "n": 17,
+    "text": "6 782 Jakob Friedrich, Schreiber, bern. Landsaß - I, 201."
+   },
+   {
+    "n": 18,
+    "text": "788 Fr. - Magdalena Hänni a. Gerzensee."
+   },
+   {
+    "n": 19,
+    "text": "5 K. - 817 Maria Marg. - 19 Maria Rosa. - 23 Henr."
+   },
+   {
+    "n": 20,
+    "text": "Elis. - 25 Christian Friedrich. - 27 Anna Barb. Rosa."
+   },
+   {
+    "n": 21,
+    "text": "7 800 Johann, Büchsenschmied, a. Biel - II, 208."
+   },
+   {
+    "n": 22,
+    "text": "814 Fr. II Ehe. - Maria Marg. Schenk a. Langnau."
+   },
+   {
+    "n": 23,
+    "text": "5 K. - Aus I Ehe: 831 Joh. Rud. - 32 Rosa Henriette"
+   },
+   {
+    "n": 24,
+    "text": "Louise. - Aus II Ehe: 38 Henr. Anna Maria. - 40 Joh."
+   },
+   {
+    "n": 25,
+    "text": "Gottlieb Albert. - 42 Rosa Elise."
+   },
+   {
+    "n": 26,
+    "text": "8 785 Abraham Jakob, Gärtner, a. Nidau - II, 5 a."
+   },
+   {
+    "n": 27,
+    "text": "9 781 Anna, geb. Tschiegg, a. Oberhofen - II, 11."
+   },
+   {
+    "n": 28,
+    "text": "3 S. - 811 Christian. - 18 Friedrich. - 19 Niklaus."
+   },
+   {
+    "n": 29,
+    "text": "10 819 Hans Jakob, Handelsmann mit Kolonialwaaren u. Süd-"
+   },
+   {
+    "n": 30,
+    "text": "früchten, Associirter von Müller u. Häberli, a. Birmen-"
+   },
+   {
+    "n": 31,
+    "text": "storf, K. Aargau - IV, 191."
+   },
+   {
+    "n": 32,
+    "text": "11 803 Magd., geb. Niklaus, Käshändlerin, a. Lauterbrunnen"
+   },
+   {
+    "n": 33,
+    "text": "- VII, 101."
+   },
+   {
+    "n": 34,
+    "text": "1 T. - 829 Anna Maria Elis."
+   },
+   {
+    "n": 35,
+    "text": "12 789 Anna Barbara, geb. Buchhofer, a. Emishofen, K. Thur-"
+   },
+   {
+    "n": 36,
+    "text": "gau, Schweinmetzgerin - IV, 95."
+   },
+   {
+    "n": 37,
+    "text": "6 K. - 816 Anna Maria. - 19 Maria Ros. - 23 Johann."
+   },
+   {
+    "n": 38,
+    "text": "- 25 Elise Sophie. - 28 Maria Ludovika. - 30 Anna"
+   },
+   {
+    "n": 39,
+    "text": "Magdalena."
+   },
+   {
+    "n": 40,
+    "text": "13 781 Rosina, geb. Blatter, a. Niederbipp, privat. - V, 34."
+   },
+   {
+    "n": 41,
+    "text": "14 787 Emanuel, gew. Strohhutfabrikant, a. Belp - IV, 149."
+   },
+   {
+    "n": 42,
+    "text": "788 Fr. - Magd. Friedli a. Lützelflüh."
+   },
+   {
+    "n": 43,
+    "text": "2 S. - 818 Samuel Ludwig. - 22 Samuel Emanuel"
+   },
+   {
+    "n": 44,
+    "text": "Heinrich."
+   },
+   {
+    "n": 45,
+    "text": "15 811 Johann Emanuel Gottlieb, Antiquar und Buchbinder, a."
+   },
+   {
+    "n": 46,
+    "text": "Kehrsatz - II, 133."
+   },
+   {
+    "n": 47,
+    "text": "811 Fr. - Elis. Maria Ermel a. Eggiwyl."
+   },
+   {
+    "n": 48,
+    "text": "16 791 Hans Ulrich, Wagner, a. Rohrbach - I, 142."
+   },
+   {
+    "n": 49,
+    "text": "792 Fr. - Maria Strahm a. Signau."
+   },
+   {
+    "n": 50,
+    "text": "2 K. - 820 Johann. - 23 Maria."
+   },
+   {
+    "n": 51,
+    "text": "17 801 Karl Joseph, Schneider, a. Flawyl, K. St. Gallen -IV, 164."
+   },
+   {
+    "n": 52,
+    "text": "797 Fr. - Verena Louise Leuzinger a. Glarus."
+   },
+   {
+    "n": 53,
+    "text": "18 815 Karl Daniel, Buchbinder, bern. Landsaß - II, 180."
+   },
+   {
+    "n": 54,
+    "text": "813 Fr. - Anna Maria Leu a. Niedergraswyl."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Hans Ulrich",
+    "title": "",
+    "occupation": "Steinhauergesell u. Krämer",
+    "address": "I, 215 a",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215 a",
+    "origin": "Schöftland, K. Aargau",
+    "birth_year": "",
+    "household": "796 Fr. - Elis. Walther, geb. Ott.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Hans Ulrich, Steinhauergesell u. Krämer, a. Schöftland, K. Aargau - I, 215 a. 796 Fr. - Elis. Walther, geb. Ott."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Verena",
+    "title": "",
+    "occupation": "Speckstubenhalterin",
+    "address": "VI, 6",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "6",
+    "origin": "Vordemwald, K. Aargau",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 Verena, geb. Speich, a. Vordemwald, K. Aargau, Speckstubenhalterin - VI, 6."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Kupferschmied",
+    "address": "III, 97",
+    "quarter": "III",
+    "street": "",
+    "house_no": "97",
+    "origin": "Straßburg",
+    "birth_year": "1792",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 792 Joh. Jakob, Kupferschmied, a. Straßburg - III, 97."
+   },
+   {
+    "line_from": 10,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Apotheker, Associirter von Müller u. Stern",
+    "address": "IV, 181",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "181",
+    "origin": "Dudenhofen in Hessen",
+    "birth_year": "1816",
+    "household": "",
+    "note": "Name aus Zwischentitel. (Die Familie ist nicht eingeschrieben.)",
+    "text": "4 816 Christian, Apotheker, Associirter von Müller u. Stern, a. Dudenhofen in Hessen - IV, 181. (Die Familie ist nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 13,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Andr. Christ. Ludw.",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "V, 97",
+    "quarter": "V",
+    "street": "",
+    "house_no": "97",
+    "origin": "Frankfurt a. M.",
+    "birth_year": "1809",
+    "household": "813 Fr. - Salome Elis. Kehl. 3 K. - 839 Elis. Karol. Magdalena. - 41 Joh. Gottlieb August Karl. - 46 Joh. Friedrich Eduard.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 809 Andr. Christ. Ludw., Drechsler, a. Frankfurt a. M. - V, 97. 813 Fr. - Salome Elis. Kehl. 3 K. - 839 Elis. Karol. Magdalena. - 41 Joh. Gottlieb August Karl. - 46 Joh. Friedrich Eduard."
+   },
+   {
+    "line_from": 17,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Jakob Friedrich",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "I, 201",
+    "quarter": "I",
+    "street": "",
+    "house_no": "201",
+    "origin": "bern. Landsaß",
+    "birth_year": "1782",
+    "household": "788 Fr. - Magdalena Hänni a. Gerzensee. 5 K. - 817 Maria Marg. - 19 Maria Rosa. - 23 Henr. Elis. - 25 Christian Friedrich. - 27 Anna Barb. Rosa.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 782 Jakob Friedrich, Schreiber, bern. Landsaß - I, 201. 788 Fr. - Magdalena Hänni a. Gerzensee. 5 K. - 817 Maria Marg. - 19 Maria Rosa. - 23 Henr. Elis. - 25 Christian Friedrich. - 27 Anna Barb. Rosa."
+   },
+   {
+    "line_from": 21,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Büchsenschmied",
+    "address": "II, 208",
+    "quarter": "II",
+    "street": "",
+    "house_no": "208",
+    "origin": "Biel",
+    "birth_year": "1800",
+    "household": "814 Fr. II Ehe. - Maria Marg. Schenk a. Langnau. 5 K. - Aus I Ehe: 831 Joh. Rud. - 32 Rosa Henriette Louise. - Aus II Ehe: 38 Henr. Anna Maria. - 40 Joh. Gottlieb Albert. - 42 Rosa Elise.",
+    "note": "Name aus Zwischentitel",
+    "text": "7 800 Johann, Büchsenschmied, a. Biel - II, 208. 814 Fr. II Ehe. - Maria Marg. Schenk a. Langnau. 5 K. - Aus I Ehe: 831 Joh. Rud. - 32 Rosa Henriette Louise. - Aus II Ehe: 38 Henr. Anna Maria. - 40 Joh. Gottlieb Albert. - 42 Rosa Elise."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Abraham Jakob",
+    "title": "",
+    "occupation": "Gärtner",
+    "address": "II, 5 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "5 a",
+    "origin": "Nidau",
+    "birth_year": "1785",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "8 785 Abraham Jakob, Gärtner, a. Nidau - II, 5 a."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "",
+    "address": "II, 11",
+    "quarter": "II",
+    "street": "",
+    "house_no": "11",
+    "origin": "Oberhofen",
+    "birth_year": "1781",
+    "household": "3 S. - 811 Christian. - 18 Friedrich. - 19 Niklaus.",
+    "note": "Name aus Zwischentitel",
+    "text": "9 781 Anna, geb. Tschiegg, a. Oberhofen - II, 11. 3 S. - 811 Christian. - 18 Friedrich. - 19 Niklaus."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Hans Jakob",
+    "title": "",
+    "occupation": "Handelsmann mit Kolonialwaaren u. Südfrüchten, Associirter von Müller u. Häberli",
+    "address": "IV, 191",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "191",
+    "origin": "Birmenstorf, K. Aargau",
+    "birth_year": "1819",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "10 819 Hans Jakob, Handelsmann mit Kolonialwaaren u. Südfrüchten, Associirter von Müller u. Häberli, a. Birmenstorf, K. Aargau - IV, 191."
+   },
+   {
+    "line_from": 32,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Magd.",
+    "title": "",
+    "occupation": "Käshändlerin",
+    "address": "VII, 101",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "101",
+    "origin": "Lauterbrunnen",
+    "birth_year": "1803",
+    "household": "1 T. - 829 Anna Maria Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "11 803 Magd., geb. Niklaus, Käshändlerin, a. Lauterbrunnen - VII, 101. 1 T. - 829 Anna Maria Elis."
+   },
+   {
+    "line_from": 35,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Anna Barbara",
+    "title": "",
+    "occupation": "Schweinmetzgerin",
+    "address": "IV, 95",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "95",
+    "origin": "Emishofen, K. Thurgau",
+    "birth_year": "1789",
+    "household": "6 K. - 816 Anna Maria. - 19 Maria Ros. - 23 Johann. - 25 Elise Sophie. - 28 Maria Ludovika. - 30 Anna Magdalena.",
+    "note": "Name aus Zwischentitel",
+    "text": "12 789 Anna Barbara, geb. Buchhofer, a. Emishofen, K. Thurgau, Schweinmetzgerin - IV, 95. 6 K. - 816 Anna Maria. - 19 Maria Ros. - 23 Johann. - 25 Elise Sophie. - 28 Maria Ludovika. - 30 Anna Magdalena."
+   },
+   {
+    "line_from": 40,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Rosina",
+    "title": "",
+    "occupation": "privat.",
+    "address": "V, 34",
+    "quarter": "V",
+    "street": "",
+    "house_no": "34",
+    "origin": "Niederbipp",
+    "birth_year": "1781",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "13 781 Rosina, geb. Blatter, a. Niederbipp, privat. - V, 34."
+   },
+   {
+    "line_from": 41,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "gew. Strohhutfabrikant",
+    "address": "IV, 149",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "149",
+    "origin": "Belp",
+    "birth_year": "1787",
+    "household": "788 Fr. - Magd. Friedli a. Lützelflüh. 2 S. - 818 Samuel Ludwig. - 22 Samuel Emanuel Heinrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "14 787 Emanuel, gew. Strohhutfabrikant, a. Belp - IV, 149. 788 Fr. - Magd. Friedli a. Lützelflüh. 2 S. - 818 Samuel Ludwig. - 22 Samuel Emanuel Heinrich."
+   },
+   {
+    "line_from": 45,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Johann Emanuel Gottlieb",
+    "title": "",
+    "occupation": "Antiquar und Buchbinder",
+    "address": "II, 133",
+    "quarter": "II",
+    "street": "",
+    "house_no": "133",
+    "origin": "Kehrsatz",
+    "birth_year": "1811",
+    "household": "811 Fr. - Elis. Maria Ermel a. Eggiwyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "15 811 Johann Emanuel Gottlieb, Antiquar und Buchbinder, a. Kehrsatz - II, 133. 811 Fr. - Elis. Maria Ermel a. Eggiwyl."
+   },
+   {
+    "line_from": 48,
+    "line_to": 50,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Hans Ulrich",
+    "title": "",
+    "occupation": "Wagner",
+    "address": "I, 142",
+    "quarter": "I",
+    "street": "",
+    "house_no": "142",
+    "origin": "Rohrbach",
+    "birth_year": "1791",
+    "household": "792 Fr. - Maria Strahm a. Signau. 2 K. - 820 Johann. - 23 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "16 791 Hans Ulrich, Wagner, a. Rohrbach - I, 142. 792 Fr. - Maria Strahm a. Signau. 2 K. - 820 Johann. - 23 Maria."
+   },
+   {
+    "line_from": 51,
+    "line_to": 52,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Karl Joseph",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 164",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "164",
+    "origin": "Flawyl, K. St. Gallen",
+    "birth_year": "1801",
+    "household": "797 Fr. - Verena Louise Leuzinger a. Glarus.",
+    "note": "Name aus Zwischentitel",
+    "text": "17 801 Karl Joseph, Schneider, a. Flawyl, K. St. Gallen -IV, 164. 797 Fr. - Verena Louise Leuzinger a. Glarus."
+   },
+   {
+    "line_from": 53,
+    "line_to": 54,
+    "kind": "person",
+    "heading": "Müller.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Karl Daniel",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "II, 180",
+    "quarter": "II",
+    "street": "",
+    "house_no": "180",
+    "origin": "bern. Landsaß",
+    "birth_year": "1815",
+    "household": "813 Fr. - Anna Maria Leu a. Niedergraswyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "18 815 Karl Daniel, Buchbinder, bern. Landsaß - II, 180. 813 Fr. - Anna Maria Leu a. Niedergraswyl."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:07:18+01:00",
+ "last_error": null
+}

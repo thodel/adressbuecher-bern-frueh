@@ -25,6 +25,9 @@ make venv          # Python-Umgebung
 make pages         # 01_pages.csv + Seitenbilder von e-rara (data/pages/, nicht im Repo)
 make read RUN=full-v1   # Gemini liest alle Seiten -> data/raw/full-v1/ (Schlüssel aus .env)
 make site RUN=full-v1   # CSV (data/csv/) und Daten für site/
+# zweite Lesung und Vergleich:
+#   scripts/02_gemini.py --run full-v2 --all --thinking medium --workers 8
+#   scripts/03_csv.py --run full-v1 --second full-v2 && python3 scripts/90_site.py
 make serve         # Vorschau
 ```
 

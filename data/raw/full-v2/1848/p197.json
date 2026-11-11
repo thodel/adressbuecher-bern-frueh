@@ -1,0 +1,178 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 197,
+ "section": "beamte",
+ "started": "2026-11-11T22:13:57+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 27.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2428,
+  "output": 1715,
+  "thoughts": 2146
+ },
+ "response_text": "{\n  \"printed_page\": \"184\",\n  \"running_head\": null,\n  \"lines\": [\n    {\n      \"n\": 1,\n      \"text\": \"— 184 —\"\n    },\n    {\n      \"n\": 2,\n      \"text\": \"Nr. Geb.\"\n    },\n    {\n      \"n\": 3,\n      \"text\": \"2 792 Christian, Zimmermann, a. Wahlern - I, 12.\"\n    },\n    {\n      \"n\": 4,\n      \"text\": \"790 Fr. III Ehe. - Magd. Kurz, geb. Küng, a. Röthenbach.\"\n    },\n    {\n      \"n\": 5,\n      \"text\": \"4 K. aus II Ehe. - 818 Anna Barb. - 21 Christen. —\"\n    },\n    {\n      \"n\": 6,\n      \"text\": \"25 Magdalena. - 28 Johann.\"\n    },\n    {\n      \"n\": 7,\n      \"text\": \"Zwicki.\"\n    },\n    {\n      \"n\": 8,\n      \"text\": \"1 817 Afra Marg., Modiste, a. Mollis, K. Glarus - IV, 88.\"\n    },\n    {\n      \"n\": 9,\n      \"text\": \"Zysset a. Heiligenschwendi.\"\n    },\n    {\n      \"n\": 10,\n      \"text\": \"1 812 Jakob, Schreiner - IV, 61.\"\n    },\n    {\n      \"n\": 11,\n      \"text\": \"809 Fr. - Kath. Albertine Moser a. Madretsch.\"\n    },\n    {\n      \"n\": 12,\n      \"text\": \"3 K. - 841 Louise Elis. Emilie. - 43 Johann Jakob\"\n    },\n    {\n      \"n\": 13,\n      \"text\": \"Albr. - 45 Albert.\"\n    },\n    {\n      \"n\": 14,\n      \"text\": \"2 812 Samuel, Pasteten- und Zuckerbäcker - III, 37.\"\n    },\n    {\n      \"n\": 15,\n      \"text\": \"815 Fr. - Anna Maria Gugelmann a. Steckholz.\"\n    },\n    {\n      \"n\": 16,\n      \"text\": \"1 T. - 845 Maria Elisabetha.\"\n    }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Zimmermann\",\n      \"address\": \"I, 12\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"12\",\n      \"origin\": \"Wahlern\",\n      \"birth_year\": \"1792\",\n      \"household\": \"790 Fr. III Ehe. - Magd. Kurz, geb. Küng, a. Röthenbach. 4 K. aus II Ehe. - 818 Anna Barb. - 21 Christen. — 25 Magdalena. - 28 Johann.\",\n      \"note\": \"Name auf Vorseite\",\n      \"text\": \"2 792 Christian, Zimmermann, a. Wahlern - I, 12. 790 Fr. III Ehe. - Magd. Kurz, geb. Küng, a. Röthenbach. 4 K. aus II Ehe. - 818 Anna Barb. - 21 Christen. — 25 Magdalena. - 28 Johann.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Zwicki.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zwicki\",\n      \"forename\": \"Afra Marg.\",\n      \"title\": \"\",\n      \"occupation\": \"Modiste\",\n      \"address\": \"IV, 88\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"88\",\n      \"origin\": \"Mollis, K. Glarus\",\n      \"birth_year\": \"1817\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 817 Afra Marg., Modiste, a. Mollis, K. Glarus - IV, 88.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Zysset a. Heiligenschwendi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zysset\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"IV, 61\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"Heiligenschwendi\",\n      \"birth_year\": \"1812\",\n      \"household\": \"809 Fr. - Kath. Albertine Moser a. Madretsch. 3 K. - 841 Louise Elis. Emilie. - 43 Johann Jakob Albr. - 45 Albert.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Jakob, Schreiner - IV, 61. 809 Fr. - Kath. Albertine Moser a. Madretsch. 3 K. - 841 Louise Elis. Emilie. - 43 Johann Jakob Albr. - 45 Albert.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Zysset a. Heiligenschwendi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zysset\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Pasteten- und Zuckerbäcker\",\n      \"address\": \"III, 37\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"37\",\n      \"origin\": \"Heiligenschwendi\",\n      \"birth_year\": \"1812\",\n      \"household\": \"815 Fr. - Anna Maria Gugelmann a. Steckholz. 1 T. - 845 Maria Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 812 Samuel, Pasteten- und Zuckerbäcker - III, 37. 815 Fr. - Anna Maria Gugelmann a. Steckholz. 1 T. - 845 Maria Elisabetha.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "184",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 184 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "2 792 Christian, Zimmermann, a. Wahlern - I, 12."
+   },
+   {
+    "n": 4,
+    "text": "790 Fr. III Ehe. - Magd. Kurz, geb. Küng, a. Röthenbach."
+   },
+   {
+    "n": 5,
+    "text": "4 K. aus II Ehe. - 818 Anna Barb. - 21 Christen. —"
+   },
+   {
+    "n": 6,
+    "text": "25 Magdalena. - 28 Johann."
+   },
+   {
+    "n": 7,
+    "text": "Zwicki."
+   },
+   {
+    "n": 8,
+    "text": "1 817 Afra Marg., Modiste, a. Mollis, K. Glarus - IV, 88."
+   },
+   {
+    "n": 9,
+    "text": "Zysset a. Heiligenschwendi."
+   },
+   {
+    "n": 10,
+    "text": "1 812 Jakob, Schreiner - IV, 61."
+   },
+   {
+    "n": 11,
+    "text": "809 Fr. - Kath. Albertine Moser a. Madretsch."
+   },
+   {
+    "n": 12,
+    "text": "3 K. - 841 Louise Elis. Emilie. - 43 Johann Jakob"
+   },
+   {
+    "n": 13,
+    "text": "Albr. - 45 Albert."
+   },
+   {
+    "n": 14,
+    "text": "2 812 Samuel, Pasteten- und Zuckerbäcker - III, 37."
+   },
+   {
+    "n": 15,
+    "text": "815 Fr. - Anna Maria Gugelmann a. Steckholz."
+   },
+   {
+    "n": 16,
+    "text": "1 T. - 845 Maria Elisabetha."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Zimmermann",
+    "address": "I, 12",
+    "quarter": "I",
+    "street": "",
+    "house_no": "12",
+    "origin": "Wahlern",
+    "birth_year": "1792",
+    "household": "790 Fr. III Ehe. - Magd. Kurz, geb. Küng, a. Röthenbach. 4 K. aus II Ehe. - 818 Anna Barb. - 21 Christen. — 25 Magdalena. - 28 Johann.",
+    "note": "Name auf Vorseite",
+    "text": "2 792 Christian, Zimmermann, a. Wahlern - I, 12. 790 Fr. III Ehe. - Magd. Kurz, geb. Küng, a. Röthenbach. 4 K. aus II Ehe. - 818 Anna Barb. - 21 Christen. — 25 Magdalena. - 28 Johann."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Zwicki.",
+    "place": "Bern",
+    "surname": "Zwicki",
+    "forename": "Afra Marg.",
+    "title": "",
+    "occupation": "Modiste",
+    "address": "IV, 88",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "88",
+    "origin": "Mollis, K. Glarus",
+    "birth_year": "1817",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 817 Afra Marg., Modiste, a. Mollis, K. Glarus - IV, 88."
+   },
+   {
+    "line_from": 10,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Zysset a. Heiligenschwendi.",
+    "place": "Bern",
+    "surname": "Zysset",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "IV, 61",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "61",
+    "origin": "Heiligenschwendi",
+    "birth_year": "1812",
+    "household": "809 Fr. - Kath. Albertine Moser a. Madretsch. 3 K. - 841 Louise Elis. Emilie. - 43 Johann Jakob Albr. - 45 Albert.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Jakob, Schreiner - IV, 61. 809 Fr. - Kath. Albertine Moser a. Madretsch. 3 K. - 841 Louise Elis. Emilie. - 43 Johann Jakob Albr. - 45 Albert."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Zysset a. Heiligenschwendi.",
+    "place": "Bern",
+    "surname": "Zysset",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Pasteten- und Zuckerbäcker",
+    "address": "III, 37",
+    "quarter": "III",
+    "street": "",
+    "house_no": "37",
+    "origin": "Heiligenschwendi",
+    "birth_year": "1812",
+    "household": "815 Fr. - Anna Maria Gugelmann a. Steckholz. 1 T. - 845 Maria Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 812 Samuel, Pasteten- und Zuckerbäcker - III, 37. 815 Fr. - Anna Maria Gugelmann a. Steckholz. 1 T. - 845 Maria Elisabetha."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:14:25+01:00",
+ "last_error": null
+}

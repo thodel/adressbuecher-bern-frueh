@@ -1,0 +1,1402 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1839",
+ "page": 530,
+ "section": "kanton",
+ "started": "2026-11-11T21:51:53+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 96.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2249,
+  "output": 10188,
+  "thoughts": 5634
+ },
+ "response_text": "{\n  \"printed_page\": \"93\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"93\"},\n    {\"n\": 2, \"text\": \"Speisewirth. Rüfli, Nikolaus, statt\"},\n    {\"n\": 3, \"text\": \"Rufli, Samuel.\"},\n    {\"n\": 4, \"text\": \"Leuzigen.\"},\n    {\"n\": 5, \"text\": \"Pintenwirthe. Hinzugekommen sind:\"},\n    {\"n\": 6, \"text\": \"Affolter, Joh.\"},\n    {\"n\": 7, \"text\": \"Haueter Joh.\"},\n    {\"n\": 8, \"text\": \"Käsermann, Steph.\"},\n    {\"n\": 9, \"text\": \"Meinisberg.\"},\n    {\"n\": 10, \"text\": \"Hufschmied. Loebscher, Joh., aufgehört\"},\n    {\"n\": 11, \"text\": \"dagegen Kocher.\"},\n    {\"n\": 12, \"text\": \"Meyenried.\"},\n    {\"n\": 13, \"text\": \"Seiler. Schneider, Joh.\"},\n    {\"n\": 14, \"text\": \"Wirth zum Schiff: der gleiche.\"},\n    {\"n\": 15, \"text\": \"Oberwyl.\"},\n    {\"n\": 16, \"text\": \"Badewirth. Ramser.\"},\n    {\"n\": 17, \"text\": \"Müller. Leibundgut.\"},\n    {\"n\": 18, \"text\": \"„ Otti.\"},\n    {\"n\": 19, \"text\": \"Pintenwirthe. Lehmann.\"},\n    {\"n\": 20, \"text\": \"„ Bandi.\"},\n    {\"n\": 21, \"text\": \"Wirth zum Bären. Furer, Joh.\"},\n    {\"n\": 22, \"text\": \"Ziegler. Ramser, Joh.\"},\n    {\"n\": 23, \"text\": \"Pieterlen.\"},\n    {\"n\": 24, \"text\": \"Kaufmann. Schwummer, Johann, hat\"},\n    {\"n\": 25, \"text\": \"aufgehört.\"},\n    {\"n\": 26, \"text\": \"Krämer. Schädeli, Samuel, hat auf=\"},\n    {\"n\": 27, \"text\": \"gehört.\"},\n    {\"n\": 28, \"text\": \"Wirth zum Löwen. Schlupp, Johann,\"},\n    {\"n\": 29, \"text\": \"hat aufgehört.\"},\n    {\"n\": 30, \"text\": \"Dagegen\"},\n    {\"n\": 31, \"text\": \"Mäschi, Gottlieb.\"},\n    {\"n\": 32, \"text\": \"Speisewirth. Kunz, Abraham.\"},\n    {\"n\": 33, \"text\": \"Die Namen Motter sollen heißen Matter.\"},\n    {\"n\": 34, \"text\": \"Reiben.\"},\n    {\"n\": 35, \"text\": \"Wirth. Schneider, Ad., zum Baselstab.\"},\n    {\"n\": 36, \"text\": \"Zunderfabrikant. Kaufmann.\"},\n    {\"n\": 37, \"text\": \"Rotmund.\"},\n    {\"n\": 38, \"text\": \"Pintenwirth. Läufer, Joh., hat auf=\"},\n    {\"n\": 39, \"text\": \"gehört.\"},\n    {\"n\": 40, \"text\": \"Dagegen ist Huttiger.\"},\n    {\"n\": 41, \"text\": \"Die Namen Schoß sollen heißen Chausse.\"},\n    {\"n\": 42, \"text\": \"Rütti.\"},\n    {\"n\": 43, \"text\": \"Garnbaucher. Leuenberger, Jakob.\"},\n    {\"n\": 44, \"text\": \"Krämer. Riß, Samuel.\"},\n    {\"n\": 45, \"text\": \"„ Hoffmann, Heinrich.\"},\n    {\"n\": 46, \"text\": \"Müller. Schlupp, Joh.\"},\n    {\"n\": 47, \"text\": \"Pintenschenke. Schlupp, Nik.\"},\n    {\"n\": 48, \"text\": \"„ Eggli, Urs, aufgehört.\"},\n    {\"n\": 49, \"text\": \"Saager. Wachs, Urs.\"},\n    {\"n\": 50, \"text\": \"Schmied. Hoffmann, Heinrich.\"},\n    {\"n\": 51, \"text\": \"Schreiner. Stauffer, Nik.\"},\n    {\"n\": 52, \"text\": \"„ Schlupp, Bend.\"},\n    {\"n\": 53, \"text\": \"„ Schlupp, Stephan.\"},\n    {\"n\": 54, \"text\": \"„ Schlupp, Urs.\"},\n    {\"n\": 55, \"text\": \"„ Schlupp, Nikolaus.\"},\n    {\"n\": 56, \"text\": \"Wagner. Schlupp, Joh.\"},\n    {\"n\": 57, \"text\": \"„ Rütz, Bend.\"},\n    {\"n\": 58, \"text\": \"„ Rütz, Joh.\"},\n    {\"n\": 59, \"text\": \"Wirth zum Bären. Lanz.\"},\n    {\"n\": 60, \"text\": \"Die Kleinweinhändler fallen weg.\"},\n    {\"n\": 61, \"text\": \"Schönenberg.\"},\n    {\"n\": 62, \"text\": \"Pintenwirth. Gilomann.\"},\n    {\"n\": 63, \"text\": \"Waltwyl.\"},\n    {\"n\": 64, \"text\": \"Pintenwirth. Marti.\"},\n    {\"n\": 65, \"text\": \"Wengi.\"},\n    {\"n\": 66, \"text\": \"Salzauswäger. Bangeter.\"},\n    {\"n\": 67, \"text\": \"Pintenwirth. Frieden.\"},\n    {\"n\": 68, \"text\": \"Wirth zum Bären. Stämpfli, Joh.\"},\n    {\"n\": 69, \"text\": \"Besondere Bemerkungen verdienen:\"},\n    {\"n\": 70, \"text\": \"1) Die so schön und zweckmäßig ein=\"},\n    {\"n\": 71, \"text\": \"gerichtete Essigsiederei des Herrn\"},\n    {\"n\": 72, \"text\": \"Alb. Kohler in Büren.\"},\n    {\"n\": 73, \"text\": \"2) Entdeckt man seit einiger Zeit auf\"},\n    {\"n\": 74, \"text\": \"dem rechten Aarufer bei Büren ein=\"},\n    {\"n\": 75, \"text\": \"zelne Spuren von Aspalt, die bei\"},\n    {\"n\": 76, \"text\": \"fleißiger und aufmerksamer Nach=\"},\n    {\"n\": 77, \"text\": \"bohrung zu einem günstigen Resul=\"},\n    {\"n\": 78, \"text\": \"tat führen könnten.\"},\n    {\"n\": 79, \"text\": \"3) Bestehen in Dießbach zwei Ge=\"},\n    {\"n\": 80, \"text\": \"meindskäsereien, die der Nachah=\"},\n    {\"n\": 81, \"text\": \"mung verdienten.\"},\n    {\"n\": 82, \"text\": \"10*\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Speisewirth\",\n      \"place\": \"\",\n      \"surname\": \"Rüfli\",\n      \"forename\": \"Nikolaus\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"statt Rufli, Samuel.\",\n      \"text\": \"Speisewirth. Rüfli, Nikolaus, statt Rufli, Samuel.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Leuzigen. Pintenwirthe\",\n      \"place\": \"Leuzigen\",\n      \"surname\": \"Affolter\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Hinzugekommen sind:\",\n      \"text\": \"Pintenwirthe. Hinzugekommen sind: Affolter, Joh.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Leuzigen. Pintenwirthe\",\n      \"place\": \"Leuzigen\",\n      \"surname\": \"Haueter\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haueter Joh.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Leuzigen. Pintenwirthe\",\n      \"place\": \"Leuzigen\",\n      \"surname\": \"Käsermann\",\n      \"forename\": \"Steph.\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Käsermann, Steph.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Meinisberg. Hufschmied\",\n      \"place\": \"Meinisberg\",\n      \"surname\": \"Loebscher\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Hufschmied\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"aufgehört\",\n      \"text\": \"Hufschmied. Loebscher, Joh., aufgehört\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Meinisberg. Hufschmied\",\n      \"place\": \"Meinisberg\",\n      \"surname\": \"Kocher\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Hufschmied\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"dagegen\",\n      \"text\": \"dagegen Kocher.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Meyenried. Seiler\",\n      \"place\": \"Meyenried\",\n      \"surname\": \"Schneider\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Seiler\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Seiler. Schneider, Joh.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Meyenried. Wirth zum Schiff\",\n      \"place\": \"Meyenried\",\n      \"surname\": \"Schneider\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth zum Schiff\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Vorzeile\",\n      \"text\": \"Wirth zum Schiff: der gleiche.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Oberwyl. Badewirth\",\n      \"place\": \"Oberwyl\",\n      \"surname\": \"Ramser\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Badewirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Badewirth. Ramser.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Oberwyl. Müller\",\n      \"place\": \"Oberwyl\",\n      \"surname\": \"Leibundgut\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Müller. Leibundgut.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Oberwyl. Müller\",\n      \"place\": \"Oberwyl\",\n      \"surname\": \"Otti\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"„ Otti.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Oberwyl. Pintenwirthe\",\n      \"place\": \"Oberwyl\",\n      \"surname\": \"Lehmann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pintenwirthe. Lehmann.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Oberwyl. Pintenwirthe\",\n      \"place\": \"Oberwyl\",\n      \"surname\": \"Bandi\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"„ Bandi.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Oberwyl. Wirth zum Bären\",\n      \"place\": \"Oberwyl\",\n      \"surname\": \"Furer\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth zum Bären\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wirth zum Bären. Furer, Joh.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Oberwyl. Ziegler\",\n      \"place\": \"Oberwyl\",\n      \"surname\": \"Ramser\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Ziegler\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ziegler. Ramser, Joh.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Pieterlen. Kaufmann\",\n      \"place\": \"Pieterlen\",\n      \"surname\": \"Schwummer\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Kaufmann\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"hat aufgehört.\",\n      \"text\": \"Kaufmann. Schwummer, Johann, hat aufgehört.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Pieterlen. Krämer\",\n      \"place\": \"Pieterlen\",\n      \"surname\": \"Schädeli\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"hat aufgehört.\",\n      \"text\": \"Krämer. Schädeli, Samuel, hat aufgehört.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Pieterlen. Wirth zum Löwen\",\n      \"place\": \"Pieterlen\",\n      \"surname\": \"Schlupp\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth zum Löwen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"hat aufgehört.\",\n      \"text\": \"Wirth zum Löwen. Schlupp, Johann, hat aufgehört.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Pieterlen. Wirth zum Löwen\",\n      \"place\": \"Pieterlen\",\n      \"surname\": \"Mäschi\",\n      \"forename\": \"Gottlieb\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth zum Löwen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Dagegen\",\n      \"text\": \"Dagegen Mäschi, Gottlieb.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Pieterlen. Speisewirth\",\n      \"place\": \"Pieterlen\",\n      \"surname\": \"Kunz\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Speisewirth. Kunz, Abraham.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 33,\n      \"kind\": \"sonst\",\n      \"heading\": \"Pieterlen\",\n      \"place\": \"Pieterlen\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Die Namen Motter sollen heißen Matter.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Reiben. Wirth\",\n      \"place\": \"Reiben\",\n      \"surname\": \"Schneider\",\n      \"forename\": \"Ad.\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth zum Baselstab\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wirth. Schneider, Ad., zum Baselstab.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Reiben. Zunderfabrikant\",\n      \"place\": \"Reiben\",\n      \"surname\": \"Kaufmann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Zunderfabrikant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zunderfabrikant. Kaufmann.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Rotmund. Pintenwirth\",\n      \"place\": \"Rotmund\",\n      \"surname\": \"Läufer\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"hat aufgehört.\",\n      \"text\": \"Pintenwirth. Läufer, Joh., hat aufgehört.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Rotmund. Pintenwirth\",\n      \"place\": \"Rotmund\",\n      \"surname\": \"Huttiger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Dagegen ist\",\n      \"text\": \"Dagegen ist Huttiger.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 41,\n      \"kind\": \"sonst\",\n      \"heading\": \"Rotmund\",\n      \"place\": \"Rotmund\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Die Namen Schoß sollen heißen Chausse.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Garnbaucher\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Leuenberger\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Garnbaucher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Garnbaucher. Leuenberger, Jakob.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Krämer\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Riß\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Krämer. Riß, Samuel.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Krämer\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Hoffmann\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"„ Hoffmann, Heinrich.\"\n    },\n    {\n      \"line_from\": 46,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Müller\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Schlupp\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Müller. Schlupp, Joh.\"\n    },\n    {\n      \"line_from\": 47,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Pintenschenke\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Schlupp\",\n      \"forename\": \"Nik.\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenschenke\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pintenschenke. Schlupp, Nik.\"\n    },\n    {\n      \"line_from\": 48,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Pintenschenke\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Eggli\",\n      \"forename\": \"Urs\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenschenke\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"aufgehört.\",\n      \"text\": \"„ Eggli, Urs, aufgehört.\"\n    },\n    {\n      \"line_from\": 49,\n      \"line_to\": 49,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Saager\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Wachs\",\n      \"forename\": \"Urs\",\n      \"title\": \"\",\n      \"occupation\": \"Saager\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Saager. Wachs, Urs.\"\n    },\n    {\n      \"line_from\": 50,\n      \"line_to\": 50,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Schmied\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Hoffmann\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schmied\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schmied. Hoffmann, Heinrich.\"\n    },\n    {\n      \"line_from\": 51,\n      \"line_to\": 51,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Schreiner\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Stauffer\",\n      \"forename\": \"Nik.\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schreiner. Stauffer, Nik.\"\n    },\n    {\n      \"line_from\": 52,\n      \"line_to\": 52,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Schreiner\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Schlupp\",\n      \"forename\": \"Bend.\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"„ Schlupp, Bend.\"\n    },\n    {\n      \"line_from\": 53,\n      \"line_to\": 53,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Schreiner\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Schlupp\",\n      \"forename\": \"Stephan\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"„ Schlupp, Stephan.\"\n    },\n    {\n      \"line_from\": 54,\n      \"line_to\": 54,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Schreiner\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Schlupp\",\n      \"forename\": \"Urs\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"„ Schlupp, Urs.\"\n    },\n    {\n      \"line_from\": 55,\n      \"line_to\": 55,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Schreiner\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Schlupp\",\n      \"forename\": \"Nikolaus\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"„ Schlupp, Nikolaus.\"\n    },\n    {\n      \"line_from\": 56,\n      \"line_to\": 56,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Wagner\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Schlupp\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Wagner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wagner. Schlupp, Joh.\"\n    },\n    {\n      \"line_from\": 57,\n      \"line_to\": 57,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Wagner\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Rütz\",\n      \"forename\": \"Bend.\",\n      \"title\": \"\",\n      \"occupation\": \"Wagner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"„ Rütz, Bend.\"\n    },\n    {\n      \"line_from\": 58,\n      \"line_to\": 58,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Wagner\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Rütz\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Wagner\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"„ Rütz, Joh.\"\n    },\n    {\n      \"line_from\": 59,\n      \"line_to\": 59,\n      \"kind\": \"person\",\n      \"heading\": \"Rütti. Wirth zum Bären\",\n      \"place\": \"Rütti\",\n      \"surname\": \"Lanz\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth zum Bären\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wirth zum Bären. Lanz.\"\n    },\n    {\n      \"line_from\": 60,\n      \"line_to\": 60,\n      \"kind\": \"sonst\",\n      \"heading\": \"Rütti\",\n      \"place\": \"Rütti\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Die Kleinweinhändler fallen weg.\"\n    },\n    {\n      \"line_from\": 62,\n      \"line_to\": 62,\n      \"kind\": \"person\",\n      \"heading\": \"Schönenberg. Pintenwirth\",\n      \"place\": \"Schönenberg\",\n      \"surname\": \"Gilomann\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pintenwirth. Gilomann.\"\n    },\n    {\n      \"line_from\": 64,\n      \"line_to\": 64,\n      \"kind\": \"person\",\n      \"heading\": \"Waltwyl. Pintenwirth\",\n      \"place\": \"Waltwyl\",\n      \"surname\": \"Marti\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pintenwirth. Marti.\"\n    },\n    {\n      \"line_from\": 66,\n      \"line_to\": 66,\n      \"kind\": \"person\",\n      \"heading\": \"Wengi. Salzauswäger\",\n      \"place\": \"Wengi\",\n      \"surname\": \"Bangeter\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Salzauswäger\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Salzauswäger. Bangeter.\"\n    },\n    {\n      \"line_from\": 67,\n      \"line_to\": 67,\n      \"kind\": \"person\",\n      \"heading\": \"Wengi. Pintenwirth\",\n      \"place\": \"Wengi\",\n      \"surname\": \"Frieden\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pintenwirth. Frieden.\"\n    },\n    {\n      \"line_from\": 68,\n      \"line_to\": 68,\n      \"kind\": \"person\",\n      \"heading\": \"Wengi. Wirth zum Bären\",\n      \"place\": \"Wengi\",\n      \"surname\": \"Stämpfli\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth zum Bären\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wirth zum Bären. Stämpfli, Joh.\"\n    },\n    {\n      \"line_from\": 70,\n      \"line_to\": 72,\n      \"kind\": \"firma\",\n      \"heading\": \"Besondere Bemerkungen verdienen\",\n      \"place\": \"Büren\",\n      \"surname\": \"Kohler\",\n      \"forename\": \"Alb.\",\n      \"title\": \"Herrn\",\n      \"occupation\": \"Essigsiederei\",\n      \"address\": \"in Büren\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"1) Die so schön und zweckmäßig eingerichtete Essigsiederei des Herrn Alb. Kohler in Büren.\"\n    },\n    {\n      \"line_from\": 73,\n      \"line_to\": 78,\n      \"kind\": \"sonst\",\n      \"heading\": \"Besondere Bemerkungen verdienen\",\n      \"place\": \"Büren\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"2) Entdeckt man seit einiger Zeit auf dem rechten Aarufer bei Büren einzelne Spuren von Aspalt, die bei fleißiger und aufmerksamer Nachbohrung zu einem günstigen Resultat führen könnten.\"\n    },\n    {\n      \"line_from\": 79,\n      \"line_to\": 81,\n      \"kind\": \"institution\",\n      \"heading\": \"Besondere Bemerkungen verdienen\",\n      \"place\": \"Dießbach\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Gemeindskäsereien\",\n      \"address\": \"in Dießbach\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"3) Bestehen in Dießbach zwei Gemeindskäsereien, die der Nachahmung verdienten.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "93",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "93"
+   },
+   {
+    "n": 2,
+    "text": "Speisewirth. Rüfli, Nikolaus, statt"
+   },
+   {
+    "n": 3,
+    "text": "Rufli, Samuel."
+   },
+   {
+    "n": 4,
+    "text": "Leuzigen."
+   },
+   {
+    "n": 5,
+    "text": "Pintenwirthe. Hinzugekommen sind:"
+   },
+   {
+    "n": 6,
+    "text": "Affolter, Joh."
+   },
+   {
+    "n": 7,
+    "text": "Haueter Joh."
+   },
+   {
+    "n": 8,
+    "text": "Käsermann, Steph."
+   },
+   {
+    "n": 9,
+    "text": "Meinisberg."
+   },
+   {
+    "n": 10,
+    "text": "Hufschmied. Loebscher, Joh., aufgehört"
+   },
+   {
+    "n": 11,
+    "text": "dagegen Kocher."
+   },
+   {
+    "n": 12,
+    "text": "Meyenried."
+   },
+   {
+    "n": 13,
+    "text": "Seiler. Schneider, Joh."
+   },
+   {
+    "n": 14,
+    "text": "Wirth zum Schiff: der gleiche."
+   },
+   {
+    "n": 15,
+    "text": "Oberwyl."
+   },
+   {
+    "n": 16,
+    "text": "Badewirth. Ramser."
+   },
+   {
+    "n": 17,
+    "text": "Müller. Leibundgut."
+   },
+   {
+    "n": 18,
+    "text": "„ Otti."
+   },
+   {
+    "n": 19,
+    "text": "Pintenwirthe. Lehmann."
+   },
+   {
+    "n": 20,
+    "text": "„ Bandi."
+   },
+   {
+    "n": 21,
+    "text": "Wirth zum Bären. Furer, Joh."
+   },
+   {
+    "n": 22,
+    "text": "Ziegler. Ramser, Joh."
+   },
+   {
+    "n": 23,
+    "text": "Pieterlen."
+   },
+   {
+    "n": 24,
+    "text": "Kaufmann. Schwummer, Johann, hat"
+   },
+   {
+    "n": 25,
+    "text": "aufgehört."
+   },
+   {
+    "n": 26,
+    "text": "Krämer. Schädeli, Samuel, hat auf="
+   },
+   {
+    "n": 27,
+    "text": "gehört."
+   },
+   {
+    "n": 28,
+    "text": "Wirth zum Löwen. Schlupp, Johann,"
+   },
+   {
+    "n": 29,
+    "text": "hat aufgehört."
+   },
+   {
+    "n": 30,
+    "text": "Dagegen"
+   },
+   {
+    "n": 31,
+    "text": "Mäschi, Gottlieb."
+   },
+   {
+    "n": 32,
+    "text": "Speisewirth. Kunz, Abraham."
+   },
+   {
+    "n": 33,
+    "text": "Die Namen Motter sollen heißen Matter."
+   },
+   {
+    "n": 34,
+    "text": "Reiben."
+   },
+   {
+    "n": 35,
+    "text": "Wirth. Schneider, Ad., zum Baselstab."
+   },
+   {
+    "n": 36,
+    "text": "Zunderfabrikant. Kaufmann."
+   },
+   {
+    "n": 37,
+    "text": "Rotmund."
+   },
+   {
+    "n": 38,
+    "text": "Pintenwirth. Läufer, Joh., hat auf="
+   },
+   {
+    "n": 39,
+    "text": "gehört."
+   },
+   {
+    "n": 40,
+    "text": "Dagegen ist Huttiger."
+   },
+   {
+    "n": 41,
+    "text": "Die Namen Schoß sollen heißen Chausse."
+   },
+   {
+    "n": 42,
+    "text": "Rütti."
+   },
+   {
+    "n": 43,
+    "text": "Garnbaucher. Leuenberger, Jakob."
+   },
+   {
+    "n": 44,
+    "text": "Krämer. Riß, Samuel."
+   },
+   {
+    "n": 45,
+    "text": "„ Hoffmann, Heinrich."
+   },
+   {
+    "n": 46,
+    "text": "Müller. Schlupp, Joh."
+   },
+   {
+    "n": 47,
+    "text": "Pintenschenke. Schlupp, Nik."
+   },
+   {
+    "n": 48,
+    "text": "„ Eggli, Urs, aufgehört."
+   },
+   {
+    "n": 49,
+    "text": "Saager. Wachs, Urs."
+   },
+   {
+    "n": 50,
+    "text": "Schmied. Hoffmann, Heinrich."
+   },
+   {
+    "n": 51,
+    "text": "Schreiner. Stauffer, Nik."
+   },
+   {
+    "n": 52,
+    "text": "„ Schlupp, Bend."
+   },
+   {
+    "n": 53,
+    "text": "„ Schlupp, Stephan."
+   },
+   {
+    "n": 54,
+    "text": "„ Schlupp, Urs."
+   },
+   {
+    "n": 55,
+    "text": "„ Schlupp, Nikolaus."
+   },
+   {
+    "n": 56,
+    "text": "Wagner. Schlupp, Joh."
+   },
+   {
+    "n": 57,
+    "text": "„ Rütz, Bend."
+   },
+   {
+    "n": 58,
+    "text": "„ Rütz, Joh."
+   },
+   {
+    "n": 59,
+    "text": "Wirth zum Bären. Lanz."
+   },
+   {
+    "n": 60,
+    "text": "Die Kleinweinhändler fallen weg."
+   },
+   {
+    "n": 61,
+    "text": "Schönenberg."
+   },
+   {
+    "n": 62,
+    "text": "Pintenwirth. Gilomann."
+   },
+   {
+    "n": 63,
+    "text": "Waltwyl."
+   },
+   {
+    "n": 64,
+    "text": "Pintenwirth. Marti."
+   },
+   {
+    "n": 65,
+    "text": "Wengi."
+   },
+   {
+    "n": 66,
+    "text": "Salzauswäger. Bangeter."
+   },
+   {
+    "n": 67,
+    "text": "Pintenwirth. Frieden."
+   },
+   {
+    "n": 68,
+    "text": "Wirth zum Bären. Stämpfli, Joh."
+   },
+   {
+    "n": 69,
+    "text": "Besondere Bemerkungen verdienen:"
+   },
+   {
+    "n": 70,
+    "text": "1) Die so schön und zweckmäßig ein="
+   },
+   {
+    "n": 71,
+    "text": "gerichtete Essigsiederei des Herrn"
+   },
+   {
+    "n": 72,
+    "text": "Alb. Kohler in Büren."
+   },
+   {
+    "n": 73,
+    "text": "2) Entdeckt man seit einiger Zeit auf"
+   },
+   {
+    "n": 74,
+    "text": "dem rechten Aarufer bei Büren ein="
+   },
+   {
+    "n": 75,
+    "text": "zelne Spuren von Aspalt, die bei"
+   },
+   {
+    "n": 76,
+    "text": "fleißiger und aufmerksamer Nach="
+   },
+   {
+    "n": 77,
+    "text": "bohrung zu einem günstigen Resul="
+   },
+   {
+    "n": 78,
+    "text": "tat führen könnten."
+   },
+   {
+    "n": 79,
+    "text": "3) Bestehen in Dießbach zwei Ge="
+   },
+   {
+    "n": 80,
+    "text": "meindskäsereien, die der Nachah="
+   },
+   {
+    "n": 81,
+    "text": "mung verdienten."
+   },
+   {
+    "n": 82,
+    "text": "10*"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Speisewirth",
+    "place": "",
+    "surname": "Rüfli",
+    "forename": "Nikolaus",
+    "title": "",
+    "occupation": "Speisewirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "statt Rufli, Samuel.",
+    "text": "Speisewirth. Rüfli, Nikolaus, statt Rufli, Samuel."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Leuzigen. Pintenwirthe",
+    "place": "Leuzigen",
+    "surname": "Affolter",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Hinzugekommen sind:",
+    "text": "Pintenwirthe. Hinzugekommen sind: Affolter, Joh."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Leuzigen. Pintenwirthe",
+    "place": "Leuzigen",
+    "surname": "Haueter",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haueter Joh."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Leuzigen. Pintenwirthe",
+    "place": "Leuzigen",
+    "surname": "Käsermann",
+    "forename": "Steph.",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Käsermann, Steph."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Meinisberg. Hufschmied",
+    "place": "Meinisberg",
+    "surname": "Loebscher",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Hufschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "aufgehört",
+    "text": "Hufschmied. Loebscher, Joh., aufgehört"
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Meinisberg. Hufschmied",
+    "place": "Meinisberg",
+    "surname": "Kocher",
+    "forename": "",
+    "title": "",
+    "occupation": "Hufschmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "dagegen",
+    "text": "dagegen Kocher."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Meyenried. Seiler",
+    "place": "Meyenried",
+    "surname": "Schneider",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Seiler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Seiler. Schneider, Joh."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Meyenried. Wirth zum Schiff",
+    "place": "Meyenried",
+    "surname": "Schneider",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Wirth zum Schiff",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Vorzeile",
+    "text": "Wirth zum Schiff: der gleiche."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Oberwyl. Badewirth",
+    "place": "Oberwyl",
+    "surname": "Ramser",
+    "forename": "",
+    "title": "",
+    "occupation": "Badewirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Badewirth. Ramser."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Oberwyl. Müller",
+    "place": "Oberwyl",
+    "surname": "Leibundgut",
+    "forename": "",
+    "title": "",
+    "occupation": "Müller",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müller. Leibundgut."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Oberwyl. Müller",
+    "place": "Oberwyl",
+    "surname": "Otti",
+    "forename": "",
+    "title": "",
+    "occupation": "Müller",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "„ Otti."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Oberwyl. Pintenwirthe",
+    "place": "Oberwyl",
+    "surname": "Lehmann",
+    "forename": "",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pintenwirthe. Lehmann."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Oberwyl. Pintenwirthe",
+    "place": "Oberwyl",
+    "surname": "Bandi",
+    "forename": "",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "„ Bandi."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Oberwyl. Wirth zum Bären",
+    "place": "Oberwyl",
+    "surname": "Furer",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Wirth zum Bären",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wirth zum Bären. Furer, Joh."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Oberwyl. Ziegler",
+    "place": "Oberwyl",
+    "surname": "Ramser",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Ziegler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ziegler. Ramser, Joh."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Pieterlen. Kaufmann",
+    "place": "Pieterlen",
+    "surname": "Schwummer",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Kaufmann",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "hat aufgehört.",
+    "text": "Kaufmann. Schwummer, Johann, hat aufgehört."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Pieterlen. Krämer",
+    "place": "Pieterlen",
+    "surname": "Schädeli",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "hat aufgehört.",
+    "text": "Krämer. Schädeli, Samuel, hat aufgehört."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Pieterlen. Wirth zum Löwen",
+    "place": "Pieterlen",
+    "surname": "Schlupp",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Wirth zum Löwen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "hat aufgehört.",
+    "text": "Wirth zum Löwen. Schlupp, Johann, hat aufgehört."
+   },
+   {
+    "line_from": 30,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Pieterlen. Wirth zum Löwen",
+    "place": "Pieterlen",
+    "surname": "Mäschi",
+    "forename": "Gottlieb",
+    "title": "",
+    "occupation": "Wirth zum Löwen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Dagegen",
+    "text": "Dagegen Mäschi, Gottlieb."
+   },
+   {
+    "line_from": 32,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Pieterlen. Speisewirth",
+    "place": "Pieterlen",
+    "surname": "Kunz",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "Speisewirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Speisewirth. Kunz, Abraham."
+   },
+   {
+    "line_from": 33,
+    "line_to": 33,
+    "kind": "sonst",
+    "heading": "Pieterlen",
+    "place": "Pieterlen",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Die Namen Motter sollen heißen Matter."
+   },
+   {
+    "line_from": 35,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Reiben. Wirth",
+    "place": "Reiben",
+    "surname": "Schneider",
+    "forename": "Ad.",
+    "title": "",
+    "occupation": "Wirth zum Baselstab",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wirth. Schneider, Ad., zum Baselstab."
+   },
+   {
+    "line_from": 36,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Reiben. Zunderfabrikant",
+    "place": "Reiben",
+    "surname": "Kaufmann",
+    "forename": "",
+    "title": "",
+    "occupation": "Zunderfabrikant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zunderfabrikant. Kaufmann."
+   },
+   {
+    "line_from": 38,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Rotmund. Pintenwirth",
+    "place": "Rotmund",
+    "surname": "Läufer",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "hat aufgehört.",
+    "text": "Pintenwirth. Läufer, Joh., hat aufgehört."
+   },
+   {
+    "line_from": 40,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Rotmund. Pintenwirth",
+    "place": "Rotmund",
+    "surname": "Huttiger",
+    "forename": "",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Dagegen ist",
+    "text": "Dagegen ist Huttiger."
+   },
+   {
+    "line_from": 41,
+    "line_to": 41,
+    "kind": "sonst",
+    "heading": "Rotmund",
+    "place": "Rotmund",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Die Namen Schoß sollen heißen Chausse."
+   },
+   {
+    "line_from": 43,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Rütti. Garnbaucher",
+    "place": "Rütti",
+    "surname": "Leuenberger",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Garnbaucher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Garnbaucher. Leuenberger, Jakob."
+   },
+   {
+    "line_from": 44,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Rütti. Krämer",
+    "place": "Rütti",
+    "surname": "Riß",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Krämer. Riß, Samuel."
+   },
+   {
+    "line_from": 45,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Rütti. Krämer",
+    "place": "Rütti",
+    "surname": "Hoffmann",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "„ Hoffmann, Heinrich."
+   },
+   {
+    "line_from": 46,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "Rütti. Müller",
+    "place": "Rütti",
+    "surname": "Schlupp",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Müller",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müller. Schlupp, Joh."
+   },
+   {
+    "line_from": 47,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Rütti. Pintenschenke",
+    "place": "Rütti",
+    "surname": "Schlupp",
+    "forename": "Nik.",
+    "title": "",
+    "occupation": "Pintenschenke",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pintenschenke. Schlupp, Nik."
+   },
+   {
+    "line_from": 48,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "Rütti. Pintenschenke",
+    "place": "Rütti",
+    "surname": "Eggli",
+    "forename": "Urs",
+    "title": "",
+    "occupation": "Pintenschenke",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "aufgehört.",
+    "text": "„ Eggli, Urs, aufgehört."
+   },
+   {
+    "line_from": 49,
+    "line_to": 49,
+    "kind": "person",
+    "heading": "Rütti. Saager",
+    "place": "Rütti",
+    "surname": "Wachs",
+    "forename": "Urs",
+    "title": "",
+    "occupation": "Saager",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Saager. Wachs, Urs."
+   },
+   {
+    "line_from": 50,
+    "line_to": 50,
+    "kind": "person",
+    "heading": "Rütti. Schmied",
+    "place": "Rütti",
+    "surname": "Hoffmann",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Schmied",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schmied. Hoffmann, Heinrich."
+   },
+   {
+    "line_from": 51,
+    "line_to": 51,
+    "kind": "person",
+    "heading": "Rütti. Schreiner",
+    "place": "Rütti",
+    "surname": "Stauffer",
+    "forename": "Nik.",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schreiner. Stauffer, Nik."
+   },
+   {
+    "line_from": 52,
+    "line_to": 52,
+    "kind": "person",
+    "heading": "Rütti. Schreiner",
+    "place": "Rütti",
+    "surname": "Schlupp",
+    "forename": "Bend.",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "„ Schlupp, Bend."
+   },
+   {
+    "line_from": 53,
+    "line_to": 53,
+    "kind": "person",
+    "heading": "Rütti. Schreiner",
+    "place": "Rütti",
+    "surname": "Schlupp",
+    "forename": "Stephan",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "„ Schlupp, Stephan."
+   },
+   {
+    "line_from": 54,
+    "line_to": 54,
+    "kind": "person",
+    "heading": "Rütti. Schreiner",
+    "place": "Rütti",
+    "surname": "Schlupp",
+    "forename": "Urs",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "„ Schlupp, Urs."
+   },
+   {
+    "line_from": 55,
+    "line_to": 55,
+    "kind": "person",
+    "heading": "Rütti. Schreiner",
+    "place": "Rütti",
+    "surname": "Schlupp",
+    "forename": "Nikolaus",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "„ Schlupp, Nikolaus."
+   },
+   {
+    "line_from": 56,
+    "line_to": 56,
+    "kind": "person",
+    "heading": "Rütti. Wagner",
+    "place": "Rütti",
+    "surname": "Schlupp",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Wagner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wagner. Schlupp, Joh."
+   },
+   {
+    "line_from": 57,
+    "line_to": 57,
+    "kind": "person",
+    "heading": "Rütti. Wagner",
+    "place": "Rütti",
+    "surname": "Rütz",
+    "forename": "Bend.",
+    "title": "",
+    "occupation": "Wagner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "„ Rütz, Bend."
+   },
+   {
+    "line_from": 58,
+    "line_to": 58,
+    "kind": "person",
+    "heading": "Rütti. Wagner",
+    "place": "Rütti",
+    "surname": "Rütz",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Wagner",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "„ Rütz, Joh."
+   },
+   {
+    "line_from": 59,
+    "line_to": 59,
+    "kind": "person",
+    "heading": "Rütti. Wirth zum Bären",
+    "place": "Rütti",
+    "surname": "Lanz",
+    "forename": "",
+    "title": "",
+    "occupation": "Wirth zum Bären",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wirth zum Bären. Lanz."
+   },
+   {
+    "line_from": 60,
+    "line_to": 60,
+    "kind": "sonst",
+    "heading": "Rütti",
+    "place": "Rütti",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Die Kleinweinhändler fallen weg."
+   },
+   {
+    "line_from": 62,
+    "line_to": 62,
+    "kind": "person",
+    "heading": "Schönenberg. Pintenwirth",
+    "place": "Schönenberg",
+    "surname": "Gilomann",
+    "forename": "",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pintenwirth. Gilomann."
+   },
+   {
+    "line_from": 64,
+    "line_to": 64,
+    "kind": "person",
+    "heading": "Waltwyl. Pintenwirth",
+    "place": "Waltwyl",
+    "surname": "Marti",
+    "forename": "",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pintenwirth. Marti."
+   },
+   {
+    "line_from": 66,
+    "line_to": 66,
+    "kind": "person",
+    "heading": "Wengi. Salzauswäger",
+    "place": "Wengi",
+    "surname": "Bangeter",
+    "forename": "",
+    "title": "",
+    "occupation": "Salzauswäger",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Salzauswäger. Bangeter."
+   },
+   {
+    "line_from": 67,
+    "line_to": 67,
+    "kind": "person",
+    "heading": "Wengi. Pintenwirth",
+    "place": "Wengi",
+    "surname": "Frieden",
+    "forename": "",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pintenwirth. Frieden."
+   },
+   {
+    "line_from": 68,
+    "line_to": 68,
+    "kind": "person",
+    "heading": "Wengi. Wirth zum Bären",
+    "place": "Wengi",
+    "surname": "Stämpfli",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Wirth zum Bären",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wirth zum Bären. Stämpfli, Joh."
+   },
+   {
+    "line_from": 70,
+    "line_to": 72,
+    "kind": "firma",
+    "heading": "Besondere Bemerkungen verdienen",
+    "place": "Büren",
+    "surname": "Kohler",
+    "forename": "Alb.",
+    "title": "Herrn",
+    "occupation": "Essigsiederei",
+    "address": "in Büren",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "1) Die so schön und zweckmäßig eingerichtete Essigsiederei des Herrn Alb. Kohler in Büren."
+   },
+   {
+    "line_from": 73,
+    "line_to": 78,
+    "kind": "sonst",
+    "heading": "Besondere Bemerkungen verdienen",
+    "place": "Büren",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "2) Entdeckt man seit einiger Zeit auf dem rechten Aarufer bei Büren einzelne Spuren von Aspalt, die bei fleißiger und aufmerksamer Nachbohrung zu einem günstigen Resultat führen könnten."
+   },
+   {
+    "line_from": 79,
+    "line_to": 81,
+    "kind": "institution",
+    "heading": "Besondere Bemerkungen verdienen",
+    "place": "Dießbach",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "Gemeindskäsereien",
+    "address": "in Dießbach",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "3) Bestehen in Dießbach zwei Gemeindskäsereien, die der Nachahmung verdienten."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:53:29+01:00",
+ "last_error": null
+}

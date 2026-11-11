@@ -1,0 +1,518 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 61,
+ "section": "berufe",
+ "started": "2026-11-11T21:06:47+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 55.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2214,
+  "output": 4109,
+  "thoughts": 4055
+ },
+ "response_text": "{\n  \"printed_page\": \"53\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"53\"},\n    {\"n\": 2, \"text\": \"Nro.\"},\n    {\"n\": 3, \"text\": \"Heller, Johann Heinrich, Stalden … 2\"},\n    {\"n\": 4, \"text\": \"Kräuchi, Johann, Spitalgaße … 152\"},\n    {\"n\": 5, \"text\": \"Maurer, Johann, Keßlergaße … 286\"},\n    {\"n\": 6, \"text\": \"Rueffer, Friedrich, Spitalgaße … 142\"},\n    {\"n\": 7, \"text\": \"Ziegler, Carl, Aarberggaße … 35\"},\n    {\"n\": 8, \"text\": \"Zysset, Friedrich, Marktgaße … 41\"},\n    {\"n\": 9, \"text\": \"Sporer.\"},\n    {\"n\": 10, \"text\": \"Mader, Samuel, (Thor-Inspektor,) Bollwerk 81\"},\n    {\"n\": 11, \"text\": \"Sprachmeister.\"},\n    {\"n\": 12, \"text\": \"Belmond, Frau, (in der englischen Sprache,)\"},\n    {\"n\": 13, \"text\": \"Zwiebelngäßlein … 55\"},\n    {\"n\": 14, \"text\": \"Brunschweiler, (in der deutschen, englischen\"},\n    {\"n\": 15, \"text\": \"und italienischen Sprache), Keßlergaße 240\"},\n    {\"n\": 16, \"text\": \"Carry, (in der französischen und italienischen\"},\n    {\"n\": 17, \"text\": \"Sprache), Gerechtigkeitgaße … 134\"},\n    {\"n\": 18, \"text\": \"Fouché, (in der französischen Sprache), Kramgaße 210\"},\n    {\"n\": 19, \"text\": \"Fümeau, (in der französischen Sprache,) Kramgaße 153\"},\n    {\"n\": 20, \"text\": \"Müller, (in der lateinischen, englischen, deutschen\"},\n    {\"n\": 21, \"text\": \"und französischen Sprache,) Kramgaße 220\"},\n    {\"n\": 22, \"text\": \"Pichard, Johann, (in der französischen, italieni-\"},\n    {\"n\": 23, \"text\": \"schen und deutschen Sprache,) Marktgaße 31\"},\n    {\"n\": 24, \"text\": \"Steindrucker.\"},\n    {\"n\": 25, \"text\": \"Haag, Rudolf, vor dem obern Thor … 172\"},\n    {\"n\": 26, \"text\": \"Verlag, nebst musikalischen Instrumenten,\"},\n    {\"n\": 27, \"text\": \"Spitalgaße … 155\"},\n    {\"n\": 28, \"text\": \"Haller, Abrecht Emanuel, Metzgergaße … 92\"},\n    {\"n\": 29, \"text\": \"Wanaz, Albrecht, Kramgaße … 165\"},\n    {\"n\": 30, \"text\": \"Strümpfstuhl-Schlosser.\"},\n    {\"n\": 31, \"text\": \"Lüthi, Ulrich, Aarberggaße … 22\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heller\",\n      \"forename\": \"Johann Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Stalden 2\",\n      \"quarter\": \"\",\n      \"street\": \"Stalden\",\n      \"house_no\": \"2\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Heller, Johann Heinrich, Stalden 2\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kräuchi\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Spitalgaße 152\",\n      \"quarter\": \"\",\n      \"street\": \"Spitalgaße\",\n      \"house_no\": \"152\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kräuchi, Johann, Spitalgaße 152\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Maurer\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Keßlergaße 286\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaße\",\n      \"house_no\": \"286\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Maurer, Johann, Keßlergaße 286\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rueffer\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Spitalgaße 142\",\n      \"quarter\": \"\",\n      \"street\": \"Spitalgaße\",\n      \"house_no\": \"142\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rueffer, Friedrich, Spitalgaße 142\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ziegler\",\n      \"forename\": \"Carl\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 35\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"35\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ziegler, Carl, Aarberggaße 35\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zysset\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 41\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"41\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zysset, Friedrich, Marktgaße 41\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Sporer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mader\",\n      \"forename\": \"Samuel\",\n      \"title\": \"Thor-Inspektor\",\n      \"occupation\": \"\",\n      \"address\": \"Bollwerk 81\",\n      \"quarter\": \"\",\n      \"street\": \"Bollwerk\",\n      \"house_no\": \"81\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mader, Samuel, (Thor-Inspektor,) Bollwerk 81\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Sprachmeister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Belmond\",\n      \"forename\": \"\",\n      \"title\": \"Frau\",\n      \"occupation\": \"in der englischen Sprache\",\n      \"address\": \"Zwiebelngäßlein 55\",\n      \"quarter\": \"\",\n      \"street\": \"Zwiebelngäßlein\",\n      \"house_no\": \"55\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Belmond, Frau, (in der englischen Sprache,) Zwiebelngäßlein 55\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Sprachmeister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brunschweiler\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"in der deutschen, englischen und italienischen Sprache\",\n      \"address\": \"Keßlergaße 240\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaße\",\n      \"house_no\": \"240\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brunschweiler, (in der deutschen, englischen und italienischen Sprache), Keßlergaße 240\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Sprachmeister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Carry\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"in der französischen und italienischen Sprache\",\n      \"address\": \"Gerechtigkeitgaße 134\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"134\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Carry, (in der französischen und italienischen Sprache), Gerechtigkeitgaße 134\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Sprachmeister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fouché\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"in der französischen Sprache\",\n      \"address\": \"Kramgaße 210\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"210\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fouché, (in der französischen Sprache), Kramgaße 210\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Sprachmeister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fümeau\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"in der französischen Sprache\",\n      \"address\": \"Kramgaße 153\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"153\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fümeau, (in der französischen Sprache,) Kramgaße 153\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Sprachmeister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"in der lateinischen, englischen, deutschen und französischen Sprache\",\n      \"address\": \"Kramgaße 220\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"220\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Müller, (in der lateinischen, englischen, deutschen und französischen Sprache,) Kramgaße 220\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Sprachmeister.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pichard\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"in der französischen, italienischen und deutschen Sprache\",\n      \"address\": \"Marktgaße 31\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"31\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pichard, Johann, (in der französischen, italienischen und deutschen Sprache,) Marktgaße 31\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Steindrucker.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haag\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"vor dem obern Thor 172\",\n      \"quarter\": \"\",\n      \"street\": \"vor dem obern Thor\",\n      \"house_no\": \"172\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Verlag, nebst musikalischen Instrumenten, Spitalgaße 155\",\n      \"text\": \"Haag, Rudolf, vor dem obern Thor 172 Verlag, nebst musikalischen Instrumenten, Spitalgaße 155\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Steindrucker.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"Abrecht Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Metzgergaße 92\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgergaße\",\n      \"house_no\": \"92\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haller, Abrecht Emanuel, Metzgergaße 92\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Steindrucker.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wanaz\",\n      \"forename\": \"Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 165\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"165\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wanaz, Albrecht, Kramgaße 165\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Strümpfstuhl-Schlosser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lüthi\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 22\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"22\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lüthi, Ulrich, Aarberggaße 22\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "53",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "53"
+   },
+   {
+    "n": 2,
+    "text": "Nro."
+   },
+   {
+    "n": 3,
+    "text": "Heller, Johann Heinrich, Stalden … 2"
+   },
+   {
+    "n": 4,
+    "text": "Kräuchi, Johann, Spitalgaße … 152"
+   },
+   {
+    "n": 5,
+    "text": "Maurer, Johann, Keßlergaße … 286"
+   },
+   {
+    "n": 6,
+    "text": "Rueffer, Friedrich, Spitalgaße … 142"
+   },
+   {
+    "n": 7,
+    "text": "Ziegler, Carl, Aarberggaße … 35"
+   },
+   {
+    "n": 8,
+    "text": "Zysset, Friedrich, Marktgaße … 41"
+   },
+   {
+    "n": 9,
+    "text": "Sporer."
+   },
+   {
+    "n": 10,
+    "text": "Mader, Samuel, (Thor-Inspektor,) Bollwerk 81"
+   },
+   {
+    "n": 11,
+    "text": "Sprachmeister."
+   },
+   {
+    "n": 12,
+    "text": "Belmond, Frau, (in der englischen Sprache,)"
+   },
+   {
+    "n": 13,
+    "text": "Zwiebelngäßlein … 55"
+   },
+   {
+    "n": 14,
+    "text": "Brunschweiler, (in der deutschen, englischen"
+   },
+   {
+    "n": 15,
+    "text": "und italienischen Sprache), Keßlergaße 240"
+   },
+   {
+    "n": 16,
+    "text": "Carry, (in der französischen und italienischen"
+   },
+   {
+    "n": 17,
+    "text": "Sprache), Gerechtigkeitgaße … 134"
+   },
+   {
+    "n": 18,
+    "text": "Fouché, (in der französischen Sprache), Kramgaße 210"
+   },
+   {
+    "n": 19,
+    "text": "Fümeau, (in der französischen Sprache,) Kramgaße 153"
+   },
+   {
+    "n": 20,
+    "text": "Müller, (in der lateinischen, englischen, deutschen"
+   },
+   {
+    "n": 21,
+    "text": "und französischen Sprache,) Kramgaße 220"
+   },
+   {
+    "n": 22,
+    "text": "Pichard, Johann, (in der französischen, italieni-"
+   },
+   {
+    "n": 23,
+    "text": "schen und deutschen Sprache,) Marktgaße 31"
+   },
+   {
+    "n": 24,
+    "text": "Steindrucker."
+   },
+   {
+    "n": 25,
+    "text": "Haag, Rudolf, vor dem obern Thor … 172"
+   },
+   {
+    "n": 26,
+    "text": "Verlag, nebst musikalischen Instrumenten,"
+   },
+   {
+    "n": 27,
+    "text": "Spitalgaße … 155"
+   },
+   {
+    "n": 28,
+    "text": "Haller, Abrecht Emanuel, Metzgergaße … 92"
+   },
+   {
+    "n": 29,
+    "text": "Wanaz, Albrecht, Kramgaße … 165"
+   },
+   {
+    "n": 30,
+    "text": "Strümpfstuhl-Schlosser."
+   },
+   {
+    "n": 31,
+    "text": "Lüthi, Ulrich, Aarberggaße … 22"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Heller",
+    "forename": "Johann Heinrich",
+    "title": "",
+    "occupation": "",
+    "address": "Stalden 2",
+    "quarter": "",
+    "street": "Stalden",
+    "house_no": "2",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Heller, Johann Heinrich, Stalden 2"
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Kräuchi",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "",
+    "address": "Spitalgaße 152",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "152",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kräuchi, Johann, Spitalgaße 152"
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Maurer",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "",
+    "address": "Keßlergaße 286",
+    "quarter": "",
+    "street": "Keßlergaße",
+    "house_no": "286",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Maurer, Johann, Keßlergaße 286"
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Rueffer",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "",
+    "address": "Spitalgaße 142",
+    "quarter": "",
+    "street": "Spitalgaße",
+    "house_no": "142",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rueffer, Friedrich, Spitalgaße 142"
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Ziegler",
+    "forename": "Carl",
+    "title": "",
+    "occupation": "",
+    "address": "Aarberggaße 35",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "35",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ziegler, Carl, Aarberggaße 35"
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Zysset",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 41",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "41",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zysset, Friedrich, Marktgaße 41"
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Sporer.",
+    "place": "Bern",
+    "surname": "Mader",
+    "forename": "Samuel",
+    "title": "Thor-Inspektor",
+    "occupation": "",
+    "address": "Bollwerk 81",
+    "quarter": "",
+    "street": "Bollwerk",
+    "house_no": "81",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mader, Samuel, (Thor-Inspektor,) Bollwerk 81"
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Sprachmeister.",
+    "place": "Bern",
+    "surname": "Belmond",
+    "forename": "",
+    "title": "Frau",
+    "occupation": "in der englischen Sprache",
+    "address": "Zwiebelngäßlein 55",
+    "quarter": "",
+    "street": "Zwiebelngäßlein",
+    "house_no": "55",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Belmond, Frau, (in der englischen Sprache,) Zwiebelngäßlein 55"
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Sprachmeister.",
+    "place": "Bern",
+    "surname": "Brunschweiler",
+    "forename": "",
+    "title": "",
+    "occupation": "in der deutschen, englischen und italienischen Sprache",
+    "address": "Keßlergaße 240",
+    "quarter": "",
+    "street": "Keßlergaße",
+    "house_no": "240",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brunschweiler, (in der deutschen, englischen und italienischen Sprache), Keßlergaße 240"
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Sprachmeister.",
+    "place": "Bern",
+    "surname": "Carry",
+    "forename": "",
+    "title": "",
+    "occupation": "in der französischen und italienischen Sprache",
+    "address": "Gerechtigkeitgaße 134",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "134",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Carry, (in der französischen und italienischen Sprache), Gerechtigkeitgaße 134"
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Sprachmeister.",
+    "place": "Bern",
+    "surname": "Fouché",
+    "forename": "",
+    "title": "",
+    "occupation": "in der französischen Sprache",
+    "address": "Kramgaße 210",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "210",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fouché, (in der französischen Sprache), Kramgaße 210"
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Sprachmeister.",
+    "place": "Bern",
+    "surname": "Fümeau",
+    "forename": "",
+    "title": "",
+    "occupation": "in der französischen Sprache",
+    "address": "Kramgaße 153",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "153",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fümeau, (in der französischen Sprache,) Kramgaße 153"
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Sprachmeister.",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "",
+    "title": "",
+    "occupation": "in der lateinischen, englischen, deutschen und französischen Sprache",
+    "address": "Kramgaße 220",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "220",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müller, (in der lateinischen, englischen, deutschen und französischen Sprache,) Kramgaße 220"
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Sprachmeister.",
+    "place": "Bern",
+    "surname": "Pichard",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "in der französischen, italienischen und deutschen Sprache",
+    "address": "Marktgaße 31",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "31",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pichard, Johann, (in der französischen, italienischen und deutschen Sprache,) Marktgaße 31"
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Steindrucker.",
+    "place": "Bern",
+    "surname": "Haag",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "",
+    "address": "vor dem obern Thor 172",
+    "quarter": "",
+    "street": "vor dem obern Thor",
+    "house_no": "172",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Verlag, nebst musikalischen Instrumenten, Spitalgaße 155",
+    "text": "Haag, Rudolf, vor dem obern Thor 172 Verlag, nebst musikalischen Instrumenten, Spitalgaße 155"
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Steindrucker.",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "Abrecht Emanuel",
+    "title": "",
+    "occupation": "",
+    "address": "Metzgergaße 92",
+    "quarter": "",
+    "street": "Metzgergaße",
+    "house_no": "92",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haller, Abrecht Emanuel, Metzgergaße 92"
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Steindrucker.",
+    "place": "Bern",
+    "surname": "Wanaz",
+    "forename": "Albrecht",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 165",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "165",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wanaz, Albrecht, Kramgaße 165"
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Strümpfstuhl-Schlosser.",
+    "place": "Bern",
+    "surname": "Lüthi",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "",
+    "address": "Aarberggaße 22",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "22",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lüthi, Ulrich, Aarberggaße 22"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:07:43+01:00",
+ "last_error": null
+}

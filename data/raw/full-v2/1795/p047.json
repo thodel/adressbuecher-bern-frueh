@@ -1,0 +1,45 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 47,
+ "section": "handbuch",
+ "started": "2026-11-11T20:50:38+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 12.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 99,
+  "thoughts": 1209
+ },
+ "response_text": "{\"printed_page\": null, \"running_head\": null, \"lines\": [{\"n\": 1, \"text\": \"D a s\"}, {\"n\": 2, \"text\": \"P A Y S de V A U D\"}, {\"n\": 3, \"text\": \"B e r n e r Gebiets.\"}], \"entries\": [], \"first_entry_continues\": false, \"last_entry_continues\": false, \"complete\": true}",
+ "parsed": {
+  "printed_page": null,
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "D a s"
+   },
+   {
+    "n": 2,
+    "text": "P A Y S de V A U D"
+   },
+   {
+    "n": 3,
+    "text": "B e r n e r Gebiets."
+   }
+  ],
+  "entries": [],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:50:51+01:00",
+ "last_error": null
+}

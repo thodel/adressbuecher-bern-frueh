@@ -1,0 +1,258 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 34,
+ "section": "handbuch",
+ "started": "2026-11-11T20:48:56+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 200.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 1944,
+  "thoughts": 23724
+ },
+ "response_text": "{\n  \"printed_page\": \"32\",\n  \"running_head\": \"Nidau.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"32 Nidau.\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Christoph Hönniges, Gold- und Silberarbei-\"},\n    {\"n\": 4, \"text\": \"ter, ist mit einem beträchtlichen Vorrath an Gold\"},\n    {\"n\": 5, \"text\": \"und Silberarbeit versehen; übernimmt auch Commis-\"},\n    {\"n\": 6, \"text\": \"sionen, für gemahlte Papiertapeten, so wohl von\"},\n    {\"n\": 7, \"text\": \"inländischer Fabrication, als auch Pariser-Tapeten,\"},\n    {\"n\": 8, \"text\": \"en gros & en détail.\"},\n    {\"n\": 9, \"text\": \"Nidau.\"},\n    {\"n\": 10, \"text\": \"Joh. Peter Hartmann, junior, fabriciert star-\"},\n    {\"n\": 11, \"text\": \"ke halbleinen und halbwollene Stoffe, sowohl ein-\"},\n    {\"n\": 12, \"text\": \"färbig als gestreift, zu Manns- und Frauenkleidern,\"},\n    {\"n\": 13, \"text\": \"desgleichen wollene Tücher und Strickwolle.\"},\n    {\"n\": 14, \"text\": \"Rudolf Pagan, jünger, hat eine Eisen-Stahl-\"},\n    {\"n\": 15, \"text\": \"und Blechhandlung, und übernimmt Commision und\"},\n    {\"n\": 16, \"text\": \"Spedition.\"},\n    {\"n\": 17, \"text\": \"Hausknecht, Bucher und Hubler, Wollen-\"},\n    {\"n\": 18, \"text\": \"tücher, hänfen und leinen Tuch; Faden und Garn-\"},\n    {\"n\": 19, \"text\": \"handlung, sammt allem was zu einem wohleinge-\"},\n    {\"n\": 20, \"text\": \"richteten Magazin gehört, fabricieren auch selbst\"},\n    {\"n\": 21, \"text\": \"Tücher.\"},\n    {\"n\": 22, \"text\": \"Emanuel Fridrich Bolz, Droguist en détail, hat\"},\n    {\"n\": 23, \"text\": \"auch Band und etwas Clinquaillerie.\"},\n    {\"n\": 24, \"text\": \"St. Niklaus bey Nidau.\"},\n    {\"n\": 25, \"text\": \"Benedikt Gürtner, fabriciert aller Arten Halb-\"},\n    {\"n\": 26, \"text\": \"leinene\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Nidau\",\n      \"place\": \"Nidau\",\n      \"surname\": \"Hönniges\",\n      \"forename\": \"Christoph\",\n      \"title\": \"Herr\",\n      \"occupation\": \"Gold- und Silberarbeiter\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Christoph Hönniges, Gold- und Silberarbeiter, ist mit einem beträchtlichen Vorrath an Gold und Silberarbeit versehen; übernimmt auch Commissionen, für gemahlte Papiertapeten, so wohl von inländischer Fabrication, als auch Pariser-Tapeten, en gros & en détail.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Nidau\",\n      \"place\": \"Nidau\",\n      \"surname\": \"Hartmann\",\n      \"forename\": \"Joh. Peter\",\n      \"title\": \"junior\",\n      \"occupation\": \"fabriciert starke halbleinen und halbwollene Stoffe, sowohl einfärbig als gestreift, zu Manns- und Frauenkleidern, desgleichen wollene Tücher und Strickwolle\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Peter Hartmann, junior, fabriciert starke halbleinen und halbwollene Stoffe, sowohl einfärbig als gestreift, zu Manns- und Frauenkleidern, desgleichen wollene Tücher und Strickwolle.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Nidau\",\n      \"place\": \"Nidau\",\n      \"surname\": \"Pagan\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"jünger\",\n      \"occupation\": \"hat eine Eisen-Stahl- und Blechhandlung, und übernimmt Commision und Spedition\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rudolf Pagan, jünger, hat eine Eisen-Stahl- und Blechhandlung, und übernimmt Commision und Spedition.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 21,\n      \"kind\": \"firma\",\n      \"heading\": \"Nidau\",\n      \"place\": \"Nidau\",\n      \"surname\": \"Hausknecht, Bucher und Hubler\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Wollentücher, hänfen und leinen Tuch; Faden und Garnhandlung, sammt allem was zu einem wohleingerichteten Magazin gehört, fabricieren auch selbst Tücher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hausknecht, Bucher und Hubler, Wollentücher, hänfen und leinen Tuch; Faden und Garnhandlung, sammt allem was zu einem wohleingerichteten Magazin gehört, fabricieren auch selbst Tücher.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Nidau\",\n      \"place\": \"Nidau\",\n      \"surname\": \"Bolz\",\n      \"forename\": \"Emanuel Fridrich\",\n      \"title\": \"\",\n      \"occupation\": \"Droguist en détail, hat auch Band und etwas Clinquaillerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Emanuel Fridrich Bolz, Droguist en détail, hat auch Band und etwas Clinquaillerie.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"St. Niklaus bey Nidau\",\n      \"place\": \"St. Niklaus bey Nidau\",\n      \"surname\": \"Gürtner\",\n      \"forename\": \"Benedikt\",\n      \"title\": \"\",\n      \"occupation\": \"fabriciert aller Arten Halbleinene\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Benedikt Gürtner, fabriciert aller Arten Halbleinene\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "32",
+  "running_head": "Nidau.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "32 Nidau."
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Christoph Hönniges, Gold- und Silberarbei-"
+   },
+   {
+    "n": 4,
+    "text": "ter, ist mit einem beträchtlichen Vorrath an Gold"
+   },
+   {
+    "n": 5,
+    "text": "und Silberarbeit versehen; übernimmt auch Commis-"
+   },
+   {
+    "n": 6,
+    "text": "sionen, für gemahlte Papiertapeten, so wohl von"
+   },
+   {
+    "n": 7,
+    "text": "inländischer Fabrication, als auch Pariser-Tapeten,"
+   },
+   {
+    "n": 8,
+    "text": "en gros & en détail."
+   },
+   {
+    "n": 9,
+    "text": "Nidau."
+   },
+   {
+    "n": 10,
+    "text": "Joh. Peter Hartmann, junior, fabriciert star-"
+   },
+   {
+    "n": 11,
+    "text": "ke halbleinen und halbwollene Stoffe, sowohl ein-"
+   },
+   {
+    "n": 12,
+    "text": "färbig als gestreift, zu Manns- und Frauenkleidern,"
+   },
+   {
+    "n": 13,
+    "text": "desgleichen wollene Tücher und Strickwolle."
+   },
+   {
+    "n": 14,
+    "text": "Rudolf Pagan, jünger, hat eine Eisen-Stahl-"
+   },
+   {
+    "n": 15,
+    "text": "und Blechhandlung, und übernimmt Commision und"
+   },
+   {
+    "n": 16,
+    "text": "Spedition."
+   },
+   {
+    "n": 17,
+    "text": "Hausknecht, Bucher und Hubler, Wollen-"
+   },
+   {
+    "n": 18,
+    "text": "tücher, hänfen und leinen Tuch; Faden und Garn-"
+   },
+   {
+    "n": 19,
+    "text": "handlung, sammt allem was zu einem wohleinge-"
+   },
+   {
+    "n": 20,
+    "text": "richteten Magazin gehört, fabricieren auch selbst"
+   },
+   {
+    "n": 21,
+    "text": "Tücher."
+   },
+   {
+    "n": 22,
+    "text": "Emanuel Fridrich Bolz, Droguist en détail, hat"
+   },
+   {
+    "n": 23,
+    "text": "auch Band und etwas Clinquaillerie."
+   },
+   {
+    "n": 24,
+    "text": "St. Niklaus bey Nidau."
+   },
+   {
+    "n": 25,
+    "text": "Benedikt Gürtner, fabriciert aller Arten Halb-"
+   },
+   {
+    "n": 26,
+    "text": "leinene"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Nidau",
+    "place": "Nidau",
+    "surname": "Hönniges",
+    "forename": "Christoph",
+    "title": "Herr",
+    "occupation": "Gold- und Silberarbeiter",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Christoph Hönniges, Gold- und Silberarbeiter, ist mit einem beträchtlichen Vorrath an Gold und Silberarbeit versehen; übernimmt auch Commissionen, für gemahlte Papiertapeten, so wohl von inländischer Fabrication, als auch Pariser-Tapeten, en gros & en détail."
+   },
+   {
+    "line_from": 10,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Nidau",
+    "place": "Nidau",
+    "surname": "Hartmann",
+    "forename": "Joh. Peter",
+    "title": "junior",
+    "occupation": "fabriciert starke halbleinen und halbwollene Stoffe, sowohl einfärbig als gestreift, zu Manns- und Frauenkleidern, desgleichen wollene Tücher und Strickwolle",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Peter Hartmann, junior, fabriciert starke halbleinen und halbwollene Stoffe, sowohl einfärbig als gestreift, zu Manns- und Frauenkleidern, desgleichen wollene Tücher und Strickwolle."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Nidau",
+    "place": "Nidau",
+    "surname": "Pagan",
+    "forename": "Rudolf",
+    "title": "jünger",
+    "occupation": "hat eine Eisen-Stahl- und Blechhandlung, und übernimmt Commision und Spedition",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rudolf Pagan, jünger, hat eine Eisen-Stahl- und Blechhandlung, und übernimmt Commision und Spedition."
+   },
+   {
+    "line_from": 17,
+    "line_to": 21,
+    "kind": "firma",
+    "heading": "Nidau",
+    "place": "Nidau",
+    "surname": "Hausknecht, Bucher und Hubler",
+    "forename": "",
+    "title": "",
+    "occupation": "Wollentücher, hänfen und leinen Tuch; Faden und Garnhandlung, sammt allem was zu einem wohleingerichteten Magazin gehört, fabricieren auch selbst Tücher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hausknecht, Bucher und Hubler, Wollentücher, hänfen und leinen Tuch; Faden und Garnhandlung, sammt allem was zu einem wohleingerichteten Magazin gehört, fabricieren auch selbst Tücher."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Nidau",
+    "place": "Nidau",
+    "surname": "Bolz",
+    "forename": "Emanuel Fridrich",
+    "title": "",
+    "occupation": "Droguist en détail, hat auch Band und etwas Clinquaillerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Emanuel Fridrich Bolz, Droguist en détail, hat auch Band und etwas Clinquaillerie."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "St. Niklaus bey Nidau",
+    "place": "St. Niklaus bey Nidau",
+    "surname": "Gürtner",
+    "forename": "Benedikt",
+    "title": "",
+    "occupation": "fabriciert aller Arten Halbleinene",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Benedikt Gürtner, fabriciert aller Arten Halbleinene"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:52:16+01:00",
+ "last_error": null
+}

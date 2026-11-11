@@ -1,0 +1,374 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 196,
+ "section": "beamte",
+ "started": "2026-11-11T22:13:55+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 46.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2428,
+  "output": 3418,
+  "thoughts": 3884
+ },
+ "response_text": "{\n  \"printed_page\": \"183\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 183 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Zürcher.\"},\n    {\"n\": 4, \"text\": \"1 Samuel Heinrich, Schreiner, a. Horgen, K. Zürich -\"},\n    {\"n\": 5, \"text\": \"II, 52.\"},\n    {\"n\": 6, \"text\": \"815 Fr. - Kath. Schorer a. Wangen.\"},\n    {\"n\": 7, \"text\": \"5 K. — 839 Kath. Karolina. — 41 Johann Adolf. —\"},\n    {\"n\": 8, \"text\": \"(3 K. nicht eingeschrieben.)\"},\n    {\"n\": 9, \"text\": \"2 Maria Barbara, geb. Nöthlisberger, Ausschenkerin, a.\"},\n    {\"n\": 10, \"text\": \"Rüegsau - I, 19.\"},\n    {\"n\": 11, \"text\": \"Zuffi.\"},\n    {\"n\": 12, \"text\": \"1 790 Marie Rose, geb. Engler, gew. Chocoladenfabrikantin,\"},\n    {\"n\": 13, \"text\": \"a. Neuenstadt - IV, 161.\"},\n    {\"n\": 14, \"text\": \"2 K. — 816 Elis. Sophie. — 18 Charles Barthol.\"},\n    {\"n\": 15, \"text\": \"Zumbrunn.\"},\n    {\"n\": 16, \"text\": \"1 793 Emanuel, Schreiber, a. Erlenbach - II, 8.\"},\n    {\"n\": 17, \"text\": \"813 Fr. - Julie Grimm a. Burgdorf.\"},\n    {\"n\": 18, \"text\": \"3 K. — 837 Gottfried Emanuel. — 39 Julie Maria.\"},\n    {\"n\": 19, \"text\": \"— 42 Joh. Gottlieb.\"},\n    {\"n\": 20, \"text\": \"Zumbrunnen.\"},\n    {\"n\": 21, \"text\": \"1 822 Barbara Rosina, geb. Rohrbach, Hebamme, des gew.\"},\n    {\"n\": 22, \"text\": \"Kommissionärs Frau, a. Zweisimmen - V, 203.\"},\n    {\"n\": 23, \"text\": \"Zurbrügg.\"},\n    {\"n\": 24, \"text\": \"1 820 Johann, Schuhmacher, a. Reichenbach b. Frutigen -\"},\n    {\"n\": 25, \"text\": \"IV, 32.\"},\n    {\"n\": 26, \"text\": \"819 Fr. - Barbara Reber a. Innerbirrmoos.\"},\n    {\"n\": 27, \"text\": \"Zurflüh.\"},\n    {\"n\": 28, \"text\": \"1 789 Jakob, Mezger, a. Wynigen - IV, 5.\"},\n    {\"n\": 29, \"text\": \"792 Fr. - Barb. Hagi a. Hünigen.\"},\n    {\"n\": 30, \"text\": \"6 K. — 823 Maria. — 24 Katharina. — 25 Barbara.\"},\n    {\"n\": 31, \"text\": \"— 28 Marg. Kath. — 31 Johann Jakob. — 33 Rosina\"},\n    {\"n\": 32, \"text\": \"Margaritha.\"},\n    {\"n\": 33, \"text\": \"Zutter.\"},\n    {\"n\": 34, \"text\": \"1 822 Christian, Schlosser, a. Uetendorf - II, 10 b.\"},\n    {\"n\": 35, \"text\": \"Fr. - Magd. Gerber, verw. Petri.\"},\n    {\"n\": 36, \"text\": \"3 S. — 846 Franz Ludw. Eduard u. Dan. Nikl. Christ.\"},\n    {\"n\": 37, \"text\": \"— 48 Franz.\"},\n    {\"n\": 38, \"text\": \"Zwahlen.\"},\n    {\"n\": 39, \"text\": \"1 792 Barbara, geb. Schindler, Käsehändlerin, a. Guggis-\"},\n    {\"n\": 40, \"text\": \"berg - II, 202.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Zürcher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zürcher\",\n      \"forename\": \"Samuel Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"II, 52\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"52\",\n      \"origin\": \"Horgen, K. Zürich\",\n      \"birth_year\": \"\",\n      \"household\": \"815 Fr. - Kath. Schorer a. Wangen. ; 5 K. — 839 Kath. Karolina. — 41 Johann Adolf. — (3 K. nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Samuel Heinrich, Schreiner, a. Horgen, K. Zürich - II, 52. 815 Fr. - Kath. Schorer a. Wangen. 5 K. — 839 Kath. Karolina. — 41 Johann Adolf. — (3 K. nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Zürcher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zürcher\",\n      \"forename\": \"Maria Barbara\",\n      \"title\": \"geb. Nöthlisberger\",\n      \"occupation\": \"Ausschenkerin\",\n      \"address\": \"I, 19\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"19\",\n      \"origin\": \"Rüegsau\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 Maria Barbara, geb. Nöthlisberger, Ausschenkerin, a. Rüegsau - I, 19.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Zuffi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zuffi\",\n      \"forename\": \"Marie Rose\",\n      \"title\": \"geb. Engler\",\n      \"occupation\": \"gew. Chocoladenfabrikantin\",\n      \"address\": \"IV, 161\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"161\",\n      \"origin\": \"Neuenstadt\",\n      \"birth_year\": \"1790\",\n      \"household\": \"2 K. — 816 Elis. Sophie. — 18 Charles Barthol.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Marie Rose, geb. Engler, gew. Chocoladenfabrikantin, a. Neuenstadt - IV, 161. 2 K. — 816 Elis. Sophie. — 18 Charles Barthol.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Zumbrunn.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zumbrunn\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"II, 8\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"8\",\n      \"origin\": \"Erlenbach\",\n      \"birth_year\": \"1793\",\n      \"household\": \"813 Fr. - Julie Grimm a. Burgdorf. ; 3 K. — 837 Gottfried Emanuel. — 39 Julie Maria. — 42 Joh. Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 793 Emanuel, Schreiber, a. Erlenbach - II, 8. 813 Fr. - Julie Grimm a. Burgdorf. 3 K. — 837 Gottfried Emanuel. — 39 Julie Maria. — 42 Joh. Gottlieb.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Zumbrunnen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zumbrunnen\",\n      \"forename\": \"Barbara Rosina\",\n      \"title\": \"geb. Rohrbach, des gew. Kommissionärs Frau\",\n      \"occupation\": \"Hebamme\",\n      \"address\": \"V, 203\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"203\",\n      \"origin\": \"Zweisimmen\",\n      \"birth_year\": \"1822\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 822 Barbara Rosina, geb. Rohrbach, Hebamme, des gew. Kommissionärs Frau, a. Zweisimmen - V, 203.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Zurbrügg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zurbrügg\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 32\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"32\",\n      \"origin\": \"Reichenbach b. Frutigen\",\n      \"birth_year\": \"1820\",\n      \"household\": \"819 Fr. - Barbara Reber a. Innerbirrmoos.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 820 Johann, Schuhmacher, a. Reichenbach b. Frutigen - IV, 32. 819 Fr. - Barbara Reber a. Innerbirrmoos.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Zurflüh.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zurflüh\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Mezger\",\n      \"address\": \"IV, 5\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"5\",\n      \"origin\": \"Wynigen\",\n      \"birth_year\": \"1789\",\n      \"household\": \"792 Fr. - Barb. Hagi a. Hünigen. ; 6 K. — 823 Maria. — 24 Katharina. — 25 Barbara. — 28 Marg. Kath. — 31 Johann Jakob. — 33 Rosina Margaritha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 789 Jakob, Mezger, a. Wynigen - IV, 5. 792 Fr. - Barb. Hagi a. Hünigen. 6 K. — 823 Maria. — 24 Katharina. — 25 Barbara. — 28 Marg. Kath. — 31 Johann Jakob. — 33 Rosina Margaritha.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Zutter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zutter\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schlosser\",\n      \"address\": \"II, 10 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"10 b\",\n      \"origin\": \"Uetendorf\",\n      \"birth_year\": \"1822\",\n      \"household\": \"Fr. - Magd. Gerber, verw. Petri. ; 3 S. — 846 Franz Ludw. Eduard u. Dan. Nikl. Christ. — 48 Franz.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 822 Christian, Schlosser, a. Uetendorf - II, 10 b. Fr. - Magd. Gerber, verw. Petri. 3 S. — 846 Franz Ludw. Eduard u. Dan. Nikl. Christ. — 48 Franz.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Zwahlen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Zwahlen\",\n      \"forename\": \"Barbara\",\n      \"title\": \"geb. Schindler\",\n      \"occupation\": \"Käsehändlerin\",\n      \"address\": \"II, 202\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"202\",\n      \"origin\": \"Guggisberg\",\n      \"birth_year\": \"1792\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 792 Barbara, geb. Schindler, Käsehändlerin, a. Guggisberg - II, 202.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "183",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 183 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Zürcher."
+   },
+   {
+    "n": 4,
+    "text": "1 Samuel Heinrich, Schreiner, a. Horgen, K. Zürich -"
+   },
+   {
+    "n": 5,
+    "text": "II, 52."
+   },
+   {
+    "n": 6,
+    "text": "815 Fr. - Kath. Schorer a. Wangen."
+   },
+   {
+    "n": 7,
+    "text": "5 K. — 839 Kath. Karolina. — 41 Johann Adolf. —"
+   },
+   {
+    "n": 8,
+    "text": "(3 K. nicht eingeschrieben.)"
+   },
+   {
+    "n": 9,
+    "text": "2 Maria Barbara, geb. Nöthlisberger, Ausschenkerin, a."
+   },
+   {
+    "n": 10,
+    "text": "Rüegsau - I, 19."
+   },
+   {
+    "n": 11,
+    "text": "Zuffi."
+   },
+   {
+    "n": 12,
+    "text": "1 790 Marie Rose, geb. Engler, gew. Chocoladenfabrikantin,"
+   },
+   {
+    "n": 13,
+    "text": "a. Neuenstadt - IV, 161."
+   },
+   {
+    "n": 14,
+    "text": "2 K. — 816 Elis. Sophie. — 18 Charles Barthol."
+   },
+   {
+    "n": 15,
+    "text": "Zumbrunn."
+   },
+   {
+    "n": 16,
+    "text": "1 793 Emanuel, Schreiber, a. Erlenbach - II, 8."
+   },
+   {
+    "n": 17,
+    "text": "813 Fr. - Julie Grimm a. Burgdorf."
+   },
+   {
+    "n": 18,
+    "text": "3 K. — 837 Gottfried Emanuel. — 39 Julie Maria."
+   },
+   {
+    "n": 19,
+    "text": "— 42 Joh. Gottlieb."
+   },
+   {
+    "n": 20,
+    "text": "Zumbrunnen."
+   },
+   {
+    "n": 21,
+    "text": "1 822 Barbara Rosina, geb. Rohrbach, Hebamme, des gew."
+   },
+   {
+    "n": 22,
+    "text": "Kommissionärs Frau, a. Zweisimmen - V, 203."
+   },
+   {
+    "n": 23,
+    "text": "Zurbrügg."
+   },
+   {
+    "n": 24,
+    "text": "1 820 Johann, Schuhmacher, a. Reichenbach b. Frutigen -"
+   },
+   {
+    "n": 25,
+    "text": "IV, 32."
+   },
+   {
+    "n": 26,
+    "text": "819 Fr. - Barbara Reber a. Innerbirrmoos."
+   },
+   {
+    "n": 27,
+    "text": "Zurflüh."
+   },
+   {
+    "n": 28,
+    "text": "1 789 Jakob, Mezger, a. Wynigen - IV, 5."
+   },
+   {
+    "n": 29,
+    "text": "792 Fr. - Barb. Hagi a. Hünigen."
+   },
+   {
+    "n": 30,
+    "text": "6 K. — 823 Maria. — 24 Katharina. — 25 Barbara."
+   },
+   {
+    "n": 31,
+    "text": "— 28 Marg. Kath. — 31 Johann Jakob. — 33 Rosina"
+   },
+   {
+    "n": 32,
+    "text": "Margaritha."
+   },
+   {
+    "n": 33,
+    "text": "Zutter."
+   },
+   {
+    "n": 34,
+    "text": "1 822 Christian, Schlosser, a. Uetendorf - II, 10 b."
+   },
+   {
+    "n": 35,
+    "text": "Fr. - Magd. Gerber, verw. Petri."
+   },
+   {
+    "n": 36,
+    "text": "3 S. — 846 Franz Ludw. Eduard u. Dan. Nikl. Christ."
+   },
+   {
+    "n": 37,
+    "text": "— 48 Franz."
+   },
+   {
+    "n": 38,
+    "text": "Zwahlen."
+   },
+   {
+    "n": 39,
+    "text": "1 792 Barbara, geb. Schindler, Käsehändlerin, a. Guggis-"
+   },
+   {
+    "n": 40,
+    "text": "berg - II, 202."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Zürcher.",
+    "place": "Bern",
+    "surname": "Zürcher",
+    "forename": "Samuel Heinrich",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "II, 52",
+    "quarter": "II",
+    "street": "",
+    "house_no": "52",
+    "origin": "Horgen, K. Zürich",
+    "birth_year": "",
+    "household": "815 Fr. - Kath. Schorer a. Wangen. ; 5 K. — 839 Kath. Karolina. — 41 Johann Adolf. — (3 K. nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Samuel Heinrich, Schreiner, a. Horgen, K. Zürich - II, 52. 815 Fr. - Kath. Schorer a. Wangen. 5 K. — 839 Kath. Karolina. — 41 Johann Adolf. — (3 K. nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Zürcher.",
+    "place": "Bern",
+    "surname": "Zürcher",
+    "forename": "Maria Barbara",
+    "title": "geb. Nöthlisberger",
+    "occupation": "Ausschenkerin",
+    "address": "I, 19",
+    "quarter": "I",
+    "street": "",
+    "house_no": "19",
+    "origin": "Rüegsau",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 Maria Barbara, geb. Nöthlisberger, Ausschenkerin, a. Rüegsau - I, 19."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Zuffi.",
+    "place": "Bern",
+    "surname": "Zuffi",
+    "forename": "Marie Rose",
+    "title": "geb. Engler",
+    "occupation": "gew. Chocoladenfabrikantin",
+    "address": "IV, 161",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "161",
+    "origin": "Neuenstadt",
+    "birth_year": "1790",
+    "household": "2 K. — 816 Elis. Sophie. — 18 Charles Barthol.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Marie Rose, geb. Engler, gew. Chocoladenfabrikantin, a. Neuenstadt - IV, 161. 2 K. — 816 Elis. Sophie. — 18 Charles Barthol."
+   },
+   {
+    "line_from": 16,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Zumbrunn.",
+    "place": "Bern",
+    "surname": "Zumbrunn",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "II, 8",
+    "quarter": "II",
+    "street": "",
+    "house_no": "8",
+    "origin": "Erlenbach",
+    "birth_year": "1793",
+    "household": "813 Fr. - Julie Grimm a. Burgdorf. ; 3 K. — 837 Gottfried Emanuel. — 39 Julie Maria. — 42 Joh. Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 793 Emanuel, Schreiber, a. Erlenbach - II, 8. 813 Fr. - Julie Grimm a. Burgdorf. 3 K. — 837 Gottfried Emanuel. — 39 Julie Maria. — 42 Joh. Gottlieb."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Zumbrunnen.",
+    "place": "Bern",
+    "surname": "Zumbrunnen",
+    "forename": "Barbara Rosina",
+    "title": "geb. Rohrbach, des gew. Kommissionärs Frau",
+    "occupation": "Hebamme",
+    "address": "V, 203",
+    "quarter": "V",
+    "street": "",
+    "house_no": "203",
+    "origin": "Zweisimmen",
+    "birth_year": "1822",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 822 Barbara Rosina, geb. Rohrbach, Hebamme, des gew. Kommissionärs Frau, a. Zweisimmen - V, 203."
+   },
+   {
+    "line_from": 24,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Zurbrügg.",
+    "place": "Bern",
+    "surname": "Zurbrügg",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 32",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "32",
+    "origin": "Reichenbach b. Frutigen",
+    "birth_year": "1820",
+    "household": "819 Fr. - Barbara Reber a. Innerbirrmoos.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 820 Johann, Schuhmacher, a. Reichenbach b. Frutigen - IV, 32. 819 Fr. - Barbara Reber a. Innerbirrmoos."
+   },
+   {
+    "line_from": 28,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Zurflüh.",
+    "place": "Bern",
+    "surname": "Zurflüh",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Mezger",
+    "address": "IV, 5",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "5",
+    "origin": "Wynigen",
+    "birth_year": "1789",
+    "household": "792 Fr. - Barb. Hagi a. Hünigen. ; 6 K. — 823 Maria. — 24 Katharina. — 25 Barbara. — 28 Marg. Kath. — 31 Johann Jakob. — 33 Rosina Margaritha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 789 Jakob, Mezger, a. Wynigen - IV, 5. 792 Fr. - Barb. Hagi a. Hünigen. 6 K. — 823 Maria. — 24 Katharina. — 25 Barbara. — 28 Marg. Kath. — 31 Johann Jakob. — 33 Rosina Margaritha."
+   },
+   {
+    "line_from": 34,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Zutter.",
+    "place": "Bern",
+    "surname": "Zutter",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schlosser",
+    "address": "II, 10 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "10 b",
+    "origin": "Uetendorf",
+    "birth_year": "1822",
+    "household": "Fr. - Magd. Gerber, verw. Petri. ; 3 S. — 846 Franz Ludw. Eduard u. Dan. Nikl. Christ. — 48 Franz.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 822 Christian, Schlosser, a. Uetendorf - II, 10 b. Fr. - Magd. Gerber, verw. Petri. 3 S. — 846 Franz Ludw. Eduard u. Dan. Nikl. Christ. — 48 Franz."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Zwahlen.",
+    "place": "Bern",
+    "surname": "Zwahlen",
+    "forename": "Barbara",
+    "title": "geb. Schindler",
+    "occupation": "Käsehändlerin",
+    "address": "II, 202",
+    "quarter": "II",
+    "street": "",
+    "house_no": "202",
+    "origin": "Guggisberg",
+    "birth_year": "1792",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 792 Barbara, geb. Schindler, Käsehändlerin, a. Guggisberg - II, 202."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:14:42+01:00",
+ "last_error": null
+}

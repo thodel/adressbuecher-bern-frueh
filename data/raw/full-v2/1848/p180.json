@@ -1,0 +1,562 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 180,
+ "section": "einsassen",
+ "started": "2026-11-11T22:12:25+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 38.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 5644,
+  "thoughts": 939
+ },
+ "response_text": "{\n  \"printed_page\": \"167\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 167 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Wälti.\"},\n    {\"n\": 4, \"text\": \"1 805 Ulrich, Milchträger, a. Rüderswyl — I, 190.\"},\n    {\"n\": 5, \"text\": \"799 Fr. — Elis. Sahli a. Unterdettingen.\"},\n    {\"n\": 6, \"text\": \"2 813 Johann, Lehenmann, a. Rüderswyl — VII, 28.\"},\n    {\"n\": 7, \"text\": \"802 Fr. — Magd. Sahli a. Unterdettingen.\"},\n    {\"n\": 8, \"text\": \"3 K. — 837 Magd. — 39 Johann. — 44 Christian.\"},\n    {\"n\": 9, \"text\": \"3 815 Rudolf, Schuhmacher, a. Meikirch — II, 65.\"},\n    {\"n\": 10, \"text\": \"820 Fr. — Maria Hurni a. Gurbrü.\"},\n    {\"n\": 11, \"text\": \"4 819 Christian, gew. Privatlehrer, a. Rüderswyl — III, 75.\"},\n    {\"n\": 12, \"text\": \"Fr. — Kath. Harrison, Hebamme.\"},\n    {\"n\": 13, \"text\": \"2 K. — 840 Karoline. — 41 Gottlieb Adolf.\"},\n    {\"n\": 14, \"text\": \"5 824 Rosina Marg., Modiste, a. Biglendrittel — V, 132.\"},\n    {\"n\": 15, \"text\": \"Wagner.\"},\n    {\"n\": 16, \"text\": \"1 796 Samuel, Eisengrempler, a. Wiedlisbach — III, 13.\"},\n    {\"n\": 17, \"text\": \"794 Fr. — Anna Barb. Hubler a. Bätterkinden.\"},\n    {\"n\": 18, \"text\": \"2 804 Elisabetha, Schneiderin, a. Walliswyl — II, 232.\"},\n    {\"n\": 19, \"text\": \"3 801 Joh. Friedrich, Lithograph, a. Stuttgart — III, 144.\"},\n    {\"n\": 20, \"text\": \"818 Fr. — Joh. Sophie Ziegler a. Bern.\"},\n    {\"n\": 21, \"text\": \"2 K. — 842 Joh. Maria Sophie. — 846 Paul Friedr.\"},\n    {\"n\": 22, \"text\": \"Wahlen a. Trimstein.\"},\n    {\"n\": 23, \"text\": \"1 791 Barbara Elisabetha, gew. Ladengehülfin — III, 63.\"},\n    {\"n\": 24, \"text\": \"2 791 Johann, Bannwart — VII, 62.\"},\n    {\"n\": 25, \"text\": \"794 Fr. — Anna Barbara Niederhäuser a. Eggiwyl.\"},\n    {\"n\": 26, \"text\": \"7 K. — 820 Samuel. — 22 Joh. Ludwig. — 23 Christ.\"},\n    {\"n\": 27, \"text\": \"— 26 Friedrich. — 28 Rudolf. — 31 Anna Maria. —\"},\n    {\"n\": 28, \"text\": \"34 Jakob Gottlieb.\"},\n    {\"n\": 29, \"text\": \"3 808 Ulrich, Ausschenker — II, 153.\"},\n    {\"n\": 30, \"text\": \"811 Fr. — Barbara Krattiger a. Kerzerz.\"},\n    {\"n\": 31, \"text\": \"1 T. — 845 Anna Elis.\"},\n    {\"n\": 32, \"text\": \"Wahli a. Bolligen.\"},\n    {\"n\": 33, \"text\": \"1 790 Bendicht, Speisewirth u. Lohnkutscher — V, 59 a.\"},\n    {\"n\": 34, \"text\": \"2 803 Elisabetha, geb. König, Küchlerin — V, 225.\"},\n    {\"n\": 35, \"text\": \"2 K. — 826 Johann. — 27 Elisabetha.\"},\n    {\"n\": 36, \"text\": \"3 797 Christian, Pächter, gew. Müller — VII, 4.\"},\n    {\"n\": 37, \"text\": \"799 Fr. II Ehe. — Elis. Schmid, geb. Schneeberger, a. Al-\"},\n    {\"n\": 38, \"text\": \"mendingen.\"},\n    {\"n\": 39, \"text\": \"4 799 Niklaus, Bierwirth — VI, 116.\"},\n    {\"n\": 40, \"text\": \"790 Fr. — Anna Morgenthaler, geb. Näz.\"},\n    {\"n\": 41, \"text\": \"3 K. — 827 Elisabetha. — 29 Johann. — 32 Anna Maria.\"},\n    {\"n\": 42, \"text\": \"5 819 Magdalena, Schneiderin — IV, 25.\"},\n    {\"n\": 43, \"text\": \"Waiblinger.\"},\n    {\"n\": 44, \"text\": \"1 814 Jakob Friedrich, Schriftsetzer, a. Tübingen — IV, 72.\"},\n    {\"n\": 45, \"text\": \"812 Fr. — Maria Lüthi a. Innerbirrmoos.\"},\n    {\"n\": 46, \"text\": \"3 K. — 841 Emma Maria. — 43 Julius Friedrich. —\"},\n    {\"n\": 47, \"text\": \"45 Karl August.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Wälti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wälti\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"I, 190\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"190\",\n      \"origin\": \"Rüderswyl\",\n      \"birth_year\": \"1805\",\n      \"household\": \"799 Fr. — Elis. Sahli a. Unterdettingen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 805 Ulrich, Milchträger, a. Rüderswyl — I, 190. 799 Fr. — Elis. Sahli a. Unterdettingen.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Wälti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wälti\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Lehenmann\",\n      \"address\": \"VII, 28\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"28\",\n      \"origin\": \"Rüderswyl\",\n      \"birth_year\": \"1813\",\n      \"household\": \"802 Fr. — Magd. Sahli a. Unterdettingen. 3 K. — 837 Magd. — 39 Johann. — 44 Christian.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 813 Johann, Lehenmann, a. Rüderswyl — VII, 28. 802 Fr. — Magd. Sahli a. Unterdettingen. 3 K. — 837 Magd. — 39 Johann. — 44 Christian.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Wälti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wälti\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 65\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"65\",\n      \"origin\": \"Meikirch\",\n      \"birth_year\": \"1815\",\n      \"household\": \"820 Fr. — Maria Hurni a. Gurbrü.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 815 Rudolf, Schuhmacher, a. Meikirch — II, 65. 820 Fr. — Maria Hurni a. Gurbrü.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Wälti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wälti\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Privatlehrer\",\n      \"address\": \"III, 75\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"Rüderswyl\",\n      \"birth_year\": \"1819\",\n      \"household\": \"Fr. — Kath. Harrison, Hebamme. 2 K. — 840 Karoline. — 41 Gottlieb Adolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 819 Christian, gew. Privatlehrer, a. Rüderswyl — III, 75. Fr. — Kath. Harrison, Hebamme. 2 K. — 840 Karoline. — 41 Gottlieb Adolf.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Wälti.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wälti\",\n      \"forename\": \"Rosina Marg.\",\n      \"title\": \"\",\n      \"occupation\": \"Modiste\",\n      \"address\": \"V, 132\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"132\",\n      \"origin\": \"Biglendrittel\",\n      \"birth_year\": \"1824\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 824 Rosina Marg., Modiste, a. Biglendrittel — V, 132.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Wagner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wagner\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Eisengrempler\",\n      \"address\": \"III, 13\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"13\",\n      \"origin\": \"Wiedlisbach\",\n      \"birth_year\": \"1796\",\n      \"household\": \"794 Fr. — Anna Barb. Hubler a. Bätterkinden.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Samuel, Eisengrempler, a. Wiedlisbach — III, 13. 794 Fr. — Anna Barb. Hubler a. Bätterkinden.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Wagner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wagner\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"II, 232\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"232\",\n      \"origin\": \"Walliswyl\",\n      \"birth_year\": \"1804\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 804 Elisabetha, Schneiderin, a. Walliswyl — II, 232.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Wagner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wagner\",\n      \"forename\": \"Joh. Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Lithograph\",\n      \"address\": \"III, 144\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"144\",\n      \"origin\": \"Stuttgart\",\n      \"birth_year\": \"1801\",\n      \"household\": \"818 Fr. — Joh. Sophie Ziegler a. Bern. 2 K. — 842 Joh. Maria Sophie. — 846 Paul Friedr.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 801 Joh. Friedrich, Lithograph, a. Stuttgart — III, 144. 818 Fr. — Joh. Sophie Ziegler a. Bern. 2 K. — 842 Joh. Maria Sophie. — 846 Paul Friedr.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Wahlen a. Trimstein.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wahlen\",\n      \"forename\": \"Barbara Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Ladengehülfin\",\n      \"address\": \"III, 63\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"63\",\n      \"origin\": \"Trimstein\",\n      \"birth_year\": \"1791\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 791 Barbara Elisabetha, gew. Ladengehülfin — III, 63.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Wahlen a. Trimstein.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wahlen\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Bannwart\",\n      \"address\": \"VII, 62\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"Trimstein\",\n      \"birth_year\": \"1791\",\n      \"household\": \"794 Fr. — Anna Barbara Niederhäuser a. Eggiwyl. 7 K. — 820 Samuel. — 22 Joh. Ludwig. — 23 Christ. — 26 Friedrich. — 28 Rudolf. — 31 Anna Maria. — 34 Jakob Gottlieb.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"2 791 Johann, Bannwart — VII, 62. 794 Fr. — Anna Barbara Niederhäuser a. Eggiwyl. 7 K. — 820 Samuel. — 22 Joh. Ludwig. — 23 Christ. — 26 Friedrich. — 28 Rudolf. — 31 Anna Maria. — 34 Jakob Gottlieb.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Wahlen a. Trimstein.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wahlen\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Ausschenker\",\n      \"address\": \"II, 153\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"153\",\n      \"origin\": \"Trimstein\",\n      \"birth_year\": \"1808\",\n      \"household\": \"811 Fr. — Barbara Krattiger a. Kerzerz. 1 T. — 845 Anna Elis.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"3 808 Ulrich, Ausschenker — II, 153. 811 Fr. — Barbara Krattiger a. Kerzerz. 1 T. — 845 Anna Elis.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Wahli a. Bolligen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wahli\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth u. Lohnkutscher\",\n      \"address\": \"V, 59 a\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"59 a\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1790\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 790 Bendicht, Speisewirth u. Lohnkutscher — V, 59 a.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Wahli a. Bolligen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wahli\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Küchlerin\",\n      \"address\": \"V, 225\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"225\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1803\",\n      \"household\": \"2 K. — 826 Johann. — 27 Elisabetha.\",\n      \"note\": \"geb. König; Name und Herkunft aus Zwischentitel\",\n      \"text\": \"2 803 Elisabetha, geb. König, Küchlerin — V, 225. 2 K. — 826 Johann. — 27 Elisabetha.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Wahli a. Bolligen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wahli\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Pächter, gew. Müller\",\n      \"address\": \"VII, 4\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"4\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1797\",\n      \"household\": \"799 Fr. II Ehe. — Elis. Schmid, geb. Schneeberger, a. Almendingen.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"3 797 Christian, Pächter, gew. Müller — VII, 4. 799 Fr. II Ehe. — Elis. Schmid, geb. Schneeberger, a. Almendingen.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Wahli a. Bolligen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wahli\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Bierwirth\",\n      \"address\": \"VI, 116\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"116\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1799\",\n      \"household\": \"790 Fr. — Anna Morgenthaler, geb. Näz. 3 K. — 827 Elisabetha. — 29 Johann. — 32 Anna Maria.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"4 799 Niklaus, Bierwirth — VI, 116. 790 Fr. — Anna Morgenthaler, geb. Näz. 3 K. — 827 Elisabetha. — 29 Johann. — 32 Anna Maria.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Wahli a. Bolligen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wahli\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"IV, 25\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"25\",\n      \"origin\": \"Bolligen\",\n      \"birth_year\": \"1819\",\n      \"household\": \"\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"5 819 Magdalena, Schneiderin — IV, 25.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Waiblinger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Waiblinger\",\n      \"forename\": \"Jakob Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schriftsetzer\",\n      \"address\": \"IV, 72\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"72\",\n      \"origin\": \"Tübingen\",\n      \"birth_year\": \"1814\",\n      \"household\": \"812 Fr. — Maria Lüthi a. Innerbirrmoos. 3 K. — 841 Emma Maria. — 43 Julius Friedrich. — 45 Karl August.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Jakob Friedrich, Schriftsetzer, a. Tübingen — IV, 72. 812 Fr. — Maria Lüthi a. Innerbirrmoos. 3 K. — 841 Emma Maria. — 43 Julius Friedrich. — 45 Karl August.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "167",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 167 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Wälti."
+   },
+   {
+    "n": 4,
+    "text": "1 805 Ulrich, Milchträger, a. Rüderswyl — I, 190."
+   },
+   {
+    "n": 5,
+    "text": "799 Fr. — Elis. Sahli a. Unterdettingen."
+   },
+   {
+    "n": 6,
+    "text": "2 813 Johann, Lehenmann, a. Rüderswyl — VII, 28."
+   },
+   {
+    "n": 7,
+    "text": "802 Fr. — Magd. Sahli a. Unterdettingen."
+   },
+   {
+    "n": 8,
+    "text": "3 K. — 837 Magd. — 39 Johann. — 44 Christian."
+   },
+   {
+    "n": 9,
+    "text": "3 815 Rudolf, Schuhmacher, a. Meikirch — II, 65."
+   },
+   {
+    "n": 10,
+    "text": "820 Fr. — Maria Hurni a. Gurbrü."
+   },
+   {
+    "n": 11,
+    "text": "4 819 Christian, gew. Privatlehrer, a. Rüderswyl — III, 75."
+   },
+   {
+    "n": 12,
+    "text": "Fr. — Kath. Harrison, Hebamme."
+   },
+   {
+    "n": 13,
+    "text": "2 K. — 840 Karoline. — 41 Gottlieb Adolf."
+   },
+   {
+    "n": 14,
+    "text": "5 824 Rosina Marg., Modiste, a. Biglendrittel — V, 132."
+   },
+   {
+    "n": 15,
+    "text": "Wagner."
+   },
+   {
+    "n": 16,
+    "text": "1 796 Samuel, Eisengrempler, a. Wiedlisbach — III, 13."
+   },
+   {
+    "n": 17,
+    "text": "794 Fr. — Anna Barb. Hubler a. Bätterkinden."
+   },
+   {
+    "n": 18,
+    "text": "2 804 Elisabetha, Schneiderin, a. Walliswyl — II, 232."
+   },
+   {
+    "n": 19,
+    "text": "3 801 Joh. Friedrich, Lithograph, a. Stuttgart — III, 144."
+   },
+   {
+    "n": 20,
+    "text": "818 Fr. — Joh. Sophie Ziegler a. Bern."
+   },
+   {
+    "n": 21,
+    "text": "2 K. — 842 Joh. Maria Sophie. — 846 Paul Friedr."
+   },
+   {
+    "n": 22,
+    "text": "Wahlen a. Trimstein."
+   },
+   {
+    "n": 23,
+    "text": "1 791 Barbara Elisabetha, gew. Ladengehülfin — III, 63."
+   },
+   {
+    "n": 24,
+    "text": "2 791 Johann, Bannwart — VII, 62."
+   },
+   {
+    "n": 25,
+    "text": "794 Fr. — Anna Barbara Niederhäuser a. Eggiwyl."
+   },
+   {
+    "n": 26,
+    "text": "7 K. — 820 Samuel. — 22 Joh. Ludwig. — 23 Christ."
+   },
+   {
+    "n": 27,
+    "text": "— 26 Friedrich. — 28 Rudolf. — 31 Anna Maria. —"
+   },
+   {
+    "n": 28,
+    "text": "34 Jakob Gottlieb."
+   },
+   {
+    "n": 29,
+    "text": "3 808 Ulrich, Ausschenker — II, 153."
+   },
+   {
+    "n": 30,
+    "text": "811 Fr. — Barbara Krattiger a. Kerzerz."
+   },
+   {
+    "n": 31,
+    "text": "1 T. — 845 Anna Elis."
+   },
+   {
+    "n": 32,
+    "text": "Wahli a. Bolligen."
+   },
+   {
+    "n": 33,
+    "text": "1 790 Bendicht, Speisewirth u. Lohnkutscher — V, 59 a."
+   },
+   {
+    "n": 34,
+    "text": "2 803 Elisabetha, geb. König, Küchlerin — V, 225."
+   },
+   {
+    "n": 35,
+    "text": "2 K. — 826 Johann. — 27 Elisabetha."
+   },
+   {
+    "n": 36,
+    "text": "3 797 Christian, Pächter, gew. Müller — VII, 4."
+   },
+   {
+    "n": 37,
+    "text": "799 Fr. II Ehe. — Elis. Schmid, geb. Schneeberger, a. Al-"
+   },
+   {
+    "n": 38,
+    "text": "mendingen."
+   },
+   {
+    "n": 39,
+    "text": "4 799 Niklaus, Bierwirth — VI, 116."
+   },
+   {
+    "n": 40,
+    "text": "790 Fr. — Anna Morgenthaler, geb. Näz."
+   },
+   {
+    "n": 41,
+    "text": "3 K. — 827 Elisabetha. — 29 Johann. — 32 Anna Maria."
+   },
+   {
+    "n": 42,
+    "text": "5 819 Magdalena, Schneiderin — IV, 25."
+   },
+   {
+    "n": 43,
+    "text": "Waiblinger."
+   },
+   {
+    "n": 44,
+    "text": "1 814 Jakob Friedrich, Schriftsetzer, a. Tübingen — IV, 72."
+   },
+   {
+    "n": 45,
+    "text": "812 Fr. — Maria Lüthi a. Innerbirrmoos."
+   },
+   {
+    "n": 46,
+    "text": "3 K. — 841 Emma Maria. — 43 Julius Friedrich. —"
+   },
+   {
+    "n": 47,
+    "text": "45 Karl August."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Wälti.",
+    "place": "Bern",
+    "surname": "Wälti",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "I, 190",
+    "quarter": "I",
+    "street": "",
+    "house_no": "190",
+    "origin": "Rüderswyl",
+    "birth_year": "1805",
+    "household": "799 Fr. — Elis. Sahli a. Unterdettingen.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 805 Ulrich, Milchträger, a. Rüderswyl — I, 190. 799 Fr. — Elis. Sahli a. Unterdettingen."
+   },
+   {
+    "line_from": 6,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Wälti.",
+    "place": "Bern",
+    "surname": "Wälti",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Lehenmann",
+    "address": "VII, 28",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "28",
+    "origin": "Rüderswyl",
+    "birth_year": "1813",
+    "household": "802 Fr. — Magd. Sahli a. Unterdettingen. 3 K. — 837 Magd. — 39 Johann. — 44 Christian.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 813 Johann, Lehenmann, a. Rüderswyl — VII, 28. 802 Fr. — Magd. Sahli a. Unterdettingen. 3 K. — 837 Magd. — 39 Johann. — 44 Christian."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Wälti.",
+    "place": "Bern",
+    "surname": "Wälti",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 65",
+    "quarter": "II",
+    "street": "",
+    "house_no": "65",
+    "origin": "Meikirch",
+    "birth_year": "1815",
+    "household": "820 Fr. — Maria Hurni a. Gurbrü.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 815 Rudolf, Schuhmacher, a. Meikirch — II, 65. 820 Fr. — Maria Hurni a. Gurbrü."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Wälti.",
+    "place": "Bern",
+    "surname": "Wälti",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "gew. Privatlehrer",
+    "address": "III, 75",
+    "quarter": "III",
+    "street": "",
+    "house_no": "75",
+    "origin": "Rüderswyl",
+    "birth_year": "1819",
+    "household": "Fr. — Kath. Harrison, Hebamme. 2 K. — 840 Karoline. — 41 Gottlieb Adolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 819 Christian, gew. Privatlehrer, a. Rüderswyl — III, 75. Fr. — Kath. Harrison, Hebamme. 2 K. — 840 Karoline. — 41 Gottlieb Adolf."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Wälti.",
+    "place": "Bern",
+    "surname": "Wälti",
+    "forename": "Rosina Marg.",
+    "title": "",
+    "occupation": "Modiste",
+    "address": "V, 132",
+    "quarter": "V",
+    "street": "",
+    "house_no": "132",
+    "origin": "Biglendrittel",
+    "birth_year": "1824",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "5 824 Rosina Marg., Modiste, a. Biglendrittel — V, 132."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Wagner.",
+    "place": "Bern",
+    "surname": "Wagner",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Eisengrempler",
+    "address": "III, 13",
+    "quarter": "III",
+    "street": "",
+    "house_no": "13",
+    "origin": "Wiedlisbach",
+    "birth_year": "1796",
+    "household": "794 Fr. — Anna Barb. Hubler a. Bätterkinden.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Samuel, Eisengrempler, a. Wiedlisbach — III, 13. 794 Fr. — Anna Barb. Hubler a. Bätterkinden."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Wagner.",
+    "place": "Bern",
+    "surname": "Wagner",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "II, 232",
+    "quarter": "II",
+    "street": "",
+    "house_no": "232",
+    "origin": "Walliswyl",
+    "birth_year": "1804",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 804 Elisabetha, Schneiderin, a. Walliswyl — II, 232."
+   },
+   {
+    "line_from": 19,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Wagner.",
+    "place": "Bern",
+    "surname": "Wagner",
+    "forename": "Joh. Friedrich",
+    "title": "",
+    "occupation": "Lithograph",
+    "address": "III, 144",
+    "quarter": "III",
+    "street": "",
+    "house_no": "144",
+    "origin": "Stuttgart",
+    "birth_year": "1801",
+    "household": "818 Fr. — Joh. Sophie Ziegler a. Bern. 2 K. — 842 Joh. Maria Sophie. — 846 Paul Friedr.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 801 Joh. Friedrich, Lithograph, a. Stuttgart — III, 144. 818 Fr. — Joh. Sophie Ziegler a. Bern. 2 K. — 842 Joh. Maria Sophie. — 846 Paul Friedr."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Wahlen a. Trimstein.",
+    "place": "Bern",
+    "surname": "Wahlen",
+    "forename": "Barbara Elisabetha",
+    "title": "",
+    "occupation": "gew. Ladengehülfin",
+    "address": "III, 63",
+    "quarter": "III",
+    "street": "",
+    "house_no": "63",
+    "origin": "Trimstein",
+    "birth_year": "1791",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 791 Barbara Elisabetha, gew. Ladengehülfin — III, 63."
+   },
+   {
+    "line_from": 24,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Wahlen a. Trimstein.",
+    "place": "Bern",
+    "surname": "Wahlen",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Bannwart",
+    "address": "VII, 62",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "62",
+    "origin": "Trimstein",
+    "birth_year": "1791",
+    "household": "794 Fr. — Anna Barbara Niederhäuser a. Eggiwyl. 7 K. — 820 Samuel. — 22 Joh. Ludwig. — 23 Christ. — 26 Friedrich. — 28 Rudolf. — 31 Anna Maria. — 34 Jakob Gottlieb.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "2 791 Johann, Bannwart — VII, 62. 794 Fr. — Anna Barbara Niederhäuser a. Eggiwyl. 7 K. — 820 Samuel. — 22 Joh. Ludwig. — 23 Christ. — 26 Friedrich. — 28 Rudolf. — 31 Anna Maria. — 34 Jakob Gottlieb."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Wahlen a. Trimstein.",
+    "place": "Bern",
+    "surname": "Wahlen",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Ausschenker",
+    "address": "II, 153",
+    "quarter": "II",
+    "street": "",
+    "house_no": "153",
+    "origin": "Trimstein",
+    "birth_year": "1808",
+    "household": "811 Fr. — Barbara Krattiger a. Kerzerz. 1 T. — 845 Anna Elis.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "3 808 Ulrich, Ausschenker — II, 153. 811 Fr. — Barbara Krattiger a. Kerzerz. 1 T. — 845 Anna Elis."
+   },
+   {
+    "line_from": 33,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Wahli a. Bolligen.",
+    "place": "Bern",
+    "surname": "Wahli",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Speisewirth u. Lohnkutscher",
+    "address": "V, 59 a",
+    "quarter": "V",
+    "street": "",
+    "house_no": "59 a",
+    "origin": "Bolligen",
+    "birth_year": "1790",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 790 Bendicht, Speisewirth u. Lohnkutscher — V, 59 a."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Wahli a. Bolligen.",
+    "place": "Bern",
+    "surname": "Wahli",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Küchlerin",
+    "address": "V, 225",
+    "quarter": "V",
+    "street": "",
+    "house_no": "225",
+    "origin": "Bolligen",
+    "birth_year": "1803",
+    "household": "2 K. — 826 Johann. — 27 Elisabetha.",
+    "note": "geb. König; Name und Herkunft aus Zwischentitel",
+    "text": "2 803 Elisabetha, geb. König, Küchlerin — V, 225. 2 K. — 826 Johann. — 27 Elisabetha."
+   },
+   {
+    "line_from": 36,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Wahli a. Bolligen.",
+    "place": "Bern",
+    "surname": "Wahli",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Pächter, gew. Müller",
+    "address": "VII, 4",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "4",
+    "origin": "Bolligen",
+    "birth_year": "1797",
+    "household": "799 Fr. II Ehe. — Elis. Schmid, geb. Schneeberger, a. Almendingen.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "3 797 Christian, Pächter, gew. Müller — VII, 4. 799 Fr. II Ehe. — Elis. Schmid, geb. Schneeberger, a. Almendingen."
+   },
+   {
+    "line_from": 39,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Wahli a. Bolligen.",
+    "place": "Bern",
+    "surname": "Wahli",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Bierwirth",
+    "address": "VI, 116",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "116",
+    "origin": "Bolligen",
+    "birth_year": "1799",
+    "household": "790 Fr. — Anna Morgenthaler, geb. Näz. 3 K. — 827 Elisabetha. — 29 Johann. — 32 Anna Maria.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "4 799 Niklaus, Bierwirth — VI, 116. 790 Fr. — Anna Morgenthaler, geb. Näz. 3 K. — 827 Elisabetha. — 29 Johann. — 32 Anna Maria."
+   },
+   {
+    "line_from": 42,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Wahli a. Bolligen.",
+    "place": "Bern",
+    "surname": "Wahli",
+    "forename": "Magdalena",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "IV, 25",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "25",
+    "origin": "Bolligen",
+    "birth_year": "1819",
+    "household": "",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "5 819 Magdalena, Schneiderin — IV, 25."
+   },
+   {
+    "line_from": 44,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Waiblinger.",
+    "place": "Bern",
+    "surname": "Waiblinger",
+    "forename": "Jakob Friedrich",
+    "title": "",
+    "occupation": "Schriftsetzer",
+    "address": "IV, 72",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "72",
+    "origin": "Tübingen",
+    "birth_year": "1814",
+    "household": "812 Fr. — Maria Lüthi a. Innerbirrmoos. 3 K. — 841 Emma Maria. — 43 Julius Friedrich. — 45 Karl August.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Jakob Friedrich, Schriftsetzer, a. Tübingen — IV, 72. 812 Fr. — Maria Lüthi a. Innerbirrmoos. 3 K. — 841 Emma Maria. — 43 Julius Friedrich. — 45 Karl August."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:13:04+01:00",
+ "last_error": null
+}

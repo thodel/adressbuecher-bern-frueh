@@ -1,0 +1,466 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 26,
+ "section": "einsassen",
+ "started": "2026-11-11T21:56:12+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 28.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4778,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"13\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"— 13 —\" },\n    { \"n\": 2, \"text\": \"Nr. Geb.\" },\n    { \"n\": 3, \"text\": \"Bettler.\" },\n    { \"n\": 4, \"text\": \"1 779 Jakob, Küher, a. Uebeschi — VII, 53.\" },\n    { \"n\": 5, \"text\": \"Fr. — Katharina Ingold a. Heimenhausen.\" },\n    { \"n\": 6, \"text\": \"Beutler.\" },\n    { \"n\": 7, \"text\": \"1 806 Johann Christ., Schneider, a. Buchholterberg — IV, 180.\" },\n    { \"n\": 8, \"text\": \"811 Fr. — Marg. Elis. Kaufmann a. Grindelwald.\" },\n    { \"n\": 9, \"text\": \"5 K. — 839 Rud. Emil. — 40 Sophie Elis. Marg. —\" },\n    { \"n\": 10, \"text\": \"42 Johann Albrecht. — 43 Katharina Elis. Sophie. —\" },\n    { \"n\": 11, \"text\": \"47 Anna Maria Cäcilie.\" },\n    { \"n\": 12, \"text\": \"Beyeler.\" },\n    { \"n\": 13, \"text\": \"1 804 Johannes, Schrottsammler, a. Guggisberg — I, 215.\" },\n    { \"n\": 14, \"text\": \"802 Fr. — Elisabetha Binggeli a. Guggisberg.\" },\n    { \"n\": 15, \"text\": \"3 K. — 826 Elisabetha. — 28 Alexander. — 32 Anna.\" },\n    { \"n\": 16, \"text\": \"Bichsel.\" },\n    { \"n\": 17, \"text\": \"1 794 Samuel Emanuel, Drechslergeselle, a. Arni, Kh.\" },\n    { \"n\": 18, \"text\": \"Biglen — V, 129.\" },\n    { \"n\": 19, \"text\": \"791 Fr. — Anna Michel a. Unterseen, Wollenhändlerin.\" },\n    { \"n\": 20, \"text\": \"2 S. — 814 Franz Emanuel. — 18 Jakob.\" },\n    { \"n\": 21, \"text\": \"2 791 Magdalena, geb. Bhend, Gremplerin, a. Hasle bei\" },\n    { \"n\": 22, \"text\": \"Burgdorf, Wittwe — II, 225.\" },\n    { \"n\": 23, \"text\": \"3 797 Albrecht Samuel, Mechaniker, a. Arni — II, 262.\" },\n    { \"n\": 24, \"text\": \"811 Fr. — Julie Rosa Douzet a. Fontaine, K. Neuenburg.\" },\n    { \"n\": 25, \"text\": \"2 K. — 834 Julie Kath. Aloisia. — 35 Daniel Rudolf.\" },\n    { \"n\": 26, \"text\": \"4 805 Christian, Fuhrmann u. Saamenhändler, a. Hasle bei\" },\n    { \"n\": 27, \"text\": \"Burgdorf — V, 23.\" },\n    { \"n\": 28, \"text\": \"Fr. — Barbara Nyffenegger a. Eriswyl.\" },\n    { \"n\": 29, \"text\": \"2 S. — 833 Christian. — 35 Johann.\" },\n    { \"n\": 30, \"text\": \"Bidlingmeier.\" },\n    { \"n\": 31, \"text\": \"1 803 Mark. Heinr. Pet. Samuel, Lithograph, a. Cheybres,\" },\n    { \"n\": 32, \"text\": \"K. Waadt — VII, 100.\" },\n    { \"n\": 33, \"text\": \"804 Fr. — Maria Kath. Gruner, a. Bern, Vorsteherin der\" },\n    { \"n\": 34, \"text\": \"Mädchentaubstummenanstalt.\" },\n    { \"n\": 35, \"text\": \"1 T. — 837 Maria Katharina.\" },\n    { \"n\": 36, \"text\": \"Bieri.\" },\n    { \"n\": 37, \"text\": \"1 792 Niklaus, Zimmermann, a. Schangnau — II, 265.\" },\n    { \"n\": 38, \"text\": \"Fr. — Maria Susanna Wisel, verw. Brandenberger, a.\" },\n    { \"n\": 39, \"text\": \"Bäretschwyl, K. Zürich.\" },\n    { \"n\": 40, \"text\": \"2 817 Jakob, Schuhmacher, a. Schangnau — I, 83.\" },\n    { \"n\": 41, \"text\": \"Fr. — Margaritha Althaus.\" },\n    { \"n\": 42, \"text\": \"3 K. — 842 August. — 44 Wilh. Philipp. — 46 Karoline.\" },\n    { \"n\": 43, \"text\": \"3 781 Joh. Ulrich, Krämer, a. Burgdorf — IV, 149.\" },\n    { \"n\": 44, \"text\": \"781 Fr. — Anna Jägerlehner a. Walkringen.\" },\n    { \"n\": 45, \"text\": \"2 T. — 816 Christina. — 20 Anna Maria.\" },\n    { \"n\": 46, \"text\": \"4 Elisabetha, geb. Bächler, a. Schangnau, Joh. Ehefrau,\" },\n    { \"n\": 47, \"text\": \"Obstgremplerin — II, 59.\" },\n    { \"n\": 48, \"text\": \"2 K. — 823 Magdalena. — 24 Joh. Friedrich.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Bettler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bettler\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Küher\",\n      \"address\": \"VII, 53\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"53\",\n      \"origin\": \"Uebeschi\",\n      \"birth_year\": \"1779\",\n      \"household\": \"Fr. — Katharina Ingold a. Heimenhausen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 779 Jakob, Küher, a. Uebeschi — VII, 53. Fr. — Katharina Ingold a. Heimenhausen.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Beutler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Beutler\",\n      \"forename\": \"Johann Christ.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 180\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"180\",\n      \"origin\": \"Buchholterberg\",\n      \"birth_year\": \"1806\",\n      \"household\": \"811 Fr. — Marg. Elis. Kaufmann a. Grindelwald. 5 K. — 839 Rud. Emil. — 40 Sophie Elis. Marg. — 42 Johann Albrecht. — 43 Katharina Elis. Sophie. — 47 Anna Maria Cäcilie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 806 Johann Christ., Schneider, a. Buchholterberg — IV, 180. 811 Fr. — Marg. Elis. Kaufmann a. Grindelwald. 5 K. — 839 Rud. Emil. — 40 Sophie Elis. Marg. — 42 Johann Albrecht. — 43 Katharina Elis. Sophie. — 47 Anna Maria Cäcilie.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Beyeler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Beyeler\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Schrottsammler\",\n      \"address\": \"I, 215\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215\",\n      \"origin\": \"Guggisberg\",\n      \"birth_year\": \"1804\",\n      \"household\": \"802 Fr. — Elisabetha Binggeli a. Guggisberg. 3 K. — 826 Elisabetha. — 28 Alexander. — 32 Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Johannes, Schrottsammler, a. Guggisberg — I, 215. 802 Fr. — Elisabetha Binggeli a. Guggisberg. 3 K. — 826 Elisabetha. — 28 Alexander. — 32 Anna.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Bichsel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bichsel\",\n      \"forename\": \"Samuel Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Drechslergeselle\",\n      \"address\": \"V, 129\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"129\",\n      \"origin\": \"Arni, Kh. Biglen\",\n      \"birth_year\": \"1794\",\n      \"household\": \"791 Fr. — Anna Michel a. Unterseen, Wollenhändlerin. 2 S. — 814 Franz Emanuel. — 18 Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 794 Samuel Emanuel, Drechslergeselle, a. Arni, Kh. Biglen — V, 129. 791 Fr. — Anna Michel a. Unterseen, Wollenhändlerin. 2 S. — 814 Franz Emanuel. — 18 Jakob.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Bichsel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bichsel\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"geb. Bhend, Wittwe\",\n      \"occupation\": \"Gremplerin\",\n      \"address\": \"II, 225\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"225\",\n      \"origin\": \"Hasle bei Burgdorf\",\n      \"birth_year\": \"1791\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 791 Magdalena, geb. Bhend, Gremplerin, a. Hasle bei Burgdorf, Wittwe — II, 225.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Bichsel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bichsel\",\n      \"forename\": \"Albrecht Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Mechaniker\",\n      \"address\": \"II, 262\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"262\",\n      \"origin\": \"Arni\",\n      \"birth_year\": \"1797\",\n      \"household\": \"811 Fr. — Julie Rosa Douzet a. Fontaine, K. Neuenburg. 2 K. — 834 Julie Kath. Aloisia. — 35 Daniel Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 797 Albrecht Samuel, Mechaniker, a. Arni — II, 262. 811 Fr. — Julie Rosa Douzet a. Fontaine, K. Neuenburg. 2 K. — 834 Julie Kath. Aloisia. — 35 Daniel Rudolf.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Bichsel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bichsel\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Fuhrmann u. Saamenhändler\",\n      \"address\": \"V, 23\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"23\",\n      \"origin\": \"Hasle bei Burgdorf\",\n      \"birth_year\": \"1805\",\n      \"household\": \"Fr. — Barbara Nyffenegger a. Eriswyl. 2 S. — 833 Christian. — 35 Johann.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 805 Christian, Fuhrmann u. Saamenhändler, a. Hasle bei Burgdorf — V, 23. Fr. — Barbara Nyffenegger a. Eriswyl. 2 S. — 833 Christian. — 35 Johann.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Bidlingmeier.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bidlingmeier\",\n      \"forename\": \"Mark. Heinr. Pet. Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Lithograph\",\n      \"address\": \"VII, 100\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"100\",\n      \"origin\": \"Cheybres, K. Waadt\",\n      \"birth_year\": \"1803\",\n      \"household\": \"804 Fr. — Maria Kath. Gruner, a. Bern, Vorsteherin der Mädchentaubstummenanstalt. 1 T. — 837 Maria Katharina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 Mark. Heinr. Pet. Samuel, Lithograph, a. Cheybres, K. Waadt — VII, 100. 804 Fr. — Maria Kath. Gruner, a. Bern, Vorsteherin der Mädchentaubstummenanstalt. 1 T. — 837 Maria Katharina.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Bieri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bieri\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Zimmermann\",\n      \"address\": \"II, 265\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"265\",\n      \"origin\": \"Schangnau\",\n      \"birth_year\": \"1792\",\n      \"household\": \"Fr. — Maria Susanna Wisel, verw. Brandenberger, a. Bäretschwyl, K. Zürich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 792 Niklaus, Zimmermann, a. Schangnau — II, 265. Fr. — Maria Susanna Wisel, verw. Brandenberger, a. Bäretschwyl, K. Zürich.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Bieri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bieri\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"I, 83\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"83\",\n      \"origin\": \"Schangnau\",\n      \"birth_year\": \"1817\",\n      \"household\": \"Fr. — Margaritha Althaus. 3 K. — 842 August. — 44 Wilh. Philipp. — 46 Karoline.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 817 Jakob, Schuhmacher, a. Schangnau — I, 83. Fr. — Margaritha Althaus. 3 K. — 842 August. — 44 Wilh. Philipp. — 46 Karoline.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Bieri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bieri\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"IV, 149\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"149\",\n      \"origin\": \"Burgdorf\",\n      \"birth_year\": \"1781\",\n      \"household\": \"781 Fr. — Anna Jägerlehner a. Walkringen. 2 T. — 816 Christina. — 20 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 781 Joh. Ulrich, Krämer, a. Burgdorf — IV, 149. 781 Fr. — Anna Jägerlehner a. Walkringen. 2 T. — 816 Christina. — 20 Anna Maria.\"\n    },\n    {\n      \"line_from\": 46,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"Bieri.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bieri\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"geb. Bächler, Joh. Ehefrau\",\n      \"occupation\": \"Obstgremplerin\",\n      \"address\": \"II, 59\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"59\",\n      \"origin\": \"Schangnau\",\n      \"birth_year\": \"\",\n      \"household\": \"2 K. — 823 Magdalena. — 24 Joh. Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 Elisabetha, geb. Bächler, a. Schangnau, Joh. Ehefrau, Obstgremplerin — II, 59. 2 K. — 823 Magdalena. — 24 Joh. Friedrich.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "13",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 13 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Bettler."
+   },
+   {
+    "n": 4,
+    "text": "1 779 Jakob, Küher, a. Uebeschi — VII, 53."
+   },
+   {
+    "n": 5,
+    "text": "Fr. — Katharina Ingold a. Heimenhausen."
+   },
+   {
+    "n": 6,
+    "text": "Beutler."
+   },
+   {
+    "n": 7,
+    "text": "1 806 Johann Christ., Schneider, a. Buchholterberg — IV, 180."
+   },
+   {
+    "n": 8,
+    "text": "811 Fr. — Marg. Elis. Kaufmann a. Grindelwald."
+   },
+   {
+    "n": 9,
+    "text": "5 K. — 839 Rud. Emil. — 40 Sophie Elis. Marg. —"
+   },
+   {
+    "n": 10,
+    "text": "42 Johann Albrecht. — 43 Katharina Elis. Sophie. —"
+   },
+   {
+    "n": 11,
+    "text": "47 Anna Maria Cäcilie."
+   },
+   {
+    "n": 12,
+    "text": "Beyeler."
+   },
+   {
+    "n": 13,
+    "text": "1 804 Johannes, Schrottsammler, a. Guggisberg — I, 215."
+   },
+   {
+    "n": 14,
+    "text": "802 Fr. — Elisabetha Binggeli a. Guggisberg."
+   },
+   {
+    "n": 15,
+    "text": "3 K. — 826 Elisabetha. — 28 Alexander. — 32 Anna."
+   },
+   {
+    "n": 16,
+    "text": "Bichsel."
+   },
+   {
+    "n": 17,
+    "text": "1 794 Samuel Emanuel, Drechslergeselle, a. Arni, Kh."
+   },
+   {
+    "n": 18,
+    "text": "Biglen — V, 129."
+   },
+   {
+    "n": 19,
+    "text": "791 Fr. — Anna Michel a. Unterseen, Wollenhändlerin."
+   },
+   {
+    "n": 20,
+    "text": "2 S. — 814 Franz Emanuel. — 18 Jakob."
+   },
+   {
+    "n": 21,
+    "text": "2 791 Magdalena, geb. Bhend, Gremplerin, a. Hasle bei"
+   },
+   {
+    "n": 22,
+    "text": "Burgdorf, Wittwe — II, 225."
+   },
+   {
+    "n": 23,
+    "text": "3 797 Albrecht Samuel, Mechaniker, a. Arni — II, 262."
+   },
+   {
+    "n": 24,
+    "text": "811 Fr. — Julie Rosa Douzet a. Fontaine, K. Neuenburg."
+   },
+   {
+    "n": 25,
+    "text": "2 K. — 834 Julie Kath. Aloisia. — 35 Daniel Rudolf."
+   },
+   {
+    "n": 26,
+    "text": "4 805 Christian, Fuhrmann u. Saamenhändler, a. Hasle bei"
+   },
+   {
+    "n": 27,
+    "text": "Burgdorf — V, 23."
+   },
+   {
+    "n": 28,
+    "text": "Fr. — Barbara Nyffenegger a. Eriswyl."
+   },
+   {
+    "n": 29,
+    "text": "2 S. — 833 Christian. — 35 Johann."
+   },
+   {
+    "n": 30,
+    "text": "Bidlingmeier."
+   },
+   {
+    "n": 31,
+    "text": "1 803 Mark. Heinr. Pet. Samuel, Lithograph, a. Cheybres,"
+   },
+   {
+    "n": 32,
+    "text": "K. Waadt — VII, 100."
+   },
+   {
+    "n": 33,
+    "text": "804 Fr. — Maria Kath. Gruner, a. Bern, Vorsteherin der"
+   },
+   {
+    "n": 34,
+    "text": "Mädchentaubstummenanstalt."
+   },
+   {
+    "n": 35,
+    "text": "1 T. — 837 Maria Katharina."
+   },
+   {
+    "n": 36,
+    "text": "Bieri."
+   },
+   {
+    "n": 37,
+    "text": "1 792 Niklaus, Zimmermann, a. Schangnau — II, 265."
+   },
+   {
+    "n": 38,
+    "text": "Fr. — Maria Susanna Wisel, verw. Brandenberger, a."
+   },
+   {
+    "n": 39,
+    "text": "Bäretschwyl, K. Zürich."
+   },
+   {
+    "n": 40,
+    "text": "2 817 Jakob, Schuhmacher, a. Schangnau — I, 83."
+   },
+   {
+    "n": 41,
+    "text": "Fr. — Margaritha Althaus."
+   },
+   {
+    "n": 42,
+    "text": "3 K. — 842 August. — 44 Wilh. Philipp. — 46 Karoline."
+   },
+   {
+    "n": 43,
+    "text": "3 781 Joh. Ulrich, Krämer, a. Burgdorf — IV, 149."
+   },
+   {
+    "n": 44,
+    "text": "781 Fr. — Anna Jägerlehner a. Walkringen."
+   },
+   {
+    "n": 45,
+    "text": "2 T. — 816 Christina. — 20 Anna Maria."
+   },
+   {
+    "n": 46,
+    "text": "4 Elisabetha, geb. Bächler, a. Schangnau, Joh. Ehefrau,"
+   },
+   {
+    "n": 47,
+    "text": "Obstgremplerin — II, 59."
+   },
+   {
+    "n": 48,
+    "text": "2 K. — 823 Magdalena. — 24 Joh. Friedrich."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Bettler.",
+    "place": "Bern",
+    "surname": "Bettler",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Küher",
+    "address": "VII, 53",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "53",
+    "origin": "Uebeschi",
+    "birth_year": "1779",
+    "household": "Fr. — Katharina Ingold a. Heimenhausen.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 779 Jakob, Küher, a. Uebeschi — VII, 53. Fr. — Katharina Ingold a. Heimenhausen."
+   },
+   {
+    "line_from": 7,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Beutler.",
+    "place": "Bern",
+    "surname": "Beutler",
+    "forename": "Johann Christ.",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 180",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "180",
+    "origin": "Buchholterberg",
+    "birth_year": "1806",
+    "household": "811 Fr. — Marg. Elis. Kaufmann a. Grindelwald. 5 K. — 839 Rud. Emil. — 40 Sophie Elis. Marg. — 42 Johann Albrecht. — 43 Katharina Elis. Sophie. — 47 Anna Maria Cäcilie.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 806 Johann Christ., Schneider, a. Buchholterberg — IV, 180. 811 Fr. — Marg. Elis. Kaufmann a. Grindelwald. 5 K. — 839 Rud. Emil. — 40 Sophie Elis. Marg. — 42 Johann Albrecht. — 43 Katharina Elis. Sophie. — 47 Anna Maria Cäcilie."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Beyeler.",
+    "place": "Bern",
+    "surname": "Beyeler",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Schrottsammler",
+    "address": "I, 215",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215",
+    "origin": "Guggisberg",
+    "birth_year": "1804",
+    "household": "802 Fr. — Elisabetha Binggeli a. Guggisberg. 3 K. — 826 Elisabetha. — 28 Alexander. — 32 Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Johannes, Schrottsammler, a. Guggisberg — I, 215. 802 Fr. — Elisabetha Binggeli a. Guggisberg. 3 K. — 826 Elisabetha. — 28 Alexander. — 32 Anna."
+   },
+   {
+    "line_from": 17,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Bichsel.",
+    "place": "Bern",
+    "surname": "Bichsel",
+    "forename": "Samuel Emanuel",
+    "title": "",
+    "occupation": "Drechslergeselle",
+    "address": "V, 129",
+    "quarter": "V",
+    "street": "",
+    "house_no": "129",
+    "origin": "Arni, Kh. Biglen",
+    "birth_year": "1794",
+    "household": "791 Fr. — Anna Michel a. Unterseen, Wollenhändlerin. 2 S. — 814 Franz Emanuel. — 18 Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 794 Samuel Emanuel, Drechslergeselle, a. Arni, Kh. Biglen — V, 129. 791 Fr. — Anna Michel a. Unterseen, Wollenhändlerin. 2 S. — 814 Franz Emanuel. — 18 Jakob."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Bichsel.",
+    "place": "Bern",
+    "surname": "Bichsel",
+    "forename": "Magdalena",
+    "title": "geb. Bhend, Wittwe",
+    "occupation": "Gremplerin",
+    "address": "II, 225",
+    "quarter": "II",
+    "street": "",
+    "house_no": "225",
+    "origin": "Hasle bei Burgdorf",
+    "birth_year": "1791",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 791 Magdalena, geb. Bhend, Gremplerin, a. Hasle bei Burgdorf, Wittwe — II, 225."
+   },
+   {
+    "line_from": 23,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Bichsel.",
+    "place": "Bern",
+    "surname": "Bichsel",
+    "forename": "Albrecht Samuel",
+    "title": "",
+    "occupation": "Mechaniker",
+    "address": "II, 262",
+    "quarter": "II",
+    "street": "",
+    "house_no": "262",
+    "origin": "Arni",
+    "birth_year": "1797",
+    "household": "811 Fr. — Julie Rosa Douzet a. Fontaine, K. Neuenburg. 2 K. — 834 Julie Kath. Aloisia. — 35 Daniel Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 797 Albrecht Samuel, Mechaniker, a. Arni — II, 262. 811 Fr. — Julie Rosa Douzet a. Fontaine, K. Neuenburg. 2 K. — 834 Julie Kath. Aloisia. — 35 Daniel Rudolf."
+   },
+   {
+    "line_from": 26,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Bichsel.",
+    "place": "Bern",
+    "surname": "Bichsel",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Fuhrmann u. Saamenhändler",
+    "address": "V, 23",
+    "quarter": "V",
+    "street": "",
+    "house_no": "23",
+    "origin": "Hasle bei Burgdorf",
+    "birth_year": "1805",
+    "household": "Fr. — Barbara Nyffenegger a. Eriswyl. 2 S. — 833 Christian. — 35 Johann.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 805 Christian, Fuhrmann u. Saamenhändler, a. Hasle bei Burgdorf — V, 23. Fr. — Barbara Nyffenegger a. Eriswyl. 2 S. — 833 Christian. — 35 Johann."
+   },
+   {
+    "line_from": 31,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Bidlingmeier.",
+    "place": "Bern",
+    "surname": "Bidlingmeier",
+    "forename": "Mark. Heinr. Pet. Samuel",
+    "title": "",
+    "occupation": "Lithograph",
+    "address": "VII, 100",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "100",
+    "origin": "Cheybres, K. Waadt",
+    "birth_year": "1803",
+    "household": "804 Fr. — Maria Kath. Gruner, a. Bern, Vorsteherin der Mädchentaubstummenanstalt. 1 T. — 837 Maria Katharina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 Mark. Heinr. Pet. Samuel, Lithograph, a. Cheybres, K. Waadt — VII, 100. 804 Fr. — Maria Kath. Gruner, a. Bern, Vorsteherin der Mädchentaubstummenanstalt. 1 T. — 837 Maria Katharina."
+   },
+   {
+    "line_from": 37,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Bieri.",
+    "place": "Bern",
+    "surname": "Bieri",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Zimmermann",
+    "address": "II, 265",
+    "quarter": "II",
+    "street": "",
+    "house_no": "265",
+    "origin": "Schangnau",
+    "birth_year": "1792",
+    "household": "Fr. — Maria Susanna Wisel, verw. Brandenberger, a. Bäretschwyl, K. Zürich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 792 Niklaus, Zimmermann, a. Schangnau — II, 265. Fr. — Maria Susanna Wisel, verw. Brandenberger, a. Bäretschwyl, K. Zürich."
+   },
+   {
+    "line_from": 40,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Bieri.",
+    "place": "Bern",
+    "surname": "Bieri",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "I, 83",
+    "quarter": "I",
+    "street": "",
+    "house_no": "83",
+    "origin": "Schangnau",
+    "birth_year": "1817",
+    "household": "Fr. — Margaritha Althaus. 3 K. — 842 August. — 44 Wilh. Philipp. — 46 Karoline.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 817 Jakob, Schuhmacher, a. Schangnau — I, 83. Fr. — Margaritha Althaus. 3 K. — 842 August. — 44 Wilh. Philipp. — 46 Karoline."
+   },
+   {
+    "line_from": 43,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Bieri.",
+    "place": "Bern",
+    "surname": "Bieri",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "IV, 149",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "149",
+    "origin": "Burgdorf",
+    "birth_year": "1781",
+    "household": "781 Fr. — Anna Jägerlehner a. Walkringen. 2 T. — 816 Christina. — 20 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 781 Joh. Ulrich, Krämer, a. Burgdorf — IV, 149. 781 Fr. — Anna Jägerlehner a. Walkringen. 2 T. — 816 Christina. — 20 Anna Maria."
+   },
+   {
+    "line_from": 46,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "Bieri.",
+    "place": "Bern",
+    "surname": "Bieri",
+    "forename": "Elisabetha",
+    "title": "geb. Bächler, Joh. Ehefrau",
+    "occupation": "Obstgremplerin",
+    "address": "II, 59",
+    "quarter": "II",
+    "street": "",
+    "house_no": "59",
+    "origin": "Schangnau",
+    "birth_year": "",
+    "household": "2 K. — 823 Magdalena. — 24 Joh. Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 Elisabetha, geb. Bächler, a. Schangnau, Joh. Ehefrau, Obstgremplerin — II, 59. 2 K. — 823 Magdalena. — 24 Joh. Friedrich."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:56:40+01:00",
+ "last_error": null
+}

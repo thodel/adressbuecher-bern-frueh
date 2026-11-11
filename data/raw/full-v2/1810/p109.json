@@ -1,0 +1,342 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 109,
+ "section": "ville",
+ "started": "2026-11-11T20:57:34+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 33.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2301,
+  "output": 2674,
+  "thoughts": 4704
+ },
+ "response_text": "{\n  \"printed_page\": \"36\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"36\"},\n    {\"n\": 2, \"text\": \"Opérateurs , voyez Chirurgiens.\"},\n    {\"n\": 3, \"text\": \"Orfèvres.\"},\n    {\"n\": 4, \"text\": \"Brougger , Louis , Orfèvre bijoutier. Q. j. 149.\"},\n    {\"n\": 5, \"text\": \"Moll, Alex. , Orfèvre et Monteur de\"},\n    {\"n\": 6, \"text\": \"Boites de montre. … — r. 31.\"},\n    {\"n\": 7, \"text\": \"Morel, Philibert , Orfèvre bijoutier. — v. 47.\"},\n    {\"n\": 8, \"text\": \"Oboussier , Ant. L. Marc. , Orfèvre\"},\n    {\"n\": 9, \"text\": \"bijoutier. … — v. 204.\"},\n    {\"n\": 10, \"text\": \"Pochon, J. J., Orfèvre. … — bl. 13.\"},\n    {\"n\": 11, \"text\": \"Rehfouss, Adam , Orfèvre ciseleur. — r. 83.\"},\n    {\"n\": 12, \"text\": \"Disserand, les frères , Orfèvres , bi-\"},\n    {\"n\": 13, \"text\": \"joutiers et joualiers. … — v. 198.\"},\n    {\"n\": 14, \"text\": \"Ouatte.\"},\n    {\"n\": 15, \"text\": \"Flouri, Mathieu , père et fils , Fabr.\"},\n    {\"n\": 16, \"text\": \"d'Ouatte. … Q. n. 125.\"},\n    {\"n\": 17, \"text\": \"Papier.\"},\n    {\"n\": 18, \"text\": \"Bourgdorfer, J. J., Papier de bi-\"},\n    {\"n\": 19, \"text\": \"jouterie, pour le dessin et car-\"},\n    {\"n\": 20, \"text\": \"tes de visite. … Q. v. 52.\"},\n    {\"n\": 21, \"text\": \"Fellenberg - Grouner, Papeterie à\"},\n    {\"n\": 22, \"text\": \"Wegmühle, Dépôt. … — v. 192.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"verweis\",\n      \"heading\": \"Opérateurs\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Opérateurs , voyez Chirurgiens.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Orfèvres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brougger\",\n      \"forename\": \"Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Orfèvre bijoutier\",\n      \"address\": \"Q. j. 149\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"149\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brougger , Louis , Orfèvre bijoutier. Q. j. 149.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Orfèvres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Moll\",\n      \"forename\": \"Alex.\",\n      \"title\": \"\",\n      \"occupation\": \"Orfèvre et Monteur de Boites de montre\",\n      \"address\": \"— r. 31\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"31\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Moll, Alex. , Orfèvre et Monteur de Boites de montre. — r. 31.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Orfèvres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Morel\",\n      \"forename\": \"Philibert\",\n      \"title\": \"\",\n      \"occupation\": \"Orfèvre bijoutier\",\n      \"address\": \"— v. 47\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"47\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Morel, Philibert , Orfèvre bijoutier. — v. 47.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Orfèvres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Oboussier\",\n      \"forename\": \"Ant. L. Marc.\",\n      \"title\": \"\",\n      \"occupation\": \"Orfèvre bijoutier\",\n      \"address\": \"— v. 204\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"204\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Oboussier , Ant. L. Marc. , Orfèvre bijoutier. — v. 204.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Orfèvres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pochon\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"Orfèvre\",\n      \"address\": \"— bl. 13\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"13\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pochon, J. J., Orfèvre. — bl. 13.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Orfèvres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rehfouss\",\n      \"forename\": \"Adam\",\n      \"title\": \"\",\n      \"occupation\": \"Orfèvre ciseleur\",\n      \"address\": \"— r. 83\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"83\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rehfouss, Adam , Orfèvre ciseleur. — r. 83.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"firma\",\n      \"heading\": \"Orfèvres\",\n      \"place\": \"Bern\",\n      \"surname\": \"Disserand\",\n      \"forename\": \"\",\n      \"title\": \"les frères\",\n      \"occupation\": \"Orfèvres , bijoutiers et joualiers\",\n      \"address\": \"— v. 198\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"198\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Disserand, les frères , Orfèvres , bijoutiers et joualiers. — v. 198.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Ouatte\",\n      \"place\": \"Bern\",\n      \"surname\": \"Flouri\",\n      \"forename\": \"Mathieu\",\n      \"title\": \"père et fils\",\n      \"occupation\": \"Fabr. d'Ouatte\",\n      \"address\": \"Q. n. 125\",\n      \"quarter\": \"n.\",\n      \"street\": \"\",\n      \"house_no\": \"125\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Flouri, Mathieu , père et fils , Fabr. d'Ouatte. Q. n. 125.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bourgdorfer\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"Papier de bijouterie, pour le dessin et cartes de visite\",\n      \"address\": \"Q. v. 52\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"52\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bourgdorfer, J. J., Papier de bijouterie, pour le dessin et cartes de visite. Q. v. 52.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"firma\",\n      \"heading\": \"Papier\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fellenberg - Grouner\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Papeterie à Wegmühle, Dépôt\",\n      \"address\": \"— v. 192\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"192\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fellenberg - Grouner, Papeterie à Wegmühle, Dépôt. — v. 192.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "36",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "36"
+   },
+   {
+    "n": 2,
+    "text": "Opérateurs , voyez Chirurgiens."
+   },
+   {
+    "n": 3,
+    "text": "Orfèvres."
+   },
+   {
+    "n": 4,
+    "text": "Brougger , Louis , Orfèvre bijoutier. Q. j. 149."
+   },
+   {
+    "n": 5,
+    "text": "Moll, Alex. , Orfèvre et Monteur de"
+   },
+   {
+    "n": 6,
+    "text": "Boites de montre. … — r. 31."
+   },
+   {
+    "n": 7,
+    "text": "Morel, Philibert , Orfèvre bijoutier. — v. 47."
+   },
+   {
+    "n": 8,
+    "text": "Oboussier , Ant. L. Marc. , Orfèvre"
+   },
+   {
+    "n": 9,
+    "text": "bijoutier. … — v. 204."
+   },
+   {
+    "n": 10,
+    "text": "Pochon, J. J., Orfèvre. … — bl. 13."
+   },
+   {
+    "n": 11,
+    "text": "Rehfouss, Adam , Orfèvre ciseleur. — r. 83."
+   },
+   {
+    "n": 12,
+    "text": "Disserand, les frères , Orfèvres , bi-"
+   },
+   {
+    "n": 13,
+    "text": "joutiers et joualiers. … — v. 198."
+   },
+   {
+    "n": 14,
+    "text": "Ouatte."
+   },
+   {
+    "n": 15,
+    "text": "Flouri, Mathieu , père et fils , Fabr."
+   },
+   {
+    "n": 16,
+    "text": "d'Ouatte. … Q. n. 125."
+   },
+   {
+    "n": 17,
+    "text": "Papier."
+   },
+   {
+    "n": 18,
+    "text": "Bourgdorfer, J. J., Papier de bi-"
+   },
+   {
+    "n": 19,
+    "text": "jouterie, pour le dessin et car-"
+   },
+   {
+    "n": 20,
+    "text": "tes de visite. … Q. v. 52."
+   },
+   {
+    "n": 21,
+    "text": "Fellenberg - Grouner, Papeterie à"
+   },
+   {
+    "n": 22,
+    "text": "Wegmühle, Dépôt. … — v. 192."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "verweis",
+    "heading": "Opérateurs",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Opérateurs , voyez Chirurgiens."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Orfèvres",
+    "place": "Bern",
+    "surname": "Brougger",
+    "forename": "Louis",
+    "title": "",
+    "occupation": "Orfèvre bijoutier",
+    "address": "Q. j. 149",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "149",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brougger , Louis , Orfèvre bijoutier. Q. j. 149."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Orfèvres",
+    "place": "Bern",
+    "surname": "Moll",
+    "forename": "Alex.",
+    "title": "",
+    "occupation": "Orfèvre et Monteur de Boites de montre",
+    "address": "— r. 31",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "31",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Moll, Alex. , Orfèvre et Monteur de Boites de montre. — r. 31."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Orfèvres",
+    "place": "Bern",
+    "surname": "Morel",
+    "forename": "Philibert",
+    "title": "",
+    "occupation": "Orfèvre bijoutier",
+    "address": "— v. 47",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "47",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Morel, Philibert , Orfèvre bijoutier. — v. 47."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Orfèvres",
+    "place": "Bern",
+    "surname": "Oboussier",
+    "forename": "Ant. L. Marc.",
+    "title": "",
+    "occupation": "Orfèvre bijoutier",
+    "address": "— v. 204",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "204",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Oboussier , Ant. L. Marc. , Orfèvre bijoutier. — v. 204."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Orfèvres",
+    "place": "Bern",
+    "surname": "Pochon",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "Orfèvre",
+    "address": "— bl. 13",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "13",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pochon, J. J., Orfèvre. — bl. 13."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Orfèvres",
+    "place": "Bern",
+    "surname": "Rehfouss",
+    "forename": "Adam",
+    "title": "",
+    "occupation": "Orfèvre ciseleur",
+    "address": "— r. 83",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "83",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rehfouss, Adam , Orfèvre ciseleur. — r. 83."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "firma",
+    "heading": "Orfèvres",
+    "place": "Bern",
+    "surname": "Disserand",
+    "forename": "",
+    "title": "les frères",
+    "occupation": "Orfèvres , bijoutiers et joualiers",
+    "address": "— v. 198",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "198",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Disserand, les frères , Orfèvres , bijoutiers et joualiers. — v. 198."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Ouatte",
+    "place": "Bern",
+    "surname": "Flouri",
+    "forename": "Mathieu",
+    "title": "père et fils",
+    "occupation": "Fabr. d'Ouatte",
+    "address": "Q. n. 125",
+    "quarter": "n.",
+    "street": "",
+    "house_no": "125",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Flouri, Mathieu , père et fils , Fabr. d'Ouatte. Q. n. 125."
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Papier",
+    "place": "Bern",
+    "surname": "Bourgdorfer",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "Papier de bijouterie, pour le dessin et cartes de visite",
+    "address": "Q. v. 52",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "52",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bourgdorfer, J. J., Papier de bijouterie, pour le dessin et cartes de visite. Q. v. 52."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "firma",
+    "heading": "Papier",
+    "place": "Bern",
+    "surname": "Fellenberg - Grouner",
+    "forename": "",
+    "title": "",
+    "occupation": "Papeterie à Wegmühle, Dépôt",
+    "address": "— v. 192",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "192",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fellenberg - Grouner, Papeterie à Wegmühle, Dépôt. — v. 192."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:58:08+01:00",
+ "last_error": null
+}

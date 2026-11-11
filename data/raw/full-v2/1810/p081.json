@@ -1,0 +1,458 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 81,
+ "section": "ville",
+ "started": "2026-11-11T20:54:03+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 125.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2317,
+  "output": 3707,
+  "thoughts": 14873
+ },
+ "response_text": "{\n  \"printed_page\": \"8\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"8\"},\n    {\"n\": 2, \"text\": \"Kupfer, Louis. … Q. r 145.\"},\n    {\"n\": 3, \"text\": \"Osterrieth, J. Daniel. … — j. 122.\"},\n    {\"n\": 4, \"text\": \"Schnyder, Louis Frédr. … — bl. 101.\"},\n    {\"n\": 5, \"text\": \"Sturler, Louis. … — r. 179.\"},\n    {\"n\": 6, \"text\": \"Arquebusiers.\"},\n    {\"n\": 7, \"text\": \"Dunz, Albr. (Armurier-Forbisseur) Q. r. 61.\"},\n    {\"n\": 8, \"text\": \"Jenni, Nicolas. … — r. 94.\"},\n    {\"n\": 9, \"text\": \"Paul, Joseph. … — r. 72.\"},\n    {\"n\": 10, \"text\": \"Ulric, François. … — r. 83.\"},\n    {\"n\": 11, \"text\": \"établit des fusils de chasse simples et doubles, des ar-\"},\n    {\"n\": 12, \"text\": \"quebuses, des pistolets unis et rayés; il vend des pla-\"},\n    {\"n\": 13, \"text\": \"tines fines de toute espèce, des canons d'arquebuses\"},\n    {\"n\": 14, \"text\": \"et de pistolets unis et rayés d'une invention nouvelle\"},\n    {\"n\": 15, \"text\": \"et perfectionnée.\"},\n    {\"n\": 16, \"text\": \"Aubergistes.\"},\n    {\"n\": 17, \"text\": \"Baur, Salomon, à l'aigle. … Q. bl. 142.\"},\n    {\"n\": 18, \"text\": \"Blau, Jacques, à la Cicogne. … — r. 157.\"},\n    {\"n\": 19, \"text\": \"Chautems, Nicolas, à l'Ours. … — r. 146.\"},\n    {\"n\": 20, \"text\": \"Goutmann, Michel, au Sauvage. … — r. 69.\"},\n    {\"n\": 21, \"text\": \"Ochsenbein, Ulric, aus trois Rois. … — r. 34.\"},\n    {\"n\": 22, \"text\": \"Reissinger, J. Louis, à l'hotel de\"},\n    {\"n\": 23, \"text\": \"la Couronne. … — bl. 96.\"},\n    {\"n\": 24, \"text\": \"Schneider, la Veuve, à la Clef. … — v. 68.\"},\n    {\"n\": 25, \"text\": \"Ufelmann, la Veuve, à l'hotel du\"},\n    {\"n\": 26, \"text\": \"Faucon. … — j. 67.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kupfer\",\n      \"forename\": \"Louis\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. r 145.\",\n      \"quarter\": \"r\",\n      \"street\": \"\",\n      \"house_no\": \"145\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kupfer, Louis. Q. r 145.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Osterrieth\",\n      \"forename\": \"J. Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— j. 122.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"122\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Osterrieth, J. Daniel. — j. 122.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schnyder\",\n      \"forename\": \"Louis Frédr.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— bl. 101.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"101\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schnyder, Louis Frédr. — bl. 101.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sturler\",\n      \"forename\": \"Louis\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 179.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"179\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sturler, Louis. — r. 179.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Arquebusiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dunz\",\n      \"forename\": \"Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"Armurier-Forbisseur\",\n      \"address\": \"Q. r. 61.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dunz, Albr. (Armurier-Forbisseur) Q. r. 61.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Arquebusiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jenni\",\n      \"forename\": \"Nicolas\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 94.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"94\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jenni, Nicolas. — r. 94.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Arquebusiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Paul\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 72.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"72\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Paul, Joseph. — r. 72.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Arquebusiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ulric\",\n      \"forename\": \"François\",\n      \"title\": \"\",\n      \"occupation\": \"établit des fusils de chasse simples et doubles, des arquebuses, des pistolets unis et rayés; il vend des platines fines de toute espèce, des canons d'arquebuses et de pistolets unis et rayés d'une invention nouvelle et perfectionnée.\",\n      \"address\": \"— r. 83.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"83\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ulric, François. — r. 83. établit des fusils de chasse simples et doubles, des arquebuses, des pistolets unis et rayés; il vend des platines fines de toute espèce, des canons d'arquebuses et de pistolets unis et rayés d'une invention nouvelle et perfectionnée.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Aubergistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Baur\",\n      \"forename\": \"Salomon\",\n      \"title\": \"\",\n      \"occupation\": \"à l'aigle\",\n      \"address\": \"Q. bl. 142.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"142\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Baur, Salomon, à l'aigle. Q. bl. 142.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Aubergistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Blau\",\n      \"forename\": \"Jacques\",\n      \"title\": \"\",\n      \"occupation\": \"à la Cicogne\",\n      \"address\": \"— r. 157.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"157\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Blau, Jacques, à la Cicogne. — r. 157.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Aubergistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Chautems\",\n      \"forename\": \"Nicolas\",\n      \"title\": \"\",\n      \"occupation\": \"à l'Ours\",\n      \"address\": \"— r. 146.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"146\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Chautems, Nicolas, à l'Ours. — r. 146.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Aubergistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Goutmann\",\n      \"forename\": \"Michel\",\n      \"title\": \"\",\n      \"occupation\": \"au Sauvage\",\n      \"address\": \"— r. 69.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"69\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Goutmann, Michel, au Sauvage. — r. 69.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Aubergistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ochsenbein\",\n      \"forename\": \"Ulric\",\n      \"title\": \"\",\n      \"occupation\": \"aus trois Rois\",\n      \"address\": \"— r. 34.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"34\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ochsenbein, Ulric, aus trois Rois. — r. 34.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Aubergistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Reissinger\",\n      \"forename\": \"J. Louis\",\n      \"title\": \"\",\n      \"occupation\": \"à l'hotel de la Couronne\",\n      \"address\": \"— bl. 96.\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"96\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reissinger, J. Louis, à l'hotel de la Couronne. — bl. 96.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Aubergistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schneider\",\n      \"forename\": \"\",\n      \"title\": \"la Veuve\",\n      \"occupation\": \"à la Clef\",\n      \"address\": \"— v. 68.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"68\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schneider, la Veuve, à la Clef. — v. 68.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Aubergistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ufelmann\",\n      \"forename\": \"\",\n      \"title\": \"la Veuve\",\n      \"occupation\": \"à l'hotel du Faucon\",\n      \"address\": \"— j. 67.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"67\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ufelmann, la Veuve, à l'hotel du Faucon. — j. 67.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "8",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "8"
+   },
+   {
+    "n": 2,
+    "text": "Kupfer, Louis. … Q. r 145."
+   },
+   {
+    "n": 3,
+    "text": "Osterrieth, J. Daniel. … — j. 122."
+   },
+   {
+    "n": 4,
+    "text": "Schnyder, Louis Frédr. … — bl. 101."
+   },
+   {
+    "n": 5,
+    "text": "Sturler, Louis. … — r. 179."
+   },
+   {
+    "n": 6,
+    "text": "Arquebusiers."
+   },
+   {
+    "n": 7,
+    "text": "Dunz, Albr. (Armurier-Forbisseur) Q. r. 61."
+   },
+   {
+    "n": 8,
+    "text": "Jenni, Nicolas. … — r. 94."
+   },
+   {
+    "n": 9,
+    "text": "Paul, Joseph. … — r. 72."
+   },
+   {
+    "n": 10,
+    "text": "Ulric, François. … — r. 83."
+   },
+   {
+    "n": 11,
+    "text": "établit des fusils de chasse simples et doubles, des ar-"
+   },
+   {
+    "n": 12,
+    "text": "quebuses, des pistolets unis et rayés; il vend des pla-"
+   },
+   {
+    "n": 13,
+    "text": "tines fines de toute espèce, des canons d'arquebuses"
+   },
+   {
+    "n": 14,
+    "text": "et de pistolets unis et rayés d'une invention nouvelle"
+   },
+   {
+    "n": 15,
+    "text": "et perfectionnée."
+   },
+   {
+    "n": 16,
+    "text": "Aubergistes."
+   },
+   {
+    "n": 17,
+    "text": "Baur, Salomon, à l'aigle. … Q. bl. 142."
+   },
+   {
+    "n": 18,
+    "text": "Blau, Jacques, à la Cicogne. … — r. 157."
+   },
+   {
+    "n": 19,
+    "text": "Chautems, Nicolas, à l'Ours. … — r. 146."
+   },
+   {
+    "n": 20,
+    "text": "Goutmann, Michel, au Sauvage. … — r. 69."
+   },
+   {
+    "n": 21,
+    "text": "Ochsenbein, Ulric, aus trois Rois. … — r. 34."
+   },
+   {
+    "n": 22,
+    "text": "Reissinger, J. Louis, à l'hotel de"
+   },
+   {
+    "n": 23,
+    "text": "la Couronne. … — bl. 96."
+   },
+   {
+    "n": 24,
+    "text": "Schneider, la Veuve, à la Clef. … — v. 68."
+   },
+   {
+    "n": 25,
+    "text": "Ufelmann, la Veuve, à l'hotel du"
+   },
+   {
+    "n": 26,
+    "text": "Faucon. … — j. 67."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Kupfer",
+    "forename": "Louis",
+    "title": "",
+    "occupation": "",
+    "address": "Q. r 145.",
+    "quarter": "r",
+    "street": "",
+    "house_no": "145",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kupfer, Louis. Q. r 145."
+   },
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Osterrieth",
+    "forename": "J. Daniel",
+    "title": "",
+    "occupation": "",
+    "address": "— j. 122.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "122",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Osterrieth, J. Daniel. — j. 122."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Schnyder",
+    "forename": "Louis Frédr.",
+    "title": "",
+    "occupation": "",
+    "address": "— bl. 101.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "101",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schnyder, Louis Frédr. — bl. 101."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Sturler",
+    "forename": "Louis",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 179.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "179",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sturler, Louis. — r. 179."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Arquebusiers",
+    "place": "Bern",
+    "surname": "Dunz",
+    "forename": "Albr.",
+    "title": "",
+    "occupation": "Armurier-Forbisseur",
+    "address": "Q. r. 61.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "61",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dunz, Albr. (Armurier-Forbisseur) Q. r. 61."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Arquebusiers",
+    "place": "Bern",
+    "surname": "Jenni",
+    "forename": "Nicolas",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 94.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "94",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jenni, Nicolas. — r. 94."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Arquebusiers",
+    "place": "Bern",
+    "surname": "Paul",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 72.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "72",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Paul, Joseph. — r. 72."
+   },
+   {
+    "line_from": 10,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Arquebusiers",
+    "place": "Bern",
+    "surname": "Ulric",
+    "forename": "François",
+    "title": "",
+    "occupation": "établit des fusils de chasse simples et doubles, des arquebuses, des pistolets unis et rayés; il vend des platines fines de toute espèce, des canons d'arquebuses et de pistolets unis et rayés d'une invention nouvelle et perfectionnée.",
+    "address": "— r. 83.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "83",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ulric, François. — r. 83. établit des fusils de chasse simples et doubles, des arquebuses, des pistolets unis et rayés; il vend des platines fines de toute espèce, des canons d'arquebuses et de pistolets unis et rayés d'une invention nouvelle et perfectionnée."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Aubergistes",
+    "place": "Bern",
+    "surname": "Baur",
+    "forename": "Salomon",
+    "title": "",
+    "occupation": "à l'aigle",
+    "address": "Q. bl. 142.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "142",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Baur, Salomon, à l'aigle. Q. bl. 142."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Aubergistes",
+    "place": "Bern",
+    "surname": "Blau",
+    "forename": "Jacques",
+    "title": "",
+    "occupation": "à la Cicogne",
+    "address": "— r. 157.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "157",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Blau, Jacques, à la Cicogne. — r. 157."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Aubergistes",
+    "place": "Bern",
+    "surname": "Chautems",
+    "forename": "Nicolas",
+    "title": "",
+    "occupation": "à l'Ours",
+    "address": "— r. 146.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "146",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Chautems, Nicolas, à l'Ours. — r. 146."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Aubergistes",
+    "place": "Bern",
+    "surname": "Goutmann",
+    "forename": "Michel",
+    "title": "",
+    "occupation": "au Sauvage",
+    "address": "— r. 69.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "69",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Goutmann, Michel, au Sauvage. — r. 69."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Aubergistes",
+    "place": "Bern",
+    "surname": "Ochsenbein",
+    "forename": "Ulric",
+    "title": "",
+    "occupation": "aus trois Rois",
+    "address": "— r. 34.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "34",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ochsenbein, Ulric, aus trois Rois. — r. 34."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Aubergistes",
+    "place": "Bern",
+    "surname": "Reissinger",
+    "forename": "J. Louis",
+    "title": "",
+    "occupation": "à l'hotel de la Couronne",
+    "address": "— bl. 96.",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "96",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reissinger, J. Louis, à l'hotel de la Couronne. — bl. 96."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Aubergistes",
+    "place": "Bern",
+    "surname": "Schneider",
+    "forename": "",
+    "title": "la Veuve",
+    "occupation": "à la Clef",
+    "address": "— v. 68.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "68",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schneider, la Veuve, à la Clef. — v. 68."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Aubergistes",
+    "place": "Bern",
+    "surname": "Ufelmann",
+    "forename": "",
+    "title": "la Veuve",
+    "occupation": "à l'hotel du Faucon",
+    "address": "— j. 67.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "67",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ufelmann, la Veuve, à l'hotel du Faucon. — j. 67."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:56:08+01:00",
+ "last_error": null
+}

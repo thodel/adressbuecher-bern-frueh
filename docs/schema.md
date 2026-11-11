@@ -42,4 +42,15 @@ Alle Dateien in `data/csv/`, UTF-8, Komma-getrennt, mit Kopfzeile. Seitenschlüs
 | `erara_url` | Seite im e-rara-Viewer |
 | `reader`, `run` | Modell und Lauf |
 
+| `run` | Lauf, aus dem die Seite stammt: `full-v1`, für 85 Seiten die Neulesung `fix-rn` |
+| `doubt` | Felder, in denen die zweite Lesung ein Wort anders hat (`surname;street` …), leer = keine Abweichung gefunden |
+| `doubt_detail` | die Abweichungen, z. B. `surname: Noth → Roth` (erste → zweite Lesung) |
+
+`02_lines.csv` hat dazu `text_b` (Zeile der zweiten Lesung, nur wo sie abweicht) und `agree`
+(`ja`, `nein`, `ohne_gegenstueck`). Beim Vergleich gelten ß/ss/ſ, Trenn- und Gedankenstriche und Sperrsatz als gleich.
+
+## 05_second_reading.csv — Vergleich je Seite
+`volume`, `page`, `lines_a`, `lines_b` (Zeilen der ersten und zweiten Lesung), `lines_same`, `lines_differ`,
+`lines_unpaired` (ohne zuordenbare Zeile), `chars_differ`, `share_chars_differ`, `run_b`, `model_b`.
+
 Alle Felder ausser `text` sind Deutungen des Modells; `02_lines.csv` ist die nähere Lesung.

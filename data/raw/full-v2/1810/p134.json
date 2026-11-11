@@ -1,0 +1,274 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 134,
+ "section": "canton",
+ "started": "2026-11-11T20:59:34+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 40.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2322,
+  "output": 1878,
+  "thoughts": 3731
+ },
+ "response_text": "{\n  \"printed_page\": \"61\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"61\"},\n    {\"n\": 2, \"text\": \"Préfecture de Schwarzenbourg.\"},\n    {\"n\": 3, \"text\": \"Gouggisberg.\"},\n    {\"n\": 4, \"text\": \"Helligstein, Chrétien, Toiles, Coutil, Filasse\"},\n    {\"n\": 5, \"text\": \"de chanvre.\"},\n    {\"n\": 6, \"text\": \"Schwarzenbourg.\"},\n    {\"n\": 7, \"text\": \"Harnisch, Jean, Toiles, Coutil, Filasse de\"},\n    {\"n\": 8, \"text\": \"chanvre.\"},\n    {\"n\": 9, \"text\": \"Kouz, Chrétien, Toiles, Coutil, Filasse de\"},\n    {\"n\": 10, \"text\": \"chanvre.\"},\n    {\"n\": 11, \"text\": \"Préfecture de Seftigen.\"},\n    {\"n\": 12, \"text\": \"Belp.\"},\n    {\"n\": 13, \"text\": \"Straub, Bénoit, fils, Fabrique d'Etoffes du\"},\n    {\"n\": 14, \"text\": \"pays.\"},\n    {\"n\": 15, \"text\": \"Wæquelin, Chrétien, Etoffes et Epicerie.\"},\n    {\"n\": 16, \"text\": \"Kirchdorf.\"},\n    {\"n\": 17, \"text\": \"Meyer, Jean, Etoffes, Mercerie, Epicerie.\"},\n    {\"n\": 18, \"text\": \"Riggisberg.\"},\n    {\"n\": 19, \"text\": \"Dæppen, Chrét., Etoffes, Mercerie, Epicerie.\"},\n    {\"n\": 20, \"text\": \"Winter, Guillaume, Louis, Epicerie.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Gouggisberg\",\n      \"place\": \"Gouggisberg\",\n      \"surname\": \"Helligstein\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Toiles, Coutil, Filasse de chanvre\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Helligstein, Chrétien, Toiles, Coutil, Filasse de chanvre.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Schwarzenbourg\",\n      \"place\": \"Schwarzenbourg\",\n      \"surname\": \"Harnisch\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Toiles, Coutil, Filasse de chanvre\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Harnisch, Jean, Toiles, Coutil, Filasse de chanvre.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Schwarzenbourg\",\n      \"place\": \"Schwarzenbourg\",\n      \"surname\": \"Kouz\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Toiles, Coutil, Filasse de chanvre\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kouz, Chrétien, Toiles, Coutil, Filasse de chanvre.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Belp\",\n      \"place\": \"Belp\",\n      \"surname\": \"Straub\",\n      \"forename\": \"Bénoit\",\n      \"title\": \"fils\",\n      \"occupation\": \"Fabrique d'Etoffes du pays\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Straub, Bénoit, fils, Fabrique d'Etoffes du pays.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Belp\",\n      \"place\": \"Belp\",\n      \"surname\": \"Wæquelin\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes et Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wæquelin, Chrétien, Etoffes et Epicerie.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Kirchdorf\",\n      \"place\": \"Kirchdorf\",\n      \"surname\": \"Meyer\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes, Mercerie, Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Meyer, Jean, Etoffes, Mercerie, Epicerie.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Riggisberg\",\n      \"place\": \"Riggisberg\",\n      \"surname\": \"Dæppen\",\n      \"forename\": \"Chrét.\",\n      \"title\": \"\",\n      \"occupation\": \"Etoffes, Mercerie, Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dæppen, Chrét., Etoffes, Mercerie, Epicerie.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Riggisberg\",\n      \"place\": \"Riggisberg\",\n      \"surname\": \"Winter\",\n      \"forename\": \"Guillaume, Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Winter, Guillaume, Louis, Epicerie.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "61",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "61"
+   },
+   {
+    "n": 2,
+    "text": "Préfecture de Schwarzenbourg."
+   },
+   {
+    "n": 3,
+    "text": "Gouggisberg."
+   },
+   {
+    "n": 4,
+    "text": "Helligstein, Chrétien, Toiles, Coutil, Filasse"
+   },
+   {
+    "n": 5,
+    "text": "de chanvre."
+   },
+   {
+    "n": 6,
+    "text": "Schwarzenbourg."
+   },
+   {
+    "n": 7,
+    "text": "Harnisch, Jean, Toiles, Coutil, Filasse de"
+   },
+   {
+    "n": 8,
+    "text": "chanvre."
+   },
+   {
+    "n": 9,
+    "text": "Kouz, Chrétien, Toiles, Coutil, Filasse de"
+   },
+   {
+    "n": 10,
+    "text": "chanvre."
+   },
+   {
+    "n": 11,
+    "text": "Préfecture de Seftigen."
+   },
+   {
+    "n": 12,
+    "text": "Belp."
+   },
+   {
+    "n": 13,
+    "text": "Straub, Bénoit, fils, Fabrique d'Etoffes du"
+   },
+   {
+    "n": 14,
+    "text": "pays."
+   },
+   {
+    "n": 15,
+    "text": "Wæquelin, Chrétien, Etoffes et Epicerie."
+   },
+   {
+    "n": 16,
+    "text": "Kirchdorf."
+   },
+   {
+    "n": 17,
+    "text": "Meyer, Jean, Etoffes, Mercerie, Epicerie."
+   },
+   {
+    "n": 18,
+    "text": "Riggisberg."
+   },
+   {
+    "n": 19,
+    "text": "Dæppen, Chrét., Etoffes, Mercerie, Epicerie."
+   },
+   {
+    "n": 20,
+    "text": "Winter, Guillaume, Louis, Epicerie."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Gouggisberg",
+    "place": "Gouggisberg",
+    "surname": "Helligstein",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Toiles, Coutil, Filasse de chanvre",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Helligstein, Chrétien, Toiles, Coutil, Filasse de chanvre."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Schwarzenbourg",
+    "place": "Schwarzenbourg",
+    "surname": "Harnisch",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Toiles, Coutil, Filasse de chanvre",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Harnisch, Jean, Toiles, Coutil, Filasse de chanvre."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Schwarzenbourg",
+    "place": "Schwarzenbourg",
+    "surname": "Kouz",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Toiles, Coutil, Filasse de chanvre",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kouz, Chrétien, Toiles, Coutil, Filasse de chanvre."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Belp",
+    "place": "Belp",
+    "surname": "Straub",
+    "forename": "Bénoit",
+    "title": "fils",
+    "occupation": "Fabrique d'Etoffes du pays",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Straub, Bénoit, fils, Fabrique d'Etoffes du pays."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Belp",
+    "place": "Belp",
+    "surname": "Wæquelin",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Etoffes et Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wæquelin, Chrétien, Etoffes et Epicerie."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Kirchdorf",
+    "place": "Kirchdorf",
+    "surname": "Meyer",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Etoffes, Mercerie, Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Meyer, Jean, Etoffes, Mercerie, Epicerie."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Riggisberg",
+    "place": "Riggisberg",
+    "surname": "Dæppen",
+    "forename": "Chrét.",
+    "title": "",
+    "occupation": "Etoffes, Mercerie, Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dæppen, Chrét., Etoffes, Mercerie, Epicerie."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Riggisberg",
+    "place": "Riggisberg",
+    "surname": "Winter",
+    "forename": "Guillaume, Louis",
+    "title": "",
+    "occupation": "Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Winter, Guillaume, Louis, Epicerie."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:00:15+01:00",
+ "last_error": null
+}

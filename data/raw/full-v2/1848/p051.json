@@ -1,0 +1,442 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 51,
+ "section": "einsassen",
+ "started": "2026-11-11T21:58:46+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 27.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4400,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"38\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 38 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Einiger a. Tolochenaz, K. Waadt.\"},\n    {\"n\": 4, \"text\": \"1 775 Rudolf Mathias, Kommissionär — II, 264.\"},\n    {\"n\": 5, \"text\": \"4 K. — Nr. 2. — 808 Kath. Marg. Sophie. — Nr. 3.\"},\n    {\"n\": 6, \"text\": \"— 13 Gottlieb Ludwig, Schreiber.\"},\n    {\"n\": 7, \"text\": \"2 801 Samuel Rudolf, Zeitungsredaktor, S. v. 1 — II, 262.\"},\n    {\"n\": 8, \"text\": \"804 Fr. — Kath. Steiner a. Wylhof.\"},\n    {\"n\": 9, \"text\": \"5 K. — 832 Joh. Rudolf. — 33 Maria. — 35 Ernst\"},\n    {\"n\": 10, \"text\": \"Friedrich. — 38 Ad. Wilhelm. — 41 Anna E. Kath.\"},\n    {\"n\": 11, \"text\": \"3 810 Sam. Friedrich, Schönschreiber, S. v. 1 — II, 263.\"},\n    {\"n\": 12, \"text\": \"816 Fr. — Nanette F. Em. Dittlinger.\"},\n    {\"n\": 13, \"text\": \"2 T. — 844 Amal. Ch. Louise. — 46 Maria Kar. Sophie.\"},\n    {\"n\": 14, \"text\": \"Ellenberg.\"},\n    {\"n\": 15, \"text\": \"1 809 Johann, Schneider, a. Muri — VII, 48.\"},\n    {\"n\": 16, \"text\": \"810 Fr. — Anna Magd. Wenger a. Blumenstein.\"},\n    {\"n\": 17, \"text\": \"5 K. — 831 Friedrich. — 34 Christ. — 37 Katharina.\"},\n    {\"n\": 18, \"text\": \"— 40 Rosa. — 43 Maria Susanna.\"},\n    {\"n\": 19, \"text\": \"Ellenberger.\"},\n    {\"n\": 20, \"text\": \"1 810 Johann, Schuhmacher, a. Bowyl — IV, 131.\"},\n    {\"n\": 21, \"text\": \"820 Fr. — Anna Haldimann a. Eggiwyl.\"},\n    {\"n\": 22, \"text\": \"2 S. — 839 Karl Jakob. — 47 Johann Ad.\"},\n    {\"n\": 23, \"text\": \"Emch.\"},\n    {\"n\": 24, \"text\": \"1 782 Anna Maria, geb. Wirth, Krämerin, a. Lütterswyl —\"},\n    {\"n\": 25, \"text\": \"II, 40.\"},\n    {\"n\": 26, \"text\": \"1 S. aus I Ehe. — 809 Urs.\"},\n    {\"n\": 27, \"text\": \"2 785 Johannes, Hauseigenthümer u. Milchträger, a Grindel-\"},\n    {\"n\": 28, \"text\": \"wald — II, 110.\"},\n    {\"n\": 29, \"text\": \"788 Fr. - Elis. Bühlmann a. Belpberg.\"},\n    {\"n\": 30, \"text\": \"Emmert.\"},\n    {\"n\": 31, \"text\": \"1 790 Elis. Friedr. Eleonore, geb. Dann, a. Biel, privat. —\"},\n    {\"n\": 32, \"text\": \"V, 183 a.\"},\n    {\"n\": 33, \"text\": \"2 812 Karl, Med. Dr., praktischer Arzt — IV, 229.\"},\n    {\"n\": 34, \"text\": \"824 Fr. — Marie Pommer a. Zürich.\"},\n    {\"n\": 35, \"text\": \"2 K. — 844 Emil. — 45 Melanie.\"},\n    {\"n\": 36, \"text\": \"Enchelmeyer.\"},\n    {\"n\": 37, \"text\": \"1 796 Joh. Gustav Chr. Friedr., Negotiant, a. Stuttgart —\"},\n    {\"n\": 38, \"text\": \"IV, 39.\"},\n    {\"n\": 39, \"text\": \"799 Fr. Maria Ammann a. Zürich.\"},\n    {\"n\": 40, \"text\": \"2 T. — 829 Maria Adel. Mathilde. — 31 Just. Sus.\"},\n    {\"n\": 41, \"text\": \"Augusta.\"},\n    {\"n\": 42, \"text\": \"Engel.\"},\n    {\"n\": 43, \"text\": \"1 797 Mathys, Lehenmann, a. Eggiwyl — I, 19.\"},\n    {\"n\": 44, \"text\": \"803 Fr. - Anna Aeberhard a. Urtenen.\"},\n    {\"n\": 45, \"text\": \"4 K. — 825 Christian. — 36 Jakob Rudolf. — 44 Joh.\"},\n    {\"n\": 46, \"text\": \"Samuel. — 47 Anna Elis.\"},\n    {\"n\": 47, \"text\": \"—\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Einiger a. Tolochenaz, K. Waadt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Einiger\",\n      \"forename\": \"Rudolf Mathias\",\n      \"title\": \"\",\n      \"occupation\": \"Kommissionär\",\n      \"address\": \"II, 264\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"264\",\n      \"origin\": \"Tolochenaz, K. Waadt\",\n      \"birth_year\": \"1775\",\n      \"household\": \"4 K. — Nr. 2. — 808 Kath. Marg. Sophie. — Nr. 3. — 13 Gottlieb Ludwig, Schreiber.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 775 Rudolf Mathias, Kommissionär — II, 264. 4 K. — Nr. 2. — 808 Kath. Marg. Sophie. — Nr. 3. — 13 Gottlieb Ludwig, Schreiber.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Einiger a. Tolochenaz, K. Waadt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Einiger\",\n      \"forename\": \"Samuel Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Zeitungsredaktor\",\n      \"address\": \"II, 262\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"262\",\n      \"origin\": \"Tolochenaz, K. Waadt\",\n      \"birth_year\": \"1801\",\n      \"household\": \"S. v. 1; 804 Fr. — Kath. Steiner a. Wylhof. 5 K. — 832 Joh. Rudolf. — 33 Maria. — 35 Ernst Friedrich. — 38 Ad. Wilhelm. — 41 Anna E. Kath.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 801 Samuel Rudolf, Zeitungsredaktor, S. v. 1 — II, 262. 804 Fr. — Kath. Steiner a. Wylhof. 5 K. — 832 Joh. Rudolf. — 33 Maria. — 35 Ernst Friedrich. — 38 Ad. Wilhelm. — 41 Anna E. Kath.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Einiger a. Tolochenaz, K. Waadt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Einiger\",\n      \"forename\": \"Sam. Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schönschreiber\",\n      \"address\": \"II, 263\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"263\",\n      \"origin\": \"Tolochenaz, K. Waadt\",\n      \"birth_year\": \"1810\",\n      \"household\": \"S. v. 1; 816 Fr. — Nanette F. Em. Dittlinger. 2 T. — 844 Amal. Ch. Louise. — 46 Maria Kar. Sophie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 810 Sam. Friedrich, Schönschreiber, S. v. 1 — II, 263. 816 Fr. — Nanette F. Em. Dittlinger. 2 T. — 844 Amal. Ch. Louise. — 46 Maria Kar. Sophie.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Ellenberg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ellenberg\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"VII, 48\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"48\",\n      \"origin\": \"Muri\",\n      \"birth_year\": \"1809\",\n      \"household\": \"810 Fr. — Anna Magd. Wenger a. Blumenstein. 5 K. — 831 Friedrich. — 34 Christ. — 37 Katharina. — 40 Rosa. — 43 Maria Susanna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 809 Johann, Schneider, a. Muri — VII, 48. 810 Fr. — Anna Magd. Wenger a. Blumenstein. 5 K. — 831 Friedrich. — 34 Christ. — 37 Katharina. — 40 Rosa. — 43 Maria Susanna.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Ellenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ellenberger\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 131\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"131\",\n      \"origin\": \"Bowyl\",\n      \"birth_year\": \"1810\",\n      \"household\": \"820 Fr. — Anna Haldimann a. Eggiwyl. 2 S. — 839 Karl Jakob. — 47 Johann Ad.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Johann, Schuhmacher, a. Bowyl — IV, 131. 820 Fr. — Anna Haldimann a. Eggiwyl. 2 S. — 839 Karl Jakob. — 47 Johann Ad.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Emch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Emch\",\n      \"forename\": \"Anna Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"II, 40\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"40\",\n      \"origin\": \"Lütterswyl\",\n      \"birth_year\": \"1782\",\n      \"household\": \"geb. Wirth; 1 S. aus I Ehe. — 809 Urs.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 782 Anna Maria, geb. Wirth, Krämerin, a. Lütterswyl — II, 40. 1 S. aus I Ehe. — 809 Urs.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Emch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Emch\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Hauseigenthümer u. Milchträger\",\n      \"address\": \"II, 110\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"110\",\n      \"origin\": \"Grindelwald\",\n      \"birth_year\": \"1785\",\n      \"household\": \"788 Fr. - Elis. Bühlmann a. Belpberg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 785 Johannes, Hauseigenthümer u. Milchträger, a Grindelwald — II, 110. 788 Fr. - Elis. Bühlmann a. Belpberg.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Emmert.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Emmert\",\n      \"forename\": \"Elis. Friedr. Eleonore\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"V, 183 a\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"183 a\",\n      \"origin\": \"Biel\",\n      \"birth_year\": \"1790\",\n      \"household\": \"geb. Dann\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Elis. Friedr. Eleonore, geb. Dann, a. Biel, privat. — V, 183 a.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Emmert.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Emmert\",\n      \"forename\": \"Karl\",\n      \"title\": \"Med. Dr.\",\n      \"occupation\": \"praktischer Arzt\",\n      \"address\": \"IV, 229\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"229\",\n      \"origin\": \"\",\n      \"birth_year\": \"1812\",\n      \"household\": \"824 Fr. — Marie Pommer a. Zürich. 2 K. — 844 Emil. — 45 Melanie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 812 Karl, Med. Dr., praktischer Arzt — IV, 229. 824 Fr. — Marie Pommer a. Zürich. 2 K. — 844 Emil. — 45 Melanie.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Enchelmeyer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Enchelmeyer\",\n      \"forename\": \"Joh. Gustav Chr. Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Negotiant\",\n      \"address\": \"IV, 39\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"39\",\n      \"origin\": \"Stuttgart\",\n      \"birth_year\": \"1796\",\n      \"household\": \"799 Fr. Maria Ammann a. Zürich. 2 T. — 829 Maria Adel. Mathilde. — 31 Just. Sus. Augusta.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Joh. Gustav Chr. Friedr., Negotiant, a. Stuttgart — IV, 39. 799 Fr. Maria Ammann a. Zürich. 2 T. — 829 Maria Adel. Mathilde. — 31 Just. Sus. Augusta.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"Engel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Engel\",\n      \"forename\": \"Mathys\",\n      \"title\": \"\",\n      \"occupation\": \"Lehenmann\",\n      \"address\": \"I, 19\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"19\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1797\",\n      \"household\": \"803 Fr. - Anna Aeberhard a. Urtenen. 4 K. — 825 Christian. — 36 Jakob Rudolf. — 44 Joh. Samuel. — 47 Anna Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 Mathys, Lehenmann, a. Eggiwyl — I, 19. 803 Fr. - Anna Aeberhard a. Urtenen. 4 K. — 825 Christian. — 36 Jakob Rudolf. — 44 Joh. Samuel. — 47 Anna Elis.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "38",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 38 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Einiger a. Tolochenaz, K. Waadt."
+   },
+   {
+    "n": 4,
+    "text": "1 775 Rudolf Mathias, Kommissionär — II, 264."
+   },
+   {
+    "n": 5,
+    "text": "4 K. — Nr. 2. — 808 Kath. Marg. Sophie. — Nr. 3."
+   },
+   {
+    "n": 6,
+    "text": "— 13 Gottlieb Ludwig, Schreiber."
+   },
+   {
+    "n": 7,
+    "text": "2 801 Samuel Rudolf, Zeitungsredaktor, S. v. 1 — II, 262."
+   },
+   {
+    "n": 8,
+    "text": "804 Fr. — Kath. Steiner a. Wylhof."
+   },
+   {
+    "n": 9,
+    "text": "5 K. — 832 Joh. Rudolf. — 33 Maria. — 35 Ernst"
+   },
+   {
+    "n": 10,
+    "text": "Friedrich. — 38 Ad. Wilhelm. — 41 Anna E. Kath."
+   },
+   {
+    "n": 11,
+    "text": "3 810 Sam. Friedrich, Schönschreiber, S. v. 1 — II, 263."
+   },
+   {
+    "n": 12,
+    "text": "816 Fr. — Nanette F. Em. Dittlinger."
+   },
+   {
+    "n": 13,
+    "text": "2 T. — 844 Amal. Ch. Louise. — 46 Maria Kar. Sophie."
+   },
+   {
+    "n": 14,
+    "text": "Ellenberg."
+   },
+   {
+    "n": 15,
+    "text": "1 809 Johann, Schneider, a. Muri — VII, 48."
+   },
+   {
+    "n": 16,
+    "text": "810 Fr. — Anna Magd. Wenger a. Blumenstein."
+   },
+   {
+    "n": 17,
+    "text": "5 K. — 831 Friedrich. — 34 Christ. — 37 Katharina."
+   },
+   {
+    "n": 18,
+    "text": "— 40 Rosa. — 43 Maria Susanna."
+   },
+   {
+    "n": 19,
+    "text": "Ellenberger."
+   },
+   {
+    "n": 20,
+    "text": "1 810 Johann, Schuhmacher, a. Bowyl — IV, 131."
+   },
+   {
+    "n": 21,
+    "text": "820 Fr. — Anna Haldimann a. Eggiwyl."
+   },
+   {
+    "n": 22,
+    "text": "2 S. — 839 Karl Jakob. — 47 Johann Ad."
+   },
+   {
+    "n": 23,
+    "text": "Emch."
+   },
+   {
+    "n": 24,
+    "text": "1 782 Anna Maria, geb. Wirth, Krämerin, a. Lütterswyl —"
+   },
+   {
+    "n": 25,
+    "text": "II, 40."
+   },
+   {
+    "n": 26,
+    "text": "1 S. aus I Ehe. — 809 Urs."
+   },
+   {
+    "n": 27,
+    "text": "2 785 Johannes, Hauseigenthümer u. Milchträger, a Grindel-"
+   },
+   {
+    "n": 28,
+    "text": "wald — II, 110."
+   },
+   {
+    "n": 29,
+    "text": "788 Fr. - Elis. Bühlmann a. Belpberg."
+   },
+   {
+    "n": 30,
+    "text": "Emmert."
+   },
+   {
+    "n": 31,
+    "text": "1 790 Elis. Friedr. Eleonore, geb. Dann, a. Biel, privat. —"
+   },
+   {
+    "n": 32,
+    "text": "V, 183 a."
+   },
+   {
+    "n": 33,
+    "text": "2 812 Karl, Med. Dr., praktischer Arzt — IV, 229."
+   },
+   {
+    "n": 34,
+    "text": "824 Fr. — Marie Pommer a. Zürich."
+   },
+   {
+    "n": 35,
+    "text": "2 K. — 844 Emil. — 45 Melanie."
+   },
+   {
+    "n": 36,
+    "text": "Enchelmeyer."
+   },
+   {
+    "n": 37,
+    "text": "1 796 Joh. Gustav Chr. Friedr., Negotiant, a. Stuttgart —"
+   },
+   {
+    "n": 38,
+    "text": "IV, 39."
+   },
+   {
+    "n": 39,
+    "text": "799 Fr. Maria Ammann a. Zürich."
+   },
+   {
+    "n": 40,
+    "text": "2 T. — 829 Maria Adel. Mathilde. — 31 Just. Sus."
+   },
+   {
+    "n": 41,
+    "text": "Augusta."
+   },
+   {
+    "n": 42,
+    "text": "Engel."
+   },
+   {
+    "n": 43,
+    "text": "1 797 Mathys, Lehenmann, a. Eggiwyl — I, 19."
+   },
+   {
+    "n": 44,
+    "text": "803 Fr. - Anna Aeberhard a. Urtenen."
+   },
+   {
+    "n": 45,
+    "text": "4 K. — 825 Christian. — 36 Jakob Rudolf. — 44 Joh."
+   },
+   {
+    "n": 46,
+    "text": "Samuel. — 47 Anna Elis."
+   },
+   {
+    "n": 47,
+    "text": "—"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Einiger a. Tolochenaz, K. Waadt.",
+    "place": "Bern",
+    "surname": "Einiger",
+    "forename": "Rudolf Mathias",
+    "title": "",
+    "occupation": "Kommissionär",
+    "address": "II, 264",
+    "quarter": "II",
+    "street": "",
+    "house_no": "264",
+    "origin": "Tolochenaz, K. Waadt",
+    "birth_year": "1775",
+    "household": "4 K. — Nr. 2. — 808 Kath. Marg. Sophie. — Nr. 3. — 13 Gottlieb Ludwig, Schreiber.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 775 Rudolf Mathias, Kommissionär — II, 264. 4 K. — Nr. 2. — 808 Kath. Marg. Sophie. — Nr. 3. — 13 Gottlieb Ludwig, Schreiber."
+   },
+   {
+    "line_from": 7,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Einiger a. Tolochenaz, K. Waadt.",
+    "place": "Bern",
+    "surname": "Einiger",
+    "forename": "Samuel Rudolf",
+    "title": "",
+    "occupation": "Zeitungsredaktor",
+    "address": "II, 262",
+    "quarter": "II",
+    "street": "",
+    "house_no": "262",
+    "origin": "Tolochenaz, K. Waadt",
+    "birth_year": "1801",
+    "household": "S. v. 1; 804 Fr. — Kath. Steiner a. Wylhof. 5 K. — 832 Joh. Rudolf. — 33 Maria. — 35 Ernst Friedrich. — 38 Ad. Wilhelm. — 41 Anna E. Kath.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 801 Samuel Rudolf, Zeitungsredaktor, S. v. 1 — II, 262. 804 Fr. — Kath. Steiner a. Wylhof. 5 K. — 832 Joh. Rudolf. — 33 Maria. — 35 Ernst Friedrich. — 38 Ad. Wilhelm. — 41 Anna E. Kath."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Einiger a. Tolochenaz, K. Waadt.",
+    "place": "Bern",
+    "surname": "Einiger",
+    "forename": "Sam. Friedrich",
+    "title": "",
+    "occupation": "Schönschreiber",
+    "address": "II, 263",
+    "quarter": "II",
+    "street": "",
+    "house_no": "263",
+    "origin": "Tolochenaz, K. Waadt",
+    "birth_year": "1810",
+    "household": "S. v. 1; 816 Fr. — Nanette F. Em. Dittlinger. 2 T. — 844 Amal. Ch. Louise. — 46 Maria Kar. Sophie.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 810 Sam. Friedrich, Schönschreiber, S. v. 1 — II, 263. 816 Fr. — Nanette F. Em. Dittlinger. 2 T. — 844 Amal. Ch. Louise. — 46 Maria Kar. Sophie."
+   },
+   {
+    "line_from": 15,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Ellenberg.",
+    "place": "Bern",
+    "surname": "Ellenberg",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "VII, 48",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "48",
+    "origin": "Muri",
+    "birth_year": "1809",
+    "household": "810 Fr. — Anna Magd. Wenger a. Blumenstein. 5 K. — 831 Friedrich. — 34 Christ. — 37 Katharina. — 40 Rosa. — 43 Maria Susanna.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 809 Johann, Schneider, a. Muri — VII, 48. 810 Fr. — Anna Magd. Wenger a. Blumenstein. 5 K. — 831 Friedrich. — 34 Christ. — 37 Katharina. — 40 Rosa. — 43 Maria Susanna."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Ellenberger.",
+    "place": "Bern",
+    "surname": "Ellenberger",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 131",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "131",
+    "origin": "Bowyl",
+    "birth_year": "1810",
+    "household": "820 Fr. — Anna Haldimann a. Eggiwyl. 2 S. — 839 Karl Jakob. — 47 Johann Ad.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Johann, Schuhmacher, a. Bowyl — IV, 131. 820 Fr. — Anna Haldimann a. Eggiwyl. 2 S. — 839 Karl Jakob. — 47 Johann Ad."
+   },
+   {
+    "line_from": 24,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Emch.",
+    "place": "Bern",
+    "surname": "Emch",
+    "forename": "Anna Maria",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "II, 40",
+    "quarter": "II",
+    "street": "",
+    "house_no": "40",
+    "origin": "Lütterswyl",
+    "birth_year": "1782",
+    "household": "geb. Wirth; 1 S. aus I Ehe. — 809 Urs.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 782 Anna Maria, geb. Wirth, Krämerin, a. Lütterswyl — II, 40. 1 S. aus I Ehe. — 809 Urs."
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Emch.",
+    "place": "Bern",
+    "surname": "Emch",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Hauseigenthümer u. Milchträger",
+    "address": "II, 110",
+    "quarter": "II",
+    "street": "",
+    "house_no": "110",
+    "origin": "Grindelwald",
+    "birth_year": "1785",
+    "household": "788 Fr. - Elis. Bühlmann a. Belpberg.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 785 Johannes, Hauseigenthümer u. Milchträger, a Grindelwald — II, 110. 788 Fr. - Elis. Bühlmann a. Belpberg."
+   },
+   {
+    "line_from": 31,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Emmert.",
+    "place": "Bern",
+    "surname": "Emmert",
+    "forename": "Elis. Friedr. Eleonore",
+    "title": "",
+    "occupation": "privat.",
+    "address": "V, 183 a",
+    "quarter": "V",
+    "street": "",
+    "house_no": "183 a",
+    "origin": "Biel",
+    "birth_year": "1790",
+    "household": "geb. Dann",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Elis. Friedr. Eleonore, geb. Dann, a. Biel, privat. — V, 183 a."
+   },
+   {
+    "line_from": 33,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Emmert.",
+    "place": "Bern",
+    "surname": "Emmert",
+    "forename": "Karl",
+    "title": "Med. Dr.",
+    "occupation": "praktischer Arzt",
+    "address": "IV, 229",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "229",
+    "origin": "",
+    "birth_year": "1812",
+    "household": "824 Fr. — Marie Pommer a. Zürich. 2 K. — 844 Emil. — 45 Melanie.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 812 Karl, Med. Dr., praktischer Arzt — IV, 229. 824 Fr. — Marie Pommer a. Zürich. 2 K. — 844 Emil. — 45 Melanie."
+   },
+   {
+    "line_from": 37,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Enchelmeyer.",
+    "place": "Bern",
+    "surname": "Enchelmeyer",
+    "forename": "Joh. Gustav Chr. Friedr.",
+    "title": "",
+    "occupation": "Negotiant",
+    "address": "IV, 39",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "39",
+    "origin": "Stuttgart",
+    "birth_year": "1796",
+    "household": "799 Fr. Maria Ammann a. Zürich. 2 T. — 829 Maria Adel. Mathilde. — 31 Just. Sus. Augusta.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Joh. Gustav Chr. Friedr., Negotiant, a. Stuttgart — IV, 39. 799 Fr. Maria Ammann a. Zürich. 2 T. — 829 Maria Adel. Mathilde. — 31 Just. Sus. Augusta."
+   },
+   {
+    "line_from": 43,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "Engel.",
+    "place": "Bern",
+    "surname": "Engel",
+    "forename": "Mathys",
+    "title": "",
+    "occupation": "Lehenmann",
+    "address": "I, 19",
+    "quarter": "I",
+    "street": "",
+    "house_no": "19",
+    "origin": "Eggiwyl",
+    "birth_year": "1797",
+    "household": "803 Fr. - Anna Aeberhard a. Urtenen. 4 K. — 825 Christian. — 36 Jakob Rudolf. — 44 Joh. Samuel. — 47 Anna Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 Mathys, Lehenmann, a. Eggiwyl — I, 19. 803 Fr. - Anna Aeberhard a. Urtenen. 4 K. — 825 Christian. — 36 Jakob Rudolf. — 44 Joh. Samuel. — 47 Anna Elis."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:59:13+01:00",
+ "last_error": null
+}

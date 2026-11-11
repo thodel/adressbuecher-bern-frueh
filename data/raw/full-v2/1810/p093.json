@@ -1,0 +1,418 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 93,
+ "section": "ville",
+ "started": "2026-11-11T20:55:37+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 105.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2343,
+  "output": 3358,
+  "thoughts": 10709
+ },
+ "response_text": "{\n  \"printed_page\": \"20\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"20\"},\n    {\"n\": 2, \"text\": \"Müller, Chrètien. … Q. j. 12.\"},\n    {\"n\": 3, \"text\": \"Reber, Jean. … — r. 111.\"},\n    {\"n\": 4, \"text\": \"Sandoz, Henri François. … — r. 103.\"},\n    {\"n\": 5, \"text\": \"Epicerie et Droguerie.\"},\n    {\"n\": 6, \"text\": \"a) Epic. et Drog. en gros.\"},\n    {\"n\": 7, \"text\": \"Haller et Comp. … Q. v. 145.\"},\n    {\"n\": 8, \"text\": \"b) Epic. et Drog. en gros et en détail.\"},\n    {\"n\": 9, \"text\": \"Hébler, Fréd. … Q. v. 215.\"},\n    {\"n\": 10, \"text\": \"Pagenstecher et Souter. … — v. 206.\"},\n    {\"n\": 11, \"text\": \"c) Epicerie en gros.\"},\n    {\"n\": 12, \"text\": \"Schmid, Louis Fréd. … Q. v. 213.\"},\n    {\"n\": 13, \"text\": \"d) Epic. en gros et en détail.\"},\n    {\"n\": 14, \"text\": \"Desgouttes et Walthard. … Q. j. 44.\"},\n    {\"n\": 15, \"text\": \"Ernst, J. Rod. … — j. 42.\"},\n    {\"n\": 16, \"text\": \"Fueter, les fréres. … — v. 187.\"},\n    {\"n\": 17, \"text\": \"Hentzi, Rod. Jaques. … — v. 227.\"},\n    {\"n\": 18, \"text\": \"Meyrat, Jean Louis. … — j. 49.\"},\n    {\"n\": 19, \"text\": \"Stanz, Em. … — v. 142.\"},\n    {\"n\": 20, \"text\": \"Stapfer et Comp. … — v. 149.\"},\n    {\"n\": 21, \"text\": \"Ziegler, le jeune, et Comp. … — v. 184.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Chrètien\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. j. 12.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"12.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Müller, Chrètien. Q. j. 12.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Reber\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 111.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"111.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Reber, Jean. — r. 111.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sandoz\",\n      \"forename\": \"Henri François\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— r. 103.\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"103.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Sandoz, Henri François. — r. 103.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"Epicerie et Droguerie. a) Epic. et Drog. en gros.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"\",\n      \"title\": \"et Comp.\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 145.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"145.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haller et Comp. Q. v. 145.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Epicerie et Droguerie. b) Epic. et Drog. en gros et en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hébler\",\n      \"forename\": \"Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 215.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"215.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hébler, Fréd. Q. v. 215.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"firma\",\n      \"heading\": \"Epicerie et Droguerie. b) Epic. et Drog. en gros et en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pagenstecher et Souter\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 206.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"206.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pagenstecher et Souter. — v. 206.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Epicerie et Droguerie. c) Epicerie en gros.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"Louis Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 213.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"213.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schmid, Louis Fréd. Q. v. 213.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Epicerie et Droguerie. d) Epic. en gros et en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Desgouttes et Walthard\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. j. 44.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"44.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Desgouttes et Walthard. Q. j. 44.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Epicerie et Droguerie. d) Epic. en gros et en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ernst\",\n      \"forename\": \"J. Rod.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— j. 42.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"42.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ernst, J. Rod. — j. 42.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Epicerie et Droguerie. d) Epic. en gros et en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Fueter\",\n      \"forename\": \"\",\n      \"title\": \"les fréres\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 187.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"187.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fueter, les fréres. — v. 187.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Epicerie et Droguerie. d) Epic. en gros et en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hentzi\",\n      \"forename\": \"Rod. Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 227.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"227.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hentzi, Rod. Jaques. — v. 227.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Epicerie et Droguerie. d) Epic. en gros et en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Meyrat\",\n      \"forename\": \"Jean Louis\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— j. 49.\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"49.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Meyrat, Jean Louis. — j. 49.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Epicerie et Droguerie. d) Epic. en gros et en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stanz\",\n      \"forename\": \"Em.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 142.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"142.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stanz, Em. — v. 142.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"firma\",\n      \"heading\": \"Epicerie et Droguerie. d) Epic. en gros et en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stapfer\",\n      \"forename\": \"\",\n      \"title\": \"et Comp.\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 149.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"149.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stapfer et Comp. — v. 149.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"firma\",\n      \"heading\": \"Epicerie et Droguerie. d) Epic. en gros et en détail.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ziegler\",\n      \"forename\": \"\",\n      \"title\": \"le jeune, et Comp.\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 184.\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"184.\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ziegler, le jeune, et Comp. — v. 184.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "20",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "20"
+   },
+   {
+    "n": 2,
+    "text": "Müller, Chrètien. … Q. j. 12."
+   },
+   {
+    "n": 3,
+    "text": "Reber, Jean. … — r. 111."
+   },
+   {
+    "n": 4,
+    "text": "Sandoz, Henri François. … — r. 103."
+   },
+   {
+    "n": 5,
+    "text": "Epicerie et Droguerie."
+   },
+   {
+    "n": 6,
+    "text": "a) Epic. et Drog. en gros."
+   },
+   {
+    "n": 7,
+    "text": "Haller et Comp. … Q. v. 145."
+   },
+   {
+    "n": 8,
+    "text": "b) Epic. et Drog. en gros et en détail."
+   },
+   {
+    "n": 9,
+    "text": "Hébler, Fréd. … Q. v. 215."
+   },
+   {
+    "n": 10,
+    "text": "Pagenstecher et Souter. … — v. 206."
+   },
+   {
+    "n": 11,
+    "text": "c) Epicerie en gros."
+   },
+   {
+    "n": 12,
+    "text": "Schmid, Louis Fréd. … Q. v. 213."
+   },
+   {
+    "n": 13,
+    "text": "d) Epic. en gros et en détail."
+   },
+   {
+    "n": 14,
+    "text": "Desgouttes et Walthard. … Q. j. 44."
+   },
+   {
+    "n": 15,
+    "text": "Ernst, J. Rod. … — j. 42."
+   },
+   {
+    "n": 16,
+    "text": "Fueter, les fréres. … — v. 187."
+   },
+   {
+    "n": 17,
+    "text": "Hentzi, Rod. Jaques. … — v. 227."
+   },
+   {
+    "n": 18,
+    "text": "Meyrat, Jean Louis. … — j. 49."
+   },
+   {
+    "n": 19,
+    "text": "Stanz, Em. … — v. 142."
+   },
+   {
+    "n": 20,
+    "text": "Stapfer et Comp. … — v. 149."
+   },
+   {
+    "n": 21,
+    "text": "Ziegler, le jeune, et Comp. … — v. 184."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Müller",
+    "forename": "Chrètien",
+    "title": "",
+    "occupation": "",
+    "address": "Q. j. 12.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "12.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Müller, Chrètien. Q. j. 12."
+   },
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Reber",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 111.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "111.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Reber, Jean. — r. 111."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "Sandoz",
+    "forename": "Henri François",
+    "title": "",
+    "occupation": "",
+    "address": "— r. 103.",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "103.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Sandoz, Henri François. — r. 103."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "Epicerie et Droguerie. a) Epic. et Drog. en gros.",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "",
+    "title": "et Comp.",
+    "occupation": "",
+    "address": "Q. v. 145.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "145.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haller et Comp. Q. v. 145."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Epicerie et Droguerie. b) Epic. et Drog. en gros et en détail.",
+    "place": "Bern",
+    "surname": "Hébler",
+    "forename": "Fréd.",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 215.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "215.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hébler, Fréd. Q. v. 215."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "firma",
+    "heading": "Epicerie et Droguerie. b) Epic. et Drog. en gros et en détail.",
+    "place": "Bern",
+    "surname": "Pagenstecher et Souter",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 206.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "206.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pagenstecher et Souter. — v. 206."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Epicerie et Droguerie. c) Epicerie en gros.",
+    "place": "Bern",
+    "surname": "Schmid",
+    "forename": "Louis Fréd.",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 213.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "213.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schmid, Louis Fréd. Q. v. 213."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Epicerie et Droguerie. d) Epic. en gros et en détail.",
+    "place": "Bern",
+    "surname": "Desgouttes et Walthard",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Q. j. 44.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "44.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Desgouttes et Walthard. Q. j. 44."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Epicerie et Droguerie. d) Epic. en gros et en détail.",
+    "place": "Bern",
+    "surname": "Ernst",
+    "forename": "J. Rod.",
+    "title": "",
+    "occupation": "",
+    "address": "— j. 42.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "42.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ernst, J. Rod. — j. 42."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Epicerie et Droguerie. d) Epic. en gros et en détail.",
+    "place": "Bern",
+    "surname": "Fueter",
+    "forename": "",
+    "title": "les fréres",
+    "occupation": "",
+    "address": "— v. 187.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "187.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fueter, les fréres. — v. 187."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Epicerie et Droguerie. d) Epic. en gros et en détail.",
+    "place": "Bern",
+    "surname": "Hentzi",
+    "forename": "Rod. Jaques",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 227.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "227.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hentzi, Rod. Jaques. — v. 227."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Epicerie et Droguerie. d) Epic. en gros et en détail.",
+    "place": "Bern",
+    "surname": "Meyrat",
+    "forename": "Jean Louis",
+    "title": "",
+    "occupation": "",
+    "address": "— j. 49.",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "49.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Meyrat, Jean Louis. — j. 49."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Epicerie et Droguerie. d) Epic. en gros et en détail.",
+    "place": "Bern",
+    "surname": "Stanz",
+    "forename": "Em.",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 142.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "142.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stanz, Em. — v. 142."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "firma",
+    "heading": "Epicerie et Droguerie. d) Epic. en gros et en détail.",
+    "place": "Bern",
+    "surname": "Stapfer",
+    "forename": "",
+    "title": "et Comp.",
+    "occupation": "",
+    "address": "— v. 149.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "149.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stapfer et Comp. — v. 149."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "firma",
+    "heading": "Epicerie et Droguerie. d) Epic. en gros et en détail.",
+    "place": "Bern",
+    "surname": "Ziegler",
+    "forename": "",
+    "title": "le jeune, et Comp.",
+    "occupation": "",
+    "address": "— v. 184.",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "184.",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ziegler, le jeune, et Comp. — v. 184."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:57:23+01:00",
+ "last_error": null
+}

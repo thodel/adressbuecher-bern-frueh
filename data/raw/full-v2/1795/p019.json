@@ -1,0 +1,414 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 19,
+ "section": "handbuch",
+ "started": "2026-11-11T20:46:51+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 26.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 3035,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"17\",\n  \"running_head\": \"Arau.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Arau. 17\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"tirladen, und handlen mit Mode- und Galanterie-\"},\n    {\"n\": 4, \"text\": \"waaren.\"},\n    {\"n\": 5, \"text\": \"Beat Ludwig Schmutziger, führt eine Spe-\"},\n    {\"n\": 6, \"text\": \"cerey- und Indiennenhandlung.\"},\n    {\"n\": 7, \"text\": \"Johannes Schmid, führt verarbeitet Eisen,\"},\n    {\"n\": 8, \"text\": \"Meßing und Stahlwaaren, und Clincaillerie, sowohl\"},\n    {\"n\": 9, \"text\": \"aus England als aus Deutschland.\"},\n    {\"n\": 10, \"text\": \"Daniel Schmid, Gold- und Silberarbeiter.\"},\n    {\"n\": 11, \"text\": \"Joh. Jakob Wydler, führt einen Pelzhandel,\"},\n    {\"n\": 12, \"text\": \"und verfertiget alle Arten Pelzwaaren.\"},\n    {\"n\": 13, \"text\": \"Joh. Friederich Wydler, führt eine Détail-Hand-\"},\n    {\"n\": 14, \"text\": \"lung in Specerey und allerhand Tuchwaaren.\"},\n    {\"n\": 15, \"text\": \"Wilhelm Wydler Sohn, führt eine Apotheke,\"},\n    {\"n\": 16, \"text\": \"samt Material- und Specereyhandlung.\"},\n    {\"n\": 17, \"text\": \"Joh. Rudolf Wydler, fabriciert und verkauft\"},\n    {\"n\": 18, \"text\": \"alle Sorten, feine und halb feine, Herren- und\"},\n    {\"n\": 19, \"text\": \"Frauenzimmerhüthe.\"},\n    {\"n\": 20, \"text\": \"Joh. Jakob Wanger, Papier und Bücherladen.\"},\n    {\"n\": 21, \"text\": \"Bierbrauer sind drey, als:\"},\n    {\"n\": 22, \"text\": \"Johann Jakob Fisch.\"},\n    {\"n\": 23, \"text\": \"Daniel Gränicher.\"},\n    {\"n\": 24, \"text\": \"Johann Beat Siebenmann.\"},\n    {\"n\": 25, \"text\": \"Von der, seit etwas Zeit hier aufkommenden Uh-\"},\n    {\"n\": 26, \"text\": \"renmacher-Profession, befinden sich jezt 16 etablirte\"},\n    {\"n\": 27, \"text\": \"Meister; folgende haben zu allen Zeiten, alle Arten\"},\n    {\"n\": 28, \"text\": \"von goldenen und silbernen Uhren fertig: als\"},\n    {\"n\": 29, \"text\": \"Georg Dürr.\"},\n    {\"n\": 30, \"text\": \"B\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"Herr\",\n      \"occupation\": \"handlen mit Mode- und Galanteriewaaren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Fortsetzung von Seite 16\",\n      \"text\": \"Herr […?]tirladen, und handlen mit Mode- und Galanteriewaaren.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Schmutziger\",\n      \"forename\": \"Beat Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"führt eine Specerey- und Indiennenhandlung\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Beat Ludwig Schmutziger, führt eine Specerey- und Indiennenhandlung.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"führt verarbeitet Eisen, Meßing und Stahlwaaren, und Clincaillerie, sowohl aus England als aus Deutschland\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Schmid, führt verarbeitet Eisen, Meßing und Stahlwaaren, und Clincaillerie, sowohl aus England als aus Deutschland.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Gold- und Silberarbeiter\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Schmid, Gold- und Silberarbeiter.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Wydler\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"führt einen Pelzhandel, und verfertiget alle Arten Pelzwaaren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Wydler, führt einen Pelzhandel, und verfertiget alle Arten Pelzwaaren.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Wydler\",\n      \"forename\": \"Joh. Friederich\",\n      \"title\": \"\",\n      \"occupation\": \"führt eine Détail-Handlung in Specerey und allerhand Tuchwaaren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Friederich Wydler, führt eine Détail-Handlung in Specerey und allerhand Tuchwaaren.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Wydler\",\n      \"forename\": \"Wilhelm\",\n      \"title\": \"Sohn\",\n      \"occupation\": \"führt eine Apotheke, samt Material- und Specereyhandlung\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wilhelm Wydler Sohn, führt eine Apotheke, samt Material- und Specereyhandlung.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Wydler\",\n      \"forename\": \"Joh. Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"fabriciert und verkauft alle Sorten, feine und halb feine, Herren- und Frauenzimmerhüthe\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Rudolf Wydler, fabriciert und verkauft alle Sorten, feine und halb feine, Herren- und Frauenzimmerhüthe.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Arau\",\n      \"place\": \"Arau\",\n      \"surname\": \"Wanger\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Papier und Bücherladen\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Wanger, Papier und Bücherladen.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Bierbrauer\",\n      \"place\": \"Arau\",\n      \"surname\": \"Fisch\",\n      \"forename\": \"Johann Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Bierbrauer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bierbrauer sind drey, als: Johann Jakob Fisch.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Bierbrauer\",\n      \"place\": \"Arau\",\n      \"surname\": \"Gränicher\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Bierbrauer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Daniel Gränicher.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Bierbrauer\",\n      \"place\": \"Arau\",\n      \"surname\": \"Siebenmann\",\n      \"forename\": \"Johann Beat\",\n      \"title\": \"\",\n      \"occupation\": \"Bierbrauer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johann Beat Siebenmann.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Uhrenmacher-Profession\",\n      \"place\": \"Arau\",\n      \"surname\": \"Dürr\",\n      \"forename\": \"Georg\",\n      \"title\": \"\",\n      \"occupation\": \"Uhrenmacher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Von der, seit etwas Zeit hier aufkommenden Uhrenmacher-Profession, befinden sich jezt 16 etablirte Meister; folgende haben zu allen Zeiten, alle Arten von goldenen und silbernen Uhren fertig: als Georg Dürr.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "17",
+  "running_head": "Arau.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Arau. 17"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "tirladen, und handlen mit Mode- und Galanterie-"
+   },
+   {
+    "n": 4,
+    "text": "waaren."
+   },
+   {
+    "n": 5,
+    "text": "Beat Ludwig Schmutziger, führt eine Spe-"
+   },
+   {
+    "n": 6,
+    "text": "cerey- und Indiennenhandlung."
+   },
+   {
+    "n": 7,
+    "text": "Johannes Schmid, führt verarbeitet Eisen,"
+   },
+   {
+    "n": 8,
+    "text": "Meßing und Stahlwaaren, und Clincaillerie, sowohl"
+   },
+   {
+    "n": 9,
+    "text": "aus England als aus Deutschland."
+   },
+   {
+    "n": 10,
+    "text": "Daniel Schmid, Gold- und Silberarbeiter."
+   },
+   {
+    "n": 11,
+    "text": "Joh. Jakob Wydler, führt einen Pelzhandel,"
+   },
+   {
+    "n": 12,
+    "text": "und verfertiget alle Arten Pelzwaaren."
+   },
+   {
+    "n": 13,
+    "text": "Joh. Friederich Wydler, führt eine Détail-Hand-"
+   },
+   {
+    "n": 14,
+    "text": "lung in Specerey und allerhand Tuchwaaren."
+   },
+   {
+    "n": 15,
+    "text": "Wilhelm Wydler Sohn, führt eine Apotheke,"
+   },
+   {
+    "n": 16,
+    "text": "samt Material- und Specereyhandlung."
+   },
+   {
+    "n": 17,
+    "text": "Joh. Rudolf Wydler, fabriciert und verkauft"
+   },
+   {
+    "n": 18,
+    "text": "alle Sorten, feine und halb feine, Herren- und"
+   },
+   {
+    "n": 19,
+    "text": "Frauenzimmerhüthe."
+   },
+   {
+    "n": 20,
+    "text": "Joh. Jakob Wanger, Papier und Bücherladen."
+   },
+   {
+    "n": 21,
+    "text": "Bierbrauer sind drey, als:"
+   },
+   {
+    "n": 22,
+    "text": "Johann Jakob Fisch."
+   },
+   {
+    "n": 23,
+    "text": "Daniel Gränicher."
+   },
+   {
+    "n": 24,
+    "text": "Johann Beat Siebenmann."
+   },
+   {
+    "n": 25,
+    "text": "Von der, seit etwas Zeit hier aufkommenden Uh-"
+   },
+   {
+    "n": 26,
+    "text": "renmacher-Profession, befinden sich jezt 16 etablirte"
+   },
+   {
+    "n": 27,
+    "text": "Meister; folgende haben zu allen Zeiten, alle Arten"
+   },
+   {
+    "n": 28,
+    "text": "von goldenen und silbernen Uhren fertig: als"
+   },
+   {
+    "n": 29,
+    "text": "Georg Dürr."
+   },
+   {
+    "n": 30,
+    "text": "B"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "",
+    "forename": "",
+    "title": "Herr",
+    "occupation": "handlen mit Mode- und Galanteriewaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Fortsetzung von Seite 16",
+    "text": "Herr […?]tirladen, und handlen mit Mode- und Galanteriewaaren."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Schmutziger",
+    "forename": "Beat Ludwig",
+    "title": "",
+    "occupation": "führt eine Specerey- und Indiennenhandlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Beat Ludwig Schmutziger, führt eine Specerey- und Indiennenhandlung."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Schmid",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "führt verarbeitet Eisen, Meßing und Stahlwaaren, und Clincaillerie, sowohl aus England als aus Deutschland",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Schmid, führt verarbeitet Eisen, Meßing und Stahlwaaren, und Clincaillerie, sowohl aus England als aus Deutschland."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Schmid",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Gold- und Silberarbeiter",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Schmid, Gold- und Silberarbeiter."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Wydler",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "führt einen Pelzhandel, und verfertiget alle Arten Pelzwaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Wydler, führt einen Pelzhandel, und verfertiget alle Arten Pelzwaaren."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Wydler",
+    "forename": "Joh. Friederich",
+    "title": "",
+    "occupation": "führt eine Détail-Handlung in Specerey und allerhand Tuchwaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Friederich Wydler, führt eine Détail-Handlung in Specerey und allerhand Tuchwaaren."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Wydler",
+    "forename": "Wilhelm",
+    "title": "Sohn",
+    "occupation": "führt eine Apotheke, samt Material- und Specereyhandlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wilhelm Wydler Sohn, führt eine Apotheke, samt Material- und Specereyhandlung."
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Wydler",
+    "forename": "Joh. Rudolf",
+    "title": "",
+    "occupation": "fabriciert und verkauft alle Sorten, feine und halb feine, Herren- und Frauenzimmerhüthe",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Rudolf Wydler, fabriciert und verkauft alle Sorten, feine und halb feine, Herren- und Frauenzimmerhüthe."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Arau",
+    "place": "Arau",
+    "surname": "Wanger",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Papier und Bücherladen",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Wanger, Papier und Bücherladen."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Bierbrauer",
+    "place": "Arau",
+    "surname": "Fisch",
+    "forename": "Johann Jakob",
+    "title": "",
+    "occupation": "Bierbrauer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bierbrauer sind drey, als: Johann Jakob Fisch."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Bierbrauer",
+    "place": "Arau",
+    "surname": "Gränicher",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Bierbrauer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Daniel Gränicher."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Bierbrauer",
+    "place": "Arau",
+    "surname": "Siebenmann",
+    "forename": "Johann Beat",
+    "title": "",
+    "occupation": "Bierbrauer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johann Beat Siebenmann."
+   },
+   {
+    "line_from": 25,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Uhrenmacher-Profession",
+    "place": "Arau",
+    "surname": "Dürr",
+    "forename": "Georg",
+    "title": "",
+    "occupation": "Uhrenmacher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Von der, seit etwas Zeit hier aufkommenden Uhrenmacher-Profession, befinden sich jezt 16 etablirte Meister; folgende haben zu allen Zeiten, alle Arten von goldenen und silbernen Uhren fertig: als Georg Dürr."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:47:18+01:00",
+ "last_error": null
+}

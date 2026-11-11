@@ -1,0 +1,266 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 66,
+ "section": "fortsetzung",
+ "started": "2026-11-11T20:53:36+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 41.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2323,
+  "output": 2016,
+  "thoughts": 3654
+ },
+ "response_text": "{\n  \"printed_page\": \"66\",\n  \"running_head\": \"Bern.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"66 Bern.\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Friedrich Walther, Sohn, handelt mit Guß-\"},\n    {\"n\": 4, \"text\": \"und allen Eisenwaaren , wie auch mit Stahl,\"},\n    {\"n\": 5, \"text\": \"Sensen, Wetzsteinen 2c.\"},\n    {\"n\": 6, \"text\": \"Friederich Walther und Ziegler handeln\"},\n    {\"n\": 7, \"text\": \"mit Guß = und allen Eisen = und Stahlwaaren.\"},\n    {\"n\": 8, \"text\": \"Abraham Aeby an der Golattenmattgaß, rich-\"},\n    {\"n\": 9, \"text\": \"tet und verfertigt alle Sorten Uhren, goldene und\"},\n    {\"n\": 10, \"text\": \"silberne Repetieruhren, wie auch andere. Des-\"},\n    {\"n\": 11, \"text\": \"gleichen verkauft er alle Arten Pendülen.\"},\n    {\"n\": 12, \"text\": \"Frank, Ebenist, verfertigt allerhand Tisch-\"},\n    {\"n\": 13, \"text\": \"macherwerkzeug, Cabarets, wie auch geometrische\"},\n    {\"n\": 14, \"text\": \"Instrumente von Holz, wovon er immer einen Vor-\"},\n    {\"n\": 15, \"text\": \"rath hat.\"},\n    {\"n\": 16, \"text\": \"Johann Friedrich Funk, Bildhauer, hält ein\"},\n    {\"n\": 17, \"text\": \"Magazin von Trumeaux, Spiegel, Consoles und\"},\n    {\"n\": 18, \"text\": \"Leuchter; er verfertigt alle Arten von Rahmen\"},\n    {\"n\": 19, \"text\": \"(Cadres) zu Gemählden, auch alles was zur Deco-\"},\n    {\"n\": 20, \"text\": \"ration gehört; trumeaux à parquet auf Camine,\"},\n    {\"n\": 21, \"text\": \"Zwischenfenster, marmorne Blätter auf Tische und\"},\n    {\"n\": 22, \"text\": \"Kommodes, marmorne Mörser und Läufer zum\"},\n    {\"n\": 23, \"text\": \"Farbenreiben. Man findet bey ihm alle inländische\"},\n    {\"n\": 24, \"text\": \"Sorten Marmor, in Mustern zu Naturalienkabi-\"},\n    {\"n\": 25, \"text\": \"netten. Die Vergoldungen besorgt er auf die soli-\"},\n    {\"n\": 26, \"text\": \"deste Art und in sehr billigen Preisen.\"},\n    {\"n\": 27, \"text\": \"Johannes Hauwert, der jüngere, wohnhaft\"},\n    {\"n\": 28, \"text\": \"im Altenberg, verfertiget Fortepiano.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"Herr, Sohn\",\n      \"occupation\": \"handelt mit Guß- und allen Eisenwaaren, wie auch mit Stahl, Sensen, Wetzsteinen 2c.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Friedrich Walther, Sohn, handelt mit Guß- und allen Eisenwaaren, wie auch mit Stahl, Sensen, Wetzsteinen 2c.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Walther und Ziegler\",\n      \"forename\": \"Friederich\",\n      \"title\": \"\",\n      \"occupation\": \"handeln mit Guß- und allen Eisen- und Stahlwaaren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Friederich Walther und Ziegler handeln mit Guß- und allen Eisen- und Stahlwaaren.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aeby\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"richtet und verfertigt alle Sorten Uhren, goldene und silberne Repetieruhren, wie auch andere. Desgleichen verkauft er alle Arten Pendülen\",\n      \"address\": \"an der Golattenmattgaß\",\n      \"quarter\": \"\",\n      \"street\": \"Golattenmattgaß\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Abraham Aeby an der Golattenmattgaß, richtet und verfertigt alle Sorten Uhren, goldene und silberne Repetieruhren, wie auch andere. Desgleichen verkauft er alle Arten Pendülen.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frank\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Ebenist, verfertigt allerhand Tischmacherwerkzeug, Cabarets, wie auch geometrische Instrumente von Holz\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Frank, Ebenist, verfertigt allerhand Tischmacherwerkzeug, Cabarets, wie auch geometrische Instrumente von Holz, wovon er immer einen Vorrath hat.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Funk\",\n      \"forename\": \"Johann Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Bildhauer\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johann Friedrich Funk, Bildhauer, hält ein Magazin von Trumeaux, Spiegel, Consoles und Leuchter; er verfertigt alle Arten von Rahmen (Cadres) zu Gemählden, auch alles was zur Decoration gehört; trumeaux à parquet auf Camine, Zwischenfenster, marmorne Blätter auf Tische und Kommodes, marmorne Mörser und Läufer zum Farbenreiben. Man findet bey ihm alle inländische Sorten Marmor, in Mustern zu Naturalienkabinetten. Die Vergoldungen besorgt er auf die solideste Art und in sehr billigen Preisen.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Bern\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hauwert\",\n      \"forename\": \"Johannes\",\n      \"title\": \"der jüngere\",\n      \"occupation\": \"verfertiget Fortepiano\",\n      \"address\": \"im Altenberg\",\n      \"quarter\": \"Altenberg\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Johannes Hauwert, der jüngere, wohnhaft im Altenberg, verfertiget Fortepiano.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "66",
+  "running_head": "Bern.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "66 Bern."
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Friedrich Walther, Sohn, handelt mit Guß-"
+   },
+   {
+    "n": 4,
+    "text": "und allen Eisenwaaren , wie auch mit Stahl,"
+   },
+   {
+    "n": 5,
+    "text": "Sensen, Wetzsteinen 2c."
+   },
+   {
+    "n": 6,
+    "text": "Friederich Walther und Ziegler handeln"
+   },
+   {
+    "n": 7,
+    "text": "mit Guß = und allen Eisen = und Stahlwaaren."
+   },
+   {
+    "n": 8,
+    "text": "Abraham Aeby an der Golattenmattgaß, rich-"
+   },
+   {
+    "n": 9,
+    "text": "tet und verfertigt alle Sorten Uhren, goldene und"
+   },
+   {
+    "n": 10,
+    "text": "silberne Repetieruhren, wie auch andere. Des-"
+   },
+   {
+    "n": 11,
+    "text": "gleichen verkauft er alle Arten Pendülen."
+   },
+   {
+    "n": 12,
+    "text": "Frank, Ebenist, verfertigt allerhand Tisch-"
+   },
+   {
+    "n": 13,
+    "text": "macherwerkzeug, Cabarets, wie auch geometrische"
+   },
+   {
+    "n": 14,
+    "text": "Instrumente von Holz, wovon er immer einen Vor-"
+   },
+   {
+    "n": 15,
+    "text": "rath hat."
+   },
+   {
+    "n": 16,
+    "text": "Johann Friedrich Funk, Bildhauer, hält ein"
+   },
+   {
+    "n": 17,
+    "text": "Magazin von Trumeaux, Spiegel, Consoles und"
+   },
+   {
+    "n": 18,
+    "text": "Leuchter; er verfertigt alle Arten von Rahmen"
+   },
+   {
+    "n": 19,
+    "text": "(Cadres) zu Gemählden, auch alles was zur Deco-"
+   },
+   {
+    "n": 20,
+    "text": "ration gehört; trumeaux à parquet auf Camine,"
+   },
+   {
+    "n": 21,
+    "text": "Zwischenfenster, marmorne Blätter auf Tische und"
+   },
+   {
+    "n": 22,
+    "text": "Kommodes, marmorne Mörser und Läufer zum"
+   },
+   {
+    "n": 23,
+    "text": "Farbenreiben. Man findet bey ihm alle inländische"
+   },
+   {
+    "n": 24,
+    "text": "Sorten Marmor, in Mustern zu Naturalienkabi-"
+   },
+   {
+    "n": 25,
+    "text": "netten. Die Vergoldungen besorgt er auf die soli-"
+   },
+   {
+    "n": 26,
+    "text": "deste Art und in sehr billigen Preisen."
+   },
+   {
+    "n": 27,
+    "text": "Johannes Hauwert, der jüngere, wohnhaft"
+   },
+   {
+    "n": 28,
+    "text": "im Altenberg, verfertiget Fortepiano."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Walther",
+    "forename": "Friedrich",
+    "title": "Herr, Sohn",
+    "occupation": "handelt mit Guß- und allen Eisenwaaren, wie auch mit Stahl, Sensen, Wetzsteinen 2c.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Friedrich Walther, Sohn, handelt mit Guß- und allen Eisenwaaren, wie auch mit Stahl, Sensen, Wetzsteinen 2c."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Walther und Ziegler",
+    "forename": "Friederich",
+    "title": "",
+    "occupation": "handeln mit Guß- und allen Eisen- und Stahlwaaren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friederich Walther und Ziegler handeln mit Guß- und allen Eisen- und Stahlwaaren."
+   },
+   {
+    "line_from": 8,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Aeby",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "richtet und verfertigt alle Sorten Uhren, goldene und silberne Repetieruhren, wie auch andere. Desgleichen verkauft er alle Arten Pendülen",
+    "address": "an der Golattenmattgaß",
+    "quarter": "",
+    "street": "Golattenmattgaß",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Abraham Aeby an der Golattenmattgaß, richtet und verfertigt alle Sorten Uhren, goldene und silberne Repetieruhren, wie auch andere. Desgleichen verkauft er alle Arten Pendülen."
+   },
+   {
+    "line_from": 12,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Frank",
+    "forename": "",
+    "title": "",
+    "occupation": "Ebenist, verfertigt allerhand Tischmacherwerkzeug, Cabarets, wie auch geometrische Instrumente von Holz",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Frank, Ebenist, verfertigt allerhand Tischmacherwerkzeug, Cabarets, wie auch geometrische Instrumente von Holz, wovon er immer einen Vorrath hat."
+   },
+   {
+    "line_from": 16,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Funk",
+    "forename": "Johann Friedrich",
+    "title": "",
+    "occupation": "Bildhauer",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johann Friedrich Funk, Bildhauer, hält ein Magazin von Trumeaux, Spiegel, Consoles und Leuchter; er verfertigt alle Arten von Rahmen (Cadres) zu Gemählden, auch alles was zur Decoration gehört; trumeaux à parquet auf Camine, Zwischenfenster, marmorne Blätter auf Tische und Kommodes, marmorne Mörser und Läufer zum Farbenreiben. Man findet bey ihm alle inländische Sorten Marmor, in Mustern zu Naturalienkabinetten. Die Vergoldungen besorgt er auf die solideste Art und in sehr billigen Preisen."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Bern",
+    "place": "Bern",
+    "surname": "Hauwert",
+    "forename": "Johannes",
+    "title": "der jüngere",
+    "occupation": "verfertiget Fortepiano",
+    "address": "im Altenberg",
+    "quarter": "Altenberg",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Johannes Hauwert, der jüngere, wohnhaft im Altenberg, verfertiget Fortepiano."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:54:17+01:00",
+ "last_error": null
+}

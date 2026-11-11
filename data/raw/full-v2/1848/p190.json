@@ -1,0 +1,622 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 190,
+ "section": "neue_einsassen",
+ "started": "2026-11-11T22:13:16+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 38.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2437,
+  "output": 6146,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"177\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 177 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"2 792 Ulrich, Milchträger, a. Trub — VI, 129.\"},\n    {\"n\": 4, \"text\": \"4 K. — 819 Christ. Friedrich. — 20 Bend. Johann. —\"},\n    {\"n\": 5, \"text\": \"25 Magdalena. — 28 Joh. Gottlieb Bendicht.\"},\n    {\"n\": 6, \"text\": \"3 774 Ulrich, Milchträger, a. Eggiwyl — I, 135.\"},\n    {\"n\": 7, \"text\": \"4 798 Magdalena, Obsthändlerin, a. Langnau — II, 164.\"},\n    {\"n\": 8, \"text\": \"5 815 Anna, geb. Thunauer, Näherin u. Krämerin, a. Trub\"},\n    {\"n\": 9, \"text\": \"— II, 24 u. 25.\"},\n    {\"n\": 10, \"text\": \"1 S. — 844 Christian.\"},\n    {\"n\": 11, \"text\": \"6 804 Christian, Metzger, a. Trub — IV, 199.\"},\n    {\"n\": 12, \"text\": \"4 K. — 835 Maria Elisabetha. — 37 Karl Johann. —\"},\n    {\"n\": 13, \"text\": \"39 Franz Ludwig. — 42 Rudolf Christ.\"},\n    {\"n\": 14, \"text\": \"7 u. 8 814 Friedrich, u. 818 Jakob, Milchträger, V. v. 9, a. Trub\"},\n    {\"n\": 15, \"text\": \"— VII, 128 a.\"},\n    {\"n\": 16, \"text\": \"9 820 Samuel, Milchträger, V. v. 7 u. 8 — VII, 128 a.\"},\n    {\"n\": 17, \"text\": \"10 807 Rudolf Bernhard, Schuhmacher, a. Trub — V, 147.\"},\n    {\"n\": 18, \"text\": \"808 Fr. — Louise Strehl a. Saanen.\"},\n    {\"n\": 19, \"text\": \"11 810 Johann, Wochenmarktkrämer, a. Eggiwyl — IV, 74.\"},\n    {\"n\": 20, \"text\": \"814 Fr. — Elis. Hirsig.\"},\n    {\"n\": 21, \"text\": \"2 K. — 838 Maria Elis. — 40 Johann.\"},\n    {\"n\": 22, \"text\": \"12 799 Peter, Kappenmacher, a. Trub — VI, 64.\"},\n    {\"n\": 23, \"text\": \"13 815 Karl Samuel, Buchbinder, a. Trub — III, 88.\"},\n    {\"n\": 24, \"text\": \"809 Fr. — Sophie Henriette Gaudard, geb. Küpfer, a. Bern.\"},\n    {\"n\": 25, \"text\": \"5 K. — 840 Karl Rud. Friedrich. — 42 Friedrich. —\"},\n    {\"n\": 26, \"text\": \"43 Henriette Louise. — 46 Sophie Wilhelmine. — 47\"},\n    {\"n\": 27, \"text\": \"Sophie Emma Henriette.\"},\n    {\"n\": 28, \"text\": \"14 807 Christian, Käshändler u. Küchler, a. Eggiwyl — II, 205.\"},\n    {\"n\": 29, \"text\": \"804 Fr. — Marg. Hager a. Adelboden.\"},\n    {\"n\": 30, \"text\": \"1 T. — 842 Anna Marg.\"},\n    {\"n\": 31, \"text\": \"15 817 Elisabetha, Ausschenkerin, a. Trub — IV, 61.\"},\n    {\"n\": 32, \"text\": \"16 812 David, Milchträger, a. Trub — V, 213.\"},\n    {\"n\": 33, \"text\": \"816 Fr. — Magd. Nentsch a. Köniz.\"},\n    {\"n\": 34, \"text\": \"7 K. — 837 David. — 39 Elisabetha. — 40 Anna. —\"},\n    {\"n\": 35, \"text\": \"42 Joh. u Jakob. — 45 Friedrich. — 46 Maria.\"},\n    {\"n\": 36, \"text\": \"17 794 Samuel Christian, Schneider, a. Trub — V, 170.\"},\n    {\"n\": 37, \"text\": \"801 Fr. — Kath. Zahn, gew. Brechbühl, a. Dürrgraben.\"},\n    {\"n\": 38, \"text\": \"18 807 Christian, Eisendrechsler, a. Eggiwyl — I, 215 c.\"},\n    {\"n\": 39, \"text\": \"Fr. — Christina Fausi.\"},\n    {\"n\": 40, \"text\": \"Wydler.\"},\n    {\"n\": 41, \"text\": \"1 800 Heinrich, Professor der Botanik, a. Albisrieden, K.\"},\n    {\"n\": 42, \"text\": \"Zürich — II, 264.\"},\n    {\"n\": 43, \"text\": \"801 Fr. — Louise Wilhelmine Stuber a. Straßburg.\"},\n    {\"n\": 44, \"text\": \"2 815 Jakob Joseph, Flachmaler, a. Aarau — II, 224 a.\"},\n    {\"n\": 45, \"text\": \"820 Fr. II Ehe. — Elis. Marg. Berger a. Wattenwyl.\"},\n    {\"n\": 46, \"text\": \"2 K. aus I Ehe. — 840 Ludwig Karl Alfred. — 44\"},\n    {\"n\": 47, \"text\": \"Anna Elis.\"},\n    {\"n\": 48, \"text\": \"Wyler.\"},\n    {\"n\": 49, \"text\": \"1 795 Rudolf, Wagner, a. Köniz — V, 34.\"},\n    {\"n\": 50, \"text\": \"3 K. — 829 Susanna Marg. — 31 Maria Rosina. —\"},\n    {\"n\": 51, \"text\": \"34 Heinrich Rudolf.\"},\n    {\"n\": 52, \"text\": \"12\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"VI, 129\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"129\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1792\",\n      \"household\": \"4 K. — 819 Christ. Friedrich. — 20 Bend. Johann. — 25 Magdalena. — 28 Joh. Gottlieb Bendicht.\",\n      \"note\": \"\",\n      \"text\": \"2 792 Ulrich, Milchträger, a. Trub — VI, 129. 4 K. — 819 Christ. Friedrich. — 20 Bend. Johann. — 25 Magdalena. — 28 Joh. Gottlieb Bendicht.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"I, 135\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"135\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1774\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"3 774 Ulrich, Milchträger, a. Eggiwyl — I, 135.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"\",\n      \"occupation\": \"Obsthändlerin\",\n      \"address\": \"II, 164\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"164\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1798\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"4 798 Magdalena, Obsthändlerin, a. Langnau — II, 164.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Näherin u. Krämerin\",\n      \"address\": \"II, 24 u. 25\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"24 u. 25\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1815\",\n      \"household\": \"1 S. — 844 Christian.\",\n      \"note\": \"geb. Thunauer\",\n      \"text\": \"5 815 Anna, geb. Thunauer, Näherin u. Krämerin, a. Trub — II, 24 u. 25. 1 S. — 844 Christian.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Metzger\",\n      \"address\": \"IV, 199\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"199\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1804\",\n      \"household\": \"4 K. — 835 Maria Elisabetha. — 37 Karl Johann. — 39 Franz Ludwig. — 42 Rudolf Christ.\",\n      \"note\": \"\",\n      \"text\": \"6 804 Christian, Metzger, a. Trub — IV, 199. 4 K. — 835 Maria Elisabetha. — 37 Karl Johann. — 39 Franz Ludwig. — 42 Rudolf Christ.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Friedrich, u. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"VII, 128 a\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"128 a\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"B. v. 9\",\n      \"text\": \"7 u. 8 814 Friedrich, u. 818 Jakob, Milchträger, B. v. 9, a. Trub — VII, 128 a.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"VII, 128 a\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"128 a\",\n      \"origin\": \"\",\n      \"birth_year\": \"1820\",\n      \"household\": \"\",\n      \"note\": \"B. v. 7 u. 8\",\n      \"text\": \"9 820 Samuel, Milchträger, B. v. 7 u. 8 — VII, 128 a.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Rudolf Bernhard\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 147\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"147\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1807\",\n      \"household\": \"808 Fr. — Louise Strehl a. Saanen.\",\n      \"note\": \"\",\n      \"text\": \"10 807 Rudolf Bernhard, Schuhmacher, a. Trub — V, 147. 808 Fr. — Louise Strehl a. Saanen.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Wochenmarktkrämer\",\n      \"address\": \"IV, 74\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"74\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1810\",\n      \"household\": \"814 Fr. — Elis. Hirsig. 2 K. — 838 Maria Elis. — 40 Johann.\",\n      \"note\": \"\",\n      \"text\": \"11 810 Johann, Wochenmarktkrämer, a. Eggiwyl — IV, 74. 814 Fr. — Elis. Hirsig. 2 K. — 838 Maria Elis. — 40 Johann.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Kappenmacher\",\n      \"address\": \"VI, 64\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"64\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1799\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"12 799 Peter, Kappenmacher, a. Trub — VI, 64.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Karl Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Buchbinder\",\n      \"address\": \"III, 88\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"88\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1815\",\n      \"household\": \"809 Fr. — Sophie Henriette Gaudard, geb. Küpfer, a. Bern. 5 K. — 840 Karl Rud. Friedrich. — 42 Friedrich. — 43 Henriette Louise. — 46 Sophie Wilhelmine. — 47 Sophie Emma Henriette.\",\n      \"note\": \"\",\n      \"text\": \"13 815 Karl Samuel, Buchbinder, a. Trub — III, 88. 809 Fr. — Sophie Henriette Gaudard, geb. Küpfer, a. Bern. 5 K. — 840 Karl Rud. Friedrich. — 42 Friedrich. — 43 Henriette Louise. — 46 Sophie Wilhelmine. — 47 Sophie Emma Henriette.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Käshändler u. Küchler\",\n      \"address\": \"II, 205\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"205\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1807\",\n      \"household\": \"804 Fr. — Marg. Hager a. Adelboden. 1 T. — 842 Anna Marg.\",\n      \"note\": \"\",\n      \"text\": \"14 807 Christian, Käshändler u. Küchler, a. Eggiwyl — II, 205. 804 Fr. — Marg. Hager a. Adelboden. 1 T. — 842 Anna Marg.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Ausschenkerin\",\n      \"address\": \"IV, 61\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1817\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"15 817 Elisabetha, Ausschenkerin, a. Trub — IV, 61.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"V, 213\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"213\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1812\",\n      \"household\": \"816 Fr. — Magd. Nentsch a. Köniz. 7 K. — 837 David. — 39 Elisabetha. — 40 Anna. — 42 Joh. u Jakob. — 45 Friedrich. — 46 Maria.\",\n      \"note\": \"\",\n      \"text\": \"16 812 David, Milchträger, a. Trub — V, 213. 816 Fr. — Magd. Nentsch a. Köniz. 7 K. — 837 David. — 39 Elisabetha. — 40 Anna. — 42 Joh. u Jakob. — 45 Friedrich. — 46 Maria.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Samuel Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 170\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"170\",\n      \"origin\": \"Trub\",\n      \"birth_year\": \"1794\",\n      \"household\": \"801 Fr. — Kath. Zahn, gew. Brechbühl, a. Dürrgraben.\",\n      \"note\": \"\",\n      \"text\": \"17 794 Samuel Christian, Schneider, a. Trub — V, 170. 801 Fr. — Kath. Zahn, gew. Brechbühl, a. Dürrgraben.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Eisendrechsler\",\n      \"address\": \"I, 215 c\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215 c\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1807\",\n      \"household\": \"Fr. — Christina Fausi.\",\n      \"note\": \"\",\n      \"text\": \"18 807 Christian, Eisendrechsler, a. Eggiwyl — I, 215 c. Fr. — Christina Fausi.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Wydler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wydler\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Professor der Botanik\",\n      \"address\": \"II, 264\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"264\",\n      \"origin\": \"Albisrieden, K. Zürich\",\n      \"birth_year\": \"1800\",\n      \"household\": \"801 Fr. — Louise Wilhelmine Stuber a. Straßburg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 800 Heinrich, Professor der Botanik, a. Albisrieden, K. Zürich — II, 264. 801 Fr. — Louise Wilhelmine Stuber a. Straßburg.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 47,\n      \"kind\": \"person\",\n      \"heading\": \"Wydler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wydler\",\n      \"forename\": \"Jakob Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Flachmaler\",\n      \"address\": \"II, 224 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"224 a\",\n      \"origin\": \"Aarau\",\n      \"birth_year\": \"1815\",\n      \"household\": \"820 Fr. II Ehe. — Elis. Marg. Berger a. Wattenwyl. 2 K. aus I Ehe. — 840 Ludwig Karl Alfred. — 44 Anna Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 815 Jakob Joseph, Flachmaler, a. Aarau — II, 224 a. 820 Fr. II Ehe. — Elis. Marg. Berger a. Wattenwyl. 2 K. aus I Ehe. — 840 Ludwig Karl Alfred. — 44 Anna Elis.\"\n    },\n    {\n      \"line_from\": 49,\n      \"line_to\": 51,\n      \"kind\": \"person\",\n      \"heading\": \"Wyler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wyler\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Wagner\",\n      \"address\": \"V, 34\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"34\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1795\",\n      \"household\": \"3 K. — 829 Susanna Marg. — 31 Maria Rosina. — 34 Heinrich Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 795 Rudolf, Wagner, a. Köniz — V, 34. 3 K. — 829 Susanna Marg. — 31 Maria Rosina. — 34 Heinrich Rudolf.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "177",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 177 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "2 792 Ulrich, Milchträger, a. Trub — VI, 129."
+   },
+   {
+    "n": 4,
+    "text": "4 K. — 819 Christ. Friedrich. — 20 Bend. Johann. —"
+   },
+   {
+    "n": 5,
+    "text": "25 Magdalena. — 28 Joh. Gottlieb Bendicht."
+   },
+   {
+    "n": 6,
+    "text": "3 774 Ulrich, Milchträger, a. Eggiwyl — I, 135."
+   },
+   {
+    "n": 7,
+    "text": "4 798 Magdalena, Obsthändlerin, a. Langnau — II, 164."
+   },
+   {
+    "n": 8,
+    "text": "5 815 Anna, geb. Thunauer, Näherin u. Krämerin, a. Trub"
+   },
+   {
+    "n": 9,
+    "text": "— II, 24 u. 25."
+   },
+   {
+    "n": 10,
+    "text": "1 S. — 844 Christian."
+   },
+   {
+    "n": 11,
+    "text": "6 804 Christian, Metzger, a. Trub — IV, 199."
+   },
+   {
+    "n": 12,
+    "text": "4 K. — 835 Maria Elisabetha. — 37 Karl Johann. —"
+   },
+   {
+    "n": 13,
+    "text": "39 Franz Ludwig. — 42 Rudolf Christ."
+   },
+   {
+    "n": 14,
+    "text": "7 u. 8 814 Friedrich, u. 818 Jakob, Milchträger, V. v. 9, a. Trub"
+   },
+   {
+    "n": 15,
+    "text": "— VII, 128 a."
+   },
+   {
+    "n": 16,
+    "text": "9 820 Samuel, Milchträger, V. v. 7 u. 8 — VII, 128 a."
+   },
+   {
+    "n": 17,
+    "text": "10 807 Rudolf Bernhard, Schuhmacher, a. Trub — V, 147."
+   },
+   {
+    "n": 18,
+    "text": "808 Fr. — Louise Strehl a. Saanen."
+   },
+   {
+    "n": 19,
+    "text": "11 810 Johann, Wochenmarktkrämer, a. Eggiwyl — IV, 74."
+   },
+   {
+    "n": 20,
+    "text": "814 Fr. — Elis. Hirsig."
+   },
+   {
+    "n": 21,
+    "text": "2 K. — 838 Maria Elis. — 40 Johann."
+   },
+   {
+    "n": 22,
+    "text": "12 799 Peter, Kappenmacher, a. Trub — VI, 64."
+   },
+   {
+    "n": 23,
+    "text": "13 815 Karl Samuel, Buchbinder, a. Trub — III, 88."
+   },
+   {
+    "n": 24,
+    "text": "809 Fr. — Sophie Henriette Gaudard, geb. Küpfer, a. Bern."
+   },
+   {
+    "n": 25,
+    "text": "5 K. — 840 Karl Rud. Friedrich. — 42 Friedrich. —"
+   },
+   {
+    "n": 26,
+    "text": "43 Henriette Louise. — 46 Sophie Wilhelmine. — 47"
+   },
+   {
+    "n": 27,
+    "text": "Sophie Emma Henriette."
+   },
+   {
+    "n": 28,
+    "text": "14 807 Christian, Käshändler u. Küchler, a. Eggiwyl — II, 205."
+   },
+   {
+    "n": 29,
+    "text": "804 Fr. — Marg. Hager a. Adelboden."
+   },
+   {
+    "n": 30,
+    "text": "1 T. — 842 Anna Marg."
+   },
+   {
+    "n": 31,
+    "text": "15 817 Elisabetha, Ausschenkerin, a. Trub — IV, 61."
+   },
+   {
+    "n": 32,
+    "text": "16 812 David, Milchträger, a. Trub — V, 213."
+   },
+   {
+    "n": 33,
+    "text": "816 Fr. — Magd. Nentsch a. Köniz."
+   },
+   {
+    "n": 34,
+    "text": "7 K. — 837 David. — 39 Elisabetha. — 40 Anna. —"
+   },
+   {
+    "n": 35,
+    "text": "42 Joh. u Jakob. — 45 Friedrich. — 46 Maria."
+   },
+   {
+    "n": 36,
+    "text": "17 794 Samuel Christian, Schneider, a. Trub — V, 170."
+   },
+   {
+    "n": 37,
+    "text": "801 Fr. — Kath. Zahn, gew. Brechbühl, a. Dürrgraben."
+   },
+   {
+    "n": 38,
+    "text": "18 807 Christian, Eisendrechsler, a. Eggiwyl — I, 215 c."
+   },
+   {
+    "n": 39,
+    "text": "Fr. — Christina Fausi."
+   },
+   {
+    "n": 40,
+    "text": "Wydler."
+   },
+   {
+    "n": 41,
+    "text": "1 800 Heinrich, Professor der Botanik, a. Albisrieden, K."
+   },
+   {
+    "n": 42,
+    "text": "Zürich — II, 264."
+   },
+   {
+    "n": 43,
+    "text": "801 Fr. — Louise Wilhelmine Stuber a. Straßburg."
+   },
+   {
+    "n": 44,
+    "text": "2 815 Jakob Joseph, Flachmaler, a. Aarau — II, 224 a."
+   },
+   {
+    "n": 45,
+    "text": "820 Fr. II Ehe. — Elis. Marg. Berger a. Wattenwyl."
+   },
+   {
+    "n": 46,
+    "text": "2 K. aus I Ehe. — 840 Ludwig Karl Alfred. — 44"
+   },
+   {
+    "n": 47,
+    "text": "Anna Elis."
+   },
+   {
+    "n": 48,
+    "text": "Wyler."
+   },
+   {
+    "n": 49,
+    "text": "1 795 Rudolf, Wagner, a. Köniz — V, 34."
+   },
+   {
+    "n": 50,
+    "text": "3 K. — 829 Susanna Marg. — 31 Maria Rosina. —"
+   },
+   {
+    "n": 51,
+    "text": "34 Heinrich Rudolf."
+   },
+   {
+    "n": 52,
+    "text": "12"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "VI, 129",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "129",
+    "origin": "Trub",
+    "birth_year": "1792",
+    "household": "4 K. — 819 Christ. Friedrich. — 20 Bend. Johann. — 25 Magdalena. — 28 Joh. Gottlieb Bendicht.",
+    "note": "",
+    "text": "2 792 Ulrich, Milchträger, a. Trub — VI, 129. 4 K. — 819 Christ. Friedrich. — 20 Bend. Johann. — 25 Magdalena. — 28 Joh. Gottlieb Bendicht."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "I, 135",
+    "quarter": "I",
+    "street": "",
+    "house_no": "135",
+    "origin": "Eggiwyl",
+    "birth_year": "1774",
+    "household": "",
+    "note": "",
+    "text": "3 774 Ulrich, Milchträger, a. Eggiwyl — I, 135."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Magdalena",
+    "title": "",
+    "occupation": "Obsthändlerin",
+    "address": "II, 164",
+    "quarter": "II",
+    "street": "",
+    "house_no": "164",
+    "origin": "Langnau",
+    "birth_year": "1798",
+    "household": "",
+    "note": "",
+    "text": "4 798 Magdalena, Obsthändlerin, a. Langnau — II, 164."
+   },
+   {
+    "line_from": 8,
+    "line_to": 10,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Näherin u. Krämerin",
+    "address": "II, 24 u. 25",
+    "quarter": "II",
+    "street": "",
+    "house_no": "24 u. 25",
+    "origin": "Trub",
+    "birth_year": "1815",
+    "household": "1 S. — 844 Christian.",
+    "note": "geb. Thunauer",
+    "text": "5 815 Anna, geb. Thunauer, Näherin u. Krämerin, a. Trub — II, 24 u. 25. 1 S. — 844 Christian."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Metzger",
+    "address": "IV, 199",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "199",
+    "origin": "Trub",
+    "birth_year": "1804",
+    "household": "4 K. — 835 Maria Elisabetha. — 37 Karl Johann. — 39 Franz Ludwig. — 42 Rudolf Christ.",
+    "note": "",
+    "text": "6 804 Christian, Metzger, a. Trub — IV, 199. 4 K. — 835 Maria Elisabetha. — 37 Karl Johann. — 39 Franz Ludwig. — 42 Rudolf Christ."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Friedrich, u. Jakob",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "VII, 128 a",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "128 a",
+    "origin": "Trub",
+    "birth_year": "1814",
+    "household": "",
+    "note": "B. v. 9",
+    "text": "7 u. 8 814 Friedrich, u. 818 Jakob, Milchträger, B. v. 9, a. Trub — VII, 128 a."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "VII, 128 a",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "128 a",
+    "origin": "",
+    "birth_year": "1820",
+    "household": "",
+    "note": "B. v. 7 u. 8",
+    "text": "9 820 Samuel, Milchträger, B. v. 7 u. 8 — VII, 128 a."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Rudolf Bernhard",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 147",
+    "quarter": "V",
+    "street": "",
+    "house_no": "147",
+    "origin": "Trub",
+    "birth_year": "1807",
+    "household": "808 Fr. — Louise Strehl a. Saanen.",
+    "note": "",
+    "text": "10 807 Rudolf Bernhard, Schuhmacher, a. Trub — V, 147. 808 Fr. — Louise Strehl a. Saanen."
+   },
+   {
+    "line_from": 19,
+    "line_to": 21,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Wochenmarktkrämer",
+    "address": "IV, 74",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "74",
+    "origin": "Eggiwyl",
+    "birth_year": "1810",
+    "household": "814 Fr. — Elis. Hirsig. 2 K. — 838 Maria Elis. — 40 Johann.",
+    "note": "",
+    "text": "11 810 Johann, Wochenmarktkrämer, a. Eggiwyl — IV, 74. 814 Fr. — Elis. Hirsig. 2 K. — 838 Maria Elis. — 40 Johann."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Kappenmacher",
+    "address": "VI, 64",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "64",
+    "origin": "Trub",
+    "birth_year": "1799",
+    "household": "",
+    "note": "",
+    "text": "12 799 Peter, Kappenmacher, a. Trub — VI, 64."
+   },
+   {
+    "line_from": 23,
+    "line_to": 27,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Karl Samuel",
+    "title": "",
+    "occupation": "Buchbinder",
+    "address": "III, 88",
+    "quarter": "III",
+    "street": "",
+    "house_no": "88",
+    "origin": "Trub",
+    "birth_year": "1815",
+    "household": "809 Fr. — Sophie Henriette Gaudard, geb. Küpfer, a. Bern. 5 K. — 840 Karl Rud. Friedrich. — 42 Friedrich. — 43 Henriette Louise. — 46 Sophie Wilhelmine. — 47 Sophie Emma Henriette.",
+    "note": "",
+    "text": "13 815 Karl Samuel, Buchbinder, a. Trub — III, 88. 809 Fr. — Sophie Henriette Gaudard, geb. Küpfer, a. Bern. 5 K. — 840 Karl Rud. Friedrich. — 42 Friedrich. — 43 Henriette Louise. — 46 Sophie Wilhelmine. — 47 Sophie Emma Henriette."
+   },
+   {
+    "line_from": 28,
+    "line_to": 30,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Käshändler u. Küchler",
+    "address": "II, 205",
+    "quarter": "II",
+    "street": "",
+    "house_no": "205",
+    "origin": "Eggiwyl",
+    "birth_year": "1807",
+    "household": "804 Fr. — Marg. Hager a. Adelboden. 1 T. — 842 Anna Marg.",
+    "note": "",
+    "text": "14 807 Christian, Käshändler u. Küchler, a. Eggiwyl — II, 205. 804 Fr. — Marg. Hager a. Adelboden. 1 T. — 842 Anna Marg."
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Ausschenkerin",
+    "address": "IV, 61",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "61",
+    "origin": "Trub",
+    "birth_year": "1817",
+    "household": "",
+    "note": "",
+    "text": "15 817 Elisabetha, Ausschenkerin, a. Trub — IV, 61."
+   },
+   {
+    "line_from": 32,
+    "line_to": 35,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "David",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "V, 213",
+    "quarter": "V",
+    "street": "",
+    "house_no": "213",
+    "origin": "Trub",
+    "birth_year": "1812",
+    "household": "816 Fr. — Magd. Nentsch a. Köniz. 7 K. — 837 David. — 39 Elisabetha. — 40 Anna. — 42 Joh. u Jakob. — 45 Friedrich. — 46 Maria.",
+    "note": "",
+    "text": "16 812 David, Milchträger, a. Trub — V, 213. 816 Fr. — Magd. Nentsch a. Köniz. 7 K. — 837 David. — 39 Elisabetha. — 40 Anna. — 42 Joh. u Jakob. — 45 Friedrich. — 46 Maria."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Samuel Christian",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 170",
+    "quarter": "V",
+    "street": "",
+    "house_no": "170",
+    "origin": "Trub",
+    "birth_year": "1794",
+    "household": "801 Fr. — Kath. Zahn, gew. Brechbühl, a. Dürrgraben.",
+    "note": "",
+    "text": "17 794 Samuel Christian, Schneider, a. Trub — V, 170. 801 Fr. — Kath. Zahn, gew. Brechbühl, a. Dürrgraben."
+   },
+   {
+    "line_from": 38,
+    "line_to": 39,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Eisendrechsler",
+    "address": "I, 215 c",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215 c",
+    "origin": "Eggiwyl",
+    "birth_year": "1807",
+    "household": "Fr. — Christina Fausi.",
+    "note": "",
+    "text": "18 807 Christian, Eisendrechsler, a. Eggiwyl — I, 215 c. Fr. — Christina Fausi."
+   },
+   {
+    "line_from": 41,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Wydler.",
+    "place": "Bern",
+    "surname": "Wydler",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Professor der Botanik",
+    "address": "II, 264",
+    "quarter": "II",
+    "street": "",
+    "house_no": "264",
+    "origin": "Albisrieden, K. Zürich",
+    "birth_year": "1800",
+    "household": "801 Fr. — Louise Wilhelmine Stuber a. Straßburg.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 800 Heinrich, Professor der Botanik, a. Albisrieden, K. Zürich — II, 264. 801 Fr. — Louise Wilhelmine Stuber a. Straßburg."
+   },
+   {
+    "line_from": 44,
+    "line_to": 47,
+    "kind": "person",
+    "heading": "Wydler.",
+    "place": "Bern",
+    "surname": "Wydler",
+    "forename": "Jakob Joseph",
+    "title": "",
+    "occupation": "Flachmaler",
+    "address": "II, 224 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "224 a",
+    "origin": "Aarau",
+    "birth_year": "1815",
+    "household": "820 Fr. II Ehe. — Elis. Marg. Berger a. Wattenwyl. 2 K. aus I Ehe. — 840 Ludwig Karl Alfred. — 44 Anna Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 815 Jakob Joseph, Flachmaler, a. Aarau — II, 224 a. 820 Fr. II Ehe. — Elis. Marg. Berger a. Wattenwyl. 2 K. aus I Ehe. — 840 Ludwig Karl Alfred. — 44 Anna Elis."
+   },
+   {
+    "line_from": 49,
+    "line_to": 51,
+    "kind": "person",
+    "heading": "Wyler.",
+    "place": "Bern",
+    "surname": "Wyler",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Wagner",
+    "address": "V, 34",
+    "quarter": "V",
+    "street": "",
+    "house_no": "34",
+    "origin": "Köniz",
+    "birth_year": "1795",
+    "household": "3 K. — 829 Susanna Marg. — 31 Maria Rosina. — 34 Heinrich Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 795 Rudolf, Wagner, a. Köniz — V, 34. 3 K. — 829 Susanna Marg. — 31 Maria Rosina. — 34 Heinrich Rudolf."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:13:55+01:00",
+ "last_error": null
+}

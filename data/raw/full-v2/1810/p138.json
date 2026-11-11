@@ -1,0 +1,602 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 138,
+ "section": "canton",
+ "started": "2026-11-11T21:00:01+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 59.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2322,
+  "output": 4478,
+  "thoughts": 4034
+ },
+ "response_text": "{\n  \"printed_page\": \"65\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"65\"},\n    {\"n\": 2, \"text\": \"Hopf, Rodolphe, Chamoiseur, Commerce de\"},\n    {\"n\": 3, \"text\": \"Cuirs.\"},\n    {\"n\": 4, \"text\": \"Hurner, la Veuve, Epicerie, Filasse de chan-\"},\n    {\"n\": 5, \"text\": \"vre, Corderie.\"},\n    {\"n\": 6, \"text\": \"Knechtenhofer, Jean Pierre, Epicerie, Merce-\"},\n    {\"n\": 7, \"text\": \"rie, Etoffes de l'Oberland, Eau de cerises.\"},\n    {\"n\": 8, \"text\": \"Koch et Comp., Commission et Expédition,\"},\n    {\"n\": 9, \"text\": \"Commerce en gros de Vin, Ris, Fromages.\"},\n    {\"n\": 10, \"text\": \"Koch, Rodolphe, Docteur en Médecine, Phar-\"},\n    {\"n\": 11, \"text\": \"macien.\"},\n    {\"n\": 12, \"text\": \"Kourz, David, Epicerie, Verrerie.\"},\n    {\"n\": 13, \"text\": \"Kourz, Samuel, Cuirs.\"},\n    {\"n\": 14, \"text\": \"Lohner, la Veuve et fils, Fer et Quincaillerie.\"},\n    {\"n\": 15, \"text\": \"Liechti, Chrétien, Fabrique de Tabac.\"},\n    {\"n\": 16, \"text\": \"Lougibuhl et Tschaggeni, Fer et Quincaillerie.\"},\n    {\"n\": 17, \"text\": \"Matti, Commerce de Vin.\"},\n    {\"n\": 18, \"text\": \"Millet et Wyder, Epicerie, Mercerie et Dra-\"},\n    {\"n\": 19, \"text\": \"perie.\"},\n    {\"n\": 20, \"text\": \"Moser, Fréderic, Epicerie, Papier, Livres.\"},\n    {\"n\": 21, \"text\": \"Muller, Marguerithe, Fil et .Mercerie.\"},\n    {\"n\": 22, \"text\": \"Muller, Jean Rodolphe, Epicerie.\"},\n    {\"n\": 23, \"text\": \"Muller, Rodolphe, Fabrique de Chapeaux.\"},\n    {\"n\": 24, \"text\": \"Muller, Rodolphe Jacob, le jeune, Epicerie.\"},\n    {\"n\": 25, \"text\": \"Muller, Samuel, le jeune, Epicerie.\"},\n    {\"n\": 26, \"text\": \"Roubin, Charles, Quincaillerie.\"},\n    {\"n\": 27, \"text\": \"Roubin, Lisette, Modes, Mercerie.\"},\n    {\"n\": 28, \"text\": \"Roubin, les sœurs, Cotonnes, Mercerie.\"},\n    {\"n\": 29, \"text\": \"Scheidegg, Théophile, Pharmacien, Dro-\"},\n    {\"n\": 30, \"text\": \"guerie, Productions du pays, sur tout Eau\"},\n    {\"n\": 31, \"text\": \"de cerises de la prémiere qualité.\"},\n    {\"n\": 32, \"text\": \"i\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Hopf\",\n      \"forename\": \"Rodolphe\",\n      \"title\": \"\",\n      \"occupation\": \"Chamoiseur, Commerce de Cuirs.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hopf, Rodolphe, Chamoiseur, Commerce de Cuirs.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Hurner\",\n      \"forename\": \"\",\n      \"title\": \"la Veuve\",\n      \"occupation\": \"Epicerie, Filasse de chanvre, Corderie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hurner, la Veuve, Epicerie, Filasse de chanvre, Corderie.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Knechtenhofer\",\n      \"forename\": \"Jean Pierre\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie, Mercerie, Etoffes de l'Oberland, Eau de cerises.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Knechtenhofer, Jean Pierre, Epicerie, Mercerie, Etoffes de l'Oberland, Eau de cerises.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"firma\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Koch\",\n      \"forename\": \"\",\n      \"title\": \"et Comp.\",\n      \"occupation\": \"Commission et Expédition, Commerce en gros de Vin, Ris, Fromages.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Koch et Comp., Commission et Expédition, Commerce en gros de Vin, Ris, Fromages.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Koch\",\n      \"forename\": \"Rodolphe\",\n      \"title\": \"Docteur en Médecine\",\n      \"occupation\": \"Pharmacien.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Koch, Rodolphe, Docteur en Médecine, Pharmacien.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Kourz\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie, Verrerie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kourz, David, Epicerie, Verrerie.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Kourz\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Cuirs.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kourz, Samuel, Cuirs.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Lohner\",\n      \"forename\": \"\",\n      \"title\": \"la Veuve et fils\",\n      \"occupation\": \"Fer et Quincaillerie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lohner, la Veuve et fils, Fer et Quincaillerie.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Liechti\",\n      \"forename\": \"Chrétien\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrique de Tabac.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Liechti, Chrétien, Fabrique de Tabac.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Lougibuhl et Tschaggeni\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Fer et Quincaillerie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lougibuhl et Tschaggeni, Fer et Quincaillerie.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Matti\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Commerce de Vin.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Matti, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Millet et Wyder\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie, Mercerie et Draperie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Millet et Wyder, Epicerie, Mercerie et Draperie.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Moser\",\n      \"forename\": \"Fréderic\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie, Papier, Livres.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Moser, Fréderic, Epicerie, Papier, Livres.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Muller\",\n      \"forename\": \"Marguerithe\",\n      \"title\": \"\",\n      \"occupation\": \"Fil et Mercerie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Muller, Marguerithe, Fil et .Mercerie.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Muller\",\n      \"forename\": \"Jean Rodolphe\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Muller, Jean Rodolphe, Epicerie.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Muller\",\n      \"forename\": \"Rodolphe\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrique de Chapeaux.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Muller, Rodolphe, Fabrique de Chapeaux.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Muller\",\n      \"forename\": \"Rodolphe Jacob\",\n      \"title\": \"le jeune\",\n      \"occupation\": \"Epicerie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Muller, Rodolphe Jacob, le jeune, Epicerie.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Muller\",\n      \"forename\": \"Samuel\",\n      \"title\": \"le jeune\",\n      \"occupation\": \"Epicerie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Muller, Samuel, le jeune, Epicerie.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Roubin\",\n      \"forename\": \"Charles\",\n      \"title\": \"\",\n      \"occupation\": \"Quincaillerie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Roubin, Charles, Quincaillerie.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Roubin\",\n      \"forename\": \"Lisette\",\n      \"title\": \"\",\n      \"occupation\": \"Modes, Mercerie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Roubin, Lisette, Modes, Mercerie.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"firma\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Roubin\",\n      \"forename\": \"\",\n      \"title\": \"les sœurs\",\n      \"occupation\": \"Cotonnes, Mercerie.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Roubin, les sœurs, Cotonnes, Mercerie.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Thun\",\n      \"place\": \"Thun\",\n      \"surname\": \"Scheidegg\",\n      \"forename\": \"Théophile\",\n      \"title\": \"\",\n      \"occupation\": \"Pharmacien, Droguerie, Productions du pays, sur tout Eau de cerises de la prémiere qualité.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Scheidegg, Théophile, Pharmacien, Droguerie, Productions du pays, sur tout Eau de cerises de la prémiere qualité.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "65",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "65"
+   },
+   {
+    "n": 2,
+    "text": "Hopf, Rodolphe, Chamoiseur, Commerce de"
+   },
+   {
+    "n": 3,
+    "text": "Cuirs."
+   },
+   {
+    "n": 4,
+    "text": "Hurner, la Veuve, Epicerie, Filasse de chan-"
+   },
+   {
+    "n": 5,
+    "text": "vre, Corderie."
+   },
+   {
+    "n": 6,
+    "text": "Knechtenhofer, Jean Pierre, Epicerie, Merce-"
+   },
+   {
+    "n": 7,
+    "text": "rie, Etoffes de l'Oberland, Eau de cerises."
+   },
+   {
+    "n": 8,
+    "text": "Koch et Comp., Commission et Expédition,"
+   },
+   {
+    "n": 9,
+    "text": "Commerce en gros de Vin, Ris, Fromages."
+   },
+   {
+    "n": 10,
+    "text": "Koch, Rodolphe, Docteur en Médecine, Phar-"
+   },
+   {
+    "n": 11,
+    "text": "macien."
+   },
+   {
+    "n": 12,
+    "text": "Kourz, David, Epicerie, Verrerie."
+   },
+   {
+    "n": 13,
+    "text": "Kourz, Samuel, Cuirs."
+   },
+   {
+    "n": 14,
+    "text": "Lohner, la Veuve et fils, Fer et Quincaillerie."
+   },
+   {
+    "n": 15,
+    "text": "Liechti, Chrétien, Fabrique de Tabac."
+   },
+   {
+    "n": 16,
+    "text": "Lougibuhl et Tschaggeni, Fer et Quincaillerie."
+   },
+   {
+    "n": 17,
+    "text": "Matti, Commerce de Vin."
+   },
+   {
+    "n": 18,
+    "text": "Millet et Wyder, Epicerie, Mercerie et Dra-"
+   },
+   {
+    "n": 19,
+    "text": "perie."
+   },
+   {
+    "n": 20,
+    "text": "Moser, Fréderic, Epicerie, Papier, Livres."
+   },
+   {
+    "n": 21,
+    "text": "Muller, Marguerithe, Fil et .Mercerie."
+   },
+   {
+    "n": 22,
+    "text": "Muller, Jean Rodolphe, Epicerie."
+   },
+   {
+    "n": 23,
+    "text": "Muller, Rodolphe, Fabrique de Chapeaux."
+   },
+   {
+    "n": 24,
+    "text": "Muller, Rodolphe Jacob, le jeune, Epicerie."
+   },
+   {
+    "n": 25,
+    "text": "Muller, Samuel, le jeune, Epicerie."
+   },
+   {
+    "n": 26,
+    "text": "Roubin, Charles, Quincaillerie."
+   },
+   {
+    "n": 27,
+    "text": "Roubin, Lisette, Modes, Mercerie."
+   },
+   {
+    "n": 28,
+    "text": "Roubin, les sœurs, Cotonnes, Mercerie."
+   },
+   {
+    "n": 29,
+    "text": "Scheidegg, Théophile, Pharmacien, Dro-"
+   },
+   {
+    "n": 30,
+    "text": "guerie, Productions du pays, sur tout Eau"
+   },
+   {
+    "n": 31,
+    "text": "de cerises de la prémiere qualité."
+   },
+   {
+    "n": 32,
+    "text": "i"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Hopf",
+    "forename": "Rodolphe",
+    "title": "",
+    "occupation": "Chamoiseur, Commerce de Cuirs.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hopf, Rodolphe, Chamoiseur, Commerce de Cuirs."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Hurner",
+    "forename": "",
+    "title": "la Veuve",
+    "occupation": "Epicerie, Filasse de chanvre, Corderie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hurner, la Veuve, Epicerie, Filasse de chanvre, Corderie."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Knechtenhofer",
+    "forename": "Jean Pierre",
+    "title": "",
+    "occupation": "Epicerie, Mercerie, Etoffes de l'Oberland, Eau de cerises.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Knechtenhofer, Jean Pierre, Epicerie, Mercerie, Etoffes de l'Oberland, Eau de cerises."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "firma",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Koch",
+    "forename": "",
+    "title": "et Comp.",
+    "occupation": "Commission et Expédition, Commerce en gros de Vin, Ris, Fromages.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Koch et Comp., Commission et Expédition, Commerce en gros de Vin, Ris, Fromages."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Koch",
+    "forename": "Rodolphe",
+    "title": "Docteur en Médecine",
+    "occupation": "Pharmacien.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Koch, Rodolphe, Docteur en Médecine, Pharmacien."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Kourz",
+    "forename": "David",
+    "title": "",
+    "occupation": "Epicerie, Verrerie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kourz, David, Epicerie, Verrerie."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Kourz",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Cuirs.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kourz, Samuel, Cuirs."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Lohner",
+    "forename": "",
+    "title": "la Veuve et fils",
+    "occupation": "Fer et Quincaillerie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lohner, la Veuve et fils, Fer et Quincaillerie."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Liechti",
+    "forename": "Chrétien",
+    "title": "",
+    "occupation": "Fabrique de Tabac.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Liechti, Chrétien, Fabrique de Tabac."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Lougibuhl et Tschaggeni",
+    "forename": "",
+    "title": "",
+    "occupation": "Fer et Quincaillerie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lougibuhl et Tschaggeni, Fer et Quincaillerie."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Matti",
+    "forename": "",
+    "title": "",
+    "occupation": "Commerce de Vin.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Matti, Commerce de Vin."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Millet et Wyder",
+    "forename": "",
+    "title": "",
+    "occupation": "Epicerie, Mercerie et Draperie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Millet et Wyder, Epicerie, Mercerie et Draperie."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Moser",
+    "forename": "Fréderic",
+    "title": "",
+    "occupation": "Epicerie, Papier, Livres.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Moser, Fréderic, Epicerie, Papier, Livres."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Muller",
+    "forename": "Marguerithe",
+    "title": "",
+    "occupation": "Fil et Mercerie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Muller, Marguerithe, Fil et .Mercerie."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Muller",
+    "forename": "Jean Rodolphe",
+    "title": "",
+    "occupation": "Epicerie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Muller, Jean Rodolphe, Epicerie."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Muller",
+    "forename": "Rodolphe",
+    "title": "",
+    "occupation": "Fabrique de Chapeaux.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Muller, Rodolphe, Fabrique de Chapeaux."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Muller",
+    "forename": "Rodolphe Jacob",
+    "title": "le jeune",
+    "occupation": "Epicerie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Muller, Rodolphe Jacob, le jeune, Epicerie."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Muller",
+    "forename": "Samuel",
+    "title": "le jeune",
+    "occupation": "Epicerie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Muller, Samuel, le jeune, Epicerie."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Roubin",
+    "forename": "Charles",
+    "title": "",
+    "occupation": "Quincaillerie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Roubin, Charles, Quincaillerie."
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Roubin",
+    "forename": "Lisette",
+    "title": "",
+    "occupation": "Modes, Mercerie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Roubin, Lisette, Modes, Mercerie."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "firma",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Roubin",
+    "forename": "",
+    "title": "les sœurs",
+    "occupation": "Cotonnes, Mercerie.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Roubin, les sœurs, Cotonnes, Mercerie."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Thun",
+    "place": "Thun",
+    "surname": "Scheidegg",
+    "forename": "Théophile",
+    "title": "",
+    "occupation": "Pharmacien, Droguerie, Productions du pays, sur tout Eau de cerises de la prémiere qualité.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Scheidegg, Théophile, Pharmacien, Droguerie, Productions du pays, sur tout Eau de cerises de la prémiere qualité."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:01:00+01:00",
+ "last_error": null
+}

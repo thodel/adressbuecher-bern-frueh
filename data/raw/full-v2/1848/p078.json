@@ -1,0 +1,454 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 78,
+ "section": "einsassen",
+ "started": "2026-11-11T22:01:28+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 38.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4471,
+  "thoughts": 1853
+ },
+ "response_text": "{\n  \"printed_page\": \"65\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 65 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Herter.\"},\n    {\"n\": 4, \"text\": \"1 773 Jakob, Wirth zu Affen, a. Twann - IV, 184.\"},\n    {\"n\": 5, \"text\": \"791 Fr. - Anna Kath. Nott a. Erlach.\"},\n    {\"n\": 6, \"text\": \"1 T. - 829 Anna Elis. Kath.\"},\n    {\"n\": 7, \"text\": \"2 801 Georg Friedrich, Schuhmacher, a. Savigny - IV, 250.\"},\n    {\"n\": 8, \"text\": \"804 Fr. II Ehe. - Jeanne Kath. Dénéréaz a. Chardonne.\"},\n    {\"n\": 9, \"text\": \"1 T. - 841 Maria Louise.\"},\n    {\"n\": 10, \"text\": \"Hertig.\"},\n    {\"n\": 11, \"text\": \"1 810 Elisabetha, Lohnwascherin, a. Eggiwyl - I, 96.\"},\n    {\"n\": 12, \"text\": \"2 804 Joh., Blechinstrumentenmacher, a. Rüderswyl - II, 126.\"},\n    {\"n\": 13, \"text\": \"804 Fr. - Anna Barb. Wirth a. Ursenbach.\"},\n    {\"n\": 14, \"text\": \"1 T. - 847 Maria.\"},\n    {\"n\": 15, \"text\": \"Herzig.\"},\n    {\"n\": 16, \"text\": \"1 802 Christ. Ulrich, Silberarbeiter, a. Thunstetten - IV, 24.\"},\n    {\"n\": 17, \"text\": \"811 Fr. - Magd. Juzi a. Niederhünigen.\"},\n    {\"n\": 18, \"text\": \"6 K. - 835 Christ. Rud. - 39 Adele Maria Magd. -\"},\n    {\"n\": 19, \"text\": \"41 Karl Ad. - 43 Ernst Joh. - 45 Rosina Louise. -\"},\n    {\"n\": 20, \"text\": \"47 Franz Jakob.\"},\n    {\"n\": 21, \"text\": \"2 794 Johann Nikl. Christian, Steinhauer, a. Thunstetten -\"},\n    {\"n\": 22, \"text\": \"II, 83 b.\"},\n    {\"n\": 23, \"text\": \"784 Fr. - Barb. Zumbach a. Toffen.\"},\n    {\"n\": 24, \"text\": \"2 S. - 821 Joh. Rud. - 25 Jakob Christ.\"},\n    {\"n\": 25, \"text\": \"3 803 Christian, Mehlhändler, a. Haberg - II, 221.\"},\n    {\"n\": 26, \"text\": \"Fr. II Ehe. - Anna Bigler, geb. Bigler, a. Muri.\"},\n    {\"n\": 27, \"text\": \"2 S. I Ehe. - 839 Joh. Christ. - 44 Joh. Gottlieb.\"},\n    {\"n\": 28, \"text\": \"4 805 Anna, geb. Althaus, Kappenmacherin, a. Obersteckholz,\"},\n    {\"n\": 29, \"text\": \"des Hausknechts Frau - II, 19.\"},\n    {\"n\": 30, \"text\": \"1 S. - 832 Johann.\"},\n    {\"n\": 31, \"text\": \"Herzog.\"},\n    {\"n\": 32, \"text\": \"1 800 Karl, Dr., Zeitungsredaktor und gew. Professor, a.\"},\n    {\"n\": 33, \"text\": \"Laufen - II, 267.\"},\n    {\"n\": 34, \"text\": \"Fr. II Ehe. - Anna Stucki.\"},\n    {\"n\": 35, \"text\": \"(Die Kinder sind nicht eingeschrieben.)\"},\n    {\"n\": 36, \"text\": \"2 790 Joh. Albrecht, Commis, a. Langenthal - IV, 49.\"},\n    {\"n\": 37, \"text\": \"Heuberger.\"},\n    {\"n\": 38, \"text\": \"1 821 Joh. Jakob, Zuckerbäcker, a. Bözen, K. Aargau - V, 215.\"},\n    {\"n\": 39, \"text\": \"823 Fr. - Elis. Schwarz a. Langnau.\"},\n    {\"n\": 40, \"text\": \"2 S. - 844 Emil. - 45 Gotthelf.\"},\n    {\"n\": 41, \"text\": \"Hiltbrunner a. Sumiswald.\"},\n    {\"n\": 42, \"text\": \"1 798 Hans Ulrich, Holzschuhmacher - II, 103 u. 104.\"},\n    {\"n\": 43, \"text\": \"791 Fr. - Elis. Röthlisberger.\"},\n    {\"n\": 44, \"text\": \"1 S. - 846 Joh. Arnold.\"},\n    {\"n\": 45, \"text\": \"5\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Herter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herter\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth zu Affen\",\n      \"address\": \"IV, 184\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"184\",\n      \"origin\": \"Twann\",\n      \"birth_year\": \"1773\",\n      \"household\": \"791 Fr. - Anna Kath. Nott a. Erlach.; 1 T. - 829 Anna Elis. Kath.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 773 Jakob, Wirth zu Affen, a. Twann - IV, 184. 791 Fr. - Anna Kath. Nott a. Erlach. 1 T. - 829 Anna Elis. Kath.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Herter.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herter\",\n      \"forename\": \"Georg Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 250\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"250\",\n      \"origin\": \"Savigny\",\n      \"birth_year\": \"1801\",\n      \"household\": \"804 Fr. II Ehe. - Jeanne Kath. Dénéréaz a. Chardonne.; 1 T. - 841 Maria Louise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 801 Georg Friedrich, Schuhmacher, a. Savigny - IV, 250. 804 Fr. II Ehe. - Jeanne Kath. Dénéréaz a. Chardonne. 1 T. - 841 Maria Louise.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Hertig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hertig\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnwascherin\",\n      \"address\": \"I, 96\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"96\",\n      \"origin\": \"Eggiwyl\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Elisabetha, Lohnwascherin, a. Eggiwyl - I, 96.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Hertig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hertig\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Blechinstrumentenmacher\",\n      \"address\": \"II, 126\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"126\",\n      \"origin\": \"Rüderswyl\",\n      \"birth_year\": \"1804\",\n      \"household\": \"804 Fr. - Anna Barb. Wirth a. Ursenbach.; 1 T. - 847 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 804 Joh., Blechinstrumentenmacher, a. Rüderswyl - II, 126. 804 Fr. - Anna Barb. Wirth a. Ursenbach. 1 T. - 847 Maria.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Herzig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herzig\",\n      \"forename\": \"Christ. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Silberarbeiter\",\n      \"address\": \"IV, 24\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"24\",\n      \"origin\": \"Thunstetten\",\n      \"birth_year\": \"1802\",\n      \"household\": \"811 Fr. - Magd. Juzi a. Niederhünigen.; 6 K. - 835 Christ. Rud. - 39 Adele Maria Magd. - 41 Karl Ad. - 43 Ernst Joh. - 45 Rosina Louise. - 47 Franz Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Christ. Ulrich, Silberarbeiter, a. Thunstetten - IV, 24. 811 Fr. - Magd. Juzi a. Niederhünigen. 6 K. - 835 Christ. Rud. - 39 Adele Maria Magd. - 41 Karl Ad. - 43 Ernst Joh. - 45 Rosina Louise. - 47 Franz Jakob.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Herzig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herzig\",\n      \"forename\": \"Johann Nikl. Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauer\",\n      \"address\": \"II, 83 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"83 b\",\n      \"origin\": \"Thunstetten\",\n      \"birth_year\": \"1794\",\n      \"household\": \"784 Fr. - Barb. Zumbach a. Toffen.; 2 S. - 821 Joh. Rud. - 25 Jakob Christ.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 794 Johann Nikl. Christian, Steinhauer, a. Thunstetten - II, 83 b. 784 Fr. - Barb. Zumbach a. Toffen. 2 S. - 821 Joh. Rud. - 25 Jakob Christ.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Herzig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herzig\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlhändler\",\n      \"address\": \"II, 221\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"221\",\n      \"origin\": \"Haberg\",\n      \"birth_year\": \"1803\",\n      \"household\": \"Fr. II Ehe. - Anna Bigler, geb. Bigler, a. Muri.; 2 S. I Ehe. - 839 Joh. Christ. - 44 Joh. Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 803 Christian, Mehlhändler, a. Haberg - II, 221. Fr. II Ehe. - Anna Bigler, geb. Bigler, a. Muri. 2 S. I Ehe. - 839 Joh. Christ. - 44 Joh. Gottlieb.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Herzig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herzig\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Kappenmacherin, des Hausknechts Frau\",\n      \"address\": \"II, 19\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"19\",\n      \"origin\": \"Obersteckholz\",\n      \"birth_year\": \"1805\",\n      \"household\": \"1 S. - 832 Johann.\",\n      \"note\": \"geb. Althaus; Name aus Zwischentitel\",\n      \"text\": \"4 805 Anna, geb. Althaus, Kappenmacherin, a. Obersteckholz, des Hausknechts Frau - II, 19. 1 S. - 832 Johann.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Herzog.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herzog\",\n      \"forename\": \"Karl\",\n      \"title\": \"Dr.\",\n      \"occupation\": \"Zeitungsredaktor und gew. Professor\",\n      \"address\": \"II, 267\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"267\",\n      \"origin\": \"Laufen\",\n      \"birth_year\": \"1800\",\n      \"household\": \"Fr. II Ehe. - Anna Stucki.; (Die Kinder sind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 800 Karl, Dr., Zeitungsredaktor und gew. Professor, a. Laufen - II, 267. Fr. II Ehe. - Anna Stucki. (Die Kinder sind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Herzog.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Herzog\",\n      \"forename\": \"Joh. Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"Commis\",\n      \"address\": \"IV, 49\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"49\",\n      \"origin\": \"Langenthal\",\n      \"birth_year\": \"1790\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 790 Joh. Albrecht, Commis, a. Langenthal - IV, 49.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Heuberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Heuberger\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Zuckerbäcker\",\n      \"address\": \"V, 215\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"215\",\n      \"origin\": \"Bözen, K. Aargau\",\n      \"birth_year\": \"1821\",\n      \"household\": \"823 Fr. - Elis. Schwarz a. Langnau.; 2 S. - 844 Emil. - 45 Gotthelf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 821 Joh. Jakob, Zuckerbäcker, a. Bözen, K. Aargau - V, 215. 823 Fr. - Elis. Schwarz a. Langnau. 2 S. - 844 Emil. - 45 Gotthelf.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Hiltbrunner a. Sumiswald.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hiltbrunner\",\n      \"forename\": \"Hans Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Holzschuhmacher\",\n      \"address\": \"II, 103 u. 104\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"103 u. 104\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1798\",\n      \"household\": \"791 Fr. - Elis. Röthlisberger.; 1 S. - 846 Joh. Arnold.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 798 Hans Ulrich, Holzschuhmacher - II, 103 u. 104. 791 Fr. - Elis. Röthlisberger. 1 S. - 846 Joh. Arnold.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "65",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 65 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Herter."
+   },
+   {
+    "n": 4,
+    "text": "1 773 Jakob, Wirth zu Affen, a. Twann - IV, 184."
+   },
+   {
+    "n": 5,
+    "text": "791 Fr. - Anna Kath. Nott a. Erlach."
+   },
+   {
+    "n": 6,
+    "text": "1 T. - 829 Anna Elis. Kath."
+   },
+   {
+    "n": 7,
+    "text": "2 801 Georg Friedrich, Schuhmacher, a. Savigny - IV, 250."
+   },
+   {
+    "n": 8,
+    "text": "804 Fr. II Ehe. - Jeanne Kath. Dénéréaz a. Chardonne."
+   },
+   {
+    "n": 9,
+    "text": "1 T. - 841 Maria Louise."
+   },
+   {
+    "n": 10,
+    "text": "Hertig."
+   },
+   {
+    "n": 11,
+    "text": "1 810 Elisabetha, Lohnwascherin, a. Eggiwyl - I, 96."
+   },
+   {
+    "n": 12,
+    "text": "2 804 Joh., Blechinstrumentenmacher, a. Rüderswyl - II, 126."
+   },
+   {
+    "n": 13,
+    "text": "804 Fr. - Anna Barb. Wirth a. Ursenbach."
+   },
+   {
+    "n": 14,
+    "text": "1 T. - 847 Maria."
+   },
+   {
+    "n": 15,
+    "text": "Herzig."
+   },
+   {
+    "n": 16,
+    "text": "1 802 Christ. Ulrich, Silberarbeiter, a. Thunstetten - IV, 24."
+   },
+   {
+    "n": 17,
+    "text": "811 Fr. - Magd. Juzi a. Niederhünigen."
+   },
+   {
+    "n": 18,
+    "text": "6 K. - 835 Christ. Rud. - 39 Adele Maria Magd. -"
+   },
+   {
+    "n": 19,
+    "text": "41 Karl Ad. - 43 Ernst Joh. - 45 Rosina Louise. -"
+   },
+   {
+    "n": 20,
+    "text": "47 Franz Jakob."
+   },
+   {
+    "n": 21,
+    "text": "2 794 Johann Nikl. Christian, Steinhauer, a. Thunstetten -"
+   },
+   {
+    "n": 22,
+    "text": "II, 83 b."
+   },
+   {
+    "n": 23,
+    "text": "784 Fr. - Barb. Zumbach a. Toffen."
+   },
+   {
+    "n": 24,
+    "text": "2 S. - 821 Joh. Rud. - 25 Jakob Christ."
+   },
+   {
+    "n": 25,
+    "text": "3 803 Christian, Mehlhändler, a. Haberg - II, 221."
+   },
+   {
+    "n": 26,
+    "text": "Fr. II Ehe. - Anna Bigler, geb. Bigler, a. Muri."
+   },
+   {
+    "n": 27,
+    "text": "2 S. I Ehe. - 839 Joh. Christ. - 44 Joh. Gottlieb."
+   },
+   {
+    "n": 28,
+    "text": "4 805 Anna, geb. Althaus, Kappenmacherin, a. Obersteckholz,"
+   },
+   {
+    "n": 29,
+    "text": "des Hausknechts Frau - II, 19."
+   },
+   {
+    "n": 30,
+    "text": "1 S. - 832 Johann."
+   },
+   {
+    "n": 31,
+    "text": "Herzog."
+   },
+   {
+    "n": 32,
+    "text": "1 800 Karl, Dr., Zeitungsredaktor und gew. Professor, a."
+   },
+   {
+    "n": 33,
+    "text": "Laufen - II, 267."
+   },
+   {
+    "n": 34,
+    "text": "Fr. II Ehe. - Anna Stucki."
+   },
+   {
+    "n": 35,
+    "text": "(Die Kinder sind nicht eingeschrieben.)"
+   },
+   {
+    "n": 36,
+    "text": "2 790 Joh. Albrecht, Commis, a. Langenthal - IV, 49."
+   },
+   {
+    "n": 37,
+    "text": "Heuberger."
+   },
+   {
+    "n": 38,
+    "text": "1 821 Joh. Jakob, Zuckerbäcker, a. Bözen, K. Aargau - V, 215."
+   },
+   {
+    "n": 39,
+    "text": "823 Fr. - Elis. Schwarz a. Langnau."
+   },
+   {
+    "n": 40,
+    "text": "2 S. - 844 Emil. - 45 Gotthelf."
+   },
+   {
+    "n": 41,
+    "text": "Hiltbrunner a. Sumiswald."
+   },
+   {
+    "n": 42,
+    "text": "1 798 Hans Ulrich, Holzschuhmacher - II, 103 u. 104."
+   },
+   {
+    "n": 43,
+    "text": "791 Fr. - Elis. Röthlisberger."
+   },
+   {
+    "n": 44,
+    "text": "1 S. - 846 Joh. Arnold."
+   },
+   {
+    "n": 45,
+    "text": "5"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Herter.",
+    "place": "Bern",
+    "surname": "Herter",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Wirth zu Affen",
+    "address": "IV, 184",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "184",
+    "origin": "Twann",
+    "birth_year": "1773",
+    "household": "791 Fr. - Anna Kath. Nott a. Erlach.; 1 T. - 829 Anna Elis. Kath.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 773 Jakob, Wirth zu Affen, a. Twann - IV, 184. 791 Fr. - Anna Kath. Nott a. Erlach. 1 T. - 829 Anna Elis. Kath."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Herter.",
+    "place": "Bern",
+    "surname": "Herter",
+    "forename": "Georg Friedrich",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 250",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "250",
+    "origin": "Savigny",
+    "birth_year": "1801",
+    "household": "804 Fr. II Ehe. - Jeanne Kath. Dénéréaz a. Chardonne.; 1 T. - 841 Maria Louise.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 801 Georg Friedrich, Schuhmacher, a. Savigny - IV, 250. 804 Fr. II Ehe. - Jeanne Kath. Dénéréaz a. Chardonne. 1 T. - 841 Maria Louise."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Hertig.",
+    "place": "Bern",
+    "surname": "Hertig",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Lohnwascherin",
+    "address": "I, 96",
+    "quarter": "I",
+    "street": "",
+    "house_no": "96",
+    "origin": "Eggiwyl",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Elisabetha, Lohnwascherin, a. Eggiwyl - I, 96."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Hertig.",
+    "place": "Bern",
+    "surname": "Hertig",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Blechinstrumentenmacher",
+    "address": "II, 126",
+    "quarter": "II",
+    "street": "",
+    "house_no": "126",
+    "origin": "Rüderswyl",
+    "birth_year": "1804",
+    "household": "804 Fr. - Anna Barb. Wirth a. Ursenbach.; 1 T. - 847 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 804 Joh., Blechinstrumentenmacher, a. Rüderswyl - II, 126. 804 Fr. - Anna Barb. Wirth a. Ursenbach. 1 T. - 847 Maria."
+   },
+   {
+    "line_from": 16,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Herzig.",
+    "place": "Bern",
+    "surname": "Herzig",
+    "forename": "Christ. Ulrich",
+    "title": "",
+    "occupation": "Silberarbeiter",
+    "address": "IV, 24",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "24",
+    "origin": "Thunstetten",
+    "birth_year": "1802",
+    "household": "811 Fr. - Magd. Juzi a. Niederhünigen.; 6 K. - 835 Christ. Rud. - 39 Adele Maria Magd. - 41 Karl Ad. - 43 Ernst Joh. - 45 Rosina Louise. - 47 Franz Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Christ. Ulrich, Silberarbeiter, a. Thunstetten - IV, 24. 811 Fr. - Magd. Juzi a. Niederhünigen. 6 K. - 835 Christ. Rud. - 39 Adele Maria Magd. - 41 Karl Ad. - 43 Ernst Joh. - 45 Rosina Louise. - 47 Franz Jakob."
+   },
+   {
+    "line_from": 21,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Herzig.",
+    "place": "Bern",
+    "surname": "Herzig",
+    "forename": "Johann Nikl. Christian",
+    "title": "",
+    "occupation": "Steinhauer",
+    "address": "II, 83 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "83 b",
+    "origin": "Thunstetten",
+    "birth_year": "1794",
+    "household": "784 Fr. - Barb. Zumbach a. Toffen.; 2 S. - 821 Joh. Rud. - 25 Jakob Christ.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 794 Johann Nikl. Christian, Steinhauer, a. Thunstetten - II, 83 b. 784 Fr. - Barb. Zumbach a. Toffen. 2 S. - 821 Joh. Rud. - 25 Jakob Christ."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Herzig.",
+    "place": "Bern",
+    "surname": "Herzig",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Mehlhändler",
+    "address": "II, 221",
+    "quarter": "II",
+    "street": "",
+    "house_no": "221",
+    "origin": "Haberg",
+    "birth_year": "1803",
+    "household": "Fr. II Ehe. - Anna Bigler, geb. Bigler, a. Muri.; 2 S. I Ehe. - 839 Joh. Christ. - 44 Joh. Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 803 Christian, Mehlhändler, a. Haberg - II, 221. Fr. II Ehe. - Anna Bigler, geb. Bigler, a. Muri. 2 S. I Ehe. - 839 Joh. Christ. - 44 Joh. Gottlieb."
+   },
+   {
+    "line_from": 28,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Herzig.",
+    "place": "Bern",
+    "surname": "Herzig",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Kappenmacherin, des Hausknechts Frau",
+    "address": "II, 19",
+    "quarter": "II",
+    "street": "",
+    "house_no": "19",
+    "origin": "Obersteckholz",
+    "birth_year": "1805",
+    "household": "1 S. - 832 Johann.",
+    "note": "geb. Althaus; Name aus Zwischentitel",
+    "text": "4 805 Anna, geb. Althaus, Kappenmacherin, a. Obersteckholz, des Hausknechts Frau - II, 19. 1 S. - 832 Johann."
+   },
+   {
+    "line_from": 32,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Herzog.",
+    "place": "Bern",
+    "surname": "Herzog",
+    "forename": "Karl",
+    "title": "Dr.",
+    "occupation": "Zeitungsredaktor und gew. Professor",
+    "address": "II, 267",
+    "quarter": "II",
+    "street": "",
+    "house_no": "267",
+    "origin": "Laufen",
+    "birth_year": "1800",
+    "household": "Fr. II Ehe. - Anna Stucki.; (Die Kinder sind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "1 800 Karl, Dr., Zeitungsredaktor und gew. Professor, a. Laufen - II, 267. Fr. II Ehe. - Anna Stucki. (Die Kinder sind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 36,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Herzog.",
+    "place": "Bern",
+    "surname": "Herzog",
+    "forename": "Joh. Albrecht",
+    "title": "",
+    "occupation": "Commis",
+    "address": "IV, 49",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "49",
+    "origin": "Langenthal",
+    "birth_year": "1790",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 790 Joh. Albrecht, Commis, a. Langenthal - IV, 49."
+   },
+   {
+    "line_from": 38,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Heuberger.",
+    "place": "Bern",
+    "surname": "Heuberger",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Zuckerbäcker",
+    "address": "V, 215",
+    "quarter": "V",
+    "street": "",
+    "house_no": "215",
+    "origin": "Bözen, K. Aargau",
+    "birth_year": "1821",
+    "household": "823 Fr. - Elis. Schwarz a. Langnau.; 2 S. - 844 Emil. - 45 Gotthelf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 821 Joh. Jakob, Zuckerbäcker, a. Bözen, K. Aargau - V, 215. 823 Fr. - Elis. Schwarz a. Langnau. 2 S. - 844 Emil. - 45 Gotthelf."
+   },
+   {
+    "line_from": 42,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Hiltbrunner a. Sumiswald.",
+    "place": "Bern",
+    "surname": "Hiltbrunner",
+    "forename": "Hans Ulrich",
+    "title": "",
+    "occupation": "Holzschuhmacher",
+    "address": "II, 103 u. 104",
+    "quarter": "II",
+    "street": "",
+    "house_no": "103 u. 104",
+    "origin": "Sumiswald",
+    "birth_year": "1798",
+    "household": "791 Fr. - Elis. Röthlisberger.; 1 S. - 846 Joh. Arnold.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 798 Hans Ulrich, Holzschuhmacher - II, 103 u. 104. 791 Fr. - Elis. Röthlisberger. 1 S. - 846 Joh. Arnold."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:02:06+01:00",
+ "last_error": null
+}

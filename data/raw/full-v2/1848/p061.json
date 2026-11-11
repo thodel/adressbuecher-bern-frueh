@@ -1,0 +1,494 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 61,
+ "section": "einsassen",
+ "started": "2026-11-11T21:59:33+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 56.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4788,
+  "thoughts": 4149
+ },
+ "response_text": "{\n  \"printed_page\": \"48\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 48 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Gaudin.\"},\n    {\"n\": 4, \"text\": \"1 817 Ludwig Gabriel, Commis u. Buchhalter, v. der franz.\"},\n    {\"n\": 5, \"text\": \"Kolonie — VI, 81.\"},\n    {\"n\": 6, \"text\": \"798 Fr. — Maria Walther, verw. Großenbacher, a. Trachsel=\"},\n    {\"n\": 7, \"text\": \"wald.\"},\n    {\"n\": 8, \"text\": \"Gautschi.\"},\n    {\"n\": 9, \"text\": \"1 790 Louise Henriette, geb. Steiner, Schneiderin, a. Zetzwyl,\"},\n    {\"n\": 10, \"text\": \"K. Aargau, W. — IV, 332.\"},\n    {\"n\": 11, \"text\": \"1 T. — 824 Henriette Louise Susanna.\"},\n    {\"n\": 12, \"text\": \"2 804 Samuel, Bäcker, a. Reinach, K. Aargau — II, 219.\"},\n    {\"n\": 13, \"text\": \"Fr. — Maria Jacob a. Dieterswyl.\"},\n    {\"n\": 14, \"text\": \"2 S. — 836 Niklaus. — 39 Friedrich Samuel.\"},\n    {\"n\": 15, \"text\": \"3 813 Maria, geb. Bürki, Brodverkäuferin, a. Reinach — V, 76.\"},\n    {\"n\": 16, \"text\": \"2 K. — 831 Anna Maria. — 834 Jakob.\"},\n    {\"n\": 17, \"text\": \"4 820 Rudolf, Schweinmetzger, a. Reinach, K. Aargau — I, 22.\"},\n    {\"n\": 18, \"text\": \"820 Fr. — Anna Haueter.\"},\n    {\"n\": 19, \"text\": \"1 T. — 841 Anna Elisabetha.\"},\n    {\"n\": 20, \"text\": \"Geelhaar.\"},\n    {\"n\": 21, \"text\": \"1 806 Jakob Philipp, Goldschmied, a. Höchstetten — IV, 225.\"},\n    {\"n\": 22, \"text\": \"816 Fr. II Ehe. — Marg. Sus. Kath. Duby a. Burgstein.\"},\n    {\"n\": 23, \"text\": \"6 K. — Aus I Ehe: 836 Georg Franz Rudolf. — Aus\"},\n    {\"n\": 24, \"text\": \"II Ehe: 838 Anna Maria. — 40 Ros. Marg. — 42 Magd.\"},\n    {\"n\": 25, \"text\": \"Elis. Augustine. — 43 Adele Emma Marg. — 45 Jakob\"},\n    {\"n\": 26, \"text\": \"Philipp.\"},\n    {\"n\": 27, \"text\": \"Geiser.\"},\n    {\"n\": 28, \"text\": \"1 784 Jakob Ludwig Alex., Schneider, a. Wohlen — IV, 283.\"},\n    {\"n\": 29, \"text\": \"2 816 Joh. Jakob Paul, Perrückenmacher, a. Wohlen — IV, 86.\"},\n    {\"n\": 30, \"text\": \"819 Fr. — Emilie Reinhardt.\"},\n    {\"n\": 31, \"text\": \"2 T. — 840 Elis. Sophie. — 45 Emilie Elise.\"},\n    {\"n\": 32, \"text\": \"3 806 Johannes, Schreiner, a. Roggwyl — II, 236.\"},\n    {\"n\": 33, \"text\": \"797 Fr. — Elisabetha Baumann a. Diesbach.\"},\n    {\"n\": 34, \"text\": \"3 K. — 830 Johannes. — 34 A. M. Elis. — 38 Friedrich.\"},\n    {\"n\": 35, \"text\": \"4 808 Maria, geb. Burkhard, Schneiderin, a. Langenthal — II, 60.\"},\n    {\"n\": 36, \"text\": \"Geißbühler.\"},\n    {\"n\": 37, \"text\": \"1 813 Elisabeth, geb. Zimmermann, a. Langnau, privat. — II, 234.\"},\n    {\"n\": 38, \"text\": \"Geißler.\"},\n    {\"n\": 39, \"text\": \"1 818 Jakob Samuel, Schuhmacher, a. Kaltenwesten i. Würt=\"},\n    {\"n\": 40, \"text\": \"temberg — IV, 289.\"},\n    {\"n\": 41, \"text\": \"Gerber.\"},\n    {\"n\": 42, \"text\": \"1 812 Friedrich, Speisewirth u. Hauseigenthümer, a. Langnau\"},\n    {\"n\": 43, \"text\": \"— VI, 1.\"},\n    {\"n\": 44, \"text\": \"810 Fr. — Elis. Schneider.\"},\n    {\"n\": 45, \"text\": \"2 808 Samuel, Kappenmacher, a. Langnau — IV, 62.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Gaudin.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gaudin\",\n      \"forename\": \"Ludwig Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"Commis u. Buchhalter\",\n      \"address\": \"VI, 81\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"81\",\n      \"origin\": \"franz. Kolonie\",\n      \"birth_year\": \"1817\",\n      \"household\": \"798 Fr. — Maria Walther, verw. Großenbacher, a. Trachselwald.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 817 Ludwig Gabriel, Commis u. Buchhalter, v. der franz. Kolonie — VI, 81. 798 Fr. — Maria Walther, verw. Großenbacher, a. Trachselwald.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Gautschi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gautschi\",\n      \"forename\": \"Louise Henriette, geb. Steiner\",\n      \"title\": \"W.\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"IV, 332\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"332\",\n      \"origin\": \"Zetzwyl, K. Aargau\",\n      \"birth_year\": \"1790\",\n      \"household\": \"1 T. — 824 Henriette Louise Susanna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Louise Henriette, geb. Steiner, Schneiderin, a. Zetzwyl, K. Aargau, W. — IV, 332. 1 T. — 824 Henriette Louise Susanna.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Gautschi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gautschi\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"II, 219\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"219\",\n      \"origin\": \"Reinach, K. Aargau\",\n      \"birth_year\": \"1804\",\n      \"household\": \"Fr. — Maria Jacob a. Dieterswyl. 2 S. — 836 Niklaus. — 39 Friedrich Samuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 804 Samuel, Bäcker, a. Reinach, K. Aargau — II, 219. Fr. — Maria Jacob a. Dieterswyl. 2 S. — 836 Niklaus. — 39 Friedrich Samuel.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Gautschi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gautschi\",\n      \"forename\": \"Maria, geb. Bürki\",\n      \"title\": \"\",\n      \"occupation\": \"Brodverkäuferin\",\n      \"address\": \"V, 76\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"76\",\n      \"origin\": \"Reinach\",\n      \"birth_year\": \"1813\",\n      \"household\": \"2 K. — 831 Anna Maria. — 834 Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 813 Maria, geb. Bürki, Brodverkäuferin, a. Reinach — V, 76. 2 K. — 831 Anna Maria. — 834 Jakob.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Gautschi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gautschi\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzger\",\n      \"address\": \"I, 22\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"22\",\n      \"origin\": \"Reinach, K. Aargau\",\n      \"birth_year\": \"1820\",\n      \"household\": \"820 Fr. — Anna Haueter. 1 T. — 841 Anna Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 820 Rudolf, Schweinmetzger, a. Reinach, K. Aargau — I, 22. 820 Fr. — Anna Haueter. 1 T. — 841 Anna Elisabetha.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Geelhaar.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Geelhaar\",\n      \"forename\": \"Jakob Philipp\",\n      \"title\": \"\",\n      \"occupation\": \"Goldschmied\",\n      \"address\": \"IV, 225\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"225\",\n      \"origin\": \"Höchstetten\",\n      \"birth_year\": \"1806\",\n      \"household\": \"816 Fr. II Ehe. — Marg. Sus. Kath. Duby a. Burgstein. 6 K. — Aus I Ehe: 836 Georg Franz Rudolf. — Aus II Ehe: 838 Anna Maria. — 40 Ros. Marg. — 42 Magd. Elis. Augustine. — 43 Adele Emma Marg. — 45 Jakob Philipp.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 806 Jakob Philipp, Goldschmied, a. Höchstetten — IV, 225. 816 Fr. II Ehe. — Marg. Sus. Kath. Duby a. Burgstein. 6 K. — Aus I Ehe: 836 Georg Franz Rudolf. — Aus II Ehe: 838 Anna Maria. — 40 Ros. Marg. — 42 Magd. Elis. Augustine. — 43 Adele Emma Marg. — 45 Jakob Philipp.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Geiser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Geiser\",\n      \"forename\": \"Jakob Ludwig Alex.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 283\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"283\",\n      \"origin\": \"Wohlen\",\n      \"birth_year\": \"1784\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 784 Jakob Ludwig Alex., Schneider, a. Wohlen — IV, 283.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Geiser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Geiser\",\n      \"forename\": \"Joh. Jakob Paul\",\n      \"title\": \"\",\n      \"occupation\": \"Perrückenmacher\",\n      \"address\": \"IV, 86\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"86\",\n      \"origin\": \"Wohlen\",\n      \"birth_year\": \"1816\",\n      \"household\": \"819 Fr. — Emilie Reinhardt. 2 T. — 840 Elis. Sophie. — 45 Emilie Elise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 816 Joh. Jakob Paul, Perrückenmacher, a. Wohlen — IV, 86. 819 Fr. — Emilie Reinhardt. 2 T. — 840 Elis. Sophie. — 45 Emilie Elise.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Geiser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Geiser\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"II, 236\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"236\",\n      \"origin\": \"Roggwyl\",\n      \"birth_year\": \"1806\",\n      \"household\": \"797 Fr. — Elisabetha Baumann a. Diesbach. 3 K. — 830 Johannes. — 34 A. M. Elis. — 38 Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 806 Johannes, Schreiner, a. Roggwyl — II, 236. 797 Fr. — Elisabetha Baumann a. Diesbach. 3 K. — 830 Johannes. — 34 A. M. Elis. — 38 Friedrich.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Geiser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Geiser\",\n      \"forename\": \"Maria, geb. Burkhard\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"II, 60\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"60\",\n      \"origin\": \"Langenthal\",\n      \"birth_year\": \"1808\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 808 Maria, geb. Burkhard, Schneiderin, a. Langenthal — II, 60.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Geißbühler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Geißbühler\",\n      \"forename\": \"Elisabeth, geb. Zimmermann\",\n      \"title\": \"\",\n      \"occupation\": \"privat.\",\n      \"address\": \"II, 234\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"234\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1813\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Elisabeth, geb. Zimmermann, a. Langnau, privat. — II, 234.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Geißler.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Geißler\",\n      \"forename\": \"Jakob Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"IV, 289\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"289\",\n      \"origin\": \"Kaltenwesten i. Würtemberg\",\n      \"birth_year\": \"1818\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 818 Jakob Samuel, Schuhmacher, a. Kaltenwesten i. Würtemberg — IV, 289.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Gerber.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerber\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Speisewirth u. Hauseigenthümer\",\n      \"address\": \"VI, 1\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"1\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1812\",\n      \"household\": \"810 Fr. — Elis. Schneider.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Friedrich, Speisewirth u. Hauseigenthümer, a. Langnau — VI, 1. 810 Fr. — Elis. Schneider.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"Gerber.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gerber\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Kappenmacher\",\n      \"address\": \"IV, 62\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"62\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1808\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 808 Samuel, Kappenmacher, a. Langnau — IV, 62.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "48",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 48 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Gaudin."
+   },
+   {
+    "n": 4,
+    "text": "1 817 Ludwig Gabriel, Commis u. Buchhalter, v. der franz."
+   },
+   {
+    "n": 5,
+    "text": "Kolonie — VI, 81."
+   },
+   {
+    "n": 6,
+    "text": "798 Fr. — Maria Walther, verw. Großenbacher, a. Trachsel="
+   },
+   {
+    "n": 7,
+    "text": "wald."
+   },
+   {
+    "n": 8,
+    "text": "Gautschi."
+   },
+   {
+    "n": 9,
+    "text": "1 790 Louise Henriette, geb. Steiner, Schneiderin, a. Zetzwyl,"
+   },
+   {
+    "n": 10,
+    "text": "K. Aargau, W. — IV, 332."
+   },
+   {
+    "n": 11,
+    "text": "1 T. — 824 Henriette Louise Susanna."
+   },
+   {
+    "n": 12,
+    "text": "2 804 Samuel, Bäcker, a. Reinach, K. Aargau — II, 219."
+   },
+   {
+    "n": 13,
+    "text": "Fr. — Maria Jacob a. Dieterswyl."
+   },
+   {
+    "n": 14,
+    "text": "2 S. — 836 Niklaus. — 39 Friedrich Samuel."
+   },
+   {
+    "n": 15,
+    "text": "3 813 Maria, geb. Bürki, Brodverkäuferin, a. Reinach — V, 76."
+   },
+   {
+    "n": 16,
+    "text": "2 K. — 831 Anna Maria. — 834 Jakob."
+   },
+   {
+    "n": 17,
+    "text": "4 820 Rudolf, Schweinmetzger, a. Reinach, K. Aargau — I, 22."
+   },
+   {
+    "n": 18,
+    "text": "820 Fr. — Anna Haueter."
+   },
+   {
+    "n": 19,
+    "text": "1 T. — 841 Anna Elisabetha."
+   },
+   {
+    "n": 20,
+    "text": "Geelhaar."
+   },
+   {
+    "n": 21,
+    "text": "1 806 Jakob Philipp, Goldschmied, a. Höchstetten — IV, 225."
+   },
+   {
+    "n": 22,
+    "text": "816 Fr. II Ehe. — Marg. Sus. Kath. Duby a. Burgstein."
+   },
+   {
+    "n": 23,
+    "text": "6 K. — Aus I Ehe: 836 Georg Franz Rudolf. — Aus"
+   },
+   {
+    "n": 24,
+    "text": "II Ehe: 838 Anna Maria. — 40 Ros. Marg. — 42 Magd."
+   },
+   {
+    "n": 25,
+    "text": "Elis. Augustine. — 43 Adele Emma Marg. — 45 Jakob"
+   },
+   {
+    "n": 26,
+    "text": "Philipp."
+   },
+   {
+    "n": 27,
+    "text": "Geiser."
+   },
+   {
+    "n": 28,
+    "text": "1 784 Jakob Ludwig Alex., Schneider, a. Wohlen — IV, 283."
+   },
+   {
+    "n": 29,
+    "text": "2 816 Joh. Jakob Paul, Perrückenmacher, a. Wohlen — IV, 86."
+   },
+   {
+    "n": 30,
+    "text": "819 Fr. — Emilie Reinhardt."
+   },
+   {
+    "n": 31,
+    "text": "2 T. — 840 Elis. Sophie. — 45 Emilie Elise."
+   },
+   {
+    "n": 32,
+    "text": "3 806 Johannes, Schreiner, a. Roggwyl — II, 236."
+   },
+   {
+    "n": 33,
+    "text": "797 Fr. — Elisabetha Baumann a. Diesbach."
+   },
+   {
+    "n": 34,
+    "text": "3 K. — 830 Johannes. — 34 A. M. Elis. — 38 Friedrich."
+   },
+   {
+    "n": 35,
+    "text": "4 808 Maria, geb. Burkhard, Schneiderin, a. Langenthal — II, 60."
+   },
+   {
+    "n": 36,
+    "text": "Geißbühler."
+   },
+   {
+    "n": 37,
+    "text": "1 813 Elisabeth, geb. Zimmermann, a. Langnau, privat. — II, 234."
+   },
+   {
+    "n": 38,
+    "text": "Geißler."
+   },
+   {
+    "n": 39,
+    "text": "1 818 Jakob Samuel, Schuhmacher, a. Kaltenwesten i. Würt="
+   },
+   {
+    "n": 40,
+    "text": "temberg — IV, 289."
+   },
+   {
+    "n": 41,
+    "text": "Gerber."
+   },
+   {
+    "n": 42,
+    "text": "1 812 Friedrich, Speisewirth u. Hauseigenthümer, a. Langnau"
+   },
+   {
+    "n": 43,
+    "text": "— VI, 1."
+   },
+   {
+    "n": 44,
+    "text": "810 Fr. — Elis. Schneider."
+   },
+   {
+    "n": 45,
+    "text": "2 808 Samuel, Kappenmacher, a. Langnau — IV, 62."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Gaudin.",
+    "place": "Bern",
+    "surname": "Gaudin",
+    "forename": "Ludwig Gabriel",
+    "title": "",
+    "occupation": "Commis u. Buchhalter",
+    "address": "VI, 81",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "81",
+    "origin": "franz. Kolonie",
+    "birth_year": "1817",
+    "household": "798 Fr. — Maria Walther, verw. Großenbacher, a. Trachselwald.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 817 Ludwig Gabriel, Commis u. Buchhalter, v. der franz. Kolonie — VI, 81. 798 Fr. — Maria Walther, verw. Großenbacher, a. Trachselwald."
+   },
+   {
+    "line_from": 9,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Gautschi.",
+    "place": "Bern",
+    "surname": "Gautschi",
+    "forename": "Louise Henriette, geb. Steiner",
+    "title": "W.",
+    "occupation": "Schneiderin",
+    "address": "IV, 332",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "332",
+    "origin": "Zetzwyl, K. Aargau",
+    "birth_year": "1790",
+    "household": "1 T. — 824 Henriette Louise Susanna.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Louise Henriette, geb. Steiner, Schneiderin, a. Zetzwyl, K. Aargau, W. — IV, 332. 1 T. — 824 Henriette Louise Susanna."
+   },
+   {
+    "line_from": 12,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Gautschi.",
+    "place": "Bern",
+    "surname": "Gautschi",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "II, 219",
+    "quarter": "II",
+    "street": "",
+    "house_no": "219",
+    "origin": "Reinach, K. Aargau",
+    "birth_year": "1804",
+    "household": "Fr. — Maria Jacob a. Dieterswyl. 2 S. — 836 Niklaus. — 39 Friedrich Samuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 804 Samuel, Bäcker, a. Reinach, K. Aargau — II, 219. Fr. — Maria Jacob a. Dieterswyl. 2 S. — 836 Niklaus. — 39 Friedrich Samuel."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Gautschi.",
+    "place": "Bern",
+    "surname": "Gautschi",
+    "forename": "Maria, geb. Bürki",
+    "title": "",
+    "occupation": "Brodverkäuferin",
+    "address": "V, 76",
+    "quarter": "V",
+    "street": "",
+    "house_no": "76",
+    "origin": "Reinach",
+    "birth_year": "1813",
+    "household": "2 K. — 831 Anna Maria. — 834 Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 813 Maria, geb. Bürki, Brodverkäuferin, a. Reinach — V, 76. 2 K. — 831 Anna Maria. — 834 Jakob."
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Gautschi.",
+    "place": "Bern",
+    "surname": "Gautschi",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Schweinmetzger",
+    "address": "I, 22",
+    "quarter": "I",
+    "street": "",
+    "house_no": "22",
+    "origin": "Reinach, K. Aargau",
+    "birth_year": "1820",
+    "household": "820 Fr. — Anna Haueter. 1 T. — 841 Anna Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 820 Rudolf, Schweinmetzger, a. Reinach, K. Aargau — I, 22. 820 Fr. — Anna Haueter. 1 T. — 841 Anna Elisabetha."
+   },
+   {
+    "line_from": 21,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Geelhaar.",
+    "place": "Bern",
+    "surname": "Geelhaar",
+    "forename": "Jakob Philipp",
+    "title": "",
+    "occupation": "Goldschmied",
+    "address": "IV, 225",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "225",
+    "origin": "Höchstetten",
+    "birth_year": "1806",
+    "household": "816 Fr. II Ehe. — Marg. Sus. Kath. Duby a. Burgstein. 6 K. — Aus I Ehe: 836 Georg Franz Rudolf. — Aus II Ehe: 838 Anna Maria. — 40 Ros. Marg. — 42 Magd. Elis. Augustine. — 43 Adele Emma Marg. — 45 Jakob Philipp.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 806 Jakob Philipp, Goldschmied, a. Höchstetten — IV, 225. 816 Fr. II Ehe. — Marg. Sus. Kath. Duby a. Burgstein. 6 K. — Aus I Ehe: 836 Georg Franz Rudolf. — Aus II Ehe: 838 Anna Maria. — 40 Ros. Marg. — 42 Magd. Elis. Augustine. — 43 Adele Emma Marg. — 45 Jakob Philipp."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Geiser.",
+    "place": "Bern",
+    "surname": "Geiser",
+    "forename": "Jakob Ludwig Alex.",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 283",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "283",
+    "origin": "Wohlen",
+    "birth_year": "1784",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 784 Jakob Ludwig Alex., Schneider, a. Wohlen — IV, 283."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Geiser.",
+    "place": "Bern",
+    "surname": "Geiser",
+    "forename": "Joh. Jakob Paul",
+    "title": "",
+    "occupation": "Perrückenmacher",
+    "address": "IV, 86",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "86",
+    "origin": "Wohlen",
+    "birth_year": "1816",
+    "household": "819 Fr. — Emilie Reinhardt. 2 T. — 840 Elis. Sophie. — 45 Emilie Elise.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 816 Joh. Jakob Paul, Perrückenmacher, a. Wohlen — IV, 86. 819 Fr. — Emilie Reinhardt. 2 T. — 840 Elis. Sophie. — 45 Emilie Elise."
+   },
+   {
+    "line_from": 32,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Geiser.",
+    "place": "Bern",
+    "surname": "Geiser",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "II, 236",
+    "quarter": "II",
+    "street": "",
+    "house_no": "236",
+    "origin": "Roggwyl",
+    "birth_year": "1806",
+    "household": "797 Fr. — Elisabetha Baumann a. Diesbach. 3 K. — 830 Johannes. — 34 A. M. Elis. — 38 Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 806 Johannes, Schreiner, a. Roggwyl — II, 236. 797 Fr. — Elisabetha Baumann a. Diesbach. 3 K. — 830 Johannes. — 34 A. M. Elis. — 38 Friedrich."
+   },
+   {
+    "line_from": 35,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Geiser.",
+    "place": "Bern",
+    "surname": "Geiser",
+    "forename": "Maria, geb. Burkhard",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "II, 60",
+    "quarter": "II",
+    "street": "",
+    "house_no": "60",
+    "origin": "Langenthal",
+    "birth_year": "1808",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "4 808 Maria, geb. Burkhard, Schneiderin, a. Langenthal — II, 60."
+   },
+   {
+    "line_from": 37,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Geißbühler.",
+    "place": "Bern",
+    "surname": "Geißbühler",
+    "forename": "Elisabeth, geb. Zimmermann",
+    "title": "",
+    "occupation": "privat.",
+    "address": "II, 234",
+    "quarter": "II",
+    "street": "",
+    "house_no": "234",
+    "origin": "Langnau",
+    "birth_year": "1813",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Elisabeth, geb. Zimmermann, a. Langnau, privat. — II, 234."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Geißler.",
+    "place": "Bern",
+    "surname": "Geißler",
+    "forename": "Jakob Samuel",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "IV, 289",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "289",
+    "origin": "Kaltenwesten i. Würtemberg",
+    "birth_year": "1818",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 818 Jakob Samuel, Schuhmacher, a. Kaltenwesten i. Würtemberg — IV, 289."
+   },
+   {
+    "line_from": 42,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Gerber.",
+    "place": "Bern",
+    "surname": "Gerber",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Speisewirth u. Hauseigenthümer",
+    "address": "VI, 1",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "1",
+    "origin": "Langnau",
+    "birth_year": "1812",
+    "household": "810 Fr. — Elis. Schneider.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Friedrich, Speisewirth u. Hauseigenthümer, a. Langnau — VI, 1. 810 Fr. — Elis. Schneider."
+   },
+   {
+    "line_from": 45,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "Gerber.",
+    "place": "Bern",
+    "surname": "Gerber",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Kappenmacher",
+    "address": "IV, 62",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "62",
+    "origin": "Langnau",
+    "birth_year": "1808",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 808 Samuel, Kappenmacher, a. Langnau — IV, 62."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:00:29+01:00",
+ "last_error": null
+}

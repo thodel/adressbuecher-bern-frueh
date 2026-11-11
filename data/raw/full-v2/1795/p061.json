@@ -1,0 +1,550 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 61,
+ "section": "handbuch",
+ "started": "2026-11-11T20:53:06+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 27.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 4028,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"61\",\n  \"running_head\": \"VEVEY.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"VEVEY. 61\"},\n    {\"n\": 2, \"text\": \"Monsieur\"},\n    {\"n\": 3, \"text\": \"Dénis Lasalle, } Marchands horlogers.\"},\n    {\"n\": 4, \"text\": \"Jaque Girond, }\"},\n    {\"n\": 5, \"text\": \"Michel, Tonnelier.\"},\n    {\"n\": 6, \"text\": \"Benj. Rossier,\"},\n    {\"n\": 7, \"text\": \"Prader & Brunet, } Négociants en vin.\"},\n    {\"n\": 8, \"text\": \"Gabriel Nicod,\"},\n    {\"n\": 9, \"text\": \"Turdent, Fils, maitre d'Ecriture très-célébre.\"},\n    {\"n\": 10, \"text\": \"J. Louis Dutoit, Fabricant de platre.\"},\n    {\"n\": 11, \"text\": \"Isaac Louis Genton, Fabricant d'eau de vie.\"},\n    {\"n\": 12, \"text\": \"Du Craux & Beroud, Cordiers.\"},\n    {\"n\": 13, \"text\": \"Richard Prader,\"},\n    {\"n\": 14, \"text\": \"J. Et. Johannot,\"},\n    {\"n\": 15, \"text\": \"David Levieux, } Négoc. en Epicerie.\"},\n    {\"n\": 16, \"text\": \"J. Ab. Penel,\"},\n    {\"n\": 17, \"text\": \"Auffet & Fils.\"},\n    {\"n\": 18, \"text\": \"David Levieux, } Fabricants de Cho-\"},\n    {\"n\": 19, \"text\": \"Veuve Loup & Che- } colat.\"},\n    {\"n\": 20, \"text\": \"valier,\"},\n    {\"n\": 21, \"text\": \"J. Fr. de Lom, Banquier & Négoc. en tabac\"},\n    {\"n\": 22, \"text\": \"en gros.\"},\n    {\"n\": 23, \"text\": \"Paul Baup, Apoticaire.\"},\n    {\"n\": 24, \"text\": \"Outre les établissemens ci-devant notés, il y\"},\n    {\"n\": 25, \"text\": \"a encore diverses sociétés, dont trois entr'autres\"},\n    {\"n\": 26, \"text\": \"ont un but très-remarquable; la premiére qu'on\"},\n    {\"n\": 27, \"text\": \"nomme Abaye des Cordonniers, est très-riche &\"},\n    {\"n\": 28, \"text\": \"applique tous ses revenus au soulagement des pau-\"},\n    {\"n\": 29, \"text\": \"vres; la direction des pauvres veille surtout sur\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Lasalle\",\n      \"forename\": \"Dénis\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands horlogers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dénis Lasalle, Marchands horlogers.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Girond\",\n      \"forename\": \"Jaque\",\n      \"title\": \"\",\n      \"occupation\": \"Marchands horlogers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jaque Girond, Marchands horlogers.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Michel\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Tonnelier\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Michel, Tonnelier.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Rossier\",\n      \"forename\": \"Benj.\",\n      \"title\": \"\",\n      \"occupation\": \"Négociants en vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Benj. Rossier, Négociants en vin.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Prader & Brunet\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Négociants en vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Prader & Brunet, Négociants en vin.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Nicod\",\n      \"forename\": \"Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"Négociants en vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Gabriel Nicod, Négociants en vin.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Turdent\",\n      \"forename\": \"\",\n      \"title\": \"Fils\",\n      \"occupation\": \"maitre d'Ecriture très-célébre\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Turdent, Fils, maitre d'Ecriture très-célébre.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Dutoit\",\n      \"forename\": \"J. Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Fabricant de platre\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. Louis Dutoit, Fabricant de platre.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Genton\",\n      \"forename\": \"Isaac Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Fabricant d'eau de vie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Isaac Louis Genton, Fabricant d'eau de vie.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Du Craux & Beroud\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Cordiers\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Du Craux & Beroud, Cordiers.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Prader\",\n      \"forename\": \"Richard\",\n      \"title\": \"\",\n      \"occupation\": \"Négoc. en Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Richard Prader, Négoc. en Epicerie.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Johannot\",\n      \"forename\": \"J. Et.\",\n      \"title\": \"\",\n      \"occupation\": \"Négoc. en Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. Et. Johannot, Négoc. en Epicerie.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Levieux\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Négoc. en Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"David Levieux, Négoc. en Epicerie.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Penel\",\n      \"forename\": \"J. Ab.\",\n      \"title\": \"\",\n      \"occupation\": \"Négoc. en Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. Ab. Penel, Négoc. en Epicerie.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Auffet\",\n      \"forename\": \"\",\n      \"title\": \"& Fils\",\n      \"occupation\": \"Négoc. en Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Auffet & Fils, Négoc. en Epicerie.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Levieux\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Fabricants de Chocolat\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"David Levieux, Fabricants de Chocolat.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Loup & Chevalier\",\n      \"forename\": \"\",\n      \"title\": \"Veuve\",\n      \"occupation\": \"Fabricants de Chocolat\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Veuve Loup & Chevalier, Fabricants de Chocolat.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Lom\",\n      \"forename\": \"J. Fr.\",\n      \"title\": \"de\",\n      \"occupation\": \"Banquier & Négoc. en tabac en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. Fr. de Lom, Banquier & Négoc. en tabac en gros.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Baup\",\n      \"forename\": \"Paul\",\n      \"title\": \"\",\n      \"occupation\": \"Apoticaire\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Paul Baup, Apoticaire.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 29,\n      \"kind\": \"sonst\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Outre les établissemens ci-devant notés, il y a encore diverses sociétés, dont trois entr'autres ont un but très-remarquable; la premiére qu'on nomme Abaye des Cordonniers, est très-riche & applique tous ses revenus au soulagement des pauvres; la direction des pauvres veille surtout sur\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "61",
+  "running_head": "VEVEY.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "VEVEY. 61"
+   },
+   {
+    "n": 2,
+    "text": "Monsieur"
+   },
+   {
+    "n": 3,
+    "text": "Dénis Lasalle, } Marchands horlogers."
+   },
+   {
+    "n": 4,
+    "text": "Jaque Girond, }"
+   },
+   {
+    "n": 5,
+    "text": "Michel, Tonnelier."
+   },
+   {
+    "n": 6,
+    "text": "Benj. Rossier,"
+   },
+   {
+    "n": 7,
+    "text": "Prader & Brunet, } Négociants en vin."
+   },
+   {
+    "n": 8,
+    "text": "Gabriel Nicod,"
+   },
+   {
+    "n": 9,
+    "text": "Turdent, Fils, maitre d'Ecriture très-célébre."
+   },
+   {
+    "n": 10,
+    "text": "J. Louis Dutoit, Fabricant de platre."
+   },
+   {
+    "n": 11,
+    "text": "Isaac Louis Genton, Fabricant d'eau de vie."
+   },
+   {
+    "n": 12,
+    "text": "Du Craux & Beroud, Cordiers."
+   },
+   {
+    "n": 13,
+    "text": "Richard Prader,"
+   },
+   {
+    "n": 14,
+    "text": "J. Et. Johannot,"
+   },
+   {
+    "n": 15,
+    "text": "David Levieux, } Négoc. en Epicerie."
+   },
+   {
+    "n": 16,
+    "text": "J. Ab. Penel,"
+   },
+   {
+    "n": 17,
+    "text": "Auffet & Fils."
+   },
+   {
+    "n": 18,
+    "text": "David Levieux, } Fabricants de Cho-"
+   },
+   {
+    "n": 19,
+    "text": "Veuve Loup & Che- } colat."
+   },
+   {
+    "n": 20,
+    "text": "valier,"
+   },
+   {
+    "n": 21,
+    "text": "J. Fr. de Lom, Banquier & Négoc. en tabac"
+   },
+   {
+    "n": 22,
+    "text": "en gros."
+   },
+   {
+    "n": 23,
+    "text": "Paul Baup, Apoticaire."
+   },
+   {
+    "n": 24,
+    "text": "Outre les établissemens ci-devant notés, il y"
+   },
+   {
+    "n": 25,
+    "text": "a encore diverses sociétés, dont trois entr'autres"
+   },
+   {
+    "n": 26,
+    "text": "ont un but très-remarquable; la premiére qu'on"
+   },
+   {
+    "n": 27,
+    "text": "nomme Abaye des Cordonniers, est très-riche &"
+   },
+   {
+    "n": 28,
+    "text": "applique tous ses revenus au soulagement des pau-"
+   },
+   {
+    "n": 29,
+    "text": "vres; la direction des pauvres veille surtout sur"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Lasalle",
+    "forename": "Dénis",
+    "title": "",
+    "occupation": "Marchands horlogers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dénis Lasalle, Marchands horlogers."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Girond",
+    "forename": "Jaque",
+    "title": "",
+    "occupation": "Marchands horlogers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jaque Girond, Marchands horlogers."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Michel",
+    "forename": "",
+    "title": "",
+    "occupation": "Tonnelier",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Michel, Tonnelier."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Rossier",
+    "forename": "Benj.",
+    "title": "",
+    "occupation": "Négociants en vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Benj. Rossier, Négociants en vin."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Prader & Brunet",
+    "forename": "",
+    "title": "",
+    "occupation": "Négociants en vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Prader & Brunet, Négociants en vin."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Nicod",
+    "forename": "Gabriel",
+    "title": "",
+    "occupation": "Négociants en vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Gabriel Nicod, Négociants en vin."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Turdent",
+    "forename": "",
+    "title": "Fils",
+    "occupation": "maitre d'Ecriture très-célébre",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Turdent, Fils, maitre d'Ecriture très-célébre."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Dutoit",
+    "forename": "J. Louis",
+    "title": "",
+    "occupation": "Fabricant de platre",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. Louis Dutoit, Fabricant de platre."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Genton",
+    "forename": "Isaac Louis",
+    "title": "",
+    "occupation": "Fabricant d'eau de vie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Isaac Louis Genton, Fabricant d'eau de vie."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Du Craux & Beroud",
+    "forename": "",
+    "title": "",
+    "occupation": "Cordiers",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Du Craux & Beroud, Cordiers."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Prader",
+    "forename": "Richard",
+    "title": "",
+    "occupation": "Négoc. en Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Richard Prader, Négoc. en Epicerie."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Johannot",
+    "forename": "J. Et.",
+    "title": "",
+    "occupation": "Négoc. en Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. Et. Johannot, Négoc. en Epicerie."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Levieux",
+    "forename": "David",
+    "title": "",
+    "occupation": "Négoc. en Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "David Levieux, Négoc. en Epicerie."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Penel",
+    "forename": "J. Ab.",
+    "title": "",
+    "occupation": "Négoc. en Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. Ab. Penel, Négoc. en Epicerie."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Auffet",
+    "forename": "",
+    "title": "& Fils",
+    "occupation": "Négoc. en Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Auffet & Fils, Négoc. en Epicerie."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Levieux",
+    "forename": "David",
+    "title": "",
+    "occupation": "Fabricants de Chocolat",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "David Levieux, Fabricants de Chocolat."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Loup & Chevalier",
+    "forename": "",
+    "title": "Veuve",
+    "occupation": "Fabricants de Chocolat",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Veuve Loup & Chevalier, Fabricants de Chocolat."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Lom",
+    "forename": "J. Fr.",
+    "title": "de",
+    "occupation": "Banquier & Négoc. en tabac en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. Fr. de Lom, Banquier & Négoc. en tabac en gros."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Baup",
+    "forename": "Paul",
+    "title": "",
+    "occupation": "Apoticaire",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Paul Baup, Apoticaire."
+   },
+   {
+    "line_from": 24,
+    "line_to": 29,
+    "kind": "sonst",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Outre les établissemens ci-devant notés, il y a encore diverses sociétés, dont trois entr'autres ont un but très-remarquable; la premiére qu'on nomme Abaye des Cordonniers, est très-riche & applique tous ses revenus au soulagement des pauvres; la direction des pauvres veille surtout sur"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:53:33+01:00",
+ "last_error": null
+}

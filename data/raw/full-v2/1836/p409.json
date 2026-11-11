@@ -1,0 +1,858 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1836",
+ "page": 409,
+ "section": "einwohner_nachtrag",
+ "started": "2026-11-11T21:44:05+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 50.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2385,
+  "output": 8103,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"158\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"158\"},\n    {\"n\": 2, \"text\": \"Brunner, Rud., alt Scharfschützenhauptm., und } ist der Gleiche.\"},\n    {\"n\": 3, \"text\": \"Brunner, allié Suter,\"},\n    {\"n\": 4, \"text\": \"Buß, F. Chr., irrige Eintragung unter Kirchenselektgesang des Hrn.\"},\n    {\"n\": 5, \"text\": \"Merz statt seiner.\"},\n    {\"n\": 6, \"text\": \"Buchser, allié Schweizer, Schreiber an der Obergerichtskanzlei, R. Qr.\"},\n    {\"n\": 7, \"text\": \"Spitalg. S. Nr. 148.\"},\n    {\"n\": 8, \"text\": \"Burgdorfer, Sohn, Buchhändler und Lieut., pag. 47.\"},\n    {\"n\": 9, \"text\": \"Burkhardt, Friedr., Handelsm. in Wollen- und Baumwollenwaaren,\"},\n    {\"n\": 10, \"text\": \"Gn. Qr. obere Kirchgasse Nr. 243.\"},\n    {\"n\": 11, \"text\": \"Bursch, Joseph, Docent der Tonkunst und Mathematik, logirt jetzt\"},\n    {\"n\": 12, \"text\": \"Gn. Qr. Brunng. ✠ Nr. 21.\"},\n    {\"n\": 13, \"text\": \"Bürki, Benedikt, nicht Johann, hat seinen Laden in der Aarberger-\"},\n    {\"n\": 14, \"text\": \"straße.\"},\n    {\"n\": 15, \"text\": \"Büren, v., Albr. Rud., Oberst, alt Rathsherr, Schoßhaldendrittel,\"},\n    {\"n\": 16, \"text\": \"Nr. 86–90. G. H. u. B.\"},\n    {\"n\": 17, \"text\": \"Büren, Frau v., v. Wattenwyl, W. Qr. Gerechtigkeitsg. ✠ Nr. 90. B.\"},\n    {\"n\": 18, \"text\": \"Büren, v., Karl, allié v. Mülinen, zu Denens. B.\"},\n    {\"n\": 19, \"text\": \"Büren v., Fräulein Katharina, W. Qr. Gerechtigkeitsg. ✠ Nr. 90. B.\"},\n    {\"n\": 20, \"text\": \"Büren, v., Karl Ludwig, statt Schoßhaldendrittel, Aarzieledrittel\"},\n    {\"n\": 21, \"text\": \"Nr. 67, 68, 69, 81, 82, 83. G. H. u. B.\"},\n    {\"n\": 22, \"text\": \"Büren, v., Ed., Major, Gn. Qr. Kramg. S. Nr. 212. Schoßhalden-\"},\n    {\"n\": 23, \"text\": \"drittel Nr. 49, 50. G. B.\"},\n    {\"n\": 24, \"text\": \"Büren, v., Frau, Generalin, geb. v. Sinner, Gn. Qr. Kramg. S.\"},\n    {\"n\": 25, \"text\": \"Nr. 212. B.\"},\n    {\"n\": 26, \"text\": \"Büren, v., Joh. Karl Albr., alt Oberamtm. von Münster, Freiherr\"},\n    {\"n\": 27, \"text\": \"von und zu Vaumarcus, im Fürstenth. Neuenburg. B.\"},\n    {\"n\": 28, \"text\": \"Büren, v., Ludwig, Gutsbesitzer zu Denens. B.\"},\n    {\"n\": 29, \"text\": \"C.\"},\n    {\"n\": 30, \"text\": \"Christen, Georg, Substitut an der Einwohnergemeindspolizei, W. Qr.\"},\n    {\"n\": 31, \"text\": \"Gerechtigkeitsg. ✠ Nr. 100.\"},\n    {\"n\": 32, \"text\": \"Christinaz, allié Gondoux, Schreiber, W. Qr. Postg. ✠ Nr. 34.\"},\n    {\"n\": 33, \"text\": \"Coeytaux, Friedr., Faktor des Kornhauskellers, Gn. Qr. Kornhaus-\"},\n    {\"n\": 34, \"text\": \"platz Nr. 49.\"},\n    {\"n\": 35, \"text\": \"D.\"},\n    {\"n\": 36, \"text\": \"Dénéréaz, Frz., im Salzhausekeller, Gn. Qr. Metzgerg. S. Nr. 84.\"},\n    {\"n\": 37, \"text\": \"Dießbach, v., Frau, geb. Jenner, Wittwe, im Löchli, Altenbergdrit-\"},\n    {\"n\": 38, \"text\": \"tel Nr. 110, und Kramg. S. Nr. 200. B.\"},\n    {\"n\": 39, \"text\": \"Dietiker, Ludwig, Staatsanwalt, logirt jetzt im Bierhaus z. Maul-\"},\n    {\"n\": 40, \"text\": \"beerbaum.\"},\n    {\"n\": 41, \"text\": \"Dietiker, Joh. Georg, Schreiber, Gn. Qr. Metzgerg. S. Nr. 131.\"},\n    {\"n\": 42, \"text\": \"Dill, Vater, Musikus, Gn. Qr. Zwiebelngäßlein Nr. 60.\"},\n    {\"n\": 43, \"text\": \"Ding, Jakob, Küfermeister, Aarbergergasse Nr. 37.\"},\n    {\"n\": 44, \"text\": \"Dizerenz, Friedr., Commis, Gb. Qr. Marktg. ✠ Nr. 47.\"},\n    {\"n\": 45, \"text\": \"Duperret, Sprachlehrer, Gb. Qr. Marktg. S. Nr. 74.\"},\n    {\"n\": 46, \"text\": \"E.\"},\n    {\"n\": 47, \"text\": \"Eberhardt, Gottl., Rechtsagent, die Schreibstube Gb. Qr. Marktgasse\"},\n    {\"n\": 48, \"text\": \"S. Nr. 73.\"},\n    {\"n\": 49, \"text\": \"Eich, Joh., Schuhmacher, S. Qr. Nr. 113.\"},\n    {\"n\": 50, \"text\": \"Eidam, Gottl., Schreiber, Gn. Qr. Metzgerg. ✠ Nr. 80.\"},\n    {\"n\": 51, \"text\": \"Enchelmeyer, Negot., wohnt jetzt Gn. Qr. Keßlerg. ✠ Nr. 240.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Brunner\",\n      \"forename\": \"Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"alt Scharfschützenhauptm.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Brunner, Rud., alt Scharfschützenhauptm., und Brunner, allié Suter, ist der Gleiche.\",\n      \"text\": \"Brunner, Rud., alt Scharfschützenhauptm., und Brunner, allié Suter, } ist der Gleiche.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Buß\",\n      \"forename\": \"F. Chr.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"irrige Eintragung unter Kirchenselektgesang des Hrn. Merz statt seiner.\",\n      \"text\": \"Buß, F. Chr., irrige Eintragung unter Kirchenselektgesang des Hrn. Merz statt seiner.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Buchser\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber an der Obergerichtskanzlei\",\n      \"address\": \"R. Qr. Spitalg. S. Nr. 148.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Spitalg.\",\n      \"house_no\": \"148\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"allié Schweizer\",\n      \"text\": \"Buchser, allié Schweizer, Schreiber an der Obergerichtskanzlei, R. Qr. Spitalg. S. Nr. 148.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Burgdorfer\",\n      \"forename\": \"\",\n      \"title\": \"Sohn\",\n      \"occupation\": \"Buchhändler und Lieut.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"pag. 47.\",\n      \"text\": \"Burgdorfer, Sohn, Buchhändler und Lieut., pag. 47.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Burkhardt\",\n      \"forename\": \"Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsm. in Wollen- und Baumwollenwaaren\",\n      \"address\": \"Gn. Qr. obere Kirchgasse Nr. 243.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"obere Kirchgasse\",\n      \"house_no\": \"243\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Burkhardt, Friedr., Handelsm. in Wollen- und Baumwollenwaaren, Gn. Qr. obere Kirchgasse Nr. 243.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Bursch\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Docent der Tonkunst und Mathematik\",\n      \"address\": \"Gn. Qr. Brunng. ✠ Nr. 21.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Brunng.\",\n      \"house_no\": \"21\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"logirt jetzt\",\n      \"text\": \"Bursch, Joseph, Docent der Tonkunst und Mathematik, logirt jetzt Gn. Qr. Brunng. * Nr. 21.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Bürki\",\n      \"forename\": \"Benedikt\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"in der Aarbergerstraße\",\n      \"quarter\": \"\",\n      \"street\": \"Aarbergerstraße\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"nicht Johann, hat seinen Laden in der Aarbergerstraße.\",\n      \"text\": \"Bürki, Benedikt, nicht Johann, hat seinen Laden in der Aarbergerstraße.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Büren\",\n      \"forename\": \"Albr. Rud.\",\n      \"title\": \"v.\",\n      \"occupation\": \"Oberst, alt Rathsherr\",\n      \"address\": \"Schoßhaldendrittel, Nr. 86–90.\",\n      \"quarter\": \"\",\n      \"street\": \"Schoßhaldendrittel\",\n      \"house_no\": \"86–90\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"G. H. u. B.\",\n      \"text\": \"Büren, v., Albr. Rud., Oberst, alt Rathsherr, Schoßhaldendrittel, Nr. 86–90. G. H. u. B.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Büren\",\n      \"forename\": \"\",\n      \"title\": \"Frau v.\",\n      \"occupation\": \"\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. ✠ Nr. 90.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"90\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"v. Wattenwyl; B.\",\n      \"text\": \"Büren, Frau v., v. Wattenwyl, W. Qr. Gerechtigkeitsg. * Nr. 90. B.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Denens\",\n      \"surname\": \"Büren\",\n      \"forename\": \"Karl\",\n      \"title\": \"v.\",\n      \"occupation\": \"\",\n      \"address\": \"zu Denens.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"allié v. Mülinen, zu Denens; B.\",\n      \"text\": \"Büren, v., Karl, allié v. Mülinen, zu Denens. B.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Büren\",\n      \"forename\": \"Katharina\",\n      \"title\": \"v., Fräulein\",\n      \"occupation\": \"\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. ✠ Nr. 90.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"90\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Büren v., Fräulein Katharina, W. Qr. Gerechtigkeitsg. * Nr. 90. B.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Büren\",\n      \"forename\": \"Karl Ludwig\",\n      \"title\": \"v.\",\n      \"occupation\": \"\",\n      \"address\": \"statt Schoßhaldendrittel, Aarzieledrittel Nr. 67, 68, 69, 81, 82, 83.\",\n      \"quarter\": \"\",\n      \"street\": \"Aarzieledrittel\",\n      \"house_no\": \"67, 68, 69, 81, 82, 83\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"statt Schoßhaldendrittel; G. H. u. B.\",\n      \"text\": \"Büren, v., Karl Ludwig, statt Schoßhaldendrittel, Aarzieledrittel Nr. 67, 68, 69, 81, 82, 83. G. H. u. B.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Büren\",\n      \"forename\": \"Ed.\",\n      \"title\": \"v.\",\n      \"occupation\": \"Major\",\n      \"address\": \"Gn. Qr. Kramg. S. Nr. 212. Schoßhaldendrittel Nr. 49, 50.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramg.\",\n      \"house_no\": \"212\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"G. B.\",\n      \"text\": \"Büren, v., Ed., Major, Gn. Qr. Kramg. S. Nr. 212. Schoßhaldendrittel Nr. 49, 50. G. B.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Büren\",\n      \"forename\": \"\",\n      \"title\": \"Frau, Generalin, v.\",\n      \"occupation\": \"\",\n      \"address\": \"Gn. Qr. Kramg. S. Nr. 212.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramg.\",\n      \"house_no\": \"212\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. v. Sinner; B.\",\n      \"text\": \"Büren, v., Frau, Generalin, geb. v. Sinner, Gn. Qr. Kramg. S. Nr. 212. B.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Büren\",\n      \"forename\": \"Joh. Karl Albr.\",\n      \"title\": \"v., Freiherr von und zu Vaumarcus\",\n      \"occupation\": \"alt Oberamtm. von Münster\",\n      \"address\": \"im Fürstenth. Neuenburg.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Büren, v., Joh. Karl Albr., alt Oberamtm. von Münster, Freiherr von und zu Vaumarcus, im Fürstenth. Neuenburg. B.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Denens\",\n      \"surname\": \"Büren\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"v.\",\n      \"occupation\": \"Gutsbesitzer zu Denens\",\n      \"address\": \"zu Denens.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Büren, v., Ludwig, Gutsbesitzer zu Denens. B.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"C.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christen\",\n      \"forename\": \"Georg\",\n      \"title\": \"\",\n      \"occupation\": \"Substitut an der Einwohnergemeindspolizei\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. ✠ Nr. 100.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"100\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Christen, Georg, Substitut an der Einwohnergemeindspolizei, W. Qr. Gerechtigkeitsg. * Nr. 100.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"C.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christinaz\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"W. Qr. Postg. ✠ Nr. 34.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Postg.\",\n      \"house_no\": \"34\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"allié Gondoux\",\n      \"text\": \"Christinaz, allié Gondoux, Schreiber, W. Qr. Postg. * Nr. 34.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"C.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Coeytaux\",\n      \"forename\": \"Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Faktor des Kornhauskellers\",\n      \"address\": \"Gn. Qr. Kornhausplatz Nr. 49.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kornhausplatz\",\n      \"house_no\": \"49\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Coeytaux, Friedr., Faktor des Kornhauskellers, Gn. Qr. Kornhausplatz Nr. 49.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"D.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dénéréaz\",\n      \"forename\": \"Frz.\",\n      \"title\": \"\",\n      \"occupation\": \"im Salzhausekeller\",\n      \"address\": \"Gn. Qr. Metzgerg. S. Nr. 84.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Metzgerg.\",\n      \"house_no\": \"84\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dénéréaz, Frz., im Salzhausekeller, Gn. Qr. Metzgerg. S. Nr. 84.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"D.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dießbach\",\n      \"forename\": \"\",\n      \"title\": \"Frau, Wittwe, v.\",\n      \"occupation\": \"\",\n      \"address\": \"im Löchli, Altenbergdrittel Nr. 110, und Kramg. S. Nr. 200.\",\n      \"quarter\": \"\",\n      \"street\": \"Altenbergdrittel und Kramg.\",\n      \"house_no\": \"110 und 200\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Jenner; B.\",\n      \"text\": \"Dießbach, v., Frau, geb. Jenner, Wittwe, im Löchli, Altenbergdrittel Nr. 110, und Kramg. S. Nr. 200. B.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"D.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dietiker\",\n      \"forename\": \"Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Staatsanwalt\",\n      \"address\": \"im Bierhaus z. Maulbeerbaum.\",\n      \"quarter\": \"\",\n      \"street\": \"im Bierhaus z. Maulbeerbaum\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"logirt jetzt\",\n      \"text\": \"Dietiker, Ludwig, Staatsanwalt, logirt jetzt im Bierhaus z. Maulbeerbaum.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"D.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dietiker\",\n      \"forename\": \"Joh. Georg\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"Gn. Qr. Metzgerg. S. Nr. 131.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Metzgerg.\",\n      \"house_no\": \"131\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dietiker, Joh. Georg, Schreiber, Gn. Qr. Metzgerg. S. Nr. 131.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"D.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dill\",\n      \"forename\": \"\",\n      \"title\": \"Vater\",\n      \"occupation\": \"Musikus\",\n      \"address\": \"Gn. Qr. Zwiebelngäßlein Nr. 60.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Zwiebelngäßlein\",\n      \"house_no\": \"60\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dill, Vater, Musikus, Gn. Qr. Zwiebelngäßlein Nr. 60.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"D.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ding\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Küfermeister\",\n      \"address\": \"Aarbergergasse Nr. 37.\",\n      \"quarter\": \"\",\n      \"street\": \"Aarbergergasse\",\n      \"house_no\": \"37\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ding, Jakob, Küfermeister, Aarbergergasse Nr. 37.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"D.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dizerenz\",\n      \"forename\": \"Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Commis\",\n      \"address\": \"Gb. Qr. Marktg. ✠ Nr. 47.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"47\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dizerenz, Friedr., Commis, Gb. Qr. Marktg. * Nr. 47.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 45,\n      \"kind\": \"person\",\n      \"heading\": \"D.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Duperret\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Sprachlehrer\",\n      \"address\": \"Gb. Qr. Marktg. S. Nr. 74.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"74\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Duperret, Sprachlehrer, Gb. Qr. Marktg. S. Nr. 74.\"\n    },\n    {\n      \"line_from\": 47,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"E.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eberhardt\",\n      \"forename\": \"Gottl.\",\n      \"title\": \"\",\n      \"occupation\": \"Rechtsagent\",\n      \"address\": \"die Schreibstube Gb. Qr. Marktgasse S. Nr. 73.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktgasse\",\n      \"house_no\": \"73\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eberhardt, Gottl., Rechtsagent, die Schreibstube Gb. Qr. Marktgasse S. Nr. 73.\"\n    },\n    {\n      \"line_from\": 49,\n      \"line_to\": 49,\n      \"kind\": \"person\",\n      \"heading\": \"E.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eich\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"S. Qr. Nr. 113.\",\n      \"quarter\": \"S. Qr.\",\n      \"street\": \"\",\n      \"house_no\": \"113\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eich, Joh., Schuhmacher, S. Qr. Nr. 113.\"\n    },\n    {\n      \"line_from\": 50,\n      \"line_to\": 50,\n      \"kind\": \"person\",\n      \"heading\": \"E.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eidam\",\n      \"forename\": \"Gottl.\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"Gn. Qr. Metzgerg. ✠ Nr. 80.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Metzgerg.\",\n      \"house_no\": \"80\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eidam, Gottl., Schreiber, Gn. Qr. Metzgerg. * Nr. 80.\"\n    },\n    {\n      \"line_from\": 51,\n      \"line_to\": 51,\n      \"kind\": \"person\",\n      \"heading\": \"E.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Enchelmeyer\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Negot.\",\n      \"address\": \"Gn. Qr. Keßlerg. ✠ Nr. 240.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Keßlerg.\",\n      \"house_no\": \"240\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"wohnt jetzt\",\n      \"text\": \"Enchelmeyer, Negot., wohnt jetzt Gn. Qr. Keßlerg. * Nr. 240.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "158",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "158"
+   },
+   {
+    "n": 2,
+    "text": "Brunner, Rud., alt Scharfschützenhauptm., und } ist der Gleiche."
+   },
+   {
+    "n": 3,
+    "text": "Brunner, allié Suter,"
+   },
+   {
+    "n": 4,
+    "text": "Buß, F. Chr., irrige Eintragung unter Kirchenselektgesang des Hrn."
+   },
+   {
+    "n": 5,
+    "text": "Merz statt seiner."
+   },
+   {
+    "n": 6,
+    "text": "Buchser, allié Schweizer, Schreiber an der Obergerichtskanzlei, R. Qr."
+   },
+   {
+    "n": 7,
+    "text": "Spitalg. S. Nr. 148."
+   },
+   {
+    "n": 8,
+    "text": "Burgdorfer, Sohn, Buchhändler und Lieut., pag. 47."
+   },
+   {
+    "n": 9,
+    "text": "Burkhardt, Friedr., Handelsm. in Wollen- und Baumwollenwaaren,"
+   },
+   {
+    "n": 10,
+    "text": "Gn. Qr. obere Kirchgasse Nr. 243."
+   },
+   {
+    "n": 11,
+    "text": "Bursch, Joseph, Docent der Tonkunst und Mathematik, logirt jetzt"
+   },
+   {
+    "n": 12,
+    "text": "Gn. Qr. Brunng. ✠ Nr. 21."
+   },
+   {
+    "n": 13,
+    "text": "Bürki, Benedikt, nicht Johann, hat seinen Laden in der Aarberger-"
+   },
+   {
+    "n": 14,
+    "text": "straße."
+   },
+   {
+    "n": 15,
+    "text": "Büren, v., Albr. Rud., Oberst, alt Rathsherr, Schoßhaldendrittel,"
+   },
+   {
+    "n": 16,
+    "text": "Nr. 86–90. G. H. u. B."
+   },
+   {
+    "n": 17,
+    "text": "Büren, Frau v., v. Wattenwyl, W. Qr. Gerechtigkeitsg. ✠ Nr. 90. B."
+   },
+   {
+    "n": 18,
+    "text": "Büren, v., Karl, allié v. Mülinen, zu Denens. B."
+   },
+   {
+    "n": 19,
+    "text": "Büren v., Fräulein Katharina, W. Qr. Gerechtigkeitsg. ✠ Nr. 90. B."
+   },
+   {
+    "n": 20,
+    "text": "Büren, v., Karl Ludwig, statt Schoßhaldendrittel, Aarzieledrittel"
+   },
+   {
+    "n": 21,
+    "text": "Nr. 67, 68, 69, 81, 82, 83. G. H. u. B."
+   },
+   {
+    "n": 22,
+    "text": "Büren, v., Ed., Major, Gn. Qr. Kramg. S. Nr. 212. Schoßhalden-"
+   },
+   {
+    "n": 23,
+    "text": "drittel Nr. 49, 50. G. B."
+   },
+   {
+    "n": 24,
+    "text": "Büren, v., Frau, Generalin, geb. v. Sinner, Gn. Qr. Kramg. S."
+   },
+   {
+    "n": 25,
+    "text": "Nr. 212. B."
+   },
+   {
+    "n": 26,
+    "text": "Büren, v., Joh. Karl Albr., alt Oberamtm. von Münster, Freiherr"
+   },
+   {
+    "n": 27,
+    "text": "von und zu Vaumarcus, im Fürstenth. Neuenburg. B."
+   },
+   {
+    "n": 28,
+    "text": "Büren, v., Ludwig, Gutsbesitzer zu Denens. B."
+   },
+   {
+    "n": 29,
+    "text": "C."
+   },
+   {
+    "n": 30,
+    "text": "Christen, Georg, Substitut an der Einwohnergemeindspolizei, W. Qr."
+   },
+   {
+    "n": 31,
+    "text": "Gerechtigkeitsg. ✠ Nr. 100."
+   },
+   {
+    "n": 32,
+    "text": "Christinaz, allié Gondoux, Schreiber, W. Qr. Postg. ✠ Nr. 34."
+   },
+   {
+    "n": 33,
+    "text": "Coeytaux, Friedr., Faktor des Kornhauskellers, Gn. Qr. Kornhaus-"
+   },
+   {
+    "n": 34,
+    "text": "platz Nr. 49."
+   },
+   {
+    "n": 35,
+    "text": "D."
+   },
+   {
+    "n": 36,
+    "text": "Dénéréaz, Frz., im Salzhausekeller, Gn. Qr. Metzgerg. S. Nr. 84."
+   },
+   {
+    "n": 37,
+    "text": "Dießbach, v., Frau, geb. Jenner, Wittwe, im Löchli, Altenbergdrit-"
+   },
+   {
+    "n": 38,
+    "text": "tel Nr. 110, und Kramg. S. Nr. 200. B."
+   },
+   {
+    "n": 39,
+    "text": "Dietiker, Ludwig, Staatsanwalt, logirt jetzt im Bierhaus z. Maul-"
+   },
+   {
+    "n": 40,
+    "text": "beerbaum."
+   },
+   {
+    "n": 41,
+    "text": "Dietiker, Joh. Georg, Schreiber, Gn. Qr. Metzgerg. S. Nr. 131."
+   },
+   {
+    "n": 42,
+    "text": "Dill, Vater, Musikus, Gn. Qr. Zwiebelngäßlein Nr. 60."
+   },
+   {
+    "n": 43,
+    "text": "Ding, Jakob, Küfermeister, Aarbergergasse Nr. 37."
+   },
+   {
+    "n": 44,
+    "text": "Dizerenz, Friedr., Commis, Gb. Qr. Marktg. ✠ Nr. 47."
+   },
+   {
+    "n": 45,
+    "text": "Duperret, Sprachlehrer, Gb. Qr. Marktg. S. Nr. 74."
+   },
+   {
+    "n": 46,
+    "text": "E."
+   },
+   {
+    "n": 47,
+    "text": "Eberhardt, Gottl., Rechtsagent, die Schreibstube Gb. Qr. Marktgasse"
+   },
+   {
+    "n": 48,
+    "text": "S. Nr. 73."
+   },
+   {
+    "n": 49,
+    "text": "Eich, Joh., Schuhmacher, S. Qr. Nr. 113."
+   },
+   {
+    "n": 50,
+    "text": "Eidam, Gottl., Schreiber, Gn. Qr. Metzgerg. ✠ Nr. 80."
+   },
+   {
+    "n": 51,
+    "text": "Enchelmeyer, Negot., wohnt jetzt Gn. Qr. Keßlerg. ✠ Nr. 240."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Brunner",
+    "forename": "Rud.",
+    "title": "",
+    "occupation": "alt Scharfschützenhauptm.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Brunner, Rud., alt Scharfschützenhauptm., und Brunner, allié Suter, ist der Gleiche.",
+    "text": "Brunner, Rud., alt Scharfschützenhauptm., und Brunner, allié Suter, } ist der Gleiche."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Buß",
+    "forename": "F. Chr.",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "irrige Eintragung unter Kirchenselektgesang des Hrn. Merz statt seiner.",
+    "text": "Buß, F. Chr., irrige Eintragung unter Kirchenselektgesang des Hrn. Merz statt seiner."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Buchser",
+    "forename": "",
+    "title": "",
+    "occupation": "Schreiber an der Obergerichtskanzlei",
+    "address": "R. Qr. Spitalg. S. Nr. 148.",
+    "quarter": "R. Qr.",
+    "street": "Spitalg.",
+    "house_no": "148",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "allié Schweizer",
+    "text": "Buchser, allié Schweizer, Schreiber an der Obergerichtskanzlei, R. Qr. Spitalg. S. Nr. 148."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Burgdorfer",
+    "forename": "",
+    "title": "Sohn",
+    "occupation": "Buchhändler und Lieut.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "pag. 47.",
+    "text": "Burgdorfer, Sohn, Buchhändler und Lieut., pag. 47."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Burkhardt",
+    "forename": "Friedr.",
+    "title": "",
+    "occupation": "Handelsm. in Wollen- und Baumwollenwaaren",
+    "address": "Gn. Qr. obere Kirchgasse Nr. 243.",
+    "quarter": "Gn. Qr.",
+    "street": "obere Kirchgasse",
+    "house_no": "243",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Burkhardt, Friedr., Handelsm. in Wollen- und Baumwollenwaaren, Gn. Qr. obere Kirchgasse Nr. 243."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Bursch",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Docent der Tonkunst und Mathematik",
+    "address": "Gn. Qr. Brunng. ✠ Nr. 21.",
+    "quarter": "Gn. Qr.",
+    "street": "Brunng.",
+    "house_no": "21",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "logirt jetzt",
+    "text": "Bursch, Joseph, Docent der Tonkunst und Mathematik, logirt jetzt Gn. Qr. Brunng. * Nr. 21."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Bürki",
+    "forename": "Benedikt",
+    "title": "",
+    "occupation": "",
+    "address": "in der Aarbergerstraße",
+    "quarter": "",
+    "street": "Aarbergerstraße",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "nicht Johann, hat seinen Laden in der Aarbergerstraße.",
+    "text": "Bürki, Benedikt, nicht Johann, hat seinen Laden in der Aarbergerstraße."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Büren",
+    "forename": "Albr. Rud.",
+    "title": "v.",
+    "occupation": "Oberst, alt Rathsherr",
+    "address": "Schoßhaldendrittel, Nr. 86–90.",
+    "quarter": "",
+    "street": "Schoßhaldendrittel",
+    "house_no": "86–90",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "G. H. u. B.",
+    "text": "Büren, v., Albr. Rud., Oberst, alt Rathsherr, Schoßhaldendrittel, Nr. 86–90. G. H. u. B."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Büren",
+    "forename": "",
+    "title": "Frau v.",
+    "occupation": "",
+    "address": "W. Qr. Gerechtigkeitsg. ✠ Nr. 90.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "90",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "v. Wattenwyl; B.",
+    "text": "Büren, Frau v., v. Wattenwyl, W. Qr. Gerechtigkeitsg. * Nr. 90. B."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": null,
+    "place": "Denens",
+    "surname": "Büren",
+    "forename": "Karl",
+    "title": "v.",
+    "occupation": "",
+    "address": "zu Denens.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "allié v. Mülinen, zu Denens; B.",
+    "text": "Büren, v., Karl, allié v. Mülinen, zu Denens. B."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Büren",
+    "forename": "Katharina",
+    "title": "v., Fräulein",
+    "occupation": "",
+    "address": "W. Qr. Gerechtigkeitsg. ✠ Nr. 90.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "90",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Büren v., Fräulein Katharina, W. Qr. Gerechtigkeitsg. * Nr. 90. B."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Büren",
+    "forename": "Karl Ludwig",
+    "title": "v.",
+    "occupation": "",
+    "address": "statt Schoßhaldendrittel, Aarzieledrittel Nr. 67, 68, 69, 81, 82, 83.",
+    "quarter": "",
+    "street": "Aarzieledrittel",
+    "house_no": "67, 68, 69, 81, 82, 83",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "statt Schoßhaldendrittel; G. H. u. B.",
+    "text": "Büren, v., Karl Ludwig, statt Schoßhaldendrittel, Aarzieledrittel Nr. 67, 68, 69, 81, 82, 83. G. H. u. B."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Büren",
+    "forename": "Ed.",
+    "title": "v.",
+    "occupation": "Major",
+    "address": "Gn. Qr. Kramg. S. Nr. 212. Schoßhaldendrittel Nr. 49, 50.",
+    "quarter": "Gn. Qr.",
+    "street": "Kramg.",
+    "house_no": "212",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "G. B.",
+    "text": "Büren, v., Ed., Major, Gn. Qr. Kramg. S. Nr. 212. Schoßhaldendrittel Nr. 49, 50. G. B."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Büren",
+    "forename": "",
+    "title": "Frau, Generalin, v.",
+    "occupation": "",
+    "address": "Gn. Qr. Kramg. S. Nr. 212.",
+    "quarter": "Gn. Qr.",
+    "street": "Kramg.",
+    "house_no": "212",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. v. Sinner; B.",
+    "text": "Büren, v., Frau, Generalin, geb. v. Sinner, Gn. Qr. Kramg. S. Nr. 212. B."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Büren",
+    "forename": "Joh. Karl Albr.",
+    "title": "v., Freiherr von und zu Vaumarcus",
+    "occupation": "alt Oberamtm. von Münster",
+    "address": "im Fürstenth. Neuenburg.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Büren, v., Joh. Karl Albr., alt Oberamtm. von Münster, Freiherr von und zu Vaumarcus, im Fürstenth. Neuenburg. B."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": null,
+    "place": "Denens",
+    "surname": "Büren",
+    "forename": "Ludwig",
+    "title": "v.",
+    "occupation": "Gutsbesitzer zu Denens",
+    "address": "zu Denens.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Büren, v., Ludwig, Gutsbesitzer zu Denens. B."
+   },
+   {
+    "line_from": 30,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "C.",
+    "place": "Bern",
+    "surname": "Christen",
+    "forename": "Georg",
+    "title": "",
+    "occupation": "Substitut an der Einwohnergemeindspolizei",
+    "address": "W. Qr. Gerechtigkeitsg. ✠ Nr. 100.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "100",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Christen, Georg, Substitut an der Einwohnergemeindspolizei, W. Qr. Gerechtigkeitsg. * Nr. 100."
+   },
+   {
+    "line_from": 32,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "C.",
+    "place": "Bern",
+    "surname": "Christinaz",
+    "forename": "",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "W. Qr. Postg. ✠ Nr. 34.",
+    "quarter": "W. Qr.",
+    "street": "Postg.",
+    "house_no": "34",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "allié Gondoux",
+    "text": "Christinaz, allié Gondoux, Schreiber, W. Qr. Postg. * Nr. 34."
+   },
+   {
+    "line_from": 33,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "C.",
+    "place": "Bern",
+    "surname": "Coeytaux",
+    "forename": "Friedr.",
+    "title": "",
+    "occupation": "Faktor des Kornhauskellers",
+    "address": "Gn. Qr. Kornhausplatz Nr. 49.",
+    "quarter": "Gn. Qr.",
+    "street": "Kornhausplatz",
+    "house_no": "49",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Coeytaux, Friedr., Faktor des Kornhauskellers, Gn. Qr. Kornhausplatz Nr. 49."
+   },
+   {
+    "line_from": 36,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "D.",
+    "place": "Bern",
+    "surname": "Dénéréaz",
+    "forename": "Frz.",
+    "title": "",
+    "occupation": "im Salzhausekeller",
+    "address": "Gn. Qr. Metzgerg. S. Nr. 84.",
+    "quarter": "Gn. Qr.",
+    "street": "Metzgerg.",
+    "house_no": "84",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dénéréaz, Frz., im Salzhausekeller, Gn. Qr. Metzgerg. S. Nr. 84."
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "D.",
+    "place": "Bern",
+    "surname": "Dießbach",
+    "forename": "",
+    "title": "Frau, Wittwe, v.",
+    "occupation": "",
+    "address": "im Löchli, Altenbergdrittel Nr. 110, und Kramg. S. Nr. 200.",
+    "quarter": "",
+    "street": "Altenbergdrittel und Kramg.",
+    "house_no": "110 und 200",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Jenner; B.",
+    "text": "Dießbach, v., Frau, geb. Jenner, Wittwe, im Löchli, Altenbergdrittel Nr. 110, und Kramg. S. Nr. 200. B."
+   },
+   {
+    "line_from": 39,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "D.",
+    "place": "Bern",
+    "surname": "Dietiker",
+    "forename": "Ludwig",
+    "title": "",
+    "occupation": "Staatsanwalt",
+    "address": "im Bierhaus z. Maulbeerbaum.",
+    "quarter": "",
+    "street": "im Bierhaus z. Maulbeerbaum",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "logirt jetzt",
+    "text": "Dietiker, Ludwig, Staatsanwalt, logirt jetzt im Bierhaus z. Maulbeerbaum."
+   },
+   {
+    "line_from": 41,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "D.",
+    "place": "Bern",
+    "surname": "Dietiker",
+    "forename": "Joh. Georg",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "Gn. Qr. Metzgerg. S. Nr. 131.",
+    "quarter": "Gn. Qr.",
+    "street": "Metzgerg.",
+    "house_no": "131",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dietiker, Joh. Georg, Schreiber, Gn. Qr. Metzgerg. S. Nr. 131."
+   },
+   {
+    "line_from": 42,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "D.",
+    "place": "Bern",
+    "surname": "Dill",
+    "forename": "",
+    "title": "Vater",
+    "occupation": "Musikus",
+    "address": "Gn. Qr. Zwiebelngäßlein Nr. 60.",
+    "quarter": "Gn. Qr.",
+    "street": "Zwiebelngäßlein",
+    "house_no": "60",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dill, Vater, Musikus, Gn. Qr. Zwiebelngäßlein Nr. 60."
+   },
+   {
+    "line_from": 43,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "D.",
+    "place": "Bern",
+    "surname": "Ding",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Küfermeister",
+    "address": "Aarbergergasse Nr. 37.",
+    "quarter": "",
+    "street": "Aarbergergasse",
+    "house_no": "37",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ding, Jakob, Küfermeister, Aarbergergasse Nr. 37."
+   },
+   {
+    "line_from": 44,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "D.",
+    "place": "Bern",
+    "surname": "Dizerenz",
+    "forename": "Friedr.",
+    "title": "",
+    "occupation": "Commis",
+    "address": "Gb. Qr. Marktg. ✠ Nr. 47.",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "47",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dizerenz, Friedr., Commis, Gb. Qr. Marktg. * Nr. 47."
+   },
+   {
+    "line_from": 45,
+    "line_to": 45,
+    "kind": "person",
+    "heading": "D.",
+    "place": "Bern",
+    "surname": "Duperret",
+    "forename": "",
+    "title": "",
+    "occupation": "Sprachlehrer",
+    "address": "Gb. Qr. Marktg. S. Nr. 74.",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "74",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Duperret, Sprachlehrer, Gb. Qr. Marktg. S. Nr. 74."
+   },
+   {
+    "line_from": 47,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "E.",
+    "place": "Bern",
+    "surname": "Eberhardt",
+    "forename": "Gottl.",
+    "title": "",
+    "occupation": "Rechtsagent",
+    "address": "die Schreibstube Gb. Qr. Marktgasse S. Nr. 73.",
+    "quarter": "Gb. Qr.",
+    "street": "Marktgasse",
+    "house_no": "73",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eberhardt, Gottl., Rechtsagent, die Schreibstube Gb. Qr. Marktgasse S. Nr. 73."
+   },
+   {
+    "line_from": 49,
+    "line_to": 49,
+    "kind": "person",
+    "heading": "E.",
+    "place": "Bern",
+    "surname": "Eich",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "S. Qr. Nr. 113.",
+    "quarter": "S. Qr.",
+    "street": "",
+    "house_no": "113",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eich, Joh., Schuhmacher, S. Qr. Nr. 113."
+   },
+   {
+    "line_from": 50,
+    "line_to": 50,
+    "kind": "person",
+    "heading": "E.",
+    "place": "Bern",
+    "surname": "Eidam",
+    "forename": "Gottl.",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "Gn. Qr. Metzgerg. ✠ Nr. 80.",
+    "quarter": "Gn. Qr.",
+    "street": "Metzgerg.",
+    "house_no": "80",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eidam, Gottl., Schreiber, Gn. Qr. Metzgerg. * Nr. 80."
+   },
+   {
+    "line_from": 51,
+    "line_to": 51,
+    "kind": "person",
+    "heading": "E.",
+    "place": "Bern",
+    "surname": "Enchelmeyer",
+    "forename": "",
+    "title": "",
+    "occupation": "Negot.",
+    "address": "Gn. Qr. Keßlerg. ✠ Nr. 240.",
+    "quarter": "Gn. Qr.",
+    "street": "Keßlerg.",
+    "house_no": "240",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "wohnt jetzt",
+    "text": "Enchelmeyer, Negot., wohnt jetzt Gn. Qr. Keßlerg. * Nr. 240."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:44:55+01:00",
+ "last_error": null
+}

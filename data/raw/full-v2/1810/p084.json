@@ -1,0 +1,390 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 84,
+ "section": "ville",
+ "started": "2026-11-11T20:54:17+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 20.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2300,
+  "output": 2979,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"11\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"11\"},\n    {\"n\": 2, \"text\": \"Bas, voyez Bonneterie.\"},\n    {\"n\": 3, \"text\": \"Batistes, voyez Mousselines.\"},\n    {\"n\": 4, \"text\": \"Blondes et Dentelles.\"},\n    {\"n\": 5, \"text\": \"On les trouve chez les marchands de modes\"},\n    {\"n\": 6, \"text\": \"et de mercerie.\"},\n    {\"n\": 7, \"text\": \"Blanchisseurs.\"},\n    {\"n\": 8, \"text\": \"Brougger, Sam., au Liebefeld; teint\"},\n    {\"n\": 9, \"text\": \"des toiles. Dépôt. … Q. j. 69.\"},\n    {\"n\": 10, \"text\": \"Ellenberger, Pierre, à Deisswyl. Dép. — j. 55.\"},\n    {\"n\": 11, \"text\": \"Stouder, Sam., à Worb; teint des\"},\n    {\"n\": 12, \"text\": \"toiles. Dépôt. … — j. 30.\"},\n    {\"n\": 13, \"text\": \"Bonneterie, Fabriques de —\"},\n    {\"n\": 14, \"text\": \"Frickhard, Jean, en fil et coton. Q. j. 65.\"},\n    {\"n\": 15, \"text\": \"Nægueli et Comp. Bonneterie et ru-\"},\n    {\"n\": 16, \"text\": \"bans, en filoselle. … — j. 126.\"},\n    {\"n\": 17, \"text\": \"Rouviers et Ferrier Frères, en divers\"},\n    {\"n\": 18, \"text\": \"genres. … — r. 87.\"},\n    {\"n\": 19, \"text\": \"Rütschi et Kummer, en soïe, galette,\"},\n    {\"n\": 20, \"text\": \"fil et coton. … — v. 183.\"},\n    {\"n\": 21, \"text\": \"Ryf, J. Ulric, en laine. … — n. 98.\"},\n    {\"n\": 22, \"text\": \"Wannaz, Père, en divers genres. — v. 171.\"},\n    {\"n\": 23, \"text\": \"Le Detail de Bonneterie se trouve chez plusieurs\"},\n    {\"n\": 24, \"text\": \"Merciers, voyez Mercerie.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"verweis\",\n      \"heading\": \"Bas\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bas, voyez Bonneterie.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"verweis\",\n      \"heading\": \"Batistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Batistes, voyez Mousselines.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"verweis\",\n      \"heading\": \"Blondes et Dentelles\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Blondes et Dentelles. On les trouve chez les marchands de modes et de mercerie.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Blanchisseurs\",\n      \"place\": \"Bern\",\n      \"surname\": \"Brougger\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"teint des toiles\",\n      \"address\": \"au Liebefeld; Dépôt Q. j. 69\",\n      \"quarter\": \"Q. j.\",\n      \"street\": \"\",\n      \"house_no\": \"69\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brougger, Sam., au Liebefeld; teint des toiles. Dépôt. Q. j. 69.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Blanchisseurs\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ellenberger\",\n      \"forename\": \"Pierre\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"à Deisswyl. Dép. — j. 55\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"55\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ellenberger, Pierre, à Deisswyl. Dép. — j. 55.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Blanchisseurs\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stouder\",\n      \"forename\": \"Sam.\",\n      \"title\": \"\",\n      \"occupation\": \"teint des toiles\",\n      \"address\": \"à Worb; Dépôt — j. 30\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"30\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stouder, Sam., à Worb; teint des toiles. Dépôt. — j. 30.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Bonneterie, Fabriques de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Frickhard\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"en fil et coton\",\n      \"address\": \"Q. j. 65\",\n      \"quarter\": \"Q. j.\",\n      \"street\": \"\",\n      \"house_no\": \"65\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Frickhard, Jean, en fil et coton. Q. j. 65.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"firma\",\n      \"heading\": \"Bonneterie, Fabriques de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nægueli\",\n      \"forename\": \"\",\n      \"title\": \"et Comp.\",\n      \"occupation\": \"Bonneterie et rubans, en filoselle\",\n      \"address\": \"— j. 126\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"126\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Nægueli et Comp. Bonneterie et rubans, en filoselle. — j. 126.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"firma\",\n      \"heading\": \"Bonneterie, Fabriques de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rouviers et Ferrier\",\n      \"forename\": \"\",\n      \"title\": \"Frères\",\n      \"occupation\": \"en divers genres\",\n      \"address\": \"— r. 87\",\n      \"quarter\": \"r.\",\n      \"street\": \"\",\n      \"house_no\": \"87\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rouviers et Ferrier Frères, en divers genres. — r. 87.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"firma\",\n      \"heading\": \"Bonneterie, Fabriques de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rütschi et Kummer\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"en soïe, galette, fil et coton\",\n      \"address\": \"— v. 183\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"183\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Rütschi et Kummer, en soïe, galette, fil et coton. — v. 183.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Bonneterie, Fabriques de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ryf\",\n      \"forename\": \"J. Ulric\",\n      \"title\": \"\",\n      \"occupation\": \"en laine\",\n      \"address\": \"— n. 98\",\n      \"quarter\": \"n.\",\n      \"street\": \"\",\n      \"house_no\": \"98\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ryf, J. Ulric, en laine. — n. 98.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Bonneterie, Fabriques de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wannaz\",\n      \"forename\": \"\",\n      \"title\": \"Père\",\n      \"occupation\": \"en divers genres\",\n      \"address\": \"— v. 171\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"171\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wannaz, Père, en divers genres. — v. 171.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"verweis\",\n      \"heading\": \"Bonneterie, Fabriques de —\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Le Detail de Bonneterie se trouve chez plusieurs Merciers, voyez Mercerie.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "11",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "11"
+   },
+   {
+    "n": 2,
+    "text": "Bas, voyez Bonneterie."
+   },
+   {
+    "n": 3,
+    "text": "Batistes, voyez Mousselines."
+   },
+   {
+    "n": 4,
+    "text": "Blondes et Dentelles."
+   },
+   {
+    "n": 5,
+    "text": "On les trouve chez les marchands de modes"
+   },
+   {
+    "n": 6,
+    "text": "et de mercerie."
+   },
+   {
+    "n": 7,
+    "text": "Blanchisseurs."
+   },
+   {
+    "n": 8,
+    "text": "Brougger, Sam., au Liebefeld; teint"
+   },
+   {
+    "n": 9,
+    "text": "des toiles. Dépôt. … Q. j. 69."
+   },
+   {
+    "n": 10,
+    "text": "Ellenberger, Pierre, à Deisswyl. Dép. — j. 55."
+   },
+   {
+    "n": 11,
+    "text": "Stouder, Sam., à Worb; teint des"
+   },
+   {
+    "n": 12,
+    "text": "toiles. Dépôt. … — j. 30."
+   },
+   {
+    "n": 13,
+    "text": "Bonneterie, Fabriques de —"
+   },
+   {
+    "n": 14,
+    "text": "Frickhard, Jean, en fil et coton. Q. j. 65."
+   },
+   {
+    "n": 15,
+    "text": "Nægueli et Comp. Bonneterie et ru-"
+   },
+   {
+    "n": 16,
+    "text": "bans, en filoselle. … — j. 126."
+   },
+   {
+    "n": 17,
+    "text": "Rouviers et Ferrier Frères, en divers"
+   },
+   {
+    "n": 18,
+    "text": "genres. … — r. 87."
+   },
+   {
+    "n": 19,
+    "text": "Rütschi et Kummer, en soïe, galette,"
+   },
+   {
+    "n": 20,
+    "text": "fil et coton. … — v. 183."
+   },
+   {
+    "n": 21,
+    "text": "Ryf, J. Ulric, en laine. … — n. 98."
+   },
+   {
+    "n": 22,
+    "text": "Wannaz, Père, en divers genres. — v. 171."
+   },
+   {
+    "n": 23,
+    "text": "Le Detail de Bonneterie se trouve chez plusieurs"
+   },
+   {
+    "n": 24,
+    "text": "Merciers, voyez Mercerie."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "verweis",
+    "heading": "Bas",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bas, voyez Bonneterie."
+   },
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "verweis",
+    "heading": "Batistes",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Batistes, voyez Mousselines."
+   },
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "verweis",
+    "heading": "Blondes et Dentelles",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Blondes et Dentelles. On les trouve chez les marchands de modes et de mercerie."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Blanchisseurs",
+    "place": "Bern",
+    "surname": "Brougger",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "teint des toiles",
+    "address": "au Liebefeld; Dépôt Q. j. 69",
+    "quarter": "Q. j.",
+    "street": "",
+    "house_no": "69",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brougger, Sam., au Liebefeld; teint des toiles. Dépôt. Q. j. 69."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Blanchisseurs",
+    "place": "Bern",
+    "surname": "Ellenberger",
+    "forename": "Pierre",
+    "title": "",
+    "occupation": "",
+    "address": "à Deisswyl. Dép. — j. 55",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "55",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ellenberger, Pierre, à Deisswyl. Dép. — j. 55."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Blanchisseurs",
+    "place": "Bern",
+    "surname": "Stouder",
+    "forename": "Sam.",
+    "title": "",
+    "occupation": "teint des toiles",
+    "address": "à Worb; Dépôt — j. 30",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "30",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stouder, Sam., à Worb; teint des toiles. Dépôt. — j. 30."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Bonneterie, Fabriques de —",
+    "place": "Bern",
+    "surname": "Frickhard",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "en fil et coton",
+    "address": "Q. j. 65",
+    "quarter": "Q. j.",
+    "street": "",
+    "house_no": "65",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Frickhard, Jean, en fil et coton. Q. j. 65."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "firma",
+    "heading": "Bonneterie, Fabriques de —",
+    "place": "Bern",
+    "surname": "Nægueli",
+    "forename": "",
+    "title": "et Comp.",
+    "occupation": "Bonneterie et rubans, en filoselle",
+    "address": "— j. 126",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "126",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nægueli et Comp. Bonneterie et rubans, en filoselle. — j. 126."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "firma",
+    "heading": "Bonneterie, Fabriques de —",
+    "place": "Bern",
+    "surname": "Rouviers et Ferrier",
+    "forename": "",
+    "title": "Frères",
+    "occupation": "en divers genres",
+    "address": "— r. 87",
+    "quarter": "r.",
+    "street": "",
+    "house_no": "87",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rouviers et Ferrier Frères, en divers genres. — r. 87."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "firma",
+    "heading": "Bonneterie, Fabriques de —",
+    "place": "Bern",
+    "surname": "Rütschi et Kummer",
+    "forename": "",
+    "title": "",
+    "occupation": "en soïe, galette, fil et coton",
+    "address": "— v. 183",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "183",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Rütschi et Kummer, en soïe, galette, fil et coton. — v. 183."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Bonneterie, Fabriques de —",
+    "place": "Bern",
+    "surname": "Ryf",
+    "forename": "J. Ulric",
+    "title": "",
+    "occupation": "en laine",
+    "address": "— n. 98",
+    "quarter": "n.",
+    "street": "",
+    "house_no": "98",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ryf, J. Ulric, en laine. — n. 98."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Bonneterie, Fabriques de —",
+    "place": "Bern",
+    "surname": "Wannaz",
+    "forename": "",
+    "title": "Père",
+    "occupation": "en divers genres",
+    "address": "— v. 171",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "171",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wannaz, Père, en divers genres. — v. 171."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "verweis",
+    "heading": "Bonneterie, Fabriques de —",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Le Detail de Bonneterie se trouve chez plusieurs Merciers, voyez Mercerie."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:54:37+01:00",
+ "last_error": null
+}

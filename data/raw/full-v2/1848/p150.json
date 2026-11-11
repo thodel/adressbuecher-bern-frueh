@@ -1,0 +1,434 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 150,
+ "section": "einsassen",
+ "started": "2026-11-11T22:09:02+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 51.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4203,
+  "thoughts": 3829
+ },
+ "response_text": "{\n  \"printed_page\": \"137\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 137 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"3 805 Christen, Schneider, a. Zauggenried - V, 178.\"},\n    {\"n\": 4, \"text\": \"798 Fr. - Barb. Schaffner a. Schinznach.\"},\n    {\"n\": 5, \"text\": \"4 K. - 832 Christ. Peter. - 34 A. M. Louise. - 36\"},\n    {\"n\": 6, \"text\": \"Joh. Rud. Math. - 38 Jakob.\"},\n    {\"n\": 7, \"text\": \"4 820 Jakob, Grundeigenthümer, a. Walterswyl - II, 7.\"},\n    {\"n\": 8, \"text\": \"799 Fr. - Rosa Jung, geb. Monnier.\"},\n    {\"n\": 9, \"text\": \"Schärer.\"},\n    {\"n\": 10, \"text\": \"1 806 Christ. Rud., Drechsler, a. Möriken, K. Aargau - II, 107.\"},\n    {\"n\": 11, \"text\": \"804 Fr. - Verena Hartmann a. Unterkulm.\"},\n    {\"n\": 12, \"text\": \"1 S. - 832 Rudolf.\"},\n    {\"n\": 13, \"text\": \"2 784 Anna, geb. Wirth, gew. Reußer, Speisewirthin, a.\"},\n    {\"n\": 14, \"text\": \"Affoltern - II, 72.\"},\n    {\"n\": 15, \"text\": \"3 816 Johann, Steindrucker, a. Affoltern i. E. - III, 101.\"},\n    {\"n\": 16, \"text\": \"Fr. - Maria Jos. Agathe Baumann.\"},\n    {\"n\": 17, \"text\": \"Schärz.\"},\n    {\"n\": 18, \"text\": \"1 811 Bendicht, Schneider, a. Köniz - VI, 33 u. 34.\"},\n    {\"n\": 19, \"text\": \"807 Fr. - Elis. Müller a. Schwarzenegg.\"},\n    {\"n\": 20, \"text\": \"3 T. - 840 Elis. - 42 Maria Elis. - 44 Marg. Rosina.\"},\n    {\"n\": 21, \"text\": \"Schäuble.\"},\n    {\"n\": 22, \"text\": \"1 817 Anton, Wirth zum Falken, a. Waldshut in Baden - III, 67.\"},\n    {\"n\": 23, \"text\": \"Schaffner.\"},\n    {\"n\": 24, \"text\": \"1 803 Karl, Lithograph, a. Hausen, K. Aargau - IV, 8.\"},\n    {\"n\": 25, \"text\": \"807 Fr. - Anne Charl. Franç. Vanderbeken, a. Antwerpen.\"},\n    {\"n\": 26, \"text\": \"3 K. - 831 Karl Johann Dominikus. - 41 Leo Peter\"},\n    {\"n\": 27, \"text\": \"Andr. Emil. - 45 Julie Susanna.\"},\n    {\"n\": 28, \"text\": \"Schaffroth.\"},\n    {\"n\": 29, \"text\": \"1 Katharina, geb. Roth, Gemüsehändlerin, a. Röthenbach\"},\n    {\"n\": 30, \"text\": \"- V, 129.\"},\n    {\"n\": 31, \"text\": \"2 813 Joh. Christen, Gutsbesitzer, a. Röthenbach - I, 130.\"},\n    {\"n\": 32, \"text\": \"Fr. - Verena Stuki.\"},\n    {\"n\": 33, \"text\": \"Schallenberger.\"},\n    {\"n\": 34, \"text\": \"1 814 Anna, Krämerin, a. Lauperswylviertel - IV, 91.\"},\n    {\"n\": 35, \"text\": \"Schatzmann.\"},\n    {\"n\": 36, \"text\": \"1 814 Franz, Commis, a. Windisch, K. Aargau - VI, 42 b.\"},\n    {\"n\": 37, \"text\": \"819 Fr. - Kath. Julie Fluri, Lohnwascherin, a. Schwanden,\"},\n    {\"n\": 38, \"text\": \"K. Glarus.\"},\n    {\"n\": 39, \"text\": \"4 K. - 841 Jules Ferdinand. - 42 Jakob Emanuel\"},\n    {\"n\": 40, \"text\": \"Franz und Chr. Joh. Emil. - 45 Ida Julie.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 178\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"178\",\n      \"origin\": \"Zauggenried\",\n      \"birth_year\": \"1805\",\n      \"household\": \"798 Fr. - Barb. Schaffner a. Schinznach. 4 K. - 832 Christ. Peter. - 34 A. M. Louise. - 36 Joh. Rud. Math. - 38 Jakob.\",\n      \"note\": \"\",\n      \"text\": \"3 805 Christen, Schneider, a. Zauggenried - V, 178. 798 Fr. - Barb. Schaffner a. Schinznach. 4 K. - 832 Christ. Peter. - 34 A. M. Louise. - 36 Joh. Rud. Math. - 38 Jakob.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Grundeigenthümer\",\n      \"address\": \"II, 7\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"7\",\n      \"origin\": \"Walterswyl\",\n      \"birth_year\": \"1820\",\n      \"household\": \"799 Fr. - Rosa Jung, geb. Monnier.\",\n      \"note\": \"\",\n      \"text\": \"4 820 Jakob, Grundeigenthümer, a. Walterswyl - II, 7. 799 Fr. - Rosa Jung, geb. Monnier.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Schärer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schärer\",\n      \"forename\": \"Christ. Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Drechsler\",\n      \"address\": \"II, 107\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"107\",\n      \"origin\": \"Möriken, K. Aargau\",\n      \"birth_year\": \"1806\",\n      \"household\": \"804 Fr. - Verena Hartmann a. Unterkulm. 1 S. - 832 Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 806 Christ. Rud., Drechsler, a. Möriken, K. Aargau - II, 107. 804 Fr. - Verena Hartmann a. Unterkulm. 1 S. - 832 Rudolf.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Schärer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schärer\",\n      \"forename\": \"Anna\",\n      \"title\": \"geb. Wirth, gew. Reußer\",\n      \"occupation\": \"Speisewirthin\",\n      \"address\": \"II, 72\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"72\",\n      \"origin\": \"Affoltern\",\n      \"birth_year\": \"1784\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 784 Anna, geb. Wirth, gew. Reußer, Speisewirthin, a. Affoltern - II, 72.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Schärer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schärer\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Steindrucker\",\n      \"address\": \"III, 101\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"101\",\n      \"origin\": \"Affoltern i. E.\",\n      \"birth_year\": \"1816\",\n      \"household\": \"Fr. - Maria Jos. Agathe Baumann.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 816 Johann, Steindrucker, a. Affoltern i. E. - III, 101. Fr. - Maria Jos. Agathe Baumann.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Schärz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schärz\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"VI, 33 u. 34\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"33 u. 34\",\n      \"origin\": \"Köniz\",\n      \"birth_year\": \"1811\",\n      \"household\": \"807 Fr. - Elis. Müller a. Schwarzenegg. 3 T. - 840 Elis. - 42 Maria Elis. - 44 Marg. Rosina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Bendicht, Schneider, a. Köniz - VI, 33 u. 34. 807 Fr. - Elis. Müller a. Schwarzenegg. 3 T. - 840 Elis. - 42 Maria Elis. - 44 Marg. Rosina.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Schäuble.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schäuble\",\n      \"forename\": \"Anton\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth zum Falken\",\n      \"address\": \"III, 67\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"67\",\n      \"origin\": \"Waldshut in Baden\",\n      \"birth_year\": \"1817\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 817 Anton, Wirth zum Falken, a. Waldshut in Baden - III, 67.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Schaffner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schaffner\",\n      \"forename\": \"Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Lithograph\",\n      \"address\": \"IV, 8\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"8\",\n      \"origin\": \"Hausen, K. Aargau\",\n      \"birth_year\": \"1803\",\n      \"household\": \"807 Fr. - Anne Charl. Franç. Vanderbeken, a. Antwerpen. 3 K. - 831 Karl Johann Dominikus. - 41 Leo Peter Andr. Emil. - 45 Julie Susanna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 803 Karl, Lithograph, a. Hausen, K. Aargau - IV, 8. 807 Fr. - Anne Charl. Franç. Vanderbeken, a. Antwerpen. 3 K. - 831 Karl Johann Dominikus. - 41 Leo Peter Andr. Emil. - 45 Julie Susanna.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Schaffroth.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schaffroth\",\n      \"forename\": \"Katharina\",\n      \"title\": \"geb. Roth\",\n      \"occupation\": \"Gemüsehändlerin\",\n      \"address\": \"V, 129\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"129\",\n      \"origin\": \"Röthenbach\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Katharina, geb. Roth, Gemüsehändlerin, a. Röthenbach - V, 129.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Schaffroth.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schaffroth\",\n      \"forename\": \"Joh. Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Gutsbesitzer\",\n      \"address\": \"I, 130\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"130\",\n      \"origin\": \"Röthenbach\",\n      \"birth_year\": \"1813\",\n      \"household\": \"Fr. - Verena Stuki.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 813 Joh. Christen, Gutsbesitzer, a. Röthenbach - I, 130. Fr. - Verena Stuki.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Schallenberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schallenberger\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"IV, 91\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"91\",\n      \"origin\": \"Lauperswylviertel\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Anna, Krämerin, a. Lauperswylviertel - IV, 91.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Schatzmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schatzmann\",\n      \"forename\": \"Franz\",\n      \"title\": \"\",\n      \"occupation\": \"Commis\",\n      \"address\": \"VI, 42 b\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"42 b\",\n      \"origin\": \"Windisch, K. Aargau\",\n      \"birth_year\": \"1814\",\n      \"household\": \"819 Fr. - Kath. Julie Fluri, Lohnwascherin, a. Schwanden, K. Glarus. 4 K. - 841 Jules Ferdinand. - 42 Jakob Emanuel Franz und Chr. Joh. Emil. - 45 Ida Julie.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Franz, Commis, a. Windisch, K. Aargau - VI, 42 b. 819 Fr. - Kath. Julie Fluri, Lohnwascherin, a. Schwanden, K. Glarus. 4 K. - 841 Jules Ferdinand. - 42 Jakob Emanuel Franz und Chr. Joh. Emil. - 45 Ida Julie.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "137",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 137 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "3 805 Christen, Schneider, a. Zauggenried - V, 178."
+   },
+   {
+    "n": 4,
+    "text": "798 Fr. - Barb. Schaffner a. Schinznach."
+   },
+   {
+    "n": 5,
+    "text": "4 K. - 832 Christ. Peter. - 34 A. M. Louise. - 36"
+   },
+   {
+    "n": 6,
+    "text": "Joh. Rud. Math. - 38 Jakob."
+   },
+   {
+    "n": 7,
+    "text": "4 820 Jakob, Grundeigenthümer, a. Walterswyl - II, 7."
+   },
+   {
+    "n": 8,
+    "text": "799 Fr. - Rosa Jung, geb. Monnier."
+   },
+   {
+    "n": 9,
+    "text": "Schärer."
+   },
+   {
+    "n": 10,
+    "text": "1 806 Christ. Rud., Drechsler, a. Möriken, K. Aargau - II, 107."
+   },
+   {
+    "n": 11,
+    "text": "804 Fr. - Verena Hartmann a. Unterkulm."
+   },
+   {
+    "n": 12,
+    "text": "1 S. - 832 Rudolf."
+   },
+   {
+    "n": 13,
+    "text": "2 784 Anna, geb. Wirth, gew. Reußer, Speisewirthin, a."
+   },
+   {
+    "n": 14,
+    "text": "Affoltern - II, 72."
+   },
+   {
+    "n": 15,
+    "text": "3 816 Johann, Steindrucker, a. Affoltern i. E. - III, 101."
+   },
+   {
+    "n": 16,
+    "text": "Fr. - Maria Jos. Agathe Baumann."
+   },
+   {
+    "n": 17,
+    "text": "Schärz."
+   },
+   {
+    "n": 18,
+    "text": "1 811 Bendicht, Schneider, a. Köniz - VI, 33 u. 34."
+   },
+   {
+    "n": 19,
+    "text": "807 Fr. - Elis. Müller a. Schwarzenegg."
+   },
+   {
+    "n": 20,
+    "text": "3 T. - 840 Elis. - 42 Maria Elis. - 44 Marg. Rosina."
+   },
+   {
+    "n": 21,
+    "text": "Schäuble."
+   },
+   {
+    "n": 22,
+    "text": "1 817 Anton, Wirth zum Falken, a. Waldshut in Baden - III, 67."
+   },
+   {
+    "n": 23,
+    "text": "Schaffner."
+   },
+   {
+    "n": 24,
+    "text": "1 803 Karl, Lithograph, a. Hausen, K. Aargau - IV, 8."
+   },
+   {
+    "n": 25,
+    "text": "807 Fr. - Anne Charl. Franç. Vanderbeken, a. Antwerpen."
+   },
+   {
+    "n": 26,
+    "text": "3 K. - 831 Karl Johann Dominikus. - 41 Leo Peter"
+   },
+   {
+    "n": 27,
+    "text": "Andr. Emil. - 45 Julie Susanna."
+   },
+   {
+    "n": 28,
+    "text": "Schaffroth."
+   },
+   {
+    "n": 29,
+    "text": "1 Katharina, geb. Roth, Gemüsehändlerin, a. Röthenbach"
+   },
+   {
+    "n": 30,
+    "text": "- V, 129."
+   },
+   {
+    "n": 31,
+    "text": "2 813 Joh. Christen, Gutsbesitzer, a. Röthenbach - I, 130."
+   },
+   {
+    "n": 32,
+    "text": "Fr. - Verena Stuki."
+   },
+   {
+    "n": 33,
+    "text": "Schallenberger."
+   },
+   {
+    "n": 34,
+    "text": "1 814 Anna, Krämerin, a. Lauperswylviertel - IV, 91."
+   },
+   {
+    "n": 35,
+    "text": "Schatzmann."
+   },
+   {
+    "n": 36,
+    "text": "1 814 Franz, Commis, a. Windisch, K. Aargau - VI, 42 b."
+   },
+   {
+    "n": 37,
+    "text": "819 Fr. - Kath. Julie Fluri, Lohnwascherin, a. Schwanden,"
+   },
+   {
+    "n": 38,
+    "text": "K. Glarus."
+   },
+   {
+    "n": 39,
+    "text": "4 K. - 841 Jules Ferdinand. - 42 Jakob Emanuel"
+   },
+   {
+    "n": 40,
+    "text": "Franz und Chr. Joh. Emil. - 45 Ida Julie."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 178",
+    "quarter": "V",
+    "street": "",
+    "house_no": "178",
+    "origin": "Zauggenried",
+    "birth_year": "1805",
+    "household": "798 Fr. - Barb. Schaffner a. Schinznach. 4 K. - 832 Christ. Peter. - 34 A. M. Louise. - 36 Joh. Rud. Math. - 38 Jakob.",
+    "note": "",
+    "text": "3 805 Christen, Schneider, a. Zauggenried - V, 178. 798 Fr. - Barb. Schaffner a. Schinznach. 4 K. - 832 Christ. Peter. - 34 A. M. Louise. - 36 Joh. Rud. Math. - 38 Jakob."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Grundeigenthümer",
+    "address": "II, 7",
+    "quarter": "II",
+    "street": "",
+    "house_no": "7",
+    "origin": "Walterswyl",
+    "birth_year": "1820",
+    "household": "799 Fr. - Rosa Jung, geb. Monnier.",
+    "note": "",
+    "text": "4 820 Jakob, Grundeigenthümer, a. Walterswyl - II, 7. 799 Fr. - Rosa Jung, geb. Monnier."
+   },
+   {
+    "line_from": 10,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Schärer.",
+    "place": "Bern",
+    "surname": "Schärer",
+    "forename": "Christ. Rud.",
+    "title": "",
+    "occupation": "Drechsler",
+    "address": "II, 107",
+    "quarter": "II",
+    "street": "",
+    "house_no": "107",
+    "origin": "Möriken, K. Aargau",
+    "birth_year": "1806",
+    "household": "804 Fr. - Verena Hartmann a. Unterkulm. 1 S. - 832 Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 806 Christ. Rud., Drechsler, a. Möriken, K. Aargau - II, 107. 804 Fr. - Verena Hartmann a. Unterkulm. 1 S. - 832 Rudolf."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Schärer.",
+    "place": "Bern",
+    "surname": "Schärer",
+    "forename": "Anna",
+    "title": "geb. Wirth, gew. Reußer",
+    "occupation": "Speisewirthin",
+    "address": "II, 72",
+    "quarter": "II",
+    "street": "",
+    "house_no": "72",
+    "origin": "Affoltern",
+    "birth_year": "1784",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 784 Anna, geb. Wirth, gew. Reußer, Speisewirthin, a. Affoltern - II, 72."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Schärer.",
+    "place": "Bern",
+    "surname": "Schärer",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Steindrucker",
+    "address": "III, 101",
+    "quarter": "III",
+    "street": "",
+    "house_no": "101",
+    "origin": "Affoltern i. E.",
+    "birth_year": "1816",
+    "household": "Fr. - Maria Jos. Agathe Baumann.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 816 Johann, Steindrucker, a. Affoltern i. E. - III, 101. Fr. - Maria Jos. Agathe Baumann."
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Schärz.",
+    "place": "Bern",
+    "surname": "Schärz",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "VI, 33 u. 34",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "33 u. 34",
+    "origin": "Köniz",
+    "birth_year": "1811",
+    "household": "807 Fr. - Elis. Müller a. Schwarzenegg. 3 T. - 840 Elis. - 42 Maria Elis. - 44 Marg. Rosina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Bendicht, Schneider, a. Köniz - VI, 33 u. 34. 807 Fr. - Elis. Müller a. Schwarzenegg. 3 T. - 840 Elis. - 42 Maria Elis. - 44 Marg. Rosina."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Schäuble.",
+    "place": "Bern",
+    "surname": "Schäuble",
+    "forename": "Anton",
+    "title": "",
+    "occupation": "Wirth zum Falken",
+    "address": "III, 67",
+    "quarter": "III",
+    "street": "",
+    "house_no": "67",
+    "origin": "Waldshut in Baden",
+    "birth_year": "1817",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 817 Anton, Wirth zum Falken, a. Waldshut in Baden - III, 67."
+   },
+   {
+    "line_from": 24,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Schaffner.",
+    "place": "Bern",
+    "surname": "Schaffner",
+    "forename": "Karl",
+    "title": "",
+    "occupation": "Lithograph",
+    "address": "IV, 8",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "8",
+    "origin": "Hausen, K. Aargau",
+    "birth_year": "1803",
+    "household": "807 Fr. - Anne Charl. Franç. Vanderbeken, a. Antwerpen. 3 K. - 831 Karl Johann Dominikus. - 41 Leo Peter Andr. Emil. - 45 Julie Susanna.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 803 Karl, Lithograph, a. Hausen, K. Aargau - IV, 8. 807 Fr. - Anne Charl. Franç. Vanderbeken, a. Antwerpen. 3 K. - 831 Karl Johann Dominikus. - 41 Leo Peter Andr. Emil. - 45 Julie Susanna."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Schaffroth.",
+    "place": "Bern",
+    "surname": "Schaffroth",
+    "forename": "Katharina",
+    "title": "geb. Roth",
+    "occupation": "Gemüsehändlerin",
+    "address": "V, 129",
+    "quarter": "V",
+    "street": "",
+    "house_no": "129",
+    "origin": "Röthenbach",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Katharina, geb. Roth, Gemüsehändlerin, a. Röthenbach - V, 129."
+   },
+   {
+    "line_from": 31,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Schaffroth.",
+    "place": "Bern",
+    "surname": "Schaffroth",
+    "forename": "Joh. Christen",
+    "title": "",
+    "occupation": "Gutsbesitzer",
+    "address": "I, 130",
+    "quarter": "I",
+    "street": "",
+    "house_no": "130",
+    "origin": "Röthenbach",
+    "birth_year": "1813",
+    "household": "Fr. - Verena Stuki.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 813 Joh. Christen, Gutsbesitzer, a. Röthenbach - I, 130. Fr. - Verena Stuki."
+   },
+   {
+    "line_from": 34,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Schallenberger.",
+    "place": "Bern",
+    "surname": "Schallenberger",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "IV, 91",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "91",
+    "origin": "Lauperswylviertel",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Anna, Krämerin, a. Lauperswylviertel - IV, 91."
+   },
+   {
+    "line_from": 36,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Schatzmann.",
+    "place": "Bern",
+    "surname": "Schatzmann",
+    "forename": "Franz",
+    "title": "",
+    "occupation": "Commis",
+    "address": "VI, 42 b",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "42 b",
+    "origin": "Windisch, K. Aargau",
+    "birth_year": "1814",
+    "household": "819 Fr. - Kath. Julie Fluri, Lohnwascherin, a. Schwanden, K. Glarus. 4 K. - 841 Jules Ferdinand. - 42 Jakob Emanuel Franz und Chr. Joh. Emil. - 45 Ida Julie.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Franz, Commis, a. Windisch, K. Aargau - VI, 42 b. 819 Fr. - Kath. Julie Fluri, Lohnwascherin, a. Schwanden, K. Glarus. 4 K. - 841 Jules Ferdinand. - 42 Jakob Emanuel Franz und Chr. Joh. Emil. - 45 Ida Julie."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:09:54+01:00",
+ "last_error": null
+}

@@ -1,0 +1,414 @@
+{
+ "run": "fix-rn",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "5f461a43a998",
+ "volume": "1848",
+ "page": 142,
+ "section": "einsassen",
+ "started": "2026-11-11T23:18:06+01:00",
+ "thinking": "high",
+ "temperature": 0.0,
+ "seconds": 157.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2515,
+  "output": 3843,
+  "thoughts": 16980
+ },
+ "response_text": "{\n  \"printed_page\": \"129\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 129 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Rindlisbacher.\"},\n    {\"n\": 4, \"text\": \"1 812 Niklaus, Sattler, a. Walkringen - II, 108.\"},\n    {\"n\": 5, \"text\": \"815 Fr. - Elis. Blaser a. Lauperswylviertel.\"},\n    {\"n\": 6, \"text\": \"2 814 Johann, Mehlhändler u. Bäcker, a. Biglen - III, 2.\"},\n    {\"n\": 7, \"text\": \"819 Fr. - Elis. Zingg a. Rapperswyl.\"},\n    {\"n\": 8, \"text\": \"3 K. — 842 Anna Elisabetha. — 44 Karl Rudolf. —\"},\n    {\"n\": 9, \"text\": \"45 Maria Anna.\"},\n    {\"n\": 10, \"text\": \"Ringgenburger.\"},\n    {\"n\": 11, \"text\": \"1 814 Jos., Schuhmacher, a. Emishofen, K. Thurgau - VI, 79.\"},\n    {\"n\": 12, \"text\": \"Fr. - Elis. Ros. Schöck, aarg. Landsassin.\"},\n    {\"n\": 13, \"text\": \"Ringier.\"},\n    {\"n\": 14, \"text\": \"1 789 Elisabetha, geb. Däster, Pfarrers Wittwe, a. Zofin-\"},\n    {\"n\": 15, \"text\": \"gen - I, 158.\"},\n    {\"n\": 16, \"text\": \"3 K. — 809 Elis. Maria. — 20 Maria Karoline. —\"},\n    {\"n\": 17, \"text\": \"23 Sigmund Heinrich.\"},\n    {\"n\": 18, \"text\": \"Ris.\"},\n    {\"n\": 19, \"text\": \"1 790 Rosine Maria, geb. Oettinger, gew. Kostgeberin, a.\"},\n    {\"n\": 20, \"text\": \"Burgdorf - II, 91 u. 92.\"},\n    {\"n\": 21, \"text\": \"Ritschard.\"},\n    {\"n\": 22, \"text\": \"1 810 Anna, geb. Ritschard, Ausschenkerin, a. Matten und\"},\n    {\"n\": 23, \"text\": \"Aarmühle - II, 144.\"},\n    {\"n\": 24, \"text\": \"Ritzmann.\"},\n    {\"n\": 25, \"text\": \"1 822 Heinrich, Negotiant, a. Volken, K. Zürich - II, 79.\"},\n    {\"n\": 26, \"text\": \"821 Fr. - Sus. Wiederkehr a. Ihikon, K. Zürich.\"},\n    {\"n\": 27, \"text\": \"1 S. — 845 Joh. Heinrich.\"},\n    {\"n\": 28, \"text\": \"Rösch.\"},\n    {\"n\": 29, \"text\": \"1 797 Joseph, Störschneider, a. Luthern, K. Luzern - V, 36.\"},\n    {\"n\": 30, \"text\": \"803 Fr. - Anna Lüthi a. Rüderswyl.\"},\n    {\"n\": 31, \"text\": \"3 K. — 836 Philomene. — 37 Albert. — 46 Maria\"},\n    {\"n\": 32, \"text\": \"Isabella.\"},\n    {\"n\": 33, \"text\": \"2 808 Maria, Näherin u. Krämerin, a. Limpach - V, 76.\"},\n    {\"n\": 34, \"text\": \"Rötheli.\"},\n    {\"n\": 35, \"text\": \"1 Anna Maria, Schneiderin, a. Solothurn - V, 23.\"},\n    {\"n\": 36, \"text\": \"Röthlisberger.\"},\n    {\"n\": 37, \"text\": \"1 811 Johann, Schneider, a. Hilterfingen - IV, 78.\"},\n    {\"n\": 38, \"text\": \"821 Fr. - Anna Maria Uerech a. Seon, K. Aargau.\"},\n    {\"n\": 39, \"text\": \"1 S. — 843 Joh. Heinrich.\"},\n    {\"n\": 40, \"text\": \"9\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Rindlisbacher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rindlisbacher\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"II, 108\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"108\",\n      \"origin\": \"Walkringen\",\n      \"birth_year\": \"1812\",\n      \"household\": \"815 Fr. - Elis. Blaser a. Lauperswylviertel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 812 Niklaus, Sattler, a. Walkringen - II, 108. 815 Fr. - Elis. Blaser a. Lauperswylviertel.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Rindlisbacher.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rindlisbacher\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlhändler u. Bäcker\",\n      \"address\": \"III, 2\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"2\",\n      \"origin\": \"Biglen\",\n      \"birth_year\": \"1814\",\n      \"household\": \"819 Fr. - Elis. Zingg a. Rapperswyl. 3 K. — 842 Anna Elisabetha. — 44 Karl Rudolf. — 45 Maria Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 814 Johann, Mehlhändler u. Bäcker, a. Biglen - III, 2. 819 Fr. - Elis. Zingg a. Rapperswyl. 3 K. — 842 Anna Elisabetha. — 44 Karl Rudolf. — 45 Maria Anna.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Ringgenburger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ringgenburger\",\n      \"forename\": \"Jos.\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"VI, 79\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"79\",\n      \"origin\": \"Emishofen, K. Thurgau\",\n      \"birth_year\": \"1814\",\n      \"household\": \"Fr. - Elis. Ros. Schöck, aarg. Landsassin.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Jos., Schuhmacher, a. Emishofen, K. Thurgau - VI, 79. Fr. - Elis. Ros. Schöck, aarg. Landsassin.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Ringier.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ringier\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"Pfarrers Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"I, 158\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"158\",\n      \"origin\": \"Zofingen\",\n      \"birth_year\": \"1789\",\n      \"household\": \"3 K. — 809 Elis. Maria. — 20 Maria Karoline. — 23 Sigmund Heinrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 789 Elisabetha, geb. Däster, Pfarrers Wittwe, a. Zofingen - I, 158. 3 K. — 809 Elis. Maria. — 20 Maria Karoline. — 23 Sigmund Heinrich.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Ris.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ris\",\n      \"forename\": \"Rosine Maria\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Kostgeberin\",\n      \"address\": \"II, 91 u. 92\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"91 u. 92\",\n      \"origin\": \"Burgdorf\",\n      \"birth_year\": \"1790\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Rosine Maria, geb. Oettinger, gew. Kostgeberin, a. Burgdorf - II, 91 u. 92.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Ritschard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ritschard\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Ausschenkerin\",\n      \"address\": \"II, 144\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"144\",\n      \"origin\": \"Matten und Aarmühle\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Anna, geb. Ritschard, Ausschenkerin, a. Matten und Aarmühle - II, 144.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Ritzmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Ritzmann\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Negotiant\",\n      \"address\": \"II, 79\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"79\",\n      \"origin\": \"Volken, K. Zürich\",\n      \"birth_year\": \"1822\",\n      \"household\": \"821 Fr. - Sus. Wiederkehr a. Ihikon, K. Zürich. 1 S. — 845 Joh. Heinrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 822 Heinrich, Negotiant, a. Volken, K. Zürich - II, 79. 821 Fr. - Sus. Wiederkehr a. Ihikon, K. Zürich. 1 S. — 845 Joh. Heinrich.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Rösch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rösch\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Störschneider\",\n      \"address\": \"V, 36\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"36\",\n      \"origin\": \"Luthern, K. Luzern\",\n      \"birth_year\": \"1797\",\n      \"household\": \"803 Fr. - Anna Lüthi a. Rüderswyl. 3 K. — 836 Philomene. — 37 Albert. — 46 Maria Isabella.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 797 Joseph, Störschneider, a. Luthern, K. Luzern - V, 36. 803 Fr. - Anna Lüthi a. Rüderswyl. 3 K. — 836 Philomene. — 37 Albert. — 46 Maria Isabella.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Rösch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rösch\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Näherin u. Krämerin\",\n      \"address\": \"V, 76\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"76\",\n      \"origin\": \"Limpach\",\n      \"birth_year\": \"1808\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 808 Maria, Näherin u. Krämerin, a. Limpach - V, 76.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Rötheli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Rötheli\",\n      \"forename\": \"Anna Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"V, 23\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"23\",\n      \"origin\": \"Solothurn\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Anna Maria, Schneiderin, a. Solothurn - V, 23.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Röthlisberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Röthlisberger\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 78\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"78\",\n      \"origin\": \"Hilterfingen\",\n      \"birth_year\": \"1811\",\n      \"household\": \"821 Fr. - Anna Maria Uerech a. Seon, K. Aargau. 1 S. — 843 Joh. Heinrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Johann, Schneider, a. Hilterfingen - IV, 78. 821 Fr. - Anna Maria Uerech a. Seon, K. Aargau. 1 S. — 843 Joh. Heinrich.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "129",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 129 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Rindlisbacher."
+   },
+   {
+    "n": 4,
+    "text": "1 812 Niklaus, Sattler, a. Walkringen - II, 108."
+   },
+   {
+    "n": 5,
+    "text": "815 Fr. - Elis. Blaser a. Lauperswylviertel."
+   },
+   {
+    "n": 6,
+    "text": "2 814 Johann, Mehlhändler u. Bäcker, a. Biglen - III, 2."
+   },
+   {
+    "n": 7,
+    "text": "819 Fr. - Elis. Zingg a. Rapperswyl."
+   },
+   {
+    "n": 8,
+    "text": "3 K. — 842 Anna Elisabetha. — 44 Karl Rudolf. —"
+   },
+   {
+    "n": 9,
+    "text": "45 Maria Anna."
+   },
+   {
+    "n": 10,
+    "text": "Ringgenburger."
+   },
+   {
+    "n": 11,
+    "text": "1 814 Jos., Schuhmacher, a. Emishofen, K. Thurgau - VI, 79."
+   },
+   {
+    "n": 12,
+    "text": "Fr. - Elis. Ros. Schöck, aarg. Landsassin."
+   },
+   {
+    "n": 13,
+    "text": "Ringier."
+   },
+   {
+    "n": 14,
+    "text": "1 789 Elisabetha, geb. Däster, Pfarrers Wittwe, a. Zofin-"
+   },
+   {
+    "n": 15,
+    "text": "gen - I, 158."
+   },
+   {
+    "n": 16,
+    "text": "3 K. — 809 Elis. Maria. — 20 Maria Karoline. —"
+   },
+   {
+    "n": 17,
+    "text": "23 Sigmund Heinrich."
+   },
+   {
+    "n": 18,
+    "text": "Ris."
+   },
+   {
+    "n": 19,
+    "text": "1 790 Rosine Maria, geb. Oettinger, gew. Kostgeberin, a."
+   },
+   {
+    "n": 20,
+    "text": "Burgdorf - II, 91 u. 92."
+   },
+   {
+    "n": 21,
+    "text": "Ritschard."
+   },
+   {
+    "n": 22,
+    "text": "1 810 Anna, geb. Ritschard, Ausschenkerin, a. Matten und"
+   },
+   {
+    "n": 23,
+    "text": "Aarmühle - II, 144."
+   },
+   {
+    "n": 24,
+    "text": "Ritzmann."
+   },
+   {
+    "n": 25,
+    "text": "1 822 Heinrich, Negotiant, a. Volken, K. Zürich - II, 79."
+   },
+   {
+    "n": 26,
+    "text": "821 Fr. - Sus. Wiederkehr a. Ihikon, K. Zürich."
+   },
+   {
+    "n": 27,
+    "text": "1 S. — 845 Joh. Heinrich."
+   },
+   {
+    "n": 28,
+    "text": "Rösch."
+   },
+   {
+    "n": 29,
+    "text": "1 797 Joseph, Störschneider, a. Luthern, K. Luzern - V, 36."
+   },
+   {
+    "n": 30,
+    "text": "803 Fr. - Anna Lüthi a. Rüderswyl."
+   },
+   {
+    "n": 31,
+    "text": "3 K. — 836 Philomene. — 37 Albert. — 46 Maria"
+   },
+   {
+    "n": 32,
+    "text": "Isabella."
+   },
+   {
+    "n": 33,
+    "text": "2 808 Maria, Näherin u. Krämerin, a. Limpach - V, 76."
+   },
+   {
+    "n": 34,
+    "text": "Rötheli."
+   },
+   {
+    "n": 35,
+    "text": "1 Anna Maria, Schneiderin, a. Solothurn - V, 23."
+   },
+   {
+    "n": 36,
+    "text": "Röthlisberger."
+   },
+   {
+    "n": 37,
+    "text": "1 811 Johann, Schneider, a. Hilterfingen - IV, 78."
+   },
+   {
+    "n": 38,
+    "text": "821 Fr. - Anna Maria Uerech a. Seon, K. Aargau."
+   },
+   {
+    "n": 39,
+    "text": "1 S. — 843 Joh. Heinrich."
+   },
+   {
+    "n": 40,
+    "text": "9"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Rindlisbacher.",
+    "place": "Bern",
+    "surname": "Rindlisbacher",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "II, 108",
+    "quarter": "II",
+    "street": "",
+    "house_no": "108",
+    "origin": "Walkringen",
+    "birth_year": "1812",
+    "household": "815 Fr. - Elis. Blaser a. Lauperswylviertel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 812 Niklaus, Sattler, a. Walkringen - II, 108. 815 Fr. - Elis. Blaser a. Lauperswylviertel."
+   },
+   {
+    "line_from": 6,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Rindlisbacher.",
+    "place": "Bern",
+    "surname": "Rindlisbacher",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Mehlhändler u. Bäcker",
+    "address": "III, 2",
+    "quarter": "III",
+    "street": "",
+    "house_no": "2",
+    "origin": "Biglen",
+    "birth_year": "1814",
+    "household": "819 Fr. - Elis. Zingg a. Rapperswyl. 3 K. — 842 Anna Elisabetha. — 44 Karl Rudolf. — 45 Maria Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 814 Johann, Mehlhändler u. Bäcker, a. Biglen - III, 2. 819 Fr. - Elis. Zingg a. Rapperswyl. 3 K. — 842 Anna Elisabetha. — 44 Karl Rudolf. — 45 Maria Anna."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Ringgenburger.",
+    "place": "Bern",
+    "surname": "Ringgenburger",
+    "forename": "Jos.",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "VI, 79",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "79",
+    "origin": "Emishofen, K. Thurgau",
+    "birth_year": "1814",
+    "household": "Fr. - Elis. Ros. Schöck, aarg. Landsassin.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Jos., Schuhmacher, a. Emishofen, K. Thurgau - VI, 79. Fr. - Elis. Ros. Schöck, aarg. Landsassin."
+   },
+   {
+    "line_from": 14,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Ringier.",
+    "place": "Bern",
+    "surname": "Ringier",
+    "forename": "Elisabetha",
+    "title": "Pfarrers Wittwe",
+    "occupation": "",
+    "address": "I, 158",
+    "quarter": "I",
+    "street": "",
+    "house_no": "158",
+    "origin": "Zofingen",
+    "birth_year": "1789",
+    "household": "3 K. — 809 Elis. Maria. — 20 Maria Karoline. — 23 Sigmund Heinrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 789 Elisabetha, geb. Däster, Pfarrers Wittwe, a. Zofingen - I, 158. 3 K. — 809 Elis. Maria. — 20 Maria Karoline. — 23 Sigmund Heinrich."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Ris.",
+    "place": "Bern",
+    "surname": "Ris",
+    "forename": "Rosine Maria",
+    "title": "",
+    "occupation": "gew. Kostgeberin",
+    "address": "II, 91 u. 92",
+    "quarter": "II",
+    "street": "",
+    "house_no": "91 u. 92",
+    "origin": "Burgdorf",
+    "birth_year": "1790",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Rosine Maria, geb. Oettinger, gew. Kostgeberin, a. Burgdorf - II, 91 u. 92."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Ritschard.",
+    "place": "Bern",
+    "surname": "Ritschard",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Ausschenkerin",
+    "address": "II, 144",
+    "quarter": "II",
+    "street": "",
+    "house_no": "144",
+    "origin": "Matten und Aarmühle",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Anna, geb. Ritschard, Ausschenkerin, a. Matten und Aarmühle - II, 144."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Ritzmann.",
+    "place": "Bern",
+    "surname": "Ritzmann",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Negotiant",
+    "address": "II, 79",
+    "quarter": "II",
+    "street": "",
+    "house_no": "79",
+    "origin": "Volken, K. Zürich",
+    "birth_year": "1822",
+    "household": "821 Fr. - Sus. Wiederkehr a. Ihikon, K. Zürich. 1 S. — 845 Joh. Heinrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 822 Heinrich, Negotiant, a. Volken, K. Zürich - II, 79. 821 Fr. - Sus. Wiederkehr a. Ihikon, K. Zürich. 1 S. — 845 Joh. Heinrich."
+   },
+   {
+    "line_from": 29,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Rösch.",
+    "place": "Bern",
+    "surname": "Rösch",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Störschneider",
+    "address": "V, 36",
+    "quarter": "V",
+    "street": "",
+    "house_no": "36",
+    "origin": "Luthern, K. Luzern",
+    "birth_year": "1797",
+    "household": "803 Fr. - Anna Lüthi a. Rüderswyl. 3 K. — 836 Philomene. — 37 Albert. — 46 Maria Isabella.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 797 Joseph, Störschneider, a. Luthern, K. Luzern - V, 36. 803 Fr. - Anna Lüthi a. Rüderswyl. 3 K. — 836 Philomene. — 37 Albert. — 46 Maria Isabella."
+   },
+   {
+    "line_from": 33,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Rösch.",
+    "place": "Bern",
+    "surname": "Rösch",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Näherin u. Krämerin",
+    "address": "V, 76",
+    "quarter": "V",
+    "street": "",
+    "house_no": "76",
+    "origin": "Limpach",
+    "birth_year": "1808",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 808 Maria, Näherin u. Krämerin, a. Limpach - V, 76."
+   },
+   {
+    "line_from": 35,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Rötheli.",
+    "place": "Bern",
+    "surname": "Rötheli",
+    "forename": "Anna Maria",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "V, 23",
+    "quarter": "V",
+    "street": "",
+    "house_no": "23",
+    "origin": "Solothurn",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Anna Maria, Schneiderin, a. Solothurn - V, 23."
+   },
+   {
+    "line_from": 37,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Röthlisberger.",
+    "place": "Bern",
+    "surname": "Röthlisberger",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 78",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "78",
+    "origin": "Hilterfingen",
+    "birth_year": "1811",
+    "household": "821 Fr. - Anna Maria Uerech a. Seon, K. Aargau. 1 S. — 843 Joh. Heinrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Johann, Schneider, a. Hilterfingen - IV, 78. 821 Fr. - Anna Maria Uerech a. Seon, K. Aargau. 1 S. — 843 Joh. Heinrich."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T23:20:44+01:00",
+ "last_error": null
+}

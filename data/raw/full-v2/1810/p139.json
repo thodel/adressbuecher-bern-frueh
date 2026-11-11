@@ -1,0 +1,346 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 139,
+ "section": "canton",
+ "started": "2026-11-11T21:00:05+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 32.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2305,
+  "output": 2674,
+  "thoughts": 2555
+ },
+ "response_text": "{\n  \"printed_page\": \"66\",\n  \"running_head\": null,\n  \"lines\": [\n    {\n      \"n\": 1,\n      \"text\": \"66\"\n    },\n    {\n      \"n\": 2,\n      \"text\": \"Schmid , Jaques , Epicerie.\"\n    },\n    {\n      \"n\": 3,\n      \"text\": \"Schræmli , les fréres , Draperie.\"\n    },\n    {\n      \"n\": 4,\n      \"text\": \"Stræhl , Docteur en Médecine , Pharmacien.\"\n    },\n    {\n      \"n\": 5,\n      \"text\": \"Stouder , Samuel , Epicerie, Potasse.\"\n    },\n    {\n      \"n\": 6,\n      \"text\": \"Trog , Gabriel, Pharmacien.\"\n    },\n    {\n      \"n\": 7,\n      \"text\": \"Préfecture de Trachselwald.\"\n    },\n    {\n      \"n\": 8,\n      \"text\": \"Eriswyl.\"\n    },\n    {\n      \"n\": 9,\n      \"text\": \"Schmid , les frères, Filasse de lin et de\"\n    },\n    {\n      \"n\": 10,\n      \"text\": \"chanvre du pays , du Palatinat et de\"\n    },\n    {\n      \"n\": 11,\n      \"text\": \"l'Alsace , Toiles blanches et Linge de\"\n    },\n    {\n      \"n\": 12,\n      \"text\": \"table de leur propre Fabrique , Huile ,\"\n    },\n    {\n      \"n\": 13,\n      \"text\": \"Amidon , Ris , Fromages et autres pro-\"\n    },\n    {\n      \"n\": 14,\n      \"text\": \"duits du pays en gros.\"\n    },\n    {\n      \"n\": 15,\n      \"text\": \"Schmid, Ulric , Fabrique de Toiles , de Linge\"\n    },\n    {\n      \"n\": 16,\n      \"text\": \"de table ; Commerce de Filasse , sur tout\"\n    },\n    {\n      \"n\": 17,\n      \"text\": \"de Lin de Brabant.\"\n    },\n    {\n      \"n\": 18,\n      \"text\": \"Houttwyl.\"\n    },\n    {\n      \"n\": 19,\n      \"text\": \"Braun, J. Ulric , Droguerie , Toiles.\"\n    },\n    {\n      \"n\": 20,\n      \"text\": \"Soumiswald.\"\n    },\n    {\n      \"n\": 21,\n      \"text\": \"Hirschbrounner , Jean , Fromages.\"\n    },\n    {\n      \"n\": 22,\n      \"text\": \"Koupferschmid , Mathieu , Toiles blanches.\"\n    },\n    {\n      \"n\": 23,\n      \"text\": \"Schurz , J., Toiles blanches , Linge de table.\"\n    }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schmid, Jaques, Epicerie.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"\",\n      \"surname\": \"Schræmli\",\n      \"forename\": \"\",\n      \"title\": \"les fréres\",\n      \"occupation\": \"Draperie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schræmli, les fréres, Draperie.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"\",\n      \"surname\": \"Stræhl\",\n      \"forename\": \"\",\n      \"title\": \"Docteur en Médecine\",\n      \"occupation\": \"Pharmacien\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stræhl, Docteur en Médecine, Pharmacien.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"\",\n      \"surname\": \"Stouder\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Epicerie, Potasse\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stouder, Samuel, Epicerie, Potasse.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"\",\n      \"surname\": \"Trog\",\n      \"forename\": \"Gabriel\",\n      \"title\": \"\",\n      \"occupation\": \"Pharmacien\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Trog, Gabriel, Pharmacien.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Préfecture de Trachselwald. Eriswyl.\",\n      \"place\": \"Eriswyl\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"\",\n      \"title\": \"les frères\",\n      \"occupation\": \"Filasse de lin et de chanvre du pays, du Palatinat et de l'Alsace, Toiles blanches et Linge de table de leur propre Fabrique, Huile, Amidon, Ris, Fromages et autres produits du pays en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schmid, les frères, Filasse de lin et de chanvre du pays, du Palatinat et de l'Alsace, Toiles blanches et Linge de table de leur propre Fabrique, Huile, Amidon, Ris, Fromages et autres produits du pays en gros.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Préfecture de Trachselwald. Eriswyl.\",\n      \"place\": \"Eriswyl\",\n      \"surname\": \"Schmid\",\n      \"forename\": \"Ulric\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrique de Toiles, de Linge de table; Commerce de Filasse, sur tout de Lin de Brabant\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schmid, Ulric, Fabrique de Toiles, de Linge de table; Commerce de Filasse, sur tout de Lin de Brabant.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Houttwyl.\",\n      \"place\": \"Houttwyl\",\n      \"surname\": \"Braun\",\n      \"forename\": \"J. Ulric\",\n      \"title\": \"\",\n      \"occupation\": \"Droguerie, Toiles\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Braun, J. Ulric, Droguerie, Toiles.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Soumiswald.\",\n      \"place\": \"Soumiswald\",\n      \"surname\": \"Hirschbrounner\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Fromages\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hirschbrounner, Jean, Fromages.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Soumiswald.\",\n      \"place\": \"Soumiswald\",\n      \"surname\": \"Koupferschmid\",\n      \"forename\": \"Mathieu\",\n      \"title\": \"\",\n      \"occupation\": \"Toiles blanches\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Koupferschmid, Mathieu, Toiles blanches.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Soumiswald.\",\n      \"place\": \"Soumiswald\",\n      \"surname\": \"Schurz\",\n      \"forename\": \"J.\",\n      \"title\": \"\",\n      \"occupation\": \"Toiles blanches, Linge de table\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schurz, J., Toiles blanches, Linge de table.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "66",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "66"
+   },
+   {
+    "n": 2,
+    "text": "Schmid , Jaques , Epicerie."
+   },
+   {
+    "n": 3,
+    "text": "Schræmli , les fréres , Draperie."
+   },
+   {
+    "n": 4,
+    "text": "Stræhl , Docteur en Médecine , Pharmacien."
+   },
+   {
+    "n": 5,
+    "text": "Stouder , Samuel , Epicerie, Potasse."
+   },
+   {
+    "n": 6,
+    "text": "Trog , Gabriel, Pharmacien."
+   },
+   {
+    "n": 7,
+    "text": "Préfecture de Trachselwald."
+   },
+   {
+    "n": 8,
+    "text": "Eriswyl."
+   },
+   {
+    "n": 9,
+    "text": "Schmid , les frères, Filasse de lin et de"
+   },
+   {
+    "n": 10,
+    "text": "chanvre du pays , du Palatinat et de"
+   },
+   {
+    "n": 11,
+    "text": "l'Alsace , Toiles blanches et Linge de"
+   },
+   {
+    "n": 12,
+    "text": "table de leur propre Fabrique , Huile ,"
+   },
+   {
+    "n": 13,
+    "text": "Amidon , Ris , Fromages et autres pro-"
+   },
+   {
+    "n": 14,
+    "text": "duits du pays en gros."
+   },
+   {
+    "n": 15,
+    "text": "Schmid, Ulric , Fabrique de Toiles , de Linge"
+   },
+   {
+    "n": 16,
+    "text": "de table ; Commerce de Filasse , sur tout"
+   },
+   {
+    "n": 17,
+    "text": "de Lin de Brabant."
+   },
+   {
+    "n": 18,
+    "text": "Houttwyl."
+   },
+   {
+    "n": 19,
+    "text": "Braun, J. Ulric , Droguerie , Toiles."
+   },
+   {
+    "n": 20,
+    "text": "Soumiswald."
+   },
+   {
+    "n": 21,
+    "text": "Hirschbrounner , Jean , Fromages."
+   },
+   {
+    "n": 22,
+    "text": "Koupferschmid , Mathieu , Toiles blanches."
+   },
+   {
+    "n": 23,
+    "text": "Schurz , J., Toiles blanches , Linge de table."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "",
+    "place": "",
+    "surname": "Schmid",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "Epicerie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schmid, Jaques, Epicerie."
+   },
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "firma",
+    "heading": "",
+    "place": "",
+    "surname": "Schræmli",
+    "forename": "",
+    "title": "les fréres",
+    "occupation": "Draperie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schræmli, les fréres, Draperie."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "",
+    "surname": "Stræhl",
+    "forename": "",
+    "title": "Docteur en Médecine",
+    "occupation": "Pharmacien",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stræhl, Docteur en Médecine, Pharmacien."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "",
+    "place": "",
+    "surname": "Stouder",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Epicerie, Potasse",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stouder, Samuel, Epicerie, Potasse."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "",
+    "surname": "Trog",
+    "forename": "Gabriel",
+    "title": "",
+    "occupation": "Pharmacien",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Trog, Gabriel, Pharmacien."
+   },
+   {
+    "line_from": 9,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Préfecture de Trachselwald. Eriswyl.",
+    "place": "Eriswyl",
+    "surname": "Schmid",
+    "forename": "",
+    "title": "les frères",
+    "occupation": "Filasse de lin et de chanvre du pays, du Palatinat et de l'Alsace, Toiles blanches et Linge de table de leur propre Fabrique, Huile, Amidon, Ris, Fromages et autres produits du pays en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schmid, les frères, Filasse de lin et de chanvre du pays, du Palatinat et de l'Alsace, Toiles blanches et Linge de table de leur propre Fabrique, Huile, Amidon, Ris, Fromages et autres produits du pays en gros."
+   },
+   {
+    "line_from": 15,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Préfecture de Trachselwald. Eriswyl.",
+    "place": "Eriswyl",
+    "surname": "Schmid",
+    "forename": "Ulric",
+    "title": "",
+    "occupation": "Fabrique de Toiles, de Linge de table; Commerce de Filasse, sur tout de Lin de Brabant",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schmid, Ulric, Fabrique de Toiles, de Linge de table; Commerce de Filasse, sur tout de Lin de Brabant."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Houttwyl.",
+    "place": "Houttwyl",
+    "surname": "Braun",
+    "forename": "J. Ulric",
+    "title": "",
+    "occupation": "Droguerie, Toiles",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Braun, J. Ulric, Droguerie, Toiles."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Soumiswald.",
+    "place": "Soumiswald",
+    "surname": "Hirschbrounner",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Fromages",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hirschbrounner, Jean, Fromages."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Soumiswald.",
+    "place": "Soumiswald",
+    "surname": "Koupferschmid",
+    "forename": "Mathieu",
+    "title": "",
+    "occupation": "Toiles blanches",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Koupferschmid, Mathieu, Toiles blanches."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Soumiswald.",
+    "place": "Soumiswald",
+    "surname": "Schurz",
+    "forename": "J.",
+    "title": "",
+    "occupation": "Toiles blanches, Linge de table",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schurz, J., Toiles blanches, Linge de table."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:00:38+01:00",
+ "last_error": null
+}

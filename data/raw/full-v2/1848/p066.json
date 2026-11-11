@@ -1,0 +1,402 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 66,
+ "section": "einsassen",
+ "started": "2026-11-11T22:00:06+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 38.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3908,
+  "thoughts": 2299
+ },
+ "response_text": "{\n  \"printed_page\": \"53\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 53 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Grenus.\"},\n    {\"n\": 4, \"text\": \"1 Paul Ludwig Cäsar, Banquier, a. Genf - V, 86.\"},\n    {\"n\": 5, \"text\": \"816 Fr. - Henriette v. Stürler a. Bern.\"},\n    {\"n\": 6, \"text\": \"1 S. - 839 Alb. Moriz Eduard.\"},\n    {\"n\": 7, \"text\": \"Gribi.\"},\n    {\"n\": 8, \"text\": \"1 807 Rudolf, Rechtsagent, a. Büren - II, 101.\"},\n    {\"n\": 9, \"text\": \"815 Fr. III Ehe. - Maria Elis. Zulauf, verw. Niedtmann,\"},\n    {\"n\": 10, \"text\": \"a. Burgdorf.\"},\n    {\"n\": 11, \"text\": \"4 K. - Aus I Ehe: 832 Maria Elisa. - 33 Maria\"},\n    {\"n\": 12, \"text\": \"Louise. - Aus II Ehe: 35 Sophie Karol. - 38 Rudolf.\"},\n    {\"n\": 13, \"text\": \"Grieser.\"},\n    {\"n\": 14, \"text\": \"1 810 Joh. Niklaus, Schuhmacher, a. Pizy, K. Waadt - VI,\"},\n    {\"n\": 15, \"text\": \"93 u. 94.\"},\n    {\"n\": 16, \"text\": \"812 Fr. - Anna Barbara Mäder a. Agriswyl.\"},\n    {\"n\": 17, \"text\": \"Grillet.\"},\n    {\"n\": 18, \"text\": \"1 790 Joseph, Gärtner, a. Ambilly-Gaillard in Frakreich - I, 142.\"},\n    {\"n\": 19, \"text\": \"804 Fr. - Christina Bieri.\"},\n    {\"n\": 20, \"text\": \"2 T. - 834 Sophie Johanna. - 43 Maria.\"},\n    {\"n\": 21, \"text\": \"Grimm a. d. Lauperswylviertel.\"},\n    {\"n\": 22, \"text\": \"1 804 Christen, Krämer - II, 200.\"},\n    {\"n\": 23, \"text\": \"808 Fr. - Anna Sommer.\"},\n    {\"n\": 24, \"text\": \"2 795 Johann, Käshändler und Hauseigenthümer - II, 107.\"},\n    {\"n\": 25, \"text\": \"810 Fr. - Anna Zimmermann a. Wohlen.\"},\n    {\"n\": 26, \"text\": \"3 787 Johannes, Hauseigenthümer u. Käshändler - VII, 143.\"},\n    {\"n\": 27, \"text\": \"806 Fr. II Ehe. - Magd. Wüthrich a. Trub.\"},\n    {\"n\": 28, \"text\": \"9 K. - Aus I Ehe: 825 Niklaus Samuel. - Aus II\"},\n    {\"n\": 29, \"text\": \"Ehe: 32 Gottlieb. - 34 Anna Elis. Magd. - 36 Maria.\"},\n    {\"n\": 30, \"text\": \"- 38 Elis. - 41 Sophie Katharina. - 43 Sus. Marg.\"},\n    {\"n\": 31, \"text\": \"- 45 Lina Ros. - 46 Gottlieb Christian.\"},\n    {\"n\": 32, \"text\": \"Grisel.\"},\n    {\"n\": 33, \"text\": \"1 810 Maria, Schneiderin, a. Travers, K. Neuenburg - II, 8.\"},\n    {\"n\": 34, \"text\": \"Grogg.\"},\n    {\"n\": 35, \"text\": \"1 Elisabetha, geb. Müller, a. Untersteckholz, privat.,\"},\n    {\"n\": 36, \"text\": \"Wittwe - VII, 57.\"},\n    {\"n\": 37, \"text\": \"Grondona.\"},\n    {\"n\": 38, \"text\": \"1 Ignaz, Handelsmann mit Südfrüchten, a. Larvergo,\"},\n    {\"n\": 39, \"text\": \"K. Sardinien - III, 69.\"},\n    {\"n\": 40, \"text\": \"815 Fr. - Anna Bigler a. Biglen.\"},\n    {\"n\": 41, \"text\": \"3 S. - 838 Johann August. - 41 Johann Anton. -\"},\n    {\"n\": 42, \"text\": \"42 Aug. Joh. Baptist.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Grenus.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grenus\",\n      \"forename\": \"Paul Ludwig Cäsar\",\n      \"title\": \"\",\n      \"occupation\": \"Banquier\",\n      \"address\": \"V, 86\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"86\",\n      \"origin\": \"Genf\",\n      \"birth_year\": \"\",\n      \"household\": \"816 Fr. - Henriette v. Stürler a. Bern. 1 S. - 839 Alb. Moriz Eduard.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Paul Ludwig Cäsar, Banquier, a. Genf - V, 86. 816 Fr. - Henriette v. Stürler a. Bern. 1 S. - 839 Alb. Moriz Eduard.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Gribi.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gribi\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Rechtsagent\",\n      \"address\": \"II, 101\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"101\",\n      \"origin\": \"Büren\",\n      \"birth_year\": \"1807\",\n      \"household\": \"815 Fr. III Ehe. - Maria Elis. Zulauf, verw. Niedtmann, a. Burgdorf. 4 K. - Aus I Ehe: 832 Maria Elisa. - 33 Maria Louise. - Aus II Ehe: 35 Sophie Karol. - 38 Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 807 Rudolf, Rechtsagent, a. Büren - II, 101. 815 Fr. III Ehe. - Maria Elis. Zulauf, verw. Niedtmann, a. Burgdorf. 4 K. - Aus I Ehe: 832 Maria Elisa. - 33 Maria Louise. - Aus II Ehe: 35 Sophie Karol. - 38 Rudolf.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Grieser.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grieser\",\n      \"forename\": \"Joh. Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"VI, 93 u. 94\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"93 u. 94\",\n      \"origin\": \"Pizy, K. Waadt\",\n      \"birth_year\": \"1810\",\n      \"household\": \"812 Fr. - Anna Barbara Mäder a. Agriswyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Joh. Niklaus, Schuhmacher, a. Pizy, K. Waadt - VI, 93 u. 94. 812 Fr. - Anna Barbara Mäder a. Agriswyl.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Grillet.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grillet\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Gärtner\",\n      \"address\": \"I, 142\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"142\",\n      \"origin\": \"Ambilly-Gaillard in Frakreich\",\n      \"birth_year\": \"1790\",\n      \"household\": \"804 Fr. - Christina Bieri. 2 T. - 834 Sophie Johanna. - 43 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 790 Joseph, Gärtner, a. Ambilly-Gaillard in Frakreich - I, 142. 804 Fr. - Christina Bieri. 2 T. - 834 Sophie Johanna. - 43 Maria.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Grimm a. d. Lauperswylviertel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grimm\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"II, 200\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"200\",\n      \"origin\": \"d. Lauperswylviertel\",\n      \"birth_year\": \"1804\",\n      \"household\": \"808 Fr. - Anna Sommer.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Christen, Krämer - II, 200. 808 Fr. - Anna Sommer.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Grimm a. d. Lauperswylviertel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grimm\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Käshändler und Hauseigenthümer\",\n      \"address\": \"II, 107\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"107\",\n      \"origin\": \"d. Lauperswylviertel\",\n      \"birth_year\": \"1795\",\n      \"household\": \"810 Fr. - Anna Zimmermann a. Wohlen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 795 Johann, Käshändler und Hauseigenthümer - II, 107. 810 Fr. - Anna Zimmermann a. Wohlen.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Grimm a. d. Lauperswylviertel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grimm\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Hauseigenthümer u. Käshändler\",\n      \"address\": \"VII, 143\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"143\",\n      \"origin\": \"d. Lauperswylviertel\",\n      \"birth_year\": \"1787\",\n      \"household\": \"806 Fr. II Ehe. - Magd. Wüthrich a. Trub. 9 K. - Aus I Ehe: 825 Niklaus Samuel. - Aus II Ehe: 32 Gottlieb. - 34 Anna Elis. Magd. - 36 Maria. - 38 Elis. - 41 Sophie Katharina. - 43 Sus. Marg. - 45 Lina Ros. - 46 Gottlieb Christian.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 787 Johannes, Hauseigenthümer u. Käshändler - VII, 143. 806 Fr. II Ehe. - Magd. Wüthrich a. Trub. 9 K. - Aus I Ehe: 825 Niklaus Samuel. - Aus II Ehe: 32 Gottlieb. - 34 Anna Elis. Magd. - 36 Maria. - 38 Elis. - 41 Sophie Katharina. - 43 Sus. Marg. - 45 Lina Ros. - 46 Gottlieb Christian.\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Grisel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grisel\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"II, 8\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"8\",\n      \"origin\": \"Travers, K. Neuenburg\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Maria, Schneiderin, a. Travers, K. Neuenburg - II, 8.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Grogg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grogg\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"privat.\",\n      \"address\": \"VII, 57\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"57\",\n      \"origin\": \"Untersteckholz\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Müller\",\n      \"text\": \"1 Elisabetha, geb. Müller, a. Untersteckholz, privat., Wittwe - VII, 57.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"Grondona.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grondona\",\n      \"forename\": \"Ignaz\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann mit Südfrüchten\",\n      \"address\": \"III, 69\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"69\",\n      \"origin\": \"Larvergo, K. Sardinien\",\n      \"birth_year\": \"\",\n      \"household\": \"815 Fr. - Anna Bigler a. Biglen. 3 S. - 838 Johann August. - 41 Johann Anton. - 42 Aug. Joh. Baptist.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 Ignaz, Handelsmann mit Südfrüchten, a. Larvergo, K. Sardinien - III, 69. 815 Fr. - Anna Bigler a. Biglen. 3 S. - 838 Johann August. - 41 Johann Anton. - 42 Aug. Joh. Baptist.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "53",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 53 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Grenus."
+   },
+   {
+    "n": 4,
+    "text": "1 Paul Ludwig Cäsar, Banquier, a. Genf - V, 86."
+   },
+   {
+    "n": 5,
+    "text": "816 Fr. - Henriette v. Stürler a. Bern."
+   },
+   {
+    "n": 6,
+    "text": "1 S. - 839 Alb. Moriz Eduard."
+   },
+   {
+    "n": 7,
+    "text": "Gribi."
+   },
+   {
+    "n": 8,
+    "text": "1 807 Rudolf, Rechtsagent, a. Büren - II, 101."
+   },
+   {
+    "n": 9,
+    "text": "815 Fr. III Ehe. - Maria Elis. Zulauf, verw. Niedtmann,"
+   },
+   {
+    "n": 10,
+    "text": "a. Burgdorf."
+   },
+   {
+    "n": 11,
+    "text": "4 K. - Aus I Ehe: 832 Maria Elisa. - 33 Maria"
+   },
+   {
+    "n": 12,
+    "text": "Louise. - Aus II Ehe: 35 Sophie Karol. - 38 Rudolf."
+   },
+   {
+    "n": 13,
+    "text": "Grieser."
+   },
+   {
+    "n": 14,
+    "text": "1 810 Joh. Niklaus, Schuhmacher, a. Pizy, K. Waadt - VI,"
+   },
+   {
+    "n": 15,
+    "text": "93 u. 94."
+   },
+   {
+    "n": 16,
+    "text": "812 Fr. - Anna Barbara Mäder a. Agriswyl."
+   },
+   {
+    "n": 17,
+    "text": "Grillet."
+   },
+   {
+    "n": 18,
+    "text": "1 790 Joseph, Gärtner, a. Ambilly-Gaillard in Frakreich - I, 142."
+   },
+   {
+    "n": 19,
+    "text": "804 Fr. - Christina Bieri."
+   },
+   {
+    "n": 20,
+    "text": "2 T. - 834 Sophie Johanna. - 43 Maria."
+   },
+   {
+    "n": 21,
+    "text": "Grimm a. d. Lauperswylviertel."
+   },
+   {
+    "n": 22,
+    "text": "1 804 Christen, Krämer - II, 200."
+   },
+   {
+    "n": 23,
+    "text": "808 Fr. - Anna Sommer."
+   },
+   {
+    "n": 24,
+    "text": "2 795 Johann, Käshändler und Hauseigenthümer - II, 107."
+   },
+   {
+    "n": 25,
+    "text": "810 Fr. - Anna Zimmermann a. Wohlen."
+   },
+   {
+    "n": 26,
+    "text": "3 787 Johannes, Hauseigenthümer u. Käshändler - VII, 143."
+   },
+   {
+    "n": 27,
+    "text": "806 Fr. II Ehe. - Magd. Wüthrich a. Trub."
+   },
+   {
+    "n": 28,
+    "text": "9 K. - Aus I Ehe: 825 Niklaus Samuel. - Aus II"
+   },
+   {
+    "n": 29,
+    "text": "Ehe: 32 Gottlieb. - 34 Anna Elis. Magd. - 36 Maria."
+   },
+   {
+    "n": 30,
+    "text": "- 38 Elis. - 41 Sophie Katharina. - 43 Sus. Marg."
+   },
+   {
+    "n": 31,
+    "text": "- 45 Lina Ros. - 46 Gottlieb Christian."
+   },
+   {
+    "n": 32,
+    "text": "Grisel."
+   },
+   {
+    "n": 33,
+    "text": "1 810 Maria, Schneiderin, a. Travers, K. Neuenburg - II, 8."
+   },
+   {
+    "n": 34,
+    "text": "Grogg."
+   },
+   {
+    "n": 35,
+    "text": "1 Elisabetha, geb. Müller, a. Untersteckholz, privat.,"
+   },
+   {
+    "n": 36,
+    "text": "Wittwe - VII, 57."
+   },
+   {
+    "n": 37,
+    "text": "Grondona."
+   },
+   {
+    "n": 38,
+    "text": "1 Ignaz, Handelsmann mit Südfrüchten, a. Larvergo,"
+   },
+   {
+    "n": 39,
+    "text": "K. Sardinien - III, 69."
+   },
+   {
+    "n": 40,
+    "text": "815 Fr. - Anna Bigler a. Biglen."
+   },
+   {
+    "n": 41,
+    "text": "3 S. - 838 Johann August. - 41 Johann Anton. -"
+   },
+   {
+    "n": 42,
+    "text": "42 Aug. Joh. Baptist."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Grenus.",
+    "place": "Bern",
+    "surname": "Grenus",
+    "forename": "Paul Ludwig Cäsar",
+    "title": "",
+    "occupation": "Banquier",
+    "address": "V, 86",
+    "quarter": "V",
+    "street": "",
+    "house_no": "86",
+    "origin": "Genf",
+    "birth_year": "",
+    "household": "816 Fr. - Henriette v. Stürler a. Bern. 1 S. - 839 Alb. Moriz Eduard.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Paul Ludwig Cäsar, Banquier, a. Genf - V, 86. 816 Fr. - Henriette v. Stürler a. Bern. 1 S. - 839 Alb. Moriz Eduard."
+   },
+   {
+    "line_from": 8,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Gribi.",
+    "place": "Bern",
+    "surname": "Gribi",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Rechtsagent",
+    "address": "II, 101",
+    "quarter": "II",
+    "street": "",
+    "house_no": "101",
+    "origin": "Büren",
+    "birth_year": "1807",
+    "household": "815 Fr. III Ehe. - Maria Elis. Zulauf, verw. Niedtmann, a. Burgdorf. 4 K. - Aus I Ehe: 832 Maria Elisa. - 33 Maria Louise. - Aus II Ehe: 35 Sophie Karol. - 38 Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 807 Rudolf, Rechtsagent, a. Büren - II, 101. 815 Fr. III Ehe. - Maria Elis. Zulauf, verw. Niedtmann, a. Burgdorf. 4 K. - Aus I Ehe: 832 Maria Elisa. - 33 Maria Louise. - Aus II Ehe: 35 Sophie Karol. - 38 Rudolf."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Grieser.",
+    "place": "Bern",
+    "surname": "Grieser",
+    "forename": "Joh. Niklaus",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "VI, 93 u. 94",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "93 u. 94",
+    "origin": "Pizy, K. Waadt",
+    "birth_year": "1810",
+    "household": "812 Fr. - Anna Barbara Mäder a. Agriswyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Joh. Niklaus, Schuhmacher, a. Pizy, K. Waadt - VI, 93 u. 94. 812 Fr. - Anna Barbara Mäder a. Agriswyl."
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Grillet.",
+    "place": "Bern",
+    "surname": "Grillet",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Gärtner",
+    "address": "I, 142",
+    "quarter": "I",
+    "street": "",
+    "house_no": "142",
+    "origin": "Ambilly-Gaillard in Frakreich",
+    "birth_year": "1790",
+    "household": "804 Fr. - Christina Bieri. 2 T. - 834 Sophie Johanna. - 43 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 790 Joseph, Gärtner, a. Ambilly-Gaillard in Frakreich - I, 142. 804 Fr. - Christina Bieri. 2 T. - 834 Sophie Johanna. - 43 Maria."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Grimm a. d. Lauperswylviertel.",
+    "place": "Bern",
+    "surname": "Grimm",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "II, 200",
+    "quarter": "II",
+    "street": "",
+    "house_no": "200",
+    "origin": "d. Lauperswylviertel",
+    "birth_year": "1804",
+    "household": "808 Fr. - Anna Sommer.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Christen, Krämer - II, 200. 808 Fr. - Anna Sommer."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Grimm a. d. Lauperswylviertel.",
+    "place": "Bern",
+    "surname": "Grimm",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Käshändler und Hauseigenthümer",
+    "address": "II, 107",
+    "quarter": "II",
+    "street": "",
+    "house_no": "107",
+    "origin": "d. Lauperswylviertel",
+    "birth_year": "1795",
+    "household": "810 Fr. - Anna Zimmermann a. Wohlen.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 795 Johann, Käshändler und Hauseigenthümer - II, 107. 810 Fr. - Anna Zimmermann a. Wohlen."
+   },
+   {
+    "line_from": 26,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Grimm a. d. Lauperswylviertel.",
+    "place": "Bern",
+    "surname": "Grimm",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Hauseigenthümer u. Käshändler",
+    "address": "VII, 143",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "143",
+    "origin": "d. Lauperswylviertel",
+    "birth_year": "1787",
+    "household": "806 Fr. II Ehe. - Magd. Wüthrich a. Trub. 9 K. - Aus I Ehe: 825 Niklaus Samuel. - Aus II Ehe: 32 Gottlieb. - 34 Anna Elis. Magd. - 36 Maria. - 38 Elis. - 41 Sophie Katharina. - 43 Sus. Marg. - 45 Lina Ros. - 46 Gottlieb Christian.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 787 Johannes, Hauseigenthümer u. Käshändler - VII, 143. 806 Fr. II Ehe. - Magd. Wüthrich a. Trub. 9 K. - Aus I Ehe: 825 Niklaus Samuel. - Aus II Ehe: 32 Gottlieb. - 34 Anna Elis. Magd. - 36 Maria. - 38 Elis. - 41 Sophie Katharina. - 43 Sus. Marg. - 45 Lina Ros. - 46 Gottlieb Christian."
+   },
+   {
+    "line_from": 33,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Grisel.",
+    "place": "Bern",
+    "surname": "Grisel",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "II, 8",
+    "quarter": "II",
+    "street": "",
+    "house_no": "8",
+    "origin": "Travers, K. Neuenburg",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Maria, Schneiderin, a. Travers, K. Neuenburg - II, 8."
+   },
+   {
+    "line_from": 35,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Grogg.",
+    "place": "Bern",
+    "surname": "Grogg",
+    "forename": "Elisabetha",
+    "title": "Wittwe",
+    "occupation": "privat.",
+    "address": "VII, 57",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "57",
+    "origin": "Untersteckholz",
+    "birth_year": "",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Müller",
+    "text": "1 Elisabetha, geb. Müller, a. Untersteckholz, privat., Wittwe - VII, 57."
+   },
+   {
+    "line_from": 38,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "Grondona.",
+    "place": "Bern",
+    "surname": "Grondona",
+    "forename": "Ignaz",
+    "title": "",
+    "occupation": "Handelsmann mit Südfrüchten",
+    "address": "III, 69",
+    "quarter": "III",
+    "street": "",
+    "house_no": "69",
+    "origin": "Larvergo, K. Sardinien",
+    "birth_year": "",
+    "household": "815 Fr. - Anna Bigler a. Biglen. 3 S. - 838 Johann August. - 41 Johann Anton. - 42 Aug. Joh. Baptist.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 Ignaz, Handelsmann mit Südfrüchten, a. Larvergo, K. Sardinien - III, 69. 815 Fr. - Anna Bigler a. Biglen. 3 S. - 838 Johann August. - 41 Johann Anton. - 42 Aug. Joh. Baptist."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:00:44+01:00",
+ "last_error": null
+}

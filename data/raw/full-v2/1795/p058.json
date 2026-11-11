@@ -1,0 +1,482 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 58,
+ "section": "handbuch",
+ "started": "2026-11-11T20:52:40+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 56.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 3516,
+  "thoughts": 4438
+ },
+ "response_text": "{\n  \"printed_page\": \"58\",\n  \"running_head\": \"VEVEY\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"58 VEVEY\"},\n    {\"n\": 2, \"text\": \"Vevey.\"},\n    {\"n\": 3, \"text\": \"Monsieur\"},\n    {\"n\": 4, \"text\": \"Fr. Doret & Fils, Marbriers très-célébres.\"},\n    {\"n\": 5, \"text\": \"Schad, Menuisier célébre.\"},\n    {\"n\": 6, \"text\": \"Drefet, Fondeur.\"},\n    {\"n\": 7, \"text\": \"Mons & Fils, Penduliers célébres.\"},\n    {\"n\": 8, \"text\": \"Roi, Charpentier, célébre dans la méchanique\"},\n    {\"n\": 9, \"text\": \"des rouages.\"},\n    {\"n\": 10, \"text\": \"Cailler, aîné,\"},\n    {\"n\": 11, \"text\": \"Cailler, cadet,\"},\n    {\"n\": 12, \"text\": \"Cailler, Fils, Tanneurs très - re-\"},\n    {\"n\": 13, \"text\": \"J. D. Blache, nommés.\"},\n    {\"n\": 14, \"text\": \"Megroz, cadet,\"},\n    {\"n\": 15, \"text\": \"Brun,\"},\n    {\"n\": 16, \"text\": \"Zimmermann & Kuechly, Fabricants de\"},\n    {\"n\": 17, \"text\": \"fourneaux en fayence.\"},\n    {\"n\": 18, \"text\": \"Joyeux & Wexelberg, peintres, graveurs\"},\n    {\"n\": 19, \"text\": \"en païsages.\"},\n    {\"n\": 20, \"text\": \"Chenebié & Lörtscher, Imprimeurs - Li-\"},\n    {\"n\": 21, \"text\": \"braires.\"},\n    {\"n\": 22, \"text\": \"Collomb & Dufréne, Banquiers, Négo-\"},\n    {\"n\": 23, \"text\": \"ciants en vin & en fromage, en gros.\"},\n    {\"n\": 24, \"text\": \"Richard Prader, Droguiste.\"},\n    {\"n\": 25, \"text\": \"Freres Collomb & Gex, Négociants, en fer,\"},\n    {\"n\": 26, \"text\": \"quincaille, mercerie, en gros & en détail, plus en\"},\n    {\"n\": 27, \"text\": \"Spéculation.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Doret\",\n      \"forename\": \"Fr.\",\n      \"title\": \"& Fils\",\n      \"occupation\": \"Marbriers très-célébres\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Fr. Doret & Fils, Marbriers très-célébres.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Schad\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Menuisier célébre\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schad, Menuisier célébre.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Drefet\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Fondeur\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Drefet, Fondeur.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Mons\",\n      \"forename\": \"\",\n      \"title\": \"& Fils\",\n      \"occupation\": \"Penduliers célébres\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mons & Fils, Penduliers célébres.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Roi\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Charpentier, célébre dans la méchanique des rouages\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Roi, Charpentier, célébre dans la méchanique des rouages.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Cailler\",\n      \"forename\": \"\",\n      \"title\": \"aîné\",\n      \"occupation\": \"Tanneurs très-renommés\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Cailler, aîné, Tanneurs très-renommés.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Cailler\",\n      \"forename\": \"\",\n      \"title\": \"cadet\",\n      \"occupation\": \"Tanneurs très-renommés\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Cailler, cadet, Tanneurs très-renommés.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Cailler\",\n      \"forename\": \"\",\n      \"title\": \"Fils\",\n      \"occupation\": \"Tanneurs très-renommés\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Cailler, Fils, Tanneurs très-renommés.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Blache\",\n      \"forename\": \"J. D.\",\n      \"title\": \"\",\n      \"occupation\": \"Tanneurs très-renommés\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. D. Blache, Tanneurs très-renommés.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Megroz\",\n      \"forename\": \"\",\n      \"title\": \"cadet\",\n      \"occupation\": \"Tanneurs très-renommés\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Megroz, cadet, Tanneurs très-renommés.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Brun\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Tanneurs très-renommés\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Brun, Tanneurs très-renommés.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Zimmermann\",\n      \"forename\": \"\",\n      \"title\": \"& Kuechly\",\n      \"occupation\": \"Fabricants de fourneaux en fayence\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Zimmermann & Kuechly, Fabricants de fourneaux en fayence.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Joyeux\",\n      \"forename\": \"\",\n      \"title\": \"& Wexelberg\",\n      \"occupation\": \"peintres, graveurs en païsages\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joyeux & Wexelberg, peintres, graveurs en païsages.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Chenebié\",\n      \"forename\": \"\",\n      \"title\": \"& Lörtscher\",\n      \"occupation\": \"Imprimeurs-Libraires\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Chenebié & Lörtscher, Imprimeurs-Libraires.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Collomb\",\n      \"forename\": \"\",\n      \"title\": \"& Dufréne\",\n      \"occupation\": \"Banquiers, Négociants en vin & en fromage, en gros\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Collomb & Dufréne, Banquiers, Négociants en vin & en fromage, en gros.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Prader\",\n      \"forename\": \"Richard\",\n      \"title\": \"\",\n      \"occupation\": \"Droguiste\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Richard Prader, Droguiste.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"firma\",\n      \"heading\": \"Vevey\",\n      \"place\": \"Vevey\",\n      \"surname\": \"Collomb\",\n      \"forename\": \"\",\n      \"title\": \"Freres Collomb & Gex\",\n      \"occupation\": \"Négociants, en fer, quincaille, mercerie, en gros & en détail, plus en Spéculation\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Freres Collomb & Gex, Négociants, en fer, quincaille, mercerie, en gros & en détail, plus en Spéculation.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "58",
+  "running_head": "VEVEY",
+  "lines": [
+   {
+    "n": 1,
+    "text": "58 VEVEY"
+   },
+   {
+    "n": 2,
+    "text": "Vevey."
+   },
+   {
+    "n": 3,
+    "text": "Monsieur"
+   },
+   {
+    "n": 4,
+    "text": "Fr. Doret & Fils, Marbriers très-célébres."
+   },
+   {
+    "n": 5,
+    "text": "Schad, Menuisier célébre."
+   },
+   {
+    "n": 6,
+    "text": "Drefet, Fondeur."
+   },
+   {
+    "n": 7,
+    "text": "Mons & Fils, Penduliers célébres."
+   },
+   {
+    "n": 8,
+    "text": "Roi, Charpentier, célébre dans la méchanique"
+   },
+   {
+    "n": 9,
+    "text": "des rouages."
+   },
+   {
+    "n": 10,
+    "text": "Cailler, aîné,"
+   },
+   {
+    "n": 11,
+    "text": "Cailler, cadet,"
+   },
+   {
+    "n": 12,
+    "text": "Cailler, Fils, Tanneurs très - re-"
+   },
+   {
+    "n": 13,
+    "text": "J. D. Blache, nommés."
+   },
+   {
+    "n": 14,
+    "text": "Megroz, cadet,"
+   },
+   {
+    "n": 15,
+    "text": "Brun,"
+   },
+   {
+    "n": 16,
+    "text": "Zimmermann & Kuechly, Fabricants de"
+   },
+   {
+    "n": 17,
+    "text": "fourneaux en fayence."
+   },
+   {
+    "n": 18,
+    "text": "Joyeux & Wexelberg, peintres, graveurs"
+   },
+   {
+    "n": 19,
+    "text": "en païsages."
+   },
+   {
+    "n": 20,
+    "text": "Chenebié & Lörtscher, Imprimeurs - Li-"
+   },
+   {
+    "n": 21,
+    "text": "braires."
+   },
+   {
+    "n": 22,
+    "text": "Collomb & Dufréne, Banquiers, Négo-"
+   },
+   {
+    "n": 23,
+    "text": "ciants en vin & en fromage, en gros."
+   },
+   {
+    "n": 24,
+    "text": "Richard Prader, Droguiste."
+   },
+   {
+    "n": 25,
+    "text": "Freres Collomb & Gex, Négociants, en fer,"
+   },
+   {
+    "n": 26,
+    "text": "quincaille, mercerie, en gros & en détail, plus en"
+   },
+   {
+    "n": 27,
+    "text": "Spéculation."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Doret",
+    "forename": "Fr.",
+    "title": "& Fils",
+    "occupation": "Marbriers très-célébres",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Fr. Doret & Fils, Marbriers très-célébres."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Schad",
+    "forename": "",
+    "title": "",
+    "occupation": "Menuisier célébre",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schad, Menuisier célébre."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Drefet",
+    "forename": "",
+    "title": "",
+    "occupation": "Fondeur",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Drefet, Fondeur."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Mons",
+    "forename": "",
+    "title": "& Fils",
+    "occupation": "Penduliers célébres",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mons & Fils, Penduliers célébres."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Roi",
+    "forename": "",
+    "title": "",
+    "occupation": "Charpentier, célébre dans la méchanique des rouages",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Roi, Charpentier, célébre dans la méchanique des rouages."
+   },
+   {
+    "line_from": 10,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Cailler",
+    "forename": "",
+    "title": "aîné",
+    "occupation": "Tanneurs très-renommés",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Cailler, aîné, Tanneurs très-renommés."
+   },
+   {
+    "line_from": 10,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Cailler",
+    "forename": "",
+    "title": "cadet",
+    "occupation": "Tanneurs très-renommés",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Cailler, cadet, Tanneurs très-renommés."
+   },
+   {
+    "line_from": 10,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Cailler",
+    "forename": "",
+    "title": "Fils",
+    "occupation": "Tanneurs très-renommés",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Cailler, Fils, Tanneurs très-renommés."
+   },
+   {
+    "line_from": 10,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Blache",
+    "forename": "J. D.",
+    "title": "",
+    "occupation": "Tanneurs très-renommés",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. D. Blache, Tanneurs très-renommés."
+   },
+   {
+    "line_from": 10,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Megroz",
+    "forename": "",
+    "title": "cadet",
+    "occupation": "Tanneurs très-renommés",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Megroz, cadet, Tanneurs très-renommés."
+   },
+   {
+    "line_from": 10,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Brun",
+    "forename": "",
+    "title": "",
+    "occupation": "Tanneurs très-renommés",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Brun, Tanneurs très-renommés."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Zimmermann",
+    "forename": "",
+    "title": "& Kuechly",
+    "occupation": "Fabricants de fourneaux en fayence",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Zimmermann & Kuechly, Fabricants de fourneaux en fayence."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Joyeux",
+    "forename": "",
+    "title": "& Wexelberg",
+    "occupation": "peintres, graveurs en païsages",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joyeux & Wexelberg, peintres, graveurs en païsages."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Chenebié",
+    "forename": "",
+    "title": "& Lörtscher",
+    "occupation": "Imprimeurs-Libraires",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Chenebié & Lörtscher, Imprimeurs-Libraires."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Collomb",
+    "forename": "",
+    "title": "& Dufréne",
+    "occupation": "Banquiers, Négociants en vin & en fromage, en gros",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Collomb & Dufréne, Banquiers, Négociants en vin & en fromage, en gros."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Prader",
+    "forename": "Richard",
+    "title": "",
+    "occupation": "Droguiste",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Richard Prader, Droguiste."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "firma",
+    "heading": "Vevey",
+    "place": "Vevey",
+    "surname": "Collomb",
+    "forename": "",
+    "title": "Freres Collomb & Gex",
+    "occupation": "Négociants, en fer, quincaille, mercerie, en gros & en détail, plus en Spéculation",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Freres Collomb & Gex, Négociants, en fer, quincaille, mercerie, en gros & en détail, plus en Spéculation."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:53:36+01:00",
+ "last_error": null
+}

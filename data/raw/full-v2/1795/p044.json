@@ -1,0 +1,330 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 44,
+ "section": "handbuch",
+ "started": "2026-11-11T20:49:39+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 65.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2304,
+  "output": 2780,
+  "thoughts": 5971
+ },
+ "response_text": "{\n  \"printed_page\": \"42\",\n  \"running_head\": \"Zofingen.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"42          Zofingen.\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Jakob Imhoof, führt glatte Leinwand und\"},\n    {\"n\": 4, \"text\": \"Tafelzeug, von allen Dessins, im Canton Bern fa-\"},\n    {\"n\": 5, \"text\": \"bricirt, und auf seiner eigenen Bleiche gebleicht.\"},\n    {\"n\": 6, \"text\": \"Jacob Imhoof, ( Leinw.-Bleichen, auch allerh.\"},\n    {\"n\": 7, \"text\": \"David Salchli, ( Garn und baumw. Tücher.\"},\n    {\"n\": 8, \"text\": \"Joh. Rud. de Jakob Imhoof, verkauft rohe\"},\n    {\"n\": 9, \"text\": \"Baumwolle, baumwollene Tücher roh und gebleicht\"},\n    {\"n\": 10, \"text\": \"auch gedrukte baumwollene Tücher, Türkengarn, ächt\"},\n    {\"n\": 11, \"text\": \"und gefärbt, Spinal, halbbaumwollene Tücher,\"},\n    {\"n\": 12, \"text\": \"Rübeli oder baumwollen Sammet, Bazin glatt und\"},\n    {\"n\": 13, \"text\": \"façonirt, Barchet zu Betten und Futter, baumwol-\"},\n    {\"n\": 14, \"text\": \"len Garn roh, gebleicht und gefärbt, Fischthran\"},\n    {\"n\": 15, \"text\": \"und Schaafwolle.\"},\n    {\"n\": 16, \"text\": \"Joh. Georg Sutermeister, verkauft allerhand\"},\n    {\"n\": 17, \"text\": \"rohes und gebauchtes Garn en gros & en détail, inn-\"},\n    {\"n\": 18, \"text\": \"ländische und Elsasser Rysten.\"},\n    {\"n\": 19, \"text\": \"Joh. Jakob Müller und Söhne, handlen mit\"},\n    {\"n\": 20, \"text\": \"Baumwollen, baumwollen Garn, Risten, mit allen\"},\n    {\"n\": 21, \"text\": \"Gattungen Barchet, Rübeli, und fabriciren alle\"},\n    {\"n\": 22, \"text\": \"Arten Strichwaare und Schnupftücher.\"},\n    {\"n\": 23, \"text\": \"Die Stadt-Bibliothek besitzt Naturseltenheiten,\"},\n    {\"n\": 24, \"text\": \"eine Medaillensammlung, und ein Münzcabinet.\"},\n    {\"n\": 25, \"text\": \"Samuel Conrad Boßard, verkauft selbst fabri-\"},\n    {\"n\": 26, \"text\": \"cirtes Tuch, wollene Strümpfe, Strikwolle 2c.\"},\n    {\"n\": 27, \"text\": \"Franz Ludwig Sprünglin, Tuch- und Stoff-\"},\n    {\"n\": 28, \"text\": \"handlung, innländischer und ausländischer Fabri-\"},\n    {\"n\": 29, \"text\": \"kation.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Imhoof\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"führt glatte Leinwand und Tafelzeug, von allen Dessins, im Canton Bern fabricirt, und auf seiner eigenen Bleiche gebleicht\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jakob Imhoof, führt glatte Leinwand und Tafelzeug, von allen Dessins, im Canton Bern fabricirt, und auf seiner eigenen Bleiche gebleicht.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Imhoof\",\n      \"forename\": \"Jacob\",\n      \"title\": \"\",\n      \"occupation\": \"Leinw.-Bleichen, auch allerh. Garn und baumw. Tücher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jacob Imhoof, Leinw.-Bleichen, auch allerh. Garn und baumw. Tücher.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Salchli\",\n      \"forename\": \"David\",\n      \"title\": \"\",\n      \"occupation\": \"Leinw.-Bleichen, auch allerh. Garn und baumw. Tücher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"David Salchli, Leinw.-Bleichen, auch allerh. Garn und baumw. Tücher.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Imhoof\",\n      \"forename\": \"Joh. Rud. de Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"verkauft rohe Baumwolle, baumwollene Tücher roh und gebleicht auch gedrukte baumwollene Tücher, Türkengarn, ächt und gefärbt, Spinal, halbbaumwollene Tücher, Rübeli oder baumwollen Sammet, Bazin glatt und façonirt, Barchet zu Betten und Futter, baumwollen Garn roh, gebleicht und gefärbt, Fischthran und Schaafwolle\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Rud. de Jakob Imhoof, verkauft rohe Baumwolle, baumwollene Tücher roh und gebleicht auch gedrukte baumwollene Tücher, Türkengarn, ächt und gefärbt, Spinal, halbbaumwollene Tücher, Rübeli oder baumwollen Sammet, Bazin glatt und façonirt, Barchet zu Betten und Futter, baumwollen Garn roh, gebleicht und gefärbt, Fischthran und Schaafwolle.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Sutermeister\",\n      \"forename\": \"Joh. Georg\",\n      \"title\": \"\",\n      \"occupation\": \"verkauft allerhand rohes und gebauchtes Garn en gros & en détail, innländische und Elsasser Rysten\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Georg Sutermeister, verkauft allerhand rohes und gebauchtes Garn en gros & en détail, innländische und Elsasser Rysten.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 22,\n      \"kind\": \"firma\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Müller\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"und Söhne\",\n      \"occupation\": \"handlen mit Baumwollen, baumwollen Garn, Risten, mit allen Gattungen Barchet, Rübeli, und fabriciren alle Arten Strichwaare und Schnupftücher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Müller und Söhne, handlen mit Baumwollen, baumwollen Garn, Risten, mit allen Gattungen Barchet, Rübeli, und fabriciren alle Arten Strichwaare und Schnupftücher.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"institution\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Die Stadt-Bibliothek besitzt Naturseltenheiten, eine Medaillensammlung, und ein Münzcabinet.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Boßard\",\n      \"forename\": \"Samuel Conrad\",\n      \"title\": \"\",\n      \"occupation\": \"verkauft selbst fabricirtes Tuch, wollene Strümpfe, Strikwolle 2c.\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Samuel Conrad Boßard, verkauft selbst fabricirtes Tuch, wollene Strümpfe, Strikwolle 2c.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Zofingen\",\n      \"place\": \"Zofingen\",\n      \"surname\": \"Sprünglin\",\n      \"forename\": \"Franz Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Tuch- und Stoffhandlung, innländischer und ausländischer Fabrikation\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Franz Ludwig Sprünglin, Tuch- und Stoffhandlung, innländischer und ausländischer Fabrikation.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "42",
+  "running_head": "Zofingen.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "42          Zofingen."
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Jakob Imhoof, führt glatte Leinwand und"
+   },
+   {
+    "n": 4,
+    "text": "Tafelzeug, von allen Dessins, im Canton Bern fa-"
+   },
+   {
+    "n": 5,
+    "text": "bricirt, und auf seiner eigenen Bleiche gebleicht."
+   },
+   {
+    "n": 6,
+    "text": "Jacob Imhoof, ( Leinw.-Bleichen, auch allerh."
+   },
+   {
+    "n": 7,
+    "text": "David Salchli, ( Garn und baumw. Tücher."
+   },
+   {
+    "n": 8,
+    "text": "Joh. Rud. de Jakob Imhoof, verkauft rohe"
+   },
+   {
+    "n": 9,
+    "text": "Baumwolle, baumwollene Tücher roh und gebleicht"
+   },
+   {
+    "n": 10,
+    "text": "auch gedrukte baumwollene Tücher, Türkengarn, ächt"
+   },
+   {
+    "n": 11,
+    "text": "und gefärbt, Spinal, halbbaumwollene Tücher,"
+   },
+   {
+    "n": 12,
+    "text": "Rübeli oder baumwollen Sammet, Bazin glatt und"
+   },
+   {
+    "n": 13,
+    "text": "façonirt, Barchet zu Betten und Futter, baumwol-"
+   },
+   {
+    "n": 14,
+    "text": "len Garn roh, gebleicht und gefärbt, Fischthran"
+   },
+   {
+    "n": 15,
+    "text": "und Schaafwolle."
+   },
+   {
+    "n": 16,
+    "text": "Joh. Georg Sutermeister, verkauft allerhand"
+   },
+   {
+    "n": 17,
+    "text": "rohes und gebauchtes Garn en gros & en détail, inn-"
+   },
+   {
+    "n": 18,
+    "text": "ländische und Elsasser Rysten."
+   },
+   {
+    "n": 19,
+    "text": "Joh. Jakob Müller und Söhne, handlen mit"
+   },
+   {
+    "n": 20,
+    "text": "Baumwollen, baumwollen Garn, Risten, mit allen"
+   },
+   {
+    "n": 21,
+    "text": "Gattungen Barchet, Rübeli, und fabriciren alle"
+   },
+   {
+    "n": 22,
+    "text": "Arten Strichwaare und Schnupftücher."
+   },
+   {
+    "n": 23,
+    "text": "Die Stadt-Bibliothek besitzt Naturseltenheiten,"
+   },
+   {
+    "n": 24,
+    "text": "eine Medaillensammlung, und ein Münzcabinet."
+   },
+   {
+    "n": 25,
+    "text": "Samuel Conrad Boßard, verkauft selbst fabri-"
+   },
+   {
+    "n": 26,
+    "text": "cirtes Tuch, wollene Strümpfe, Strikwolle 2c."
+   },
+   {
+    "n": 27,
+    "text": "Franz Ludwig Sprünglin, Tuch- und Stoff-"
+   },
+   {
+    "n": 28,
+    "text": "handlung, innländischer und ausländischer Fabri-"
+   },
+   {
+    "n": 29,
+    "text": "kation."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Imhoof",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "führt glatte Leinwand und Tafelzeug, von allen Dessins, im Canton Bern fabricirt, und auf seiner eigenen Bleiche gebleicht",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jakob Imhoof, führt glatte Leinwand und Tafelzeug, von allen Dessins, im Canton Bern fabricirt, und auf seiner eigenen Bleiche gebleicht."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Imhoof",
+    "forename": "Jacob",
+    "title": "",
+    "occupation": "Leinw.-Bleichen, auch allerh. Garn und baumw. Tücher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jacob Imhoof, Leinw.-Bleichen, auch allerh. Garn und baumw. Tücher."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Salchli",
+    "forename": "David",
+    "title": "",
+    "occupation": "Leinw.-Bleichen, auch allerh. Garn und baumw. Tücher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "David Salchli, Leinw.-Bleichen, auch allerh. Garn und baumw. Tücher."
+   },
+   {
+    "line_from": 8,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Imhoof",
+    "forename": "Joh. Rud. de Jakob",
+    "title": "",
+    "occupation": "verkauft rohe Baumwolle, baumwollene Tücher roh und gebleicht auch gedrukte baumwollene Tücher, Türkengarn, ächt und gefärbt, Spinal, halbbaumwollene Tücher, Rübeli oder baumwollen Sammet, Bazin glatt und façonirt, Barchet zu Betten und Futter, baumwollen Garn roh, gebleicht und gefärbt, Fischthran und Schaafwolle",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Rud. de Jakob Imhoof, verkauft rohe Baumwolle, baumwollene Tücher roh und gebleicht auch gedrukte baumwollene Tücher, Türkengarn, ächt und gefärbt, Spinal, halbbaumwollene Tücher, Rübeli oder baumwollen Sammet, Bazin glatt und façonirt, Barchet zu Betten und Futter, baumwollen Garn roh, gebleicht und gefärbt, Fischthran und Schaafwolle."
+   },
+   {
+    "line_from": 16,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Sutermeister",
+    "forename": "Joh. Georg",
+    "title": "",
+    "occupation": "verkauft allerhand rohes und gebauchtes Garn en gros & en détail, innländische und Elsasser Rysten",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Georg Sutermeister, verkauft allerhand rohes und gebauchtes Garn en gros & en détail, innländische und Elsasser Rysten."
+   },
+   {
+    "line_from": 19,
+    "line_to": 22,
+    "kind": "firma",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Müller",
+    "forename": "Joh. Jakob",
+    "title": "und Söhne",
+    "occupation": "handlen mit Baumwollen, baumwollen Garn, Risten, mit allen Gattungen Barchet, Rübeli, und fabriciren alle Arten Strichwaare und Schnupftücher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Müller und Söhne, handlen mit Baumwollen, baumwollen Garn, Risten, mit allen Gattungen Barchet, Rübeli, und fabriciren alle Arten Strichwaare und Schnupftücher."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "institution",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Die Stadt-Bibliothek besitzt Naturseltenheiten, eine Medaillensammlung, und ein Münzcabinet."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Boßard",
+    "forename": "Samuel Conrad",
+    "title": "",
+    "occupation": "verkauft selbst fabricirtes Tuch, wollene Strümpfe, Strikwolle 2c.",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Samuel Conrad Boßard, verkauft selbst fabricirtes Tuch, wollene Strümpfe, Strikwolle 2c."
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Zofingen",
+    "place": "Zofingen",
+    "surname": "Sprünglin",
+    "forename": "Franz Ludwig",
+    "title": "",
+    "occupation": "Tuch- und Stoffhandlung, innländischer und ausländischer Fabrikation",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Franz Ludwig Sprünglin, Tuch- und Stoffhandlung, innländischer und ausländischer Fabrikation."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:50:44+01:00",
+ "last_error": null
+}

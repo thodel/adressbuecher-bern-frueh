@@ -1,0 +1,410 @@
+{
+ "run": "fix-rn",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "5f461a43a998",
+ "volume": "1848",
+ "page": 127,
+ "section": "einsassen",
+ "started": "2026-11-11T23:14:56+01:00",
+ "thinking": "high",
+ "temperature": 0.0,
+ "seconds": 146.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2515,
+  "output": 4259,
+  "thoughts": 17431
+ },
+ "response_text": "{\n  \"printed_page\": \"114\",\n  \"running_head\": null,\n  \"lines\": [\n    {\n      \"n\": 1,\n      \"text\": \"- 114 -\"\n    },\n    {\n      \"n\": 2,\n      \"text\": \"Nr. Geb.\"\n    },\n    {\n      \"n\": 3,\n      \"text\": \"Nik.\"\n    },\n    {\n      \"n\": 4,\n      \"text\": \"1 Robert, Lithograph, a. Darmstadt - II, 61.\"\n    },\n    {\n      \"n\": 5,\n      \"text\": \"Fr. - Anna Kath. Zimmermann a. Wattenwyl.\"\n    },\n    {\n      \"n\": 6,\n      \"text\": \"2 T. - 838 Anna Sus. Louise. - 41 Marie Charlotte.\"\n    },\n    {\n      \"n\": 7,\n      \"text\": \"Niklaus.\"\n    },\n    {\n      \"n\": 8,\n      \"text\": \"1 793 Bendicht, Müller, a. Zauggenried - I, 103.\"\n    },\n    {\n      \"n\": 9,\n      \"text\": \"1 S. - 826 Joh. Emanuel.\"\n    },\n    {\n      \"n\": 10,\n      \"text\": \"2 797 Christen Peter, Commis, a. Jegenstorf - II, 110.\"\n    },\n    {\n      \"n\": 11,\n      \"text\": \"5 K. - 825 Rosina. - 26 Louise. - 27 Joh. Jakob\"\n    },\n    {\n      \"n\": 12,\n      \"text\": \"Friedrich. - 29 Gottlieb Emanuel. - 32 Elisabetha.\"\n    },\n    {\n      \"n\": 13,\n      \"text\": \"Nikles.\"\n    },\n    {\n      \"n\": 14,\n      \"text\": \"1 802 Bendicht, Zimmermann, a. Bühl - II, 96.\"\n    },\n    {\n      \"n\": 15,\n      \"text\": \"809 Fr. - Barb. Augsburger a. Schangnau.\"\n    },\n    {\n      \"n\": 16,\n      \"text\": \"2 K. - 829 Joseph. - 33 Ros. Barb.\"\n    },\n    {\n      \"n\": 17,\n      \"text\": \"Nixt.\"\n    },\n    {\n      \"n\": 18,\n      \"text\": \"1 801 Ignaz, Schreiner, a. Lauenen - IV, 6 u. 7.\"\n    },\n    {\n      \"n\": 19,\n      \"text\": \"6 K. - 826 Karol. - 29 Elis. Charl. - 33 Karl Friedr.\"\n    },\n    {\n      \"n\": 20,\n      \"text\": \"- 35 Maria Sus. - 37 Math. Ignaz Jos. - 39 Maria\"\n    },\n    {\n      \"n\": 21,\n      \"text\": \"Jos. Vitalia.\"\n    },\n    {\n      \"n\": 22,\n      \"text\": \"Nobs.\"\n    },\n    {\n      \"n\": 23,\n      \"text\": \"1 799 Jakob Bendicht, Grempler, a. Seedorf - II, 221 u. 223.\"\n    },\n    {\n      \"n\": 24,\n      \"text\": \"802 Fr. - Christina Messerli a. Hasle b. Rümligen.\"\n    },\n    {\n      \"n\": 25,\n      \"text\": \"2 817 Johann, Handelsmann mit Baumwollenwaaren, a. See-\"\n    },\n    {\n      \"n\": 26,\n      \"text\": \"dorf - II, 149.\"\n    },\n    {\n      \"n\": 27,\n      \"text\": \"817 Fr. - Marg. Scheurer a. Schüpfen.\"\n    },\n    {\n      \"n\": 28,\n      \"text\": \"3 799 Christen, Schuhmacher, a. Kirchlindach - II, 208.\"\n    },\n    {\n      \"n\": 29,\n      \"text\": \"780 Fr. - Marg. Schläfli, geb. Michel, a. Deißwyl.\"\n    },\n    {\n      \"n\": 30,\n      \"text\": \"1 S. - 824 Samuel Christian.\"\n    },\n    {\n      \"n\": 31,\n      \"text\": \"Nörther.\"\n    },\n    {\n      \"n\": 32,\n      \"text\": \"1 815 Jakob, Schneider, bern. Landsaß - V, 193.\"\n    },\n    {\n      \"n\": 33,\n      \"text\": \"803 Fr. - Elis. Kummer a. Alchenflüh.\"\n    },\n    {\n      \"n\": 34,\n      \"text\": \"1 T. - 844 Elis. Louise Henriette.\"\n    },\n    {\n      \"n\": 35,\n      \"text\": \"2 810 Marg., Schneiderin, bern. Landsaßin - III, 96.\"\n    },\n    {\n      \"n\": 36,\n      \"text\": \"Nordemann.\"\n    },\n    {\n      \"n\": 37,\n      \"text\": \"1 Nathan, Bandhändler, a. Hegenheim in Frankreich - II, 164.\"\n    },\n    {\n      \"n\": 38,\n      \"text\": \"813 Fr. - Josephine Nordemann.\"\n    },\n    {\n      \"n\": 39,\n      \"text\": \"3 K. - 840 David. - 42 Babette. - 43 Pauline.\"\n    }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Nik.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nik\",\n      \"forename\": \"Robert\",\n      \"title\": \"\",\n      \"occupation\": \"Lithograph\",\n      \"address\": \"II, 61\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"Darmstadt\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. - Anna Kath. Zimmermann a. Wattenwyl.\\n2 T. - 838 Anna Sus. Louise. - 41 Marie Charlotte.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Robert, Lithograph, a. Darmstadt - II, 61. Fr. - Anna Kath. Zimmermann a. Wattenwyl. 2 T. - 838 Anna Sus. Louise. - 41 Marie Charlotte.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Niklaus.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Niklaus\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"I, 103\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"103\",\n      \"origin\": \"Zauggenried\",\n      \"birth_year\": \"1793\",\n      \"household\": \"1 S. - 826 Joh. Emanuel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Bendicht, Müller, a. Zauggenried - I, 103. 1 S. - 826 Joh. Emanuel.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Niklaus.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Niklaus\",\n      \"forename\": \"Christen Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Commis\",\n      \"address\": \"II, 110\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"110\",\n      \"origin\": \"Jegenstorf\",\n      \"birth_year\": \"1797\",\n      \"household\": \"5 K. - 825 Rosina. - 26 Louise. - 27 Joh. Jakob Friedrich. - 29 Gottlieb Emanuel. - 32 Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Christen Peter, Commis, a. Jegenstorf - II, 110. 5 K. - 825 Rosina. - 26 Louise. - 27 Joh. Jakob Friedrich. - 29 Gottlieb Emanuel. - 32 Elisabetha.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Nikles.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nikles\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Zimmermann\",\n      \"address\": \"II, 96\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"96\",\n      \"origin\": \"Bühl\",\n      \"birth_year\": \"1802\",\n      \"household\": \"809 Fr. - Barb. Augsburger a. Schangnau.\\n2 K. - 829 Joseph. - 33 Ros. Barb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Bendicht, Zimmermann, a. Bühl - II, 96. 809 Fr. - Barb. Augsburger a. Schangnau. 2 K. - 829 Joseph. - 33 Ros. Barb.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Nixt.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nixt\",\n      \"forename\": \"Ignaz\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"IV, 6 u. 7\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"6 u. 7\",\n      \"origin\": \"Lauenen\",\n      \"birth_year\": \"1801\",\n      \"household\": \"6 K. - 826 Karol. - 29 Elis. Charl. - 33 Karl Friedr. - 35 Maria Sus. - 37 Math. Ignaz Jos. - 39 Maria Jos. Vitalia.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Ignaz, Schreiner, a. Lauenen - IV, 6 u. 7. 6 K. - 826 Karol. - 29 Elis. Charl. - 33 Karl Friedr. - 35 Maria Sus. - 37 Math. Ignaz Jos. - 39 Maria Jos. Vitalia.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Nobs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nobs\",\n      \"forename\": \"Jakob Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Grempler\",\n      \"address\": \"II, 221 u. 223\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"221 u. 223\",\n      \"origin\": \"Seedorf\",\n      \"birth_year\": \"1799\",\n      \"household\": \"802 Fr. - Christina Messerli a. Hasle b. Rümligen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Jakob Bendicht, Grempler, a. Seedorf - II, 221 u. 223. 802 Fr. - Christina Messerli a. Hasle b. Rümligen.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Nobs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nobs\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann mit Baumwollenwaaren\",\n      \"address\": \"II, 149\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"149\",\n      \"origin\": \"Seedorf\",\n      \"birth_year\": \"1817\",\n      \"household\": \"817 Fr. - Marg. Scheurer a. Schüpfen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Johann, Handelsmann mit Baumwollenwaaren, a. Seedorf - II, 149. 817 Fr. - Marg. Scheurer a. Schüpfen.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Nobs.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nobs\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 208\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"208\",\n      \"origin\": \"Kirchlindach\",\n      \"birth_year\": \"1799\",\n      \"household\": \"780 Fr. - Marg. Schläfli, geb. Michel, a. Deißwyl.\\n1 S. - 824 Samuel Christian.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Christen, Schuhmacher, a. Kirchlindach - II, 208. 780 Fr. - Marg. Schläfli, geb. Michel, a. Deißwyl. 1 S. - 824 Samuel Christian.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Nörther.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nörther\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 193\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"193\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1815\",\n      \"household\": \"803 Fr. - Elis. Kummer a. Alchenflüh.\\n1 T. - 844 Elis. Louise Henriette.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Jakob, Schneider, bern. Landsaß - V, 193. 803 Fr. - Elis. Kummer a. Alchenflüh. 1 T. - 844 Elis. Louise Henriette.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Nörther.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nörther\",\n      \"forename\": \"Marg.\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"III, 96\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"96\",\n      \"origin\": \"bern. Landsaßin\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Marg., Schneiderin, bern. Landsaßin - III, 96.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Nordemann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nordemann\",\n      \"forename\": \"Nathan\",\n      \"title\": \"\",\n      \"occupation\": \"Bandhändler\",\n      \"address\": \"II, 164\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"164\",\n      \"origin\": \"Hegenheim in Frankreich\",\n      \"birth_year\": \"\",\n      \"household\": \"813 Fr. - Josephine Nordemann.\\n3 K. - 840 David. - 42 Babette. - 43 Pauline.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"Nathan, Bandhändler, a. Hegenheim in Frankreich - II, 164. 813 Fr. - Josephine Nordemann. 3 K. - 840 David. - 42 Babette. - 43 Pauline.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "114",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "- 114 -"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Nik."
+   },
+   {
+    "n": 4,
+    "text": "1 Robert, Lithograph, a. Darmstadt - II, 61."
+   },
+   {
+    "n": 5,
+    "text": "Fr. - Anna Kath. Zimmermann a. Wattenwyl."
+   },
+   {
+    "n": 6,
+    "text": "2 T. - 838 Anna Sus. Louise. - 41 Marie Charlotte."
+   },
+   {
+    "n": 7,
+    "text": "Niklaus."
+   },
+   {
+    "n": 8,
+    "text": "1 793 Bendicht, Müller, a. Zauggenried - I, 103."
+   },
+   {
+    "n": 9,
+    "text": "1 S. - 826 Joh. Emanuel."
+   },
+   {
+    "n": 10,
+    "text": "2 797 Christen Peter, Commis, a. Jegenstorf - II, 110."
+   },
+   {
+    "n": 11,
+    "text": "5 K. - 825 Rosina. - 26 Louise. - 27 Joh. Jakob"
+   },
+   {
+    "n": 12,
+    "text": "Friedrich. - 29 Gottlieb Emanuel. - 32 Elisabetha."
+   },
+   {
+    "n": 13,
+    "text": "Nikles."
+   },
+   {
+    "n": 14,
+    "text": "1 802 Bendicht, Zimmermann, a. Bühl - II, 96."
+   },
+   {
+    "n": 15,
+    "text": "809 Fr. - Barb. Augsburger a. Schangnau."
+   },
+   {
+    "n": 16,
+    "text": "2 K. - 829 Joseph. - 33 Ros. Barb."
+   },
+   {
+    "n": 17,
+    "text": "Nixt."
+   },
+   {
+    "n": 18,
+    "text": "1 801 Ignaz, Schreiner, a. Lauenen - IV, 6 u. 7."
+   },
+   {
+    "n": 19,
+    "text": "6 K. - 826 Karol. - 29 Elis. Charl. - 33 Karl Friedr."
+   },
+   {
+    "n": 20,
+    "text": "- 35 Maria Sus. - 37 Math. Ignaz Jos. - 39 Maria"
+   },
+   {
+    "n": 21,
+    "text": "Jos. Vitalia."
+   },
+   {
+    "n": 22,
+    "text": "Nobs."
+   },
+   {
+    "n": 23,
+    "text": "1 799 Jakob Bendicht, Grempler, a. Seedorf - II, 221 u. 223."
+   },
+   {
+    "n": 24,
+    "text": "802 Fr. - Christina Messerli a. Hasle b. Rümligen."
+   },
+   {
+    "n": 25,
+    "text": "2 817 Johann, Handelsmann mit Baumwollenwaaren, a. See-"
+   },
+   {
+    "n": 26,
+    "text": "dorf - II, 149."
+   },
+   {
+    "n": 27,
+    "text": "817 Fr. - Marg. Scheurer a. Schüpfen."
+   },
+   {
+    "n": 28,
+    "text": "3 799 Christen, Schuhmacher, a. Kirchlindach - II, 208."
+   },
+   {
+    "n": 29,
+    "text": "780 Fr. - Marg. Schläfli, geb. Michel, a. Deißwyl."
+   },
+   {
+    "n": 30,
+    "text": "1 S. - 824 Samuel Christian."
+   },
+   {
+    "n": 31,
+    "text": "Nörther."
+   },
+   {
+    "n": 32,
+    "text": "1 815 Jakob, Schneider, bern. Landsaß - V, 193."
+   },
+   {
+    "n": 33,
+    "text": "803 Fr. - Elis. Kummer a. Alchenflüh."
+   },
+   {
+    "n": 34,
+    "text": "1 T. - 844 Elis. Louise Henriette."
+   },
+   {
+    "n": 35,
+    "text": "2 810 Marg., Schneiderin, bern. Landsaßin - III, 96."
+   },
+   {
+    "n": 36,
+    "text": "Nordemann."
+   },
+   {
+    "n": 37,
+    "text": "1 Nathan, Bandhändler, a. Hegenheim in Frankreich - II, 164."
+   },
+   {
+    "n": 38,
+    "text": "813 Fr. - Josephine Nordemann."
+   },
+   {
+    "n": 39,
+    "text": "3 K. - 840 David. - 42 Babette. - 43 Pauline."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Nik.",
+    "place": "Bern",
+    "surname": "Nik",
+    "forename": "Robert",
+    "title": "",
+    "occupation": "Lithograph",
+    "address": "II, 61",
+    "quarter": "II",
+    "street": "",
+    "house_no": "61",
+    "origin": "Darmstadt",
+    "birth_year": "",
+    "household": "Fr. - Anna Kath. Zimmermann a. Wattenwyl.\n2 T. - 838 Anna Sus. Louise. - 41 Marie Charlotte.",
+    "note": "Name aus Zwischentitel",
+    "text": "Robert, Lithograph, a. Darmstadt - II, 61. Fr. - Anna Kath. Zimmermann a. Wattenwyl. 2 T. - 838 Anna Sus. Louise. - 41 Marie Charlotte."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Niklaus.",
+    "place": "Bern",
+    "surname": "Niklaus",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Müller",
+    "address": "I, 103",
+    "quarter": "I",
+    "street": "",
+    "house_no": "103",
+    "origin": "Zauggenried",
+    "birth_year": "1793",
+    "household": "1 S. - 826 Joh. Emanuel.",
+    "note": "Name aus Zwischentitel",
+    "text": "Bendicht, Müller, a. Zauggenried - I, 103. 1 S. - 826 Joh. Emanuel."
+   },
+   {
+    "line_from": 10,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Niklaus.",
+    "place": "Bern",
+    "surname": "Niklaus",
+    "forename": "Christen Peter",
+    "title": "",
+    "occupation": "Commis",
+    "address": "II, 110",
+    "quarter": "II",
+    "street": "",
+    "house_no": "110",
+    "origin": "Jegenstorf",
+    "birth_year": "1797",
+    "household": "5 K. - 825 Rosina. - 26 Louise. - 27 Joh. Jakob Friedrich. - 29 Gottlieb Emanuel. - 32 Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "Christen Peter, Commis, a. Jegenstorf - II, 110. 5 K. - 825 Rosina. - 26 Louise. - 27 Joh. Jakob Friedrich. - 29 Gottlieb Emanuel. - 32 Elisabetha."
+   },
+   {
+    "line_from": 14,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Nikles.",
+    "place": "Bern",
+    "surname": "Nikles",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Zimmermann",
+    "address": "II, 96",
+    "quarter": "II",
+    "street": "",
+    "house_no": "96",
+    "origin": "Bühl",
+    "birth_year": "1802",
+    "household": "809 Fr. - Barb. Augsburger a. Schangnau.\n2 K. - 829 Joseph. - 33 Ros. Barb.",
+    "note": "Name aus Zwischentitel",
+    "text": "Bendicht, Zimmermann, a. Bühl - II, 96. 809 Fr. - Barb. Augsburger a. Schangnau. 2 K. - 829 Joseph. - 33 Ros. Barb."
+   },
+   {
+    "line_from": 18,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Nixt.",
+    "place": "Bern",
+    "surname": "Nixt",
+    "forename": "Ignaz",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "IV, 6 u. 7",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "6 u. 7",
+    "origin": "Lauenen",
+    "birth_year": "1801",
+    "household": "6 K. - 826 Karol. - 29 Elis. Charl. - 33 Karl Friedr. - 35 Maria Sus. - 37 Math. Ignaz Jos. - 39 Maria Jos. Vitalia.",
+    "note": "Name aus Zwischentitel",
+    "text": "Ignaz, Schreiner, a. Lauenen - IV, 6 u. 7. 6 K. - 826 Karol. - 29 Elis. Charl. - 33 Karl Friedr. - 35 Maria Sus. - 37 Math. Ignaz Jos. - 39 Maria Jos. Vitalia."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Nobs.",
+    "place": "Bern",
+    "surname": "Nobs",
+    "forename": "Jakob Bendicht",
+    "title": "",
+    "occupation": "Grempler",
+    "address": "II, 221 u. 223",
+    "quarter": "II",
+    "street": "",
+    "house_no": "221 u. 223",
+    "origin": "Seedorf",
+    "birth_year": "1799",
+    "household": "802 Fr. - Christina Messerli a. Hasle b. Rümligen.",
+    "note": "Name aus Zwischentitel",
+    "text": "Jakob Bendicht, Grempler, a. Seedorf - II, 221 u. 223. 802 Fr. - Christina Messerli a. Hasle b. Rümligen."
+   },
+   {
+    "line_from": 25,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Nobs.",
+    "place": "Bern",
+    "surname": "Nobs",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Handelsmann mit Baumwollenwaaren",
+    "address": "II, 149",
+    "quarter": "II",
+    "street": "",
+    "house_no": "149",
+    "origin": "Seedorf",
+    "birth_year": "1817",
+    "household": "817 Fr. - Marg. Scheurer a. Schüpfen.",
+    "note": "Name aus Zwischentitel",
+    "text": "Johann, Handelsmann mit Baumwollenwaaren, a. Seedorf - II, 149. 817 Fr. - Marg. Scheurer a. Schüpfen."
+   },
+   {
+    "line_from": 28,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Nobs.",
+    "place": "Bern",
+    "surname": "Nobs",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 208",
+    "quarter": "II",
+    "street": "",
+    "house_no": "208",
+    "origin": "Kirchlindach",
+    "birth_year": "1799",
+    "household": "780 Fr. - Marg. Schläfli, geb. Michel, a. Deißwyl.\n1 S. - 824 Samuel Christian.",
+    "note": "Name aus Zwischentitel",
+    "text": "Christen, Schuhmacher, a. Kirchlindach - II, 208. 780 Fr. - Marg. Schläfli, geb. Michel, a. Deißwyl. 1 S. - 824 Samuel Christian."
+   },
+   {
+    "line_from": 32,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Nörther.",
+    "place": "Bern",
+    "surname": "Nörther",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 193",
+    "quarter": "V",
+    "street": "",
+    "house_no": "193",
+    "origin": "bern. Landsaß",
+    "birth_year": "1815",
+    "household": "803 Fr. - Elis. Kummer a. Alchenflüh.\n1 T. - 844 Elis. Louise Henriette.",
+    "note": "Name aus Zwischentitel",
+    "text": "Jakob, Schneider, bern. Landsaß - V, 193. 803 Fr. - Elis. Kummer a. Alchenflüh. 1 T. - 844 Elis. Louise Henriette."
+   },
+   {
+    "line_from": 35,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Nörther.",
+    "place": "Bern",
+    "surname": "Nörther",
+    "forename": "Marg.",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "III, 96",
+    "quarter": "III",
+    "street": "",
+    "house_no": "96",
+    "origin": "bern. Landsaßin",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "Marg., Schneiderin, bern. Landsaßin - III, 96."
+   },
+   {
+    "line_from": 37,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Nordemann.",
+    "place": "Bern",
+    "surname": "Nordemann",
+    "forename": "Nathan",
+    "title": "",
+    "occupation": "Bandhändler",
+    "address": "II, 164",
+    "quarter": "II",
+    "street": "",
+    "house_no": "164",
+    "origin": "Hegenheim in Frankreich",
+    "birth_year": "",
+    "household": "813 Fr. - Josephine Nordemann.\n3 K. - 840 David. - 42 Babette. - 43 Pauline.",
+    "note": "Name aus Zwischentitel",
+    "text": "Nathan, Bandhändler, a. Hegenheim in Frankreich - II, 164. 813 Fr. - Josephine Nordemann. 3 K. - 840 David. - 42 Babette. - 43 Pauline."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T23:17:22+01:00",
+ "last_error": null
+}

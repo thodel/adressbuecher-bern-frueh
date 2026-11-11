@@ -23,7 +23,8 @@ SITE = ROOT / "site"
 
 COLS = ["entry_id", "volume", "page", "printed_page", "section", "line_from", "line_to", "kind",
         "heading", "place", "surname", "forename", "title", "occupation", "address", "quarter",
-        "street", "house_no", "origin", "birth_year", "household", "note", "continues", "text"]
+        "street", "house_no", "origin", "birth_year", "household", "note", "continues", "text",
+        "doubt", "doubt_detail"]
 
 
 def main() -> None:
@@ -50,7 +51,10 @@ def main() -> None:
     ent_rows = [[e.get(c, "") for c in COLS] for e in entries]
     by_page = defaultdict(list)
     for l in lines:
-        by_page[f"{l['volume']}|{l['page']}"].append([int(l["line"] or 0), l["text"]])
+        row = [int(l["line"] or 0), l["text"]]
+        if l.get("text_b"):
+            row.append(l["text_b"])
+        by_page[f"{l['volume']}|{l['page']}"].append(row)
 
     (SITE / "data").mkdir(parents=True, exist_ok=True)
     stamp = datetime.now(ZoneInfo("Europe/Zurich")).strftime("%d.%m.%Y, %H:%M")

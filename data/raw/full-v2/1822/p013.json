@@ -1,0 +1,606 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 13,
+ "section": "berufe",
+ "started": "2026-11-11T21:00:45+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 30.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2214,
+  "output": 4832,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"5\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"5\"},\n    {\"n\": 2, \"text\": \"Nro.\"},\n    {\"n\": 3, \"text\": \"Kaufhaus-Bureau, Kramgaße … 168\"},\n    {\"n\": 4, \"text\": \"Lotterie-Bureau bey Friedli, S., Marktgaße 60\"},\n    {\"n\": 5, \"text\": \"\\\" \\\" \\\" Henzi, Marktgaße … 60\"},\n    {\"n\": 6, \"text\": \"\\\" \\\" \\\" Jäger, Kramgaße … 212\"},\n    {\"n\": 7, \"text\": \"\\\" \\\" \\\" Keilbach, Aarberggaße 71\"},\n    {\"n\": 8, \"text\": \"\\\" \\\" \\\" Rüetschi, Samuel, Kramgaße 183\"},\n    {\"n\": 9, \"text\": \"\\\" \\\" \\\" Stämpfli, Frau, Aarberg-\"},\n    {\"n\": 10, \"text\": \"gaße … 59\"},\n    {\"n\": 11, \"text\": \"\\\" \\\" \\\" M. Steinauer, Kramgaße 218\"},\n    {\"n\": 12, \"text\": \"\\\" \\\" \\\" Geschwistern Wild, Gerechtig-\"},\n    {\"n\": 13, \"text\": \"keitgaße … 111\"},\n    {\"n\": 14, \"text\": \"Ohmgeld-Bureau, Gerechtigkeitgaße … 94\"},\n    {\"n\": 15, \"text\": \"Stempel-Bureau, Kirchgaße … 268\"},\n    {\"n\": 16, \"text\": \"Platz-Bureau, Keßlergaße. … 241\"},\n    {\"n\": 17, \"text\": \"Polizey-Bureau, bey der Hauptwache 335\"},\n    {\"n\": 18, \"text\": \"Post-Bureau, Vorsteher desselben, Herren Fischer,\"},\n    {\"n\": 19, \"text\": \"Postgaße … 46\"},\n    {\"n\": 20, \"text\": \"Prokurations-Bureau von Wälti, Keßlergaße 280\"},\n    {\"n\": 21, \"text\": \"Cabinet (Lese=).\"},\n    {\"n\": 22, \"text\": \"Elias, F. H. P., (hält die neuesten periodischen\"},\n    {\"n\": 23, \"text\": \"Schriften, vorzüglich litterarische Blätter),\"},\n    {\"n\": 24, \"text\": \"Hotellaube … 232\"},\n    {\"n\": 25, \"text\": \"Haller, Ludwig Albrecht, Kramgaße … 166\"},\n    {\"n\": 26, \"text\": \"Lese-Bibliothek und Bibel-Verlag, Aarberggaße 54\"},\n    {\"n\": 27, \"text\": \"Steinauer, Meinrad, (hält die neuesten periodi-\"},\n    {\"n\": 28, \"text\": \"schen Schriften, vorzüglich litterarische Blät-\"},\n    {\"n\": 29, \"text\": \"ter), Kramgaße … 218\"},\n    {\"n\": 30, \"text\": \"Wanaz, Albrecht, (Musik-Verlag), Kramgaße 165\"},\n    {\"n\": 31, \"text\": \"Wurstemberger, Schwestern, Gerechtigkeitgaße 130\"},\n    {\"n\": 32, \"text\": \"Naturalien=Cabinet.\"},\n    {\"n\": 33, \"text\": \"Wisard, Gebrüder, Kramgaße … 176\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 168\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"168\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kaufhaus-Bureau, Kramgaße 168\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Friedli\",\n      \"forename\": \"S.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 60\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"60\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lotterie-Bureau bey Friedli, S., Marktgaße 60\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Henzi\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Marktgaße 60\",\n      \"quarter\": \"\",\n      \"street\": \"Marktgaße\",\n      \"house_no\": \"60\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lotterie-Bureau bey Henzi, Marktgaße 60\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Jäger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 212\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"212\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lotterie-Bureau bey Jäger, Kramgaße 212\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Keilbach\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 71\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"71\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lotterie-Bureau bey Keilbach, Aarberggaße 71\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Rüetschi\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 183\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"183\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lotterie-Bureau bey Rüetschi, Samuel, Kramgaße 183\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Stämpfli\",\n      \"forename\": \"\",\n      \"title\": \"Frau\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 59\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"59\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lotterie-Bureau bey Stämpfli, Frau, Aarberggaße 59\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Steinauer\",\n      \"forename\": \"M.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 218\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"218\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lotterie-Bureau bey M. Steinauer, Kramgaße 218\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Wild\",\n      \"forename\": \"\",\n      \"title\": \"Geschwistern\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgaße 111\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"111\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lotterie-Bureau bey Geschwistern Wild, Gerechtigkeitgaße 111\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgaße 94\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"94\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ohmgeld-Bureau, Gerechtigkeitgaße 94\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kirchgaße 268\",\n      \"quarter\": \"\",\n      \"street\": \"Kirchgaße\",\n      \"house_no\": \"268\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stempel-Bureau, Kirchgaße 268\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Keßlergaße 241\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaße\",\n      \"house_no\": \"241\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Platz-Bureau, Keßlergaße. 241\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"bey der Hauptwache 335\",\n      \"quarter\": \"\",\n      \"street\": \"bey der Hauptwache\",\n      \"house_no\": \"335\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Polizey-Bureau, bey der Hauptwache 335\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Fischer\",\n      \"forename\": \"\",\n      \"title\": \"Herren\",\n      \"occupation\": \"Vorsteher desselben\",\n      \"address\": \"Postgaße 46\",\n      \"quarter\": \"\",\n      \"street\": \"Postgaße\",\n      \"house_no\": \"46\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Post-Bureau, Vorsteher desselben, Herren Fischer, Postgaße 46\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"institution\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Wälti\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Keßlergaße 280\",\n      \"quarter\": \"\",\n      \"street\": \"Keßlergaße\",\n      \"house_no\": \"280\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Prokurations-Bureau von Wälti, Keßlergaße 280\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Cabinet (Lese=)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Elias\",\n      \"forename\": \"F. H. P.\",\n      \"title\": \"\",\n      \"occupation\": \"hält die neuesten periodischen Schriften, vorzüglich litterarische Blätter\",\n      \"address\": \"Hotellaube 232\",\n      \"quarter\": \"\",\n      \"street\": \"Hotellaube\",\n      \"house_no\": \"232\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Elias, F. H. P., (hält die neuesten periodischen Schriften, vorzüglich litterarische Blätter), Hotellaube 232\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Cabinet (Lese=)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Haller\",\n      \"forename\": \"Ludwig Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 166\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"166\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Haller, Ludwig Albrecht, Kramgaße 166\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"institution\",\n      \"heading\": \"Cabinet (Lese=)\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 54\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"54\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lese-Bibliothek und Bibel-Verlag, Aarberggaße 54\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Cabinet (Lese=)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Steinauer\",\n      \"forename\": \"Meinrad\",\n      \"title\": \"\",\n      \"occupation\": \"hält die neuesten periodischen Schriften, vorzüglich litterarische Blätter\",\n      \"address\": \"Kramgaße 218\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"218\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Steinauer, Meinrad, (hält die neuesten periodischen Schriften, vorzüglich litterarische Blätter), Kramgaße 218\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Cabinet (Lese=)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wanaz\",\n      \"forename\": \"Albrecht\",\n      \"title\": \"\",\n      \"occupation\": \"Musik-Verlag\",\n      \"address\": \"Kramgaße 165\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"165\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wanaz, Albrecht, (Musik-Verlag), Kramgaße 165\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Cabinet (Lese=)\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wurstemberger\",\n      \"forename\": \"\",\n      \"title\": \"Schwestern\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgaße 130\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"130\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wurstemberger, Schwestern, Gerechtigkeitgaße 130\"\n    },\n    {\n      \"line_from\": 33,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Naturalien=Cabinet\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wisard\",\n      \"forename\": \"\",\n      \"title\": \"Gebrüder\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 176\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"176\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Wisard, Gebrüder, Kramgaße 176\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "5",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "5"
+   },
+   {
+    "n": 2,
+    "text": "Nro."
+   },
+   {
+    "n": 3,
+    "text": "Kaufhaus-Bureau, Kramgaße … 168"
+   },
+   {
+    "n": 4,
+    "text": "Lotterie-Bureau bey Friedli, S., Marktgaße 60"
+   },
+   {
+    "n": 5,
+    "text": "\" \" \" Henzi, Marktgaße … 60"
+   },
+   {
+    "n": 6,
+    "text": "\" \" \" Jäger, Kramgaße … 212"
+   },
+   {
+    "n": 7,
+    "text": "\" \" \" Keilbach, Aarberggaße 71"
+   },
+   {
+    "n": 8,
+    "text": "\" \" \" Rüetschi, Samuel, Kramgaße 183"
+   },
+   {
+    "n": 9,
+    "text": "\" \" \" Stämpfli, Frau, Aarberg-"
+   },
+   {
+    "n": 10,
+    "text": "gaße … 59"
+   },
+   {
+    "n": 11,
+    "text": "\" \" \" M. Steinauer, Kramgaße 218"
+   },
+   {
+    "n": 12,
+    "text": "\" \" \" Geschwistern Wild, Gerechtig-"
+   },
+   {
+    "n": 13,
+    "text": "keitgaße … 111"
+   },
+   {
+    "n": 14,
+    "text": "Ohmgeld-Bureau, Gerechtigkeitgaße … 94"
+   },
+   {
+    "n": 15,
+    "text": "Stempel-Bureau, Kirchgaße … 268"
+   },
+   {
+    "n": 16,
+    "text": "Platz-Bureau, Keßlergaße. … 241"
+   },
+   {
+    "n": 17,
+    "text": "Polizey-Bureau, bey der Hauptwache 335"
+   },
+   {
+    "n": 18,
+    "text": "Post-Bureau, Vorsteher desselben, Herren Fischer,"
+   },
+   {
+    "n": 19,
+    "text": "Postgaße … 46"
+   },
+   {
+    "n": 20,
+    "text": "Prokurations-Bureau von Wälti, Keßlergaße 280"
+   },
+   {
+    "n": 21,
+    "text": "Cabinet (Lese=)."
+   },
+   {
+    "n": 22,
+    "text": "Elias, F. H. P., (hält die neuesten periodischen"
+   },
+   {
+    "n": 23,
+    "text": "Schriften, vorzüglich litterarische Blätter),"
+   },
+   {
+    "n": 24,
+    "text": "Hotellaube … 232"
+   },
+   {
+    "n": 25,
+    "text": "Haller, Ludwig Albrecht, Kramgaße … 166"
+   },
+   {
+    "n": 26,
+    "text": "Lese-Bibliothek und Bibel-Verlag, Aarberggaße 54"
+   },
+   {
+    "n": 27,
+    "text": "Steinauer, Meinrad, (hält die neuesten periodi-"
+   },
+   {
+    "n": 28,
+    "text": "schen Schriften, vorzüglich litterarische Blät-"
+   },
+   {
+    "n": 29,
+    "text": "ter), Kramgaße … 218"
+   },
+   {
+    "n": 30,
+    "text": "Wanaz, Albrecht, (Musik-Verlag), Kramgaße 165"
+   },
+   {
+    "n": 31,
+    "text": "Wurstemberger, Schwestern, Gerechtigkeitgaße 130"
+   },
+   {
+    "n": 32,
+    "text": "Naturalien=Cabinet."
+   },
+   {
+    "n": 33,
+    "text": "Wisard, Gebrüder, Kramgaße … 176"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 168",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "168",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kaufhaus-Bureau, Kramgaße 168"
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Friedli",
+    "forename": "S.",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 60",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "60",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lotterie-Bureau bey Friedli, S., Marktgaße 60"
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Henzi",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Marktgaße 60",
+    "quarter": "",
+    "street": "Marktgaße",
+    "house_no": "60",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lotterie-Bureau bey Henzi, Marktgaße 60"
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Jäger",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 212",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "212",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lotterie-Bureau bey Jäger, Kramgaße 212"
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Keilbach",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Aarberggaße 71",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "71",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lotterie-Bureau bey Keilbach, Aarberggaße 71"
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Rüetschi",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 183",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "183",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lotterie-Bureau bey Rüetschi, Samuel, Kramgaße 183"
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Stämpfli",
+    "forename": "",
+    "title": "Frau",
+    "occupation": "",
+    "address": "Aarberggaße 59",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "59",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lotterie-Bureau bey Stämpfli, Frau, Aarberggaße 59"
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Steinauer",
+    "forename": "M.",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 218",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "218",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lotterie-Bureau bey M. Steinauer, Kramgaße 218"
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Wild",
+    "forename": "",
+    "title": "Geschwistern",
+    "occupation": "",
+    "address": "Gerechtigkeitgaße 111",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "111",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lotterie-Bureau bey Geschwistern Wild, Gerechtigkeitgaße 111"
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Gerechtigkeitgaße 94",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "94",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ohmgeld-Bureau, Gerechtigkeitgaße 94"
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Kirchgaße 268",
+    "quarter": "",
+    "street": "Kirchgaße",
+    "house_no": "268",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stempel-Bureau, Kirchgaße 268"
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Keßlergaße 241",
+    "quarter": "",
+    "street": "Keßlergaße",
+    "house_no": "241",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Platz-Bureau, Keßlergaße. 241"
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "bey der Hauptwache 335",
+    "quarter": "",
+    "street": "bey der Hauptwache",
+    "house_no": "335",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Polizey-Bureau, bey der Hauptwache 335"
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Fischer",
+    "forename": "",
+    "title": "Herren",
+    "occupation": "Vorsteher desselben",
+    "address": "Postgaße 46",
+    "quarter": "",
+    "street": "Postgaße",
+    "house_no": "46",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Post-Bureau, Vorsteher desselben, Herren Fischer, Postgaße 46"
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "institution",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Wälti",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Keßlergaße 280",
+    "quarter": "",
+    "street": "Keßlergaße",
+    "house_no": "280",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Prokurations-Bureau von Wälti, Keßlergaße 280"
+   },
+   {
+    "line_from": 22,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Cabinet (Lese=)",
+    "place": "Bern",
+    "surname": "Elias",
+    "forename": "F. H. P.",
+    "title": "",
+    "occupation": "hält die neuesten periodischen Schriften, vorzüglich litterarische Blätter",
+    "address": "Hotellaube 232",
+    "quarter": "",
+    "street": "Hotellaube",
+    "house_no": "232",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Elias, F. H. P., (hält die neuesten periodischen Schriften, vorzüglich litterarische Blätter), Hotellaube 232"
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Cabinet (Lese=)",
+    "place": "Bern",
+    "surname": "Haller",
+    "forename": "Ludwig Albrecht",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 166",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "166",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Haller, Ludwig Albrecht, Kramgaße 166"
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "institution",
+    "heading": "Cabinet (Lese=)",
+    "place": "Bern",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Aarberggaße 54",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "54",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lese-Bibliothek und Bibel-Verlag, Aarberggaße 54"
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Cabinet (Lese=)",
+    "place": "Bern",
+    "surname": "Steinauer",
+    "forename": "Meinrad",
+    "title": "",
+    "occupation": "hält die neuesten periodischen Schriften, vorzüglich litterarische Blätter",
+    "address": "Kramgaße 218",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "218",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Steinauer, Meinrad, (hält die neuesten periodischen Schriften, vorzüglich litterarische Blätter), Kramgaße 218"
+   },
+   {
+    "line_from": 30,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Cabinet (Lese=)",
+    "place": "Bern",
+    "surname": "Wanaz",
+    "forename": "Albrecht",
+    "title": "",
+    "occupation": "Musik-Verlag",
+    "address": "Kramgaße 165",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "165",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wanaz, Albrecht, (Musik-Verlag), Kramgaße 165"
+   },
+   {
+    "line_from": 31,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Cabinet (Lese=)",
+    "place": "Bern",
+    "surname": "Wurstemberger",
+    "forename": "",
+    "title": "Schwestern",
+    "occupation": "",
+    "address": "Gerechtigkeitgaße 130",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "130",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wurstemberger, Schwestern, Gerechtigkeitgaße 130"
+   },
+   {
+    "line_from": 33,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Naturalien=Cabinet",
+    "place": "Bern",
+    "surname": "Wisard",
+    "forename": "",
+    "title": "Gebrüder",
+    "occupation": "",
+    "address": "Kramgaße 176",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "176",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Wisard, Gebrüder, Kramgaße 176"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:01:15+01:00",
+ "last_error": null
+}

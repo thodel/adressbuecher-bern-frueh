@@ -1,0 +1,470 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 159,
+ "section": "einsassen",
+ "started": "2026-11-11T22:10:15+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 51.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4825,
+  "thoughts": 3643
+ },
+ "response_text": "{\n  \"printed_page\": \"146\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 146 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Schüpbach.\"},\n    {\"n\": 4, \"text\": \"1 785 Niklaus, Fechtmeister, a. Landiswyl - IV, 5.\"},\n    {\"n\": 5, \"text\": \"793 Fr. - Dorothe Sal. Rosa Dick a. Bern.\"},\n    {\"n\": 6, \"text\": \"2 K. - 821 Bernh. Fr. Adolf. - 23 Marg. Elis. Adele.\"},\n    {\"n\": 7, \"text\": \"2 811 Niklaus, Rothgerber, a. Biglen - IV, 35.\"},\n    {\"n\": 8, \"text\": \"811 Fr. - Maria Dick, Kostgeberin, a. Affoltern.\"},\n    {\"n\": 9, \"text\": \"3 811 Christen, Zündhölzchenfabrikant, a. Landiswyl - II, 122 d.\"},\n    {\"n\": 10, \"text\": \"Fr. - Elis. Kath. Baumann a. Aeschlen.\"},\n    {\"n\": 11, \"text\": \"6 K. - 834 Elis. - 36 Anna. - 37 Friedrich. - 39\"},\n    {\"n\": 12, \"text\": \"Joh. Rudolf. - 41 Anna Maria. - 43 Jakob.\"},\n    {\"n\": 13, \"text\": \"Schürch.\"},\n    {\"n\": 14, \"text\": \"1 795 Bendicht, Müller, a. Büren z. Hof - VI, 31.\"},\n    {\"n\": 15, \"text\": \"787 Fr. - Anna Balsiger a. Köniz.\"},\n    {\"n\": 16, \"text\": \"2 807 Johann, Bäcker, a. Büren z. Hof - II, 156.\"},\n    {\"n\": 17, \"text\": \"813 Fr. II Ehe. - Anna Sieber a. Büren z. Hof.\"},\n    {\"n\": 18, \"text\": \"(Die Kinder sind nicht eingeschrieben.)\"},\n    {\"n\": 19, \"text\": \"3 814 Christ. Friedr., gew. Bäcker, a. Büren z. Hof - III, 23.\"},\n    {\"n\": 20, \"text\": \"819 Fr. - Maria Marg. Mäusli a. Höchstetten.\"},\n    {\"n\": 21, \"text\": \"1 T. - 840 Anna Marg.\"},\n    {\"n\": 22, \"text\": \"4 791 Christen, Mehlhändler, a. Rohrbach - III, 73.\"},\n    {\"n\": 23, \"text\": \"3 K. - Aus I Ehe: 825 Friedrich. - Aus II Ehe: 833\"},\n    {\"n\": 24, \"text\": \"Marg. - 43 Maria Rosina.\"},\n    {\"n\": 25, \"text\": \"5 803 Bendicht, Müller, a. Büren z. Hof - II, 6 c.\"},\n    {\"n\": 26, \"text\": \"6 813 Ulrich, Schreiber, a. Sumiswald - IV, 7.\"},\n    {\"n\": 27, \"text\": \"Fr. - Elis. Wymann.\"},\n    {\"n\": 28, \"text\": \"Schüttel.\"},\n    {\"n\": 29, \"text\": \"1 802 Christian, Milchträger, a. Bümpliz - II, 9.\"},\n    {\"n\": 30, \"text\": \"805 Fr. - Maria Spring a. Vechigen.\"},\n    {\"n\": 31, \"text\": \"5 K. - 829 Maria. - 32 Elis. - 35 Johann. - 37 Magd.\"},\n    {\"n\": 32, \"text\": \"- 40 Anna.\"},\n    {\"n\": 33, \"text\": \"Schütz.\"},\n    {\"n\": 34, \"text\": \"1 811 Heinrich, Commis, a. Zurzach - II, 185.\"},\n    {\"n\": 35, \"text\": \"815 Fr. - A. Sus. Fontanellaz a. Cudrefin.\"},\n    {\"n\": 36, \"text\": \"4 K. - 842 Joh. Heinrich. - 43 Maria Julie. - 44 Friedr.\"},\n    {\"n\": 37, \"text\": \"Ferdinand. - 45 Kath. Elis.\"},\n    {\"n\": 38, \"text\": \"2 800 Peter, Silberarbeiter, a. Sumiswald - VI, 113.\"},\n    {\"n\": 39, \"text\": \"800 Fr. - A. B. Drüssel a. Sumiswald.\"},\n    {\"n\": 40, \"text\": \"5 K. - 824 Anna Barb. - 26 Elis. - 28 Peter. - 31\"},\n    {\"n\": 41, \"text\": \"Elis. Magd. - 35 Anna Maria.\"},\n    {\"n\": 42, \"text\": \"3 807 Franz Rudolf, Störschneider, a. Sumiswald - VI, 75.\"},\n    {\"n\": 43, \"text\": \"808 Fr. - Elis. Sommer a. Sumiswald.\"},\n    {\"n\": 44, \"text\": \"1 S. - 833 Rudolf.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Schüpbach.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schüpbach\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Fechtmeister\",\n      \"address\": \"IV, 5\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"5\",\n      \"origin\": \"Landiswyl\",\n      \"birth_year\": \"1785\",\n      \"household\": \"Fr. - Dorothe Sal. Rosa Dick a. Bern. 2 K. - 821 Bernh. Fr. Adolf. - 23 Marg. Elis. Adele.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 785 Niklaus, Fechtmeister, a. Landiswyl - IV, 5. 793 Fr. - Dorothe Sal. Rosa Dick a. Bern. 2 K. - 821 Bernh. Fr. Adolf. - 23 Marg. Elis. Adele.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Schüpbach.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schüpbach\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Rothgerber\",\n      \"address\": \"IV, 35\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"35\",\n      \"origin\": \"Biglen\",\n      \"birth_year\": \"1811\",\n      \"household\": \"Fr. - Maria Dick, Kostgeberin, a. Affoltern.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 811 Niklaus, Rothgerber, a. Biglen - IV, 35. 811 Fr. - Maria Dick, Kostgeberin, a. Affoltern.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Schüpbach.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schüpbach\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Zündhölzchenfabrikant\",\n      \"address\": \"II, 122 d\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"122 d\",\n      \"origin\": \"Landiswyl\",\n      \"birth_year\": \"1811\",\n      \"household\": \"Fr. - Elis. Kath. Baumann a. Aeschlen. 6 K. - 834 Elis. - 36 Anna. - 37 Friedrich. - 39 Joh. Rudolf. - 41 Anna Maria. - 43 Jakob.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 811 Christen, Zündhölzchenfabrikant, a. Landiswyl - II, 122 d. Fr. - Elis. Kath. Baumann a. Aeschlen. 6 K. - 834 Elis. - 36 Anna. - 37 Friedrich. - 39 Joh. Rudolf. - 41 Anna Maria. - 43 Jakob.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Schürch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schürch\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"VI, 31\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"31\",\n      \"origin\": \"Büren z. Hof\",\n      \"birth_year\": \"1795\",\n      \"household\": \"Fr. - Anna Balsiger a. Köniz.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 795 Bendicht, Müller, a. Büren z. Hof - VI, 31. 787 Fr. - Anna Balsiger a. Köniz.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Schürch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schürch\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"II, 156\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"156\",\n      \"origin\": \"Büren z. Hof\",\n      \"birth_year\": \"1807\",\n      \"household\": \"Fr. II Ehe. - Anna Sieber a. Büren z. Hof. (Die Kinder sind nicht eingeschrieben.)\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 807 Johann, Bäcker, a. Büren z. Hof - II, 156. 813 Fr. II Ehe. - Anna Sieber a. Büren z. Hof. (Die Kinder sind nicht eingeschrieben.)\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Schürch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schürch\",\n      \"forename\": \"Christ. Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Bäcker\",\n      \"address\": \"III, 23\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"23\",\n      \"origin\": \"Büren z. Hof\",\n      \"birth_year\": \"1814\",\n      \"household\": \"Fr. - Maria Marg. Mäusli a. Höchstetten. 1 T. - 840 Anna Marg.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 814 Christ. Friedr., gew. Bäcker, a. Büren z. Hof - III, 23. 819 Fr. - Maria Marg. Mäusli a. Höchstetten. 1 T. - 840 Anna Marg.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Schürch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schürch\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Mehlhändler\",\n      \"address\": \"III, 73\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"73\",\n      \"origin\": \"Rohrbach\",\n      \"birth_year\": \"1791\",\n      \"household\": \"3 K. - Aus I Ehe: 825 Friedrich. - Aus II Ehe: 833 Marg. - 43 Maria Rosina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 791 Christen, Mehlhändler, a. Rohrbach - III, 73. 3 K. - Aus I Ehe: 825 Friedrich. - Aus II Ehe: 833 Marg. - 43 Maria Rosina.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Schürch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schürch\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"II, 6 c\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"6 c\",\n      \"origin\": \"Büren z. Hof\",\n      \"birth_year\": \"1803\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 803 Bendicht, Müller, a. Büren z. Hof - II, 6 c.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Schürch.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schürch\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"IV, 7\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"7\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1813\",\n      \"household\": \"Fr. - Elis. Wymann.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"6 813 Ulrich, Schreiber, a. Sumiswald - IV, 7. Fr. - Elis. Wymann.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Schüttel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schüttel\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Milchträger\",\n      \"address\": \"II, 9\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"9\",\n      \"origin\": \"Bümpliz\",\n      \"birth_year\": \"1802\",\n      \"household\": \"Fr. - Maria Spring a. Vechigen. 5 K. - 829 Maria. - 32 Elis. - 35 Johann. - 37 Magd. - 40 Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Christian, Milchträger, a. Bümpliz - II, 9. 805 Fr. - Maria Spring a. Vechigen. 5 K. - 829 Maria. - 32 Elis. - 35 Johann. - 37 Magd. - 40 Anna.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Schütz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schütz\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Commis\",\n      \"address\": \"II, 185\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"185\",\n      \"origin\": \"Zurzach\",\n      \"birth_year\": \"1811\",\n      \"household\": \"Fr. - A. Sus. Fontanellaz a. Cudrefin. 4 K. - 842 Joh. Heinrich. - 43 Maria Julie. - 44 Friedr. Ferdinand. - 45 Kath. Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Heinrich, Commis, a. Zurzach - II, 185. 815 Fr. - A. Sus. Fontanellaz a. Cudrefin. 4 K. - 842 Joh. Heinrich. - 43 Maria Julie. - 44 Friedr. Ferdinand. - 45 Kath. Elis.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Schütz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schütz\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Silberarbeiter\",\n      \"address\": \"VI, 113\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"113\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1800\",\n      \"household\": \"Fr. - A. B. Drüssel a. Sumiswald. 5 K. - 824 Anna Barb. - 26 Elis. - 28 Peter. - 31 Elis. Magd. - 35 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 800 Peter, Silberarbeiter, a. Sumiswald - VI, 113. 800 Fr. - A. B. Drüssel a. Sumiswald. 5 K. - 824 Anna Barb. - 26 Elis. - 28 Peter. - 31 Elis. Magd. - 35 Anna Maria.\"\n    },\n    {\n      \"line_from\": 42,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Schütz.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schütz\",\n      \"forename\": \"Franz Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Störschneider\",\n      \"address\": \"VI, 75\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"Sumiswald\",\n      \"birth_year\": \"1807\",\n      \"household\": \"Fr. - Elis. Sommer a. Sumiswald. 1 S. - 833 Rudolf.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 807 Franz Rudolf, Störschneider, a. Sumiswald - VI, 75. 808 Fr. - Elis. Sommer a. Sumiswald. 1 S. - 833 Rudolf.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "146",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 146 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Schüpbach."
+   },
+   {
+    "n": 4,
+    "text": "1 785 Niklaus, Fechtmeister, a. Landiswyl - IV, 5."
+   },
+   {
+    "n": 5,
+    "text": "793 Fr. - Dorothe Sal. Rosa Dick a. Bern."
+   },
+   {
+    "n": 6,
+    "text": "2 K. - 821 Bernh. Fr. Adolf. - 23 Marg. Elis. Adele."
+   },
+   {
+    "n": 7,
+    "text": "2 811 Niklaus, Rothgerber, a. Biglen - IV, 35."
+   },
+   {
+    "n": 8,
+    "text": "811 Fr. - Maria Dick, Kostgeberin, a. Affoltern."
+   },
+   {
+    "n": 9,
+    "text": "3 811 Christen, Zündhölzchenfabrikant, a. Landiswyl - II, 122 d."
+   },
+   {
+    "n": 10,
+    "text": "Fr. - Elis. Kath. Baumann a. Aeschlen."
+   },
+   {
+    "n": 11,
+    "text": "6 K. - 834 Elis. - 36 Anna. - 37 Friedrich. - 39"
+   },
+   {
+    "n": 12,
+    "text": "Joh. Rudolf. - 41 Anna Maria. - 43 Jakob."
+   },
+   {
+    "n": 13,
+    "text": "Schürch."
+   },
+   {
+    "n": 14,
+    "text": "1 795 Bendicht, Müller, a. Büren z. Hof - VI, 31."
+   },
+   {
+    "n": 15,
+    "text": "787 Fr. - Anna Balsiger a. Köniz."
+   },
+   {
+    "n": 16,
+    "text": "2 807 Johann, Bäcker, a. Büren z. Hof - II, 156."
+   },
+   {
+    "n": 17,
+    "text": "813 Fr. II Ehe. - Anna Sieber a. Büren z. Hof."
+   },
+   {
+    "n": 18,
+    "text": "(Die Kinder sind nicht eingeschrieben.)"
+   },
+   {
+    "n": 19,
+    "text": "3 814 Christ. Friedr., gew. Bäcker, a. Büren z. Hof - III, 23."
+   },
+   {
+    "n": 20,
+    "text": "819 Fr. - Maria Marg. Mäusli a. Höchstetten."
+   },
+   {
+    "n": 21,
+    "text": "1 T. - 840 Anna Marg."
+   },
+   {
+    "n": 22,
+    "text": "4 791 Christen, Mehlhändler, a. Rohrbach - III, 73."
+   },
+   {
+    "n": 23,
+    "text": "3 K. - Aus I Ehe: 825 Friedrich. - Aus II Ehe: 833"
+   },
+   {
+    "n": 24,
+    "text": "Marg. - 43 Maria Rosina."
+   },
+   {
+    "n": 25,
+    "text": "5 803 Bendicht, Müller, a. Büren z. Hof - II, 6 c."
+   },
+   {
+    "n": 26,
+    "text": "6 813 Ulrich, Schreiber, a. Sumiswald - IV, 7."
+   },
+   {
+    "n": 27,
+    "text": "Fr. - Elis. Wymann."
+   },
+   {
+    "n": 28,
+    "text": "Schüttel."
+   },
+   {
+    "n": 29,
+    "text": "1 802 Christian, Milchträger, a. Bümpliz - II, 9."
+   },
+   {
+    "n": 30,
+    "text": "805 Fr. - Maria Spring a. Vechigen."
+   },
+   {
+    "n": 31,
+    "text": "5 K. - 829 Maria. - 32 Elis. - 35 Johann. - 37 Magd."
+   },
+   {
+    "n": 32,
+    "text": "- 40 Anna."
+   },
+   {
+    "n": 33,
+    "text": "Schütz."
+   },
+   {
+    "n": 34,
+    "text": "1 811 Heinrich, Commis, a. Zurzach - II, 185."
+   },
+   {
+    "n": 35,
+    "text": "815 Fr. - A. Sus. Fontanellaz a. Cudrefin."
+   },
+   {
+    "n": 36,
+    "text": "4 K. - 842 Joh. Heinrich. - 43 Maria Julie. - 44 Friedr."
+   },
+   {
+    "n": 37,
+    "text": "Ferdinand. - 45 Kath. Elis."
+   },
+   {
+    "n": 38,
+    "text": "2 800 Peter, Silberarbeiter, a. Sumiswald - VI, 113."
+   },
+   {
+    "n": 39,
+    "text": "800 Fr. - A. B. Drüssel a. Sumiswald."
+   },
+   {
+    "n": 40,
+    "text": "5 K. - 824 Anna Barb. - 26 Elis. - 28 Peter. - 31"
+   },
+   {
+    "n": 41,
+    "text": "Elis. Magd. - 35 Anna Maria."
+   },
+   {
+    "n": 42,
+    "text": "3 807 Franz Rudolf, Störschneider, a. Sumiswald - VI, 75."
+   },
+   {
+    "n": 43,
+    "text": "808 Fr. - Elis. Sommer a. Sumiswald."
+   },
+   {
+    "n": 44,
+    "text": "1 S. - 833 Rudolf."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Schüpbach.",
+    "place": "Bern",
+    "surname": "Schüpbach",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Fechtmeister",
+    "address": "IV, 5",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "5",
+    "origin": "Landiswyl",
+    "birth_year": "1785",
+    "household": "Fr. - Dorothe Sal. Rosa Dick a. Bern. 2 K. - 821 Bernh. Fr. Adolf. - 23 Marg. Elis. Adele.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 785 Niklaus, Fechtmeister, a. Landiswyl - IV, 5. 793 Fr. - Dorothe Sal. Rosa Dick a. Bern. 2 K. - 821 Bernh. Fr. Adolf. - 23 Marg. Elis. Adele."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Schüpbach.",
+    "place": "Bern",
+    "surname": "Schüpbach",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Rothgerber",
+    "address": "IV, 35",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "35",
+    "origin": "Biglen",
+    "birth_year": "1811",
+    "household": "Fr. - Maria Dick, Kostgeberin, a. Affoltern.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 811 Niklaus, Rothgerber, a. Biglen - IV, 35. 811 Fr. - Maria Dick, Kostgeberin, a. Affoltern."
+   },
+   {
+    "line_from": 9,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Schüpbach.",
+    "place": "Bern",
+    "surname": "Schüpbach",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Zündhölzchenfabrikant",
+    "address": "II, 122 d",
+    "quarter": "II",
+    "street": "",
+    "house_no": "122 d",
+    "origin": "Landiswyl",
+    "birth_year": "1811",
+    "household": "Fr. - Elis. Kath. Baumann a. Aeschlen. 6 K. - 834 Elis. - 36 Anna. - 37 Friedrich. - 39 Joh. Rudolf. - 41 Anna Maria. - 43 Jakob.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 811 Christen, Zündhölzchenfabrikant, a. Landiswyl - II, 122 d. Fr. - Elis. Kath. Baumann a. Aeschlen. 6 K. - 834 Elis. - 36 Anna. - 37 Friedrich. - 39 Joh. Rudolf. - 41 Anna Maria. - 43 Jakob."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Schürch.",
+    "place": "Bern",
+    "surname": "Schürch",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Müller",
+    "address": "VI, 31",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "31",
+    "origin": "Büren z. Hof",
+    "birth_year": "1795",
+    "household": "Fr. - Anna Balsiger a. Köniz.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 795 Bendicht, Müller, a. Büren z. Hof - VI, 31. 787 Fr. - Anna Balsiger a. Köniz."
+   },
+   {
+    "line_from": 16,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Schürch.",
+    "place": "Bern",
+    "surname": "Schürch",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "II, 156",
+    "quarter": "II",
+    "street": "",
+    "house_no": "156",
+    "origin": "Büren z. Hof",
+    "birth_year": "1807",
+    "household": "Fr. II Ehe. - Anna Sieber a. Büren z. Hof. (Die Kinder sind nicht eingeschrieben.)",
+    "note": "Name aus Zwischentitel",
+    "text": "2 807 Johann, Bäcker, a. Büren z. Hof - II, 156. 813 Fr. II Ehe. - Anna Sieber a. Büren z. Hof. (Die Kinder sind nicht eingeschrieben.)"
+   },
+   {
+    "line_from": 19,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Schürch.",
+    "place": "Bern",
+    "surname": "Schürch",
+    "forename": "Christ. Friedr.",
+    "title": "",
+    "occupation": "gew. Bäcker",
+    "address": "III, 23",
+    "quarter": "III",
+    "street": "",
+    "house_no": "23",
+    "origin": "Büren z. Hof",
+    "birth_year": "1814",
+    "household": "Fr. - Maria Marg. Mäusli a. Höchstetten. 1 T. - 840 Anna Marg.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 814 Christ. Friedr., gew. Bäcker, a. Büren z. Hof - III, 23. 819 Fr. - Maria Marg. Mäusli a. Höchstetten. 1 T. - 840 Anna Marg."
+   },
+   {
+    "line_from": 22,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Schürch.",
+    "place": "Bern",
+    "surname": "Schürch",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Mehlhändler",
+    "address": "III, 73",
+    "quarter": "III",
+    "street": "",
+    "house_no": "73",
+    "origin": "Rohrbach",
+    "birth_year": "1791",
+    "household": "3 K. - Aus I Ehe: 825 Friedrich. - Aus II Ehe: 833 Marg. - 43 Maria Rosina.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 791 Christen, Mehlhändler, a. Rohrbach - III, 73. 3 K. - Aus I Ehe: 825 Friedrich. - Aus II Ehe: 833 Marg. - 43 Maria Rosina."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Schürch.",
+    "place": "Bern",
+    "surname": "Schürch",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Müller",
+    "address": "II, 6 c",
+    "quarter": "II",
+    "street": "",
+    "house_no": "6 c",
+    "origin": "Büren z. Hof",
+    "birth_year": "1803",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "5 803 Bendicht, Müller, a. Büren z. Hof - II, 6 c."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Schürch.",
+    "place": "Bern",
+    "surname": "Schürch",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "IV, 7",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "7",
+    "origin": "Sumiswald",
+    "birth_year": "1813",
+    "household": "Fr. - Elis. Wymann.",
+    "note": "Name aus Zwischentitel",
+    "text": "6 813 Ulrich, Schreiber, a. Sumiswald - IV, 7. Fr. - Elis. Wymann."
+   },
+   {
+    "line_from": 29,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Schüttel.",
+    "place": "Bern",
+    "surname": "Schüttel",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Milchträger",
+    "address": "II, 9",
+    "quarter": "II",
+    "street": "",
+    "house_no": "9",
+    "origin": "Bümpliz",
+    "birth_year": "1802",
+    "household": "Fr. - Maria Spring a. Vechigen. 5 K. - 829 Maria. - 32 Elis. - 35 Johann. - 37 Magd. - 40 Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Christian, Milchträger, a. Bümpliz - II, 9. 805 Fr. - Maria Spring a. Vechigen. 5 K. - 829 Maria. - 32 Elis. - 35 Johann. - 37 Magd. - 40 Anna."
+   },
+   {
+    "line_from": 34,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Schütz.",
+    "place": "Bern",
+    "surname": "Schütz",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Commis",
+    "address": "II, 185",
+    "quarter": "II",
+    "street": "",
+    "house_no": "185",
+    "origin": "Zurzach",
+    "birth_year": "1811",
+    "household": "Fr. - A. Sus. Fontanellaz a. Cudrefin. 4 K. - 842 Joh. Heinrich. - 43 Maria Julie. - 44 Friedr. Ferdinand. - 45 Kath. Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Heinrich, Commis, a. Zurzach - II, 185. 815 Fr. - A. Sus. Fontanellaz a. Cudrefin. 4 K. - 842 Joh. Heinrich. - 43 Maria Julie. - 44 Friedr. Ferdinand. - 45 Kath. Elis."
+   },
+   {
+    "line_from": 38,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Schütz.",
+    "place": "Bern",
+    "surname": "Schütz",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Silberarbeiter",
+    "address": "VI, 113",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "113",
+    "origin": "Sumiswald",
+    "birth_year": "1800",
+    "household": "Fr. - A. B. Drüssel a. Sumiswald. 5 K. - 824 Anna Barb. - 26 Elis. - 28 Peter. - 31 Elis. Magd. - 35 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 800 Peter, Silberarbeiter, a. Sumiswald - VI, 113. 800 Fr. - A. B. Drüssel a. Sumiswald. 5 K. - 824 Anna Barb. - 26 Elis. - 28 Peter. - 31 Elis. Magd. - 35 Anna Maria."
+   },
+   {
+    "line_from": 42,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Schütz.",
+    "place": "Bern",
+    "surname": "Schütz",
+    "forename": "Franz Rudolf",
+    "title": "",
+    "occupation": "Störschneider",
+    "address": "VI, 75",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "75",
+    "origin": "Sumiswald",
+    "birth_year": "1807",
+    "household": "Fr. - Elis. Sommer a. Sumiswald. 1 S. - 833 Rudolf.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 807 Franz Rudolf, Störschneider, a. Sumiswald - VI, 75. 808 Fr. - Elis. Sommer a. Sumiswald. 1 S. - 833 Rudolf."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:11:06+01:00",
+ "last_error": null
+}

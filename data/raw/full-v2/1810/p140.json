@@ -1,0 +1,182 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 140,
+ "section": "canton",
+ "started": "2026-11-11T21:00:12+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 33.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2348,
+  "output": 1158,
+  "thoughts": 3097
+ },
+ "response_text": "{\n  \"printed_page\": \"67\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"67\"},\n    {\"n\": 2, \"text\": \"Préfecture de Wangen.\"},\n    {\"n\": 3, \"text\": \"Séeberg.\"},\n    {\"n\": 4, \"text\": \"Mathys , Jean , fait d'éxcellens resorts de mon-\"},\n    {\"n\": 5, \"text\": \"tres et pour bandages élastiques, des poin-\"},\n    {\"n\": 6, \"text\": \"tes pour graveurs sur bois et autres ou-\"},\n    {\"n\": 7, \"text\": \"vrages de ce genre.\"},\n    {\"n\": 8, \"text\": \"Wangen.\"},\n    {\"n\": 9, \"text\": \"Dennler et Roth, Commerce de Vin.\"},\n    {\"n\": 10, \"text\": \"Roth, Jaques, Fabrique de Crin.\"},\n    {\"n\": 11, \"text\": \"Strasser, les frères, Commerce de Vin.\"},\n    {\"n\": 12, \"text\": \"Vogel, Jean Rodolphe, Commerce de Vin.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Séeberg\",\n      \"place\": \"Séeberg\",\n      \"surname\": \"Mathys\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"fait d'éxcellens resorts de montres et pour bandages élastiques, des pointes pour graveurs sur bois et autres ouvrages de ce genre\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Mathys , Jean , fait d'éxcellens resorts de montres et pour bandages élastiques, des pointes pour graveurs sur bois et autres ouvrages de ce genre.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"firma\",\n      \"heading\": \"Wangen\",\n      \"place\": \"Wangen\",\n      \"surname\": \"Dennler et Roth\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dennler et Roth, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Wangen\",\n      \"place\": \"Wangen\",\n      \"surname\": \"Roth\",\n      \"forename\": \"Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Fabrique de Crin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Roth, Jaques, Fabrique de Crin.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Wangen\",\n      \"place\": \"Wangen\",\n      \"surname\": \"Strasser\",\n      \"forename\": \"\",\n      \"title\": \"les frères\",\n      \"occupation\": \"Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Strasser, les frères, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Wangen\",\n      \"place\": \"Wangen\",\n      \"surname\": \"Vogel\",\n      \"forename\": \"Jean Rodolphe\",\n      \"title\": \"\",\n      \"occupation\": \"Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Vogel, Jean Rodolphe, Commerce de Vin.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "67",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "67"
+   },
+   {
+    "n": 2,
+    "text": "Préfecture de Wangen."
+   },
+   {
+    "n": 3,
+    "text": "Séeberg."
+   },
+   {
+    "n": 4,
+    "text": "Mathys , Jean , fait d'éxcellens resorts de mon-"
+   },
+   {
+    "n": 5,
+    "text": "tres et pour bandages élastiques, des poin-"
+   },
+   {
+    "n": 6,
+    "text": "tes pour graveurs sur bois et autres ou-"
+   },
+   {
+    "n": 7,
+    "text": "vrages de ce genre."
+   },
+   {
+    "n": 8,
+    "text": "Wangen."
+   },
+   {
+    "n": 9,
+    "text": "Dennler et Roth, Commerce de Vin."
+   },
+   {
+    "n": 10,
+    "text": "Roth, Jaques, Fabrique de Crin."
+   },
+   {
+    "n": 11,
+    "text": "Strasser, les frères, Commerce de Vin."
+   },
+   {
+    "n": 12,
+    "text": "Vogel, Jean Rodolphe, Commerce de Vin."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Séeberg",
+    "place": "Séeberg",
+    "surname": "Mathys",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "fait d'éxcellens resorts de montres et pour bandages élastiques, des pointes pour graveurs sur bois et autres ouvrages de ce genre",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Mathys , Jean , fait d'éxcellens resorts de montres et pour bandages élastiques, des pointes pour graveurs sur bois et autres ouvrages de ce genre."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "firma",
+    "heading": "Wangen",
+    "place": "Wangen",
+    "surname": "Dennler et Roth",
+    "forename": "",
+    "title": "",
+    "occupation": "Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dennler et Roth, Commerce de Vin."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Wangen",
+    "place": "Wangen",
+    "surname": "Roth",
+    "forename": "Jaques",
+    "title": "",
+    "occupation": "Fabrique de Crin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Roth, Jaques, Fabrique de Crin."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Wangen",
+    "place": "Wangen",
+    "surname": "Strasser",
+    "forename": "",
+    "title": "les frères",
+    "occupation": "Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Strasser, les frères, Commerce de Vin."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Wangen",
+    "place": "Wangen",
+    "surname": "Vogel",
+    "forename": "Jean Rodolphe",
+    "title": "",
+    "occupation": "Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Vogel, Jean Rodolphe, Commerce de Vin."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:00:45+01:00",
+ "last_error": null
+}

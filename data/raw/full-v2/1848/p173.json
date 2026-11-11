@@ -1,0 +1,458 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 173,
+ "section": "einsassen",
+ "started": "2026-11-11T22:11:31+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 90.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 4348,
+  "thoughts": 16004
+ },
+ "response_text": "{\n  \"printed_page\": \"160\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 160 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"5 811 Cölestin Blasius, Glaser, a. Unterehrendingen, K. Aargau\"},\n    {\"n\": 4, \"text\": \"- IV, 80.\"},\n    {\"n\": 5, \"text\": \"Fr. - Magd. Gurtner.\"},\n    {\"n\": 6, \"text\": \"1 S. - 844 Gottlieb.\"},\n    {\"n\": 7, \"text\": \"6 775 Susanna, geb. Siegfried, a. Zofingen, des Professors\"},\n    {\"n\": 8, \"text\": \"Wittwe - II, 154.\"},\n    {\"n\": 9, \"text\": \"1 T. - 809 Franziska.\"},\n    {\"n\": 10, \"text\": \"Sutter.\"},\n    {\"n\": 11, \"text\": \"1 821 Jakob, Sattler, a. Kölliken, K. Aargau - II, 201.\"},\n    {\"n\": 12, \"text\": \"822 Fr. - Rosina Huber.\"},\n    {\"n\": 13, \"text\": \"2 T. - 842 Elis. Emma. - 43 Sophie Elise.\"},\n    {\"n\": 14, \"text\": \"2 793 Niklaus, Metzger, a. Schmiedrued, K. Aargau - II, 144.\"},\n    {\"n\": 15, \"text\": \"Fr. - Barb. Fürst, verw. Badertscher, a. Zäziwyl.\"},\n    {\"n\": 16, \"text\": \"Talmond.\"},\n    {\"n\": 17, \"text\": \"1 810 Samuel Ludwig, Sattler, a. Oppens, K. Waadt - V, 26.\"},\n    {\"n\": 18, \"text\": \"820 Fr. - Anna Sus. Studer a. Langnau.\"},\n    {\"n\": 19, \"text\": \"1 T. - 843 Anna Maria.\"},\n    {\"n\": 20, \"text\": \"Tanner.\"},\n    {\"n\": 21, \"text\": \"1 804 Franz Karl, Schweinmetzger, a. Walkringen - III, 11.\"},\n    {\"n\": 22, \"text\": \"801 Fr. - Verena Leibundgut a. Eriswyl.\"},\n    {\"n\": 23, \"text\": \"3 K. - 837 Verena Maria. - 40 Julie Marg. Emilie.\"},\n    {\"n\": 24, \"text\": \"41 Karl Gottlieb Friedrich.\"},\n    {\"n\": 25, \"text\": \"2 806 Maria Magd., Modiste, a. Walkringen - V, 83.\"},\n    {\"n\": 26, \"text\": \"3 793 Maria Magd., geb. Gerber, Friedrichs des Schweinmetz-\"},\n    {\"n\": 27, \"text\": \"gers W., a. Walkringen - II, 249.\"},\n    {\"n\": 28, \"text\": \"4 807 Johann, Küfer, a. Worb - II, 226.\"},\n    {\"n\": 29, \"text\": \"798 Fr. - Maria Elis. Roux a. Dompierre.\"},\n    {\"n\": 30, \"text\": \"1 T. - 838 Johanna.\"},\n    {\"n\": 31, \"text\": \"Temperli.\"},\n    {\"n\": 32, \"text\": \"1 u. 2 800 Maria Marg. u. 806 Sophie Elisabetha, Schneiderinnen,\"},\n    {\"n\": 33, \"text\": \"a. Volkenschwyl, K. Zürich - III, 75.\"},\n    {\"n\": 34, \"text\": \"Teutsch.\"},\n    {\"n\": 35, \"text\": \"1 786 Kath. Rosina, Puzmacherin, gew. Krämerin, a. Neuen-\"},\n    {\"n\": 36, \"text\": \"stadt - III, 33.\"},\n    {\"n\": 37, \"text\": \"Thaller.\"},\n    {\"n\": 38, \"text\": \"1 796 Anna Barb. Mathys, verw. Zeender, Modiste u. Kostge-\"},\n    {\"n\": 39, \"text\": \"berin, a. Almens, K. Graubündten - IV, 196.\"},\n    {\"n\": 40, \"text\": \"2 810 Anna Maria Kath., Modiste, a. Almens, K. Graubündten\"},\n    {\"n\": 41, \"text\": \"- IV, 196.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Suter\",\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Cölestin Blasius\",\n      \"title\": \"\",\n      \"occupation\": \"Glaser\",\n      \"address\": \"IV, 80\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"80\",\n      \"origin\": \"Unterehrendingen, K. Aargau\",\n      \"birth_year\": \"1811\",\n      \"household\": \"Fr. - Magd. Gurtner. 1 S. - 844 Gottlieb.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 811 Cölestin Blasius, Glaser, a. Unterehrendingen, K. Aargau - IV, 80. Fr. - Magd. Gurtner. 1 S. - 844 Gottlieb.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Suter\",\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Susanna\",\n      \"title\": \"des Professors Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"II, 154\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"154\",\n      \"origin\": \"Zofingen\",\n      \"birth_year\": \"1775\",\n      \"household\": \"1 T. - 809 Franziska.\",\n      \"note\": \"geb. Siegfried; Name aus Zwischentitel\",\n      \"text\": \"6 775 Susanna, geb. Siegfried, a. Zofingen, des Professors Wittwe - II, 154. 1 T. - 809 Franziska.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Sutter\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sutter\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"II, 201\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"201\",\n      \"origin\": \"Kölliken, K. Aargau\",\n      \"birth_year\": \"1821\",\n      \"household\": \"822 Fr. - Rosina Huber. 2 T. - 842 Elis. Emma. - 43 Sophie Elise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 821 Jakob, Sattler, a. Kölliken, K. Aargau - II, 201. 822 Fr. - Rosina Huber. 2 T. - 842 Elis. Emma. - 43 Sophie Elise.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Sutter\",\n      \"place\": \"Bern\",\n      \"surname\": \"Sutter\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Metzger\",\n      \"address\": \"II, 144\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"144\",\n      \"origin\": \"Schmiedrued, K. Aargau\",\n      \"birth_year\": \"1793\",\n      \"household\": \"Fr. - Barb. Fürst, verw. Badertscher, a. Zäziwyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 793 Niklaus, Metzger, a. Schmiedrued, K. Aargau - II, 144. Fr. - Barb. Fürst, verw. Badertscher, a. Zäziwyl.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Talmond\",\n      \"place\": \"Bern\",\n      \"surname\": \"Talmond\",\n      \"forename\": \"Samuel Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Sattler\",\n      \"address\": \"V, 26\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"26\",\n      \"origin\": \"Oppens, K. Waadt\",\n      \"birth_year\": \"1810\",\n      \"household\": \"820 Fr. - Anna Sus. Studer a. Langnau. 1 T. - 843 Anna Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Samuel Ludwig, Sattler, a. Oppens, K. Waadt - V, 26. 820 Fr. - Anna Sus. Studer a. Langnau. 1 T. - 843 Anna Maria.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Tanner\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tanner\",\n      \"forename\": \"Franz Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzger\",\n      \"address\": \"III, 11\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"11\",\n      \"origin\": \"Walkringen\",\n      \"birth_year\": \"1804\",\n      \"household\": \"801 Fr. - Verena Leibundgut a. Eriswyl. 3 K. - 837 Verena Maria. - 40 Julie Marg. Emilie. 41 Karl Gottlieb Friedrich.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Franz Karl, Schweinmetzger, a. Walkringen - III, 11. 801 Fr. - Verena Leibundgut a. Eriswyl. 3 K. - 837 Verena Maria. - 40 Julie Marg. Emilie. 41 Karl Gottlieb Friedrich.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Tanner\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tanner\",\n      \"forename\": \"Maria Magd.\",\n      \"title\": \"\",\n      \"occupation\": \"Modiste\",\n      \"address\": \"V, 83\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"83\",\n      \"origin\": \"Walkringen\",\n      \"birth_year\": \"1806\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 806 Maria Magd., Modiste, a. Walkringen - V, 83.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Tanner\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tanner\",\n      \"forename\": \"Maria Magd.\",\n      \"title\": \"Friedrichs des Schweinmetzgers W.\",\n      \"occupation\": \"\",\n      \"address\": \"II, 249\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"249\",\n      \"origin\": \"Walkringen\",\n      \"birth_year\": \"1793\",\n      \"household\": \"\",\n      \"note\": \"geb. Gerber; Name aus Zwischentitel\",\n      \"text\": \"3 793 Maria Magd., geb. Gerber, Friedrichs des Schweinmetzgers W., a. Walkringen - II, 249.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Tanner\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tanner\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Küfer\",\n      \"address\": \"II, 226\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"226\",\n      \"origin\": \"Worb\",\n      \"birth_year\": \"1807\",\n      \"household\": \"798 Fr. - Maria Elis. Roux a. Dompierre. 1 T. - 838 Johanna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 807 Johann, Küfer, a. Worb - II, 226. 798 Fr. - Maria Elis. Roux a. Dompierre. 1 T. - 838 Johanna.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Temperli\",\n      \"place\": \"Bern\",\n      \"surname\": \"Temperli\",\n      \"forename\": \"Maria Marg. u. Sophie Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderinnen\",\n      \"address\": \"III, 75\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"75\",\n      \"origin\": \"Volkenschwyl, K. Zürich\",\n      \"birth_year\": \"1800, 1806\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 u. 2 800 Maria Marg. u. 806 Sophie Elisabetha, Schneiderinnen, a. Volkenschwyl, K. Zürich - III, 75.\"\n    },\n    {\n      \"line_from\": 35,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Teutsch\",\n      \"place\": \"Bern\",\n      \"surname\": \"Teutsch\",\n      \"forename\": \"Kath. Rosina\",\n      \"title\": \"\",\n      \"occupation\": \"Puzmacherin, gew. Krämerin\",\n      \"address\": \"III, 33\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"33\",\n      \"origin\": \"Neuenstadt\",\n      \"birth_year\": \"1786\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 786 Kath. Rosina, Puzmacherin, gew. Krämerin, a. Neuenstadt - III, 33.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"Thaller\",\n      \"place\": \"Bern\",\n      \"surname\": \"Thaller\",\n      \"forename\": \"Anna Barb.\",\n      \"title\": \"verw. Zeender\",\n      \"occupation\": \"Modiste u. Kostgeberin\",\n      \"address\": \"IV, 196\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"196\",\n      \"origin\": \"Almens, K. Graubündten\",\n      \"birth_year\": \"1796\",\n      \"household\": \"\",\n      \"note\": \"geb. Mathys; Name aus Zwischentitel\",\n      \"text\": \"1 796 Anna Barb. Mathys, verw. Zeender, Modiste u. Kostgeberin, a. Almens, K. Graubündten - IV, 196.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 41,\n      \"kind\": \"person\",\n      \"heading\": \"Thaller\",\n      \"place\": \"Bern\",\n      \"surname\": \"Thaller\",\n      \"forename\": \"Anna Maria Kath.\",\n      \"title\": \"\",\n      \"occupation\": \"Modiste\",\n      \"address\": \"IV, 196\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"196\",\n      \"origin\": \"Almens, K. Graubündten\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 810 Anna Maria Kath., Modiste, a. Almens, K. Graubündten - IV, 196.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "160",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 160 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "5 811 Cölestin Blasius, Glaser, a. Unterehrendingen, K. Aargau"
+   },
+   {
+    "n": 4,
+    "text": "- IV, 80."
+   },
+   {
+    "n": 5,
+    "text": "Fr. - Magd. Gurtner."
+   },
+   {
+    "n": 6,
+    "text": "1 S. - 844 Gottlieb."
+   },
+   {
+    "n": 7,
+    "text": "6 775 Susanna, geb. Siegfried, a. Zofingen, des Professors"
+   },
+   {
+    "n": 8,
+    "text": "Wittwe - II, 154."
+   },
+   {
+    "n": 9,
+    "text": "1 T. - 809 Franziska."
+   },
+   {
+    "n": 10,
+    "text": "Sutter."
+   },
+   {
+    "n": 11,
+    "text": "1 821 Jakob, Sattler, a. Kölliken, K. Aargau - II, 201."
+   },
+   {
+    "n": 12,
+    "text": "822 Fr. - Rosina Huber."
+   },
+   {
+    "n": 13,
+    "text": "2 T. - 842 Elis. Emma. - 43 Sophie Elise."
+   },
+   {
+    "n": 14,
+    "text": "2 793 Niklaus, Metzger, a. Schmiedrued, K. Aargau - II, 144."
+   },
+   {
+    "n": 15,
+    "text": "Fr. - Barb. Fürst, verw. Badertscher, a. Zäziwyl."
+   },
+   {
+    "n": 16,
+    "text": "Talmond."
+   },
+   {
+    "n": 17,
+    "text": "1 810 Samuel Ludwig, Sattler, a. Oppens, K. Waadt - V, 26."
+   },
+   {
+    "n": 18,
+    "text": "820 Fr. - Anna Sus. Studer a. Langnau."
+   },
+   {
+    "n": 19,
+    "text": "1 T. - 843 Anna Maria."
+   },
+   {
+    "n": 20,
+    "text": "Tanner."
+   },
+   {
+    "n": 21,
+    "text": "1 804 Franz Karl, Schweinmetzger, a. Walkringen - III, 11."
+   },
+   {
+    "n": 22,
+    "text": "801 Fr. - Verena Leibundgut a. Eriswyl."
+   },
+   {
+    "n": 23,
+    "text": "3 K. - 837 Verena Maria. - 40 Julie Marg. Emilie."
+   },
+   {
+    "n": 24,
+    "text": "41 Karl Gottlieb Friedrich."
+   },
+   {
+    "n": 25,
+    "text": "2 806 Maria Magd., Modiste, a. Walkringen - V, 83."
+   },
+   {
+    "n": 26,
+    "text": "3 793 Maria Magd., geb. Gerber, Friedrichs des Schweinmetz-"
+   },
+   {
+    "n": 27,
+    "text": "gers W., a. Walkringen - II, 249."
+   },
+   {
+    "n": 28,
+    "text": "4 807 Johann, Küfer, a. Worb - II, 226."
+   },
+   {
+    "n": 29,
+    "text": "798 Fr. - Maria Elis. Roux a. Dompierre."
+   },
+   {
+    "n": 30,
+    "text": "1 T. - 838 Johanna."
+   },
+   {
+    "n": 31,
+    "text": "Temperli."
+   },
+   {
+    "n": 32,
+    "text": "1 u. 2 800 Maria Marg. u. 806 Sophie Elisabetha, Schneiderinnen,"
+   },
+   {
+    "n": 33,
+    "text": "a. Volkenschwyl, K. Zürich - III, 75."
+   },
+   {
+    "n": 34,
+    "text": "Teutsch."
+   },
+   {
+    "n": 35,
+    "text": "1 786 Kath. Rosina, Puzmacherin, gew. Krämerin, a. Neuen-"
+   },
+   {
+    "n": 36,
+    "text": "stadt - III, 33."
+   },
+   {
+    "n": 37,
+    "text": "Thaller."
+   },
+   {
+    "n": 38,
+    "text": "1 796 Anna Barb. Mathys, verw. Zeender, Modiste u. Kostge-"
+   },
+   {
+    "n": 39,
+    "text": "berin, a. Almens, K. Graubündten - IV, 196."
+   },
+   {
+    "n": 40,
+    "text": "2 810 Anna Maria Kath., Modiste, a. Almens, K. Graubündten"
+   },
+   {
+    "n": 41,
+    "text": "- IV, 196."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Suter",
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Cölestin Blasius",
+    "title": "",
+    "occupation": "Glaser",
+    "address": "IV, 80",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "80",
+    "origin": "Unterehrendingen, K. Aargau",
+    "birth_year": "1811",
+    "household": "Fr. - Magd. Gurtner. 1 S. - 844 Gottlieb.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 811 Cölestin Blasius, Glaser, a. Unterehrendingen, K. Aargau - IV, 80. Fr. - Magd. Gurtner. 1 S. - 844 Gottlieb."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Suter",
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Susanna",
+    "title": "des Professors Wittwe",
+    "occupation": "",
+    "address": "II, 154",
+    "quarter": "II",
+    "street": "",
+    "house_no": "154",
+    "origin": "Zofingen",
+    "birth_year": "1775",
+    "household": "1 T. - 809 Franziska.",
+    "note": "geb. Siegfried; Name aus Zwischentitel",
+    "text": "6 775 Susanna, geb. Siegfried, a. Zofingen, des Professors Wittwe - II, 154. 1 T. - 809 Franziska."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Sutter",
+    "place": "Bern",
+    "surname": "Sutter",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "II, 201",
+    "quarter": "II",
+    "street": "",
+    "house_no": "201",
+    "origin": "Kölliken, K. Aargau",
+    "birth_year": "1821",
+    "household": "822 Fr. - Rosina Huber. 2 T. - 842 Elis. Emma. - 43 Sophie Elise.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 821 Jakob, Sattler, a. Kölliken, K. Aargau - II, 201. 822 Fr. - Rosina Huber. 2 T. - 842 Elis. Emma. - 43 Sophie Elise."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Sutter",
+    "place": "Bern",
+    "surname": "Sutter",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Metzger",
+    "address": "II, 144",
+    "quarter": "II",
+    "street": "",
+    "house_no": "144",
+    "origin": "Schmiedrued, K. Aargau",
+    "birth_year": "1793",
+    "household": "Fr. - Barb. Fürst, verw. Badertscher, a. Zäziwyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 793 Niklaus, Metzger, a. Schmiedrued, K. Aargau - II, 144. Fr. - Barb. Fürst, verw. Badertscher, a. Zäziwyl."
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Talmond",
+    "place": "Bern",
+    "surname": "Talmond",
+    "forename": "Samuel Ludwig",
+    "title": "",
+    "occupation": "Sattler",
+    "address": "V, 26",
+    "quarter": "V",
+    "street": "",
+    "house_no": "26",
+    "origin": "Oppens, K. Waadt",
+    "birth_year": "1810",
+    "household": "820 Fr. - Anna Sus. Studer a. Langnau. 1 T. - 843 Anna Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Samuel Ludwig, Sattler, a. Oppens, K. Waadt - V, 26. 820 Fr. - Anna Sus. Studer a. Langnau. 1 T. - 843 Anna Maria."
+   },
+   {
+    "line_from": 21,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Tanner",
+    "place": "Bern",
+    "surname": "Tanner",
+    "forename": "Franz Karl",
+    "title": "",
+    "occupation": "Schweinmetzger",
+    "address": "III, 11",
+    "quarter": "III",
+    "street": "",
+    "house_no": "11",
+    "origin": "Walkringen",
+    "birth_year": "1804",
+    "household": "801 Fr. - Verena Leibundgut a. Eriswyl. 3 K. - 837 Verena Maria. - 40 Julie Marg. Emilie. 41 Karl Gottlieb Friedrich.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Franz Karl, Schweinmetzger, a. Walkringen - III, 11. 801 Fr. - Verena Leibundgut a. Eriswyl. 3 K. - 837 Verena Maria. - 40 Julie Marg. Emilie. 41 Karl Gottlieb Friedrich."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Tanner",
+    "place": "Bern",
+    "surname": "Tanner",
+    "forename": "Maria Magd.",
+    "title": "",
+    "occupation": "Modiste",
+    "address": "V, 83",
+    "quarter": "V",
+    "street": "",
+    "house_no": "83",
+    "origin": "Walkringen",
+    "birth_year": "1806",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 806 Maria Magd., Modiste, a. Walkringen - V, 83."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Tanner",
+    "place": "Bern",
+    "surname": "Tanner",
+    "forename": "Maria Magd.",
+    "title": "Friedrichs des Schweinmetzgers W.",
+    "occupation": "",
+    "address": "II, 249",
+    "quarter": "II",
+    "street": "",
+    "house_no": "249",
+    "origin": "Walkringen",
+    "birth_year": "1793",
+    "household": "",
+    "note": "geb. Gerber; Name aus Zwischentitel",
+    "text": "3 793 Maria Magd., geb. Gerber, Friedrichs des Schweinmetzgers W., a. Walkringen - II, 249."
+   },
+   {
+    "line_from": 28,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Tanner",
+    "place": "Bern",
+    "surname": "Tanner",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Küfer",
+    "address": "II, 226",
+    "quarter": "II",
+    "street": "",
+    "house_no": "226",
+    "origin": "Worb",
+    "birth_year": "1807",
+    "household": "798 Fr. - Maria Elis. Roux a. Dompierre. 1 T. - 838 Johanna.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 807 Johann, Küfer, a. Worb - II, 226. 798 Fr. - Maria Elis. Roux a. Dompierre. 1 T. - 838 Johanna."
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Temperli",
+    "place": "Bern",
+    "surname": "Temperli",
+    "forename": "Maria Marg. u. Sophie Elisabetha",
+    "title": "",
+    "occupation": "Schneiderinnen",
+    "address": "III, 75",
+    "quarter": "III",
+    "street": "",
+    "house_no": "75",
+    "origin": "Volkenschwyl, K. Zürich",
+    "birth_year": "1800, 1806",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 u. 2 800 Maria Marg. u. 806 Sophie Elisabetha, Schneiderinnen, a. Volkenschwyl, K. Zürich - III, 75."
+   },
+   {
+    "line_from": 35,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Teutsch",
+    "place": "Bern",
+    "surname": "Teutsch",
+    "forename": "Kath. Rosina",
+    "title": "",
+    "occupation": "Puzmacherin, gew. Krämerin",
+    "address": "III, 33",
+    "quarter": "III",
+    "street": "",
+    "house_no": "33",
+    "origin": "Neuenstadt",
+    "birth_year": "1786",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 786 Kath. Rosina, Puzmacherin, gew. Krämerin, a. Neuenstadt - III, 33."
+   },
+   {
+    "line_from": 38,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "Thaller",
+    "place": "Bern",
+    "surname": "Thaller",
+    "forename": "Anna Barb.",
+    "title": "verw. Zeender",
+    "occupation": "Modiste u. Kostgeberin",
+    "address": "IV, 196",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "196",
+    "origin": "Almens, K. Graubündten",
+    "birth_year": "1796",
+    "household": "",
+    "note": "geb. Mathys; Name aus Zwischentitel",
+    "text": "1 796 Anna Barb. Mathys, verw. Zeender, Modiste u. Kostgeberin, a. Almens, K. Graubündten - IV, 196."
+   },
+   {
+    "line_from": 40,
+    "line_to": 41,
+    "kind": "person",
+    "heading": "Thaller",
+    "place": "Bern",
+    "surname": "Thaller",
+    "forename": "Anna Maria Kath.",
+    "title": "",
+    "occupation": "Modiste",
+    "address": "IV, 196",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "196",
+    "origin": "Almens, K. Graubündten",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "2 810 Anna Maria Kath., Modiste, a. Almens, K. Graubündten - IV, 196."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:13:02+01:00",
+ "last_error": null
+}

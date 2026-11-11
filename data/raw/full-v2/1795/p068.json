@@ -1,0 +1,234 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 68,
+ "section": "fortsetzung",
+ "started": "2026-11-11T20:53:43+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 24.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2297,
+  "output": 1615,
+  "thoughts": 1587
+ },
+ "response_text": "{\n  \"printed_page\": \"68\",\n  \"running_head\": \"Bern.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"68 Bern.\"},\n    {\"n\": 2, \"text\": \"Nachricht.\"},\n    {\"n\": 3, \"text\": \"Herr Notarius Wiegsam neben dem Kauf-\"},\n    {\"n\": 4, \"text\": \"haus gegen die Metzgergasse, in Bern — hält ein\"},\n    {\"n\": 5, \"text\": \"Korrespondenzkomptor in alle Distrikte des Berner-\"},\n    {\"n\": 6, \"text\": \"kantons. Er besorgt auch rechtliche Einkassierung aus-\"},\n    {\"n\": 7, \"text\": \"stehender Gelder. — Negoziert Darlehn und wendet\"},\n    {\"n\": 8, \"text\": \"hinwieder auch Baarschaften an. — Hält dabey für\"},\n    {\"n\": 9, \"text\": \"das arbeitende und spekulative Publikum, zur Be-\"},\n    {\"n\": 10, \"text\": \"förderung der Industrie, eine von ihm selbst eta-\"},\n    {\"n\": 11, \"text\": \"blierte Leih- und Vorschußkasse, um kleine Summen\"},\n    {\"n\": 12, \"text\": \"auf monatliche Termine.\"},\n    {\"n\": 13, \"text\": \"Kanton Bern.\"},\n    {\"n\": 14, \"text\": \"Burgdorf.\"},\n    {\"n\": 15, \"text\": \"Herr\"},\n    {\"n\": 16, \"text\": \"Christian Tellenbach, Uhrenmacher und Me-\"},\n    {\"n\": 17, \"text\": \"chanikus, macht auch Kirchenuhren.\"},\n    {\"n\": 18, \"text\": \"Joh. Jakob Grimm und Leu, haben eine\"},\n    {\"n\": 19, \"text\": \"Weinhandlung.\"},\n    {\"n\": 20, \"text\": \"Joseph Friedrich Heggi & Comp. Weinhändler.\"},\n    {\"n\": 21, \"text\": \"Von dem Mechanikus Caspar Widmer zu\"},\n    {\"n\": 22, \"text\": \"Heimiswyl ist noch zu bemerken, daß dieser Künst-\"},\n    {\"n\": 23, \"text\": \"ler ein seltenes mechanisches Genie ist, der ohne\"},\n    {\"n\": 24, \"text\": \"einigen Unterricht seine ganze Wissenschaft von sich\"},\n    {\"n\": 25, \"text\": \"selbst lernte.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Nachricht.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Wiegsam\",\n      \"forename\": \"\",\n      \"title\": \"Herr Notarius\",\n      \"occupation\": \"Notarius\",\n      \"address\": \"neben dem Kaufhaus gegen die Metzgergasse\",\n      \"quarter\": \"\",\n      \"street\": \"Metzgergasse\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Notarius Wiegsam neben dem Kaufhaus gegen die Metzgergasse, in Bern — hält ein Korrespondenzkomptor in alle Distrikte des Bernerkantons. Er besorgt auch rechtliche Einkassierung ausstehender Gelder. — Negoziert Darlehn und wendet hinwieder auch Baarschaften an. — Hält dabey für das arbeitende und spekulative Publikum, zur Beförderung der Industrie, eine von ihm selbst etablierte Leih- und Vorschußkasse, um kleine Summen auf monatliche Termine.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Tellenbach\",\n      \"forename\": \"Christian\",\n      \"title\": \"Herr\",\n      \"occupation\": \"Uhrenmacher und Mechanikus, macht auch Kirchenuhren\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herr Christian Tellenbach, Uhrenmacher und Mechanikus, macht auch Kirchenuhren.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Grimm und Leu\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Weinhandlung\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joh. Jakob Grimm und Leu, haben eine Weinhandlung.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"firma\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Heggi\",\n      \"forename\": \"Joseph Friedrich\",\n      \"title\": \"& Comp.\",\n      \"occupation\": \"Weinhändler\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Joseph Friedrich Heggi & Comp. Weinhändler.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Burgdorf\",\n      \"place\": \"Burgdorf\",\n      \"surname\": \"Widmer\",\n      \"forename\": \"Caspar\",\n      \"title\": \"\",\n      \"occupation\": \"Mechanikus\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"zu Heimiswyl\",\n      \"text\": \"Von dem Mechanikus Caspar Widmer zu Heimiswyl ist noch zu bemerken, daß dieser Künstler ein seltenes mechanisches Genie ist, der ohne einigen Unterricht seine ganze Wissenschaft von sich selbst lernte.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "68",
+  "running_head": "Bern.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "68 Bern."
+   },
+   {
+    "n": 2,
+    "text": "Nachricht."
+   },
+   {
+    "n": 3,
+    "text": "Herr Notarius Wiegsam neben dem Kauf-"
+   },
+   {
+    "n": 4,
+    "text": "haus gegen die Metzgergasse, in Bern — hält ein"
+   },
+   {
+    "n": 5,
+    "text": "Korrespondenzkomptor in alle Distrikte des Berner-"
+   },
+   {
+    "n": 6,
+    "text": "kantons. Er besorgt auch rechtliche Einkassierung aus-"
+   },
+   {
+    "n": 7,
+    "text": "stehender Gelder. — Negoziert Darlehn und wendet"
+   },
+   {
+    "n": 8,
+    "text": "hinwieder auch Baarschaften an. — Hält dabey für"
+   },
+   {
+    "n": 9,
+    "text": "das arbeitende und spekulative Publikum, zur Be-"
+   },
+   {
+    "n": 10,
+    "text": "förderung der Industrie, eine von ihm selbst eta-"
+   },
+   {
+    "n": 11,
+    "text": "blierte Leih- und Vorschußkasse, um kleine Summen"
+   },
+   {
+    "n": 12,
+    "text": "auf monatliche Termine."
+   },
+   {
+    "n": 13,
+    "text": "Kanton Bern."
+   },
+   {
+    "n": 14,
+    "text": "Burgdorf."
+   },
+   {
+    "n": 15,
+    "text": "Herr"
+   },
+   {
+    "n": 16,
+    "text": "Christian Tellenbach, Uhrenmacher und Me-"
+   },
+   {
+    "n": 17,
+    "text": "chanikus, macht auch Kirchenuhren."
+   },
+   {
+    "n": 18,
+    "text": "Joh. Jakob Grimm und Leu, haben eine"
+   },
+   {
+    "n": 19,
+    "text": "Weinhandlung."
+   },
+   {
+    "n": 20,
+    "text": "Joseph Friedrich Heggi & Comp. Weinhändler."
+   },
+   {
+    "n": 21,
+    "text": "Von dem Mechanikus Caspar Widmer zu"
+   },
+   {
+    "n": 22,
+    "text": "Heimiswyl ist noch zu bemerken, daß dieser Künst-"
+   },
+   {
+    "n": 23,
+    "text": "ler ein seltenes mechanisches Genie ist, der ohne"
+   },
+   {
+    "n": 24,
+    "text": "einigen Unterricht seine ganze Wissenschaft von sich"
+   },
+   {
+    "n": 25,
+    "text": "selbst lernte."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Nachricht.",
+    "place": "Bern",
+    "surname": "Wiegsam",
+    "forename": "",
+    "title": "Herr Notarius",
+    "occupation": "Notarius",
+    "address": "neben dem Kaufhaus gegen die Metzgergasse",
+    "quarter": "",
+    "street": "Metzgergasse",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Notarius Wiegsam neben dem Kaufhaus gegen die Metzgergasse, in Bern — hält ein Korrespondenzkomptor in alle Distrikte des Bernerkantons. Er besorgt auch rechtliche Einkassierung ausstehender Gelder. — Negoziert Darlehn und wendet hinwieder auch Baarschaften an. — Hält dabey für das arbeitende und spekulative Publikum, zur Beförderung der Industrie, eine von ihm selbst etablierte Leih- und Vorschußkasse, um kleine Summen auf monatliche Termine."
+   },
+   {
+    "line_from": 15,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Tellenbach",
+    "forename": "Christian",
+    "title": "Herr",
+    "occupation": "Uhrenmacher und Mechanikus, macht auch Kirchenuhren",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herr Christian Tellenbach, Uhrenmacher und Mechanikus, macht auch Kirchenuhren."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Grimm und Leu",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Weinhandlung",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joh. Jakob Grimm und Leu, haben eine Weinhandlung."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "firma",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Heggi",
+    "forename": "Joseph Friedrich",
+    "title": "& Comp.",
+    "occupation": "Weinhändler",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Joseph Friedrich Heggi & Comp. Weinhändler."
+   },
+   {
+    "line_from": 21,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Burgdorf",
+    "place": "Burgdorf",
+    "surname": "Widmer",
+    "forename": "Caspar",
+    "title": "",
+    "occupation": "Mechanikus",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "zu Heimiswyl",
+    "text": "Von dem Mechanikus Caspar Widmer zu Heimiswyl ist noch zu bemerken, daß dieser Künstler ein seltenes mechanisches Genie ist, der ohne einigen Unterricht seine ganze Wissenschaft von sich selbst lernte."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:54:08+01:00",
+ "last_error": null
+}

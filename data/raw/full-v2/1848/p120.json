@@ -1,0 +1,538 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 120,
+ "section": "einsassen",
+ "started": "2026-11-11T22:06:06+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 67.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 5125,
+  "thoughts": 5703
+ },
+ "response_text": "{\n  \"printed_page\": \"107\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 107 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"4 817 Heinrich, Schreiner, a. Hüntwang, K. Zürich - II, 61.\"},\n    {\"n\": 4, \"text\": \"815 Fr. - Johanna Dorothea Wettstein.\"},\n    {\"n\": 5, \"text\": \"5 803 Johann, Pintenwirth, a. Grindelwald - II, 190 a.\"},\n    {\"n\": 6, \"text\": \"800 Fr. - Kath. Bieri.\"},\n    {\"n\": 7, \"text\": \"6 793 Friedrich, Rentier, a. Aarau - V, 130.\"},\n    {\"n\": 8, \"text\": \"2 K. - 816 Friedr. Julius Heinrich. - 818 Maria Louise.\"},\n    {\"n\": 9, \"text\": \"7 Joh. Christian, Handelsmann, a. Basel, Associirter von\"},\n    {\"n\": 10, \"text\": \"Bechert u. Meier (hält sich in Basel auf).\"},\n    {\"n\": 11, \"text\": \"Fr. - Elise Bischoff.\"},\n    {\"n\": 12, \"text\": \"8 816 Friedr. Julius, gew. Spezierer, a. Aarau - II, 5 b.\"},\n    {\"n\": 13, \"text\": \"812 Fr. - Sus. Ritter a. Unterseen.\"},\n    {\"n\": 14, \"text\": \"9 815 Joh. Jakob, Handlungscommis, a. Schaffhausen - V, 117.\"},\n    {\"n\": 15, \"text\": \"820 Fr. - Joh. Maria Liebi a. Thun.\"},\n    {\"n\": 16, \"text\": \"10 Joseph, Negotiant, a. Falkau in Baden - IV, 220.\"},\n    {\"n\": 17, \"text\": \"11 Franz Anton, Schneider, a. Mahlberg in Baden - V, 28.\"},\n    {\"n\": 18, \"text\": \"Mezger.\"},\n    {\"n\": 19, \"text\": \"1 815 Armand Sigmund, Privatlehrer, a. Zuzendorf im Elsaß\"},\n    {\"n\": 20, \"text\": \"- V, 136.\"},\n    {\"n\": 21, \"text\": \"828 Fr. II Ehe. - Anna Barb. Elis. Sommer a. Sumiswald.\"},\n    {\"n\": 22, \"text\": \"1 T. I Ehe. - 843 Karolina.\"},\n    {\"n\": 23, \"text\": \"Michaud.\"},\n    {\"n\": 24, \"text\": \"1 791 Louis Gabr., Leistabwart, a. Perreyres, K. Waadt - III, 43.\"},\n    {\"n\": 25, \"text\": \"792 Fr. - Julie Louise Lancey a. Ballorbes.\"},\n    {\"n\": 26, \"text\": \"1 S. - 827 Louis Gabriel.\"},\n    {\"n\": 27, \"text\": \"Michel.\"},\n    {\"n\": 28, \"text\": \"1 802 Johann, Schuhmacher, a. Brienz - V, 144 u. 145.\"},\n    {\"n\": 29, \"text\": \"807 Fr. - Sus. Zimmermann a. Wattenwyl.\"},\n    {\"n\": 30, \"text\": \"Milliet.\"},\n    {\"n\": 31, \"text\": \"1 802 J. François Amédé, Schreiber, a. Cudrefin, K. Waadt\"},\n    {\"n\": 32, \"text\": \"- II, 53.\"},\n    {\"n\": 33, \"text\": \"813 Fr. - Anna Lüscher.\"},\n    {\"n\": 34, \"text\": \"4 K. - 838 Sophie Elis. Franziska. - 40 Anna Charlotte\"},\n    {\"n\": 35, \"text\": \"Rosalie. - 42 Maria Louise Bertha. - 45 François\"},\n    {\"n\": 36, \"text\": \"Robert Rodolphe.\"},\n    {\"n\": 37, \"text\": \"Minder.\"},\n    {\"n\": 38, \"text\": \"1 789 Niklaus, Holzschuhmacher, a. Kirchberg - I, 215 c.\"},\n    {\"n\": 39, \"text\": \"792 Fr. - Anna Maria Affolter a. Koppigen.\"},\n    {\"n\": 40, \"text\": \"2 K. - 810 Jakob. - 20 Elisabetha.\"},\n    {\"n\": 41, \"text\": \"2 806 Anna Barbara, geb. Horrisberger, a. Huttwyl, Schuh-\"},\n    {\"n\": 42, \"text\": \"flickerin - I, 20.\"},\n    {\"n\": 43, \"text\": \"2 S. - 833 Johann. - 40 Gottfried.\"},\n    {\"n\": 44, \"text\": \"3 803 Elisabetha, Kostgeberin, a. Bätterkinden - II, 102.\"},\n    {\"n\": 45, \"text\": \"4 823 Niklaus Friedrich, Schuhmacher, a. Bätterkinden - II, 117.\"},\n    {\"n\": 46, \"text\": \"820 Fr. - Maria Anna Sigrist a. Niederwyl, K. Aargau.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"II, 61\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"61\",\n      \"origin\": \"Hüntwang, K. Zürich\",\n      \"birth_year\": \"1817\",\n      \"household\": \"815 Fr. - Johanna Dorothea Wettstein.\",\n      \"note\": \"\",\n      \"text\": \"4 817 Heinrich, Schreiner, a. Hüntwang, K. Zürich - II, 61. 815 Fr. - Johanna Dorothea Wettstein.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirth\",\n      \"address\": \"II, 190 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"190 a\",\n      \"origin\": \"Grindelwald\",\n      \"birth_year\": \"1803\",\n      \"household\": \"800 Fr. - Kath. Bieri.\",\n      \"note\": \"\",\n      \"text\": \"5 803 Johann, Pintenwirth, a. Grindelwald - II, 190 a. 800 Fr. - Kath. Bieri.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Rentier\",\n      \"address\": \"V, 130\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"130\",\n      \"origin\": \"Aarau\",\n      \"birth_year\": \"1793\",\n      \"household\": \"2 K. - 816 Friedr. Julius Heinrich. - 818 Maria Louise.\",\n      \"note\": \"\",\n      \"text\": \"6 793 Friedrich, Rentier, a. Aarau - V, 130. 2 K. - 816 Friedr. Julius Heinrich. - 818 Maria Louise.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Joh. Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"Basel\",\n      \"birth_year\": \"\",\n      \"household\": \"Fr. - Elise Bischoff.\",\n      \"note\": \"Associirter von Bechert u. Meier (hält sich in Basel auf).\",\n      \"text\": \"7 Joh. Christian, Handelsmann, a. Basel, Associirter von Bechert u. Meier (hält sich in Basel auf). Fr. - Elise Bischoff.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Friedr. Julius\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Spezierer\",\n      \"address\": \"II, 5 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"5 b\",\n      \"origin\": \"Aarau\",\n      \"birth_year\": \"1816\",\n      \"household\": \"812 Fr. - Sus. Ritter a. Unterseen.\",\n      \"note\": \"\",\n      \"text\": \"8 816 Friedr. Julius, gew. Spezierer, a. Aarau - II, 5 b. 812 Fr. - Sus. Ritter a. Unterseen.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Joh. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Handlungscommis\",\n      \"address\": \"V, 117\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"117\",\n      \"origin\": \"Schaffhausen\",\n      \"birth_year\": \"1815\",\n      \"household\": \"820 Fr. - Joh. Maria Liebi a. Thun.\",\n      \"note\": \"\",\n      \"text\": \"9 815 Joh. Jakob, Handlungscommis, a. Schaffhausen - V, 117. 820 Fr. - Joh. Maria Liebi a. Thun.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Negotiant\",\n      \"address\": \"IV, 220\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"220\",\n      \"origin\": \"Falkau in Baden\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"10 Joseph, Negotiant, a. Falkau in Baden - IV, 220.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Bern\",\n      \"surname\": \"\",\n      \"forename\": \"Franz Anton\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"V, 28\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"28\",\n      \"origin\": \"Mahlberg in Baden\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"11 Franz Anton, Schneider, a. Mahlberg in Baden - V, 28.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Mezger\",\n      \"place\": \"Bern\",\n      \"surname\": \"Mezger\",\n      \"forename\": \"Armand Sigmund\",\n      \"title\": \"\",\n      \"occupation\": \"Privatlehrer\",\n      \"address\": \"V, 136\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"136\",\n      \"origin\": \"Zuzendorf im Elsaß\",\n      \"birth_year\": \"1815\",\n      \"household\": \"828 Fr. II Ehe. - Anna Barb. Elis. Sommer a. Sumiswald. 1 T. I Ehe. - 843 Karolina.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 815 Armand Sigmund, Privatlehrer, a. Zuzendorf im Elsaß - V, 136. 828 Fr. II Ehe. - Anna Barb. Elis. Sommer a. Sumiswald. 1 T. I Ehe. - 843 Karolina.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Michaud\",\n      \"place\": \"Bern\",\n      \"surname\": \"Michaud\",\n      \"forename\": \"Louis Gabr.\",\n      \"title\": \"\",\n      \"occupation\": \"Leistabwart\",\n      \"address\": \"III, 43\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"43\",\n      \"origin\": \"Perreyres, K. Waadt\",\n      \"birth_year\": \"1791\",\n      \"household\": \"792 Fr. - Julie Louise Lancey a. Ballorbes. 1 S. - 827 Louis Gabriel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 791 Louis Gabr., Leistabwart, a. Perreyres, K. Waadt - III, 43. 792 Fr. - Julie Louise Lancey a. Ballorbes. 1 S. - 827 Louis Gabriel.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Michel\",\n      \"place\": \"Bern\",\n      \"surname\": \"Michel\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"V, 144 u. 145\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"144 u. 145\",\n      \"origin\": \"Brienz\",\n      \"birth_year\": \"1802\",\n      \"household\": \"807 Fr. - Sus. Zimmermann a. Wattenwyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Johann, Schuhmacher, a. Brienz - V, 144 u. 145. 807 Fr. - Sus. Zimmermann a. Wattenwyl.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 36,\n      \"kind\": \"person\",\n      \"heading\": \"Milliet\",\n      \"place\": \"Bern\",\n      \"surname\": \"Milliet\",\n      \"forename\": \"J. François Amédé\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"II, 53\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"53\",\n      \"origin\": \"Cudrefin, K. Waadt\",\n      \"birth_year\": \"1802\",\n      \"household\": \"813 Fr. - Anna Lüscher. 4 K. - 838 Sophie Elis. Franziska. - 40 Anna Charlotte Rosalie. - 42 Maria Louise Bertha. - 45 François Robert Rodolphe.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 J. François Amédé, Schreiber, a. Cudrefin, K. Waadt - II, 53. 813 Fr. - Anna Lüscher. 4 K. - 838 Sophie Elis. Franziska. - 40 Anna Charlotte Rosalie. - 42 Maria Louise Bertha. - 45 François Robert Rodolphe.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Minder\",\n      \"place\": \"Bern\",\n      \"surname\": \"Minder\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Holzschuhmacher\",\n      \"address\": \"I, 215 c\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215 c\",\n      \"origin\": \"Kirchberg\",\n      \"birth_year\": \"1789\",\n      \"household\": \"792 Fr. - Anna Maria Affolter a. Koppigen. 2 K. - 810 Jakob. - 20 Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 789 Niklaus, Holzschuhmacher, a. Kirchberg - I, 215 c. 792 Fr. - Anna Maria Affolter a. Koppigen. 2 K. - 810 Jakob. - 20 Elisabetha.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Minder\",\n      \"place\": \"Bern\",\n      \"surname\": \"Minder\",\n      \"forename\": \"Anna Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhflickerin\",\n      \"address\": \"I, 20\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"20\",\n      \"origin\": \"Huttwyl\",\n      \"birth_year\": \"1806\",\n      \"household\": \"2 S. - 833 Johann. - 40 Gottfried.\",\n      \"note\": \"geb. Horrisberger; Name aus Zwischentitel\",\n      \"text\": \"2 806 Anna Barbara, geb. Horrisberger, a. Huttwyl, Schuhflickerin - I, 20. 2 S. - 833 Johann. - 40 Gottfried.\"\n    },\n    {\n      \"line_from\": 44,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"Minder\",\n      \"place\": \"Bern\",\n      \"surname\": \"Minder\",\n      \"forename\": \"Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"Kostgeberin\",\n      \"address\": \"II, 102\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"102\",\n      \"origin\": \"Bätterkinden\",\n      \"birth_year\": \"1803\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 803 Elisabetha, Kostgeberin, a. Bätterkinden - II, 102.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"Minder\",\n      \"place\": \"Bern\",\n      \"surname\": \"Minder\",\n      \"forename\": \"Niklaus Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"II, 117\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"117\",\n      \"origin\": \"Bätterkinden\",\n      \"birth_year\": \"1823\",\n      \"household\": \"820 Fr. - Maria Anna Sigrist a. Niederwyl, K. Aargau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 823 Niklaus Friedrich, Schuhmacher, a. Bätterkinden - II, 117. 820 Fr. - Maria Anna Sigrist a. Niederwyl, K. Aargau.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "107",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 107 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "4 817 Heinrich, Schreiner, a. Hüntwang, K. Zürich - II, 61."
+   },
+   {
+    "n": 4,
+    "text": "815 Fr. - Johanna Dorothea Wettstein."
+   },
+   {
+    "n": 5,
+    "text": "5 803 Johann, Pintenwirth, a. Grindelwald - II, 190 a."
+   },
+   {
+    "n": 6,
+    "text": "800 Fr. - Kath. Bieri."
+   },
+   {
+    "n": 7,
+    "text": "6 793 Friedrich, Rentier, a. Aarau - V, 130."
+   },
+   {
+    "n": 8,
+    "text": "2 K. - 816 Friedr. Julius Heinrich. - 818 Maria Louise."
+   },
+   {
+    "n": 9,
+    "text": "7 Joh. Christian, Handelsmann, a. Basel, Associirter von"
+   },
+   {
+    "n": 10,
+    "text": "Bechert u. Meier (hält sich in Basel auf)."
+   },
+   {
+    "n": 11,
+    "text": "Fr. - Elise Bischoff."
+   },
+   {
+    "n": 12,
+    "text": "8 816 Friedr. Julius, gew. Spezierer, a. Aarau - II, 5 b."
+   },
+   {
+    "n": 13,
+    "text": "812 Fr. - Sus. Ritter a. Unterseen."
+   },
+   {
+    "n": 14,
+    "text": "9 815 Joh. Jakob, Handlungscommis, a. Schaffhausen - V, 117."
+   },
+   {
+    "n": 15,
+    "text": "820 Fr. - Joh. Maria Liebi a. Thun."
+   },
+   {
+    "n": 16,
+    "text": "10 Joseph, Negotiant, a. Falkau in Baden - IV, 220."
+   },
+   {
+    "n": 17,
+    "text": "11 Franz Anton, Schneider, a. Mahlberg in Baden - V, 28."
+   },
+   {
+    "n": 18,
+    "text": "Mezger."
+   },
+   {
+    "n": 19,
+    "text": "1 815 Armand Sigmund, Privatlehrer, a. Zuzendorf im Elsaß"
+   },
+   {
+    "n": 20,
+    "text": "- V, 136."
+   },
+   {
+    "n": 21,
+    "text": "828 Fr. II Ehe. - Anna Barb. Elis. Sommer a. Sumiswald."
+   },
+   {
+    "n": 22,
+    "text": "1 T. I Ehe. - 843 Karolina."
+   },
+   {
+    "n": 23,
+    "text": "Michaud."
+   },
+   {
+    "n": 24,
+    "text": "1 791 Louis Gabr., Leistabwart, a. Perreyres, K. Waadt - III, 43."
+   },
+   {
+    "n": 25,
+    "text": "792 Fr. - Julie Louise Lancey a. Ballorbes."
+   },
+   {
+    "n": 26,
+    "text": "1 S. - 827 Louis Gabriel."
+   },
+   {
+    "n": 27,
+    "text": "Michel."
+   },
+   {
+    "n": 28,
+    "text": "1 802 Johann, Schuhmacher, a. Brienz - V, 144 u. 145."
+   },
+   {
+    "n": 29,
+    "text": "807 Fr. - Sus. Zimmermann a. Wattenwyl."
+   },
+   {
+    "n": 30,
+    "text": "Milliet."
+   },
+   {
+    "n": 31,
+    "text": "1 802 J. François Amédé, Schreiber, a. Cudrefin, K. Waadt"
+   },
+   {
+    "n": 32,
+    "text": "- II, 53."
+   },
+   {
+    "n": 33,
+    "text": "813 Fr. - Anna Lüscher."
+   },
+   {
+    "n": 34,
+    "text": "4 K. - 838 Sophie Elis. Franziska. - 40 Anna Charlotte"
+   },
+   {
+    "n": 35,
+    "text": "Rosalie. - 42 Maria Louise Bertha. - 45 François"
+   },
+   {
+    "n": 36,
+    "text": "Robert Rodolphe."
+   },
+   {
+    "n": 37,
+    "text": "Minder."
+   },
+   {
+    "n": 38,
+    "text": "1 789 Niklaus, Holzschuhmacher, a. Kirchberg - I, 215 c."
+   },
+   {
+    "n": 39,
+    "text": "792 Fr. - Anna Maria Affolter a. Koppigen."
+   },
+   {
+    "n": 40,
+    "text": "2 K. - 810 Jakob. - 20 Elisabetha."
+   },
+   {
+    "n": 41,
+    "text": "2 806 Anna Barbara, geb. Horrisberger, a. Huttwyl, Schuh-"
+   },
+   {
+    "n": 42,
+    "text": "flickerin - I, 20."
+   },
+   {
+    "n": 43,
+    "text": "2 S. - 833 Johann. - 40 Gottfried."
+   },
+   {
+    "n": 44,
+    "text": "3 803 Elisabetha, Kostgeberin, a. Bätterkinden - II, 102."
+   },
+   {
+    "n": 45,
+    "text": "4 823 Niklaus Friedrich, Schuhmacher, a. Bätterkinden - II, 117."
+   },
+   {
+    "n": 46,
+    "text": "820 Fr. - Maria Anna Sigrist a. Niederwyl, K. Aargau."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Heinrich",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "II, 61",
+    "quarter": "II",
+    "street": "",
+    "house_no": "61",
+    "origin": "Hüntwang, K. Zürich",
+    "birth_year": "1817",
+    "household": "815 Fr. - Johanna Dorothea Wettstein.",
+    "note": "",
+    "text": "4 817 Heinrich, Schreiner, a. Hüntwang, K. Zürich - II, 61. 815 Fr. - Johanna Dorothea Wettstein."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Pintenwirth",
+    "address": "II, 190 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "190 a",
+    "origin": "Grindelwald",
+    "birth_year": "1803",
+    "household": "800 Fr. - Kath. Bieri.",
+    "note": "",
+    "text": "5 803 Johann, Pintenwirth, a. Grindelwald - II, 190 a. 800 Fr. - Kath. Bieri."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Rentier",
+    "address": "V, 130",
+    "quarter": "V",
+    "street": "",
+    "house_no": "130",
+    "origin": "Aarau",
+    "birth_year": "1793",
+    "household": "2 K. - 816 Friedr. Julius Heinrich. - 818 Maria Louise.",
+    "note": "",
+    "text": "6 793 Friedrich, Rentier, a. Aarau - V, 130. 2 K. - 816 Friedr. Julius Heinrich. - 818 Maria Louise."
+   },
+   {
+    "line_from": 9,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Joh. Christian",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "Basel",
+    "birth_year": "",
+    "household": "Fr. - Elise Bischoff.",
+    "note": "Associirter von Bechert u. Meier (hält sich in Basel auf).",
+    "text": "7 Joh. Christian, Handelsmann, a. Basel, Associirter von Bechert u. Meier (hält sich in Basel auf). Fr. - Elise Bischoff."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Friedr. Julius",
+    "title": "",
+    "occupation": "gew. Spezierer",
+    "address": "II, 5 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "5 b",
+    "origin": "Aarau",
+    "birth_year": "1816",
+    "household": "812 Fr. - Sus. Ritter a. Unterseen.",
+    "note": "",
+    "text": "8 816 Friedr. Julius, gew. Spezierer, a. Aarau - II, 5 b. 812 Fr. - Sus. Ritter a. Unterseen."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Joh. Jakob",
+    "title": "",
+    "occupation": "Handlungscommis",
+    "address": "V, 117",
+    "quarter": "V",
+    "street": "",
+    "house_no": "117",
+    "origin": "Schaffhausen",
+    "birth_year": "1815",
+    "household": "820 Fr. - Joh. Maria Liebi a. Thun.",
+    "note": "",
+    "text": "9 815 Joh. Jakob, Handlungscommis, a. Schaffhausen - V, 117. 820 Fr. - Joh. Maria Liebi a. Thun."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Negotiant",
+    "address": "IV, 220",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "220",
+    "origin": "Falkau in Baden",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "10 Joseph, Negotiant, a. Falkau in Baden - IV, 220."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "",
+    "place": "Bern",
+    "surname": "",
+    "forename": "Franz Anton",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "V, 28",
+    "quarter": "V",
+    "street": "",
+    "house_no": "28",
+    "origin": "Mahlberg in Baden",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "11 Franz Anton, Schneider, a. Mahlberg in Baden - V, 28."
+   },
+   {
+    "line_from": 18,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Mezger",
+    "place": "Bern",
+    "surname": "Mezger",
+    "forename": "Armand Sigmund",
+    "title": "",
+    "occupation": "Privatlehrer",
+    "address": "V, 136",
+    "quarter": "V",
+    "street": "",
+    "house_no": "136",
+    "origin": "Zuzendorf im Elsaß",
+    "birth_year": "1815",
+    "household": "828 Fr. II Ehe. - Anna Barb. Elis. Sommer a. Sumiswald. 1 T. I Ehe. - 843 Karolina.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 815 Armand Sigmund, Privatlehrer, a. Zuzendorf im Elsaß - V, 136. 828 Fr. II Ehe. - Anna Barb. Elis. Sommer a. Sumiswald. 1 T. I Ehe. - 843 Karolina."
+   },
+   {
+    "line_from": 23,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Michaud",
+    "place": "Bern",
+    "surname": "Michaud",
+    "forename": "Louis Gabr.",
+    "title": "",
+    "occupation": "Leistabwart",
+    "address": "III, 43",
+    "quarter": "III",
+    "street": "",
+    "house_no": "43",
+    "origin": "Perreyres, K. Waadt",
+    "birth_year": "1791",
+    "household": "792 Fr. - Julie Louise Lancey a. Ballorbes. 1 S. - 827 Louis Gabriel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 791 Louis Gabr., Leistabwart, a. Perreyres, K. Waadt - III, 43. 792 Fr. - Julie Louise Lancey a. Ballorbes. 1 S. - 827 Louis Gabriel."
+   },
+   {
+    "line_from": 27,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Michel",
+    "place": "Bern",
+    "surname": "Michel",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "V, 144 u. 145",
+    "quarter": "V",
+    "street": "",
+    "house_no": "144 u. 145",
+    "origin": "Brienz",
+    "birth_year": "1802",
+    "household": "807 Fr. - Sus. Zimmermann a. Wattenwyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Johann, Schuhmacher, a. Brienz - V, 144 u. 145. 807 Fr. - Sus. Zimmermann a. Wattenwyl."
+   },
+   {
+    "line_from": 30,
+    "line_to": 36,
+    "kind": "person",
+    "heading": "Milliet",
+    "place": "Bern",
+    "surname": "Milliet",
+    "forename": "J. François Amédé",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "II, 53",
+    "quarter": "II",
+    "street": "",
+    "house_no": "53",
+    "origin": "Cudrefin, K. Waadt",
+    "birth_year": "1802",
+    "household": "813 Fr. - Anna Lüscher. 4 K. - 838 Sophie Elis. Franziska. - 40 Anna Charlotte Rosalie. - 42 Maria Louise Bertha. - 45 François Robert Rodolphe.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 J. François Amédé, Schreiber, a. Cudrefin, K. Waadt - II, 53. 813 Fr. - Anna Lüscher. 4 K. - 838 Sophie Elis. Franziska. - 40 Anna Charlotte Rosalie. - 42 Maria Louise Bertha. - 45 François Robert Rodolphe."
+   },
+   {
+    "line_from": 37,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Minder",
+    "place": "Bern",
+    "surname": "Minder",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Holzschuhmacher",
+    "address": "I, 215 c",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215 c",
+    "origin": "Kirchberg",
+    "birth_year": "1789",
+    "household": "792 Fr. - Anna Maria Affolter a. Koppigen. 2 K. - 810 Jakob. - 20 Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 789 Niklaus, Holzschuhmacher, a. Kirchberg - I, 215 c. 792 Fr. - Anna Maria Affolter a. Koppigen. 2 K. - 810 Jakob. - 20 Elisabetha."
+   },
+   {
+    "line_from": 41,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Minder",
+    "place": "Bern",
+    "surname": "Minder",
+    "forename": "Anna Barbara",
+    "title": "",
+    "occupation": "Schuhflickerin",
+    "address": "I, 20",
+    "quarter": "I",
+    "street": "",
+    "house_no": "20",
+    "origin": "Huttwyl",
+    "birth_year": "1806",
+    "household": "2 S. - 833 Johann. - 40 Gottfried.",
+    "note": "geb. Horrisberger; Name aus Zwischentitel",
+    "text": "2 806 Anna Barbara, geb. Horrisberger, a. Huttwyl, Schuhflickerin - I, 20. 2 S. - 833 Johann. - 40 Gottfried."
+   },
+   {
+    "line_from": 44,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "Minder",
+    "place": "Bern",
+    "surname": "Minder",
+    "forename": "Elisabetha",
+    "title": "",
+    "occupation": "Kostgeberin",
+    "address": "II, 102",
+    "quarter": "II",
+    "street": "",
+    "house_no": "102",
+    "origin": "Bätterkinden",
+    "birth_year": "1803",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 803 Elisabetha, Kostgeberin, a. Bätterkinden - II, 102."
+   },
+   {
+    "line_from": 45,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "Minder",
+    "place": "Bern",
+    "surname": "Minder",
+    "forename": "Niklaus Friedrich",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "II, 117",
+    "quarter": "II",
+    "street": "",
+    "house_no": "117",
+    "origin": "Bätterkinden",
+    "birth_year": "1823",
+    "household": "820 Fr. - Maria Anna Sigrist a. Niederwyl, K. Aargau.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 823 Niklaus Friedrich, Schuhmacher, a. Bätterkinden - II, 117. 820 Fr. - Maria Anna Sigrist a. Niederwyl, K. Aargau."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:07:13+01:00",
+ "last_error": null
+}

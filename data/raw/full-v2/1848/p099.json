@@ -1,0 +1,446 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 99,
+ "section": "einsassen",
+ "started": "2026-11-11T22:03:52+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 32.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4672,
+  "thoughts": 3667
+ },
+ "response_text": "{\n  \"printed_page\": \"86\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 86 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Kohli.\"},\n    {\"n\": 4, \"text\": \"1 800 Franz Heinrich, Revisor, a. Saanen - IV, 20.\"},\n    {\"n\": 5, \"text\": \"802 Fr. - Maria Elis. Roulier, a. Champvent, K. Waadt.\"},\n    {\"n\": 6, \"text\": \"Kolb.\"},\n    {\"n\": 7, \"text\": \"1 816 Niklaus, Faktor, a. Lütschenthal - III, 65.\"},\n    {\"n\": 8, \"text\": \"817 Fr. - Elisabetha Leuenberger.\"},\n    {\"n\": 9, \"text\": \"3 K. — 840 Joh. Gottlieb. — 842 Maria Karoline. —\"},\n    {\"n\": 10, \"text\": \"43 Emil.\"},\n    {\"n\": 11, \"text\": \"2 803 Samuel, Schneider, bern. Landsaß - IV, 6 u. 7.\"},\n    {\"n\": 12, \"text\": \"800 Fr. - Henriette Augustine Guillaud.\"},\n    {\"n\": 13, \"text\": \"9 K. — 835 Friedrich. — 36 Marie Marianne. — 31\"},\n    {\"n\": 14, \"text\": \"Samuel Chr. — 33 Henri Louis. — 37 Emilie Marie.\"},\n    {\"n\": 15, \"text\": \"— 38 Emanuel Franz. — 40 Karl Joh. Samuel. — 41\"},\n    {\"n\": 16, \"text\": \"Lisette Regula. — 44 Johanna Melanie Henriette.\"},\n    {\"n\": 17, \"text\": \"Kopp.\"},\n    {\"n\": 18, \"text\": \"1 814 Joseph, Schneider, a. Bütisburg, K. St. Gallen - IV, 93.\"},\n    {\"n\": 19, \"text\": \"815 Fr. - Anna Lüthi a. Rüderswyl.\"},\n    {\"n\": 20, \"text\": \"2 K. — 824 Joh. Arnold u. Anna Elis. Friederike.\"},\n    {\"n\": 21, \"text\": \"Kormann.\"},\n    {\"n\": 22, \"text\": \"1 793 Maria, geb. Leiser, Krämerin, a. Bümpliz - VI, 118.\"},\n    {\"n\": 23, \"text\": \"Krähenbühl.\"},\n    {\"n\": 24, \"text\": \"1 796 Daniel, Schreiber, a. Wyl - IV, 15.\"},\n    {\"n\": 25, \"text\": \"800 Fr. - Kath. Mutti a. Biglen.\"},\n    {\"n\": 26, \"text\": \"7 K. — 823 Rud. Emanuel, Pfarrvikar. — 25 Daniel,\"},\n    {\"n\": 27, \"text\": \"Stud. Jur. — 28 Gottlieb Ludwig. — 33 Ludwig. — 35\"},\n    {\"n\": 28, \"text\": \"Sophie. — 41 Friedrich. — 43 Wilhelm.\"},\n    {\"n\": 29, \"text\": \"2 811 Niklaus, Krämer, a. Zäziwyl - VI, 56.\"},\n    {\"n\": 30, \"text\": \"801 Fr. - Kath. Baumann a. Herbligen.\"},\n    {\"n\": 31, \"text\": \"1 T. — 839 Maria.\"},\n    {\"n\": 32, \"text\": \"3 816 Joh. Peter, Gärtner, a. Zäziwyl - VI, 56.\"},\n    {\"n\": 33, \"text\": \"811 Fr. - Anna Barb. Bedert, a. Monnaz, K. Waadt.\"},\n    {\"n\": 34, \"text\": \"3 K. — 842 Kasp. Franz. — 43 Rud. Karl. — 45 Magd.\"},\n    {\"n\": 35, \"text\": \"Anna.\"},\n    {\"n\": 36, \"text\": \"4 804 Friedr. Ludwig, Krämer, a. Zäziwyl - VI, 13.\"},\n    {\"n\": 37, \"text\": \"804 Fr. - Elis. Gfeller a. Worb.\"},\n    {\"n\": 38, \"text\": \"8 K. -- 826 Friedrich. — 28 Maria. — 31 Joh. Franz.\"},\n    {\"n\": 39, \"text\": \"— 33 Anna Elis. — 35 Bernhard Karl. — 38 Anna\"},\n    {\"n\": 40, \"text\": \"Elis. Kath. — 42 Rosina. — 47 Magd.\"},\n    {\"n\": 41, \"text\": \"5 821 Johann Peter, Schreiber und Kleinhändler, a. Zäziwyl\"},\n    {\"n\": 42, \"text\": \"- IV, 78.\"},\n    {\"n\": 43, \"text\": \"827 Fr. - Verena Schürch a. Sumiswald.\"},\n    {\"n\": 44, \"text\": \"Kräyenbühl.\"},\n    {\"n\": 45, \"text\": \"1 796 Christian, Schreiner, a. Brenzikofen - I, 155.\"},\n    {\"n\": 46, \"text\": \"803 Fr. - Anna Steinhauer a. Riggisberg.\"},\n    {\"n\": 47, \"text\": \"4 T. — 835 Elisabetha. — 836 Anna. — 839 Maria.\"},\n    {\"n\": 48, \"text\": \"— 41 Margaretha.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Kohli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kohli\",\n      \"forename\": \"Franz Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Revisor\",\n      \"address\": \"IV, 20\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"20\",\n      \"origin\": \"Saanen\",\n      \"birth_year\": \"1800\",\n      \"household\": \"Fr. - Maria Elis. Roulier, a. Champvent, K. Waadt.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 800 Franz Heinrich, Revisor, a. Saanen - IV, 20. 802 Fr. - Maria Elis. Roulier, a. Champvent, K. Waadt.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Kolb.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kolb\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Faktor\",\n      \"address\": \"III, 65\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"65\",\n      \"origin\": \"Lütschenthal\",\n      \"birth_year\": \"1816\",\n      \"household\": \"Fr. - Elisabetha Leuenberger. 3 K. — 840 Joh. Gottlieb. — 842 Maria Karoline. — 43 Emil.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 816 Niklaus, Faktor, a. Lütschenthal - III, 65. 817 Fr. - Elisabetha Leuenberger. 3 K. — 840 Joh. Gottlieb. — 842 Maria Karoline. — 43 Emil.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Kolb.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kolb\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 6 u. 7\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"6 u. 7\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1803\",\n      \"household\": \"Fr. - Henriette Augustine Guillaud. 9 K. — 835 Friedrich. — 36 Marie Marianne. — 31 Samuel Chr. — 33 Henri Louis. — 37 Emilie Marie. — 38 Emanuel Franz. — 40 Karl Joh. Samuel. — 41 Lisette Regula. — 44 Johanna Melanie Henriette.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 803 Samuel, Schneider, bern. Landsaß - IV, 6 u. 7. 800 Fr. - Henriette Augustine Guillaud. 9 K. — 835 Friedrich. — 36 Marie Marianne. — 31 Samuel Chr. — 33 Henri Louis. — 37 Emilie Marie. — 38 Emanuel Franz. — 40 Karl Joh. Samuel. — 41 Lisette Regula. — 44 Johanna Melanie Henriette.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Kopp.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kopp\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Schneider\",\n      \"address\": \"IV, 93\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"93\",\n      \"origin\": \"Bütisburg, K. St. Gallen\",\n      \"birth_year\": \"1814\",\n      \"household\": \"Fr. - Anna Lüthi a. Rüderswyl. 2 K. — 824 Joh. Arnold u. Anna Elis. Friederike.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Joseph, Schneider, a. Bütisburg, K. St. Gallen - IV, 93. 815 Fr. - Anna Lüthi a. Rüderswyl. 2 K. — 824 Joh. Arnold u. Anna Elis. Friederike.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Kormann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kormann\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Krämerin\",\n      \"address\": \"VI, 118\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"118\",\n      \"origin\": \"Bümpliz\",\n      \"birth_year\": \"1793\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Leiser\",\n      \"text\": \"1 793 Maria, geb. Leiser, Krämerin, a. Bümpliz - VI, 118.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Krähenbühl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Krähenbühl\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"IV, 15\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"15\",\n      \"origin\": \"Wyl\",\n      \"birth_year\": \"1796\",\n      \"household\": \"Fr. - Kath. Mutti a. Biglen. 7 K. — 823 Rud. Emanuel, Pfarrvikar. — 25 Daniel, Stud. Jur. — 28 Gottlieb Ludwig. — 33 Ludwig. — 35 Sophie. — 41 Friedrich. — 43 Wilhelm.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Daniel, Schreiber, a. Wyl - IV, 15. 800 Fr. - Kath. Mutti a. Biglen. 7 K. — 823 Rud. Emanuel, Pfarrvikar. — 25 Daniel, Stud. Jur. — 28 Gottlieb Ludwig. — 33 Ludwig. — 35 Sophie. — 41 Friedrich. — 43 Wilhelm.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"Krähenbühl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Krähenbühl\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"VI, 56\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"56\",\n      \"origin\": \"Zäziwyl\",\n      \"birth_year\": \"1811\",\n      \"household\": \"Fr. - Kath. Baumann a. Herbligen. 1 T. — 839 Maria.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 811 Niklaus, Krämer, a. Zäziwyl - VI, 56. 801 Fr. - Kath. Baumann a. Herbligen. 1 T. — 839 Maria.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Krähenbühl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Krähenbühl\",\n      \"forename\": \"Joh. Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Gärtner\",\n      \"address\": \"VI, 56\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"56\",\n      \"origin\": \"Zäziwyl\",\n      \"birth_year\": \"1816\",\n      \"household\": \"Fr. - Anna Barb. Bedert, a. Monnaz, K. Waadt. 3 K. — 842 Kasp. Franz. — 43 Rud. Karl. — 45 Magd. Anna.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 816 Joh. Peter, Gärtner, a. Zäziwyl - VI, 56. 811 Fr. - Anna Barb. Bedert, a. Monnaz, K. Waadt. 3 K. — 842 Kasp. Franz. — 43 Rud. Karl. — 45 Magd. Anna.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Krähenbühl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Krähenbühl\",\n      \"forename\": \"Friedr. Ludwig\",\n      \"title\": \"\",\n      \"occupation\": \"Krämer\",\n      \"address\": \"VI, 13\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"13\",\n      \"origin\": \"Zäziwyl\",\n      \"birth_year\": \"1804\",\n      \"household\": \"Fr. - Elis. Gfeller a. Worb. 8 K. -- 826 Friedrich. — 28 Maria. — 31 Joh. Franz. — 33 Anna Elis. — 35 Bernhard Karl. — 38 Anna Elis. Kath. — 42 Rosina. — 47 Magd.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 804 Friedr. Ludwig, Krämer, a. Zäziwyl - VI, 13. 804 Fr. - Elis. Gfeller a. Worb. 8 K. -- 826 Friedrich. — 28 Maria. — 31 Joh. Franz. — 33 Anna Elis. — 35 Bernhard Karl. — 38 Anna Elis. Kath. — 42 Rosina. — 47 Magd.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 43,\n      \"kind\": \"person\",\n      \"heading\": \"Krähenbühl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Krähenbühl\",\n      \"forename\": \"Johann Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber und Kleinhändler\",\n      \"address\": \"IV, 78\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"78\",\n      \"origin\": \"Zäziwyl\",\n      \"birth_year\": \"1821\",\n      \"household\": \"Fr. - Verena Schürch a. Sumiswald.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"5 821 Johann Peter, Schreiber und Kleinhändler, a. Zäziwyl - IV, 78. 827 Fr. - Verena Schürch a. Sumiswald.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"Kräyenbühl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kräyenbühl\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiner\",\n      \"address\": \"I, 155\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"155\",\n      \"origin\": \"Brenzikofen\",\n      \"birth_year\": \"1796\",\n      \"household\": \"Fr. - Anna Steinhauer a. Riggisberg. 4 T. — 835 Elisabetha. — 836 Anna. — 839 Maria. — 41 Margaretha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Christian, Schreiner, a. Brenzikofen - I, 155. 803 Fr. - Anna Steinhauer a. Riggisberg. 4 T. — 835 Elisabetha. — 836 Anna. — 839 Maria. — 41 Margaretha.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "86",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 86 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Kohli."
+   },
+   {
+    "n": 4,
+    "text": "1 800 Franz Heinrich, Revisor, a. Saanen - IV, 20."
+   },
+   {
+    "n": 5,
+    "text": "802 Fr. - Maria Elis. Roulier, a. Champvent, K. Waadt."
+   },
+   {
+    "n": 6,
+    "text": "Kolb."
+   },
+   {
+    "n": 7,
+    "text": "1 816 Niklaus, Faktor, a. Lütschenthal - III, 65."
+   },
+   {
+    "n": 8,
+    "text": "817 Fr. - Elisabetha Leuenberger."
+   },
+   {
+    "n": 9,
+    "text": "3 K. — 840 Joh. Gottlieb. — 842 Maria Karoline. —"
+   },
+   {
+    "n": 10,
+    "text": "43 Emil."
+   },
+   {
+    "n": 11,
+    "text": "2 803 Samuel, Schneider, bern. Landsaß - IV, 6 u. 7."
+   },
+   {
+    "n": 12,
+    "text": "800 Fr. - Henriette Augustine Guillaud."
+   },
+   {
+    "n": 13,
+    "text": "9 K. — 835 Friedrich. — 36 Marie Marianne. — 31"
+   },
+   {
+    "n": 14,
+    "text": "Samuel Chr. — 33 Henri Louis. — 37 Emilie Marie."
+   },
+   {
+    "n": 15,
+    "text": "— 38 Emanuel Franz. — 40 Karl Joh. Samuel. — 41"
+   },
+   {
+    "n": 16,
+    "text": "Lisette Regula. — 44 Johanna Melanie Henriette."
+   },
+   {
+    "n": 17,
+    "text": "Kopp."
+   },
+   {
+    "n": 18,
+    "text": "1 814 Joseph, Schneider, a. Bütisburg, K. St. Gallen - IV, 93."
+   },
+   {
+    "n": 19,
+    "text": "815 Fr. - Anna Lüthi a. Rüderswyl."
+   },
+   {
+    "n": 20,
+    "text": "2 K. — 824 Joh. Arnold u. Anna Elis. Friederike."
+   },
+   {
+    "n": 21,
+    "text": "Kormann."
+   },
+   {
+    "n": 22,
+    "text": "1 793 Maria, geb. Leiser, Krämerin, a. Bümpliz - VI, 118."
+   },
+   {
+    "n": 23,
+    "text": "Krähenbühl."
+   },
+   {
+    "n": 24,
+    "text": "1 796 Daniel, Schreiber, a. Wyl - IV, 15."
+   },
+   {
+    "n": 25,
+    "text": "800 Fr. - Kath. Mutti a. Biglen."
+   },
+   {
+    "n": 26,
+    "text": "7 K. — 823 Rud. Emanuel, Pfarrvikar. — 25 Daniel,"
+   },
+   {
+    "n": 27,
+    "text": "Stud. Jur. — 28 Gottlieb Ludwig. — 33 Ludwig. — 35"
+   },
+   {
+    "n": 28,
+    "text": "Sophie. — 41 Friedrich. — 43 Wilhelm."
+   },
+   {
+    "n": 29,
+    "text": "2 811 Niklaus, Krämer, a. Zäziwyl - VI, 56."
+   },
+   {
+    "n": 30,
+    "text": "801 Fr. - Kath. Baumann a. Herbligen."
+   },
+   {
+    "n": 31,
+    "text": "1 T. — 839 Maria."
+   },
+   {
+    "n": 32,
+    "text": "3 816 Joh. Peter, Gärtner, a. Zäziwyl - VI, 56."
+   },
+   {
+    "n": 33,
+    "text": "811 Fr. - Anna Barb. Bedert, a. Monnaz, K. Waadt."
+   },
+   {
+    "n": 34,
+    "text": "3 K. — 842 Kasp. Franz. — 43 Rud. Karl. — 45 Magd."
+   },
+   {
+    "n": 35,
+    "text": "Anna."
+   },
+   {
+    "n": 36,
+    "text": "4 804 Friedr. Ludwig, Krämer, a. Zäziwyl - VI, 13."
+   },
+   {
+    "n": 37,
+    "text": "804 Fr. - Elis. Gfeller a. Worb."
+   },
+   {
+    "n": 38,
+    "text": "8 K. -- 826 Friedrich. — 28 Maria. — 31 Joh. Franz."
+   },
+   {
+    "n": 39,
+    "text": "— 33 Anna Elis. — 35 Bernhard Karl. — 38 Anna"
+   },
+   {
+    "n": 40,
+    "text": "Elis. Kath. — 42 Rosina. — 47 Magd."
+   },
+   {
+    "n": 41,
+    "text": "5 821 Johann Peter, Schreiber und Kleinhändler, a. Zäziwyl"
+   },
+   {
+    "n": 42,
+    "text": "- IV, 78."
+   },
+   {
+    "n": 43,
+    "text": "827 Fr. - Verena Schürch a. Sumiswald."
+   },
+   {
+    "n": 44,
+    "text": "Kräyenbühl."
+   },
+   {
+    "n": 45,
+    "text": "1 796 Christian, Schreiner, a. Brenzikofen - I, 155."
+   },
+   {
+    "n": 46,
+    "text": "803 Fr. - Anna Steinhauer a. Riggisberg."
+   },
+   {
+    "n": 47,
+    "text": "4 T. — 835 Elisabetha. — 836 Anna. — 839 Maria."
+   },
+   {
+    "n": 48,
+    "text": "— 41 Margaretha."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Kohli.",
+    "place": "Bern",
+    "surname": "Kohli",
+    "forename": "Franz Heinrich",
+    "title": "",
+    "occupation": "Revisor",
+    "address": "IV, 20",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "20",
+    "origin": "Saanen",
+    "birth_year": "1800",
+    "household": "Fr. - Maria Elis. Roulier, a. Champvent, K. Waadt.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 800 Franz Heinrich, Revisor, a. Saanen - IV, 20. 802 Fr. - Maria Elis. Roulier, a. Champvent, K. Waadt."
+   },
+   {
+    "line_from": 7,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Kolb.",
+    "place": "Bern",
+    "surname": "Kolb",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Faktor",
+    "address": "III, 65",
+    "quarter": "III",
+    "street": "",
+    "house_no": "65",
+    "origin": "Lütschenthal",
+    "birth_year": "1816",
+    "household": "Fr. - Elisabetha Leuenberger. 3 K. — 840 Joh. Gottlieb. — 842 Maria Karoline. — 43 Emil.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 816 Niklaus, Faktor, a. Lütschenthal - III, 65. 817 Fr. - Elisabetha Leuenberger. 3 K. — 840 Joh. Gottlieb. — 842 Maria Karoline. — 43 Emil."
+   },
+   {
+    "line_from": 11,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Kolb.",
+    "place": "Bern",
+    "surname": "Kolb",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 6 u. 7",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "6 u. 7",
+    "origin": "bern. Landsaß",
+    "birth_year": "1803",
+    "household": "Fr. - Henriette Augustine Guillaud. 9 K. — 835 Friedrich. — 36 Marie Marianne. — 31 Samuel Chr. — 33 Henri Louis. — 37 Emilie Marie. — 38 Emanuel Franz. — 40 Karl Joh. Samuel. — 41 Lisette Regula. — 44 Johanna Melanie Henriette.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 803 Samuel, Schneider, bern. Landsaß - IV, 6 u. 7. 800 Fr. - Henriette Augustine Guillaud. 9 K. — 835 Friedrich. — 36 Marie Marianne. — 31 Samuel Chr. — 33 Henri Louis. — 37 Emilie Marie. — 38 Emanuel Franz. — 40 Karl Joh. Samuel. — 41 Lisette Regula. — 44 Johanna Melanie Henriette."
+   },
+   {
+    "line_from": 18,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Kopp.",
+    "place": "Bern",
+    "surname": "Kopp",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Schneider",
+    "address": "IV, 93",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "93",
+    "origin": "Bütisburg, K. St. Gallen",
+    "birth_year": "1814",
+    "household": "Fr. - Anna Lüthi a. Rüderswyl. 2 K. — 824 Joh. Arnold u. Anna Elis. Friederike.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Joseph, Schneider, a. Bütisburg, K. St. Gallen - IV, 93. 815 Fr. - Anna Lüthi a. Rüderswyl. 2 K. — 824 Joh. Arnold u. Anna Elis. Friederike."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Kormann.",
+    "place": "Bern",
+    "surname": "Kormann",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Krämerin",
+    "address": "VI, 118",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "118",
+    "origin": "Bümpliz",
+    "birth_year": "1793",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Leiser",
+    "text": "1 793 Maria, geb. Leiser, Krämerin, a. Bümpliz - VI, 118."
+   },
+   {
+    "line_from": 24,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Krähenbühl.",
+    "place": "Bern",
+    "surname": "Krähenbühl",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "IV, 15",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "15",
+    "origin": "Wyl",
+    "birth_year": "1796",
+    "household": "Fr. - Kath. Mutti a. Biglen. 7 K. — 823 Rud. Emanuel, Pfarrvikar. — 25 Daniel, Stud. Jur. — 28 Gottlieb Ludwig. — 33 Ludwig. — 35 Sophie. — 41 Friedrich. — 43 Wilhelm.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Daniel, Schreiber, a. Wyl - IV, 15. 800 Fr. - Kath. Mutti a. Biglen. 7 K. — 823 Rud. Emanuel, Pfarrvikar. — 25 Daniel, Stud. Jur. — 28 Gottlieb Ludwig. — 33 Ludwig. — 35 Sophie. — 41 Friedrich. — 43 Wilhelm."
+   },
+   {
+    "line_from": 29,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "Krähenbühl.",
+    "place": "Bern",
+    "surname": "Krähenbühl",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "VI, 56",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "56",
+    "origin": "Zäziwyl",
+    "birth_year": "1811",
+    "household": "Fr. - Kath. Baumann a. Herbligen. 1 T. — 839 Maria.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 811 Niklaus, Krämer, a. Zäziwyl - VI, 56. 801 Fr. - Kath. Baumann a. Herbligen. 1 T. — 839 Maria."
+   },
+   {
+    "line_from": 32,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Krähenbühl.",
+    "place": "Bern",
+    "surname": "Krähenbühl",
+    "forename": "Joh. Peter",
+    "title": "",
+    "occupation": "Gärtner",
+    "address": "VI, 56",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "56",
+    "origin": "Zäziwyl",
+    "birth_year": "1816",
+    "household": "Fr. - Anna Barb. Bedert, a. Monnaz, K. Waadt. 3 K. — 842 Kasp. Franz. — 43 Rud. Karl. — 45 Magd. Anna.",
+    "note": "Name aus Zwischentitel",
+    "text": "3 816 Joh. Peter, Gärtner, a. Zäziwyl - VI, 56. 811 Fr. - Anna Barb. Bedert, a. Monnaz, K. Waadt. 3 K. — 842 Kasp. Franz. — 43 Rud. Karl. — 45 Magd. Anna."
+   },
+   {
+    "line_from": 36,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Krähenbühl.",
+    "place": "Bern",
+    "surname": "Krähenbühl",
+    "forename": "Friedr. Ludwig",
+    "title": "",
+    "occupation": "Krämer",
+    "address": "VI, 13",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "13",
+    "origin": "Zäziwyl",
+    "birth_year": "1804",
+    "household": "Fr. - Elis. Gfeller a. Worb. 8 K. -- 826 Friedrich. — 28 Maria. — 31 Joh. Franz. — 33 Anna Elis. — 35 Bernhard Karl. — 38 Anna Elis. Kath. — 42 Rosina. — 47 Magd.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 804 Friedr. Ludwig, Krämer, a. Zäziwyl - VI, 13. 804 Fr. - Elis. Gfeller a. Worb. 8 K. -- 826 Friedrich. — 28 Maria. — 31 Joh. Franz. — 33 Anna Elis. — 35 Bernhard Karl. — 38 Anna Elis. Kath. — 42 Rosina. — 47 Magd."
+   },
+   {
+    "line_from": 41,
+    "line_to": 43,
+    "kind": "person",
+    "heading": "Krähenbühl.",
+    "place": "Bern",
+    "surname": "Krähenbühl",
+    "forename": "Johann Peter",
+    "title": "",
+    "occupation": "Schreiber und Kleinhändler",
+    "address": "IV, 78",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "78",
+    "origin": "Zäziwyl",
+    "birth_year": "1821",
+    "household": "Fr. - Verena Schürch a. Sumiswald.",
+    "note": "Name aus Zwischentitel",
+    "text": "5 821 Johann Peter, Schreiber und Kleinhändler, a. Zäziwyl - IV, 78. 827 Fr. - Verena Schürch a. Sumiswald."
+   },
+   {
+    "line_from": 45,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "Kräyenbühl.",
+    "place": "Bern",
+    "surname": "Kräyenbühl",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schreiner",
+    "address": "I, 155",
+    "quarter": "I",
+    "street": "",
+    "house_no": "155",
+    "origin": "Brenzikofen",
+    "birth_year": "1796",
+    "household": "Fr. - Anna Steinhauer a. Riggisberg. 4 T. — 835 Elisabetha. — 836 Anna. — 839 Maria. — 41 Margaretha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Christian, Schreiner, a. Brenzikofen - I, 155. 803 Fr. - Anna Steinhauer a. Riggisberg. 4 T. — 835 Elisabetha. — 836 Anna. — 839 Maria. — 41 Margaretha."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:04:24+01:00",
+ "last_error": null
+}

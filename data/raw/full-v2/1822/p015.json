@@ -1,0 +1,502 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1822",
+ "page": 15,
+ "section": "berufe",
+ "started": "2026-11-11T21:00:55+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 26.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2214,
+  "output": 3922,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"7\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"7\"},\n    {\"n\": 2, \"text\": \"Fabrikanten von Eßig.\"},\n    {\"n\": 3, \"text\": \"Nro.\"},\n    {\"n\": 4, \"text\": \"Bähler, Friedrich, Gerechtigkeitgaße … 143\"},\n    {\"n\": 5, \"text\": \"Christen, Christian, Gerechtigkeitgaße … 71\"},\n    {\"n\": 6, \"text\": \"Christen, Christian, Neuengaße … 98\"},\n    {\"n\": 7, \"text\": \"Petri, Jakob, Mezgerngaße … 72\"},\n    {\"n\": 8, \"text\": \"Stämpfli, Frau, Aarberggaße … 59\"},\n    {\"n\": 9, \"text\": \"Fabrikanten von Haberkernen und Habermehl.\"},\n    {\"n\": 10, \"text\": \"Schnyder, Ludwig Friedrich, Gerechtigkeitgaße 101\"},\n    {\"n\": 11, \"text\": \"Fabrikanten von Kerzen.\"},\n    {\"n\": 12, \"text\": \"Berchtold, Rudolf, Kramgaße … 164\"},\n    {\"n\": 13, \"text\": \"Friedli, Samuel, Schützengäßlein … 11\"},\n    {\"n\": 14, \"text\": \"Henzi, Rudolf, beym Zeitglockenthurm … 227\"},\n    {\"n\": 15, \"text\": \"Kaiser, Brunngaße … 20\"},\n    {\"n\": 16, \"text\": \"Marti, Friedrich David, Mezgerngaße … 74\"},\n    {\"n\": 17, \"text\": \"Stengel, Mezgerngaße … 101\"},\n    {\"n\": 18, \"text\": \"Fabrikanten von Oel.\"},\n    {\"n\": 19, \"text\": \"Künsch, Johann, Matten … 103\"},\n    {\"n\": 20, \"text\": \"Fabrikanten von Puder (Haar=).\"},\n    {\"n\": 21, \"text\": \"Hug, Mezgerngaße … 71\"},\n    {\"n\": 22, \"text\": \"Fabrikanten von Roßhaar.\"},\n    {\"n\": 23, \"text\": \"Lemp, Durs, Altenberg … 176\"},\n    {\"n\": 24, \"text\": \"Pfister, Aarberggaße … 33\"},\n    {\"n\": 25, \"text\": \"Fabrikanten von Seiden.\"},\n    {\"n\": 26, \"text\": \"Jonquiere, Johann Georg, Zeughausplatz 244\"},\n    {\"n\": 27, \"text\": \"Nägeli und Comp., Judengaße … 126\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Eßig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bähler\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgaße 143\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"143\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Bähler, Friedrich, Gerechtigkeitgaße 143\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Eßig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christen\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgaße 71\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"71\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Christen, Christian, Gerechtigkeitgaße 71\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Eßig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Christen\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Neuengaße 98\",\n      \"quarter\": \"\",\n      \"street\": \"Neuengaße\",\n      \"house_no\": \"98\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Christen, Christian, Neuengaße 98\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Eßig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Petri\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Mezgerngaße 72\",\n      \"quarter\": \"\",\n      \"street\": \"Mezgerngaße\",\n      \"house_no\": \"72\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Petri, Jakob, Mezgerngaße 72\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Eßig.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stämpfli\",\n      \"forename\": \"\",\n      \"title\": \"Frau\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 59\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"59\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stämpfli, Frau, Aarberggaße 59\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Haberkernen und Habermehl.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Schnyder\",\n      \"forename\": \"Ludwig Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Gerechtigkeitgaße 101\",\n      \"quarter\": \"\",\n      \"street\": \"Gerechtigkeitgaße\",\n      \"house_no\": \"101\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Schnyder, Ludwig Friedrich, Gerechtigkeitgaße 101\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Kerzen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Berchtold\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kramgaße 164\",\n      \"quarter\": \"\",\n      \"street\": \"Kramgaße\",\n      \"house_no\": \"164\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Berchtold, Rudolf, Kramgaße 164\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Kerzen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Friedli\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Schützengäßlein 11\",\n      \"quarter\": \"\",\n      \"street\": \"Schützengäßlein\",\n      \"house_no\": \"11\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Friedli, Samuel, Schützengäßlein 11\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Kerzen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Henzi\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"beym Zeitglockenthurm 227\",\n      \"quarter\": \"\",\n      \"street\": \"beym Zeitglockenthurm\",\n      \"house_no\": \"227\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Henzi, Rudolf, beym Zeitglockenthurm 227\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Kerzen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kaiser\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Brunngaße 20\",\n      \"quarter\": \"\",\n      \"street\": \"Brunngaße\",\n      \"house_no\": \"20\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kaiser, Brunngaße 20\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Kerzen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Marti\",\n      \"forename\": \"Friedrich David\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Mezgerngaße 74\",\n      \"quarter\": \"\",\n      \"street\": \"Mezgerngaße\",\n      \"house_no\": \"74\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Marti, Friedrich David, Mezgerngaße 74\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Kerzen.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stengel\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Mezgerngaße 101\",\n      \"quarter\": \"\",\n      \"street\": \"Mezgerngaße\",\n      \"house_no\": \"101\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stengel, Mezgerngaße 101\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Oel.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Künsch\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Matten 103\",\n      \"quarter\": \"\",\n      \"street\": \"Matten\",\n      \"house_no\": \"103\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Künsch, Johann, Matten 103\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Puder (Haar=).\",\n      \"place\": \"Bern\",\n      \"surname\": \"Hug\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Mezgerngaße 71\",\n      \"quarter\": \"\",\n      \"street\": \"Mezgerngaße\",\n      \"house_no\": \"71\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hug, Mezgerngaße 71\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Roßhaar.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lemp\",\n      \"forename\": \"Durs\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Altenberg 176\",\n      \"quarter\": \"\",\n      \"street\": \"Altenberg\",\n      \"house_no\": \"176\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lemp, Durs, Altenberg 176\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Roßhaar.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pfister\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Aarberggaße 33\",\n      \"quarter\": \"\",\n      \"street\": \"Aarberggaße\",\n      \"house_no\": \"33\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Pfister, Aarberggaße 33\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Fabrikanten von Seiden.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Jonquiere\",\n      \"forename\": \"Johann Georg\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Zeughausplatz 244\",\n      \"quarter\": \"\",\n      \"street\": \"Zeughausplatz\",\n      \"house_no\": \"244\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jonquiere, Johann Georg, Zeughausplatz 244\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"firma\",\n      \"heading\": \"Fabrikanten von Seiden.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Nägeli\",\n      \"forename\": \"\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"\",\n      \"address\": \"Judengaße 126\",\n      \"quarter\": \"\",\n      \"street\": \"Judengaße\",\n      \"house_no\": \"126\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Nägeli und Comp., Judengaße 126\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "7",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "7"
+   },
+   {
+    "n": 2,
+    "text": "Fabrikanten von Eßig."
+   },
+   {
+    "n": 3,
+    "text": "Nro."
+   },
+   {
+    "n": 4,
+    "text": "Bähler, Friedrich, Gerechtigkeitgaße … 143"
+   },
+   {
+    "n": 5,
+    "text": "Christen, Christian, Gerechtigkeitgaße … 71"
+   },
+   {
+    "n": 6,
+    "text": "Christen, Christian, Neuengaße … 98"
+   },
+   {
+    "n": 7,
+    "text": "Petri, Jakob, Mezgerngaße … 72"
+   },
+   {
+    "n": 8,
+    "text": "Stämpfli, Frau, Aarberggaße … 59"
+   },
+   {
+    "n": 9,
+    "text": "Fabrikanten von Haberkernen und Habermehl."
+   },
+   {
+    "n": 10,
+    "text": "Schnyder, Ludwig Friedrich, Gerechtigkeitgaße 101"
+   },
+   {
+    "n": 11,
+    "text": "Fabrikanten von Kerzen."
+   },
+   {
+    "n": 12,
+    "text": "Berchtold, Rudolf, Kramgaße … 164"
+   },
+   {
+    "n": 13,
+    "text": "Friedli, Samuel, Schützengäßlein … 11"
+   },
+   {
+    "n": 14,
+    "text": "Henzi, Rudolf, beym Zeitglockenthurm … 227"
+   },
+   {
+    "n": 15,
+    "text": "Kaiser, Brunngaße … 20"
+   },
+   {
+    "n": 16,
+    "text": "Marti, Friedrich David, Mezgerngaße … 74"
+   },
+   {
+    "n": 17,
+    "text": "Stengel, Mezgerngaße … 101"
+   },
+   {
+    "n": 18,
+    "text": "Fabrikanten von Oel."
+   },
+   {
+    "n": 19,
+    "text": "Künsch, Johann, Matten … 103"
+   },
+   {
+    "n": 20,
+    "text": "Fabrikanten von Puder (Haar=)."
+   },
+   {
+    "n": 21,
+    "text": "Hug, Mezgerngaße … 71"
+   },
+   {
+    "n": 22,
+    "text": "Fabrikanten von Roßhaar."
+   },
+   {
+    "n": 23,
+    "text": "Lemp, Durs, Altenberg … 176"
+   },
+   {
+    "n": 24,
+    "text": "Pfister, Aarberggaße … 33"
+   },
+   {
+    "n": 25,
+    "text": "Fabrikanten von Seiden."
+   },
+   {
+    "n": 26,
+    "text": "Jonquiere, Johann Georg, Zeughausplatz 244"
+   },
+   {
+    "n": 27,
+    "text": "Nägeli und Comp., Judengaße … 126"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Fabrikanten von Eßig.",
+    "place": "Bern",
+    "surname": "Bähler",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "",
+    "address": "Gerechtigkeitgaße 143",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "143",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Bähler, Friedrich, Gerechtigkeitgaße 143"
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Fabrikanten von Eßig.",
+    "place": "Bern",
+    "surname": "Christen",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "",
+    "address": "Gerechtigkeitgaße 71",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "71",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Christen, Christian, Gerechtigkeitgaße 71"
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Fabrikanten von Eßig.",
+    "place": "Bern",
+    "surname": "Christen",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "",
+    "address": "Neuengaße 98",
+    "quarter": "",
+    "street": "Neuengaße",
+    "house_no": "98",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Christen, Christian, Neuengaße 98"
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Fabrikanten von Eßig.",
+    "place": "Bern",
+    "surname": "Petri",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "",
+    "address": "Mezgerngaße 72",
+    "quarter": "",
+    "street": "Mezgerngaße",
+    "house_no": "72",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Petri, Jakob, Mezgerngaße 72"
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Fabrikanten von Eßig.",
+    "place": "Bern",
+    "surname": "Stämpfli",
+    "forename": "",
+    "title": "Frau",
+    "occupation": "",
+    "address": "Aarberggaße 59",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "59",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stämpfli, Frau, Aarberggaße 59"
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Fabrikanten von Haberkernen und Habermehl.",
+    "place": "Bern",
+    "surname": "Schnyder",
+    "forename": "Ludwig Friedrich",
+    "title": "",
+    "occupation": "",
+    "address": "Gerechtigkeitgaße 101",
+    "quarter": "",
+    "street": "Gerechtigkeitgaße",
+    "house_no": "101",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Schnyder, Ludwig Friedrich, Gerechtigkeitgaße 101"
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Fabrikanten von Kerzen.",
+    "place": "Bern",
+    "surname": "Berchtold",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "",
+    "address": "Kramgaße 164",
+    "quarter": "",
+    "street": "Kramgaße",
+    "house_no": "164",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Berchtold, Rudolf, Kramgaße 164"
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Fabrikanten von Kerzen.",
+    "place": "Bern",
+    "surname": "Friedli",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "Schützengäßlein 11",
+    "quarter": "",
+    "street": "Schützengäßlein",
+    "house_no": "11",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Friedli, Samuel, Schützengäßlein 11"
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Fabrikanten von Kerzen.",
+    "place": "Bern",
+    "surname": "Henzi",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "",
+    "address": "beym Zeitglockenthurm 227",
+    "quarter": "",
+    "street": "beym Zeitglockenthurm",
+    "house_no": "227",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Henzi, Rudolf, beym Zeitglockenthurm 227"
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Fabrikanten von Kerzen.",
+    "place": "Bern",
+    "surname": "Kaiser",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Brunngaße 20",
+    "quarter": "",
+    "street": "Brunngaße",
+    "house_no": "20",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kaiser, Brunngaße 20"
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Fabrikanten von Kerzen.",
+    "place": "Bern",
+    "surname": "Marti",
+    "forename": "Friedrich David",
+    "title": "",
+    "occupation": "",
+    "address": "Mezgerngaße 74",
+    "quarter": "",
+    "street": "Mezgerngaße",
+    "house_no": "74",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Marti, Friedrich David, Mezgerngaße 74"
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Fabrikanten von Kerzen.",
+    "place": "Bern",
+    "surname": "Stengel",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Mezgerngaße 101",
+    "quarter": "",
+    "street": "Mezgerngaße",
+    "house_no": "101",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stengel, Mezgerngaße 101"
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Fabrikanten von Oel.",
+    "place": "Bern",
+    "surname": "Künsch",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "",
+    "address": "Matten 103",
+    "quarter": "",
+    "street": "Matten",
+    "house_no": "103",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Künsch, Johann, Matten 103"
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Fabrikanten von Puder (Haar=).",
+    "place": "Bern",
+    "surname": "Hug",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Mezgerngaße 71",
+    "quarter": "",
+    "street": "Mezgerngaße",
+    "house_no": "71",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hug, Mezgerngaße 71"
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Fabrikanten von Roßhaar.",
+    "place": "Bern",
+    "surname": "Lemp",
+    "forename": "Durs",
+    "title": "",
+    "occupation": "",
+    "address": "Altenberg 176",
+    "quarter": "",
+    "street": "Altenberg",
+    "house_no": "176",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lemp, Durs, Altenberg 176"
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Fabrikanten von Roßhaar.",
+    "place": "Bern",
+    "surname": "Pfister",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Aarberggaße 33",
+    "quarter": "",
+    "street": "Aarberggaße",
+    "house_no": "33",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Pfister, Aarberggaße 33"
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Fabrikanten von Seiden.",
+    "place": "Bern",
+    "surname": "Jonquiere",
+    "forename": "Johann Georg",
+    "title": "",
+    "occupation": "",
+    "address": "Zeughausplatz 244",
+    "quarter": "",
+    "street": "Zeughausplatz",
+    "house_no": "244",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jonquiere, Johann Georg, Zeughausplatz 244"
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "firma",
+    "heading": "Fabrikanten von Seiden.",
+    "place": "Bern",
+    "surname": "Nägeli",
+    "forename": "",
+    "title": "und Comp.",
+    "occupation": "",
+    "address": "Judengaße 126",
+    "quarter": "",
+    "street": "Judengaße",
+    "house_no": "126",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Nägeli und Comp., Judengaße 126"
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:01:22+01:00",
+ "last_error": null
+}

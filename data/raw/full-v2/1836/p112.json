@@ -1,0 +1,950 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1836",
+ "page": 112,
+ "section": "einwohner",
+ "started": "2026-11-11T21:18:28+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 59.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 9416,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"103\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"103\"},\n    {\"n\": 2, \"text\": \"Suri, Abr. Albr., Schlossermstr., Gb. Qr. Käfiggäßl. S. Nr. 100.\"},\n    {\"n\": 3, \"text\": \"Suter, Bernh., Postwagner, R. Qr. Schauplatzg. ✠ Nr. 200. H.\"},\n    {\"n\": 4, \"text\": \"Suter, Fr. Dav., Klaviermacher, W. Qr. Junkerng. S. Nr. 203.\"},\n    {\"n\": 5, \"text\": \"Suter, Karl, Zuckerbäcker, W. Qr. Gerechtigkeitsg. S. Nr. 109.\"},\n    {\"n\": 6, \"text\": \"Suter, Frau, geb. Zürcher, Maria, W. Qr. Gerechtigkeitsgasse S.\"},\n    {\"n\": 7, \"text\": \"Nr. 109. H.\"},\n    {\"n\": 8, \"text\": \"Suter, Melch., Schweinmetzger, W. Qr. Junkerng. S. Nr. 183.\"},\n    {\"n\": 9, \"text\": \"Suter, Nikl., Metzgermstr., R. Qr. Bollwerk ✠ Nr. 78 a.\"},\n    {\"n\": 10, \"text\": \"Suter, Frau, geb. Pagenstecher, Wittwe, Rentière, Gn. Qr. Kramg.\"},\n    {\"n\": 11, \"text\": \"S. Nr. 206. H.\"},\n    {\"n\": 12, \"text\": \"Sybold, Ludw., Hafnermstr., Aidemajor u. Gr. Rath, S. Qr. Enge\"},\n    {\"n\": 13, \"text\": \"S. Nr. 127, 128 u. 129. H. u. B.\"},\n    {\"n\": 14, \"text\": \"Sybold, Rud., Pfarrer im Zuchthause. B.\"},\n    {\"n\": 15, \"text\": \"Sybold, Rud., Küfer, in Amerika. B.\"},\n    {\"n\": 16, \"text\": \"T.\"},\n    {\"n\": 17, \"text\": \"Tänzer, Nanette, Schneiderin, W. Qr. Postgasse ✠ Nr. 35.\"},\n    {\"n\": 18, \"text\": \"Tanner, Elise, geb. Tscharner, Rentière, Gn. Qr. Kramg. ✠ Nr. 140.\"},\n    {\"n\": 19, \"text\": \"H. u. B.\"},\n    {\"n\": 20, \"text\": \"Tanner, Franz Karl, Schweinmetzger, R. Qr. Schauplatzg. S. Nr. 219.\"},\n    {\"n\": 21, \"text\": \"Tanner, Friedr., Schweinmetzger, Gb. Qr. Marktg. ✠ Nr. 31.\"},\n    {\"n\": 22, \"text\": \"Tanner, Frdr., Schweinmetzger, R. Qr. Zeughausplatz S. Nr. 249. H.\"},\n    {\"n\": 23, \"text\": \"Tanner, Niklaus, Steinhauermstr., Gn. Qr. Keßlerg. S. Nr. 292.\"},\n    {\"n\": 24, \"text\": \"Tanner, Isaak Frdr., Metzger und Schweinmetzger, W. Qr. Gerech-\"},\n    {\"n\": 25, \"text\": \"tigkeitsgasse ✠ Nr. 87.\"},\n    {\"n\": 26, \"text\": \"Tavel, v., Alex. Lud. Rud., von Féchy, W. Qr. Junkerng. S. Nr. 178.\"},\n    {\"n\": 27, \"text\": \"H. u. B.\"},\n    {\"n\": 28, \"text\": \"Tavel, v., Albr. Viktor, alt Forstmeister, Gn. Qr. Keßlergasse S.\"},\n    {\"n\": 29, \"text\": \"Nr. 285. H. u. B.\"},\n    {\"n\": 30, \"text\": \"Tavel, v., Em. Rud., alt Oberamtmann von Frutigen, Gb. Qr. Ju-\"},\n    {\"n\": 31, \"text\": \"dengasse S. Nr. 125. B.\"},\n    {\"n\": 32, \"text\": \"Tavel, v., Franz Karl, Reg. Rath, Präsident des Militärdepartements,\"},\n    {\"n\": 33, \"text\": \"W. Qr. Gerechtigkeitsg. S. Nr. 115 u. 156. H. u. B.\"},\n    {\"n\": 34, \"text\": \"Tavel, v., Karl Ludw., gew. Platzkommandant, Aarzieledrittel Nr. 13\"},\n    {\"n\": 35, \"text\": \"und 14. Gn. Qr. Kramg. ✠ Nr. 173. H. u. B.\"},\n    {\"n\": 36, \"text\": \"Tavel, v., Rud. Franz, alt Rathsherr, W. Qr. Junkerngasse S.\"},\n    {\"n\": 37, \"text\": \"Nr. 179. B.\"},\n    {\"n\": 38, \"text\": \"Tessaro, Felix, Kunsthändler, W. Qr. Gerechtigkeitsg. ✠ Nr. 102.\"},\n    {\"n\": 39, \"text\": \"Theurillat, geb. Stöcklin, Pintenwirthin, Gn. Qr. Keßlerg. ✠ Nr. 245.\"},\n    {\"n\": 40, \"text\": \"Teutsch, Kathar. Rosina, Marchande, Gb. Qr. Marktg. ✠ Nr. 33.\"},\n    {\"n\": 41, \"text\": \"Thalmann, geb. Ackermann, Sus., Kaffeewirthin, Gn. Qr. Metzgerg.\"},\n    {\"n\": 42, \"text\": \"✠ Nr. 97.\"},\n    {\"n\": 43, \"text\": \"Theile, F. Wilh., Dr. Professor der Anatomie, Gn. Qr. Kramgasse\"},\n    {\"n\": 44, \"text\": \"S. Nr. 153.\"},\n    {\"n\": 45, \"text\": \"Thévoz, Philipp, Wirth zum eidgen. Kreuz, Gn. Qr. Zeughausgasse\"},\n    {\"n\": 46, \"text\": \"S. Nr. 19a. H.\"},\n    {\"n\": 47, \"text\": \"Thomy, geb. Oblaser, Anna Barbara, Gremplerin, W. Qr. Gerech-\"},\n    {\"n\": 48, \"text\": \"tigkeitsgasse S. Nr. 139.\"},\n    {\"n\": 49, \"text\": \"Thormann, Alex. Viktor Ludw., von Aarberg, Hauptmann, W. Qr.\"},\n    {\"n\": 50, \"text\": \"Gerechtigkeitsg. S. Nr. 100. B.\"},\n    {\"n\": 51, \"text\": \"Thormann, Elise Henr., Schoßhaldendrittel Sahli Nr. 41 und 42.\"},\n    {\"n\": 52, \"text\": \"H. u. B.\"},\n    {\"n\": 53, \"text\": \"Thormann, Em. Frdr., gew. Substitut, Standesbuchhalter, abwes. B.\"},\n    {\"n\": 54, \"text\": \"Thormann, Frdr., alt Oberamtmann von Interlacken, zu Gerzensee. B.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Suri\",\n      \"forename\": \"Abr. Albr.\",\n      \"title\": \"\",\n      \"occupation\": \"Schlossermstr.\",\n      \"address\": \"Gb. Qr. Käfiggäßl. S. Nr. 100.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Käfiggäßl.\",\n      \"house_no\": \"100\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Suri, Abr. Albr., Schlossermstr., Gb. Qr. Käfiggäßl. S. Nr. 100.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Bernh.\",\n      \"title\": \"\",\n      \"occupation\": \"Postwagner\",\n      \"address\": \"R. Qr. Schauplatzg. ✠ Nr. 200.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Schauplatzg.\",\n      \"house_no\": \"200\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Suter, Bernh., Postwagner, R. Qr. Schauplatzg. ✠ Nr. 200. H.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Fr. Dav.\",\n      \"title\": \"\",\n      \"occupation\": \"Klaviermacher\",\n      \"address\": \"W. Qr. Junkerng. S. Nr. 203.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerng.\",\n      \"house_no\": \"203\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Suter, Fr. Dav., Klaviermacher, W. Qr. Junkerng. S. Nr. 203.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Zuckerbäcker\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. S. Nr. 109.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"109\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Suter, Karl, Zuckerbäcker, W. Qr. Gerechtigkeitsg. S. Nr. 109.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Maria\",\n      \"title\": \"Frau\",\n      \"occupation\": \"\",\n      \"address\": \"W. Qr. Gerechtigkeitsgasse S. Nr. 109.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsgasse\",\n      \"house_no\": \"109\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Zürcher; H.\",\n      \"text\": \"Suter, Frau, geb. Zürcher, Maria, W. Qr. Gerechtigkeitsgasse S. Nr. 109. H.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Melch.\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzger\",\n      \"address\": \"W. Qr. Junkerng. S. Nr. 183.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerng.\",\n      \"house_no\": \"183\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Suter, Melch., Schweinmetzger, W. Qr. Junkerng. S. Nr. 183.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"Nikl.\",\n      \"title\": \"\",\n      \"occupation\": \"Metzgermstr.\",\n      \"address\": \"R. Qr. Bollwerk ✠ Nr. 78 a.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Bollwerk\",\n      \"house_no\": \"78 a\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Suter, Nikl., Metzgermstr., R. Qr. Bollwerk ✠ Nr. 78 a.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Suter\",\n      \"forename\": \"\",\n      \"title\": \"Frau, Wittwe\",\n      \"occupation\": \"Rentière\",\n      \"address\": \"Gn. Qr. Kramg. S. Nr. 206.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramg.\",\n      \"house_no\": \"206\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Pagenstecher; H.\",\n      \"text\": \"Suter, Frau, geb. Pagenstecher, Wittwe, Rentière, Gn. Qr. Kramg. S. Nr. 206. H.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Sybold\",\n      \"forename\": \"Ludw.\",\n      \"title\": \"\",\n      \"occupation\": \"Hafnermstr., Aidemajor u. Gr. Rath\",\n      \"address\": \"S. Qr. Enge S. Nr. 127, 128 u. 129.\",\n      \"quarter\": \"S. Qr.\",\n      \"street\": \"Enge\",\n      \"house_no\": \"127, 128 u. 129\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Sybold, Ludw., Hafnermstr., Aidemajor u. Gr. Rath, S. Qr. Enge S. Nr. 127, 128 u. 129. H. u. B.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Sybold\",\n      \"forename\": \"Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Pfarrer im Zuchthause\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Sybold, Rud., Pfarrer im Zuchthause. B.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": null,\n      \"place\": \"Bern\",\n      \"surname\": \"Sybold\",\n      \"forename\": \"Rud.\",\n      \"title\": \"\",\n      \"occupation\": \"Küfer\",\n      \"address\": \"in Amerika\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Sybold, Rud., Küfer, in Amerika. B.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tänzer\",\n      \"forename\": \"Nanette\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"W. Qr. Postgasse ✠ Nr. 35.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Postgasse\",\n      \"house_no\": \"35\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tänzer, Nanette, Schneiderin, W. Qr. Postgasse ✠ Nr. 35.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tanner\",\n      \"forename\": \"Elise\",\n      \"title\": \"\",\n      \"occupation\": \"Rentière\",\n      \"address\": \"Gn. Qr. Kramg. ✠ Nr. 140.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramg.\",\n      \"house_no\": \"140\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Tscharner; H. u. B.\",\n      \"text\": \"Tanner, Elise, geb. Tscharner, Rentière, Gn. Qr. Kramg. ✠ Nr. 140. H. u. B.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tanner\",\n      \"forename\": \"Franz Karl\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzger\",\n      \"address\": \"R. Qr. Schauplatzg. S. Nr. 219.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Schauplatzg.\",\n      \"house_no\": \"219\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tanner, Franz Karl, Schweinmetzger, R. Qr. Schauplatzg. S. Nr. 219.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tanner\",\n      \"forename\": \"Friedr.\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzger\",\n      \"address\": \"Gb. Qr. Marktg. ✠ Nr. 31.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"31\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tanner, Friedr., Schweinmetzger, Gb. Qr. Marktg. ✠ Nr. 31.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tanner\",\n      \"forename\": \"Frdr.\",\n      \"title\": \"\",\n      \"occupation\": \"Schweinmetzger\",\n      \"address\": \"R. Qr. Zeughausplatz S. Nr. 249.\",\n      \"quarter\": \"R. Qr.\",\n      \"street\": \"Zeughausplatz\",\n      \"house_no\": \"249\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Tanner, Frdr., Schweinmetzger, R. Qr. Zeughausplatz S. Nr. 249. H.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tanner\",\n      \"forename\": \"Niklaus\",\n      \"title\": \"\",\n      \"occupation\": \"Steinhauermstr.\",\n      \"address\": \"Gn. Qr. Keßlerg. S. Nr. 292.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Keßlerg.\",\n      \"house_no\": \"292\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tanner, Niklaus, Steinhauermstr., Gn. Qr. Keßlerg. S. Nr. 292.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tanner\",\n      \"forename\": \"Isaak Frdr.\",\n      \"title\": \"\",\n      \"occupation\": \"Metzger und Schweinmetzger\",\n      \"address\": \"W. Qr. Gerechtigkeitsgasse ✠ Nr. 87.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsgasse\",\n      \"house_no\": \"87\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tanner, Isaak Frdr., Metzger und Schweinmetzger, W. Qr. Gerechtigkeitsgasse ✠ Nr. 87.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tavel\",\n      \"forename\": \"Alex. Lud. Rud.\",\n      \"title\": \"v.\",\n      \"occupation\": \"\",\n      \"address\": \"W. Qr. Junkerng. S. Nr. 178.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerng.\",\n      \"house_no\": \"178\",\n      \"origin\": \"von Féchy\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tavel, v., Alex. Lud. Rud., von Féchy, W. Qr. Junkerng. S. Nr. 178. H. u. B.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tavel\",\n      \"forename\": \"Albr. Viktor\",\n      \"title\": \"v.\",\n      \"occupation\": \"alt Forstmeister\",\n      \"address\": \"Gn. Qr. Keßlergasse S. Nr. 285.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Keßlergasse\",\n      \"house_no\": \"285\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tavel, v., Albr. Viktor, alt Forstmeister, Gn. Qr. Keßlergasse S. Nr. 285. H. u. B.\"\n    },\n    {\n      \"line_from\": 30,\n      \"line_to\": 31,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tavel\",\n      \"forename\": \"Em. Rud.\",\n      \"title\": \"v.\",\n      \"occupation\": \"alt Oberamtmann von Frutigen\",\n      \"address\": \"Gb. Qr. Judengasse S. Nr. 125.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Judengasse\",\n      \"house_no\": \"125\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tavel, v., Em. Rud., alt Oberamtmann von Frutigen, Gb. Qr. Judengasse S. Nr. 125. B.\"\n    },\n    {\n      \"line_from\": 32,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tavel\",\n      \"forename\": \"Franz Karl\",\n      \"title\": \"v.\",\n      \"occupation\": \"Reg. Rath, Präsident des Militärdepartements\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. S. Nr. 115 u. 156.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"115 u. 156\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Tavel, v., Franz Karl, Reg. Rath, Präsident des Militärdepartements, W. Qr. Gerechtigkeitsg. S. Nr. 115 u. 156. H. u. B.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tavel\",\n      \"forename\": \"Karl Ludw.\",\n      \"title\": \"v.\",\n      \"occupation\": \"gew. Platzkommandant\",\n      \"address\": \"Aarzieledrittel Nr. 13 und 14. Gn. Qr. Kramg. ✠ Nr. 173.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramg.\",\n      \"house_no\": \"173\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Aarzieledrittel Nr. 13 und 14; H. u. B.\",\n      \"text\": \"Tavel, v., Karl Ludw., gew. Platzkommandant, Aarzieledrittel Nr. 13 und 14. Gn. Qr. Kramg. ✠ Nr. 173. H. u. B.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tavel\",\n      \"forename\": \"Rud. Franz\",\n      \"title\": \"v.\",\n      \"occupation\": \"alt Rathsherr\",\n      \"address\": \"W. Qr. Junkerngasse S. Nr. 179.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Junkerngasse\",\n      \"house_no\": \"179\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Tavel, v., Rud. Franz, alt Rathsherr, W. Qr. Junkerngasse S. Nr. 179. B.\"\n    },\n    {\n      \"line_from\": 38,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Tessaro\",\n      \"forename\": \"Felix\",\n      \"title\": \"\",\n      \"occupation\": \"Kunsthändler\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. ✠ Nr. 102.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"102\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Tessaro, Felix, Kunsthändler, W. Qr. Gerechtigkeitsg. ✠ Nr. 102.\"\n    },\n    {\n      \"line_from\": 39,\n      \"line_to\": 39,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Theurillat\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Pintenwirthin\",\n      \"address\": \"Gn. Qr. Keßlerg. ✠ Nr. 245.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Keßlerg.\",\n      \"house_no\": \"245\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Stöcklin\",\n      \"text\": \"Theurillat, geb. Stöcklin, Pintenwirthin, Gn. Qr. Keßlerg. ✠ Nr. 245.\"\n    },\n    {\n      \"line_from\": 40,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Teutsch\",\n      \"forename\": \"Kathar. Rosina\",\n      \"title\": \"\",\n      \"occupation\": \"Marchande\",\n      \"address\": \"Gb. Qr. Marktg. ✠ Nr. 33.\",\n      \"quarter\": \"Gb. Qr.\",\n      \"street\": \"Marktg.\",\n      \"house_no\": \"33\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Teutsch, Kathar. Rosina, Marchande, Gb. Qr. Marktg. ✠ Nr. 33.\"\n    },\n    {\n      \"line_from\": 41,\n      \"line_to\": 42,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Thalmann\",\n      \"forename\": \"Sus.\",\n      \"title\": \"\",\n      \"occupation\": \"Kaffeewirthin\",\n      \"address\": \"Gn. Qr. Metzgerg. ✠ Nr. 97.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Metzgerg.\",\n      \"house_no\": \"97\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Ackermann\",\n      \"text\": \"Thalmann, geb. Ackermann, Sus., Kaffeewirthin, Gn. Qr. Metzgerg. ✠ Nr. 97.\"\n    },\n    {\n      \"line_from\": 43,\n      \"line_to\": 44,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Theile\",\n      \"forename\": \"F. Wilh.\",\n      \"title\": \"Dr.\",\n      \"occupation\": \"Professor der Anatomie\",\n      \"address\": \"Gn. Qr. Kramgasse S. Nr. 153.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Kramgasse\",\n      \"house_no\": \"153\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Theile, F. Wilh., Dr. Professor der Anatomie, Gn. Qr. Kramgasse S. Nr. 153.\"\n    },\n    {\n      \"line_from\": 45,\n      \"line_to\": 46,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Thévoz\",\n      \"forename\": \"Philipp\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth zum eidgen. Kreuz\",\n      \"address\": \"Gn. Qr. Zeughausgasse S. Nr. 19a.\",\n      \"quarter\": \"Gn. Qr.\",\n      \"street\": \"Zeughausgasse\",\n      \"house_no\": \"19a\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H.\",\n      \"text\": \"Thévoz, Philipp, Wirth zum eidgen. Kreuz, Gn. Qr. Zeughausgasse S. Nr. 19a. H.\"\n    },\n    {\n      \"line_from\": 47,\n      \"line_to\": 48,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Thomy\",\n      \"forename\": \"Anna Barbara\",\n      \"title\": \"\",\n      \"occupation\": \"Gremplerin\",\n      \"address\": \"W. Qr. Gerechtigkeitsgasse S. Nr. 139.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsgasse\",\n      \"house_no\": \"139\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Oblaser\",\n      \"text\": \"Thomy, geb. Oblaser, Anna Barbara, Gremplerin, W. Qr. Gerechtigkeitsgasse S. Nr. 139.\"\n    },\n    {\n      \"line_from\": 49,\n      \"line_to\": 50,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Thormann\",\n      \"forename\": \"Alex. Viktor Ludw.\",\n      \"title\": \"\",\n      \"occupation\": \"Hauptmann\",\n      \"address\": \"W. Qr. Gerechtigkeitsg. S. Nr. 100.\",\n      \"quarter\": \"W. Qr.\",\n      \"street\": \"Gerechtigkeitsg.\",\n      \"house_no\": \"100\",\n      \"origin\": \"von Aarberg\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Thormann, Alex. Viktor Ludw., von Aarberg, Hauptmann, W. Qr. Gerechtigkeitsg. S. Nr. 100. B.\"\n    },\n    {\n      \"line_from\": 51,\n      \"line_to\": 52,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Thormann\",\n      \"forename\": \"Elise Henr.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Schoßhaldendrittel Sahli Nr. 41 und 42.\",\n      \"quarter\": \"\",\n      \"street\": \"Schoßhaldendrittel Sahli\",\n      \"house_no\": \"41 und 42\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"H. u. B.\",\n      \"text\": \"Thormann, Elise Henr., Schoßhaldendrittel Sahli Nr. 41 und 42. H. u. B.\"\n    },\n    {\n      \"line_from\": 53,\n      \"line_to\": 53,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Thormann\",\n      \"forename\": \"Em. Frdr.\",\n      \"title\": \"\",\n      \"occupation\": \"gew. Substitut, Standesbuchhalter\",\n      \"address\": \"abwes.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Thormann, Em. Frdr., gew. Substitut, Standesbuchhalter, abwes. B.\"\n    },\n    {\n      \"line_from\": 54,\n      \"line_to\": 54,\n      \"kind\": \"person\",\n      \"heading\": \"T.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Thormann\",\n      \"forename\": \"Frdr.\",\n      \"title\": \"\",\n      \"occupation\": \"alt Oberamtmann von Interlacken\",\n      \"address\": \"zu Gerzensee\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"B.\",\n      \"text\": \"Thormann, Frdr., alt Oberamtmann von Interlacken, zu Gerzensee. B.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "103",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "103"
+   },
+   {
+    "n": 2,
+    "text": "Suri, Abr. Albr., Schlossermstr., Gb. Qr. Käfiggäßl. S. Nr. 100."
+   },
+   {
+    "n": 3,
+    "text": "Suter, Bernh., Postwagner, R. Qr. Schauplatzg. ✠ Nr. 200. H."
+   },
+   {
+    "n": 4,
+    "text": "Suter, Fr. Dav., Klaviermacher, W. Qr. Junkerng. S. Nr. 203."
+   },
+   {
+    "n": 5,
+    "text": "Suter, Karl, Zuckerbäcker, W. Qr. Gerechtigkeitsg. S. Nr. 109."
+   },
+   {
+    "n": 6,
+    "text": "Suter, Frau, geb. Zürcher, Maria, W. Qr. Gerechtigkeitsgasse S."
+   },
+   {
+    "n": 7,
+    "text": "Nr. 109. H."
+   },
+   {
+    "n": 8,
+    "text": "Suter, Melch., Schweinmetzger, W. Qr. Junkerng. S. Nr. 183."
+   },
+   {
+    "n": 9,
+    "text": "Suter, Nikl., Metzgermstr., R. Qr. Bollwerk ✠ Nr. 78 a."
+   },
+   {
+    "n": 10,
+    "text": "Suter, Frau, geb. Pagenstecher, Wittwe, Rentière, Gn. Qr. Kramg."
+   },
+   {
+    "n": 11,
+    "text": "S. Nr. 206. H."
+   },
+   {
+    "n": 12,
+    "text": "Sybold, Ludw., Hafnermstr., Aidemajor u. Gr. Rath, S. Qr. Enge"
+   },
+   {
+    "n": 13,
+    "text": "S. Nr. 127, 128 u. 129. H. u. B."
+   },
+   {
+    "n": 14,
+    "text": "Sybold, Rud., Pfarrer im Zuchthause. B."
+   },
+   {
+    "n": 15,
+    "text": "Sybold, Rud., Küfer, in Amerika. B."
+   },
+   {
+    "n": 16,
+    "text": "T."
+   },
+   {
+    "n": 17,
+    "text": "Tänzer, Nanette, Schneiderin, W. Qr. Postgasse ✠ Nr. 35."
+   },
+   {
+    "n": 18,
+    "text": "Tanner, Elise, geb. Tscharner, Rentière, Gn. Qr. Kramg. ✠ Nr. 140."
+   },
+   {
+    "n": 19,
+    "text": "H. u. B."
+   },
+   {
+    "n": 20,
+    "text": "Tanner, Franz Karl, Schweinmetzger, R. Qr. Schauplatzg. S. Nr. 219."
+   },
+   {
+    "n": 21,
+    "text": "Tanner, Friedr., Schweinmetzger, Gb. Qr. Marktg. ✠ Nr. 31."
+   },
+   {
+    "n": 22,
+    "text": "Tanner, Frdr., Schweinmetzger, R. Qr. Zeughausplatz S. Nr. 249. H."
+   },
+   {
+    "n": 23,
+    "text": "Tanner, Niklaus, Steinhauermstr., Gn. Qr. Keßlerg. S. Nr. 292."
+   },
+   {
+    "n": 24,
+    "text": "Tanner, Isaak Frdr., Metzger und Schweinmetzger, W. Qr. Gerech-"
+   },
+   {
+    "n": 25,
+    "text": "tigkeitsgasse ✠ Nr. 87."
+   },
+   {
+    "n": 26,
+    "text": "Tavel, v., Alex. Lud. Rud., von Féchy, W. Qr. Junkerng. S. Nr. 178."
+   },
+   {
+    "n": 27,
+    "text": "H. u. B."
+   },
+   {
+    "n": 28,
+    "text": "Tavel, v., Albr. Viktor, alt Forstmeister, Gn. Qr. Keßlergasse S."
+   },
+   {
+    "n": 29,
+    "text": "Nr. 285. H. u. B."
+   },
+   {
+    "n": 30,
+    "text": "Tavel, v., Em. Rud., alt Oberamtmann von Frutigen, Gb. Qr. Ju-"
+   },
+   {
+    "n": 31,
+    "text": "dengasse S. Nr. 125. B."
+   },
+   {
+    "n": 32,
+    "text": "Tavel, v., Franz Karl, Reg. Rath, Präsident des Militärdepartements,"
+   },
+   {
+    "n": 33,
+    "text": "W. Qr. Gerechtigkeitsg. S. Nr. 115 u. 156. H. u. B."
+   },
+   {
+    "n": 34,
+    "text": "Tavel, v., Karl Ludw., gew. Platzkommandant, Aarzieledrittel Nr. 13"
+   },
+   {
+    "n": 35,
+    "text": "und 14. Gn. Qr. Kramg. ✠ Nr. 173. H. u. B."
+   },
+   {
+    "n": 36,
+    "text": "Tavel, v., Rud. Franz, alt Rathsherr, W. Qr. Junkerngasse S."
+   },
+   {
+    "n": 37,
+    "text": "Nr. 179. B."
+   },
+   {
+    "n": 38,
+    "text": "Tessaro, Felix, Kunsthändler, W. Qr. Gerechtigkeitsg. ✠ Nr. 102."
+   },
+   {
+    "n": 39,
+    "text": "Theurillat, geb. Stöcklin, Pintenwirthin, Gn. Qr. Keßlerg. ✠ Nr. 245."
+   },
+   {
+    "n": 40,
+    "text": "Teutsch, Kathar. Rosina, Marchande, Gb. Qr. Marktg. ✠ Nr. 33."
+   },
+   {
+    "n": 41,
+    "text": "Thalmann, geb. Ackermann, Sus., Kaffeewirthin, Gn. Qr. Metzgerg."
+   },
+   {
+    "n": 42,
+    "text": "✠ Nr. 97."
+   },
+   {
+    "n": 43,
+    "text": "Theile, F. Wilh., Dr. Professor der Anatomie, Gn. Qr. Kramgasse"
+   },
+   {
+    "n": 44,
+    "text": "S. Nr. 153."
+   },
+   {
+    "n": 45,
+    "text": "Thévoz, Philipp, Wirth zum eidgen. Kreuz, Gn. Qr. Zeughausgasse"
+   },
+   {
+    "n": 46,
+    "text": "S. Nr. 19a. H."
+   },
+   {
+    "n": 47,
+    "text": "Thomy, geb. Oblaser, Anna Barbara, Gremplerin, W. Qr. Gerech-"
+   },
+   {
+    "n": 48,
+    "text": "tigkeitsgasse S. Nr. 139."
+   },
+   {
+    "n": 49,
+    "text": "Thormann, Alex. Viktor Ludw., von Aarberg, Hauptmann, W. Qr."
+   },
+   {
+    "n": 50,
+    "text": "Gerechtigkeitsg. S. Nr. 100. B."
+   },
+   {
+    "n": 51,
+    "text": "Thormann, Elise Henr., Schoßhaldendrittel Sahli Nr. 41 und 42."
+   },
+   {
+    "n": 52,
+    "text": "H. u. B."
+   },
+   {
+    "n": 53,
+    "text": "Thormann, Em. Frdr., gew. Substitut, Standesbuchhalter, abwes. B."
+   },
+   {
+    "n": 54,
+    "text": "Thormann, Frdr., alt Oberamtmann von Interlacken, zu Gerzensee. B."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Suri",
+    "forename": "Abr. Albr.",
+    "title": "",
+    "occupation": "Schlossermstr.",
+    "address": "Gb. Qr. Käfiggäßl. S. Nr. 100.",
+    "quarter": "Gb. Qr.",
+    "street": "Käfiggäßl.",
+    "house_no": "100",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Suri, Abr. Albr., Schlossermstr., Gb. Qr. Käfiggäßl. S. Nr. 100."
+   },
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Bernh.",
+    "title": "",
+    "occupation": "Postwagner",
+    "address": "R. Qr. Schauplatzg. ✠ Nr. 200.",
+    "quarter": "R. Qr.",
+    "street": "Schauplatzg.",
+    "house_no": "200",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Suter, Bernh., Postwagner, R. Qr. Schauplatzg. ✠ Nr. 200. H."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Fr. Dav.",
+    "title": "",
+    "occupation": "Klaviermacher",
+    "address": "W. Qr. Junkerng. S. Nr. 203.",
+    "quarter": "W. Qr.",
+    "street": "Junkerng.",
+    "house_no": "203",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Suter, Fr. Dav., Klaviermacher, W. Qr. Junkerng. S. Nr. 203."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Karl",
+    "title": "",
+    "occupation": "Zuckerbäcker",
+    "address": "W. Qr. Gerechtigkeitsg. S. Nr. 109.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "109",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Suter, Karl, Zuckerbäcker, W. Qr. Gerechtigkeitsg. S. Nr. 109."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Maria",
+    "title": "Frau",
+    "occupation": "",
+    "address": "W. Qr. Gerechtigkeitsgasse S. Nr. 109.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsgasse",
+    "house_no": "109",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Zürcher; H.",
+    "text": "Suter, Frau, geb. Zürcher, Maria, W. Qr. Gerechtigkeitsgasse S. Nr. 109. H."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Melch.",
+    "title": "",
+    "occupation": "Schweinmetzger",
+    "address": "W. Qr. Junkerng. S. Nr. 183.",
+    "quarter": "W. Qr.",
+    "street": "Junkerng.",
+    "house_no": "183",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Suter, Melch., Schweinmetzger, W. Qr. Junkerng. S. Nr. 183."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "Nikl.",
+    "title": "",
+    "occupation": "Metzgermstr.",
+    "address": "R. Qr. Bollwerk ✠ Nr. 78 a.",
+    "quarter": "R. Qr.",
+    "street": "Bollwerk",
+    "house_no": "78 a",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Suter, Nikl., Metzgermstr., R. Qr. Bollwerk ✠ Nr. 78 a."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Suter",
+    "forename": "",
+    "title": "Frau, Wittwe",
+    "occupation": "Rentière",
+    "address": "Gn. Qr. Kramg. S. Nr. 206.",
+    "quarter": "Gn. Qr.",
+    "street": "Kramg.",
+    "house_no": "206",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Pagenstecher; H.",
+    "text": "Suter, Frau, geb. Pagenstecher, Wittwe, Rentière, Gn. Qr. Kramg. S. Nr. 206. H."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Sybold",
+    "forename": "Ludw.",
+    "title": "",
+    "occupation": "Hafnermstr., Aidemajor u. Gr. Rath",
+    "address": "S. Qr. Enge S. Nr. 127, 128 u. 129.",
+    "quarter": "S. Qr.",
+    "street": "Enge",
+    "house_no": "127, 128 u. 129",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Sybold, Ludw., Hafnermstr., Aidemajor u. Gr. Rath, S. Qr. Enge S. Nr. 127, 128 u. 129. H. u. B."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Sybold",
+    "forename": "Rud.",
+    "title": "",
+    "occupation": "Pfarrer im Zuchthause",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Sybold, Rud., Pfarrer im Zuchthause. B."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": null,
+    "place": "Bern",
+    "surname": "Sybold",
+    "forename": "Rud.",
+    "title": "",
+    "occupation": "Küfer",
+    "address": "in Amerika",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Sybold, Rud., Küfer, in Amerika. B."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tänzer",
+    "forename": "Nanette",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "W. Qr. Postgasse ✠ Nr. 35.",
+    "quarter": "W. Qr.",
+    "street": "Postgasse",
+    "house_no": "35",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tänzer, Nanette, Schneiderin, W. Qr. Postgasse ✠ Nr. 35."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tanner",
+    "forename": "Elise",
+    "title": "",
+    "occupation": "Rentière",
+    "address": "Gn. Qr. Kramg. ✠ Nr. 140.",
+    "quarter": "Gn. Qr.",
+    "street": "Kramg.",
+    "house_no": "140",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Tscharner; H. u. B.",
+    "text": "Tanner, Elise, geb. Tscharner, Rentière, Gn. Qr. Kramg. ✠ Nr. 140. H. u. B."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tanner",
+    "forename": "Franz Karl",
+    "title": "",
+    "occupation": "Schweinmetzger",
+    "address": "R. Qr. Schauplatzg. S. Nr. 219.",
+    "quarter": "R. Qr.",
+    "street": "Schauplatzg.",
+    "house_no": "219",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tanner, Franz Karl, Schweinmetzger, R. Qr. Schauplatzg. S. Nr. 219."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tanner",
+    "forename": "Friedr.",
+    "title": "",
+    "occupation": "Schweinmetzger",
+    "address": "Gb. Qr. Marktg. ✠ Nr. 31.",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "31",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tanner, Friedr., Schweinmetzger, Gb. Qr. Marktg. ✠ Nr. 31."
+   },
+   {
+    "line_from": 22,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tanner",
+    "forename": "Frdr.",
+    "title": "",
+    "occupation": "Schweinmetzger",
+    "address": "R. Qr. Zeughausplatz S. Nr. 249.",
+    "quarter": "R. Qr.",
+    "street": "Zeughausplatz",
+    "house_no": "249",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Tanner, Frdr., Schweinmetzger, R. Qr. Zeughausplatz S. Nr. 249. H."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tanner",
+    "forename": "Niklaus",
+    "title": "",
+    "occupation": "Steinhauermstr.",
+    "address": "Gn. Qr. Keßlerg. S. Nr. 292.",
+    "quarter": "Gn. Qr.",
+    "street": "Keßlerg.",
+    "house_no": "292",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tanner, Niklaus, Steinhauermstr., Gn. Qr. Keßlerg. S. Nr. 292."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tanner",
+    "forename": "Isaak Frdr.",
+    "title": "",
+    "occupation": "Metzger und Schweinmetzger",
+    "address": "W. Qr. Gerechtigkeitsgasse ✠ Nr. 87.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsgasse",
+    "house_no": "87",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tanner, Isaak Frdr., Metzger und Schweinmetzger, W. Qr. Gerechtigkeitsgasse ✠ Nr. 87."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tavel",
+    "forename": "Alex. Lud. Rud.",
+    "title": "v.",
+    "occupation": "",
+    "address": "W. Qr. Junkerng. S. Nr. 178.",
+    "quarter": "W. Qr.",
+    "street": "Junkerng.",
+    "house_no": "178",
+    "origin": "von Féchy",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tavel, v., Alex. Lud. Rud., von Féchy, W. Qr. Junkerng. S. Nr. 178. H. u. B."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tavel",
+    "forename": "Albr. Viktor",
+    "title": "v.",
+    "occupation": "alt Forstmeister",
+    "address": "Gn. Qr. Keßlergasse S. Nr. 285.",
+    "quarter": "Gn. Qr.",
+    "street": "Keßlergasse",
+    "house_no": "285",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tavel, v., Albr. Viktor, alt Forstmeister, Gn. Qr. Keßlergasse S. Nr. 285. H. u. B."
+   },
+   {
+    "line_from": 30,
+    "line_to": 31,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tavel",
+    "forename": "Em. Rud.",
+    "title": "v.",
+    "occupation": "alt Oberamtmann von Frutigen",
+    "address": "Gb. Qr. Judengasse S. Nr. 125.",
+    "quarter": "Gb. Qr.",
+    "street": "Judengasse",
+    "house_no": "125",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tavel, v., Em. Rud., alt Oberamtmann von Frutigen, Gb. Qr. Judengasse S. Nr. 125. B."
+   },
+   {
+    "line_from": 32,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tavel",
+    "forename": "Franz Karl",
+    "title": "v.",
+    "occupation": "Reg. Rath, Präsident des Militärdepartements",
+    "address": "W. Qr. Gerechtigkeitsg. S. Nr. 115 u. 156.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "115 u. 156",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Tavel, v., Franz Karl, Reg. Rath, Präsident des Militärdepartements, W. Qr. Gerechtigkeitsg. S. Nr. 115 u. 156. H. u. B."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tavel",
+    "forename": "Karl Ludw.",
+    "title": "v.",
+    "occupation": "gew. Platzkommandant",
+    "address": "Aarzieledrittel Nr. 13 und 14. Gn. Qr. Kramg. ✠ Nr. 173.",
+    "quarter": "Gn. Qr.",
+    "street": "Kramg.",
+    "house_no": "173",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Aarzieledrittel Nr. 13 und 14; H. u. B.",
+    "text": "Tavel, v., Karl Ludw., gew. Platzkommandant, Aarzieledrittel Nr. 13 und 14. Gn. Qr. Kramg. ✠ Nr. 173. H. u. B."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tavel",
+    "forename": "Rud. Franz",
+    "title": "v.",
+    "occupation": "alt Rathsherr",
+    "address": "W. Qr. Junkerngasse S. Nr. 179.",
+    "quarter": "W. Qr.",
+    "street": "Junkerngasse",
+    "house_no": "179",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Tavel, v., Rud. Franz, alt Rathsherr, W. Qr. Junkerngasse S. Nr. 179. B."
+   },
+   {
+    "line_from": 38,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Tessaro",
+    "forename": "Felix",
+    "title": "",
+    "occupation": "Kunsthändler",
+    "address": "W. Qr. Gerechtigkeitsg. ✠ Nr. 102.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "102",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Tessaro, Felix, Kunsthändler, W. Qr. Gerechtigkeitsg. ✠ Nr. 102."
+   },
+   {
+    "line_from": 39,
+    "line_to": 39,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Theurillat",
+    "forename": "",
+    "title": "",
+    "occupation": "Pintenwirthin",
+    "address": "Gn. Qr. Keßlerg. ✠ Nr. 245.",
+    "quarter": "Gn. Qr.",
+    "street": "Keßlerg.",
+    "house_no": "245",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Stöcklin",
+    "text": "Theurillat, geb. Stöcklin, Pintenwirthin, Gn. Qr. Keßlerg. ✠ Nr. 245."
+   },
+   {
+    "line_from": 40,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Teutsch",
+    "forename": "Kathar. Rosina",
+    "title": "",
+    "occupation": "Marchande",
+    "address": "Gb. Qr. Marktg. ✠ Nr. 33.",
+    "quarter": "Gb. Qr.",
+    "street": "Marktg.",
+    "house_no": "33",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Teutsch, Kathar. Rosina, Marchande, Gb. Qr. Marktg. ✠ Nr. 33."
+   },
+   {
+    "line_from": 41,
+    "line_to": 42,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Thalmann",
+    "forename": "Sus.",
+    "title": "",
+    "occupation": "Kaffeewirthin",
+    "address": "Gn. Qr. Metzgerg. ✠ Nr. 97.",
+    "quarter": "Gn. Qr.",
+    "street": "Metzgerg.",
+    "house_no": "97",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Ackermann",
+    "text": "Thalmann, geb. Ackermann, Sus., Kaffeewirthin, Gn. Qr. Metzgerg. ✠ Nr. 97."
+   },
+   {
+    "line_from": 43,
+    "line_to": 44,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Theile",
+    "forename": "F. Wilh.",
+    "title": "Dr.",
+    "occupation": "Professor der Anatomie",
+    "address": "Gn. Qr. Kramgasse S. Nr. 153.",
+    "quarter": "Gn. Qr.",
+    "street": "Kramgasse",
+    "house_no": "153",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Theile, F. Wilh., Dr. Professor der Anatomie, Gn. Qr. Kramgasse S. Nr. 153."
+   },
+   {
+    "line_from": 45,
+    "line_to": 46,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Thévoz",
+    "forename": "Philipp",
+    "title": "",
+    "occupation": "Wirth zum eidgen. Kreuz",
+    "address": "Gn. Qr. Zeughausgasse S. Nr. 19a.",
+    "quarter": "Gn. Qr.",
+    "street": "Zeughausgasse",
+    "house_no": "19a",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H.",
+    "text": "Thévoz, Philipp, Wirth zum eidgen. Kreuz, Gn. Qr. Zeughausgasse S. Nr. 19a. H."
+   },
+   {
+    "line_from": 47,
+    "line_to": 48,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Thomy",
+    "forename": "Anna Barbara",
+    "title": "",
+    "occupation": "Gremplerin",
+    "address": "W. Qr. Gerechtigkeitsgasse S. Nr. 139.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsgasse",
+    "house_no": "139",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Oblaser",
+    "text": "Thomy, geb. Oblaser, Anna Barbara, Gremplerin, W. Qr. Gerechtigkeitsgasse S. Nr. 139."
+   },
+   {
+    "line_from": 49,
+    "line_to": 50,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Thormann",
+    "forename": "Alex. Viktor Ludw.",
+    "title": "",
+    "occupation": "Hauptmann",
+    "address": "W. Qr. Gerechtigkeitsg. S. Nr. 100.",
+    "quarter": "W. Qr.",
+    "street": "Gerechtigkeitsg.",
+    "house_no": "100",
+    "origin": "von Aarberg",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Thormann, Alex. Viktor Ludw., von Aarberg, Hauptmann, W. Qr. Gerechtigkeitsg. S. Nr. 100. B."
+   },
+   {
+    "line_from": 51,
+    "line_to": 52,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Thormann",
+    "forename": "Elise Henr.",
+    "title": "",
+    "occupation": "",
+    "address": "Schoßhaldendrittel Sahli Nr. 41 und 42.",
+    "quarter": "",
+    "street": "Schoßhaldendrittel Sahli",
+    "house_no": "41 und 42",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "H. u. B.",
+    "text": "Thormann, Elise Henr., Schoßhaldendrittel Sahli Nr. 41 und 42. H. u. B."
+   },
+   {
+    "line_from": 53,
+    "line_to": 53,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Thormann",
+    "forename": "Em. Frdr.",
+    "title": "",
+    "occupation": "gew. Substitut, Standesbuchhalter",
+    "address": "abwes.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Thormann, Em. Frdr., gew. Substitut, Standesbuchhalter, abwes. B."
+   },
+   {
+    "line_from": 54,
+    "line_to": 54,
+    "kind": "person",
+    "heading": "T.",
+    "place": "Bern",
+    "surname": "Thormann",
+    "forename": "Frdr.",
+    "title": "",
+    "occupation": "alt Oberamtmann von Interlacken",
+    "address": "zu Gerzensee",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "B.",
+    "text": "Thormann, Frdr., alt Oberamtmann von Interlacken, zu Gerzensee. B."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:19:28+01:00",
+ "last_error": null
+}

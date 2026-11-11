@@ -1,0 +1,414 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 68,
+ "section": "einsassen",
+ "started": "2026-11-11T22:00:15+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 45.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 3996,
+  "thoughts": 3613
+ },
+ "response_text": "{\n  \"printed_page\": \"55\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 55 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Grunder.\"},\n    {\"n\": 4, \"text\": \"1 792 Bendicht, Pächter, a. Vechigen - I, 198.\"},\n    {\"n\": 5, \"text\": \"814 Fr. II Ehe. - Elis. Wahli a. Bolligen.\"},\n    {\"n\": 6, \"text\": \"1 T. - 842 Elisabetha.\"},\n    {\"n\": 7, \"text\": \"2 811 Joh., Wirth u. Hauseigenthümer, a. Hettiswyl - II, 84.\"},\n    {\"n\": 8, \"text\": \"815 Fr. - Elis. Lanz a. Eriswyl.\"},\n    {\"n\": 9, \"text\": \"Gschwind.\"},\n    {\"n\": 10, \"text\": \"1 793 Maria Dorothea, geb. Mercier, Barbiererin, a. Cour-\"},\n    {\"n\": 11, \"text\": \"chavon, Wittwe - II, 28.\"},\n    {\"n\": 12, \"text\": \"6 K. - 816 Jakob Norbert. - 19 Heinrich Em. -\"},\n    {\"n\": 13, \"text\": \"21 Albr. Ludwig Em. - Nr. 2. - 28 Maria. - 33\"},\n    {\"n\": 14, \"text\": \"Charlotte.\"},\n    {\"n\": 15, \"text\": \"2 824 Sophie Elise, T. v. 1, Lohnwascherin - II, 224 a.\"},\n    {\"n\": 16, \"text\": \"Günthard.\"},\n    {\"n\": 17, \"text\": \"1 799 Rudolf Jakob, Buchhalter der Mobiliarassekuranz, a.\"},\n    {\"n\": 18, \"text\": \"Adlischwyl, K. Zürich, V. v. 2 - IV, 265.\"},\n    {\"n\": 19, \"text\": \"2 805 Esther Elisabetha, Schw. v. 1.\"},\n    {\"n\": 20, \"text\": \"Günther.\"},\n    {\"n\": 21, \"text\": \"1 811 Johannes, Schuhmacher u. Kleiderhändler, a. Konstanz\"},\n    {\"n\": 22, \"text\": \"- II, 52.\"},\n    {\"n\": 23, \"text\": \"816 Fr. - Maria Sab. Wiehler a. Vollmatingen b. Konstanz.\"},\n    {\"n\": 24, \"text\": \"2 S. - 841 Karl Joh. - 45 Albert.\"},\n    {\"n\": 25, \"text\": \"Güntlisberger.\"},\n    {\"n\": 26, \"text\": \"1 822 Albrecht Samuel, Handelsmann, a. Rüderswyl - IV, 64.\"},\n    {\"n\": 27, \"text\": \"Güntner.\"},\n    {\"n\": 28, \"text\": \"1 813 Joseph, Müller, a. Thörigen - I, 72.\"},\n    {\"n\": 29, \"text\": \"814 Fr. - Anna Maria Ingold a. Heimenhausen.\"},\n    {\"n\": 30, \"text\": \"7 K. - 835 Maria Kath. - 37 Joseph Joh. Karl. -\"},\n    {\"n\": 31, \"text\": \"39 Gottl. - 40 Elis. Sophie. - 43 Rud. Friedrich. -\"},\n    {\"n\": 32, \"text\": \"44 Karl Abraham. - 47 Emilie Elise.\"},\n    {\"n\": 33, \"text\": \"Gugelmann.\"},\n    {\"n\": 34, \"text\": \"1 Julie, geb. Strahm, a. Attiswyl, Kostgeberin - II, 158.\"},\n    {\"n\": 35, \"text\": \"Gugger.\"},\n    {\"n\": 36, \"text\": \"1 792 Johann, Gassensäuberer u. Grundeigenthümer, a. Buch-\"},\n    {\"n\": 37, \"text\": \"holterberg - VII, 185.\"},\n    {\"n\": 38, \"text\": \"801 Fr. - Magd. Farni a. Unterlangenegg.\"},\n    {\"n\": 39, \"text\": \"5 K. - 828 Magdalena. - 30 Johann. - 33 Anna. -\"},\n    {\"n\": 40, \"text\": \"36 Alexander. - 38 Maria Elis.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Grunder.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grunder\",\n      \"forename\": \"Bendicht\",\n      \"title\": \"\",\n      \"occupation\": \"Pächter\",\n      \"address\": \"I, 198\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"198\",\n      \"origin\": \"Vechigen\",\n      \"birth_year\": \"1792\",\n      \"household\": \"814 Fr. II Ehe. - Elis. Wahli a. Bolligen. 1 T. - 842 Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 792 Bendicht, Pächter, a. Vechigen - I, 198. 814 Fr. II Ehe. - Elis. Wahli a. Bolligen. 1 T. - 842 Elisabetha.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Grunder.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Grunder\",\n      \"forename\": \"Joh.\",\n      \"title\": \"\",\n      \"occupation\": \"Wirth u. Hauseigenthümer\",\n      \"address\": \"II, 84\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"84\",\n      \"origin\": \"Hettiswyl\",\n      \"birth_year\": \"1811\",\n      \"household\": \"815 Fr. - Elis. Lanz a. Eriswyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 811 Joh., Wirth u. Hauseigenthümer, a. Hettiswyl - II, 84. 815 Fr. - Elis. Lanz a. Eriswyl.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Gschwind.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gschwind\",\n      \"forename\": \"Maria Dorothea\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"Barbiererin\",\n      \"address\": \"II, 28\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"28\",\n      \"origin\": \"Courchavon\",\n      \"birth_year\": \"1793\",\n      \"household\": \"6 K. - 816 Jakob Norbert. - 19 Heinrich Em. - 21 Albr. Ludwig Em. - Nr. 2. - 28 Maria. - 33 Charlotte.\",\n      \"note\": \"geb. Mercier; Name aus Zwischentitel\",\n      \"text\": \"1 793 Maria Dorothea, geb. Mercier, Barbiererin, a. Courchavon, Wittwe - II, 28. 6 K. - 816 Jakob Norbert. - 19 Heinrich Em. - 21 Albr. Ludwig Em. - Nr. 2. - 28 Maria. - 33 Charlotte.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Gschwind.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gschwind\",\n      \"forename\": \"Sophie Elise\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnwascherin\",\n      \"address\": \"II, 224 a\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"224 a\",\n      \"origin\": \"\",\n      \"birth_year\": \"1824\",\n      \"household\": \"T. v. 1\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 824 Sophie Elise, T. v. 1, Lohnwascherin - II, 224 a.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Günthard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Günthard\",\n      \"forename\": \"Rudolf Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Buchhalter der Mobiliarassekuranz\",\n      \"address\": \"IV, 265\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"265\",\n      \"origin\": \"Adlischwyl, K. Zürich\",\n      \"birth_year\": \"1799\",\n      \"household\": \"V. v. 2\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Rudolf Jakob, Buchhalter der Mobiliarassekuranz, a. Adlischwyl, K. Zürich, V. v. 2 - IV, 265.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Günthard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Günthard\",\n      \"forename\": \"Esther Elisabetha\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"1805\",\n      \"household\": \"Schw. v. 1.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 805 Esther Elisabetha, Schw. v. 1.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Günther.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Günther\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher u. Kleiderhändler\",\n      \"address\": \"II, 52\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"52\",\n      \"origin\": \"Konstanz\",\n      \"birth_year\": \"1811\",\n      \"household\": \"816 Fr. - Maria Sab. Wiehler a. Vollmatingen b. Konstanz. 2 S. - 841 Karl Joh. - 45 Albert.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 811 Johannes, Schuhmacher u. Kleiderhändler, a. Konstanz - II, 52. 816 Fr. - Maria Sab. Wiehler a. Vollmatingen b. Konstanz. 2 S. - 841 Karl Joh. - 45 Albert.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Güntlisberger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Güntlisberger\",\n      \"forename\": \"Albrecht Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Handelsmann\",\n      \"address\": \"IV, 64\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"64\",\n      \"origin\": \"Rüderswyl\",\n      \"birth_year\": \"1822\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 822 Albrecht Samuel, Handelsmann, a. Rüderswyl - IV, 64.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Güntner.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Güntner\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Müller\",\n      \"address\": \"I, 72\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"72\",\n      \"origin\": \"Thörigen\",\n      \"birth_year\": \"1813\",\n      \"household\": \"814 Fr. - Anna Maria Ingold a. Heimenhausen. 7 K. - 835 Maria Kath. - 37 Joseph Joh. Karl. - 39 Gottl. - 40 Elis. Sophie. - 43 Rud. Friedrich. - 44 Karl Abraham. - 47 Emilie Elise.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 813 Joseph, Müller, a. Thörigen - I, 72. 814 Fr. - Anna Maria Ingold a. Heimenhausen. 7 K. - 835 Maria Kath. - 37 Joseph Joh. Karl. - 39 Gottl. - 40 Elis. Sophie. - 43 Rud. Friedrich. - 44 Karl Abraham. - 47 Emilie Elise.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 34,\n      \"kind\": \"person\",\n      \"heading\": \"Gugelmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gugelmann\",\n      \"forename\": \"Julie\",\n      \"title\": \"\",\n      \"occupation\": \"Kostgeberin\",\n      \"address\": \"II, 158\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"158\",\n      \"origin\": \"Attiswyl\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"geb. Strahm; Name aus Zwischentitel\",\n      \"text\": \"1 Julie, geb. Strahm, a. Attiswyl, Kostgeberin - II, 158.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 40,\n      \"kind\": \"person\",\n      \"heading\": \"Gugger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Gugger\",\n      \"forename\": \"Johann\",\n      \"title\": \"\",\n      \"occupation\": \"Gassensäuberer u. Grundeigenthümer\",\n      \"address\": \"VII, 185\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"185\",\n      \"origin\": \"Buchholterberg\",\n      \"birth_year\": \"1792\",\n      \"household\": \"801 Fr. - Magd. Farni a. Unterlangenegg. 5 K. - 828 Magdalena. - 30 Johann. - 33 Anna. - 36 Alexander. - 38 Maria Elis.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 792 Johann, Gassensäuberer u. Grundeigenthümer, a. Buchholterberg - VII, 185. 801 Fr. - Magd. Farni a. Unterlangenegg. 5 K. - 828 Magdalena. - 30 Johann. - 33 Anna. - 36 Alexander. - 38 Maria Elis.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "55",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 55 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Grunder."
+   },
+   {
+    "n": 4,
+    "text": "1 792 Bendicht, Pächter, a. Vechigen - I, 198."
+   },
+   {
+    "n": 5,
+    "text": "814 Fr. II Ehe. - Elis. Wahli a. Bolligen."
+   },
+   {
+    "n": 6,
+    "text": "1 T. - 842 Elisabetha."
+   },
+   {
+    "n": 7,
+    "text": "2 811 Joh., Wirth u. Hauseigenthümer, a. Hettiswyl - II, 84."
+   },
+   {
+    "n": 8,
+    "text": "815 Fr. - Elis. Lanz a. Eriswyl."
+   },
+   {
+    "n": 9,
+    "text": "Gschwind."
+   },
+   {
+    "n": 10,
+    "text": "1 793 Maria Dorothea, geb. Mercier, Barbiererin, a. Cour-"
+   },
+   {
+    "n": 11,
+    "text": "chavon, Wittwe - II, 28."
+   },
+   {
+    "n": 12,
+    "text": "6 K. - 816 Jakob Norbert. - 19 Heinrich Em. -"
+   },
+   {
+    "n": 13,
+    "text": "21 Albr. Ludwig Em. - Nr. 2. - 28 Maria. - 33"
+   },
+   {
+    "n": 14,
+    "text": "Charlotte."
+   },
+   {
+    "n": 15,
+    "text": "2 824 Sophie Elise, T. v. 1, Lohnwascherin - II, 224 a."
+   },
+   {
+    "n": 16,
+    "text": "Günthard."
+   },
+   {
+    "n": 17,
+    "text": "1 799 Rudolf Jakob, Buchhalter der Mobiliarassekuranz, a."
+   },
+   {
+    "n": 18,
+    "text": "Adlischwyl, K. Zürich, V. v. 2 - IV, 265."
+   },
+   {
+    "n": 19,
+    "text": "2 805 Esther Elisabetha, Schw. v. 1."
+   },
+   {
+    "n": 20,
+    "text": "Günther."
+   },
+   {
+    "n": 21,
+    "text": "1 811 Johannes, Schuhmacher u. Kleiderhändler, a. Konstanz"
+   },
+   {
+    "n": 22,
+    "text": "- II, 52."
+   },
+   {
+    "n": 23,
+    "text": "816 Fr. - Maria Sab. Wiehler a. Vollmatingen b. Konstanz."
+   },
+   {
+    "n": 24,
+    "text": "2 S. - 841 Karl Joh. - 45 Albert."
+   },
+   {
+    "n": 25,
+    "text": "Güntlisberger."
+   },
+   {
+    "n": 26,
+    "text": "1 822 Albrecht Samuel, Handelsmann, a. Rüderswyl - IV, 64."
+   },
+   {
+    "n": 27,
+    "text": "Güntner."
+   },
+   {
+    "n": 28,
+    "text": "1 813 Joseph, Müller, a. Thörigen - I, 72."
+   },
+   {
+    "n": 29,
+    "text": "814 Fr. - Anna Maria Ingold a. Heimenhausen."
+   },
+   {
+    "n": 30,
+    "text": "7 K. - 835 Maria Kath. - 37 Joseph Joh. Karl. -"
+   },
+   {
+    "n": 31,
+    "text": "39 Gottl. - 40 Elis. Sophie. - 43 Rud. Friedrich. -"
+   },
+   {
+    "n": 32,
+    "text": "44 Karl Abraham. - 47 Emilie Elise."
+   },
+   {
+    "n": 33,
+    "text": "Gugelmann."
+   },
+   {
+    "n": 34,
+    "text": "1 Julie, geb. Strahm, a. Attiswyl, Kostgeberin - II, 158."
+   },
+   {
+    "n": 35,
+    "text": "Gugger."
+   },
+   {
+    "n": 36,
+    "text": "1 792 Johann, Gassensäuberer u. Grundeigenthümer, a. Buch-"
+   },
+   {
+    "n": 37,
+    "text": "holterberg - VII, 185."
+   },
+   {
+    "n": 38,
+    "text": "801 Fr. - Magd. Farni a. Unterlangenegg."
+   },
+   {
+    "n": 39,
+    "text": "5 K. - 828 Magdalena. - 30 Johann. - 33 Anna. -"
+   },
+   {
+    "n": 40,
+    "text": "36 Alexander. - 38 Maria Elis."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Grunder.",
+    "place": "Bern",
+    "surname": "Grunder",
+    "forename": "Bendicht",
+    "title": "",
+    "occupation": "Pächter",
+    "address": "I, 198",
+    "quarter": "I",
+    "street": "",
+    "house_no": "198",
+    "origin": "Vechigen",
+    "birth_year": "1792",
+    "household": "814 Fr. II Ehe. - Elis. Wahli a. Bolligen. 1 T. - 842 Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 792 Bendicht, Pächter, a. Vechigen - I, 198. 814 Fr. II Ehe. - Elis. Wahli a. Bolligen. 1 T. - 842 Elisabetha."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Grunder.",
+    "place": "Bern",
+    "surname": "Grunder",
+    "forename": "Joh.",
+    "title": "",
+    "occupation": "Wirth u. Hauseigenthümer",
+    "address": "II, 84",
+    "quarter": "II",
+    "street": "",
+    "house_no": "84",
+    "origin": "Hettiswyl",
+    "birth_year": "1811",
+    "household": "815 Fr. - Elis. Lanz a. Eriswyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 811 Joh., Wirth u. Hauseigenthümer, a. Hettiswyl - II, 84. 815 Fr. - Elis. Lanz a. Eriswyl."
+   },
+   {
+    "line_from": 10,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Gschwind.",
+    "place": "Bern",
+    "surname": "Gschwind",
+    "forename": "Maria Dorothea",
+    "title": "Wittwe",
+    "occupation": "Barbiererin",
+    "address": "II, 28",
+    "quarter": "II",
+    "street": "",
+    "house_no": "28",
+    "origin": "Courchavon",
+    "birth_year": "1793",
+    "household": "6 K. - 816 Jakob Norbert. - 19 Heinrich Em. - 21 Albr. Ludwig Em. - Nr. 2. - 28 Maria. - 33 Charlotte.",
+    "note": "geb. Mercier; Name aus Zwischentitel",
+    "text": "1 793 Maria Dorothea, geb. Mercier, Barbiererin, a. Courchavon, Wittwe - II, 28. 6 K. - 816 Jakob Norbert. - 19 Heinrich Em. - 21 Albr. Ludwig Em. - Nr. 2. - 28 Maria. - 33 Charlotte."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Gschwind.",
+    "place": "Bern",
+    "surname": "Gschwind",
+    "forename": "Sophie Elise",
+    "title": "",
+    "occupation": "Lohnwascherin",
+    "address": "II, 224 a",
+    "quarter": "II",
+    "street": "",
+    "house_no": "224 a",
+    "origin": "",
+    "birth_year": "1824",
+    "household": "T. v. 1",
+    "note": "Name aus Zwischentitel",
+    "text": "2 824 Sophie Elise, T. v. 1, Lohnwascherin - II, 224 a."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Günthard.",
+    "place": "Bern",
+    "surname": "Günthard",
+    "forename": "Rudolf Jakob",
+    "title": "",
+    "occupation": "Buchhalter der Mobiliarassekuranz",
+    "address": "IV, 265",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "265",
+    "origin": "Adlischwyl, K. Zürich",
+    "birth_year": "1799",
+    "household": "V. v. 2",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Rudolf Jakob, Buchhalter der Mobiliarassekuranz, a. Adlischwyl, K. Zürich, V. v. 2 - IV, 265."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Günthard.",
+    "place": "Bern",
+    "surname": "Günthard",
+    "forename": "Esther Elisabetha",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "1805",
+    "household": "Schw. v. 1.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 805 Esther Elisabetha, Schw. v. 1."
+   },
+   {
+    "line_from": 21,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Günther.",
+    "place": "Bern",
+    "surname": "Günther",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Schuhmacher u. Kleiderhändler",
+    "address": "II, 52",
+    "quarter": "II",
+    "street": "",
+    "house_no": "52",
+    "origin": "Konstanz",
+    "birth_year": "1811",
+    "household": "816 Fr. - Maria Sab. Wiehler a. Vollmatingen b. Konstanz. 2 S. - 841 Karl Joh. - 45 Albert.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 811 Johannes, Schuhmacher u. Kleiderhändler, a. Konstanz - II, 52. 816 Fr. - Maria Sab. Wiehler a. Vollmatingen b. Konstanz. 2 S. - 841 Karl Joh. - 45 Albert."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Güntlisberger.",
+    "place": "Bern",
+    "surname": "Güntlisberger",
+    "forename": "Albrecht Samuel",
+    "title": "",
+    "occupation": "Handelsmann",
+    "address": "IV, 64",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "64",
+    "origin": "Rüderswyl",
+    "birth_year": "1822",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 822 Albrecht Samuel, Handelsmann, a. Rüderswyl - IV, 64."
+   },
+   {
+    "line_from": 28,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Güntner.",
+    "place": "Bern",
+    "surname": "Güntner",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Müller",
+    "address": "I, 72",
+    "quarter": "I",
+    "street": "",
+    "house_no": "72",
+    "origin": "Thörigen",
+    "birth_year": "1813",
+    "household": "814 Fr. - Anna Maria Ingold a. Heimenhausen. 7 K. - 835 Maria Kath. - 37 Joseph Joh. Karl. - 39 Gottl. - 40 Elis. Sophie. - 43 Rud. Friedrich. - 44 Karl Abraham. - 47 Emilie Elise.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 813 Joseph, Müller, a. Thörigen - I, 72. 814 Fr. - Anna Maria Ingold a. Heimenhausen. 7 K. - 835 Maria Kath. - 37 Joseph Joh. Karl. - 39 Gottl. - 40 Elis. Sophie. - 43 Rud. Friedrich. - 44 Karl Abraham. - 47 Emilie Elise."
+   },
+   {
+    "line_from": 34,
+    "line_to": 34,
+    "kind": "person",
+    "heading": "Gugelmann.",
+    "place": "Bern",
+    "surname": "Gugelmann",
+    "forename": "Julie",
+    "title": "",
+    "occupation": "Kostgeberin",
+    "address": "II, 158",
+    "quarter": "II",
+    "street": "",
+    "house_no": "158",
+    "origin": "Attiswyl",
+    "birth_year": "",
+    "household": "",
+    "note": "geb. Strahm; Name aus Zwischentitel",
+    "text": "1 Julie, geb. Strahm, a. Attiswyl, Kostgeberin - II, 158."
+   },
+   {
+    "line_from": 36,
+    "line_to": 40,
+    "kind": "person",
+    "heading": "Gugger.",
+    "place": "Bern",
+    "surname": "Gugger",
+    "forename": "Johann",
+    "title": "",
+    "occupation": "Gassensäuberer u. Grundeigenthümer",
+    "address": "VII, 185",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "185",
+    "origin": "Buchholterberg",
+    "birth_year": "1792",
+    "household": "801 Fr. - Magd. Farni a. Unterlangenegg. 5 K. - 828 Magdalena. - 30 Johann. - 33 Anna. - 36 Alexander. - 38 Maria Elis.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 792 Johann, Gassensäuberer u. Grundeigenthümer, a. Buchholterberg - VII, 185. 801 Fr. - Magd. Farni a. Unterlangenegg. 5 K. - 828 Magdalena. - 30 Johann. - 33 Anna. - 36 Alexander. - 38 Maria Elis."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:01:01+01:00",
+ "last_error": null
+}

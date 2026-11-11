@@ -1,0 +1,378 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 111,
+ "section": "ville",
+ "started": "2026-11-11T20:57:47+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 20.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2301,
+  "output": 2957,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"38\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"38\"},\n    {\"n\": 2, \"text\": \"Parfumeries.\"},\n    {\"n\": 3, \"text\": \"Iæger, J. J. … Q. v. 212.\"},\n    {\"n\": 4, \"text\": \"Passementiers.\"},\n    {\"n\": 5, \"text\": \"Kœnencamp, Ernst, Fréd. … Q. j. 35.\"},\n    {\"n\": 6, \"text\": \"Scheurer, J. Louis. … — j. 58.\"},\n    {\"n\": 7, \"text\": \"Stæhli, Joseph. … — v. 144.\"},\n    {\"n\": 8, \"text\": \"Peintres Artistes.\"},\n    {\"n\": 9, \"text\": \"Braunschweiler, J. Ioachim, Peintre\"},\n    {\"n\": 10, \"text\": \"en miniature. … Q. v. 240.\"},\n    {\"n\": 11, \"text\": \"Dinkel, Marc., Peintre en figures,\"},\n    {\"n\": 12, \"text\": \"au lavis, … — bl. 125.\"},\n    {\"n\": 13, \"text\": \"Du Cros, Peintre de paysages à\"},\n    {\"n\": 14, \"text\": \"l'huile et au lavis; Professeur\"},\n    {\"n\": 15, \"text\": \"de peinture à l'Academie de\"},\n    {\"n\": 16, \"text\": \"Berne.\"},\n    {\"n\": 17, \"text\": \"Eggimann, Louis, Peintre de Decore. — j. 47.\"},\n    {\"n\": 18, \"text\": \"Keil, Ignace, Peintre d'histoire, á\"},\n    {\"n\": 19, \"text\": \"huile, restaurateur de tableaux. — v. 180.\"},\n    {\"n\": 20, \"text\": \"Kœnig, Fréd. Nic., Peintre de pay-\"},\n    {\"n\": 21, \"text\": \"sages et costumes, enseigne le\"},\n    {\"n\": 22, \"text\": \"dessin. … — bl. 32.\"},\n    {\"n\": 23, \"text\": \"Lafond, Dan., Peintre de paysages. — j. 79.\"},\n    {\"n\": 24, \"text\": \"Lienert, Th., peintre de plantes et\"},\n    {\"n\": 25, \"text\": \"d'animaux; empaille des ani-\"},\n    {\"n\": 26, \"text\": \"maux. … — j. 104.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Parfumeries\",\n      \"place\": \"Bern\",\n      \"surname\": \"Iæger\",\n      \"forename\": \"J. J.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. v. 212\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"212\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Iæger, J. J. Q. v. 212.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Passementiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kœnencamp\",\n      \"forename\": \"Ernst, Fréd.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Q. j. 35\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"35\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kœnencamp, Ernst, Fréd. Q. j. 35.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Passementiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Scheurer\",\n      \"forename\": \"J. Louis\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— j. 58\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"58\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Quartier aus Vorzeile\",\n      \"text\": \"Scheurer, J. Louis. — j. 58.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Passementiers\",\n      \"place\": \"Bern\",\n      \"surname\": \"Stæhli\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"— v. 144\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"144\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Stæhli, Joseph. — v. 144.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres Artistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Braunschweiler\",\n      \"forename\": \"J. Ioachim\",\n      \"title\": \"\",\n      \"occupation\": \"Peintre en miniature\",\n      \"address\": \"Q. v. 240\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"240\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Braunschweiler, J. Ioachim, Peintre en miniature. Q. v. 240.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres Artistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Dinkel\",\n      \"forename\": \"Marc.\",\n      \"title\": \"\",\n      \"occupation\": \"Peintre en figures, au lavis\",\n      \"address\": \"— bl. 125\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"125\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Dinkel, Marc., Peintre en figures, au lavis, — bl. 125.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres Artistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Du Cros\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Peintre de paysages à l'huile et au lavis; Professeur de peinture à l'Academie de Berne\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Du Cros, Peintre de paysages à l'huile et au lavis; Professeur de peinture à l'Academie de Berne.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres Artistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Eggimann\",\n      \"forename\": \"Louis\",\n      \"title\": \"\",\n      \"occupation\": \"Peintre de Decore\",\n      \"address\": \"— j. 47\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"47\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eggimann, Louis, Peintre de Decore. — j. 47.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres Artistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Keil\",\n      \"forename\": \"Ignace\",\n      \"title\": \"\",\n      \"occupation\": \"Peintre d'histoire, á huile, restaurateur de tableaux\",\n      \"address\": \"— v. 180\",\n      \"quarter\": \"v.\",\n      \"street\": \"\",\n      \"house_no\": \"180\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Keil, Ignace, Peintre d'histoire, á huile, restaurateur de tableaux. — v. 180.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres Artistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Kœnig\",\n      \"forename\": \"Fréd. Nic.\",\n      \"title\": \"\",\n      \"occupation\": \"Peintre de paysages et costumes, enseigne le dessin\",\n      \"address\": \"— bl. 32\",\n      \"quarter\": \"bl.\",\n      \"street\": \"\",\n      \"house_no\": \"32\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Kœnig, Fréd. Nic., Peintre de paysages et costumes, enseigne le dessin. — bl. 32.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres Artistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lafond\",\n      \"forename\": \"Dan.\",\n      \"title\": \"\",\n      \"occupation\": \"Peintre de paysages\",\n      \"address\": \"— j. 79\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"79\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lafond, Dan., Peintre de paysages. — j. 79.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Peintres Artistes\",\n      \"place\": \"Bern\",\n      \"surname\": \"Lienert\",\n      \"forename\": \"Th.\",\n      \"title\": \"\",\n      \"occupation\": \"peintre de plantes et d'animaux; empaille des animaux\",\n      \"address\": \"— j. 104\",\n      \"quarter\": \"j.\",\n      \"street\": \"\",\n      \"house_no\": \"104\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Lienert, Th., peintre de plantes et d'animaux; empaille des animaux. — j. 104.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "38",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "38"
+   },
+   {
+    "n": 2,
+    "text": "Parfumeries."
+   },
+   {
+    "n": 3,
+    "text": "Iæger, J. J. … Q. v. 212."
+   },
+   {
+    "n": 4,
+    "text": "Passementiers."
+   },
+   {
+    "n": 5,
+    "text": "Kœnencamp, Ernst, Fréd. … Q. j. 35."
+   },
+   {
+    "n": 6,
+    "text": "Scheurer, J. Louis. … — j. 58."
+   },
+   {
+    "n": 7,
+    "text": "Stæhli, Joseph. … — v. 144."
+   },
+   {
+    "n": 8,
+    "text": "Peintres Artistes."
+   },
+   {
+    "n": 9,
+    "text": "Braunschweiler, J. Ioachim, Peintre"
+   },
+   {
+    "n": 10,
+    "text": "en miniature. … Q. v. 240."
+   },
+   {
+    "n": 11,
+    "text": "Dinkel, Marc., Peintre en figures,"
+   },
+   {
+    "n": 12,
+    "text": "au lavis, … — bl. 125."
+   },
+   {
+    "n": 13,
+    "text": "Du Cros, Peintre de paysages à"
+   },
+   {
+    "n": 14,
+    "text": "l'huile et au lavis; Professeur"
+   },
+   {
+    "n": 15,
+    "text": "de peinture à l'Academie de"
+   },
+   {
+    "n": 16,
+    "text": "Berne."
+   },
+   {
+    "n": 17,
+    "text": "Eggimann, Louis, Peintre de Decore. — j. 47."
+   },
+   {
+    "n": 18,
+    "text": "Keil, Ignace, Peintre d'histoire, á"
+   },
+   {
+    "n": 19,
+    "text": "huile, restaurateur de tableaux. — v. 180."
+   },
+   {
+    "n": 20,
+    "text": "Kœnig, Fréd. Nic., Peintre de pay-"
+   },
+   {
+    "n": 21,
+    "text": "sages et costumes, enseigne le"
+   },
+   {
+    "n": 22,
+    "text": "dessin. … — bl. 32."
+   },
+   {
+    "n": 23,
+    "text": "Lafond, Dan., Peintre de paysages. — j. 79."
+   },
+   {
+    "n": 24,
+    "text": "Lienert, Th., peintre de plantes et"
+   },
+   {
+    "n": 25,
+    "text": "d'animaux; empaille des ani-"
+   },
+   {
+    "n": 26,
+    "text": "maux. … — j. 104."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Parfumeries",
+    "place": "Bern",
+    "surname": "Iæger",
+    "forename": "J. J.",
+    "title": "",
+    "occupation": "",
+    "address": "Q. v. 212",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "212",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Iæger, J. J. Q. v. 212."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Passementiers",
+    "place": "Bern",
+    "surname": "Kœnencamp",
+    "forename": "Ernst, Fréd.",
+    "title": "",
+    "occupation": "",
+    "address": "Q. j. 35",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "35",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kœnencamp, Ernst, Fréd. Q. j. 35."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Passementiers",
+    "place": "Bern",
+    "surname": "Scheurer",
+    "forename": "J. Louis",
+    "title": "",
+    "occupation": "",
+    "address": "— j. 58",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "58",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Quartier aus Vorzeile",
+    "text": "Scheurer, J. Louis. — j. 58."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Passementiers",
+    "place": "Bern",
+    "surname": "Stæhli",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "",
+    "address": "— v. 144",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "144",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Stæhli, Joseph. — v. 144."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Peintres Artistes",
+    "place": "Bern",
+    "surname": "Braunschweiler",
+    "forename": "J. Ioachim",
+    "title": "",
+    "occupation": "Peintre en miniature",
+    "address": "Q. v. 240",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "240",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Braunschweiler, J. Ioachim, Peintre en miniature. Q. v. 240."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Peintres Artistes",
+    "place": "Bern",
+    "surname": "Dinkel",
+    "forename": "Marc.",
+    "title": "",
+    "occupation": "Peintre en figures, au lavis",
+    "address": "— bl. 125",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "125",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Dinkel, Marc., Peintre en figures, au lavis, — bl. 125."
+   },
+   {
+    "line_from": 13,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Peintres Artistes",
+    "place": "Bern",
+    "surname": "Du Cros",
+    "forename": "",
+    "title": "",
+    "occupation": "Peintre de paysages à l'huile et au lavis; Professeur de peinture à l'Academie de Berne",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Du Cros, Peintre de paysages à l'huile et au lavis; Professeur de peinture à l'Academie de Berne."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Peintres Artistes",
+    "place": "Bern",
+    "surname": "Eggimann",
+    "forename": "Louis",
+    "title": "",
+    "occupation": "Peintre de Decore",
+    "address": "— j. 47",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "47",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eggimann, Louis, Peintre de Decore. — j. 47."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Peintres Artistes",
+    "place": "Bern",
+    "surname": "Keil",
+    "forename": "Ignace",
+    "title": "",
+    "occupation": "Peintre d'histoire, á huile, restaurateur de tableaux",
+    "address": "— v. 180",
+    "quarter": "v.",
+    "street": "",
+    "house_no": "180",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Keil, Ignace, Peintre d'histoire, á huile, restaurateur de tableaux. — v. 180."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Peintres Artistes",
+    "place": "Bern",
+    "surname": "Kœnig",
+    "forename": "Fréd. Nic.",
+    "title": "",
+    "occupation": "Peintre de paysages et costumes, enseigne le dessin",
+    "address": "— bl. 32",
+    "quarter": "bl.",
+    "street": "",
+    "house_no": "32",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Kœnig, Fréd. Nic., Peintre de paysages et costumes, enseigne le dessin. — bl. 32."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Peintres Artistes",
+    "place": "Bern",
+    "surname": "Lafond",
+    "forename": "Dan.",
+    "title": "",
+    "occupation": "Peintre de paysages",
+    "address": "— j. 79",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "79",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lafond, Dan., Peintre de paysages. — j. 79."
+   },
+   {
+    "line_from": 24,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Peintres Artistes",
+    "place": "Bern",
+    "surname": "Lienert",
+    "forename": "Th.",
+    "title": "",
+    "occupation": "peintre de plantes et d'animaux; empaille des animaux",
+    "address": "— j. 104",
+    "quarter": "j.",
+    "street": "",
+    "house_no": "104",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Lienert, Th., peintre de plantes et d'animaux; empaille des animaux. — j. 104."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:58:07+01:00",
+ "last_error": null
+}

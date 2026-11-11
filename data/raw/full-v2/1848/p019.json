@@ -1,0 +1,442 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 19,
+ "section": "einsassen",
+ "started": "2026-11-11T21:55:28+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 24.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2429,
+  "output": 4128,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"6\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"— 6 —\"},\n    {\"n\": 2, \"text\": \"Nr. Geb.\"},\n    {\"n\": 3, \"text\": \"Arber.\"},\n    {\"n\": 4, \"text\": \"1 777 Jakob, Kostpferdhalter, a. Oftringen, K Aargau - II, 191.\"},\n    {\"n\": 5, \"text\": \"Arm.\"},\n    {\"n\": 6, \"text\": \"1 810 Joh. Ulrich, Feilenhauer, a. Langnau - V, 224.\"},\n    {\"n\": 7, \"text\": \"805 Fr. - Maria Stegmann a. Goldiwyl.\"},\n    {\"n\": 8, \"text\": \"Arn.\"},\n    {\"n\": 9, \"text\": \"1 820 Maria, Schneiderin, a. Wangenried - V, 67.\"},\n    {\"n\": 10, \"text\": \"Arnold.\"},\n    {\"n\": 11, \"text\": \"1 804 Peter, Störschneider, bern. Landsaß - VII, 173 b.\"},\n    {\"n\": 12, \"text\": \"808 Fr. - Elisabetha Feller a. Strättlingen.\"},\n    {\"n\": 13, \"text\": \"1 S. - 845 Peter.\"},\n    {\"n\": 14, \"text\": \"von Arx.\"},\n    {\"n\": 15, \"text\": \"1 802 Heinrich Martin, Maler, a. Olten - IV, 135.\"},\n    {\"n\": 16, \"text\": \"Aubry.\"},\n    {\"n\": 17, \"text\": \"1 796 Peter Ignaz, gew. Reg.-Rath, Advokat, a. Saigne-\"},\n    {\"n\": 18, \"text\": \"legier - IV, 168.\"},\n    {\"n\": 19, \"text\": \"805 Fr. - Agnes Fattet a. Pruntrut.\"},\n    {\"n\": 20, \"text\": \"3 K. - 827 Julius. - 30 Natalie. - 41 Paul.\"},\n    {\"n\": 21, \"text\": \"Auer.\"},\n    {\"n\": 22, \"text\": \"1 778 Albr. Jakob, Tischmacher, a. Wattenwyl - IV, 34.\"},\n    {\"n\": 23, \"text\": \"785 Fr. II Ehe. - Anna Boß, gesch. Gerber, a. Langnau.\"},\n    {\"n\": 24, \"text\": \"Augsburger.\"},\n    {\"n\": 25, \"text\": \"1 815 Johannes, Metzger, a. Schangnau - II, 6 b.\"},\n    {\"n\": 26, \"text\": \"2 K. - 838 Joh. Friedrich. - 43 Anna Elisabetha.\"},\n    {\"n\": 27, \"text\": \"2 790 Christian, Schreinermeister, a. Schangnau - I, 215 a.\"},\n    {\"n\": 28, \"text\": \"796 Fr. - Elisabetha Gertsch a. Lauterbrunnen.\"},\n    {\"n\": 29, \"text\": \"3 810 Magdalena, geb. Augsburger, a. Höchstetten, Kleider-\"},\n    {\"n\": 30, \"text\": \"gremplerin - II, 93.\"},\n    {\"n\": 31, \"text\": \"4 816 Gottlieb, Maler u. Lakirer, a. Schangnau - I, 215 b.\"},\n    {\"n\": 32, \"text\": \"818 Fr. - Anna Maria Gummer a. Meikirch.\"},\n    {\"n\": 33, \"text\": \"Bachmann.\"},\n    {\"n\": 34, \"text\": \"1 324 Felix, Schneidermeister, a. Hinwyl, K. Zürich - IV, 86.\"},\n    {\"n\": 35, \"text\": \"Fr. - Elisabetha Gysler a. Schwarzenegg.\"},\n    {\"n\": 36, \"text\": \"2 785 Christen, Schuhmacher, a. Niedermuhlern - I, 6.\"},\n    {\"n\": 37, \"text\": \"772 Fr. - Barbara Ischer a. Thierachern.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Arber.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Arber\",\n      \"forename\": \"Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Kostpferdhalter\",\n      \"address\": \"II, 191\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"191\",\n      \"origin\": \"Oftringen, K Aargau\",\n      \"birth_year\": \"1777\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 777 Jakob, Kostpferdhalter, a. Oftringen, K Aargau - II, 191.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Arm.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Arm\",\n      \"forename\": \"Joh. Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"Feilenhauer\",\n      \"address\": \"V, 224\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"224\",\n      \"origin\": \"Langnau\",\n      \"birth_year\": \"1810\",\n      \"household\": \"805 Fr. - Maria Stegmann a. Goldiwyl.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Joh. Ulrich, Feilenhauer, a. Langnau - V, 224. 805 Fr. - Maria Stegmann a. Goldiwyl.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Arn.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Arn\",\n      \"forename\": \"Maria\",\n      \"title\": \"\",\n      \"occupation\": \"Schneiderin\",\n      \"address\": \"V, 67\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"67\",\n      \"origin\": \"Wangenried\",\n      \"birth_year\": \"1820\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 820 Maria, Schneiderin, a. Wangenried - V, 67.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Arnold.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Arnold\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Störschneider\",\n      \"address\": \"VII, 173 b\",\n      \"quarter\": \"VII\",\n      \"street\": \"\",\n      \"house_no\": \"173 b\",\n      \"origin\": \"bern. Landsaß\",\n      \"birth_year\": \"1804\",\n      \"household\": \"808 Fr. - Elisabetha Feller a. Strättlingen. 1 S. - 845 Peter.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 804 Peter, Störschneider, bern. Landsaß - VII, 173 b. 808 Fr. - Elisabetha Feller a. Strättlingen. 1 S. - 845 Peter.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"von Arx.\",\n      \"place\": \"Bern\",\n      \"surname\": \"von Arx\",\n      \"forename\": \"Heinrich Martin\",\n      \"title\": \"\",\n      \"occupation\": \"Maler\",\n      \"address\": \"IV, 135\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"135\",\n      \"origin\": \"Olten\",\n      \"birth_year\": \"1802\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 802 Heinrich Martin, Maler, a. Olten - IV, 135.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Aubry.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Aubry\",\n      \"forename\": \"Peter Ignaz\",\n      \"title\": \"gew. Reg.-Rath\",\n      \"occupation\": \"Advokat\",\n      \"address\": \"IV, 168\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"168\",\n      \"origin\": \"Saignelegier\",\n      \"birth_year\": \"1796\",\n      \"household\": \"805 Fr. - Agnes Fattet a. Pruntrut. 3 K. - 827 Julius. - 30 Natalie. - 41 Paul.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 796 Peter Ignaz, gew. Reg.-Rath, Advokat, a. Saignelegier - IV, 168. 805 Fr. - Agnes Fattet a. Pruntrut. 3 K. - 827 Julius. - 30 Natalie. - 41 Paul.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Auer.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Auer\",\n      \"forename\": \"Albr. Jakob\",\n      \"title\": \"\",\n      \"occupation\": \"Tischmacher\",\n      \"address\": \"IV, 34\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"34\",\n      \"origin\": \"Wattenwyl\",\n      \"birth_year\": \"1778\",\n      \"household\": \"785 Fr. II Ehe. - Anna Boß, gesch. Gerber, a. Langnau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 778 Albr. Jakob, Tischmacher, a. Wattenwyl - IV, 34. 785 Fr. II Ehe. - Anna Boß, gesch. Gerber, a. Langnau.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Augsburger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Augsburger\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Metzger\",\n      \"address\": \"II, 6 b\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"6 b\",\n      \"origin\": \"Schangnau\",\n      \"birth_year\": \"1815\",\n      \"household\": \"2 K. - 838 Joh. Friedrich. - 43 Anna Elisabetha.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 815 Johannes, Metzger, a. Schangnau - II, 6 b. 2 K. - 838 Joh. Friedrich. - 43 Anna Elisabetha.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Augsburger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Augsburger\",\n      \"forename\": \"Christian\",\n      \"title\": \"\",\n      \"occupation\": \"Schreinermeister\",\n      \"address\": \"I, 215 a\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215 a\",\n      \"origin\": \"Schangnau\",\n      \"birth_year\": \"1790\",\n      \"household\": \"796 Fr. - Elisabetha Gertsch a. Lauterbrunnen.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 790 Christian, Schreinermeister, a. Schangnau - I, 215 a. 796 Fr. - Elisabetha Gertsch a. Lauterbrunnen.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Augsburger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Augsburger\",\n      \"forename\": \"Magdalena\",\n      \"title\": \"\",\n      \"occupation\": \"Kleidergremplerin\",\n      \"address\": \"II, 93\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"93\",\n      \"origin\": \"Höchstetten\",\n      \"birth_year\": \"1810\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"3 810 Magdalena, geb. Augsburger, a. Höchstetten, Kleidergremplerin - II, 93.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 32,\n      \"kind\": \"person\",\n      \"heading\": \"Augsburger.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Augsburger\",\n      \"forename\": \"Gottlieb\",\n      \"title\": \"\",\n      \"occupation\": \"Maler u. Lakirer\",\n      \"address\": \"I, 215 b\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"215 b\",\n      \"origin\": \"Schangnau\",\n      \"birth_year\": \"1816\",\n      \"household\": \"818 Fr. - Anna Maria Gummer a. Meikirch.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"4 816 Gottlieb, Maler u. Lakirer, a. Schangnau - I, 215 b. 818 Fr. - Anna Maria Gummer a. Meikirch.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Bachmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bachmann\",\n      \"forename\": \"Felix\",\n      \"title\": \"\",\n      \"occupation\": \"Schneidermeister\",\n      \"address\": \"IV, 86\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"86\",\n      \"origin\": \"Hinwyl, K. Zürich\",\n      \"birth_year\": \"1824\",\n      \"household\": \"Fr. - Elisabetha Gysler a. Schwarzenegg.\",\n      \"note\": \"Name aus Zwischentitel; Geburtsjahr '324' im Original fehlerhaft für 824\",\n      \"text\": \"1 324 Felix, Schneidermeister, a. Hinwyl, K. Zürich - IV, 86. Fr. - Elisabetha Gysler a. Schwarzenegg.\"\n    },\n    {\n      \"line_from\": 36,\n      \"line_to\": 37,\n      \"kind\": \"person\",\n      \"heading\": \"Bachmann.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Bachmann\",\n      \"forename\": \"Christen\",\n      \"title\": \"\",\n      \"occupation\": \"Schuhmacher\",\n      \"address\": \"I, 6\",\n      \"quarter\": \"I\",\n      \"street\": \"\",\n      \"house_no\": \"6\",\n      \"origin\": \"Niedermuhlern\",\n      \"birth_year\": \"1785\",\n      \"household\": \"772 Fr. - Barbara Ischer a. Thierachern.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"2 785 Christen, Schuhmacher, a. Niedermuhlern - I, 6. 772 Fr. - Barbara Ischer a. Thierachern.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "6",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 6 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Arber."
+   },
+   {
+    "n": 4,
+    "text": "1 777 Jakob, Kostpferdhalter, a. Oftringen, K Aargau - II, 191."
+   },
+   {
+    "n": 5,
+    "text": "Arm."
+   },
+   {
+    "n": 6,
+    "text": "1 810 Joh. Ulrich, Feilenhauer, a. Langnau - V, 224."
+   },
+   {
+    "n": 7,
+    "text": "805 Fr. - Maria Stegmann a. Goldiwyl."
+   },
+   {
+    "n": 8,
+    "text": "Arn."
+   },
+   {
+    "n": 9,
+    "text": "1 820 Maria, Schneiderin, a. Wangenried - V, 67."
+   },
+   {
+    "n": 10,
+    "text": "Arnold."
+   },
+   {
+    "n": 11,
+    "text": "1 804 Peter, Störschneider, bern. Landsaß - VII, 173 b."
+   },
+   {
+    "n": 12,
+    "text": "808 Fr. - Elisabetha Feller a. Strättlingen."
+   },
+   {
+    "n": 13,
+    "text": "1 S. - 845 Peter."
+   },
+   {
+    "n": 14,
+    "text": "von Arx."
+   },
+   {
+    "n": 15,
+    "text": "1 802 Heinrich Martin, Maler, a. Olten - IV, 135."
+   },
+   {
+    "n": 16,
+    "text": "Aubry."
+   },
+   {
+    "n": 17,
+    "text": "1 796 Peter Ignaz, gew. Reg.-Rath, Advokat, a. Saigne-"
+   },
+   {
+    "n": 18,
+    "text": "legier - IV, 168."
+   },
+   {
+    "n": 19,
+    "text": "805 Fr. - Agnes Fattet a. Pruntrut."
+   },
+   {
+    "n": 20,
+    "text": "3 K. - 827 Julius. - 30 Natalie. - 41 Paul."
+   },
+   {
+    "n": 21,
+    "text": "Auer."
+   },
+   {
+    "n": 22,
+    "text": "1 778 Albr. Jakob, Tischmacher, a. Wattenwyl - IV, 34."
+   },
+   {
+    "n": 23,
+    "text": "785 Fr. II Ehe. - Anna Boß, gesch. Gerber, a. Langnau."
+   },
+   {
+    "n": 24,
+    "text": "Augsburger."
+   },
+   {
+    "n": 25,
+    "text": "1 815 Johannes, Metzger, a. Schangnau - II, 6 b."
+   },
+   {
+    "n": 26,
+    "text": "2 K. - 838 Joh. Friedrich. - 43 Anna Elisabetha."
+   },
+   {
+    "n": 27,
+    "text": "2 790 Christian, Schreinermeister, a. Schangnau - I, 215 a."
+   },
+   {
+    "n": 28,
+    "text": "796 Fr. - Elisabetha Gertsch a. Lauterbrunnen."
+   },
+   {
+    "n": 29,
+    "text": "3 810 Magdalena, geb. Augsburger, a. Höchstetten, Kleider-"
+   },
+   {
+    "n": 30,
+    "text": "gremplerin - II, 93."
+   },
+   {
+    "n": 31,
+    "text": "4 816 Gottlieb, Maler u. Lakirer, a. Schangnau - I, 215 b."
+   },
+   {
+    "n": 32,
+    "text": "818 Fr. - Anna Maria Gummer a. Meikirch."
+   },
+   {
+    "n": 33,
+    "text": "Bachmann."
+   },
+   {
+    "n": 34,
+    "text": "1 324 Felix, Schneidermeister, a. Hinwyl, K. Zürich - IV, 86."
+   },
+   {
+    "n": 35,
+    "text": "Fr. - Elisabetha Gysler a. Schwarzenegg."
+   },
+   {
+    "n": 36,
+    "text": "2 785 Christen, Schuhmacher, a. Niedermuhlern - I, 6."
+   },
+   {
+    "n": 37,
+    "text": "772 Fr. - Barbara Ischer a. Thierachern."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Arber.",
+    "place": "Bern",
+    "surname": "Arber",
+    "forename": "Jakob",
+    "title": "",
+    "occupation": "Kostpferdhalter",
+    "address": "II, 191",
+    "quarter": "II",
+    "street": "",
+    "house_no": "191",
+    "origin": "Oftringen, K Aargau",
+    "birth_year": "1777",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 777 Jakob, Kostpferdhalter, a. Oftringen, K Aargau - II, 191."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Arm.",
+    "place": "Bern",
+    "surname": "Arm",
+    "forename": "Joh. Ulrich",
+    "title": "",
+    "occupation": "Feilenhauer",
+    "address": "V, 224",
+    "quarter": "V",
+    "street": "",
+    "house_no": "224",
+    "origin": "Langnau",
+    "birth_year": "1810",
+    "household": "805 Fr. - Maria Stegmann a. Goldiwyl.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Joh. Ulrich, Feilenhauer, a. Langnau - V, 224. 805 Fr. - Maria Stegmann a. Goldiwyl."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Arn.",
+    "place": "Bern",
+    "surname": "Arn",
+    "forename": "Maria",
+    "title": "",
+    "occupation": "Schneiderin",
+    "address": "V, 67",
+    "quarter": "V",
+    "street": "",
+    "house_no": "67",
+    "origin": "Wangenried",
+    "birth_year": "1820",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 820 Maria, Schneiderin, a. Wangenried - V, 67."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Arnold.",
+    "place": "Bern",
+    "surname": "Arnold",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Störschneider",
+    "address": "VII, 173 b",
+    "quarter": "VII",
+    "street": "",
+    "house_no": "173 b",
+    "origin": "bern. Landsaß",
+    "birth_year": "1804",
+    "household": "808 Fr. - Elisabetha Feller a. Strättlingen. 1 S. - 845 Peter.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 804 Peter, Störschneider, bern. Landsaß - VII, 173 b. 808 Fr. - Elisabetha Feller a. Strättlingen. 1 S. - 845 Peter."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "von Arx.",
+    "place": "Bern",
+    "surname": "von Arx",
+    "forename": "Heinrich Martin",
+    "title": "",
+    "occupation": "Maler",
+    "address": "IV, 135",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "135",
+    "origin": "Olten",
+    "birth_year": "1802",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 802 Heinrich Martin, Maler, a. Olten - IV, 135."
+   },
+   {
+    "line_from": 17,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Aubry.",
+    "place": "Bern",
+    "surname": "Aubry",
+    "forename": "Peter Ignaz",
+    "title": "gew. Reg.-Rath",
+    "occupation": "Advokat",
+    "address": "IV, 168",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "168",
+    "origin": "Saignelegier",
+    "birth_year": "1796",
+    "household": "805 Fr. - Agnes Fattet a. Pruntrut. 3 K. - 827 Julius. - 30 Natalie. - 41 Paul.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 796 Peter Ignaz, gew. Reg.-Rath, Advokat, a. Saignelegier - IV, 168. 805 Fr. - Agnes Fattet a. Pruntrut. 3 K. - 827 Julius. - 30 Natalie. - 41 Paul."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Auer.",
+    "place": "Bern",
+    "surname": "Auer",
+    "forename": "Albr. Jakob",
+    "title": "",
+    "occupation": "Tischmacher",
+    "address": "IV, 34",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "34",
+    "origin": "Wattenwyl",
+    "birth_year": "1778",
+    "household": "785 Fr. II Ehe. - Anna Boß, gesch. Gerber, a. Langnau.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 778 Albr. Jakob, Tischmacher, a. Wattenwyl - IV, 34. 785 Fr. II Ehe. - Anna Boß, gesch. Gerber, a. Langnau."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Augsburger.",
+    "place": "Bern",
+    "surname": "Augsburger",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Metzger",
+    "address": "II, 6 b",
+    "quarter": "II",
+    "street": "",
+    "house_no": "6 b",
+    "origin": "Schangnau",
+    "birth_year": "1815",
+    "household": "2 K. - 838 Joh. Friedrich. - 43 Anna Elisabetha.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 815 Johannes, Metzger, a. Schangnau - II, 6 b. 2 K. - 838 Joh. Friedrich. - 43 Anna Elisabetha."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Augsburger.",
+    "place": "Bern",
+    "surname": "Augsburger",
+    "forename": "Christian",
+    "title": "",
+    "occupation": "Schreinermeister",
+    "address": "I, 215 a",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215 a",
+    "origin": "Schangnau",
+    "birth_year": "1790",
+    "household": "796 Fr. - Elisabetha Gertsch a. Lauterbrunnen.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 790 Christian, Schreinermeister, a. Schangnau - I, 215 a. 796 Fr. - Elisabetha Gertsch a. Lauterbrunnen."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Augsburger.",
+    "place": "Bern",
+    "surname": "Augsburger",
+    "forename": "Magdalena",
+    "title": "",
+    "occupation": "Kleidergremplerin",
+    "address": "II, 93",
+    "quarter": "II",
+    "street": "",
+    "house_no": "93",
+    "origin": "Höchstetten",
+    "birth_year": "1810",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "3 810 Magdalena, geb. Augsburger, a. Höchstetten, Kleidergremplerin - II, 93."
+   },
+   {
+    "line_from": 31,
+    "line_to": 32,
+    "kind": "person",
+    "heading": "Augsburger.",
+    "place": "Bern",
+    "surname": "Augsburger",
+    "forename": "Gottlieb",
+    "title": "",
+    "occupation": "Maler u. Lakirer",
+    "address": "I, 215 b",
+    "quarter": "I",
+    "street": "",
+    "house_no": "215 b",
+    "origin": "Schangnau",
+    "birth_year": "1816",
+    "household": "818 Fr. - Anna Maria Gummer a. Meikirch.",
+    "note": "Name aus Zwischentitel",
+    "text": "4 816 Gottlieb, Maler u. Lakirer, a. Schangnau - I, 215 b. 818 Fr. - Anna Maria Gummer a. Meikirch."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Bachmann.",
+    "place": "Bern",
+    "surname": "Bachmann",
+    "forename": "Felix",
+    "title": "",
+    "occupation": "Schneidermeister",
+    "address": "IV, 86",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "86",
+    "origin": "Hinwyl, K. Zürich",
+    "birth_year": "1824",
+    "household": "Fr. - Elisabetha Gysler a. Schwarzenegg.",
+    "note": "Name aus Zwischentitel; Geburtsjahr '324' im Original fehlerhaft für 824",
+    "text": "1 324 Felix, Schneidermeister, a. Hinwyl, K. Zürich - IV, 86. Fr. - Elisabetha Gysler a. Schwarzenegg."
+   },
+   {
+    "line_from": 36,
+    "line_to": 37,
+    "kind": "person",
+    "heading": "Bachmann.",
+    "place": "Bern",
+    "surname": "Bachmann",
+    "forename": "Christen",
+    "title": "",
+    "occupation": "Schuhmacher",
+    "address": "I, 6",
+    "quarter": "I",
+    "street": "",
+    "house_no": "6",
+    "origin": "Niedermuhlern",
+    "birth_year": "1785",
+    "household": "772 Fr. - Barbara Ischer a. Thierachern.",
+    "note": "Name aus Zwischentitel",
+    "text": "2 785 Christen, Schuhmacher, a. Niedermuhlern - I, 6. 772 Fr. - Barbara Ischer a. Thierachern."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T21:55:53+01:00",
+ "last_error": null
+}

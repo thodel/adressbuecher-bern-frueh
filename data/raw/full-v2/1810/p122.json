@@ -1,0 +1,210 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1810",
+ "page": 122,
+ "section": "canton",
+ "started": "2026-11-11T20:58:55+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 32.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2305,
+  "output": 1350,
+  "thoughts": 2695
+ },
+ "response_text": "{\n  \"printed_page\": null,\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"B. Canton de Berne.\"},\n    {\"n\": 2, \"text\": \"Préfecture d'Aarberg.\"},\n    {\"n\": 3, \"text\": \"A a r b e r g.\"},\n    {\"n\": 4, \"text\": \"Herrenschwand , Aubergiste , Commerce de\"},\n    {\"n\": 5, \"text\": \"Vin.\"},\n    {\"n\": 6, \"text\": \"Hubler , J. Jaques , Draperie.\"},\n    {\"n\": 7, \"text\": \"Probst , Traiteur , Commerce de Vin.\"},\n    {\"n\": 8, \"text\": \"Scheurer , Jaques , et Comp. , Epicerie et Dra-\"},\n    {\"n\": 9, \"text\": \"perie.\"},\n    {\"n\": 10, \"text\": \"Préfecture d'Aarwangen.\"},\n    {\"n\": 11, \"text\": \"A a r w a n g e n.\"},\n    {\"n\": 12, \"text\": \"Egger , la Veuve , Epicerie et Draperie.\"},\n    {\"n\": 13, \"text\": \"B ü z b e r g.\"},\n    {\"n\": 14, \"text\": \"Ebinger , Henri , Fabr. de Cotonnes.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Aarberg\",\n      \"place\": \"Aarberg\",\n      \"surname\": \"Herrenschwand\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Aubergiste, Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Herrenschwand, Aubergiste, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Aarberg\",\n      \"place\": \"Aarberg\",\n      \"surname\": \"Hubler\",\n      \"forename\": \"J. Jaques\",\n      \"title\": \"\",\n      \"occupation\": \"Draperie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Hubler, J. Jaques, Draperie.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Aarberg\",\n      \"place\": \"Aarberg\",\n      \"surname\": \"Probst\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Traiteur, Commerce de Vin\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Probst, Traiteur, Commerce de Vin.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"firma\",\n      \"heading\": \"Aarberg\",\n      \"place\": \"Aarberg\",\n      \"surname\": \"Scheurer\",\n      \"forename\": \"Jaques\",\n      \"title\": \"et Comp.\",\n      \"occupation\": \"Epicerie et Draperie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Scheurer, Jaques, et Comp., Epicerie et Draperie.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Aarwangen\",\n      \"place\": \"Aarwangen\",\n      \"surname\": \"Egger\",\n      \"forename\": \"\",\n      \"title\": \"la Veuve\",\n      \"occupation\": \"Epicerie et Draperie\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Egger, la Veuve, Epicerie et Draperie.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Büzberg\",\n      \"place\": \"Büzberg\",\n      \"surname\": \"Ebinger\",\n      \"forename\": \"Henri\",\n      \"title\": \"\",\n      \"occupation\": \"Fabr. de Cotonnes\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Ebinger, Henri, Fabr. de Cotonnes.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": null,
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "B. Canton de Berne."
+   },
+   {
+    "n": 2,
+    "text": "Préfecture d'Aarberg."
+   },
+   {
+    "n": 3,
+    "text": "A a r b e r g."
+   },
+   {
+    "n": 4,
+    "text": "Herrenschwand , Aubergiste , Commerce de"
+   },
+   {
+    "n": 5,
+    "text": "Vin."
+   },
+   {
+    "n": 6,
+    "text": "Hubler , J. Jaques , Draperie."
+   },
+   {
+    "n": 7,
+    "text": "Probst , Traiteur , Commerce de Vin."
+   },
+   {
+    "n": 8,
+    "text": "Scheurer , Jaques , et Comp. , Epicerie et Dra-"
+   },
+   {
+    "n": 9,
+    "text": "perie."
+   },
+   {
+    "n": 10,
+    "text": "Préfecture d'Aarwangen."
+   },
+   {
+    "n": 11,
+    "text": "A a r w a n g e n."
+   },
+   {
+    "n": 12,
+    "text": "Egger , la Veuve , Epicerie et Draperie."
+   },
+   {
+    "n": 13,
+    "text": "B ü z b e r g."
+   },
+   {
+    "n": 14,
+    "text": "Ebinger , Henri , Fabr. de Cotonnes."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Aarberg",
+    "place": "Aarberg",
+    "surname": "Herrenschwand",
+    "forename": "",
+    "title": "",
+    "occupation": "Aubergiste, Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Herrenschwand, Aubergiste, Commerce de Vin."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Aarberg",
+    "place": "Aarberg",
+    "surname": "Hubler",
+    "forename": "J. Jaques",
+    "title": "",
+    "occupation": "Draperie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Hubler, J. Jaques, Draperie."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Aarberg",
+    "place": "Aarberg",
+    "surname": "Probst",
+    "forename": "",
+    "title": "",
+    "occupation": "Traiteur, Commerce de Vin",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Probst, Traiteur, Commerce de Vin."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "firma",
+    "heading": "Aarberg",
+    "place": "Aarberg",
+    "surname": "Scheurer",
+    "forename": "Jaques",
+    "title": "et Comp.",
+    "occupation": "Epicerie et Draperie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Scheurer, Jaques, et Comp., Epicerie et Draperie."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Aarwangen",
+    "place": "Aarwangen",
+    "surname": "Egger",
+    "forename": "",
+    "title": "la Veuve",
+    "occupation": "Epicerie et Draperie",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Egger, la Veuve, Epicerie et Draperie."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Büzberg",
+    "place": "Büzberg",
+    "surname": "Ebinger",
+    "forename": "Henri",
+    "title": "",
+    "occupation": "Fabr. de Cotonnes",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Ebinger, Henri, Fabr. de Cotonnes."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:59:27+01:00",
+ "last_error": null
+}

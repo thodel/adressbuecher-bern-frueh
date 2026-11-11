@@ -1,0 +1,262 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1795",
+ "page": 41,
+ "section": "handbuch",
+ "started": "2026-11-11T20:49:25+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 55.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2330,
+  "output": 1859,
+  "thoughts": 5499
+ },
+ "response_text": "{\n  \"printed_page\": \"39\",\n  \"running_head\": \"Wildegg.\",\n  \"lines\": [\n    {\"n\": 1, \"text\": \"Wildegg. 39\"},\n    {\"n\": 2, \"text\": \"Herr\"},\n    {\"n\": 3, \"text\": \"Urs. Lemp in Attiswyl bey Wiedlisbach, läßt\"},\n    {\"n\": 4, \"text\": \"Roßhaar verarbeiten.\"},\n    {\"n\": 5, \"text\": \"Andreas Flükiger in Attiswyl bey Wiedlis-\"},\n    {\"n\": 6, \"text\": \"bach, läßt Roßhaar verarbeiten.\"},\n    {\"n\": 7, \"text\": \"Wildegg.\"},\n    {\"n\": 8, \"text\": \"Eine halbe Stunde von Lenzburg.\"},\n    {\"n\": 9, \"text\": \"Laue, Deluze und Comp., ihre Fabrik ist eine der\"},\n    {\"n\": 10, \"text\": \"merkwürdigsten des Landes, haben ein großes Handels-\"},\n    {\"n\": 11, \"text\": \"haus in Frankfurt. Sie bearbeiten gedrukte und mit\"},\n    {\"n\": 12, \"text\": \"allerley neuen Formen und Farben künstlich appretirte\"},\n    {\"n\": 13, \"text\": \"Leinwand. Sie beschäftigen viele Zeichner, Mo-\"},\n    {\"n\": 14, \"text\": \"delstecher, haben Bleichen; besitzen auch kostbare\"},\n    {\"n\": 15, \"text\": \"ostindische und andere Waaren. Schlesische, sächsische,\"},\n    {\"n\": 16, \"text\": \"holländische Leinwand findet man en gros in allen\"},\n    {\"n\": 17, \"text\": \"Preisen bey ihnen, und sie excelliren in Schweizer-\"},\n    {\"n\": 18, \"text\": \"Cotonen und Zizen. Hr. Dolder von Zürich hat\"},\n    {\"n\": 19, \"text\": \"dieses schöne Etablissement errichtet, alle Fabrikge-\"},\n    {\"n\": 20, \"text\": \"bäude erbaut, und ist noch die Treibfeder aller da-\"},\n    {\"n\": 21, \"text\": \"selbst verfertigten schönen Arbeiten.\"},\n    {\"n\": 22, \"text\": \"Auf gleiche Art ist eine berühmte Fabrik daselbst:\"},\n    {\"n\": 23, \"text\": \"von\"},\n    {\"n\": 24, \"text\": \"Daniel Dansse und Comp.\"},\n    {\"n\": 25, \"text\": \"Joseph Baucher zu Niederlenz, Amt Lenzburg,\"},\n    {\"n\": 26, \"text\": \"Indienne-Fabrik.\"},\n    {\"n\": 27, \"text\": \"C 4\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Herr\",\n      \"place\": \"Attiswyl\",\n      \"surname\": \"Lemp\",\n      \"forename\": \"Urs.\",\n      \"title\": \"\",\n      \"occupation\": \"läßt Roßhaar verarbeiten\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"in Attiswyl bey Wiedlisbach\",\n      \"text\": \"Urs. Lemp in Attiswyl bey Wiedlisbach, läßt Roßhaar verarbeiten.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Herr\",\n      \"place\": \"Attiswyl\",\n      \"surname\": \"Flükiger\",\n      \"forename\": \"Andreas\",\n      \"title\": \"\",\n      \"occupation\": \"läßt Roßhaar verarbeiten\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"in Attiswyl bey Wiedlisbach\",\n      \"text\": \"Andreas Flükiger in Attiswyl bey Wiedlisbach, läßt Roßhaar verarbeiten.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"sonst\",\n      \"heading\": \"Wildegg\",\n      \"place\": \"Wildegg\",\n      \"surname\": \"\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Eine halbe Stunde von Lenzburg.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 21,\n      \"kind\": \"firma\",\n      \"heading\": \"Wildegg\",\n      \"place\": \"Wildegg\",\n      \"surname\": \"Laue, Deluze\",\n      \"forename\": \"\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"Fabrik\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Laue, Deluze und Comp., ihre Fabrik ist eine der merkwürdigsten des Landes, haben ein großes Handelshaus in Frankfurt. Sie bearbeiten gedrukte und mit allerley neuen Formen und Farben künstlich appretirte Leinwand. Sie beschäftigen viele Zeichner, Modelstecher, haben Bleichen; besitzen auch kostbare ostindische und andere Waaren. Schlesische, sächsische, holländische Leinwand findet man en gros in allen Preisen bey ihnen, und sie excelliren in Schweizer-Cotonen und Zizen. Hr. Dolder von Zürich hat dieses schöne Etablissement errichtet, alle Fabrikgebäude erbaut, und ist noch die Treibfeder aller daselbst verfertigten schönen Arbeiten.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 24,\n      \"kind\": \"firma\",\n      \"heading\": \"Wildegg\",\n      \"place\": \"Wildegg\",\n      \"surname\": \"Dansse\",\n      \"forename\": \"Daniel\",\n      \"title\": \"und Comp.\",\n      \"occupation\": \"Fabrik\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Auf gleiche Art ist eine berühmte Fabrik daselbst: von Daniel Dansse und Comp.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Wildegg\",\n      \"place\": \"Niederlenz\",\n      \"surname\": \"Baucher\",\n      \"forename\": \"Joseph\",\n      \"title\": \"\",\n      \"occupation\": \"Indienne-Fabrik\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"Amt Lenzburg\",\n      \"text\": \"Joseph Baucher zu Niederlenz, Amt Lenzburg, Indienne-Fabrik.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "39",
+  "running_head": "Wildegg.",
+  "lines": [
+   {
+    "n": 1,
+    "text": "Wildegg. 39"
+   },
+   {
+    "n": 2,
+    "text": "Herr"
+   },
+   {
+    "n": 3,
+    "text": "Urs. Lemp in Attiswyl bey Wiedlisbach, läßt"
+   },
+   {
+    "n": 4,
+    "text": "Roßhaar verarbeiten."
+   },
+   {
+    "n": 5,
+    "text": "Andreas Flükiger in Attiswyl bey Wiedlis-"
+   },
+   {
+    "n": 6,
+    "text": "bach, läßt Roßhaar verarbeiten."
+   },
+   {
+    "n": 7,
+    "text": "Wildegg."
+   },
+   {
+    "n": 8,
+    "text": "Eine halbe Stunde von Lenzburg."
+   },
+   {
+    "n": 9,
+    "text": "Laue, Deluze und Comp., ihre Fabrik ist eine der"
+   },
+   {
+    "n": 10,
+    "text": "merkwürdigsten des Landes, haben ein großes Handels-"
+   },
+   {
+    "n": 11,
+    "text": "haus in Frankfurt. Sie bearbeiten gedrukte und mit"
+   },
+   {
+    "n": 12,
+    "text": "allerley neuen Formen und Farben künstlich appretirte"
+   },
+   {
+    "n": 13,
+    "text": "Leinwand. Sie beschäftigen viele Zeichner, Mo-"
+   },
+   {
+    "n": 14,
+    "text": "delstecher, haben Bleichen; besitzen auch kostbare"
+   },
+   {
+    "n": 15,
+    "text": "ostindische und andere Waaren. Schlesische, sächsische,"
+   },
+   {
+    "n": 16,
+    "text": "holländische Leinwand findet man en gros in allen"
+   },
+   {
+    "n": 17,
+    "text": "Preisen bey ihnen, und sie excelliren in Schweizer-"
+   },
+   {
+    "n": 18,
+    "text": "Cotonen und Zizen. Hr. Dolder von Zürich hat"
+   },
+   {
+    "n": 19,
+    "text": "dieses schöne Etablissement errichtet, alle Fabrikge-"
+   },
+   {
+    "n": 20,
+    "text": "bäude erbaut, und ist noch die Treibfeder aller da-"
+   },
+   {
+    "n": 21,
+    "text": "selbst verfertigten schönen Arbeiten."
+   },
+   {
+    "n": 22,
+    "text": "Auf gleiche Art ist eine berühmte Fabrik daselbst:"
+   },
+   {
+    "n": 23,
+    "text": "von"
+   },
+   {
+    "n": 24,
+    "text": "Daniel Dansse und Comp."
+   },
+   {
+    "n": 25,
+    "text": "Joseph Baucher zu Niederlenz, Amt Lenzburg,"
+   },
+   {
+    "n": 26,
+    "text": "Indienne-Fabrik."
+   },
+   {
+    "n": 27,
+    "text": "C 4"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Herr",
+    "place": "Attiswyl",
+    "surname": "Lemp",
+    "forename": "Urs.",
+    "title": "",
+    "occupation": "läßt Roßhaar verarbeiten",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "in Attiswyl bey Wiedlisbach",
+    "text": "Urs. Lemp in Attiswyl bey Wiedlisbach, läßt Roßhaar verarbeiten."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Herr",
+    "place": "Attiswyl",
+    "surname": "Flükiger",
+    "forename": "Andreas",
+    "title": "",
+    "occupation": "läßt Roßhaar verarbeiten",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "in Attiswyl bey Wiedlisbach",
+    "text": "Andreas Flükiger in Attiswyl bey Wiedlisbach, läßt Roßhaar verarbeiten."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "sonst",
+    "heading": "Wildegg",
+    "place": "Wildegg",
+    "surname": "",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Eine halbe Stunde von Lenzburg."
+   },
+   {
+    "line_from": 9,
+    "line_to": 21,
+    "kind": "firma",
+    "heading": "Wildegg",
+    "place": "Wildegg",
+    "surname": "Laue, Deluze",
+    "forename": "",
+    "title": "und Comp.",
+    "occupation": "Fabrik",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Laue, Deluze und Comp., ihre Fabrik ist eine der merkwürdigsten des Landes, haben ein großes Handelshaus in Frankfurt. Sie bearbeiten gedrukte und mit allerley neuen Formen und Farben künstlich appretirte Leinwand. Sie beschäftigen viele Zeichner, Modelstecher, haben Bleichen; besitzen auch kostbare ostindische und andere Waaren. Schlesische, sächsische, holländische Leinwand findet man en gros in allen Preisen bey ihnen, und sie excelliren in Schweizer-Cotonen und Zizen. Hr. Dolder von Zürich hat dieses schöne Etablissement errichtet, alle Fabrikgebäude erbaut, und ist noch die Treibfeder aller daselbst verfertigten schönen Arbeiten."
+   },
+   {
+    "line_from": 22,
+    "line_to": 24,
+    "kind": "firma",
+    "heading": "Wildegg",
+    "place": "Wildegg",
+    "surname": "Dansse",
+    "forename": "Daniel",
+    "title": "und Comp.",
+    "occupation": "Fabrik",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Auf gleiche Art ist eine berühmte Fabrik daselbst: von Daniel Dansse und Comp."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Wildegg",
+    "place": "Niederlenz",
+    "surname": "Baucher",
+    "forename": "Joseph",
+    "title": "",
+    "occupation": "Indienne-Fabrik",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "Amt Lenzburg",
+    "text": "Joseph Baucher zu Niederlenz, Amt Lenzburg, Indienne-Fabrik."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T20:50:21+01:00",
+ "last_error": null
+}

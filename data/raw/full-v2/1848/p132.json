@@ -1,0 +1,386 @@
+{
+ "run": "full-v2",
+ "model": "gemini-3.8-flash",
+ "prompt_sha": "6d4dae623ce1",
+ "volume": "1848",
+ "page": 132,
+ "section": "einsassen",
+ "started": "2026-11-11T22:07:31+01:00",
+ "thinking": "medium",
+ "temperature": 0.0,
+ "seconds": 22.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 2430,
+  "output": 3553,
+  "thoughts": null
+ },
+ "response_text": "{\n  \"printed_page\": \"119\",\n  \"running_head\": null,\n  \"lines\": [\n    { \"n\": 1, \"text\": \"— 119 —\" },\n    { \"n\": 2, \"text\": \"Nr. Geb.\" },\n    { \"n\": 3, \"text\": \"Pagnard.\" },\n    { \"n\": 4, \"text\": \"1 799 Isaak Charles, Büchsenschmied u. Küchler, a. Münster\" },\n    { \"n\": 5, \"text\": \"— III, 104.\" },\n    { \"n\": 6, \"text\": \"810 Fr. II Ehe. — Susanna Schneider, geb. Heiniger, a.\" },\n    { \"n\": 7, \"text\": \"Pieterlen.\" },\n    { \"n\": 8, \"text\": \"3 T. aus I Ehe. — 824 Anna Sus. Louise. — 26 Jüstine,\" },\n    { \"n\": 9, \"text\": \"— 27 Rosine.\" },\n    { \"n\": 10, \"text\": \"Paillard.\" },\n    { \"n\": 11, \"text\": \"1 810 Georg Felix Prosper, Schreiber, a. St. Croix, K.\" },\n    { \"n\": 12, \"text\": \"Waadt — V, 34.\" },\n    { \"n\": 13, \"text\": \"806 Fr. — Anna Röthlisberger a. Langnau.\" },\n    { \"n\": 14, \"text\": \"Pasteur.\" },\n    { \"n\": 15, \"text\": \"1 814 Maria Sus., Feinzeugwascherin, a. Prilly, K. Waadt\" },\n    { \"n\": 16, \"text\": \"— IV, 270.\" },\n    { \"n\": 17, \"text\": \"Paul.\" },\n    { \"n\": 18, \"text\": \"1 800 Peter, Mechaniker, a. Lacheulte — VI, 55.\" },\n    { \"n\": 19, \"text\": \"792 Fr. — Elis. Fischer a. Meisterschwanden.\" },\n    { \"n\": 20, \"text\": \"Pauli.\" },\n    { \"n\": 21, \"text\": \"1 792 Anna, geb. Zweiacher, Zuckerbäckerin, a. Wahlern —\" },\n    { \"n\": 22, \"text\": \"II, 100.\" },\n    { \"n\": 23, \"text\": \"Paulik.\" },\n    { \"n\": 24, \"text\": \"1 812 Maria Magd., geb. Löhrer, Lohnwascherin, des Sattler=\" },\n    { \"n\": 25, \"text\": \"gesellen Frau, a. Naundorf in Sachsen — VI, 117 b.\" },\n    { \"n\": 26, \"text\": \"1 T. — 847 Maria Adele.\" },\n    { \"n\": 27, \"text\": \"Pedrini.\" },\n    { \"n\": 28, \"text\": \"1 784 Joseph Anton Marie, Rentier, a. Osco, K. Tessin —\" },\n    { \"n\": 29, \"text\": \"IV, 175.\" },\n    { \"n\": 30, \"text\": \"Pellet a. Sugy, K. Freiburg.\" },\n    { \"n\": 31, \"text\": \"1 802 Pierre, Bäcker — V, 208.\" },\n    { \"n\": 32, \"text\": \"810 Fr. — Marie Ros. Heimmann a. Bern.\" },\n    { \"n\": 33, \"text\": \"2 T. — 827 Sophie Elis. — 29 Rosa Louise.\" },\n    { \"n\": 34, \"text\": \"2 793 Jean, Lohnbedienter — V, 141.\" },\n    { \"n\": 35, \"text\": \"791 Fr. — Franç. Henr. Naquet.\" },\n    { \"n\": 36, \"text\": \"Pelligot.\" },\n    { \"n\": 37, \"text\": \"1 791 Jean Henry, Tanzlehrer, a. Genf — III, 79.\" },\n    { \"n\": 38, \"text\": \"807 Fr. — Marg. Amalie Moll a. Biel.\" }\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 4,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Pagnard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pagnard\",\n      \"forename\": \"Isaak Charles\",\n      \"title\": \"\",\n      \"occupation\": \"Büchsenschmied u. Küchler\",\n      \"address\": \"III, 104\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"104\",\n      \"origin\": \"Münster\",\n      \"birth_year\": \"1799\",\n      \"household\": \"810 Fr. II Ehe. — Susanna Schneider, geb. Heiniger, a. Pieterlen. 3 T. aus I Ehe. — 824 Anna Sus. Louise. — 26 Jüstine, — 27 Rosine.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 799 Isaak Charles, Büchsenschmied u. Küchler, a. Münster — III, 104. 810 Fr. II Ehe. — Susanna Schneider, geb. Heiniger, a. Pieterlen. 3 T. aus I Ehe. — 824 Anna Sus. Louise. — 26 Jüstine, — 27 Rosine.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Paillard.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Paillard\",\n      \"forename\": \"Georg Felix Prosper\",\n      \"title\": \"\",\n      \"occupation\": \"Schreiber\",\n      \"address\": \"V, 34\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"34\",\n      \"origin\": \"St. Croix, K. Waadt\",\n      \"birth_year\": \"1810\",\n      \"household\": \"806 Fr. — Anna Röthlisberger a. Langnau.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 810 Georg Felix Prosper, Schreiber, a. St. Croix, K. Waadt — V, 34. 806 Fr. — Anna Röthlisberger a. Langnau.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Pasteur.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pasteur\",\n      \"forename\": \"Maria Sus.\",\n      \"title\": \"\",\n      \"occupation\": \"Feinzeugwascherin\",\n      \"address\": \"IV, 270\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"270\",\n      \"origin\": \"Prilly, K. Waadt\",\n      \"birth_year\": \"1814\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 814 Maria Sus., Feinzeugwascherin, a. Prilly, K. Waadt — IV, 270.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Paul.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Paul\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Mechaniker\",\n      \"address\": \"VI, 55\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"55\",\n      \"origin\": \"Lacheulte\",\n      \"birth_year\": \"1800\",\n      \"household\": \"792 Fr. — Elis. Fischer a. Meisterschwanden.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 800 Peter, Mechaniker, a. Lacheulte — VI, 55. 792 Fr. — Elis. Fischer a. Meisterschwanden.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Pauli.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pauli\",\n      \"forename\": \"Anna\",\n      \"title\": \"\",\n      \"occupation\": \"Zuckerbäckerin\",\n      \"address\": \"II, 100\",\n      \"quarter\": \"II\",\n      \"street\": \"\",\n      \"house_no\": \"100\",\n      \"origin\": \"Wahlern\",\n      \"birth_year\": \"1792\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel; geb. Zweiacher\",\n      \"text\": \"1 792 Anna, geb. Zweiacher, Zuckerbäckerin, a. Wahlern — II, 100.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Paulik.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Paulik\",\n      \"forename\": \"Maria Magd.\",\n      \"title\": \"des Sattlergesellen Frau\",\n      \"occupation\": \"Lohnwascherin\",\n      \"address\": \"VI, 117 b\",\n      \"quarter\": \"VI\",\n      \"street\": \"\",\n      \"house_no\": \"117 b\",\n      \"origin\": \"Naundorf in Sachsen\",\n      \"birth_year\": \"1812\",\n      \"household\": \"1 T. — 847 Maria Adele.\",\n      \"note\": \"Name aus Zwischentitel; geb. Löhrer\",\n      \"text\": \"1 812 Maria Magd., geb. Löhrer, Lohnwascherin, des Sattlergesellen Frau, a. Naundorf in Sachsen — VI, 117 b. 1 T. — 847 Maria Adele.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Pedrini.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pedrini\",\n      \"forename\": \"Joseph Anton Marie\",\n      \"title\": \"\",\n      \"occupation\": \"Rentier\",\n      \"address\": \"IV, 175\",\n      \"quarter\": \"IV\",\n      \"street\": \"\",\n      \"house_no\": \"175\",\n      \"origin\": \"Osco, K. Tessin\",\n      \"birth_year\": \"1784\",\n      \"household\": \"\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 784 Joseph Anton Marie, Rentier, a. Osco, K. Tessin — IV, 175.\"\n    },\n    {\n      \"line_from\": 31,\n      \"line_to\": 33,\n      \"kind\": \"person\",\n      \"heading\": \"Pellet a. Sugy, K. Freiburg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pellet\",\n      \"forename\": \"Pierre\",\n      \"title\": \"\",\n      \"occupation\": \"Bäcker\",\n      \"address\": \"V, 208\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"208\",\n      \"origin\": \"Sugy, K. Freiburg\",\n      \"birth_year\": \"1802\",\n      \"household\": \"810 Fr. — Marie Ros. Heimmann a. Bern. 2 T. — 827 Sophie Elis. — 29 Rosa Louise.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"1 802 Pierre, Bäcker — V, 208. 810 Fr. — Marie Ros. Heimmann a. Bern. 2 T. — 827 Sophie Elis. — 29 Rosa Louise.\"\n    },\n    {\n      \"line_from\": 34,\n      \"line_to\": 35,\n      \"kind\": \"person\",\n      \"heading\": \"Pellet a. Sugy, K. Freiburg.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pellet\",\n      \"forename\": \"Jean\",\n      \"title\": \"\",\n      \"occupation\": \"Lohnbedienter\",\n      \"address\": \"V, 141\",\n      \"quarter\": \"V\",\n      \"street\": \"\",\n      \"house_no\": \"141\",\n      \"origin\": \"Sugy, K. Freiburg\",\n      \"birth_year\": \"1793\",\n      \"household\": \"791 Fr. — Franç. Henr. Naquet.\",\n      \"note\": \"Name und Herkunft aus Zwischentitel\",\n      \"text\": \"2 793 Jean, Lohnbedienter — V, 141. 791 Fr. — Franç. Henr. Naquet.\"\n    },\n    {\n      \"line_from\": 37,\n      \"line_to\": 38,\n      \"kind\": \"person\",\n      \"heading\": \"Pelligot.\",\n      \"place\": \"Bern\",\n      \"surname\": \"Pelligot\",\n      \"forename\": \"Jean Henry\",\n      \"title\": \"\",\n      \"occupation\": \"Tanzlehrer\",\n      \"address\": \"III, 79\",\n      \"quarter\": \"III\",\n      \"street\": \"\",\n      \"house_no\": \"79\",\n      \"origin\": \"Genf\",\n      \"birth_year\": \"1791\",\n      \"household\": \"807 Fr. — Marg. Amalie Moll a. Biel.\",\n      \"note\": \"Name aus Zwischentitel\",\n      \"text\": \"1 791 Jean Henry, Tanzlehrer, a. Genf — III, 79. 807 Fr. — Marg. Amalie Moll a. Biel.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "119",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "— 119 —"
+   },
+   {
+    "n": 2,
+    "text": "Nr. Geb."
+   },
+   {
+    "n": 3,
+    "text": "Pagnard."
+   },
+   {
+    "n": 4,
+    "text": "1 799 Isaak Charles, Büchsenschmied u. Küchler, a. Münster"
+   },
+   {
+    "n": 5,
+    "text": "— III, 104."
+   },
+   {
+    "n": 6,
+    "text": "810 Fr. II Ehe. — Susanna Schneider, geb. Heiniger, a."
+   },
+   {
+    "n": 7,
+    "text": "Pieterlen."
+   },
+   {
+    "n": 8,
+    "text": "3 T. aus I Ehe. — 824 Anna Sus. Louise. — 26 Jüstine,"
+   },
+   {
+    "n": 9,
+    "text": "— 27 Rosine."
+   },
+   {
+    "n": 10,
+    "text": "Paillard."
+   },
+   {
+    "n": 11,
+    "text": "1 810 Georg Felix Prosper, Schreiber, a. St. Croix, K."
+   },
+   {
+    "n": 12,
+    "text": "Waadt — V, 34."
+   },
+   {
+    "n": 13,
+    "text": "806 Fr. — Anna Röthlisberger a. Langnau."
+   },
+   {
+    "n": 14,
+    "text": "Pasteur."
+   },
+   {
+    "n": 15,
+    "text": "1 814 Maria Sus., Feinzeugwascherin, a. Prilly, K. Waadt"
+   },
+   {
+    "n": 16,
+    "text": "— IV, 270."
+   },
+   {
+    "n": 17,
+    "text": "Paul."
+   },
+   {
+    "n": 18,
+    "text": "1 800 Peter, Mechaniker, a. Lacheulte — VI, 55."
+   },
+   {
+    "n": 19,
+    "text": "792 Fr. — Elis. Fischer a. Meisterschwanden."
+   },
+   {
+    "n": 20,
+    "text": "Pauli."
+   },
+   {
+    "n": 21,
+    "text": "1 792 Anna, geb. Zweiacher, Zuckerbäckerin, a. Wahlern —"
+   },
+   {
+    "n": 22,
+    "text": "II, 100."
+   },
+   {
+    "n": 23,
+    "text": "Paulik."
+   },
+   {
+    "n": 24,
+    "text": "1 812 Maria Magd., geb. Löhrer, Lohnwascherin, des Sattler="
+   },
+   {
+    "n": 25,
+    "text": "gesellen Frau, a. Naundorf in Sachsen — VI, 117 b."
+   },
+   {
+    "n": 26,
+    "text": "1 T. — 847 Maria Adele."
+   },
+   {
+    "n": 27,
+    "text": "Pedrini."
+   },
+   {
+    "n": 28,
+    "text": "1 784 Joseph Anton Marie, Rentier, a. Osco, K. Tessin —"
+   },
+   {
+    "n": 29,
+    "text": "IV, 175."
+   },
+   {
+    "n": 30,
+    "text": "Pellet a. Sugy, K. Freiburg."
+   },
+   {
+    "n": 31,
+    "text": "1 802 Pierre, Bäcker — V, 208."
+   },
+   {
+    "n": 32,
+    "text": "810 Fr. — Marie Ros. Heimmann a. Bern."
+   },
+   {
+    "n": 33,
+    "text": "2 T. — 827 Sophie Elis. — 29 Rosa Louise."
+   },
+   {
+    "n": 34,
+    "text": "2 793 Jean, Lohnbedienter — V, 141."
+   },
+   {
+    "n": 35,
+    "text": "791 Fr. — Franç. Henr. Naquet."
+   },
+   {
+    "n": 36,
+    "text": "Pelligot."
+   },
+   {
+    "n": 37,
+    "text": "1 791 Jean Henry, Tanzlehrer, a. Genf — III, 79."
+   },
+   {
+    "n": 38,
+    "text": "807 Fr. — Marg. Amalie Moll a. Biel."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 4,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Pagnard.",
+    "place": "Bern",
+    "surname": "Pagnard",
+    "forename": "Isaak Charles",
+    "title": "",
+    "occupation": "Büchsenschmied u. Küchler",
+    "address": "III, 104",
+    "quarter": "III",
+    "street": "",
+    "house_no": "104",
+    "origin": "Münster",
+    "birth_year": "1799",
+    "household": "810 Fr. II Ehe. — Susanna Schneider, geb. Heiniger, a. Pieterlen. 3 T. aus I Ehe. — 824 Anna Sus. Louise. — 26 Jüstine, — 27 Rosine.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 799 Isaak Charles, Büchsenschmied u. Küchler, a. Münster — III, 104. 810 Fr. II Ehe. — Susanna Schneider, geb. Heiniger, a. Pieterlen. 3 T. aus I Ehe. — 824 Anna Sus. Louise. — 26 Jüstine, — 27 Rosine."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Paillard.",
+    "place": "Bern",
+    "surname": "Paillard",
+    "forename": "Georg Felix Prosper",
+    "title": "",
+    "occupation": "Schreiber",
+    "address": "V, 34",
+    "quarter": "V",
+    "street": "",
+    "house_no": "34",
+    "origin": "St. Croix, K. Waadt",
+    "birth_year": "1810",
+    "household": "806 Fr. — Anna Röthlisberger a. Langnau.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 810 Georg Felix Prosper, Schreiber, a. St. Croix, K. Waadt — V, 34. 806 Fr. — Anna Röthlisberger a. Langnau."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Pasteur.",
+    "place": "Bern",
+    "surname": "Pasteur",
+    "forename": "Maria Sus.",
+    "title": "",
+    "occupation": "Feinzeugwascherin",
+    "address": "IV, 270",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "270",
+    "origin": "Prilly, K. Waadt",
+    "birth_year": "1814",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 814 Maria Sus., Feinzeugwascherin, a. Prilly, K. Waadt — IV, 270."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Paul.",
+    "place": "Bern",
+    "surname": "Paul",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Mechaniker",
+    "address": "VI, 55",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "55",
+    "origin": "Lacheulte",
+    "birth_year": "1800",
+    "household": "792 Fr. — Elis. Fischer a. Meisterschwanden.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 800 Peter, Mechaniker, a. Lacheulte — VI, 55. 792 Fr. — Elis. Fischer a. Meisterschwanden."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Pauli.",
+    "place": "Bern",
+    "surname": "Pauli",
+    "forename": "Anna",
+    "title": "",
+    "occupation": "Zuckerbäckerin",
+    "address": "II, 100",
+    "quarter": "II",
+    "street": "",
+    "house_no": "100",
+    "origin": "Wahlern",
+    "birth_year": "1792",
+    "household": "",
+    "note": "Name aus Zwischentitel; geb. Zweiacher",
+    "text": "1 792 Anna, geb. Zweiacher, Zuckerbäckerin, a. Wahlern — II, 100."
+   },
+   {
+    "line_from": 24,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Paulik.",
+    "place": "Bern",
+    "surname": "Paulik",
+    "forename": "Maria Magd.",
+    "title": "des Sattlergesellen Frau",
+    "occupation": "Lohnwascherin",
+    "address": "VI, 117 b",
+    "quarter": "VI",
+    "street": "",
+    "house_no": "117 b",
+    "origin": "Naundorf in Sachsen",
+    "birth_year": "1812",
+    "household": "1 T. — 847 Maria Adele.",
+    "note": "Name aus Zwischentitel; geb. Löhrer",
+    "text": "1 812 Maria Magd., geb. Löhrer, Lohnwascherin, des Sattlergesellen Frau, a. Naundorf in Sachsen — VI, 117 b. 1 T. — 847 Maria Adele."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Pedrini.",
+    "place": "Bern",
+    "surname": "Pedrini",
+    "forename": "Joseph Anton Marie",
+    "title": "",
+    "occupation": "Rentier",
+    "address": "IV, 175",
+    "quarter": "IV",
+    "street": "",
+    "house_no": "175",
+    "origin": "Osco, K. Tessin",
+    "birth_year": "1784",
+    "household": "",
+    "note": "Name aus Zwischentitel",
+    "text": "1 784 Joseph Anton Marie, Rentier, a. Osco, K. Tessin — IV, 175."
+   },
+   {
+    "line_from": 31,
+    "line_to": 33,
+    "kind": "person",
+    "heading": "Pellet a. Sugy, K. Freiburg.",
+    "place": "Bern",
+    "surname": "Pellet",
+    "forename": "Pierre",
+    "title": "",
+    "occupation": "Bäcker",
+    "address": "V, 208",
+    "quarter": "V",
+    "street": "",
+    "house_no": "208",
+    "origin": "Sugy, K. Freiburg",
+    "birth_year": "1802",
+    "household": "810 Fr. — Marie Ros. Heimmann a. Bern. 2 T. — 827 Sophie Elis. — 29 Rosa Louise.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "1 802 Pierre, Bäcker — V, 208. 810 Fr. — Marie Ros. Heimmann a. Bern. 2 T. — 827 Sophie Elis. — 29 Rosa Louise."
+   },
+   {
+    "line_from": 34,
+    "line_to": 35,
+    "kind": "person",
+    "heading": "Pellet a. Sugy, K. Freiburg.",
+    "place": "Bern",
+    "surname": "Pellet",
+    "forename": "Jean",
+    "title": "",
+    "occupation": "Lohnbedienter",
+    "address": "V, 141",
+    "quarter": "V",
+    "street": "",
+    "house_no": "141",
+    "origin": "Sugy, K. Freiburg",
+    "birth_year": "1793",
+    "household": "791 Fr. — Franç. Henr. Naquet.",
+    "note": "Name und Herkunft aus Zwischentitel",
+    "text": "2 793 Jean, Lohnbedienter — V, 141. 791 Fr. — Franç. Henr. Naquet."
+   },
+   {
+    "line_from": 37,
+    "line_to": 38,
+    "kind": "person",
+    "heading": "Pelligot.",
+    "place": "Bern",
+    "surname": "Pelligot",
+    "forename": "Jean Henry",
+    "title": "",
+    "occupation": "Tanzlehrer",
+    "address": "III, 79",
+    "quarter": "III",
+    "street": "",
+    "house_no": "79",
+    "origin": "Genf",
+    "birth_year": "1791",
+    "household": "807 Fr. — Marg. Amalie Moll a. Biel.",
+    "note": "Name aus Zwischentitel",
+    "text": "1 791 Jean Henry, Tanzlehrer, a. Genf — III, 79. 807 Fr. — Marg. Amalie Moll a. Biel."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-11T22:07:54+01:00",
+ "last_error": null
+}
