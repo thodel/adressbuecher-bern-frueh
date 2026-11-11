@@ -28,7 +28,7 @@ Alle Dateien in `data/csv/`, UTF-8, Komma-getrennt, mit Kopfzeile. Seitenschlüs
 | `volume`, `page`, `printed_page`, `section` | Herkunft |
 | `line_from`, `line_to` | Zeilen in `02_lines.csv` |
 | `kind` | `person`, `firma`, `institution`, `verweis`, `sonst` |
-| `heading` | geltende Rubrik: Gewerbe, Ort oder Familienname (bei leerem Seitenanfang von der Vorseite übernommen, dann Vermerk «Rubrik von Vorseite») |
+| `heading` | geltende Rubrik: Gewerbe, Ort oder Familienname (bei leerem Seitenanfang von der Vorseite übernommen, dann Vermerk «Rubrik von Vorseite»; 1795 wird der Spaltenkopf «Herr»/«Monsieur» nicht als Rubrik genommen, Vermerk «Spaltenkopf … nicht als Rubrik übernommen») |
 | `place` | Ort (Stadtteile: Bern) |
 | `surname`, `forename`, `title` | Name wie gedruckt; `title` = Anrede, Stand, Zusatz (Herr, Wittwe, fils, Gebrüder …) |
 | `occupation` | Beruf, Gewerbe oder Ware wie gedruckt |

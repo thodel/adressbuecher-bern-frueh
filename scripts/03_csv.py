@@ -48,6 +48,7 @@ def main() -> None:
             w.writerow(row)
 
     lines_out, status_out, entries_out = [], [], []
+    SALUTATION_HEAD = re.compile(r"^(Herr|Herren|Monsieur|Messieurs)\.?(?=\s*(/|$))")
     last_heading: dict[str, str] = {}  # Band -> letzte Rubrik, für Einträge oben auf der Folgeseite
     for p in pages:
         vol, page = p["volume"], int(p["page"])
@@ -90,6 +91,13 @@ def main() -> None:
             row = {"entry_id": eid, "volume": vol, "page": page, "printed_page": clean(obj.get("printed_page")),
                    "section": p["section"], "line_from": e.get("line_from"), "line_to": e.get("line_to"),
                    "kind": clean(e.get("kind")), "heading": clean(e.get("heading")), "place": clean(e.get("place"))}
+            # 1795: «Herr» / «Monsieur» steht als Spaltenkopf über den Namen; das Modell hat ihn
+            # teils als Rubrik genommen. Dann gilt die vorige echte Rubrik (Ort bzw. Gewerbe).
+            m = SALUTATION_HEAD.match(row["heading"] or "") if vol == "1795" else None
+            if m:
+                rest = row["heading"][m.end():].strip(" /")
+                row["heading"] = rest or last_heading.get(vol, "") or row["place"]
+                row["note"] = f"Spaltenkopf «{m.group(1)}» nicht als Rubrik übernommen"
             if not row["heading"] and last_heading.get(vol):
                 row["heading"] = last_heading[vol]
                 row["note"] = "Rubrik von Vorseite"
