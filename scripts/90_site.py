@@ -64,8 +64,72 @@ def main() -> None:
     (SITE / "data/entries.js").write_text("window.BERN_ENTRIES=" + json.dumps(ent_rows, ensure_ascii=False, separators=(",", ":")) + ";\n")
     (SITE / "data/lines.js").write_text("window.BERN_LINES=" + json.dumps(by_page, ensure_ascii=False, separators=(",", ":")) + ";\n")
 
+    write_places(entries)
+
     kinds = Counter(e["kind"] for e in entries)
     print(f"site/data: {len(ent_rows)} Einträge, {len(lines)} Zeilen, {len(page_rows)} Seiten; Arten {dict(kinds)}")
+
+
+def write_places(entries: list[dict]) -> None:
+    """Orte für die Karte: config/places.csv (Schreibung -> Ort) auf die Einträge anwenden.
+
+    Einträge ohne verorteten Ort erben den Ort des vorangehenden verorteten Eintrags
+    desselben Bandes (höchstens eine Seite zurück) und gelten als «ungefähr».
+    Ergebnis: data/csv/06_entry_places.csv und site/data/places.js.
+    """
+    gaz = {r["place"]: r for r in csv.DictReader((ROOT / "config/places.csv").open(encoding="utf-8"))}
+    order = sorted(entries, key=lambda e: (e["volume"], int(e["page"]), int(e["line_from"] or 0)))
+    out, last = [], {}
+    for e in order:
+        sp = e["place"].strip()
+        g = gaz.get(f"{sp}@{e['volume']}:{int(e['page'])}") or gaz.get(sp)
+        how = ""
+        if g and g["lat"]:
+            how = "ort"
+            last[e["volume"]] = (g, sp, int(e["page"]))
+        elif g and g["method"] == "ausgelassen":
+            g = None
+        else:
+            prev = last.get(e["volume"])
+            if prev and int(e["page"]) - prev[2] <= 1:
+                g, how = prev[0], "ungefähr"
+            else:
+                g = None
+        out.append({"entry_id": e["entry_id"], "volume": e["volume"], "place": sp,
+                    "map_place": g["name"] if g else "", "canton": g["canton"] if g else "",
+                    "lat": g["lat"] if g else "", "lon": g["lon"] if g else "",
+                    "method": (g["method"] if how == "ort" else how) if g else "", "precision": how,
+                    "source": g["source"] if g else ""})
+    with (ROOT / "data/csv/06_entry_places.csv").open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, list(out[0])); w.writeheader(); w.writerows(out)
+
+    places: dict[tuple, dict] = {}
+    for o in out:
+        if not o["lat"]:
+            continue
+        # dieselbe Gemeinde unter deutschem und französischem Namen (Thun/Thoune) zusammenfassen
+        key = o["source"] if "gg25" in o["source"] else (round(float(o["lat"]), 3), round(float(o["lon"]), 3))
+        p = places.setdefault(key, {"names": Counter(), "c": o["canton"], "lat": float(o["lat"]), "lon": float(o["lon"]),
+                                    "m": set(), "sp": {}, "v": Counter(), "a": Counter()})
+        p["names"][(o["map_place"], o["canton"])] += 1
+        (p["v"] if o["precision"] == "ort" else p["a"])[o["volume"]] += 1
+        if o["precision"] == "ort":
+            p["m"].add(o["method"])
+            p["sp"].setdefault(o["place"], Counter())[o["volume"]] += 1
+    notes = {}
+    for r in gaz.values():
+        if r["note"] and r["lat"] and r["method"] in ("hand", "kontext", "unscharf", "bezugsort"):
+            notes.setdefault((r["name"], r["canton"]), set()).add(r["note"])
+    rows = []
+    for p in places.values():
+        p["n"] = p["names"].most_common(1)[0][0][0]
+        rows.append({"n": p["n"], "c": p["c"], "lat": p["lat"], "lon": p["lon"], "m": sorted(p["m"]),
+                     "sp": {k: dict(v) for k, v in p["sp"].items()}, "v": dict(p["v"]), "a": dict(p["a"]),
+                     "note": "; ".join(sorted(set().union(*(notes.get(k, set()) for k in p["names"])))) })
+    rows.sort(key=lambda r: -sum(r["v"].values()))
+    (SITE / "data/places.js").write_text("window.BERN_PLACES=" + json.dumps(rows, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    pc = Counter(o["precision"] or "ohne" for o in out)
+    print(f"Karte: {len(rows)} Orte; Einträge {dict(pc)}")
 
 
 if __name__ == "__main__":

@@ -53,4 +53,11 @@ Alle Dateien in `data/csv/`, UTF-8, Komma-getrennt, mit Kopfzeile. Seitenschlüs
 `volume`, `page`, `lines_a`, `lines_b` (Zeilen der ersten und zweiten Lesung), `lines_same`, `lines_differ`,
 `lines_unpaired` (ohne zuordenbare Zeile), `chars_differ`, `share_chars_differ`, `run_b`, `model_b`.
 
+## 06_entry_places.csv — Ort je Eintrag (für die Karte)
+`entry_id`, `volume`, `place` (wie im Eintrag), `map_place` (heutiger Name bei swisstopo), `canton`, `lat`, `lon`
+(WGS84), `method` (`auto`, `auto_bezug`, `kontext`, `unscharf`, `bezugsort`, `hand`, bzw. `ungefähr`), `precision`
+(`ort` = Ort des Eintrags; `ungefähr` = vom vorangehenden verorteten Eintrag desselben Bandes übernommen; leer = ohne Ort),
+`source` (swisstopo-Quelle und Kennung). Die Zuordnung je Schreibung steht in `config/places.csv`
+(erzeugt von `tools/geocode_places.py`), Korrekturen von Hand in `config/places_hand.csv`.
+
 Alle Felder ausser `text` sind Deutungen des Modells; `02_lines.csv` ist die nähere Lesung.

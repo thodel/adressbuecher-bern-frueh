@@ -10,7 +10,7 @@
 <body>
 <header>
   <h1>Frühe Berner Adressbücher 1795–1848</h1>
-  <nav class="nav"><a href="index.html">Einträge</a> · <a href="methoden.html" aria-current="page">Methode und Vorbehalte</a></nav>
+  <nav class="nav"><a href="index.html">Einträge</a> · <a href="karte.html">Karte der Orte</a> · <a href="methoden.html" aria-current="page">Methode und Vorbehalte</a></nav>
 </header>
 <main class="prose">
 <h2>Was diese Seite ist</h2>
@@ -49,6 +49,16 @@
   <li>Beginnt ein Wort in Name, Ort, Gasse oder Herkunft mit N und hat eine andere Lesung derselben Seite dasselbe Wort mit R, wird R übernommen (59 Einträge, mit Vermerk «R statt N nach anderer Lesung»). Die Zeilen bleiben, wie gelesen.</li>
 </ul>
 <p>Einzelne N statt R können trotzdem verbleiben, wenn alle Lesungen sich irren.</p>
+
+<h2>Karte der Orte</h2>
+<p>Die <a href="karte.html">Karte</a> zeigt die Orte, die im Feld «Ort» der Einträge stehen. Die Stadt Bern ist ein einziger Punkt: Ihre Adressen sind meist alte Hausnummern innerhalb eines Quartiers (1810 «Q. n. 99», 1848 «IV, 23»), für die noch keine Zuordnung zu Gebäuden vorliegt.</p>
+<ul>
+  <li><b>Verortung:</b> Die rund 1030 Schreibungen (Hutwyl, Thoune, Arau, «Moos, bei Biglen» …) wurden mit der Ortssuche von swisstopo nachgeschlagen, nach einem Vergleich, der alte Schreibungen gleichsetzt (y/i, th/t, ß/ss, wyl/wil). Angenommen wurden Gemeinden und Ortschaften in den Kantonen, die damals bernisch waren (für 1795 auch Waadt und Aargau; für 1836–1848 auch das Laufental).</li>
+  <li><b>Gleichnamige Orte</b> (Rütti, Schachen, Kehr …) wurden nach den übrigen Orten derselben Seite gewählt: der nächstgelegene. Diese Punkte sind auf der Karte gestrichelt.</li>
+  <li><b>Von Hand:</b> 60 Schreibungen, vor allem alte deutsche Namen (Münster = Moutier, Dachsfelden = Tavannes, Tramlingen = Tramelan, Aarmühle = Interlaken) und gleichnamige Orte, die je nach Seite verschieden sind (Dießbach: Oberdiessbach oder Diessbach bei Büren). Liste: <code>config/places_hand.csv</code>.</li>
+  <li><b>Ergebnis:</b> 15 774 Einträge haben einen verorteten Ort (759 Punkte). 379 Einträge nennen einen Ort, der nicht gefunden wurde (meist Weiler und Höfe), 1082 nennen keinen. Diese lassen sich mit «ungefähr verortete mitzählen» dem vorangehenden Ort desselben Bandes zuschlagen (1394 Einträge); 12 Einträge mit Haus- oder Wirtshausnamen (Paris, Orient …) bleiben ohne Ort.</li>
+</ul>
+<p>Die Zuordnung ist maschinell und nicht vollständig geprüft. Jede Schreibung mit Ort, Verfahren und Kennung bei swisstopo steht in <code>config/places.csv</code>, jeder Eintrag in <code>data/csv/06_entry_places.csv</code>.</p>
 
 <h2>Stichprobe vor dem Volllauf</h2>
 <div id="smoke">

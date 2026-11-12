@@ -28,6 +28,8 @@ make site RUN=full-v1   # CSV (data/csv/) und Daten für site/
 # zweite Lesung und Vergleich:
 #   scripts/02_gemini.py --run full-v2 --all --thinking medium --workers 8
 #   scripts/03_csv.py --run full-v1 --second full-v2 && python3 scripts/90_site.py
+# Karte: Orte bei swisstopo nachschlagen (config/places.csv), dann Seite neu bauen
+#   python3 tools/geocode_places.py && python3 scripts/90_site.py
 make serve         # Vorschau
 ```
 

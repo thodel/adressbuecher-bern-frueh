@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orte der Adressbücher</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Code+Pro:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="style.css">
+<style>
+  #map { flex: 1 1 auto; min-height: 520px; height: calc(100vh - 220px); border: 1px solid var(--line); border-radius: 8px; background: var(--paper); }
+  .leaflet-popup-content { font-family: var(--font-body); font-size: 14px; line-height: 1.4; margin: 10px 12px; }
+  .leaflet-popup-content h3 { margin: 0 0 4px; font-size: 15px; }
+  .leaflet-popup-content table { font-size: 13px; width: auto; }
+  .leaflet-popup-content td { padding: 1px 8px 1px 0; border: 0; }
+  .leaflet-popup-content .muted { color: #5c6370; font-size: 12.5px; }
+  .key { display: inline-flex; align-items: center; gap: 5px; }
+  .dot { display: inline-block; width: 11px; height: 11px; border-radius: 50%; border: 2px solid var(--accent); }
+  .dot.solid { background: var(--accent); opacity: .7; }
+  .dot.open { border-style: dashed; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Frühe Berner Adressbücher 1795–1848</h1>
+  <nav class="nav"><a href="index.html">Einträge</a> · <a href="karte.html" aria-current="page">Karte der Orte</a> · <a href="methoden.html">Methode und Vorbehalte</a></nav>
+</header>
+<p class="sub">Orte, an denen die Einträge stehen, nach dem Ortsnamen im Adressbuch. <b>Die Stadt Bern ist ein einziger Punkt:</b> Hausnummern lassen sich noch nicht verorten. Kreisfläche nach der Zahl der Einträge (logarithmisch). Klick auf einen Ort zeigt Schreibungen und Zahlen je Band und führt zu den Einträgen.</p>
+
+<div class="toolbar">
+  <select id="vol" aria-label="Band"><option value="">alle Bände</option></select>
+  <label class="check" title="Einträge ohne erkannten Ort (z. B. Weiler) dem vorangehenden Ort desselben Bandes zuschlagen"><input type="checkbox" id="approx"> ungefähr verortete mitzählen</label>
+  <span class="key"><span class="dot solid"></span><small>Ortsname eindeutig</small></span>
+  <span class="key"><span class="dot open"></span><small>gleichnamige Orte, nach Nachbarorten gewählt</small></span>
+  <span class="count" id="count"></span>
+</div>
+<div id="map" role="region" aria-label="Karte"></div>
+<footer class="legend">Karte: © swisstopo (Landeskarte grau). Verortung mit der Ortssuche von swisstopo, ergänzt von Hand; Liste der Schreibungen in <code>config/places.csv</code>, je Eintrag in <code>data/csv/06_entry_places.csv</code>.</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="data/meta.js"></script>
+<script src="data/places.js"></script>
+<script>
+(() => {
+  const META = window.BERN_META, PLACES = window.BERN_PLACES;
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const SHORT = Object.fromEntries(META.volumes.map(v => [v.volume, v.short]));
+  for (const v of META.volumes) $("vol").insertAdjacentHTML("beforeend", `<option value="${v.volume}">${esc(v.short)}</option>`);
+  const accent = getComputedStyle(document.documentElement).getPropertyValue("--accent").trim() || "#7a2e2e";
+  const METHOD = { auto: "Ortsname eindeutig", auto_bezug: "mit Zusatz «bei …» bestimmt", hand: "von Hand bestimmt",
+    kontext: "gleichnamige Orte: der nächste zu den Orten derselben Seite", unscharf: "ähnlicher Name nahe den Orten derselben Seite",
+    bezugsort: "nur der Bezugsort («bei …») gefunden" };
+
+  const map = L.map("map", { zoomSnap: 0.5 }).setView([46.95, 7.45], 8.5);
+  L.tileLayer("https://wmts.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-grau/default/current/3857/{z}/{x}/{y}.jpeg",
+    { maxZoom: 18, attribution: '© <a href="https://www.swisstopo.admin.ch/">swisstopo</a>' }).addTo(map);
+  const layer = L.layerGroup().addTo(map);
+  window.BERN_MAP = map;
+
+  function draw() {
+    const vol = $("vol").value, approx = $("approx").checked;
+    layer.clearLayers();
+    let nPlaces = 0, nEntries = 0;
+    for (const p of PLACES) {
+      const pick = o => vol ? (o[vol] || 0) : Object.values(o).reduce((a, b) => a + b, 0);
+      const n = pick(p.v) + (approx ? pick(p.a) : 0);
+      if (!n) continue;
+      nPlaces++; nEntries += n;
+      const unsure = p.m.length && p.m.every(m => ["kontext", "unscharf", "bezugsort"].includes(m));
+      const r = 3 + 5 * Math.log10(n);
+      const mk = L.circleMarker([p.lat, p.lon], { radius: r, color: accent, weight: n >= 500 ? 3 : 1.5, fillColor: accent,
+        fillOpacity: unsure ? 0.08 : 0.35, dashArray: unsure ? "3 3" : null });
+      mk.bindTooltip(`${esc(p.n)}: ${n}`);
+      mk.bindPopup(() => popup(p, vol, approx), { maxWidth: 340 });
+      layer.addLayer(mk);
+    }
+    $("count").textContent = `${nPlaces.toLocaleString("de-CH")} Orte, ${nEntries.toLocaleString("de-CH")} Einträge`;
+  }
+
+  function popup(p, vol, approx) {
+    const vols = META.volumes.map(v => v.volume).filter(v => (p.v[v] || (approx && p.a[v])) && (!vol || v === vol));
+    const rows = vols.map(v => `<tr><td>${esc(SHORT[v])}</td><td>${p.v[v] || 0}${approx && p.a[v] ? ` <span class="muted">+ ${p.a[v]} ungefähr</span>` : ""}</td></tr>`).join("");
+    const sp = Object.entries(p.sp).filter(([, c]) => !vol || c[vol]).map(([s, c]) => {
+      const href = `index.html#${new URLSearchParams({ v: "search", q: s, feld: "place", ...(vol ? { band: vol } : {}) })}`;
+      return `<a href="${href}">${esc(s)}</a> <span class="muted">(${Object.entries(c).map(([v, k]) => v + ": " + k).join(", ")})</span>`;
+    }).join("<br>");
+    const how = p.m.map(m => METHOD[m] || m).join("; ");
+    return `<h3>${esc(p.n)} <span class="muted">(${esc(p.c)})</span></h3><table>${rows}</table>
+      <div style="margin-top:6px">Schreibungen im Adressbuch:<br>${sp || "–"}</div>
+      <div class="muted" style="margin-top:6px">Verortung: ${esc(how)}${p.note ? ". " + esc(p.note) : ""}</div>`;
+  }
+
+  $("vol").onchange = draw; $("approx").onchange = draw;
+  draw();
+})();
+</script>
+</body>
+</html>
