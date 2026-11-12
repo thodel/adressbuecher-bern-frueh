@@ -1,0 +1,1125 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 40,
+ "thinking": "medium",
+ "started": "2026-11-12T07:55:36+01:00",
+ "seconds": 79.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 6802,
+  "thoughts": 6236
+ },
+ "response_text": "{\n  \"page_heading\": \"Stadtbezirk untenaus.\",\n  \"printed_page\": \"14\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"23 a\", \"und\": false, \"new\": \"41\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"23 b\", \"und\": false, \"new\": \"44 u. 44 a\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"23 c I\", \"und\": false, \"new\": \"44 c\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"23 c II\", \"und\": false, \"new\": \"44 b\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"23 d\", \"und\": false, \"new\": \"42\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"23 e\", \"und\": false, \"new\": \"46 b\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"23 f\", \"und\": false, \"new\": \"46, 46 a\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"24 a\", \"und\": false, \"new\": \"40\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"24 g\", \"und\": false, \"new\": \"40 a\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"24 h\", \"und\": false, \"new\": \"40 b\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"25\", \"und\": false, \"new\": \"28\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"26\", \"und\": false, \"new\": \"26\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"27\", \"und\": false, \"new\": \"22\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"23\", \"und\": false, \"new\": \"16 a, b\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"28 a\", \"und\": false, \"new\": \"16 c\", \"street\": \"Elfenauweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"29 a\", \"und\": false, \"new\": \"104 u. 104 b\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"29 b\", \"und\": false, \"new\": \"104 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"29 d\", \"und\": false, \"new\": \"98 u. 98 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"30\", \"und\": false, \"new\": \"4\", \"street\": \"Alt. Aargauerst.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"31 a\", \"und\": false, \"new\": \"2\", \"street\": \"Alt. Aargauerst.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"31 b\", \"und\": false, \"new\": \"2 a\", \"street\": \"Alt. Aargauerst.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"32 a\", \"und\": false, \"new\": \"3\", \"street\": \"Kl. Muristalden\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"32 b\", \"und\": false, \"new\": \"3 a\", \"street\": \"Kl. Muristalden\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"33 a I\", \"und\": false, \"new\": \"1 u. 1 d\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"33 a II\", \"und\": false, \"new\": \"1 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"33 a III\", \"und\": false, \"new\": \"1 b\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"33 d - g\", \"und\": false, \"new\": \"34\", \"street\": \"Kl. Muristalden\", \"hand\": false, \"note\": \"Klammer 33 d - g zu 34, 36, 38, 38 a\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"33 d - g\", \"und\": false, \"new\": \"36\", \"street\": \"Kl. Muristalden\", \"hand\": false, \"note\": \"Klammer 33 d - g zu 34, 36, 38, 38 a\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"33 d - g\", \"und\": false, \"new\": \"38\", \"street\": \"Kl. Muristalden\", \"hand\": false, \"note\": \"Klammer 33 d - g zu 34, 36, 38, 38 a\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"33 d - g\", \"und\": false, \"new\": \"38 a\", \"street\": \"Kl. Muristalden\", \"hand\": false, \"note\": \"Klammer 33 d - g zu 34, 36, 38, 38 a\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"34 a\", \"und\": false, \"new\": \"29\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"34 e\", \"und\": false, \"new\": \"29 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"34 b\", \"und\": false, \"new\": \"31\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"34 c\", \"und\": false, \"new\": \"31 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"31 d\", \"und\": false, \"new\": \"31 b\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"35\", \"und\": false, \"new\": \"45 u. 45 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"36 a\", \"und\": false, \"new\": \"47\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"36 b\", \"und\": false, \"new\": \"47 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"38 a\", \"und\": false, \"new\": \"73\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"38 b\", \"und\": false, \"new\": \"73 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"38 c\", \"und\": false, \"new\": \"73 b\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"39 a\", \"und\": false, \"new\": \"80\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"39 b\", \"und\": false, \"new\": \"80 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"40\", \"und\": false, \"new\": \"82\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"41 a\", \"und\": false, \"new\": \"9 a\", \"street\": \"Worbstrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"41 b\", \"und\": false, \"new\": \"9 b\", \"street\": \"Worbstrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"41 c\", \"und\": false, \"new\": \"9 c\", \"street\": \"Worbstrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"42\", \"und\": false, \"new\": \"9\", \"street\": \"Worbstrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"43 a\", \"und\": false, \"new\": \"56 u. 56 a\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"43 b\", \"und\": false, \"new\": \"56 b\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"44\", \"und\": false, \"new\": \"56 c\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"45 a I\", \"und\": false, \"new\": \"37 u. 37 c\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"45 a II\", \"und\": false, \"new\": \"37 a\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"45 b\", \"und\": false, \"new\": \"37 b\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"45 d\", \"und\": false, \"new\": \"37 d\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"45 c\", \"und\": false, \"new\": \"39\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"46\", \"und\": false, \"new\": \"36\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"47 a I\", \"und\": false, \"new\": \"26 u. 26 a\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"48 b\", \"und\": false, \"new\": \"22\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"48 c\", \"und\": false, \"new\": \"24\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"49 a\", \"und\": false, \"new\": \"23 u. 23 a\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"49 b\", \"und\": false, \"new\": \"27\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"50\", \"und\": false, \"new\": \"21\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"51\", \"und\": false, \"new\": \"13\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"52\", \"und\": false, \"new\": \"11\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"53\", \"und\": false, \"new\": \"10\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"54 a\", \"und\": false, \"new\": \"4\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"54 b\", \"und\": false, \"new\": \"4 a\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"55 a\", \"und\": false, \"new\": \"4 b\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"55 b\", \"und\": false, \"new\": \"4 c\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"\", \"und\": false, \"new\": \"4 d\", \"street\": \"Melchenbühlweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"56 a\", \"und\": false, \"new\": \"24\", \"street\": \"Friedhofweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"56 b\", \"und\": false, \"new\": \"24 a\", \"street\": \"Friedhofweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"57\", \"und\": false, \"new\": \"26\", \"street\": \"Friedhofweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"53 a\", \"und\": false, \"new\": \"56\", \"street\": \"Ostermundigenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"58 c II\", \"und\": false, \"new\": \"60 u. 60 a\", \"street\": \"Ostermundigenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"59\", \"und\": false, \"new\": \"92 c\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"61 a\", \"und\": false, \"new\": \"92\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"61 b\", \"und\": false, \"new\": \"92 a\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"\", \"und\": false, \"new\": \"92 b\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"62\", \"und\": false, \"new\": \"80\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"63\", \"und\": false, \"new\": \"74\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"64 a\", \"und\": false, \"new\": \"76 b\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"64 b\", \"und\": false, \"new\": \"76\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"64 c\", \"und\": false, \"new\": \"76 a\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"65\", \"und\": false, \"new\": \"76 c\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"66 a I\", \"und\": false, \"new\": \"33\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"Klammer mit 66 b I, 66 b II\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"66 b I\", \"und\": false, \"new\": \"33\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"Klammer mit 66 a I, 66 b II\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"66 b II\", \"und\": false, \"new\": \"33\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"Klammer mit 66 a I, 66 b I\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"67\", \"und\": false, \"new\": \"31\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"68\", \"und\": false, \"new\": \"27\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"69\", \"und\": false, \"new\": \"26 d\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"70 a\", \"und\": false, \"new\": \"26 a\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"70 b\", \"und\": false, \"new\": \"26 b\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"70 c\", \"und\": false, \"new\": \"26 c\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"71\", \"und\": false, \"new\": \"26 u. 26 e\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"72 a u. b\", \"und\": false, \"new\": \"12 u. 12 a\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"72 c\", \"und\": false, \"new\": \"12 b\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"73\", \"und\": false, \"new\": \"12 c\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"74 a\", \"und\": false, \"new\": \"13 u. 13 a\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"74 c\", \"und\": false, \"new\": \"13 b\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"75 a\", \"und\": false, \"new\": \"15\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"75 b\", \"und\": false, \"new\": \"17\", \"street\": \"Burgerenzielweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"76 a\", \"und\": false, \"new\": \"32\", \"street\": \"Egelgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"76 b\", \"und\": false, \"new\": \"32 a\", \"street\": \"Egelgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"77 a I\", \"und\": false, \"new\": \"30\", \"street\": \"Egelgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"77 a II\", \"und\": false, \"new\": \"30 a\", \"street\": \"Egelgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"79 a\", \"und\": false, \"new\": \"38\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"79 b\", \"und\": false, \"new\": \"38 a\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"\", \"und\": false, \"new\": \"38 b\", \"street\": \"Schosshaldenstr.\", \"hand\": false, \"note\": \"\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Stadtbezirk untenaus.",
+  "printed_page": "14",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "23 a",
+    "und": false,
+    "new": "41",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "23 b",
+    "und": false,
+    "new": "44 u. 44 a",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "23 c I",
+    "und": false,
+    "new": "44 c",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "23 c II",
+    "und": false,
+    "new": "44 b",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "23 d",
+    "und": false,
+    "new": "42",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "23 e",
+    "und": false,
+    "new": "46 b",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "23 f",
+    "und": false,
+    "new": "46, 46 a",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "24 a",
+    "und": false,
+    "new": "40",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "24 g",
+    "und": false,
+    "new": "40 a",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "24 h",
+    "und": false,
+    "new": "40 b",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "25",
+    "und": false,
+    "new": "28",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "26",
+    "und": false,
+    "new": "26",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "27",
+    "und": false,
+    "new": "22",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "23",
+    "und": false,
+    "new": "16 a, b",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "28 a",
+    "und": false,
+    "new": "16 c",
+    "street": "Elfenauweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "29 a",
+    "und": false,
+    "new": "104 u. 104 b",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "29 b",
+    "und": false,
+    "new": "104 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "29 d",
+    "und": false,
+    "new": "98 u. 98 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "30",
+    "und": false,
+    "new": "4",
+    "street": "Alt. Aargauerst.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "31 a",
+    "und": false,
+    "new": "2",
+    "street": "Alt. Aargauerst.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "31 b",
+    "und": false,
+    "new": "2 a",
+    "street": "Alt. Aargauerst.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "32 a",
+    "und": false,
+    "new": "3",
+    "street": "Kl. Muristalden",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "32 b",
+    "und": false,
+    "new": "3 a",
+    "street": "Kl. Muristalden",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "33 a I",
+    "und": false,
+    "new": "1 u. 1 d",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "33 a II",
+    "und": false,
+    "new": "1 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "33 a III",
+    "und": false,
+    "new": "1 b",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "33 d - g",
+    "und": false,
+    "new": "34",
+    "street": "Kl. Muristalden",
+    "hand": false,
+    "note": "Klammer 33 d - g zu 34, 36, 38, 38 a"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "33 d - g",
+    "und": false,
+    "new": "36",
+    "street": "Kl. Muristalden",
+    "hand": false,
+    "note": "Klammer 33 d - g zu 34, 36, 38, 38 a"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "33 d - g",
+    "und": false,
+    "new": "38",
+    "street": "Kl. Muristalden",
+    "hand": false,
+    "note": "Klammer 33 d - g zu 34, 36, 38, 38 a"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "33 d - g",
+    "und": false,
+    "new": "38 a",
+    "street": "Kl. Muristalden",
+    "hand": false,
+    "note": "Klammer 33 d - g zu 34, 36, 38, 38 a"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "34 a",
+    "und": false,
+    "new": "29",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "34 e",
+    "und": false,
+    "new": "29 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "34 b",
+    "und": false,
+    "new": "31",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "34 c",
+    "und": false,
+    "new": "31 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "31 d",
+    "und": false,
+    "new": "31 b",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "35",
+    "und": false,
+    "new": "45 u. 45 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "36 a",
+    "und": false,
+    "new": "47",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "36 b",
+    "und": false,
+    "new": "47 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "38 a",
+    "und": false,
+    "new": "73",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "38 b",
+    "und": false,
+    "new": "73 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "38 c",
+    "und": false,
+    "new": "73 b",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "39 a",
+    "und": false,
+    "new": "80",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "39 b",
+    "und": false,
+    "new": "80 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "40",
+    "und": false,
+    "new": "82",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "41 a",
+    "und": false,
+    "new": "9 a",
+    "street": "Worbstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "41 b",
+    "und": false,
+    "new": "9 b",
+    "street": "Worbstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "41 c",
+    "und": false,
+    "new": "9 c",
+    "street": "Worbstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "42",
+    "und": false,
+    "new": "9",
+    "street": "Worbstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "43 a",
+    "und": false,
+    "new": "56 u. 56 a",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "43 b",
+    "und": false,
+    "new": "56 b",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "44",
+    "und": false,
+    "new": "56 c",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "45 a I",
+    "und": false,
+    "new": "37 u. 37 c",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "45 a II",
+    "und": false,
+    "new": "37 a",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "45 b",
+    "und": false,
+    "new": "37 b",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "45 d",
+    "und": false,
+    "new": "37 d",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "45 c",
+    "und": false,
+    "new": "39",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "46",
+    "und": false,
+    "new": "36",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "47 a I",
+    "und": false,
+    "new": "26 u. 26 a",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "48 b",
+    "und": false,
+    "new": "22",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "48 c",
+    "und": false,
+    "new": "24",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "49 a",
+    "und": false,
+    "new": "23 u. 23 a",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "49 b",
+    "und": false,
+    "new": "27",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "50",
+    "und": false,
+    "new": "21",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "51",
+    "und": false,
+    "new": "13",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "52",
+    "und": false,
+    "new": "11",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "53",
+    "und": false,
+    "new": "10",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "54 a",
+    "und": false,
+    "new": "4",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "54 b",
+    "und": false,
+    "new": "4 a",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "55 a",
+    "und": false,
+    "new": "4 b",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "55 b",
+    "und": false,
+    "new": "4 c",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "",
+    "und": false,
+    "new": "4 d",
+    "street": "Melchenbühlweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "56 a",
+    "und": false,
+    "new": "24",
+    "street": "Friedhofweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "56 b",
+    "und": false,
+    "new": "24 a",
+    "street": "Friedhofweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "57",
+    "und": false,
+    "new": "26",
+    "street": "Friedhofweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "53 a",
+    "und": false,
+    "new": "56",
+    "street": "Ostermundigenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "58 c II",
+    "und": false,
+    "new": "60 u. 60 a",
+    "street": "Ostermundigenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "59",
+    "und": false,
+    "new": "92 c",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "61 a",
+    "und": false,
+    "new": "92",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "61 b",
+    "und": false,
+    "new": "92 a",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "",
+    "und": false,
+    "new": "92 b",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "62",
+    "und": false,
+    "new": "80",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "63",
+    "und": false,
+    "new": "74",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "64 a",
+    "und": false,
+    "new": "76 b",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "64 b",
+    "und": false,
+    "new": "76",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "64 c",
+    "und": false,
+    "new": "76 a",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "65",
+    "und": false,
+    "new": "76 c",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "66 a I",
+    "und": false,
+    "new": "33",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": "Klammer mit 66 b I, 66 b II"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "66 b I",
+    "und": false,
+    "new": "33",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": "Klammer mit 66 a I, 66 b II"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "66 b II",
+    "und": false,
+    "new": "33",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": "Klammer mit 66 a I, 66 b I"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "67",
+    "und": false,
+    "new": "31",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "68",
+    "und": false,
+    "new": "27",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "69",
+    "und": false,
+    "new": "26 d",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "70 a",
+    "und": false,
+    "new": "26 a",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "70 b",
+    "und": false,
+    "new": "26 b",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "70 c",
+    "und": false,
+    "new": "26 c",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "71",
+    "und": false,
+    "new": "26 u. 26 e",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "72 a u. b",
+    "und": false,
+    "new": "12 u. 12 a",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "72 c",
+    "und": false,
+    "new": "12 b",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "73",
+    "und": false,
+    "new": "12 c",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "74 a",
+    "und": false,
+    "new": "13 u. 13 a",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "74 c",
+    "und": false,
+    "new": "13 b",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "75 a",
+    "und": false,
+    "new": "15",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "75 b",
+    "und": false,
+    "new": "17",
+    "street": "Burgerenzielweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "76 a",
+    "und": false,
+    "new": "32",
+    "street": "Egelgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "76 b",
+    "und": false,
+    "new": "32 a",
+    "street": "Egelgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "77 a I",
+    "und": false,
+    "new": "30",
+    "street": "Egelgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "77 a II",
+    "und": false,
+    "new": "30 a",
+    "street": "Egelgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "79 a",
+    "und": false,
+    "new": "38",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "79 b",
+    "und": false,
+    "new": "38 a",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "",
+    "und": false,
+    "new": "38 b",
+    "street": "Schosshaldenstr.",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:56:56+01:00"
+}

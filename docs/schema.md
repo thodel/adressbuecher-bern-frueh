@@ -60,4 +60,17 @@ Alle Dateien in `data/csv/`, UTF-8, Komma-getrennt, mit Kopfzeile. Seitenschlüs
 `source` (swisstopo-Quelle und Kennung). Die Zuordnung je Schreibung steht in `config/places.csv`
 (erzeugt von `tools/geocode_places.py`), Korrekturen von Hand in `config/places_hand.csv`.
 
+## 07_hausnummern_1882.csv — alte und neue Hausnummern (Heft von 1882)
+Eine Zeile je gedruckter Zeile: `part` (innere Stadt / Stadtbezirke), `district`, `quarter` (Farbe bzw. Drittel),
+`group` (Zwischentitel: alte Gasse bzw. Drittel), `old`, `old_base`, `old_suffix`, `und` (zusätzliche neue Adresse
+desselben alten Hauses), `new`, `street` (Adresse 1882), `hand` (handschriftlich), `note`, `page` (Bild im e-rara-Heft),
+`agree` (zweite Lesung: ja/nein/ohne_gegenstueck/berichtigt), `second_new`, `second_street`, `street_today`,
+`street_match`, `lat`, `lon`, `geo_precision` (genau, ohne Buchstabe, zwischen Nachbarnummern, Strassenmitte,
+nach alten Nachbarnummern im Quartier …).
+
+## 08_entry_houses.csv — Haus je städtischem Eintrag
+`entry_id`, `volume`, `address`, `quarter` (Farbe), `old_no`, `status` (gefunden, Nummer nicht in der Konkordanz,
+ohne Quartier, ohne Verortung, mehrdeutig), `n_rows`, `group_1881`, `new_1882`, `street_check` (passt / passt nicht:
+Gasse des Eintrags gegen Zwischentitel von 1882), `lat`, `lon`, `spread_m` (Abstand der Teilhäuser).
+
 Alle Felder ausser `text` sind Deutungen des Modells; `02_lines.csv` ist die nähere Lesung.

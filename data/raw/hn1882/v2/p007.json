@@ -1,0 +1,715 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 7,
+ "thinking": "high",
+ "started": "2026-11-12T07:57:16+01:00",
+ "seconds": 182.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 4228,
+  "thoughts": 21420
+ },
+ "response_text": "{\n  \"page_heading\": \"I. Rothes Quartier.\",\n  \"printed_page\": \"\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"1 a\", \"new\": \"2\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"2\", \"new\": \"2 a\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"3 a\", \"new\": \"2 b\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"3 b\", \"new\": \"2 c\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"4 a\", \"new\": \"4\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"4 b\", \"new\": \"4 a\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"4 c\", \"new\": \"4 b\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"5 c I\", \"new\": \"12\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"5 c II\", \"new\": \"14\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"5 a\", \"new\": \"16\", \"street\": \"Speichergasse\", \"note\": \"Handschriftliche Randnotiz «16/3»; senkrechter Strich neben «16»\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"5 d\", \"new\": \"5\", \"street\": \"Speichergasse\", \"note\": \"Senkrechter Strich neben «5»\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 a\", \"new\": \"5\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 b I\", \"new\": \"7\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 b II\", \"new\": \"9\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 c\", \"new\": \"11\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 d e\", \"new\": \"13\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 f\", \"new\": \"15\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 g\", \"new\": \"17\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 h\", \"new\": \"19\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 i\", \"new\": \"21\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 k I\", \"new\": \"23\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 k II\", \"new\": \"29\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 l\", \"new\": \"31\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 m\", \"new\": \"33\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 n\", \"new\": \"35\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"6 o\", \"new\": \"35 a\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"7 a\", \"new\": \"37\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"7 b\", \"new\": \"37 a\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"8 a\", \"new\": \"39\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"9 a\", \"new\": \"41\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Speichergasse\", \"old\": \"9 b\", \"new\": \"43\", \"street\": \"Speichergasse\"},\n    {\"col\": 1, \"group\": \"Anatomiegässchen\", \"old\": \"10 a\", \"new\": \"11\", \"street\": \"Anatomiegasse\", \"note\": \"Handschriftlicher Zusatz «Anatomiegasse» neben Zwischentitel\"},\n    {\"col\": 1, \"group\": \"Anatomiegässchen\", \"old\": \"10 b\", \"new\": \"9\", \"street\": \"Anatomiegasse\"},\n    {\"col\": 1, \"group\": \"Anatomiegässchen\", \"old\": \"11 a\", \"new\": \"7\", \"street\": \"Anatomiegasse\"},\n    {\"col\": 1, \"group\": \"Anatomiegässchen\", \"old\": \"11 b\", \"new\": \"7 a\", \"street\": \"Anatomiegasse\"},\n    {\"col\": 1, \"group\": \"Anatomiegässchen\", \"old\": \"12\", \"new\": \"5\", \"street\": \"Anatomiegasse\"},\n    {\"col\": 1, \"group\": \"Anatomiegässchen\", \"old\": \"13\", \"new\": \"3\", \"street\": \"Anatomiegasse\"},\n    {\"col\": 1, \"group\": \"Anatomiegässchen\", \"old\": \"14\", \"new\": \"1\", \"street\": \"Anatomiegasse\"},\n    {\"col\": 1, \"group\": \"Anatomiegässchen\", \"old\": \"14\", \"und\": true, \"new\": \"66\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"15 a\", \"new\": \"64\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"15 b\", \"new\": \"64 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"16 a\", \"new\": \"62\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"16 b\", \"new\": \"62 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"17 a\", \"new\": \"60\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"17 b\", \"new\": \"60 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"18 a\", \"new\": \"58\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"18 b\", \"new\": \"58 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"19 a\", \"new\": \"56\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"19 b\", \"new\": \"56 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"20\", \"new\": \"54\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"21\", \"new\": \"52\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"22\", \"new\": \"50\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"23\", \"new\": \"48\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"24\", \"new\": \"46\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"25 a/b\", \"new\": \"46 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"26\", \"new\": \"44\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"27/28\", \"new\": \"42\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"29\", \"new\": \"40\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"30 a\", \"new\": \"38\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"30 b\", \"new\": \"38 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"31 a\", \"new\": \"36\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"31 b\", \"new\": \"36 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"32\", \"new\": \"34\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"33 a\", \"new\": \"32\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"34 a\", \"new\": \"30\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"34 b\", \"new\": \"4\", \"street\": \"Sternengässchen\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"34 c\", \"new\": \"27\", \"street\": \"Speichergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"35 a\", \"new\": \"28\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"35 b\", \"new\": \"25\", \"street\": \"Speichergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"35 b\", \"und\": true, \"new\": \"3\", \"street\": \"Sternengässchen\", \"hand\": true, \"note\": \"«chen» handschriftlich ergänzt (gedruckt: «Sternengäss»)\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"36 a\", \"new\": \"26\", \"street\": \"Aarbergergasse\", \"hand\": true, \"note\": \"Gedruckt: «28 Aarbergergasse», «28» gestrichen, handschriftlich «26 Abgg.» ergänzt\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"36 b\", \"new\": \"26 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"37\", \"new\": \"24\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"38\", \"new\": \"22\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"39\", \"new\": \"20\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"40\", \"new\": \"18\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"41\", \"new\": \"16\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"42\", \"new\": \"14\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"43\", \"new\": \"12\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"44 a\", \"new\": \"10\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"44 b\", \"new\": \"10 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"45\", \"new\": \"8\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"46\", \"new\": \"6\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"47\", \"new\": \"4\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"48\", \"new\": \"2\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"48\", \"und\": true, \"new\": \"26\", \"street\": \"Waisenhausplatz\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"49\", \"new\": \"1\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"49\", \"und\": true, \"new\": \"24\", \"street\": \"Waisenhausplatz\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"50\", \"new\": \"3\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"51 a\", \"new\": \"5\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"51 b\", \"new\": \"5 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"52\", \"new\": \"7\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"53 a\", \"new\": \"9\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"53 b\", \"new\": \"9 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"54\", \"new\": \"11\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"55\", \"new\": \"13\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 2, \"group\": \"Aarbergergasse\", \"old\": \"56 a\", \"new\": \"15\", \"street\": \"Aarbergergasse\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "I. Rothes Quartier.",
+  "printed_page": "",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "1 a",
+    "new": "2",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "2",
+    "new": "2 a",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "3 a",
+    "new": "2 b",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "3 b",
+    "new": "2 c",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "4 a",
+    "new": "4",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "4 b",
+    "new": "4 a",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "4 c",
+    "new": "4 b",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "5 c I",
+    "new": "12",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "5 c II",
+    "new": "14",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "5 a",
+    "new": "16",
+    "street": "Speichergasse",
+    "note": "Handschriftliche Randnotiz «16/3»; senkrechter Strich neben «16»"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "5 d",
+    "new": "5",
+    "street": "Speichergasse",
+    "note": "Senkrechter Strich neben «5»"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 a",
+    "new": "5",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 b I",
+    "new": "7",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 b II",
+    "new": "9",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 c",
+    "new": "11",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 d e",
+    "new": "13",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 f",
+    "new": "15",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 g",
+    "new": "17",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 h",
+    "new": "19",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 i",
+    "new": "21",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 k I",
+    "new": "23",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 k II",
+    "new": "29",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 l",
+    "new": "31",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 m",
+    "new": "33",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 n",
+    "new": "35",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "6 o",
+    "new": "35 a",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "7 a",
+    "new": "37",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "7 b",
+    "new": "37 a",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "8 a",
+    "new": "39",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "9 a",
+    "new": "41",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Speichergasse",
+    "old": "9 b",
+    "new": "43",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 1,
+    "group": "Anatomiegässchen",
+    "old": "10 a",
+    "new": "11",
+    "street": "Anatomiegasse",
+    "note": "Handschriftlicher Zusatz «Anatomiegasse» neben Zwischentitel"
+   },
+   {
+    "col": 1,
+    "group": "Anatomiegässchen",
+    "old": "10 b",
+    "new": "9",
+    "street": "Anatomiegasse"
+   },
+   {
+    "col": 1,
+    "group": "Anatomiegässchen",
+    "old": "11 a",
+    "new": "7",
+    "street": "Anatomiegasse"
+   },
+   {
+    "col": 1,
+    "group": "Anatomiegässchen",
+    "old": "11 b",
+    "new": "7 a",
+    "street": "Anatomiegasse"
+   },
+   {
+    "col": 1,
+    "group": "Anatomiegässchen",
+    "old": "12",
+    "new": "5",
+    "street": "Anatomiegasse"
+   },
+   {
+    "col": 1,
+    "group": "Anatomiegässchen",
+    "old": "13",
+    "new": "3",
+    "street": "Anatomiegasse"
+   },
+   {
+    "col": 1,
+    "group": "Anatomiegässchen",
+    "old": "14",
+    "new": "1",
+    "street": "Anatomiegasse"
+   },
+   {
+    "col": 1,
+    "group": "Anatomiegässchen",
+    "old": "14",
+    "und": true,
+    "new": "66",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "15 a",
+    "new": "64",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "15 b",
+    "new": "64 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "16 a",
+    "new": "62",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "16 b",
+    "new": "62 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "17 a",
+    "new": "60",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "17 b",
+    "new": "60 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "18 a",
+    "new": "58",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "18 b",
+    "new": "58 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "19 a",
+    "new": "56",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "19 b",
+    "new": "56 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "20",
+    "new": "54",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "21",
+    "new": "52",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "22",
+    "new": "50",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "23",
+    "new": "48",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "24",
+    "new": "46",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "25 a/b",
+    "new": "46 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "26",
+    "new": "44",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "27/28",
+    "new": "42",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "29",
+    "new": "40",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "30 a",
+    "new": "38",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "30 b",
+    "new": "38 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "31 a",
+    "new": "36",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "31 b",
+    "new": "36 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "32",
+    "new": "34",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "33 a",
+    "new": "32",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "34 a",
+    "new": "30",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "34 b",
+    "new": "4",
+    "street": "Sternengässchen"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "34 c",
+    "new": "27",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "35 a",
+    "new": "28",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "35 b",
+    "new": "25",
+    "street": "Speichergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "35 b",
+    "und": true,
+    "new": "3",
+    "street": "Sternengässchen",
+    "hand": true,
+    "note": "«chen» handschriftlich ergänzt (gedruckt: «Sternengäss»)"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "36 a",
+    "new": "26",
+    "street": "Aarbergergasse",
+    "hand": true,
+    "note": "Gedruckt: «28 Aarbergergasse», «28» gestrichen, handschriftlich «26 Abgg.» ergänzt"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "36 b",
+    "new": "26 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "37",
+    "new": "24",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "38",
+    "new": "22",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "39",
+    "new": "20",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "40",
+    "new": "18",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "41",
+    "new": "16",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "42",
+    "new": "14",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "43",
+    "new": "12",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "44 a",
+    "new": "10",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "44 b",
+    "new": "10 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "45",
+    "new": "8",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "46",
+    "new": "6",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "47",
+    "new": "4",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "48",
+    "new": "2",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "48",
+    "und": true,
+    "new": "26",
+    "street": "Waisenhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "49",
+    "new": "1",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "49",
+    "und": true,
+    "new": "24",
+    "street": "Waisenhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "50",
+    "new": "3",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "51 a",
+    "new": "5",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "51 b",
+    "new": "5 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "52",
+    "new": "7",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "53 a",
+    "new": "9",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "53 b",
+    "new": "9 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "54",
+    "new": "11",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "55",
+    "new": "13",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarbergergasse",
+    "old": "56 a",
+    "new": "15",
+    "street": "Aarbergergasse"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:00:18+01:00"
+}

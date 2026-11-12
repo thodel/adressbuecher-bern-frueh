@@ -1,0 +1,889 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 19,
+ "thinking": "high",
+ "started": "2026-11-12T08:01:09+01:00",
+ "seconds": 387.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 4881,
+  "thoughts": 48580
+ },
+ "response_text": "{\"page_heading\": \"Weisses Quartier.\",\n \"printed_page\": \"13\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"B. d. Schutzmühle\", \"old\": \"20 a\", \"und\": false, \"new\": \"17\", \"street\": \"Längmauerweg\"},\n  {\"col\": 1, \"group\": \"B. d. Schutzmühle\", \"old\": \"20 b\", \"und\": false, \"new\": \"17 a\", \"street\": \"Längmauerweg\"},\n  {\"col\": 1, \"group\": \"B. d. Schutzmühle\", \"old\": \"20 b I\", \"und\": false, \"new\": \"15\", \"street\": \"Längmauerweg\"},\n  {\"col\": 1, \"group\": \"B. d. Schutzmühle\", \"old\": \"20 d\", \"und\": false, \"new\": \"11\", \"street\": \"Längmauerweg\"},\n  {\"col\": 1, \"group\": \"B. d. Schutzmühle\", \"old\": \"20 c\", \"und\": false, \"new\": \"19\", \"street\": \"Längmauerweg\"},\n  {\"col\": 1, \"group\": \"B. d. Schutzmühle\", \"old\": \"21 a\", \"und\": false, \"new\": \"6\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"B. d. Schutzmühle\", \"old\": \"21 d\", \"und\": false, \"new\": \"6 a\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"B. d. Schutzmühle\", \"old\": \"21 b\", \"und\": false, \"new\": \"10\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"B. d. Schutzmühle\", \"old\": \"21 c\", \"und\": false, \"new\": \"12\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"22\", \"und\": false, \"new\": \"14\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"23\", \"und\": false, \"new\": \"16\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"24\", \"und\": false, \"new\": \"18\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"24\", \"und\": true, \"new\": \"5\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"25\", \"und\": false, \"new\": \"20\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"25\", \"und\": true, \"new\": \"7\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"26\", \"und\": false, \"new\": \"22\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"26\", \"und\": true, \"new\": \"9\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"27\", \"und\": false, \"new\": \"24\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"27\", \"und\": true, \"new\": \"11\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"28\", \"und\": false, \"new\": \"26\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"28\", \"und\": true, \"new\": \"13\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"29\", \"und\": false, \"new\": \"28\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"29\", \"und\": true, \"new\": \"15\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"30 a/b\", \"und\": false, \"new\": \"30\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"30 a/b\", \"und\": true, \"new\": \"17\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"31\", \"und\": false, \"new\": \"32\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"31\", \"und\": true, \"new\": \"19\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"32\", \"und\": false, \"new\": \"34\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"32\", \"und\": true, \"new\": \"21\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"33\", \"und\": false, \"new\": \"36\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"33\", \"und\": true, \"new\": \"23\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"34\", \"und\": false, \"new\": \"38\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"34\", \"und\": true, \"new\": \"25\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"35\", \"und\": false, \"new\": \"40\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"35\", \"und\": true, \"new\": \"27\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"36 a u. b\", \"und\": false, \"new\": \"42\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"36 a u. b\", \"und\": true, \"new\": \"29\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"37\", \"und\": false, \"new\": \"44\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"37\", \"und\": true, \"new\": \"31\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"38\", \"und\": false, \"new\": \"46\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"39\", \"und\": false, \"new\": \"48\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"39\", \"und\": true, \"new\": \"35\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"40\", \"und\": false, \"new\": \"50\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"40\", \"und\": true, \"new\": \"37\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"41\", \"und\": false, \"new\": \"52\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"41\", \"und\": true, \"new\": \"39\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"42 a u. b\", \"und\": false, \"new\": \"54\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"42 a u. b\", \"und\": true, \"new\": \"41\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"43 a\", \"und\": false, \"new\": \"56\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"43 b\", \"und\": false, \"new\": \"58\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"44 a\", \"und\": false, \"new\": \"60\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"44 a\", \"und\": true, \"new\": \"47\", \"street\": \"Postgasshalde\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"44 b\", \"und\": false, \"new\": \"62\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"45\", \"und\": false, \"new\": \"64\", \"street\": \"Postgasse\"},\n  {\"col\": 1, \"group\": \"Postgasse\", \"old\": \"46\", \"und\": false, \"new\": \"66\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"47\", \"und\": false, \"new\": \"68\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"47\", \"und\": true, \"new\": \"55\", \"street\": \"Postgasshalde\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"48\", \"und\": false, \"new\": \"70\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"49\", \"und\": false, \"new\": \"72\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"50\", \"und\": false, \"new\": \"2\", \"street\": \"Rathhausplatz\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"51 a\", \"und\": false, \"new\": \"3\", \"street\": \"Rathhausgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"51 a\", \"und\": true, \"new\": \"5\", \"street\": \"Rathhausplatz\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"51 b\", \"und\": false, \"new\": \"3\", \"street\": \"Rathhausplatz\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"52\", \"und\": false, \"new\": \"65\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"52\", \"und\": true, \"new\": \"1\", \"street\": \"Rathhausplatz\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"53 a\", \"und\": false, \"new\": \"63\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"53 b\", \"und\": false, \"new\": \"61\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"54\", \"und\": false, \"new\": \"59\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"55\", \"und\": false, \"new\": \"53\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"56 a\", \"und\": false, \"new\": \"49\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"56 b\", \"und\": false, \"new\": \"47\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"57 a\", \"und\": false, \"new\": \"39\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"57 b\", \"und\": false, \"new\": \"37\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"58\", \"und\": false, \"new\": \"31\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"59 a\", \"und\": false, \"new\": \"27\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"59 b\", \"und\": false, \"new\": \"23\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"59 c\", \"und\": false, \"new\": \"21\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"59 d/e\", \"und\": false, \"new\": \"19\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"60 a\", \"und\": false, \"new\": \"17\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"60 b\", \"und\": false, \"new\": \"15\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"61\", \"und\": false, \"new\": \"13\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"62\", \"und\": false, \"new\": \"11\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Postgasse\", \"old\": \"63\", \"und\": false, \"new\": \"9\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"64\", \"und\": false, \"new\": \"2\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"65\", \"und\": false, \"new\": \"4\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"66\", \"und\": false, \"new\": \"6\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"67\", \"und\": false, \"new\": \"8\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"68\", \"und\": false, \"new\": \"10\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"69\", \"und\": false, \"new\": \"12\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"70\", \"und\": false, \"new\": \"14\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"71\", \"und\": false, \"new\": \"16\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"72\", \"und\": false, \"new\": \"18\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"73\", \"und\": false, \"new\": \"20\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"74\", \"und\": false, \"new\": \"22\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"75\", \"und\": false, \"new\": \"24\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"76\", \"und\": false, \"new\": \"26\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"77\", \"und\": false, \"new\": \"28\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"78\", \"und\": false, \"new\": \"30\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"78\", \"und\": true, \"new\": \"25\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"79\", \"und\": false, \"new\": \"32\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"80\", \"und\": false, \"new\": \"34\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"80\", \"und\": true, \"new\": \"29\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"81/82\", \"und\": false, \"new\": \"36\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"83\", \"und\": false, \"new\": \"38\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"84\", \"und\": false, \"new\": \"40\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"84\", \"und\": true, \"new\": \"33\", \"street\": \"Postgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"85\", \"und\": false, \"new\": \"42\", \"street\": \"Gerechtigkeitsgasse\"},\n  {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"85\", \"und\": true, \"new\": \"35\", \"street\": \"Postgasse\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Weisses Quartier.",
+  "printed_page": "13",
+  "rows": [
+   {
+    "col": 1,
+    "group": "B. d. Schutzmühle",
+    "old": "20 a",
+    "und": false,
+    "new": "17",
+    "street": "Längmauerweg"
+   },
+   {
+    "col": 1,
+    "group": "B. d. Schutzmühle",
+    "old": "20 b",
+    "und": false,
+    "new": "17 a",
+    "street": "Längmauerweg"
+   },
+   {
+    "col": 1,
+    "group": "B. d. Schutzmühle",
+    "old": "20 b I",
+    "und": false,
+    "new": "15",
+    "street": "Längmauerweg"
+   },
+   {
+    "col": 1,
+    "group": "B. d. Schutzmühle",
+    "old": "20 d",
+    "und": false,
+    "new": "11",
+    "street": "Längmauerweg"
+   },
+   {
+    "col": 1,
+    "group": "B. d. Schutzmühle",
+    "old": "20 c",
+    "und": false,
+    "new": "19",
+    "street": "Längmauerweg"
+   },
+   {
+    "col": 1,
+    "group": "B. d. Schutzmühle",
+    "old": "21 a",
+    "und": false,
+    "new": "6",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "B. d. Schutzmühle",
+    "old": "21 d",
+    "und": false,
+    "new": "6 a",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "B. d. Schutzmühle",
+    "old": "21 b",
+    "und": false,
+    "new": "10",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "B. d. Schutzmühle",
+    "old": "21 c",
+    "und": false,
+    "new": "12",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "22",
+    "und": false,
+    "new": "14",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "23",
+    "und": false,
+    "new": "16",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "24",
+    "und": false,
+    "new": "18",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "24",
+    "und": true,
+    "new": "5",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "25",
+    "und": false,
+    "new": "20",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "25",
+    "und": true,
+    "new": "7",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "26",
+    "und": false,
+    "new": "22",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "26",
+    "und": true,
+    "new": "9",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "27",
+    "und": false,
+    "new": "24",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "27",
+    "und": true,
+    "new": "11",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "28",
+    "und": false,
+    "new": "26",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "28",
+    "und": true,
+    "new": "13",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "29",
+    "und": false,
+    "new": "28",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "29",
+    "und": true,
+    "new": "15",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "30 a/b",
+    "und": false,
+    "new": "30",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "30 a/b",
+    "und": true,
+    "new": "17",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "31",
+    "und": false,
+    "new": "32",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "31",
+    "und": true,
+    "new": "19",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "32",
+    "und": false,
+    "new": "34",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "32",
+    "und": true,
+    "new": "21",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "33",
+    "und": false,
+    "new": "36",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "33",
+    "und": true,
+    "new": "23",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "34",
+    "und": false,
+    "new": "38",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "34",
+    "und": true,
+    "new": "25",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "35",
+    "und": false,
+    "new": "40",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "35",
+    "und": true,
+    "new": "27",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "36 a u. b",
+    "und": false,
+    "new": "42",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "36 a u. b",
+    "und": true,
+    "new": "29",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "37",
+    "und": false,
+    "new": "44",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "37",
+    "und": true,
+    "new": "31",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "38",
+    "und": false,
+    "new": "46",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "39",
+    "und": false,
+    "new": "48",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "39",
+    "und": true,
+    "new": "35",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "40",
+    "und": false,
+    "new": "50",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "40",
+    "und": true,
+    "new": "37",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "41",
+    "und": false,
+    "new": "52",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "41",
+    "und": true,
+    "new": "39",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "42 a u. b",
+    "und": false,
+    "new": "54",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "42 a u. b",
+    "und": true,
+    "new": "41",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "43 a",
+    "und": false,
+    "new": "56",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "43 b",
+    "und": false,
+    "new": "58",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "44 a",
+    "und": false,
+    "new": "60",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "44 a",
+    "und": true,
+    "new": "47",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "44 b",
+    "und": false,
+    "new": "62",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "45",
+    "und": false,
+    "new": "64",
+    "street": "Postgasse"
+   },
+   {
+    "col": 1,
+    "group": "Postgasse",
+    "old": "46",
+    "und": false,
+    "new": "66",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "47",
+    "und": false,
+    "new": "68",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "47",
+    "und": true,
+    "new": "55",
+    "street": "Postgasshalde"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "48",
+    "und": false,
+    "new": "70",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "49",
+    "und": false,
+    "new": "72",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "50",
+    "und": false,
+    "new": "2",
+    "street": "Rathhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "51 a",
+    "und": false,
+    "new": "3",
+    "street": "Rathhausgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "51 a",
+    "und": true,
+    "new": "5",
+    "street": "Rathhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "51 b",
+    "und": false,
+    "new": "3",
+    "street": "Rathhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "52",
+    "und": false,
+    "new": "65",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "52",
+    "und": true,
+    "new": "1",
+    "street": "Rathhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "53 a",
+    "und": false,
+    "new": "63",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "53 b",
+    "und": false,
+    "new": "61",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "54",
+    "und": false,
+    "new": "59",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "55",
+    "und": false,
+    "new": "53",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "56 a",
+    "und": false,
+    "new": "49",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "56 b",
+    "und": false,
+    "new": "47",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "57 a",
+    "und": false,
+    "new": "39",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "57 b",
+    "und": false,
+    "new": "37",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "58",
+    "und": false,
+    "new": "31",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "59 a",
+    "und": false,
+    "new": "27",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "59 b",
+    "und": false,
+    "new": "23",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "59 c",
+    "und": false,
+    "new": "21",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "59 d/e",
+    "und": false,
+    "new": "19",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "60 a",
+    "und": false,
+    "new": "17",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "60 b",
+    "und": false,
+    "new": "15",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "61",
+    "und": false,
+    "new": "13",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "62",
+    "und": false,
+    "new": "11",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Postgasse",
+    "old": "63",
+    "und": false,
+    "new": "9",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "64",
+    "und": false,
+    "new": "2",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "65",
+    "und": false,
+    "new": "4",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "66",
+    "und": false,
+    "new": "6",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "67",
+    "und": false,
+    "new": "8",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "68",
+    "und": false,
+    "new": "10",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "69",
+    "und": false,
+    "new": "12",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "70",
+    "und": false,
+    "new": "14",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "71",
+    "und": false,
+    "new": "16",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "72",
+    "und": false,
+    "new": "18",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "73",
+    "und": false,
+    "new": "20",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "74",
+    "und": false,
+    "new": "22",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "75",
+    "und": false,
+    "new": "24",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "76",
+    "und": false,
+    "new": "26",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "77",
+    "und": false,
+    "new": "28",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "78",
+    "und": false,
+    "new": "30",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "78",
+    "und": true,
+    "new": "25",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "79",
+    "und": false,
+    "new": "32",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "80",
+    "und": false,
+    "new": "34",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "80",
+    "und": true,
+    "new": "29",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "81/82",
+    "und": false,
+    "new": "36",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "83",
+    "und": false,
+    "new": "38",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "84",
+    "und": false,
+    "new": "40",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "84",
+    "und": true,
+    "new": "33",
+    "street": "Postgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "85",
+    "und": false,
+    "new": "42",
+    "street": "Gerechtigkeitsgasse"
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "85",
+    "und": true,
+    "new": "35",
+    "street": "Postgasse"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:07:36+01:00"
+}

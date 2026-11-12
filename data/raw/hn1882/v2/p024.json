@@ -1,0 +1,295 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 24,
+ "thinking": "high",
+ "started": "2026-11-12T08:03:02+01:00",
+ "seconds": 28.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 1529,
+  "thoughts": 2779
+ },
+ "response_text": "{\"page_heading\": \"Schwarzes Quartier.\",\n \"printed_page\": \"18\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"113 a\", \"und\": false, \"new\": \"17\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"113 b\", \"und\": false, \"new\": \"17 a\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"114 a\", \"und\": false, \"new\": \"15\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"114 b\", \"und\": false, \"new\": \"15 a\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"114 c\", \"und\": false, \"new\": \"15 b\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"115 a\", \"und\": false, \"new\": \"13\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"115 b\", \"und\": false, \"new\": \"13 a\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"115 c\", \"und\": false, \"new\": \"13 b\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"116 a\", \"und\": false, \"new\": \"11\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"116 b\", \"und\": false, \"new\": \"11 a\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"116 c\", \"und\": false, \"new\": \"11 b\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"117 a\", \"und\": false, \"new\": \"9\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"117 b\", \"und\": false, \"new\": \"9 a\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"117 c\", \"und\": false, \"new\": \"9 b\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"117 d\", \"und\": false, \"new\": \"9 c\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerbernlaube\", \"old\": \"117 f\", \"und\": false, \"new\": \"9 d\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerbernlaube\", \"old\": \"117 e\", \"und\": false, \"new\": \"7\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerbernlaube\", \"old\": \"118\", \"und\": false, \"new\": \"5\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerbernlaube\", \"old\": \"119\", \"und\": false, \"new\": \"3\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerbernlaube\", \"old\": \"120/121\", \"und\": false, \"new\": \"1\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Enge\", \"old\": \"124\", \"und\": false, \"new\": \"15\", \"street\": \"Mattenenge\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Enge\", \"old\": \"125\", \"und\": false, \"new\": \"13\", \"street\": \"Mattenenge\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Enge\", \"old\": \"126\", \"und\": false, \"new\": \"11\", \"street\": \"Mattenenge\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Enge\", \"old\": \"127/128\", \"und\": false, \"new\": \"9\", \"street\": \"Mattenenge\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Enge\", \"old\": \"129\", \"und\": false, \"new\": \"7\", \"street\": \"Mattenenge\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Enge\", \"old\": \"130\", \"und\": false, \"new\": \"5\", \"street\": \"Mattenenge\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Enge\", \"old\": \"131\", \"und\": false, \"new\": \"3\", \"street\": \"Mattenenge\", \"hand\": false, \"note\": \"\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Schwarzes Quartier.",
+  "printed_page": "18",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "113 a",
+    "und": false,
+    "new": "17",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "113 b",
+    "und": false,
+    "new": "17 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "114 a",
+    "und": false,
+    "new": "15",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "114 b",
+    "und": false,
+    "new": "15 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "114 c",
+    "und": false,
+    "new": "15 b",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "115 a",
+    "und": false,
+    "new": "13",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "115 b",
+    "und": false,
+    "new": "13 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "115 c",
+    "und": false,
+    "new": "13 b",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "116 a",
+    "und": false,
+    "new": "11",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "116 b",
+    "und": false,
+    "new": "11 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "116 c",
+    "und": false,
+    "new": "11 b",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "117 a",
+    "und": false,
+    "new": "9",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "117 b",
+    "und": false,
+    "new": "9 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "117 c",
+    "und": false,
+    "new": "9 b",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "117 d",
+    "und": false,
+    "new": "9 c",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerbernlaube",
+    "old": "117 f",
+    "und": false,
+    "new": "9 d",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerbernlaube",
+    "old": "117 e",
+    "und": false,
+    "new": "7",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerbernlaube",
+    "old": "118",
+    "und": false,
+    "new": "5",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerbernlaube",
+    "old": "119",
+    "und": false,
+    "new": "3",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerbernlaube",
+    "old": "120/121",
+    "und": false,
+    "new": "1",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Enge",
+    "old": "124",
+    "und": false,
+    "new": "15",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Enge",
+    "old": "125",
+    "und": false,
+    "new": "13",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Enge",
+    "old": "126",
+    "und": false,
+    "new": "11",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Enge",
+    "old": "127/128",
+    "und": false,
+    "new": "9",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Enge",
+    "old": "129",
+    "und": false,
+    "new": "7",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Enge",
+    "old": "130",
+    "und": false,
+    "new": "5",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Enge",
+    "old": "131",
+    "und": false,
+    "new": "3",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:03:31+01:00"
+}

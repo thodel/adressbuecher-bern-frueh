@@ -1,0 +1,945 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 27,
+ "thinking": "medium",
+ "started": "2026-11-12T07:51:56+01:00",
+ "seconds": 30.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 5387,
+  "thoughts": null
+ },
+ "response_text": "{\"page_heading\": \"I. Stadtbezirk obenaus.\",\n \"printed_page\": \"\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"1 a I, II\", \"und\": false, \"new\": \"1\", \"street\": \"Münzrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"1 b\", \"und\": false, \"new\": \"3\", \"street\": \"Münzrain\", \"hand\": false, \"note\": \"geschweifte Klammer mit 2 zusammen\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"2\", \"und\": false, \"new\": \"3\", \"street\": \"Münzrain\", \"hand\": false, \"note\": \"geschweifte Klammer mit 1 b zusammen\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"3\", \"und\": false, \"new\": \"4 u. 4 a\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"4\", \"und\": false, \"new\": \"6\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"5 a\", \"und\": false, \"new\": \"8\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"5 a\", \"und\": true, \"new\": \"10\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"5 b\", \"und\": false, \"new\": \"14 u. 14 a\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"5 c\", \"und\": false, \"new\": \"1\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"5 d\", \"und\": false, \"new\": \"5\", \"street\": \"Gasstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"5 e\", \"und\": false, \"new\": \"\", \"street\": \"\", \"hand\": false, \"note\": \"abgebrochen\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"5 f\", \"und\": false, \"new\": \"1 a\", \"street\": \"Brückenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"6 a\", \"und\": false, \"new\": \"11\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"6 b\", \"und\": false, \"new\": \"11 a\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"6 d\", \"und\": false, \"new\": \"8\", \"street\": \"Gasstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"6 c\", \"und\": false, \"new\": \"8 a\", \"street\": \"Gasstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"7 a\", \"und\": false, \"new\": \"20\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"7 b\", \"und\": false, \"new\": \"16\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"8 a\", \"und\": false, \"new\": \"17 u. 17 a\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"8 b\", \"und\": false, \"new\": \"15\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"8 c\", \"und\": false, \"new\": \"1\", \"street\": \"Brückenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"8 d\", \"und\": false, \"new\": \"13\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"8 e\", \"und\": false, \"new\": \"1 b\", \"street\": \"Brückenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"9 a\", \"und\": false, \"new\": \"19 u. 19 a\", \"street\": \"Weihergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"9 b\", \"und\": false, \"new\": \"9\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"10 a\", \"und\": false, \"new\": \"4\", \"street\": \"Münzrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"10 b\", \"und\": false, \"new\": \"10 a\", \"street\": \"Münzrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"10 c\", \"und\": false, \"new\": \"10 b\", \"street\": \"Münzrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"10 d\", \"und\": false, \"new\": \"10\", \"street\": \"Münzrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"10 e f\", \"und\": false, \"new\": \"14\", \"street\": \"Münzrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"13 a b\", \"und\": false, \"new\": \"16 a\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"13 c\", \"und\": false, \"new\": \"16\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"13 d\", \"und\": false, \"new\": \"16 b\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"—\", \"und\": false, \"new\": \"16 c\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"13 e\", \"und\": false, \"new\": \"2\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"13 f\", \"und\": false, \"new\": \"2 a\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"13 g\", \"und\": false, \"new\": \"10\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"13 h\", \"und\": false, \"new\": \"12\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"13 i\", \"und\": false, \"new\": \"8\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"14 a\", \"und\": false, \"new\": \"14\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"14 b-d\", \"und\": false, \"new\": \"14 a-c\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"15 a\", \"und\": false, \"new\": \"7\", \"street\": \"Salgeneckstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"15 b\", \"und\": false, \"new\": \"5\", \"street\": \"Salgeneckstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"15 d e\", \"und\": false, \"new\": \"5 b u. 5 c\", \"street\": \"Salgeneckstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"16\", \"und\": false, \"new\": \"18 a\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Aarzieledrittel\", \"old\": \"18\", \"und\": false, \"new\": \"18\", \"street\": \"Taubenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"19\", \"und\": false, \"new\": \"12\", \"street\": \"Bundesrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"20\", \"und\": false, \"new\": \"14\", \"street\": \"Bundesrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"20\", \"und\": true, \"new\": \"16\", \"street\": \"Bundesrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"21\", \"und\": false, \"new\": \"16 a\", \"street\": \"Bundesrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"22 a I\", \"und\": false, \"new\": \"2, 2 a, 2 b\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"23 a\", \"und\": false, \"new\": \"8\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"23 b\", \"und\": false, \"new\": \"6\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"23 c\", \"und\": false, \"new\": \"6 a\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"23 d\", \"und\": false, \"new\": \"8 a\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"23 e\", \"und\": false, \"new\": \"6 b\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 a\", \"und\": false, \"new\": \"13\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 b\", \"und\": false, \"new\": \"5\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 c\", \"und\": false, \"new\": \"29\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 e\", \"und\": false, \"new\": \"1\", \"street\": \"Ländteweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 f\", \"und\": false, \"new\": \"3\", \"street\": \"Ländteweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 g\", \"und\": false, \"new\": \"5\", \"street\": \"Ländteweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 h\", \"und\": false, \"new\": \"108\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 i\", \"und\": false, \"new\": \"106\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 k\", \"und\": false, \"new\": \"104\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 l\", \"und\": false, \"new\": \"102\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 p\", \"und\": false, \"new\": \"102 a\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"24 q\", \"und\": false, \"new\": \"21\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"25\", \"und\": false, \"new\": \"13\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"26 a b\", \"und\": false, \"new\": \"15, 15 a u. 15 b\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"27 a\", \"und\": false, \"new\": \"14 a\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"27 b\", \"und\": false, \"new\": \"12\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"27 b\", \"und\": true, \"new\": \"14\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"27 c\", \"und\": false, \"new\": \"16\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"27 d-f\", \"und\": false, \"new\": \"16 a-c\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"28 a b\", \"und\": false, \"new\": \"23\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"28 c\", \"und\": false, \"new\": \"25 b\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"28 d\", \"und\": false, \"new\": \"25\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"28 e\", \"und\": false, \"new\": \"25 a\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"29 a\", \"und\": false, \"new\": \"32\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"29 b\", \"und\": false, \"new\": \"30\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"30 a\", \"und\": false, \"new\": \"34\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"30 b\", \"und\": false, \"new\": \"28\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"30 c\", \"und\": false, \"new\": \"26\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"31 a\", \"und\": false, \"new\": \"31\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"31 b\", \"und\": false, \"new\": \"29\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"31 f\", \"und\": false, \"new\": \"35 u. 35 a\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"32 a\", \"und\": false, \"new\": \"49\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"32 b\", \"und\": false, \"new\": \"49 a\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"32 c\", \"und\": false, \"new\": \"49 b\", \"street\": \"Marzielestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"33 a\", \"und\": false, \"new\": \"9 u. 9 d\", \"street\": \"Sandrainstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Aarzieledrittel\", \"old\": \"33 b c\", \"und\": false, \"new\": \"9 a u. 9 b\", \"street\": \"Sandrainstrasse\", \"hand\": false, \"note\": \"\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "I. Stadtbezirk obenaus.",
+  "printed_page": "",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "1 a I, II",
+    "und": false,
+    "new": "1",
+    "street": "Münzrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "1 b",
+    "und": false,
+    "new": "3",
+    "street": "Münzrain",
+    "hand": false,
+    "note": "geschweifte Klammer mit 2 zusammen"
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "2",
+    "und": false,
+    "new": "3",
+    "street": "Münzrain",
+    "hand": false,
+    "note": "geschweifte Klammer mit 1 b zusammen"
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "3",
+    "und": false,
+    "new": "4 u. 4 a",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "4",
+    "und": false,
+    "new": "6",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "5 a",
+    "und": false,
+    "new": "8",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "5 a",
+    "und": true,
+    "new": "10",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "5 b",
+    "und": false,
+    "new": "14 u. 14 a",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "5 c",
+    "und": false,
+    "new": "1",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "5 d",
+    "und": false,
+    "new": "5",
+    "street": "Gasstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "5 e",
+    "und": false,
+    "new": "",
+    "street": "",
+    "hand": false,
+    "note": "abgebrochen"
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "5 f",
+    "und": false,
+    "new": "1 a",
+    "street": "Brückenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "6 a",
+    "und": false,
+    "new": "11",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "6 b",
+    "und": false,
+    "new": "11 a",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "6 d",
+    "und": false,
+    "new": "8",
+    "street": "Gasstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "6 c",
+    "und": false,
+    "new": "8 a",
+    "street": "Gasstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "7 a",
+    "und": false,
+    "new": "20",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "7 b",
+    "und": false,
+    "new": "16",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "8 a",
+    "und": false,
+    "new": "17 u. 17 a",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "8 b",
+    "und": false,
+    "new": "15",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "8 c",
+    "und": false,
+    "new": "1",
+    "street": "Brückenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "8 d",
+    "und": false,
+    "new": "13",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "8 e",
+    "und": false,
+    "new": "1 b",
+    "street": "Brückenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "9 a",
+    "und": false,
+    "new": "19 u. 19 a",
+    "street": "Weihergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "9 b",
+    "und": false,
+    "new": "9",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "10 a",
+    "und": false,
+    "new": "4",
+    "street": "Münzrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "10 b",
+    "und": false,
+    "new": "10 a",
+    "street": "Münzrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "10 c",
+    "und": false,
+    "new": "10 b",
+    "street": "Münzrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "10 d",
+    "und": false,
+    "new": "10",
+    "street": "Münzrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "10 e f",
+    "und": false,
+    "new": "14",
+    "street": "Münzrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "13 a b",
+    "und": false,
+    "new": "16 a",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "13 c",
+    "und": false,
+    "new": "16",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "13 d",
+    "und": false,
+    "new": "16 b",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "—",
+    "und": false,
+    "new": "16 c",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "13 e",
+    "und": false,
+    "new": "2",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "13 f",
+    "und": false,
+    "new": "2 a",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "13 g",
+    "und": false,
+    "new": "10",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "13 h",
+    "und": false,
+    "new": "12",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "13 i",
+    "und": false,
+    "new": "8",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "14 a",
+    "und": false,
+    "new": "14",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "14 b-d",
+    "und": false,
+    "new": "14 a-c",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "15 a",
+    "und": false,
+    "new": "7",
+    "street": "Salgeneckstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "15 b",
+    "und": false,
+    "new": "5",
+    "street": "Salgeneckstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "15 d e",
+    "und": false,
+    "new": "5 b u. 5 c",
+    "street": "Salgeneckstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "16",
+    "und": false,
+    "new": "18 a",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Aarzieledrittel",
+    "old": "18",
+    "und": false,
+    "new": "18",
+    "street": "Taubenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "19",
+    "und": false,
+    "new": "12",
+    "street": "Bundesrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "20",
+    "und": false,
+    "new": "14",
+    "street": "Bundesrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "20",
+    "und": true,
+    "new": "16",
+    "street": "Bundesrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "21",
+    "und": false,
+    "new": "16 a",
+    "street": "Bundesrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "22 a I",
+    "und": false,
+    "new": "2, 2 a, 2 b",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "23 a",
+    "und": false,
+    "new": "8",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "23 b",
+    "und": false,
+    "new": "6",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "23 c",
+    "und": false,
+    "new": "6 a",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "23 d",
+    "und": false,
+    "new": "8 a",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "23 e",
+    "und": false,
+    "new": "6 b",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 a",
+    "und": false,
+    "new": "13",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 b",
+    "und": false,
+    "new": "5",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 c",
+    "und": false,
+    "new": "29",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 e",
+    "und": false,
+    "new": "1",
+    "street": "Ländteweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 f",
+    "und": false,
+    "new": "3",
+    "street": "Ländteweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 g",
+    "und": false,
+    "new": "5",
+    "street": "Ländteweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 h",
+    "und": false,
+    "new": "108",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 i",
+    "und": false,
+    "new": "106",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 k",
+    "und": false,
+    "new": "104",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 l",
+    "und": false,
+    "new": "102",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 p",
+    "und": false,
+    "new": "102 a",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "24 q",
+    "und": false,
+    "new": "21",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "25",
+    "und": false,
+    "new": "13",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "26 a b",
+    "und": false,
+    "new": "15, 15 a u. 15 b",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "27 a",
+    "und": false,
+    "new": "14 a",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "27 b",
+    "und": false,
+    "new": "12",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "27 b",
+    "und": true,
+    "new": "14",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "27 c",
+    "und": false,
+    "new": "16",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "27 d-f",
+    "und": false,
+    "new": "16 a-c",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "28 a b",
+    "und": false,
+    "new": "23",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "28 c",
+    "und": false,
+    "new": "25 b",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "28 d",
+    "und": false,
+    "new": "25",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "28 e",
+    "und": false,
+    "new": "25 a",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "29 a",
+    "und": false,
+    "new": "32",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "29 b",
+    "und": false,
+    "new": "30",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "30 a",
+    "und": false,
+    "new": "34",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "30 b",
+    "und": false,
+    "new": "28",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "30 c",
+    "und": false,
+    "new": "26",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "31 a",
+    "und": false,
+    "new": "31",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "31 b",
+    "und": false,
+    "new": "29",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "31 f",
+    "und": false,
+    "new": "35 u. 35 a",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "32 a",
+    "und": false,
+    "new": "49",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "32 b",
+    "und": false,
+    "new": "49 a",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "32 c",
+    "und": false,
+    "new": "49 b",
+    "street": "Marzielestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "33 a",
+    "und": false,
+    "new": "9 u. 9 d",
+    "street": "Sandrainstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Aarzieledrittel",
+    "old": "33 b c",
+    "und": false,
+    "new": "9 a u. 9 b",
+    "street": "Sandrainstrasse",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:52:26+01:00"
+}

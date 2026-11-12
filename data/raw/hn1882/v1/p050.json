@@ -1,0 +1,24 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 50,
+ "thinking": "medium",
+ "started": "2026-11-12T07:56:48+01:00",
+ "seconds": 2.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 31,
+  "thoughts": 51
+ },
+ "response_text": "{\n  \"page_heading\": \"\",\n  \"printed_page\": \"\",\n  \"rows\": [],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "",
+  "printed_page": "",
+  "rows": [],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:56:51+01:00"
+}

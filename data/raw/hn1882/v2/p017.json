@@ -1,0 +1,774 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 17,
+ "thinking": "high",
+ "started": "2026-11-12T08:00:18+01:00",
+ "seconds": 50.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 4373,
+  "thoughts": 4387
+ },
+ "response_text": "{\"page_heading\": \"Grünes Quartier.\",\n \"printed_page\": \"11\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"195\", \"new\": \"25\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"196\", \"new\": \"27\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"197\", \"new\": \"29\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"197\", \"und\": true, \"new\": \"1\", \"street\": \"Münstergässchen\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"198\", \"new\": \"31\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"199\", \"new\": \"33\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"200\", \"new\": \"35\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"201\", \"new\": \"37\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"202\", \"new\": \"39\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"203\", \"new\": \"41\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"204\", \"new\": \"43\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"205\", \"new\": \"45\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"205\", \"und\": true, \"new\": \"8\", \"street\": \"Kesslergasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"206\", \"new\": \"47\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"207\", \"new\": \"49\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"208\", \"new\": \"51\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"209\", \"new\": \"53\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"210\", \"new\": \"55\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"211\", \"new\": \"57\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"212\", \"new\": \"59\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"213\", \"new\": \"61\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"214\", \"new\": \"63\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"215\", \"new\": \"65\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"216\", \"new\": \"67\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"217\", \"new\": \"69\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"218\", \"new\": \"71\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"219\", \"new\": \"73\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"220\", \"new\": \"75\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"221\", \"new\": \"77\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"222\", \"new\": \"79\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"223\", \"new\": \"81\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"224\", \"new\": \"83\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"225\", \"new\": \"85\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"226\", \"new\": \"87\", \"street\": \"Kramgasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"227 a\", \"new\": \"1\", \"street\": \"B. Zeitglockenth.\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"227 a\", \"und\": true, \"new\": \"2\", \"street\": \"Hotelgasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"227 b\", \"new\": \"3\", \"street\": \"B. Zeitglockenth.\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"228\", \"new\": \"5\", \"street\": \"B. Zeitglockenth.\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"228\", \"und\": true, \"new\": \"1\", \"street\": \"Theaterplatz\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"229\", \"new\": \"6\", \"street\": \"Hotelgasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"230\", \"new\": \"8\", \"street\": \"Hotelgasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"231\", \"new\": \"10\", \"street\": \"Hotelgasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"232\", \"new\": \"14\", \"street\": \"Hotelgasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"232\", \"und\": true, \"new\": \"2\", \"street\": \"Polizeigasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"233\", \"new\": \"12\", \"street\": \"Hotelgasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"233\", \"und\": true, \"new\": \"9\", \"street\": \"Theaterplatz\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"234\", \"new\": \"4\", \"street\": \"Hotelgasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"235\", \"new\": \"3\", \"street\": \"Hotelgasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"236\", \"new\": \"48\", \"street\": \"Kesslergasse\"},\n  {\"col\": 1, \"group\": \"Theatergasse\", \"old\": \"236\", \"und\": true, \"new\": \"5\", \"street\": \"Hotelgasse\"},\n  {\"col\": 1, \"group\": \"Kesslergasse\", \"old\": \"237\", \"new\": \"46\", \"street\": \"Kesslergasse\"},\n  {\"col\": 1, \"group\": \"Kesslergasse\", \"old\": \"238\", \"new\": \"44\", \"street\": \"Kesslergasse\"},\n  {\"col\": 1, \"group\": \"Kesslergasse\", \"old\": \"239\", \"new\": \"42\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"240\", \"new\": \"40\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"241\", \"new\": \"38\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"242\", \"new\": \"36\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"243\", \"new\": \"34\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"244\", \"new\": \"32\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"245\", \"new\": \"30\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"246\", \"new\": \"28\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"247\", \"new\": \"26\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"248\", \"new\": \"24\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"249\", \"new\": \"22\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"250\", \"new\": \"20\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"251\", \"new\": \"18\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"252\", \"new\": \"16\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"253\", \"new\": \"14\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"254\", \"new\": \"12\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"255\", \"new\": \"10\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"256\", \"new\": \"6\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"257\", \"new\": \"4\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"258\", \"new\": \"2\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"259/260\", \"new\": \"8\", \"street\": \"Münsterplatz\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"261\", \"new\": \"6\", \"street\": \"Münsterplatz\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"262\", \"new\": \"4\", \"street\": \"Münsterplatz\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"263\", \"new\": \"2\", \"street\": \"Münsterplatz\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"264\", \"new\": \"24\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"265\", \"new\": \"22\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"266\", \"new\": \"18\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"267\", \"new\": \"16\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"268\", \"new\": \"14\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"269\", \"new\": \"12\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"270\", \"new\": \"10\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"271\", \"new\": \"8\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"272\", \"new\": \"6\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"273\", \"new\": \"4\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kirchgasse\", \"old\": \"274\", \"new\": \"2\", \"street\": \"Kirchgasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"275\", \"new\": \"10\", \"street\": \"Münsterplatz\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"276\", \"new\": \"3\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"277\", \"new\": \"5\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"278\", \"new\": \"7\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"279\", \"new\": \"9\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"280\", \"new\": \"11\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"281\", \"new\": \"13\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"282\", \"new\": \"15\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"283\", \"new\": \"17\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"284\", \"new\": \"19\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"285\", \"new\": \"21\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"286\", \"new\": \"23\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"287\", \"new\": \"25\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"288\", \"new\": \"27\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"289\", \"new\": \"29\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"290\", \"new\": \"31\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"291\", \"new\": \"33\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"292\", \"new\": \"35\", \"street\": \"Kesslergasse\"},\n  {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"293\", \"new\": \"37\", \"street\": \"Kesslergasse\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Grünes Quartier.",
+  "printed_page": "11",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "195",
+    "new": "25",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "196",
+    "new": "27",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "197",
+    "new": "29",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "197",
+    "und": true,
+    "new": "1",
+    "street": "Münstergässchen"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "198",
+    "new": "31",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "199",
+    "new": "33",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "200",
+    "new": "35",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "201",
+    "new": "37",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "202",
+    "new": "39",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "203",
+    "new": "41",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "204",
+    "new": "43",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "205",
+    "new": "45",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "205",
+    "und": true,
+    "new": "8",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "206",
+    "new": "47",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "207",
+    "new": "49",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "208",
+    "new": "51",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "209",
+    "new": "53",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "210",
+    "new": "55",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "211",
+    "new": "57",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "212",
+    "new": "59",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "213",
+    "new": "61",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "214",
+    "new": "63",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "215",
+    "new": "65",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "216",
+    "new": "67",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "217",
+    "new": "69",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "218",
+    "new": "71",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "219",
+    "new": "73",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "220",
+    "new": "75",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "221",
+    "new": "77",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "222",
+    "new": "79",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "223",
+    "new": "81",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "224",
+    "new": "83",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "225",
+    "new": "85",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "226",
+    "new": "87",
+    "street": "Kramgasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "227 a",
+    "new": "1",
+    "street": "B. Zeitglockenth."
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "227 a",
+    "und": true,
+    "new": "2",
+    "street": "Hotelgasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "227 b",
+    "new": "3",
+    "street": "B. Zeitglockenth."
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "228",
+    "new": "5",
+    "street": "B. Zeitglockenth."
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "228",
+    "und": true,
+    "new": "1",
+    "street": "Theaterplatz"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "229",
+    "new": "6",
+    "street": "Hotelgasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "230",
+    "new": "8",
+    "street": "Hotelgasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "231",
+    "new": "10",
+    "street": "Hotelgasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "232",
+    "new": "14",
+    "street": "Hotelgasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "232",
+    "und": true,
+    "new": "2",
+    "street": "Polizeigasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "233",
+    "new": "12",
+    "street": "Hotelgasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "233",
+    "und": true,
+    "new": "9",
+    "street": "Theaterplatz"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "234",
+    "new": "4",
+    "street": "Hotelgasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "235",
+    "new": "3",
+    "street": "Hotelgasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "236",
+    "new": "48",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 1,
+    "group": "Theatergasse",
+    "old": "236",
+    "und": true,
+    "new": "5",
+    "street": "Hotelgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kesslergasse",
+    "old": "237",
+    "new": "46",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 1,
+    "group": "Kesslergasse",
+    "old": "238",
+    "new": "44",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 1,
+    "group": "Kesslergasse",
+    "old": "239",
+    "new": "42",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "240",
+    "new": "40",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "241",
+    "new": "38",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "242",
+    "new": "36",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "243",
+    "new": "34",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "244",
+    "new": "32",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "245",
+    "new": "30",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "246",
+    "new": "28",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "247",
+    "new": "26",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "248",
+    "new": "24",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "249",
+    "new": "22",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "250",
+    "new": "20",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "251",
+    "new": "18",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "252",
+    "new": "16",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "253",
+    "new": "14",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "254",
+    "new": "12",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "255",
+    "new": "10",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "256",
+    "new": "6",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "257",
+    "new": "4",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "258",
+    "new": "2",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "259/260",
+    "new": "8",
+    "street": "Münsterplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "261",
+    "new": "6",
+    "street": "Münsterplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "262",
+    "new": "4",
+    "street": "Münsterplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "263",
+    "new": "2",
+    "street": "Münsterplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "264",
+    "new": "24",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "265",
+    "new": "22",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "266",
+    "new": "18",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "267",
+    "new": "16",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "268",
+    "new": "14",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "269",
+    "new": "12",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "270",
+    "new": "10",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "271",
+    "new": "8",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "272",
+    "new": "6",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "273",
+    "new": "4",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kirchgasse",
+    "old": "274",
+    "new": "2",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "275",
+    "new": "10",
+    "street": "Münsterplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "276",
+    "new": "3",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "277",
+    "new": "5",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "278",
+    "new": "7",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "279",
+    "new": "9",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "280",
+    "new": "11",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "281",
+    "new": "13",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "282",
+    "new": "15",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "283",
+    "new": "17",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "284",
+    "new": "19",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "285",
+    "new": "21",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "286",
+    "new": "23",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "287",
+    "new": "25",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "288",
+    "new": "27",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "289",
+    "new": "29",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "290",
+    "new": "31",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "291",
+    "new": "33",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "292",
+    "new": "35",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "293",
+    "new": "37",
+    "street": "Kesslergasse"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:01:09+01:00"
+}

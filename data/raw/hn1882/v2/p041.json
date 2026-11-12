@@ -1,0 +1,795 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 41,
+ "thinking": "high",
+ "started": "2026-11-12T08:09:34+01:00",
+ "seconds": 217.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 5080,
+  "thoughts": 26509
+ },
+ "response_text": "{\"page_heading\": \"Stadtbezirk untenaus.\",\n \"printed_page\": \"15\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"80 a\", \"new\": \"18\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"80 b\", \"new\": \"18 a\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"80 c\", \"new\": \"22\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"80 d\", \"new\": \"22 a\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"81 a\", \"new\": \"16\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"81 b\", \"new\": \"15\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"81 c\", \"new\": \"8\", \"street\": \"Höheweg\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"81 d\", \"new\": \"4\", \"street\": \"Höheweg\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"81 e\", \"new\": \"6\", \"street\": \"Höheweg\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"81 f\", \"new\": \"6 a\", \"street\": \"Höheweg\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"82 a\", \"new\": \"17\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"83\", \"new\": \"30\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"84 a\", \"new\": \"32\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"85 a\", \"new\": \"44\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"85 b\", \"new\": \"40\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"85 c\", \"new\": \"44 a\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"87 a\", \"new\": \"56 56 a u. 56 b\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"87 b\", \"new\": \"58 58 a u. 58 b\", \"street\": \"Schosshaldenstr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"89 a\", \"new\": \"60 b\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"89 b\", \"new\": \"60 u. 60 a\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"90 a\", \"new\": \"54\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"90 b\", \"new\": \"12\", \"street\": \"Ob. Haspelweg\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"90 c\", \"new\": \"12 a\", \"street\": \"Ob. Haspelweg\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"91 a\", \"new\": \"45\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"91 b\", \"new\": \"45 a\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"92\", \"new\": \"44\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"93 a\", \"new\": \"40\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"93 b\", \"new\": \"36\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"93 c I\", \"new\": \"38\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"93 c II\", \"new\": \"38 a\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"93 c III\", \"new\": \"33 b\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"93 d\", \"new\": \"34\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"93 e\", \"new\": \"34 a\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"94 a\", \"new\": \"29\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"94 b\", \"new\": \"27\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"94 d\", \"new\": \"27 a\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"95 a\", \"new\": \"23 u. 23 a\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"95 b\", \"new\": \"23 b\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"96 a\", \"new\": \"20\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"96 b\", \"new\": \"20 a\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"97\", \"new\": \"32 u. 32 a\", \"street\": \"Alt. Aargauerst.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"98 a\", \"new\": \"27 u. 27 a\", \"street\": \"Alt. Aargauerst.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"99 a b\", \"new\": \"1 1 a u. 1 b\", \"street\": \"Laubeckstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"100 a\", \"new\": \"12 a b\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"100 b\", \"new\": \"16\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"100 c\", \"new\": \"18\", \"street\": \"Pulverweg\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"100 d\", \"new\": \"80\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"100 f\", \"new\": \"80 a\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"100 h\", \"new\": \"12\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"100 l\", \"new\": \"22\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"101 a\", \"new\": \"12\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"101 b\", \"new\": \"12 a\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"102 a\", \"new\": \"18\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"102 b\", \"new\": \"18 a\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"103\", \"new\": \"20 u. 20 a\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 1, \"group\": \"Schosshalden-Drittel\", \"old\": \"104 a\", \"new\": \"26\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"104 b\", \"new\": \"26 a\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"104 b\", \"new\": \"26 b\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"105\", \"new\": \"34\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 a\", \"new\": \"38\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 b\", \"new\": \"40\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 c\", \"new\": \"5\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 e\", \"new\": \"25\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 f\", \"new\": \"25 a\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 g\", \"new\": \"25 b\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 i\", \"new\": \"13\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 h\", \"new\": \"78\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 r\", \"new\": \"27\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 p\", \"new\": \"25 c\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 t\", \"new\": \"15\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 k\", \"new\": \"13 a\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 l\", \"new\": \"21\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 x\", \"new\": \"22\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 y\", \"new\": \"22 b\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"106 z\", \"new\": \"22 a\", \"street\": \"Stationsweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"107 a\", \"new\": \"127\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"107 b\", \"new\": \"125\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"107 d\", \"new\": \"129\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"107 e\", \"new\": \"131\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"107 f\", \"new\": \"133\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"107 g\", \"new\": \"133 a\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"107 h-k\", \"new\": \"135 u. 135 a-c\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"107 l-n\", \"new\": \"141 u. 141 a-e\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"107 o-q\", \"new\": \"117 u. 117 a-f\", \"street\": \"Bolligenstrasse\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"108 a\", \"new\": \"10\", \"street\": \"Schermenweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"108 b\", \"new\": \"114\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"109 a\", \"new\": \"10 b\", \"street\": \"Schermenweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"109 b\", \"new\": \"10 a\", \"street\": \"Schermenweg\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"109 c\", \"new\": \"120\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 2, \"group\": \"Schosshalden-Drittel\", \"old\": \"109 d\", \"new\": \"120 a\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"110 a\", \"new\": \"11\", \"street\": \"Worblaufenstr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"110 b\", \"new\": \"11 a\", \"street\": \"Worblaufenstr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"110 c\", \"new\": \"11 b\", \"street\": \"Worblaufenstr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"111 a\", \"new\": \"11 c\", \"street\": \"Worblaufenstr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"111 b\", \"new\": \"11 d\", \"street\": \"Worblaufenstr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"112 a\", \"new\": \"67\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"113 a\", \"new\": \"67 a\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"113 b\", \"new\": \"30\", \"street\": \"Löchliweg\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"114 b\", \"new\": \"54\", \"street\": \"Scheibenweg\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"114 c\", \"new\": \"50\", \"street\": \"Scheibenweg\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"114 a\", \"new\": \"35\", \"street\": \"Wankdorfweg\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"115 a-d\", \"new\": \"11 u. 11 a-d\", \"street\": \"Wankdorfweg\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"116 I\", \"new\": \"36 u. 36 a-g\", \"street\": \"Militärstrasse\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"117 a\", \"new\": \"38 u. 38 b\", \"street\": \"Militärstrasse\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"117 b-n\", \"new\": \"17 u. 17 a-r\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"117 o\", \"new\": \"13\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"117 o I-IV\", \"new\": \"13 a-f\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"117 p\", \"new\": \"15\", \"street\": \"Papiermühlestr.\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"117 q\", \"new\": \"38 a\", \"street\": \"Militärstrasse\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"117 r\", \"new\": \"17 m\", \"street\": \"Papiermühlestr.\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Stadtbezirk untenaus.",
+  "printed_page": "15",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "80 a",
+    "new": "18",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "80 b",
+    "new": "18 a",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "80 c",
+    "new": "22",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "80 d",
+    "new": "22 a",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "81 a",
+    "new": "16",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "81 b",
+    "new": "15",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "81 c",
+    "new": "8",
+    "street": "Höheweg"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "81 d",
+    "new": "4",
+    "street": "Höheweg"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "81 e",
+    "new": "6",
+    "street": "Höheweg"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "81 f",
+    "new": "6 a",
+    "street": "Höheweg"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "82 a",
+    "new": "17",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "83",
+    "new": "30",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "84 a",
+    "new": "32",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "85 a",
+    "new": "44",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "85 b",
+    "new": "40",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "85 c",
+    "new": "44 a",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "87 a",
+    "new": "56 56 a u. 56 b",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "87 b",
+    "new": "58 58 a u. 58 b",
+    "street": "Schosshaldenstr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "89 a",
+    "new": "60 b",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "89 b",
+    "new": "60 u. 60 a",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "90 a",
+    "new": "54",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "90 b",
+    "new": "12",
+    "street": "Ob. Haspelweg"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "90 c",
+    "new": "12 a",
+    "street": "Ob. Haspelweg"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "91 a",
+    "new": "45",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "91 b",
+    "new": "45 a",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "92",
+    "new": "44",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "93 a",
+    "new": "40",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "93 b",
+    "new": "36",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "93 c I",
+    "new": "38",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "93 c II",
+    "new": "38 a",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "93 c III",
+    "new": "33 b",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "93 d",
+    "new": "34",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "93 e",
+    "new": "34 a",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "94 a",
+    "new": "29",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "94 b",
+    "new": "27",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "94 d",
+    "new": "27 a",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "95 a",
+    "new": "23 u. 23 a",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "95 b",
+    "new": "23 b",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "96 a",
+    "new": "20",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "96 b",
+    "new": "20 a",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "97",
+    "new": "32 u. 32 a",
+    "street": "Alt. Aargauerst."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "98 a",
+    "new": "27 u. 27 a",
+    "street": "Alt. Aargauerst."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "99 a b",
+    "new": "1 1 a u. 1 b",
+    "street": "Laubeckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "100 a",
+    "new": "12 a b",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "100 b",
+    "new": "16",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "100 c",
+    "new": "18",
+    "street": "Pulverweg"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "100 d",
+    "new": "80",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "100 f",
+    "new": "80 a",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "100 h",
+    "new": "12",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "100 l",
+    "new": "22",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "101 a",
+    "new": "12",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "101 b",
+    "new": "12 a",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "102 a",
+    "new": "18",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "102 b",
+    "new": "18 a",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "103",
+    "new": "20 u. 20 a",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Schosshalden-Drittel",
+    "old": "104 a",
+    "new": "26",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "104 b",
+    "new": "26 a",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "104 b",
+    "new": "26 b",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "105",
+    "new": "34",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 a",
+    "new": "38",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 b",
+    "new": "40",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 c",
+    "new": "5",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 e",
+    "new": "25",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 f",
+    "new": "25 a",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 g",
+    "new": "25 b",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 i",
+    "new": "13",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 h",
+    "new": "78",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 r",
+    "new": "27",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 p",
+    "new": "25 c",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 t",
+    "new": "15",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 k",
+    "new": "13 a",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 l",
+    "new": "21",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 x",
+    "new": "22",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 y",
+    "new": "22 b",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "106 z",
+    "new": "22 a",
+    "street": "Stationsweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "107 a",
+    "new": "127",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "107 b",
+    "new": "125",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "107 d",
+    "new": "129",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "107 e",
+    "new": "131",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "107 f",
+    "new": "133",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "107 g",
+    "new": "133 a",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "107 h-k",
+    "new": "135 u. 135 a-c",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "107 l-n",
+    "new": "141 u. 141 a-e",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "107 o-q",
+    "new": "117 u. 117 a-f",
+    "street": "Bolligenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "108 a",
+    "new": "10",
+    "street": "Schermenweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "108 b",
+    "new": "114",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "109 a",
+    "new": "10 b",
+    "street": "Schermenweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "109 b",
+    "new": "10 a",
+    "street": "Schermenweg"
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "109 c",
+    "new": "120",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 2,
+    "group": "Schosshalden-Drittel",
+    "old": "109 d",
+    "new": "120 a",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "110 a",
+    "new": "11",
+    "street": "Worblaufenstr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "110 b",
+    "new": "11 a",
+    "street": "Worblaufenstr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "110 c",
+    "new": "11 b",
+    "street": "Worblaufenstr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "111 a",
+    "new": "11 c",
+    "street": "Worblaufenstr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "111 b",
+    "new": "11 d",
+    "street": "Worblaufenstr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "112 a",
+    "new": "67",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "113 a",
+    "new": "67 a",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "113 b",
+    "new": "30",
+    "street": "Löchliweg"
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "114 b",
+    "new": "54",
+    "street": "Scheibenweg"
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "114 c",
+    "new": "50",
+    "street": "Scheibenweg"
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "114 a",
+    "new": "35",
+    "street": "Wankdorfweg"
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "115 a-d",
+    "new": "11 u. 11 a-d",
+    "street": "Wankdorfweg"
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "116 I",
+    "new": "36 u. 36 a-g",
+    "street": "Militärstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "117 a",
+    "new": "38 u. 38 b",
+    "street": "Militärstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "117 b-n",
+    "new": "17 u. 17 a-r",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "117 o",
+    "new": "13",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "117 o I-IV",
+    "new": "13 a-f",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "117 p",
+    "new": "15",
+    "street": "Papiermühlestr."
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "117 q",
+    "new": "38 a",
+    "street": "Militärstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "117 r",
+    "new": "17 m",
+    "street": "Papiermühlestr."
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:13:11+01:00"
+}

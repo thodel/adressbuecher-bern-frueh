@@ -1,0 +1,865 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 11,
+ "thinking": "medium",
+ "started": "2026-11-12T07:52:51+01:00",
+ "seconds": 68.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 4804,
+  "thoughts": 6322
+ },
+ "response_text": "{\n  \"page_heading\": \"Rothes Quartier.\",\n  \"printed_page\": \"5\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Waisenhausplatz\", \"old\": \"255 a\", \"und\": false, \"new\": \"32\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausplatz\", \"old\": \"255 b\", \"und\": false, \"new\": \"6\", \"street\": \"Waisenhausstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"255 c I\", \"und\": false, \"new\": \"22\", \"street\": \"Waisenhausstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"255 d\", \"und\": false, \"new\": \"18\", \"street\": \"Waisenhausstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"255 e\", \"und\": false, \"new\": \"12\", \"street\": \"Waisenhausstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"255 f\", \"und\": false, \"new\": \"20\", \"street\": \"Waisenhausstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"256 a\", \"und\": false, \"new\": \"30\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"256 b\", \"und\": false, \"new\": \"30 a\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"257 a\", \"und\": false, \"new\": \"5\", \"street\": \"Waisenhausstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"257 a\", \"und\": true, \"new\": \"21\", \"street\": \"Anatomiegasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"258 b\", \"und\": false, \"new\": \"16\", \"street\": \"Waisenhausstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"258 a\", \"und\": false, \"new\": \"6\", \"street\": \"Anatomiegasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"259\", \"und\": false, \"new\": \"4\", \"street\": \"Anatomiegasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"260 a/b\", \"und\": false, \"new\": \"63\", \"street\": \"Aarbergergasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"260 a/b\", \"und\": true, \"new\": \"25\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Waisenhausstrasse\", \"old\": \"261\", \"und\": false, \"new\": \"27\", \"street\": \"Aeuss. Bollwerk\", \"hand\": true, \"note\": \"handschriftlich ergänzt\"},\n    {\"col\": 1, \"group\": \"Bollwerk\", \"old\": \"262\", \"und\": false, \"new\": \"61\", \"street\": \"Aarbergergasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Bollwerk\", \"old\": \"263 a\", \"und\": false, \"new\": \"63\", \"street\": \"Aarbergergasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Bollwerk\", \"old\": \"263 b\", \"und\": false, \"new\": \"65\", \"street\": \"Aarbergergasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Bollwerk\", \"old\": \"263 b\", \"und\": true, \"new\": \"23\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Bollwerk\", \"old\": \"263 c\", \"und\": false, \"new\": \"21\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Bollwerk\", \"old\": \"264\", \"und\": false, \"new\": \"19\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Bollwerk\", \"old\": \"265\", \"und\": false, \"new\": \"17\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Bollwerk\", \"old\": \"266\", \"und\": false, \"new\": \"15\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Bollwerk\", \"old\": \"267\", \"und\": false, \"new\": \"46\", \"street\": \"Neuengasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"1 a\", \"und\": false, \"new\": \"10\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"1 b\", \"und\": false, \"new\": \"8\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"2 a\", \"und\": false, \"new\": \"4\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"2 a\", \"und\": true, \"new\": \"3\", \"street\": \"Reitschulhof\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"2 b\", \"und\": false, \"new\": \"6\", \"street\": \"\", \"hand\": true, \"note\": \"«Zeughausgasse» gestrichen\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"3 a\", \"und\": false, \"new\": \"8\", \"street\": \"Reitschulhof\", \"hand\": true, \"note\": \"handschriftlich ergänzt\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"3 b\", \"und\": false, \"new\": \"5\", \"street\": \"\", \"hand\": true, \"note\": \"«Predigergasse» gestrichen\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"3 c\", \"und\": false, \"new\": \"6\", \"street\": \"Reitschulhof\", \"hand\": true, \"note\": \"handschriftlich ergänzt\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"4 a\", \"und\": false, \"new\": \"4\", \"street\": \"Reitschulhof\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"4 b\", \"und\": false, \"new\": \"2\", \"street\": \"Reitschulhof\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"4 b\", \"und\": true, \"new\": \"2\", \"street\": \"Graben-Promen.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"5 a\", \"und\": false, \"new\": \"3\", \"street\": \"Predigergasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"6 a/b\", \"und\": false, \"new\": \"3\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"7 a\", \"und\": false, \"new\": \"5\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"7 b\", \"und\": false, \"new\": \"5 a\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"8\", \"und\": false, \"new\": \"7\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"268\", \"und\": false, \"new\": \"44\", \"street\": \"Neuengasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"268\", \"und\": true, \"new\": \"4\", \"street\": \"Inneres Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"269 a\", \"und\": false, \"new\": \"12\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"269 b\", \"und\": false, \"new\": \"16\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"270\", \"und\": false, \"new\": \"10\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"271 a\", \"und\": false, \"new\": \"8\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"271 a\", \"und\": true, \"new\": \"8 a u. 8 b\", \"street\": \"Aeuss. Bollwerk\", \"hand\": true, \"note\": \"handschriftlich ergänzt\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"271 b\", \"und\": false, \"new\": \"8 c\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"271 b\", \"und\": true, \"new\": \"8 d\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"271 c\", \"und\": false, \"new\": \"4\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"271 c\", \"und\": true, \"new\": \"2\", \"street\": \"Christoffelplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"271 d\", \"und\": false, \"new\": \"6 a\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"271 e\", \"und\": false, \"new\": \"6\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"271 h\", \"und\": false, \"new\": \"14\", \"street\": \"Aeuss. Bollwerk\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"271 g\", \"und\": false, \"new\": \"5\", \"street\": \"Eilgutgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"274 a\", \"und\": false, \"new\": \"11\", \"street\": \"Waisenhausstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"274 b\", \"und\": false, \"new\": \"9\", \"street\": \"Waisenhausstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"276 a\", \"und\": false, \"new\": \"4\", \"street\": \"Christoffelplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"276 a\", \"und\": true, \"new\": \"22 a\", \"street\": \"Eilgutgasse\", \"hand\": true, \"note\": \"gestrichen\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"276 b\", \"und\": false, \"new\": \"4 a\", \"street\": \"Christoffelplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"276 c\", \"und\": false, \"new\": \"3\", \"street\": \"Eilgutgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"277 a\", \"und\": false, \"new\": \"4 b\", \"street\": \"Christoffelplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"277 b\", \"und\": false, \"new\": \"4 c\", \"street\": \"Christoffelplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"277 c\", \"und\": false, \"new\": \"4 d\", \"street\": \"Christoffelplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"278\", \"und\": false, \"new\": \"6\", \"street\": \"Christoffelplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"279\", \"und\": false, \"new\": \"8\", \"street\": \"Christoffelplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Bollwerk\", \"old\": \"281\", \"und\": false, \"new\": \"44\", \"street\": \"Spitalgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"9 a\", \"und\": false, \"new\": \"9\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"9 b\", \"und\": false, \"new\": \"9 a\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"10 a\", \"und\": false, \"new\": \"11\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"10 a\", \"und\": true, \"new\": \"9\", \"street\": \"Schützengehn.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"10 b\", \"und\": false, \"new\": \"7\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"11\", \"und\": false, \"new\": \"13\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"11\", \"und\": true, \"new\": \"6\", \"street\": \"Schützengehn.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"12\", \"und\": false, \"new\": \"13 a\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"12\", \"und\": true, \"new\": \"6 a\", \"street\": \"Schützengehn.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"13\", \"und\": false, \"new\": \"15\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"14\", \"und\": false, \"new\": \"17\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"15 a\", \"und\": false, \"new\": \"19\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"15 b\", \"und\": false, \"new\": \"21\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"15 c\", \"und\": false, \"new\": \"23\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"15 d\", \"und\": false, \"new\": \"25\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"16 a\", \"und\": false, \"new\": \"27\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Rothes Quartier.",
+  "printed_page": "5",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Waisenhausplatz",
+    "old": "255 a",
+    "und": false,
+    "new": "32",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausplatz",
+    "old": "255 b",
+    "und": false,
+    "new": "6",
+    "street": "Waisenhausstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "255 c I",
+    "und": false,
+    "new": "22",
+    "street": "Waisenhausstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "255 d",
+    "und": false,
+    "new": "18",
+    "street": "Waisenhausstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "255 e",
+    "und": false,
+    "new": "12",
+    "street": "Waisenhausstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "255 f",
+    "und": false,
+    "new": "20",
+    "street": "Waisenhausstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "256 a",
+    "und": false,
+    "new": "30",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "256 b",
+    "und": false,
+    "new": "30 a",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "257 a",
+    "und": false,
+    "new": "5",
+    "street": "Waisenhausstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "257 a",
+    "und": true,
+    "new": "21",
+    "street": "Anatomiegasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "258 b",
+    "und": false,
+    "new": "16",
+    "street": "Waisenhausstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "258 a",
+    "und": false,
+    "new": "6",
+    "street": "Anatomiegasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "259",
+    "und": false,
+    "new": "4",
+    "street": "Anatomiegasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "260 a/b",
+    "und": false,
+    "new": "63",
+    "street": "Aarbergergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "260 a/b",
+    "und": true,
+    "new": "25",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausstrasse",
+    "old": "261",
+    "und": false,
+    "new": "27",
+    "street": "Aeuss. Bollwerk",
+    "hand": true,
+    "note": "handschriftlich ergänzt"
+   },
+   {
+    "col": 1,
+    "group": "Bollwerk",
+    "old": "262",
+    "und": false,
+    "new": "61",
+    "street": "Aarbergergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Bollwerk",
+    "old": "263 a",
+    "und": false,
+    "new": "63",
+    "street": "Aarbergergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Bollwerk",
+    "old": "263 b",
+    "und": false,
+    "new": "65",
+    "street": "Aarbergergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Bollwerk",
+    "old": "263 b",
+    "und": true,
+    "new": "23",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Bollwerk",
+    "old": "263 c",
+    "und": false,
+    "new": "21",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Bollwerk",
+    "old": "264",
+    "und": false,
+    "new": "19",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Bollwerk",
+    "old": "265",
+    "und": false,
+    "new": "17",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Bollwerk",
+    "old": "266",
+    "und": false,
+    "new": "15",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Bollwerk",
+    "old": "267",
+    "und": false,
+    "new": "46",
+    "street": "Neuengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "1 a",
+    "und": false,
+    "new": "10",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "1 b",
+    "und": false,
+    "new": "8",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "2 a",
+    "und": false,
+    "new": "4",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "2 a",
+    "und": true,
+    "new": "3",
+    "street": "Reitschulhof",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "2 b",
+    "und": false,
+    "new": "6",
+    "street": "",
+    "hand": true,
+    "note": "«Zeughausgasse» gestrichen"
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "3 a",
+    "und": false,
+    "new": "8",
+    "street": "Reitschulhof",
+    "hand": true,
+    "note": "handschriftlich ergänzt"
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "3 b",
+    "und": false,
+    "new": "5",
+    "street": "",
+    "hand": true,
+    "note": "«Predigergasse» gestrichen"
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "3 c",
+    "und": false,
+    "new": "6",
+    "street": "Reitschulhof",
+    "hand": true,
+    "note": "handschriftlich ergänzt"
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "4 a",
+    "und": false,
+    "new": "4",
+    "street": "Reitschulhof",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "4 b",
+    "und": false,
+    "new": "2",
+    "street": "Reitschulhof",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "4 b",
+    "und": true,
+    "new": "2",
+    "street": "Graben-Promen.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "5 a",
+    "und": false,
+    "new": "3",
+    "street": "Predigergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "6 a/b",
+    "und": false,
+    "new": "3",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "7 a",
+    "und": false,
+    "new": "5",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "7 b",
+    "und": false,
+    "new": "5 a",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "8",
+    "und": false,
+    "new": "7",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "268",
+    "und": false,
+    "new": "44",
+    "street": "Neuengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "268",
+    "und": true,
+    "new": "4",
+    "street": "Inneres Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "269 a",
+    "und": false,
+    "new": "12",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "269 b",
+    "und": false,
+    "new": "16",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "270",
+    "und": false,
+    "new": "10",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "271 a",
+    "und": false,
+    "new": "8",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "271 a",
+    "und": true,
+    "new": "8 a u. 8 b",
+    "street": "Aeuss. Bollwerk",
+    "hand": true,
+    "note": "handschriftlich ergänzt"
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "271 b",
+    "und": false,
+    "new": "8 c",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "271 b",
+    "und": true,
+    "new": "8 d",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "271 c",
+    "und": false,
+    "new": "4",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "271 c",
+    "und": true,
+    "new": "2",
+    "street": "Christoffelplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "271 d",
+    "und": false,
+    "new": "6 a",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "271 e",
+    "und": false,
+    "new": "6",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "271 h",
+    "und": false,
+    "new": "14",
+    "street": "Aeuss. Bollwerk",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "271 g",
+    "und": false,
+    "new": "5",
+    "street": "Eilgutgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "274 a",
+    "und": false,
+    "new": "11",
+    "street": "Waisenhausstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "274 b",
+    "und": false,
+    "new": "9",
+    "street": "Waisenhausstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "276 a",
+    "und": false,
+    "new": "4",
+    "street": "Christoffelplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "276 a",
+    "und": true,
+    "new": "22 a",
+    "street": "Eilgutgasse",
+    "hand": true,
+    "note": "gestrichen"
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "276 b",
+    "und": false,
+    "new": "4 a",
+    "street": "Christoffelplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "276 c",
+    "und": false,
+    "new": "3",
+    "street": "Eilgutgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "277 a",
+    "und": false,
+    "new": "4 b",
+    "street": "Christoffelplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "277 b",
+    "und": false,
+    "new": "4 c",
+    "street": "Christoffelplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "277 c",
+    "und": false,
+    "new": "4 d",
+    "street": "Christoffelplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "278",
+    "und": false,
+    "new": "6",
+    "street": "Christoffelplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "279",
+    "und": false,
+    "new": "8",
+    "street": "Christoffelplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bollwerk",
+    "old": "281",
+    "und": false,
+    "new": "44",
+    "street": "Spitalgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "9 a",
+    "und": false,
+    "new": "9",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "9 b",
+    "und": false,
+    "new": "9 a",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "10 a",
+    "und": false,
+    "new": "11",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "10 a",
+    "und": true,
+    "new": "9",
+    "street": "Schützengehn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "10 b",
+    "und": false,
+    "new": "7",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "11",
+    "und": false,
+    "new": "13",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "11",
+    "und": true,
+    "new": "6",
+    "street": "Schützengehn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "12",
+    "und": false,
+    "new": "13 a",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "12",
+    "und": true,
+    "new": "6 a",
+    "street": "Schützengehn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "13",
+    "und": false,
+    "new": "15",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "14",
+    "und": false,
+    "new": "17",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "15 a",
+    "und": false,
+    "new": "19",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "15 b",
+    "und": false,
+    "new": "21",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "15 c",
+    "und": false,
+    "new": "23",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "15 d",
+    "und": false,
+    "new": "25",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "16 a",
+    "und": false,
+    "new": "27",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:54:00+01:00"
+}

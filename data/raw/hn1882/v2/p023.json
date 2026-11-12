@@ -1,0 +1,1045 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 23,
+ "thinking": "high",
+ "started": "2026-11-12T08:02:44+01:00",
+ "seconds": 239.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 5692,
+  "thoughts": 28389
+ },
+ "response_text": "{\"page_heading\": \"Schwarzes Quartier.\",\n \"printed_page\": \"17\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"67 b\", \"und\": false, \"new\": \"5\", \"street\": \"Fricktreppe\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"67 b\", \"und\": true, \"new\": \"7\", \"street\": \"Fricktreppe\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"68 a\", \"und\": false, \"new\": \"14\", \"street\": \"Fricktreppe\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"68 b\", \"und\": false, \"new\": \"14 a\", \"street\": \"Fricktreppe\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"69 a\", \"und\": false, \"new\": \"15\", \"street\": \"Fricktreppe\", \"hand\": true, \"note\": \"durchgestrichen\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"69 b\", \"und\": false, \"new\": \"57\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"70\", \"und\": false, \"new\": \"55\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"71\", \"und\": false, \"new\": \"53\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"72\", \"und\": false, \"new\": \"49\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"72\", \"und\": true, \"new\": \"46\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"73 b\", \"und\": false, \"new\": \"43\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"73 b\", \"und\": true, \"new\": \"42\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"73 a\", \"und\": false, \"new\": \"41\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Frick\", \"old\": \"73 a\", \"und\": true, \"new\": \"44\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"74\", \"und\": false, \"new\": \"39\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"74\", \"und\": true, \"new\": \"40\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"75\", \"und\": false, \"new\": \"37\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"75\", \"und\": true, \"new\": \"38\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"76\", \"und\": false, \"new\": \"35\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"76\", \"und\": true, \"new\": \"36\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"77\", \"und\": false, \"new\": \"33\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"77\", \"und\": true, \"new\": \"34\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"78 a\", \"und\": false, \"new\": \"31\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"78 b\", \"und\": false, \"new\": \"32\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"79\", \"und\": false, \"new\": \"29\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"80 a\", \"und\": false, \"new\": \"27\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"80 b\", \"und\": false, \"new\": \"30\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"81\", \"und\": false, \"new\": \"25\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"81\", \"und\": true, \"new\": \"28\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"82/83\", \"und\": false, \"new\": \"23\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"82/83\", \"und\": true, \"new\": \"26\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"84\", \"und\": false, \"new\": \"21\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"84\", \"und\": true, \"new\": \"24\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"85\", \"und\": false, \"new\": \"19\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"85\", \"und\": true, \"new\": \"22\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"86\", \"und\": false, \"new\": \"17\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"86\", \"und\": true, \"new\": \"20\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"87\", \"und\": false, \"new\": \"15\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"87\", \"und\": true, \"new\": \"18\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"88\", \"und\": false, \"new\": \"13\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"88\", \"und\": true, \"new\": \"16\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"89\", \"und\": false, \"new\": \"11\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"89\", \"und\": true, \"new\": \"14\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"90 a\", \"und\": false, \"new\": \"9\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"90 b\", \"und\": false, \"new\": \"12\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"91 a\", \"und\": false, \"new\": \"7\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"91 b\", \"und\": false, \"new\": \"10\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"92 a\", \"und\": false, \"new\": \"5\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"92 b\", \"und\": false, \"new\": \"6\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"93/94\", \"und\": false, \"new\": \"3\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"93/94\", \"und\": true, \"new\": \"4\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"95\", \"und\": false, \"new\": \"1 u. 1 a\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Badlaube\", \"old\": \"95\", \"und\": true, \"new\": \"2\", \"street\": \"Aarstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inseli bis zur Gypsreibe\", \"old\": \"97 a\", \"und\": false, \"new\": \"35\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inseli bis zur Gypsreibe\", \"old\": \"98 a I\", \"und\": false, \"new\": \"25\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inseli bis zur Gypsreibe\", \"old\": \"98 II\", \"und\": false, \"new\": \"25 a\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inseli bis zur Gypsreibe\", \"old\": \"98 c II\", \"und\": false, \"new\": \"25 b\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inseli bis zur Gypsreibe\", \"old\": \"99 a\", \"und\": false, \"new\": \"21\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inseli bis zur Gypsreibe\", \"old\": \"99 b\", \"und\": false, \"new\": \"23\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inseli bis zur Gypsreibe\", \"old\": \"100\", \"und\": false, \"new\": \"19\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inseli bis zur Gypsreibe\", \"old\": \"101 a\", \"und\": false, \"new\": \"17\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"101 b\", \"und\": false, \"new\": \"15 u. 15 a\", \"street\": \"Wasserwerkstrasse\", \"hand\": true, \"note\": \"gedruckt: 15\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"101 c II\", \"und\": false, \"new\": \"7\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"101 c I\", \"und\": false, \"new\": \"5\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"101 d\", \"und\": false, \"new\": \"1\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"101 e\", \"und\": false, \"new\": \"2\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"101 f\", \"und\": false, \"new\": \"2 a\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"102 a\", \"und\": false, \"new\": \"4\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"102 b\", \"und\": false, \"new\": \"6\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"103\", \"und\": false, \"new\": \"8\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"104 a\", \"und\": false, \"new\": \"10\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"104 b\", \"und\": false, \"new\": \"12\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Landeren\", \"old\": \"104 c\", \"und\": false, \"new\": \"14\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schleifergässlein\", \"old\": \"105 a\", \"und\": false, \"new\": \"7\", \"street\": \"Mühlenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schleifergässlein\", \"old\": \"105 b\", \"und\": false, \"new\": \"5\", \"street\": \"Mühlenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schleifergässlein\", \"old\": \"106 b I\", \"und\": false, \"new\": \"15\", \"street\": \"Mühlenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schleifergässlein\", \"old\": \"106 b II\", \"und\": false, \"new\": \"11\", \"street\": \"Mühlenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schleifergässlein\", \"old\": \"106 b III\", \"und\": false, \"new\": \"13\", \"street\": \"Mühlenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schleifergässlein\", \"old\": \"106 b IV V\", \"und\": false, \"new\": \"20\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schleifergässlein\", \"old\": \"106 b VI\", \"und\": false, \"new\": \"22\", \"street\": \"Wasserwerkstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schleifergässlein\", \"old\": \"106 c\", \"und\": false, \"new\": \"16\", \"street\": \"Mühlenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schleifergässlein\", \"old\": \"106 c\", \"und\": true, \"new\": \"1\", \"street\": \"Schifflaube\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schleifergässlein\", \"old\": \"106 d\", \"und\": false, \"new\": \"3\", \"street\": \"Schifflaube\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"107 a\", \"und\": false, \"new\": \"43\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"107 a\", \"und\": true, \"new\": \"1\", \"street\": \"Müllerplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"107 b\", \"und\": false, \"new\": \"43 a\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"107 b\", \"und\": true, \"new\": \"1 a\", \"street\": \"Müllerplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"108\", \"und\": false, \"new\": \"41\", \"street\": \"Gerbergasse\", \"hand\": true, \"note\": \"handschriftlich: Neeserhaus\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"109 a\", \"und\": false, \"new\": \"39\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"109 a\", \"und\": true, \"new\": \"39 a\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"109 b\", \"und\": false, \"new\": \"37\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"109 c\", \"und\": false, \"new\": \"37 a\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"110 a\", \"und\": false, \"new\": \"33\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"110 a\", \"und\": true, \"new\": \"4\", \"street\": \"Kanalgasse\", \"hand\": true, \"note\": \"durchgestrichen\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"110 b\", \"und\": false, \"new\": \"31\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"110 b\", \"und\": true, \"new\": \"27 a 27 b\", \"street\": \"Gerbergasse\", \"hand\": true, \"note\": \"gedruckt: 27\"},\n  {\"col\": 2, \"group\": \"Müllerläublein\", \"old\": \"110 d\", \"und\": false, \"new\": \"4\", \"street\": \"Kanalgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerbernlaube\", \"old\": \"111\", \"und\": false, \"new\": \"21\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerbernlaube\", \"old\": \"111\", \"und\": true, \"new\": \"1\", \"street\": \"Kanalgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerbernlaube\", \"old\": \"112 a\", \"und\": false, \"new\": \"19\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerbernlaube\", \"old\": \"112 b\", \"und\": false, \"new\": \"19 a\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerbernlaube\", \"old\": \"112 c\", \"und\": false, \"new\": \"19 b\", \"street\": \"Gerbergasse\", \"hand\": false, \"note\": \"\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Schwarzes Quartier.",
+  "printed_page": "17",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "67 b",
+    "und": false,
+    "new": "5",
+    "street": "Fricktreppe",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "67 b",
+    "und": true,
+    "new": "7",
+    "street": "Fricktreppe",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "68 a",
+    "und": false,
+    "new": "14",
+    "street": "Fricktreppe",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "68 b",
+    "und": false,
+    "new": "14 a",
+    "street": "Fricktreppe",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "69 a",
+    "und": false,
+    "new": "15",
+    "street": "Fricktreppe",
+    "hand": true,
+    "note": "durchgestrichen"
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "69 b",
+    "und": false,
+    "new": "57",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "70",
+    "und": false,
+    "new": "55",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "71",
+    "und": false,
+    "new": "53",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "72",
+    "und": false,
+    "new": "49",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "72",
+    "und": true,
+    "new": "46",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "73 b",
+    "und": false,
+    "new": "43",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "73 b",
+    "und": true,
+    "new": "42",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "73 a",
+    "und": false,
+    "new": "41",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Frick",
+    "old": "73 a",
+    "und": true,
+    "new": "44",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "74",
+    "und": false,
+    "new": "39",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "74",
+    "und": true,
+    "new": "40",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "75",
+    "und": false,
+    "new": "37",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "75",
+    "und": true,
+    "new": "38",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "76",
+    "und": false,
+    "new": "35",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "76",
+    "und": true,
+    "new": "36",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "77",
+    "und": false,
+    "new": "33",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "77",
+    "und": true,
+    "new": "34",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "78 a",
+    "und": false,
+    "new": "31",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "78 b",
+    "und": false,
+    "new": "32",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "79",
+    "und": false,
+    "new": "29",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "80 a",
+    "und": false,
+    "new": "27",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "80 b",
+    "und": false,
+    "new": "30",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "81",
+    "und": false,
+    "new": "25",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "81",
+    "und": true,
+    "new": "28",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "82/83",
+    "und": false,
+    "new": "23",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "82/83",
+    "und": true,
+    "new": "26",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "84",
+    "und": false,
+    "new": "21",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "84",
+    "und": true,
+    "new": "24",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "85",
+    "und": false,
+    "new": "19",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "85",
+    "und": true,
+    "new": "22",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "86",
+    "und": false,
+    "new": "17",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "86",
+    "und": true,
+    "new": "20",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "87",
+    "und": false,
+    "new": "15",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "87",
+    "und": true,
+    "new": "18",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "88",
+    "und": false,
+    "new": "13",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "88",
+    "und": true,
+    "new": "16",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "89",
+    "und": false,
+    "new": "11",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "89",
+    "und": true,
+    "new": "14",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "90 a",
+    "und": false,
+    "new": "9",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "90 b",
+    "und": false,
+    "new": "12",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "91 a",
+    "und": false,
+    "new": "7",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "91 b",
+    "und": false,
+    "new": "10",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "92 a",
+    "und": false,
+    "new": "5",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "92 b",
+    "und": false,
+    "new": "6",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "93/94",
+    "und": false,
+    "new": "3",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "93/94",
+    "und": true,
+    "new": "4",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "95",
+    "und": false,
+    "new": "1 u. 1 a",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Badlaube",
+    "old": "95",
+    "und": true,
+    "new": "2",
+    "street": "Aarstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inseli bis zur Gypsreibe",
+    "old": "97 a",
+    "und": false,
+    "new": "35",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inseli bis zur Gypsreibe",
+    "old": "98 a I",
+    "und": false,
+    "new": "25",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inseli bis zur Gypsreibe",
+    "old": "98 II",
+    "und": false,
+    "new": "25 a",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inseli bis zur Gypsreibe",
+    "old": "98 c II",
+    "und": false,
+    "new": "25 b",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inseli bis zur Gypsreibe",
+    "old": "99 a",
+    "und": false,
+    "new": "21",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inseli bis zur Gypsreibe",
+    "old": "99 b",
+    "und": false,
+    "new": "23",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inseli bis zur Gypsreibe",
+    "old": "100",
+    "und": false,
+    "new": "19",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inseli bis zur Gypsreibe",
+    "old": "101 a",
+    "und": false,
+    "new": "17",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "101 b",
+    "und": false,
+    "new": "15 u. 15 a",
+    "street": "Wasserwerkstrasse",
+    "hand": true,
+    "note": "gedruckt: 15"
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "101 c II",
+    "und": false,
+    "new": "7",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "101 c I",
+    "und": false,
+    "new": "5",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "101 d",
+    "und": false,
+    "new": "1",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "101 e",
+    "und": false,
+    "new": "2",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "101 f",
+    "und": false,
+    "new": "2 a",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "102 a",
+    "und": false,
+    "new": "4",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "102 b",
+    "und": false,
+    "new": "6",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "103",
+    "und": false,
+    "new": "8",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "104 a",
+    "und": false,
+    "new": "10",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "104 b",
+    "und": false,
+    "new": "12",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Landeren",
+    "old": "104 c",
+    "und": false,
+    "new": "14",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schleifergässlein",
+    "old": "105 a",
+    "und": false,
+    "new": "7",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schleifergässlein",
+    "old": "105 b",
+    "und": false,
+    "new": "5",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schleifergässlein",
+    "old": "106 b I",
+    "und": false,
+    "new": "15",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schleifergässlein",
+    "old": "106 b II",
+    "und": false,
+    "new": "11",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schleifergässlein",
+    "old": "106 b III",
+    "und": false,
+    "new": "13",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schleifergässlein",
+    "old": "106 b IV V",
+    "und": false,
+    "new": "20",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schleifergässlein",
+    "old": "106 b VI",
+    "und": false,
+    "new": "22",
+    "street": "Wasserwerkstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schleifergässlein",
+    "old": "106 c",
+    "und": false,
+    "new": "16",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schleifergässlein",
+    "old": "106 c",
+    "und": true,
+    "new": "1",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schleifergässlein",
+    "old": "106 d",
+    "und": false,
+    "new": "3",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "107 a",
+    "und": false,
+    "new": "43",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "107 a",
+    "und": true,
+    "new": "1",
+    "street": "Müllerplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "107 b",
+    "und": false,
+    "new": "43 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "107 b",
+    "und": true,
+    "new": "1 a",
+    "street": "Müllerplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "108",
+    "und": false,
+    "new": "41",
+    "street": "Gerbergasse",
+    "hand": true,
+    "note": "handschriftlich: Neeserhaus"
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "109 a",
+    "und": false,
+    "new": "39",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "109 a",
+    "und": true,
+    "new": "39 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "109 b",
+    "und": false,
+    "new": "37",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "109 c",
+    "und": false,
+    "new": "37 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "110 a",
+    "und": false,
+    "new": "33",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "110 a",
+    "und": true,
+    "new": "4",
+    "street": "Kanalgasse",
+    "hand": true,
+    "note": "durchgestrichen"
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "110 b",
+    "und": false,
+    "new": "31",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "110 b",
+    "und": true,
+    "new": "27 a 27 b",
+    "street": "Gerbergasse",
+    "hand": true,
+    "note": "gedruckt: 27"
+   },
+   {
+    "col": 2,
+    "group": "Müllerläublein",
+    "old": "110 d",
+    "und": false,
+    "new": "4",
+    "street": "Kanalgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerbernlaube",
+    "old": "111",
+    "und": false,
+    "new": "21",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerbernlaube",
+    "old": "111",
+    "und": true,
+    "new": "1",
+    "street": "Kanalgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerbernlaube",
+    "old": "112 a",
+    "und": false,
+    "new": "19",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerbernlaube",
+    "old": "112 b",
+    "und": false,
+    "new": "19 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerbernlaube",
+    "old": "112 c",
+    "und": false,
+    "new": "19 b",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:06:43+01:00"
+}

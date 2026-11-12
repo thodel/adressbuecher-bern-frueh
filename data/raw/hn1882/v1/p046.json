@@ -1,0 +1,455 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 46,
+ "thinking": "medium",
+ "started": "2026-11-12T07:56:29+01:00",
+ "seconds": 20.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 2556,
+  "thoughts": 778
+ },
+ "response_text": "{\"page_heading\": \"Stadtbezirk untenaus.\",\n \"printed_page\": \"20\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"158\", \"und\": false, \"new\": \"15\", \"street\": \"Quartiergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"159\", \"und\": false, \"new\": \"13\", \"street\": \"Quartiergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"160\", \"und\": false, \"new\": \"11\", \"street\": \"Quartiergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"161\", \"und\": false, \"new\": \"9\", \"street\": \"Quartiergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"162\", \"und\": false, \"new\": \"7\", \"street\": \"Quartiergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"163\", \"und\": false, \"new\": \"5 u. 5 a\", \"street\": \"Quartiergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"164\", \"und\": false, \"new\": \"3\", \"street\": \"Quartiergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"165 a\", \"und\": false, \"new\": \"13\", \"street\": \"Dammweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"166 I\", \"und\": false, \"new\": \"3\", \"street\": \"Blumenweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"166 b\", \"und\": false, \"new\": \"3 a\", \"street\": \"Blumenweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"170 a\", \"und\": false, \"new\": \"9\", \"street\": \"Dammweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"170 b\", \"und\": false, \"new\": \"9 a\", \"street\": \"Dammweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"172 a\", \"und\": false, \"new\": \"29\", \"street\": \"Centralweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"172 b\", \"und\": false, \"new\": \"27\", \"street\": \"Centralweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"172 c\", \"und\": false, \"new\": \"25\", \"street\": \"Centralweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"172 d\", \"und\": false, \"new\": \"23\", \"street\": \"Centralweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"172 e\", \"und\": false, \"new\": \"21\", \"street\": \"Centralweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"172 f\", \"und\": false, \"new\": \"19\", \"street\": \"Centralweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"188 a\", \"und\": false, \"new\": \"2 a\", \"street\": \"Lagerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"188 b\", \"und\": false, \"new\": \"2\", \"street\": \"Lagerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"188 c\", \"und\": false, \"new\": \"2 b\", \"street\": \"Lagerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Lorraine-Quartier\", \"old\": \"188 d\", \"und\": false, \"new\": \"2 c\", \"street\": \"Lagerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"193 a\", \"und\": false, \"new\": \"11\", \"street\": \"Lagerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"193 b\", \"und\": false, \"new\": \"9\", \"street\": \"Lagerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"194 a\", \"und\": false, \"new\": \"7\", \"street\": \"Lagerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"204\", \"und\": false, \"new\": \"38\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"205\", \"und\": false, \"new\": \"36\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"206\", \"und\": false, \"new\": \"34\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"207 a II\", \"und\": false, \"new\": \"32\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"207 b I\", \"und\": false, \"new\": \"11\", \"street\": \"Hofweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"207 b II\", \"und\": false, \"new\": \"11 a\", \"street\": \"Hofweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"207 b III\", \"und\": false, \"new\": \"11 b\", \"street\": \"Hofweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"207 c\", \"und\": false, \"new\": \"10 u. 10 a\", \"street\": \"Lagerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"208 a\", \"und\": false, \"new\": \"26\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"208 b\", \"und\": false, \"new\": \"28\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"208 c\", \"und\": false, \"new\": \"12 a\", \"street\": \"Lagerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"208 e\", \"und\": false, \"new\": \"12\", \"street\": \"Lagerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"209\", \"und\": false, \"new\": \"22\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"210\", \"und\": false, \"new\": \"20\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"211 a\", \"und\": false, \"new\": \"18\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"211 b\", \"und\": false, \"new\": \"18 a\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"212 a u. c\", \"und\": false, \"new\": \"16, 16 b\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Lorraine-Quartier\", \"old\": \"212 b\", \"und\": false, \"new\": \"16 a\", \"street\": \"Lorrainestrasse\", \"hand\": false, \"note\": \"\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Stadtbezirk untenaus.",
+  "printed_page": "20",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "158",
+    "und": false,
+    "new": "15",
+    "street": "Quartiergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "159",
+    "und": false,
+    "new": "13",
+    "street": "Quartiergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "160",
+    "und": false,
+    "new": "11",
+    "street": "Quartiergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "161",
+    "und": false,
+    "new": "9",
+    "street": "Quartiergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "162",
+    "und": false,
+    "new": "7",
+    "street": "Quartiergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "163",
+    "und": false,
+    "new": "5 u. 5 a",
+    "street": "Quartiergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "164",
+    "und": false,
+    "new": "3",
+    "street": "Quartiergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "165 a",
+    "und": false,
+    "new": "13",
+    "street": "Dammweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "166 I",
+    "und": false,
+    "new": "3",
+    "street": "Blumenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "166 b",
+    "und": false,
+    "new": "3 a",
+    "street": "Blumenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "170 a",
+    "und": false,
+    "new": "9",
+    "street": "Dammweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "170 b",
+    "und": false,
+    "new": "9 a",
+    "street": "Dammweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "172 a",
+    "und": false,
+    "new": "29",
+    "street": "Centralweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "172 b",
+    "und": false,
+    "new": "27",
+    "street": "Centralweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "172 c",
+    "und": false,
+    "new": "25",
+    "street": "Centralweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "172 d",
+    "und": false,
+    "new": "23",
+    "street": "Centralweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "172 e",
+    "und": false,
+    "new": "21",
+    "street": "Centralweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "172 f",
+    "und": false,
+    "new": "19",
+    "street": "Centralweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "188 a",
+    "und": false,
+    "new": "2 a",
+    "street": "Lagerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "188 b",
+    "und": false,
+    "new": "2",
+    "street": "Lagerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "188 c",
+    "und": false,
+    "new": "2 b",
+    "street": "Lagerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Lorraine-Quartier",
+    "old": "188 d",
+    "und": false,
+    "new": "2 c",
+    "street": "Lagerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "193 a",
+    "und": false,
+    "new": "11",
+    "street": "Lagerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "193 b",
+    "und": false,
+    "new": "9",
+    "street": "Lagerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "194 a",
+    "und": false,
+    "new": "7",
+    "street": "Lagerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "204",
+    "und": false,
+    "new": "38",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "205",
+    "und": false,
+    "new": "36",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "206",
+    "und": false,
+    "new": "34",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "207 a II",
+    "und": false,
+    "new": "32",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "207 b I",
+    "und": false,
+    "new": "11",
+    "street": "Hofweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "207 b II",
+    "und": false,
+    "new": "11 a",
+    "street": "Hofweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "207 b III",
+    "und": false,
+    "new": "11 b",
+    "street": "Hofweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "207 c",
+    "und": false,
+    "new": "10 u. 10 a",
+    "street": "Lagerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "208 a",
+    "und": false,
+    "new": "26",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "208 b",
+    "und": false,
+    "new": "28",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "208 c",
+    "und": false,
+    "new": "12 a",
+    "street": "Lagerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "208 e",
+    "und": false,
+    "new": "12",
+    "street": "Lagerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "209",
+    "und": false,
+    "new": "22",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "210",
+    "und": false,
+    "new": "20",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "211 a",
+    "und": false,
+    "new": "18",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "211 b",
+    "und": false,
+    "new": "18 a",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "212 a u. c",
+    "und": false,
+    "new": "16, 16 b",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Lorraine-Quartier",
+    "old": "212 b",
+    "und": false,
+    "new": "16 a",
+    "street": "Lorrainestrasse",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:56:49+01:00"
+}

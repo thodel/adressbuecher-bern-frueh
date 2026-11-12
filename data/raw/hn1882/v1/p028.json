@@ -1,0 +1,814 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 28,
+ "thinking": "medium",
+ "started": "2026-11-12T07:54:14+01:00",
+ "seconds": 63.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 5015,
+  "thoughts": 5127
+ },
+ "response_text": "{\n  \"page_heading\": \"Stadtbezirk obenaus.\",\n  \"printed_page\": \"2\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"33 d\", \"new\": \"9 c\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"34 a\", \"new\": \"12\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"34 b\", \"new\": \"8\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"34 c\", \"new\": \"18\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"34 d\", \"new\": \"16\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"35 a\", \"new\": \"37\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"35 b\", \"new\": \"33 b\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"36\", \"new\": \"35\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"37 a\", \"new\": \"33 a\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"37 b\", \"new\": \"33\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"37 c\", \"new\": \"11 u. 11 a\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"37 e\", \"new\": \"17\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"37 f h\", \"new\": \"15, 15 a u. 15 b\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"37 g\", \"new\": \"17 a\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"37 i\", \"new\": \"17 b\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"37 k\", \"new\": \"33 c\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"38 a b\", \"new\": \"91 u. 91 b\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"39 a\", \"new\": \"93 u. 93 a\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"39 b\", \"new\": \"95\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"39 c\", \"new\": \"91 a\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"40\", \"new\": \"109\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 a\", \"new\": \"107\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 b\", \"new\": \"1 u. 1 a\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 c I II\", \"new\": \"2 u. 2 b\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 d\", \"new\": \"10 a\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 e\", \"new\": \"12\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 f\", \"new\": \"78\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 g\", \"new\": \"16\", \"street\": \"Schöneggweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 h\", \"new\": \"12\", \"street\": \"Schöneggweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 i\", \"new\": \"3\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 l\", \"new\": \"7\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 k I II\", \"new\": \"5\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 k I II\", \"und\": true, \"new\": \"5 a\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 m\", \"new\": \"74\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 n\", \"new\": \"10\", \"street\": \"Schöneggweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 o\", \"new\": \"16 a\", \"street\": \"Schöneggweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 p\", \"new\": \"10\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 q\", \"new\": \"4 u. 4 a\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 r\", \"new\": \"6 u. 6 a\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 s\", \"new\": \"8\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 t\", \"new\": \"2 a\", \"street\": \"Schönauweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"41 v I II\", \"new\": \"76 u. 76 a\", \"street\": \"Sandrainstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"42 a\", \"new\": \"52\", \"street\": \"Sandrainstrasse\", \"hand\": true, \"note\": \"handschriftlich korrigiert; gedruckt: 54\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"42 b c\", \"new\": \"54 u. 52 a\", \"street\": \"Sandrainstrasse\", \"hand\": true, \"note\": \"handschriftlich korrigiert; gedruckt: 52 u. 52 a\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"42 d\", \"new\": \"12\", \"street\": \"Dorngasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"42 e\", \"new\": \"8\", \"street\": \"Dorngasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"43 a\", \"new\": \"99 u. 99 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"43 c\", \"new\": \"97\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"43 b d\", \"new\": \"95 u. 95 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"44 a\", \"new\": \"37\", \"street\": \"Steinhölzliweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"45 b\", \"new\": \"35\", \"street\": \"Steinhölzliweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"44 c\", \"new\": \"33\", \"street\": \"Steinhölzliweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"46 a\", \"new\": \"25\", \"street\": \"Steinhölzliweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"46 b\", \"new\": \"23\", \"street\": \"Steinhölzliweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"46 d\", \"new\": \"40\", \"street\": \"Morillonweg\"},\n    {\"col\": 1, \"group\": \"Arziele-Drittel\", \"old\": \"47 a b\", \"new\": \"54 u. 54 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"48\", \"new\": \"52\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"49\", \"new\": \"52 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"50 a b\", \"new\": \"38 u. 38 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"51\", \"new\": \"36\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"52 a I II\", \"new\": \"29, 29 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"52 b\", \"new\": \"31\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"52 c\", \"new\": \"29 b\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"52 d\", \"new\": \"65\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"52 f II\", \"new\": \"3\", \"street\": \"Weissenbühlw.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"52 g I\", \"new\": \"7\", \"street\": \"Weissenbühlw.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"52 i\", \"new\": \"15\", \"street\": \"Weissenbühlw.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"52 k\", \"new\": \"12\", \"street\": \"Weissenbühlw.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 a\", \"new\": \"17\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 b\", \"new\": \"19\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 c I\", \"new\": \"17 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 c II\", \"new\": \"17 b\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 e\", \"new\": \"9\", \"street\": \"Landhausweg\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 f\", \"new\": \"45\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 h\", \"new\": \"45 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 i I II\", \"new\": \"41\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 g\", \"new\": \"47 u. 47 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 k\", \"new\": \"8\", \"street\": \"Landhausweg\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 p\", \"new\": \"6\", \"street\": \"Landhausweg\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 l\", \"new\": \"6 a\", \"street\": \"Landhausweg\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 m\", \"new\": \"35\", \"street\": \"Weissenbühlw.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 r\", \"new\": \"35 a\", \"street\": \"Weissenbühlw.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 o\", \"new\": \"31 u. 31 a\", \"street\": \"Weissenbühlw.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 q\", \"new\": \"29\", \"street\": \"Weissenbühlw.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 s\", \"new\": \"43\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 u v\", \"new\": \"43\", \"street\": \"Weissenbühlw.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 w\", \"new\": \"35\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 x\", \"new\": \"49\", \"street\": \"Weissenbühlw.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 y\", \"new\": \"1\", \"street\": \"Scheitereiweg\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"53 z\", \"new\": \"35 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"54\", \"new\": \"12 u. 12 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"55\", \"new\": \"5\", \"street\": \"Schwarzenburgstr.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"56\", \"new\": \"7, 7 a u. 7 b\", \"street\": \"Schwarzenburgstr.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"57\", \"new\": \"23\", \"street\": \"Schwarzenburgstr.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"58\", \"new\": \"25\", \"street\": \"Schwarzenburgstr.\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"59 a\", \"new\": \"10\", \"street\": \"Wabernstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"59 b\", \"new\": \"8\", \"street\": \"Wabernstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"60 a\", \"new\": \"61\", \"street\": \"Könizstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"60 b\", \"new\": \"65\", \"street\": \"Könizstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"60 c f g\", \"new\": \"6 u. 6 a\", \"street\": \"Wabernstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"60 d\", \"new\": \"69\", \"street\": \"Könizstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"60 e\", \"new\": \"63\", \"street\": \"Könizstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"61\", \"new\": \"28 u. 28 a\", \"street\": \"Wabernstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"62\", \"new\": \"30\", \"street\": \"Wabernstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"63\", \"new\": \"36 u. 36 a\", \"street\": \"Wabernstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"64 a\", \"new\": \"12 u. 12 a\", \"street\": \"Friedheimweg\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"64 b-d\", \"new\": \"18, 18 a u. 18 b\", \"street\": \"Friedheimweg\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"64 e\", \"new\": \"69\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"64 f g\", \"new\": \"75\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"64 h\", \"new\": \"51\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"64 k\", \"new\": \"51 a\", \"street\": \"Seftigenstrasse\"},\n    {\"col\": 2, \"group\": \"Aarziele-Drittel\", \"old\": \"64 i\", \"new\": \"9 a\", \"street\": \"Landhausweg\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Stadtbezirk obenaus.",
+  "printed_page": "2",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "33 d",
+    "new": "9 c",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "34 a",
+    "new": "12",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "34 b",
+    "new": "8",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "34 c",
+    "new": "18",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "34 d",
+    "new": "16",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "35 a",
+    "new": "37",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "35 b",
+    "new": "33 b",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "36",
+    "new": "35",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "37 a",
+    "new": "33 a",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "37 b",
+    "new": "33",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "37 c",
+    "new": "11 u. 11 a",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "37 e",
+    "new": "17",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "37 f h",
+    "new": "15, 15 a u. 15 b",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "37 g",
+    "new": "17 a",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "37 i",
+    "new": "17 b",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "37 k",
+    "new": "33 c",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "38 a b",
+    "new": "91 u. 91 b",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "39 a",
+    "new": "93 u. 93 a",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "39 b",
+    "new": "95",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "39 c",
+    "new": "91 a",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "40",
+    "new": "109",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 a",
+    "new": "107",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 b",
+    "new": "1 u. 1 a",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 c I II",
+    "new": "2 u. 2 b",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 d",
+    "new": "10 a",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 e",
+    "new": "12",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 f",
+    "new": "78",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 g",
+    "new": "16",
+    "street": "Schöneggweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 h",
+    "new": "12",
+    "street": "Schöneggweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 i",
+    "new": "3",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 l",
+    "new": "7",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 k I II",
+    "new": "5",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 k I II",
+    "und": true,
+    "new": "5 a",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 m",
+    "new": "74",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 n",
+    "new": "10",
+    "street": "Schöneggweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 o",
+    "new": "16 a",
+    "street": "Schöneggweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 p",
+    "new": "10",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 q",
+    "new": "4 u. 4 a",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 r",
+    "new": "6 u. 6 a",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 s",
+    "new": "8",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 t",
+    "new": "2 a",
+    "street": "Schönauweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "41 v I II",
+    "new": "76 u. 76 a",
+    "street": "Sandrainstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "42 a",
+    "new": "52",
+    "street": "Sandrainstrasse",
+    "hand": true,
+    "note": "handschriftlich korrigiert; gedruckt: 54"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "42 b c",
+    "new": "54 u. 52 a",
+    "street": "Sandrainstrasse",
+    "hand": true,
+    "note": "handschriftlich korrigiert; gedruckt: 52 u. 52 a"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "42 d",
+    "new": "12",
+    "street": "Dorngasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "42 e",
+    "new": "8",
+    "street": "Dorngasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "43 a",
+    "new": "99 u. 99 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "43 c",
+    "new": "97",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "43 b d",
+    "new": "95 u. 95 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "44 a",
+    "new": "37",
+    "street": "Steinhölzliweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "45 b",
+    "new": "35",
+    "street": "Steinhölzliweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "44 c",
+    "new": "33",
+    "street": "Steinhölzliweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "46 a",
+    "new": "25",
+    "street": "Steinhölzliweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "46 b",
+    "new": "23",
+    "street": "Steinhölzliweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "46 d",
+    "new": "40",
+    "street": "Morillonweg"
+   },
+   {
+    "col": 1,
+    "group": "Arziele-Drittel",
+    "old": "47 a b",
+    "new": "54 u. 54 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "48",
+    "new": "52",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "49",
+    "new": "52 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "50 a b",
+    "new": "38 u. 38 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "51",
+    "new": "36",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "52 a I II",
+    "new": "29, 29 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "52 b",
+    "new": "31",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "52 c",
+    "new": "29 b",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "52 d",
+    "new": "65",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "52 f II",
+    "new": "3",
+    "street": "Weissenbühlw."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "52 g I",
+    "new": "7",
+    "street": "Weissenbühlw."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "52 i",
+    "new": "15",
+    "street": "Weissenbühlw."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "52 k",
+    "new": "12",
+    "street": "Weissenbühlw."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 a",
+    "new": "17",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 b",
+    "new": "19",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 c I",
+    "new": "17 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 c II",
+    "new": "17 b",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 e",
+    "new": "9",
+    "street": "Landhausweg"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 f",
+    "new": "45",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 h",
+    "new": "45 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 i I II",
+    "new": "41",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 g",
+    "new": "47 u. 47 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 k",
+    "new": "8",
+    "street": "Landhausweg"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 p",
+    "new": "6",
+    "street": "Landhausweg"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 l",
+    "new": "6 a",
+    "street": "Landhausweg"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 m",
+    "new": "35",
+    "street": "Weissenbühlw."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 r",
+    "new": "35 a",
+    "street": "Weissenbühlw."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 o",
+    "new": "31 u. 31 a",
+    "street": "Weissenbühlw."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 q",
+    "new": "29",
+    "street": "Weissenbühlw."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 s",
+    "new": "43",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 u v",
+    "new": "43",
+    "street": "Weissenbühlw."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 w",
+    "new": "35",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 x",
+    "new": "49",
+    "street": "Weissenbühlw."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 y",
+    "new": "1",
+    "street": "Scheitereiweg"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "53 z",
+    "new": "35 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "54",
+    "new": "12 u. 12 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "55",
+    "new": "5",
+    "street": "Schwarzenburgstr."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "56",
+    "new": "7, 7 a u. 7 b",
+    "street": "Schwarzenburgstr."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "57",
+    "new": "23",
+    "street": "Schwarzenburgstr."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "58",
+    "new": "25",
+    "street": "Schwarzenburgstr."
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "59 a",
+    "new": "10",
+    "street": "Wabernstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "59 b",
+    "new": "8",
+    "street": "Wabernstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "60 a",
+    "new": "61",
+    "street": "Könizstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "60 b",
+    "new": "65",
+    "street": "Könizstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "60 c f g",
+    "new": "6 u. 6 a",
+    "street": "Wabernstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "60 d",
+    "new": "69",
+    "street": "Könizstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "60 e",
+    "new": "63",
+    "street": "Könizstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "61",
+    "new": "28 u. 28 a",
+    "street": "Wabernstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "62",
+    "new": "30",
+    "street": "Wabernstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "63",
+    "new": "36 u. 36 a",
+    "street": "Wabernstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "64 a",
+    "new": "12 u. 12 a",
+    "street": "Friedheimweg"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "64 b-d",
+    "new": "18, 18 a u. 18 b",
+    "street": "Friedheimweg"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "64 e",
+    "new": "69",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "64 f g",
+    "new": "75",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "64 h",
+    "new": "51",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "64 k",
+    "new": "51 a",
+    "street": "Seftigenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Aarziele-Drittel",
+    "old": "64 i",
+    "new": "9 a",
+    "street": "Landhausweg"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:55:18+01:00"
+}

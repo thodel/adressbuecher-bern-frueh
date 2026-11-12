@@ -1,0 +1,24 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 25,
+ "thinking": "high",
+ "started": "2026-11-12T08:03:31+01:00",
+ "seconds": 7.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 48,
+  "thoughts": 623
+ },
+ "response_text": "{\"page_heading\": \"Die Häuser-Nummerirung in Bern. II. Theil. Die Aussen-Quartiere.\",\n \"printed_page\": \"\",\n \"rows\": [],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Die Häuser-Nummerirung in Bern. II. Theil. Die Aussen-Quartiere.",
+  "printed_page": "",
+  "rows": [],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:03:38+01:00"
+}

@@ -1,0 +1,639 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 14,
+ "thinking": "medium",
+ "started": "2026-11-12T07:52:52+01:00",
+ "seconds": 42.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 3592,
+  "thoughts": 3200
+ },
+ "response_text": "{\"page_heading\": \"Gelbes Quartier.\",\n \"printed_page\": \"8\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Gerberngraben\", \"old\": \"140\", \"und\": false, \"new\": \"9\", \"street\": \"Münzgraben\"},\n  {\"col\": 1, \"group\": \"Gerberngraben\", \"old\": \"140\", \"und\": true, \"new\": \"30\", \"street\": \"Frickweg\"},\n  {\"col\": 1, \"group\": \"Gerberngraben\", \"old\": \"141\", \"und\": false, \"new\": \"7\", \"street\": \"Münzgraben\"},\n  {\"col\": 1, \"group\": \"Gerberngraben\", \"old\": \"141\", \"und\": true, \"new\": \"32\", \"street\": \"Frickweg\"},\n  {\"col\": 1, \"group\": \"Gerberngraben\", \"old\": \"142 a\", \"und\": false, \"new\": \"5\", \"street\": \"Münzgraben\"},\n  {\"col\": 1, \"group\": \"Gerberngraben\", \"old\": \"142 b\", \"und\": false, \"new\": \"34\", \"street\": \"Frickweg\"},\n  {\"col\": 1, \"group\": \"Gerberngraben\", \"old\": \"143\", \"und\": false, \"new\": \"3\", \"street\": \"Münzgraben\"},\n  {\"col\": 1, \"group\": \"Gerberngraben\", \"old\": \"143 b\", \"und\": false, \"new\": \"13\", \"street\": \"Theaterplatz\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"144\", \"und\": false, \"new\": \"6\", \"street\": \"Theaterplatz\"},\n  {\"col\": 1, \"group\": \"Gerbernlaube\", \"old\": \"145\", \"und\": false, \"new\": \"4\", \"street\": \"Theaterplatz\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"146\", \"und\": false, \"new\": \"4\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"147\", \"und\": false, \"new\": \"6\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"148\", \"und\": false, \"new\": \"8\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"149\", \"und\": false, \"new\": \"10\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"150\", \"und\": false, \"new\": \"12\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"151\", \"und\": false, \"new\": \"14\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"152\", \"und\": false, \"new\": \"16\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"152\", \"und\": true, \"new\": \"1\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"153\", \"und\": false, \"new\": \"18\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"153\", \"und\": true, \"new\": \"2\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 1, \"group\": \"Waisenhausplatz\", \"old\": \"156 a\", \"und\": false, \"new\": \"14\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 1, \"group\": \"Waisenhausplatz\", \"old\": \"156 b I\", \"und\": false, \"new\": \"12\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 1, \"group\": \"Waisenhausplatz\", \"old\": \"156 b I\", \"und\": true, \"new\": \"2\", \"street\": \"Predigergasse\"},\n  {\"col\": 1, \"group\": \"Waisenhausplatz\", \"old\": \"156 b II\", \"und\": false, \"new\": \"4\", \"street\": \"Predigergasse\", \"note\": \"Handschriftlicher Nachtrag darunter: «NB. Die Häuser & Dependenzen des Gerberengrabens, die N. 137 b (Silberstrecke) und N. 137 c alt gehören nunmehr in's grüne Quartier.»\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 a I\", \"und\": false, \"new\": \"27\", \"street\": \"Brunngasse\", \"hand\": true},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 c\", \"und\": false, \"new\": \"17\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 c\", \"und\": true, \"new\": \"3\", \"street\": \"Schlossergchn.\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 d\", \"und\": false, \"new\": \"15\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 e I\", \"und\": false, \"new\": \"13\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 e II\", \"und\": false, \"new\": \"9 11\", \"street\": \"Brunngasse\", \"hand\": true, \"note\": \"9 handschriftlich vor 11 ergänzt\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 f\", \"und\": false, \"new\": \"7\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 g\", \"und\": false, \"new\": \"5\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 h I\", \"und\": false, \"new\": \"3\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 k\", \"und\": false, \"new\": \"2\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"1 k\", \"und\": true, \"new\": \"19\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"2\", \"und\": false, \"new\": \"4\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"2\", \"und\": true, \"new\": \"21\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"3\", \"und\": false, \"new\": \"6\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"3\", \"und\": true, \"new\": \"23\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"156 c I\", \"und\": false, \"new\": \"6\", \"street\": \"Predigergasse\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"156 c II\", \"und\": false, \"new\": \"8\", \"street\": \"Predigergasse\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"156 d\", \"und\": false, \"new\": \"10\", \"street\": \"Predigergasse\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"156 d\", \"und\": true, \"new\": \"1\", \"street\": \"Nägeligasse\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"156 e\", \"und\": false, \"new\": \"3\", \"street\": \"Nägeligasse\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"156 f\", \"und\": false, \"new\": \"5\", \"street\": \"Nägeligasse\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"156 g\", \"und\": false, \"new\": \"13\", \"street\": \"Nägeligasse\", \"hand\": true, \"note\": \"Gedruckte Hausnummer: 17\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"156 g\", \"und\": true, \"new\": \"27\", \"street\": \"Waisenhauspl.\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"156 h\", \"und\": false, \"new\": \"7\", \"street\": \"Nägeligasse\"},\n  {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"157 a\", \"und\": false, \"new\": \"16\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"157 b\", \"und\": false, \"new\": \"18\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"157 c\", \"und\": false, \"new\": \"20\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"157 d\", \"und\": false, \"new\": \"22\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"157 e\", \"und\": false, \"new\": \"24\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"157 f\", \"und\": false, \"new\": \"26\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"157 g\", \"und\": false, \"new\": \"28\", \"street\": \"Zeughausgasse\"},\n  {\"col\": 2, \"group\": \"Zeughausgasse\", \"old\": \"157 g\", \"und\": true, \"new\": \"23\", \"street\": \"Waisenhauspl.\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"157 h\", \"und\": false, \"new\": \"25\", \"street\": \"Waisenhauspl.\"},\n  {\"col\": 2, \"group\": \"Nägeligasse\", \"old\": \"162\", \"und\": false, \"new\": \"2\", \"street\": \"Nägeligasse\"},\n  {\"col\": 2, \"group\": \"Nägeligasse\", \"old\": \"162\", \"und\": true, \"new\": \"12\", \"street\": \"Predigergasse\"},\n  {\"col\": 2, \"group\": \"Nägeligasse\", \"old\": \"163\", \"und\": false, \"new\": \"4\", \"street\": \"Nägeligasse\"},\n  {\"col\": 2, \"group\": \"Nägeligasse\", \"old\": \"165\", \"und\": false, \"new\": \"6\", \"street\": \"Nägeligasse\"},\n  {\"col\": 2, \"group\": \"Nägeligasse\", \"old\": \"165\", \"und\": true, \"new\": \"29\", \"street\": \"Waisenhauspl.\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"4/5\", \"und\": false, \"new\": \"8\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"4/5\", \"und\": true, \"new\": \"25\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"6/7\", \"und\": false, \"new\": \"10\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"6/7\", \"und\": true, \"new\": \"27\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"8\", \"und\": false, \"new\": \"12\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"8\", \"und\": true, \"new\": \"29\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"9/10\", \"und\": false, \"new\": \"14\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"9/10\", \"und\": true, \"new\": \"31\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"11\", \"und\": false, \"new\": \"16\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"11\", \"und\": true, \"new\": \"33\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"12\", \"und\": false, \"new\": \"18\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"12\", \"und\": true, \"new\": \"35\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"13\", \"und\": false, \"new\": \"20\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Brunngasse\", \"old\": \"13\", \"und\": true, \"new\": \"37\", \"street\": \"Brunngasshalde\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Gelbes Quartier.",
+  "printed_page": "8",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Gerberngraben",
+    "old": "140",
+    "und": false,
+    "new": "9",
+    "street": "Münzgraben"
+   },
+   {
+    "col": 1,
+    "group": "Gerberngraben",
+    "old": "140",
+    "und": true,
+    "new": "30",
+    "street": "Frickweg"
+   },
+   {
+    "col": 1,
+    "group": "Gerberngraben",
+    "old": "141",
+    "und": false,
+    "new": "7",
+    "street": "Münzgraben"
+   },
+   {
+    "col": 1,
+    "group": "Gerberngraben",
+    "old": "141",
+    "und": true,
+    "new": "32",
+    "street": "Frickweg"
+   },
+   {
+    "col": 1,
+    "group": "Gerberngraben",
+    "old": "142 a",
+    "und": false,
+    "new": "5",
+    "street": "Münzgraben"
+   },
+   {
+    "col": 1,
+    "group": "Gerberngraben",
+    "old": "142 b",
+    "und": false,
+    "new": "34",
+    "street": "Frickweg"
+   },
+   {
+    "col": 1,
+    "group": "Gerberngraben",
+    "old": "143",
+    "und": false,
+    "new": "3",
+    "street": "Münzgraben"
+   },
+   {
+    "col": 1,
+    "group": "Gerberngraben",
+    "old": "143 b",
+    "und": false,
+    "new": "13",
+    "street": "Theaterplatz"
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "144",
+    "und": false,
+    "new": "6",
+    "street": "Theaterplatz"
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "145",
+    "und": false,
+    "new": "4",
+    "street": "Theaterplatz"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "146",
+    "und": false,
+    "new": "4",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "147",
+    "und": false,
+    "new": "6",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "148",
+    "und": false,
+    "new": "8",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "149",
+    "und": false,
+    "new": "10",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "150",
+    "und": false,
+    "new": "12",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "151",
+    "und": false,
+    "new": "14",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "152",
+    "und": false,
+    "new": "16",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "152",
+    "und": true,
+    "new": "1",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "153",
+    "und": false,
+    "new": "18",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "153",
+    "und": true,
+    "new": "2",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausplatz",
+    "old": "156 a",
+    "und": false,
+    "new": "14",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausplatz",
+    "old": "156 b I",
+    "und": false,
+    "new": "12",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausplatz",
+    "old": "156 b I",
+    "und": true,
+    "new": "2",
+    "street": "Predigergasse"
+   },
+   {
+    "col": 1,
+    "group": "Waisenhausplatz",
+    "old": "156 b II",
+    "und": false,
+    "new": "4",
+    "street": "Predigergasse",
+    "note": "Handschriftlicher Nachtrag darunter: «NB. Die Häuser & Dependenzen des Gerberengrabens, die N. 137 b (Silberstrecke) und N. 137 c alt gehören nunmehr in's grüne Quartier.»"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 a I",
+    "und": false,
+    "new": "27",
+    "street": "Brunngasse",
+    "hand": true
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 c",
+    "und": false,
+    "new": "17",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 c",
+    "und": true,
+    "new": "3",
+    "street": "Schlossergchn."
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 d",
+    "und": false,
+    "new": "15",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 e I",
+    "und": false,
+    "new": "13",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 e II",
+    "und": false,
+    "new": "9 11",
+    "street": "Brunngasse",
+    "hand": true,
+    "note": "9 handschriftlich vor 11 ergänzt"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 f",
+    "und": false,
+    "new": "7",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 g",
+    "und": false,
+    "new": "5",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 h I",
+    "und": false,
+    "new": "3",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 k",
+    "und": false,
+    "new": "2",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "1 k",
+    "und": true,
+    "new": "19",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "2",
+    "und": false,
+    "new": "4",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "2",
+    "und": true,
+    "new": "21",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "3",
+    "und": false,
+    "new": "6",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "3",
+    "und": true,
+    "new": "23",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "156 c I",
+    "und": false,
+    "new": "6",
+    "street": "Predigergasse"
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "156 c II",
+    "und": false,
+    "new": "8",
+    "street": "Predigergasse"
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "156 d",
+    "und": false,
+    "new": "10",
+    "street": "Predigergasse"
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "156 d",
+    "und": true,
+    "new": "1",
+    "street": "Nägeligasse"
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "156 e",
+    "und": false,
+    "new": "3",
+    "street": "Nägeligasse"
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "156 f",
+    "und": false,
+    "new": "5",
+    "street": "Nägeligasse"
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "156 g",
+    "und": false,
+    "new": "13",
+    "street": "Nägeligasse",
+    "hand": true,
+    "note": "Gedruckte Hausnummer: 17"
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "156 g",
+    "und": true,
+    "new": "27",
+    "street": "Waisenhauspl."
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "156 h",
+    "und": false,
+    "new": "7",
+    "street": "Nägeligasse"
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "157 a",
+    "und": false,
+    "new": "16",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "157 b",
+    "und": false,
+    "new": "18",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "157 c",
+    "und": false,
+    "new": "20",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "157 d",
+    "und": false,
+    "new": "22",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "157 e",
+    "und": false,
+    "new": "24",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "157 f",
+    "und": false,
+    "new": "26",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "157 g",
+    "und": false,
+    "new": "28",
+    "street": "Zeughausgasse"
+   },
+   {
+    "col": 2,
+    "group": "Zeughausgasse",
+    "old": "157 g",
+    "und": true,
+    "new": "23",
+    "street": "Waisenhauspl."
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "157 h",
+    "und": false,
+    "new": "25",
+    "street": "Waisenhauspl."
+   },
+   {
+    "col": 2,
+    "group": "Nägeligasse",
+    "old": "162",
+    "und": false,
+    "new": "2",
+    "street": "Nägeligasse"
+   },
+   {
+    "col": 2,
+    "group": "Nägeligasse",
+    "old": "162",
+    "und": true,
+    "new": "12",
+    "street": "Predigergasse"
+   },
+   {
+    "col": 2,
+    "group": "Nägeligasse",
+    "old": "163",
+    "und": false,
+    "new": "4",
+    "street": "Nägeligasse"
+   },
+   {
+    "col": 2,
+    "group": "Nägeligasse",
+    "old": "165",
+    "und": false,
+    "new": "6",
+    "street": "Nägeligasse"
+   },
+   {
+    "col": 2,
+    "group": "Nägeligasse",
+    "old": "165",
+    "und": true,
+    "new": "29",
+    "street": "Waisenhauspl."
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "4/5",
+    "und": false,
+    "new": "8",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "4/5",
+    "und": true,
+    "new": "25",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "6/7",
+    "und": false,
+    "new": "10",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "6/7",
+    "und": true,
+    "new": "27",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "8",
+    "und": false,
+    "new": "12",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "8",
+    "und": true,
+    "new": "29",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "9/10",
+    "und": false,
+    "new": "14",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "9/10",
+    "und": true,
+    "new": "31",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "11",
+    "und": false,
+    "new": "16",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "11",
+    "und": true,
+    "new": "33",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "12",
+    "und": false,
+    "new": "18",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "12",
+    "und": true,
+    "new": "35",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "13",
+    "und": false,
+    "new": "20",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Brunngasse",
+    "old": "13",
+    "und": true,
+    "new": "37",
+    "street": "Brunngasshalde"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:53:34+01:00"
+}

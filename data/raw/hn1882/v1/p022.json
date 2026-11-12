@@ -1,0 +1,1065 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 22,
+ "thinking": "medium",
+ "started": "2026-11-12T07:54:00+01:00",
+ "seconds": 69.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 7851,
+  "thoughts": 3543
+ },
+ "response_text": "{\n  \"page_heading\": \"Schwarzes Quartier.\",\n  \"printed_page\": \"16\",\n  \"rows\": [\n    {\n      \"col\": 1,\n      \"group\": \"In der Enge\",\n      \"old\": \"7\",\n      \"und\": false,\n      \"new\": \"18\",\n      \"street\": \"Mattenenge\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"In der Enge\",\n      \"old\": \"7\",\n      \"und\": true,\n      \"new\": \"7\",\n      \"street\": \"Nydeckhof\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"In der Enge\",\n      \"old\": \"8\",\n      \"und\": false,\n      \"new\": \"20\",\n      \"street\": \"Mattenenge\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"In der Enge\",\n      \"old\": \"8\",\n      \"und\": true,\n      \"new\": \"5\",\n      \"street\": \"Nydeckhof\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"In der Enge\",\n      \"old\": \"9 a u. c\",\n      \"und\": false,\n      \"new\": \"22\",\n      \"street\": \"Mattenenge\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"In der Enge\",\n      \"old\": \"9 a u. c\",\n      \"und\": true,\n      \"new\": \"3\",\n      \"street\": \"Nydeckhof\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"In der Enge\",\n      \"old\": \"9 c\",\n      \"und\": false,\n      \"new\": \"1\",\n      \"street\": \"Nydeckhof\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"In der Enge\",\n      \"old\": \"9 b\",\n      \"und\": false,\n      \"new\": \"24\",\n      \"street\": \"Mattenenge\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"10\",\n      \"und\": false,\n      \"new\": \"4\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"11\",\n      \"und\": false,\n      \"new\": \"6\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"11\",\n      \"und\": true,\n      \"new\": \"6 a\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"12\",\n      \"und\": false,\n      \"new\": \"8\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"12\",\n      \"und\": true,\n      \"new\": \"8 a\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"13 a\",\n      \"und\": false,\n      \"new\": \"10\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"13 a\",\n      \"und\": true,\n      \"new\": \"10 a\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"13 b\",\n      \"und\": false,\n      \"new\": \"12\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"13 c\",\n      \"und\": false,\n      \"new\": \"12 a\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"14 a\",\n      \"und\": false,\n      \"new\": \"14\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"14 b\",\n      \"und\": false,\n      \"new\": \"14 a\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"15\",\n      \"und\": false,\n      \"new\": \"16\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"15\",\n      \"und\": true,\n      \"new\": \"16 a\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"16\",\n      \"und\": false,\n      \"new\": \"18\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"Am Rand handschriftlich: «abgebrochen»\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"17 a\",\n      \"und\": false,\n      \"new\": \"20\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"17 b\",\n      \"und\": false,\n      \"new\": \"20 a\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"18\",\n      \"und\": false,\n      \"new\": \"22\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"18 b\",\n      \"und\": false,\n      \"new\": \"7\",\n      \"street\": \"Nydecktreppe\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"18 b\",\n      \"und\": true,\n      \"new\": \"7 a\",\n      \"street\": \"Nydecktreppe\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"18 c\",\n      \"und\": false,\n      \"new\": \"5\",\n      \"street\": \"Nydecktreppe\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"18 d\",\n      \"und\": false,\n      \"new\": \"3\",\n      \"street\": \"Nydecktreppe\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"19\",\n      \"und\": false,\n      \"new\": \"24\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"20 a\",\n      \"und\": false,\n      \"new\": \"26\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Gerbernlaube\",\n      \"old\": \"20 b\",\n      \"und\": false,\n      \"new\": \"26 a\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"21 a\",\n      \"und\": false,\n      \"new\": \"30\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"21 b\",\n      \"und\": false,\n      \"new\": \"30 a\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"21 c\",\n      \"und\": false,\n      \"new\": \"30 b\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"22 a\",\n      \"und\": false,\n      \"new\": \"36\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"22 b\",\n      \"und\": false,\n      \"new\": \"29\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"22 c\",\n      \"und\": false,\n      \"new\": \"25\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"22 d\",\n      \"und\": false,\n      \"new\": \"34\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"23/24\",\n      \"und\": false,\n      \"new\": \"38\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"25\",\n      \"und\": false,\n      \"new\": \"40\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"26/27\",\n      \"und\": false,\n      \"new\": \"42\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"28\",\n      \"und\": false,\n      \"new\": \"44\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"29\",\n      \"und\": false,\n      \"new\": \"46\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"30\",\n      \"und\": false,\n      \"new\": \"48\",\n      \"street\": \"Gerbergasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"31\",\n      \"und\": false,\n      \"new\": \"2\",\n      \"street\": \"Mühlenplatz\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"32\",\n      \"und\": false,\n      \"new\": \"4\",\n      \"street\": \"Mühlenplatz\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"33/34\",\n      \"und\": false,\n      \"new\": \"6\",\n      \"street\": \"Mühlenplatz\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"35\",\n      \"und\": false,\n      \"new\": \"8\",\n      \"street\": \"Mühlenplatz\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"36\",\n      \"und\": false,\n      \"new\": \"10\",\n      \"street\": \"Mühlenplatz\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"37\",\n      \"und\": false,\n      \"new\": \"12\",\n      \"street\": \"Mühlenplatz\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"38\",\n      \"und\": false,\n      \"new\": \"14\",\n      \"street\": \"Mühlenplatz\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 1,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"39 a\",\n      \"und\": false,\n      \"new\": \"2\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"39 b\",\n      \"und\": false,\n      \"new\": \"2 a\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"39 c\",\n      \"und\": false,\n      \"new\": \"2 c\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"39 d\",\n      \"und\": false,\n      \"new\": \"2 b\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"41 g\",\n      \"und\": false,\n      \"new\": \"8\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Müllerlaube\",\n      \"old\": \"42 a\",\n      \"und\": false,\n      \"new\": \"10\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"42 c I\",\n      \"und\": false,\n      \"new\": \"16\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"42 c II\",\n      \"und\": false,\n      \"new\": \"16 a\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"42 c III\",\n      \"und\": false,\n      \"new\": \"16 b\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"42 d\",\n      \"und\": false,\n      \"new\": \"12\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"43\",\n      \"und\": false,\n      \"new\": \"18\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"44\",\n      \"und\": false,\n      \"new\": \"20\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"45\",\n      \"und\": false,\n      \"new\": \"22\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"46\",\n      \"und\": false,\n      \"new\": \"24\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"47\",\n      \"und\": false,\n      \"new\": \"26\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"48\",\n      \"und\": false,\n      \"new\": \"28\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"49\",\n      \"und\": false,\n      \"new\": \"30\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"50\",\n      \"und\": false,\n      \"new\": \"32\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"51\",\n      \"und\": false,\n      \"new\": \"34\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"51 b\",\n      \"und\": false,\n      \"new\": \"36\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"52\",\n      \"und\": false,\n      \"new\": \"38\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"52 b\",\n      \"und\": false,\n      \"new\": \"11\",\n      \"street\": \"Bubenbergsrain\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"53\",\n      \"und\": false,\n      \"new\": \"40\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"54\",\n      \"und\": false,\n      \"new\": \"42\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"55\",\n      \"und\": false,\n      \"new\": \"44\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"56 a\",\n      \"und\": false,\n      \"new\": \"46\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"56 b\",\n      \"und\": false,\n      \"new\": \"46 a\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"57 a\",\n      \"und\": false,\n      \"new\": \"48\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Schifflaube\",\n      \"old\": \"57 b d\",\n      \"und\": false,\n      \"new\": \"50 u. 50 a\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"57 c\",\n      \"und\": false,\n      \"new\": \"52\",\n      \"street\": \"Schifflaube\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"57 c\",\n      \"und\": true,\n      \"new\": \"2\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"58 a\",\n      \"und\": false,\n      \"new\": \"4\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"58 b\",\n      \"und\": false,\n      \"new\": \"4 a\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"58 c\",\n      \"und\": false,\n      \"new\": \"4 b\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"59\",\n      \"und\": false,\n      \"new\": \"6\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"59\",\n      \"und\": true,\n      \"new\": \"6 a\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"60 a\",\n      \"und\": false,\n      \"new\": \"8\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"60 b\",\n      \"und\": false,\n      \"new\": \"8 a\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"61 a\",\n      \"und\": false,\n      \"new\": \"23\",\n      \"street\": \"Bubenbergsrain\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"61 a\",\n      \"und\": true,\n      \"new\": \"23 a\",\n      \"street\": \"Bubenbergsrain\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"61 b\",\n      \"und\": false,\n      \"new\": \"21, 21 a, 21 b\",\n      \"street\": \"Bubenbergsrain\",\n      \"hand\": true,\n      \"note\": \"Gedruckt: 21; handschriftlich ergänzt: 21 a, 21 b\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"62\",\n      \"und\": false,\n      \"new\": \"19\",\n      \"street\": \"Bubenbergsrain\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"63\",\n      \"und\": false,\n      \"new\": \"17\",\n      \"street\": \"Bubenbergsrain\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"63\",\n      \"und\": true,\n      \"new\": \"17 a b\",\n      \"street\": \"Bubenbergsrain\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"64 a\",\n      \"und\": false,\n      \"new\": \"15\",\n      \"street\": \"Bubenbergsrain\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"64 b\",\n      \"und\": false,\n      \"new\": \"15 a\",\n      \"street\": \"Bubenbergsrain\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"65 a\",\n      \"und\": false,\n      \"new\": \"13, 13 a\",\n      \"street\": \"Bubenbergsrain\",\n      \"hand\": true,\n      \"note\": \"Gedruckt: 13; handschriftlich ergänzt: 13 a\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"65 b\",\n      \"und\": false,\n      \"new\": \"12\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"65 c\",\n      \"und\": false,\n      \"new\": \"14\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Bubenbergsrain\",\n      \"old\": \"65 d\",\n      \"und\": false,\n      \"new\": \"14 a\",\n      \"street\": \"Badgasse\",\n      \"hand\": false,\n      \"note\": \"\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Frick\",\n      \"old\": \"66 a\",\n      \"und\": false,\n      \"new\": \"11\",\n      \"street\": \"Fricktreppe\",\n      \"hand\": false,\n      \"note\": \"Links handschriftlich ergänzt: 66 b\"\n    },\n    {\n      \"col\": 2,\n      \"group\": \"Frick\",\n      \"old\": \"67 a\",\n      \"und\": false,\n      \"new\": \"13\",\n      \"street\": \"Fricktreppe\",\n      \"hand\": true,\n      \"note\": \"Gedruckt: 3; handschriftlich zu 13 korrigiert\"\n    }\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Schwarzes Quartier.",
+  "printed_page": "16",
+  "rows": [
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "7",
+    "und": false,
+    "new": "18",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "7",
+    "und": true,
+    "new": "7",
+    "street": "Nydeckhof",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "8",
+    "und": false,
+    "new": "20",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "8",
+    "und": true,
+    "new": "5",
+    "street": "Nydeckhof",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "9 a u. c",
+    "und": false,
+    "new": "22",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "9 a u. c",
+    "und": true,
+    "new": "3",
+    "street": "Nydeckhof",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "9 c",
+    "und": false,
+    "new": "1",
+    "street": "Nydeckhof",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "9 b",
+    "und": false,
+    "new": "24",
+    "street": "Mattenenge",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "10",
+    "und": false,
+    "new": "4",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "11",
+    "und": false,
+    "new": "6",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "11",
+    "und": true,
+    "new": "6 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "12",
+    "und": false,
+    "new": "8",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "12",
+    "und": true,
+    "new": "8 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "13 a",
+    "und": false,
+    "new": "10",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "13 a",
+    "und": true,
+    "new": "10 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "13 b",
+    "und": false,
+    "new": "12",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "13 c",
+    "und": false,
+    "new": "12 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "14 a",
+    "und": false,
+    "new": "14",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "14 b",
+    "und": false,
+    "new": "14 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "15",
+    "und": false,
+    "new": "16",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "15",
+    "und": true,
+    "new": "16 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "16",
+    "und": false,
+    "new": "18",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": "Am Rand handschriftlich: «abgebrochen»"
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "17 a",
+    "und": false,
+    "new": "20",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "17 b",
+    "und": false,
+    "new": "20 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "18",
+    "und": false,
+    "new": "22",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "18 b",
+    "und": false,
+    "new": "7",
+    "street": "Nydecktreppe",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "18 b",
+    "und": true,
+    "new": "7 a",
+    "street": "Nydecktreppe",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "18 c",
+    "und": false,
+    "new": "5",
+    "street": "Nydecktreppe",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "18 d",
+    "und": false,
+    "new": "3",
+    "street": "Nydecktreppe",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "19",
+    "und": false,
+    "new": "24",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "20 a",
+    "und": false,
+    "new": "26",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerbernlaube",
+    "old": "20 b",
+    "und": false,
+    "new": "26 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "21 a",
+    "und": false,
+    "new": "30",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "21 b",
+    "und": false,
+    "new": "30 a",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "21 c",
+    "und": false,
+    "new": "30 b",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "22 a",
+    "und": false,
+    "new": "36",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "22 b",
+    "und": false,
+    "new": "29",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "22 c",
+    "und": false,
+    "new": "25",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "22 d",
+    "und": false,
+    "new": "34",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "23/24",
+    "und": false,
+    "new": "38",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "25",
+    "und": false,
+    "new": "40",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "26/27",
+    "und": false,
+    "new": "42",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "28",
+    "und": false,
+    "new": "44",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "29",
+    "und": false,
+    "new": "46",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "30",
+    "und": false,
+    "new": "48",
+    "street": "Gerbergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "31",
+    "und": false,
+    "new": "2",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "32",
+    "und": false,
+    "new": "4",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "33/34",
+    "und": false,
+    "new": "6",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "35",
+    "und": false,
+    "new": "8",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "36",
+    "und": false,
+    "new": "10",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "37",
+    "und": false,
+    "new": "12",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "38",
+    "und": false,
+    "new": "14",
+    "street": "Mühlenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Müllerlaube",
+    "old": "39 a",
+    "und": false,
+    "new": "2",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerlaube",
+    "old": "39 b",
+    "und": false,
+    "new": "2 a",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerlaube",
+    "old": "39 c",
+    "und": false,
+    "new": "2 c",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerlaube",
+    "old": "39 d",
+    "und": false,
+    "new": "2 b",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerlaube",
+    "old": "41 g",
+    "und": false,
+    "new": "8",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Müllerlaube",
+    "old": "42 a",
+    "und": false,
+    "new": "10",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "42 c I",
+    "und": false,
+    "new": "16",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "42 c II",
+    "und": false,
+    "new": "16 a",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "42 c III",
+    "und": false,
+    "new": "16 b",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "42 d",
+    "und": false,
+    "new": "12",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "43",
+    "und": false,
+    "new": "18",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "44",
+    "und": false,
+    "new": "20",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "45",
+    "und": false,
+    "new": "22",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "46",
+    "und": false,
+    "new": "24",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "47",
+    "und": false,
+    "new": "26",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "48",
+    "und": false,
+    "new": "28",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "49",
+    "und": false,
+    "new": "30",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "50",
+    "und": false,
+    "new": "32",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "51",
+    "und": false,
+    "new": "34",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "51 b",
+    "und": false,
+    "new": "36",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "52",
+    "und": false,
+    "new": "38",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "52 b",
+    "und": false,
+    "new": "11",
+    "street": "Bubenbergsrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "53",
+    "und": false,
+    "new": "40",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "54",
+    "und": false,
+    "new": "42",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "55",
+    "und": false,
+    "new": "44",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "56 a",
+    "und": false,
+    "new": "46",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "56 b",
+    "und": false,
+    "new": "46 a",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "57 a",
+    "und": false,
+    "new": "48",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schifflaube",
+    "old": "57 b d",
+    "und": false,
+    "new": "50 u. 50 a",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "57 c",
+    "und": false,
+    "new": "52",
+    "street": "Schifflaube",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "57 c",
+    "und": true,
+    "new": "2",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "58 a",
+    "und": false,
+    "new": "4",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "58 b",
+    "und": false,
+    "new": "4 a",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "58 c",
+    "und": false,
+    "new": "4 b",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "59",
+    "und": false,
+    "new": "6",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "59",
+    "und": true,
+    "new": "6 a",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "60 a",
+    "und": false,
+    "new": "8",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "60 b",
+    "und": false,
+    "new": "8 a",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "61 a",
+    "und": false,
+    "new": "23",
+    "street": "Bubenbergsrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "61 a",
+    "und": true,
+    "new": "23 a",
+    "street": "Bubenbergsrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "61 b",
+    "und": false,
+    "new": "21, 21 a, 21 b",
+    "street": "Bubenbergsrain",
+    "hand": true,
+    "note": "Gedruckt: 21; handschriftlich ergänzt: 21 a, 21 b"
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "62",
+    "und": false,
+    "new": "19",
+    "street": "Bubenbergsrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "63",
+    "und": false,
+    "new": "17",
+    "street": "Bubenbergsrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "63",
+    "und": true,
+    "new": "17 a b",
+    "street": "Bubenbergsrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "64 a",
+    "und": false,
+    "new": "15",
+    "street": "Bubenbergsrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "64 b",
+    "und": false,
+    "new": "15 a",
+    "street": "Bubenbergsrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "65 a",
+    "und": false,
+    "new": "13, 13 a",
+    "street": "Bubenbergsrain",
+    "hand": true,
+    "note": "Gedruckt: 13; handschriftlich ergänzt: 13 a"
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "65 b",
+    "und": false,
+    "new": "12",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "65 c",
+    "und": false,
+    "new": "14",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bubenbergsrain",
+    "old": "65 d",
+    "und": false,
+    "new": "14 a",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Frick",
+    "old": "66 a",
+    "und": false,
+    "new": "11",
+    "street": "Fricktreppe",
+    "hand": false,
+    "note": "Links handschriftlich ergänzt: 66 b"
+   },
+   {
+    "col": 2,
+    "group": "Frick",
+    "old": "67 a",
+    "und": false,
+    "new": "13",
+    "street": "Fricktreppe",
+    "hand": true,
+    "note": "Gedruckt: 3; handschriftlich zu 13 korrigiert"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:55:09+01:00"
+}

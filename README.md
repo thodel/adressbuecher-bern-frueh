@@ -30,6 +30,9 @@ make site RUN=full-v1   # CSV (data/csv/) und Daten für site/
 #   scripts/03_csv.py --run full-v1 --second full-v2 && python3 scripts/90_site.py
 # Karte: Orte bei swisstopo nachschlagen (config/places.csv), dann Seite neu bauen
 #   python3 tools/geocode_places.py && python3 scripts/90_site.py
+# Häuser in der Stadt: Heft von 1882 lesen, verorten, Einträge zuordnen
+#   tools/hn1882_gemini.py --run v1 && tools/hn1882_gemini.py --run v2 --thinking high
+#   python3 tools/hn1882_table.py && python3 tools/hn1882_geocode.py && python3 tools/hn1882_match.py
 make serve         # Vorschau
 ```
 

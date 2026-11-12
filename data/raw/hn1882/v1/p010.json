@@ -1,0 +1,1015 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 10,
+ "thinking": "medium",
+ "started": "2026-11-12T07:52:51+01:00",
+ "seconds": 33.2,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 5676,
+  "thoughts": null
+ },
+ "response_text": "{\"page_heading\": \"Rothes Quartier.\",\n \"printed_page\": \"4\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Hirschengraben\", \"old\": \"189 a\", \"und\": false, \"new\": \"9\", \"street\": \"Hirschengraben\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Hirschengraben\", \"old\": \"189 b\", \"und\": false, \"new\": \"7\", \"street\": \"Hirschengraben\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Hirschengraben\", \"old\": \"189 c\", \"und\": false, \"new\": \"5\", \"street\": \"Hirschengraben\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Hirschengraben\", \"old\": \"189 d\", \"und\": false, \"new\": \"3\", \"street\": \"Hirschengraben\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schwanengasse\", \"old\": \"190 a\", \"und\": false, \"new\": \"10\", \"street\": \"Schwanengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schwanengasse\", \"old\": \"190 a\", \"und\": true, \"new\": \"2\", \"street\": \"Wallgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schwanengasse\", \"old\": \"190 b\", \"und\": false, \"new\": \"8\", \"street\": \"Schwanengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schwanengasse\", \"old\": \"190 c\", \"und\": false, \"new\": \"6\", \"street\": \"Schwanengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schwanengasse\", \"old\": \"190 d\", \"und\": false, \"new\": \"4\", \"street\": \"Schwanengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schwanengasse\", \"old\": \"190 e\", \"und\": false, \"new\": \"2\", \"street\": \"Schwanengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schwanengasse\", \"old\": \"190 e\", \"und\": true, \"new\": \"13\", \"street\": \"Christoffelplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"191\", \"und\": false, \"new\": \"34\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"192\", \"und\": false, \"new\": \"32\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"193\", \"und\": false, \"new\": \"32 a\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"194\", \"und\": false, \"new\": \"30\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"195\", \"und\": false, \"new\": \"28\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"196\", \"und\": false, \"new\": \"26\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"197\", \"und\": false, \"new\": \"22\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"198\", \"und\": false, \"new\": \"20\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"198\", \"und\": true, \"new\": \"4\", \"street\": \"Storchengchn.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"199 a & b\", \"und\": false, \"new\": \"18\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"199 a & b\", \"und\": true, \"new\": \"6 u. 6 a\", \"street\": \"Storchengchn.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"200 a\", \"und\": false, \"new\": \"16\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"200 a\", \"und\": true, \"new\": \"7\", \"street\": \"Storchengchn.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"200 b\", \"und\": false, \"new\": \"14\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"200 c\", \"und\": false, \"new\": \"6\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"200 d\", \"und\": false, \"new\": \"4\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"206\", \"und\": false, \"new\": \"3\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"207\", \"und\": false, \"new\": \"5\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"208\", \"und\": false, \"new\": \"7\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"209 a/b\", \"und\": false, \"new\": \"9\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"210\", \"und\": false, \"new\": \"11\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"211 a\", \"und\": false, \"new\": \"13\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"211 b\", \"und\": false, \"new\": \"13 a\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"212 a\", \"und\": false, \"new\": \"15\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"212 b\", \"und\": false, \"new\": \"15 a\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"213 a\", \"und\": false, \"new\": \"17\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"213 b\", \"und\": false, \"new\": \"17 a\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"214 a\", \"und\": false, \"new\": \"19\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"214 b\", \"und\": false, \"new\": \"19 a\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"215\", \"und\": false, \"new\": \"21\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"216 a\", \"und\": false, \"new\": \"23\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"216 b\", \"und\": false, \"new\": \"23 a\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"217 a\", \"und\": false, \"new\": \"25\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"217 b\", \"und\": false, \"new\": \"25 a\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"217 c\", \"und\": false, \"new\": \"25 b\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"218\", \"und\": false, \"new\": \"27\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"219 a\", \"und\": false, \"new\": \"29\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"219 b\", \"und\": false, \"new\": \"29 a\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"220\", \"und\": false, \"new\": \"31\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"221\", \"und\": false, \"new\": \"33\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Schauplatzgasse\", \"old\": \"221\", \"und\": true, \"new\": \"1\", \"street\": \"Gurtengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gurtengasse\", \"old\": \"222 a\", \"und\": false, \"new\": \"3\", \"street\": \"Gurtengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gurtengasse\", \"old\": \"222 b\", \"und\": false, \"new\": \"4 a\", \"street\": \"Gurtengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gurtengasse\", \"old\": \"222 b\", \"und\": false, \"new\": \"3 a\", \"street\": \"Gurtengasse\", \"hand\": true, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"223\", \"und\": false, \"new\": \"14\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"224 a\", \"und\": false, \"new\": \"12\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"224 b\", \"und\": false, \"new\": \"12 a\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"225\", \"und\": false, \"new\": \"10\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"226\", \"und\": false, \"new\": \"8\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"227\", \"und\": false, \"new\": \"6\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"228\", \"und\": false, \"new\": \"4\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"229\", \"und\": false, \"new\": \"1\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"229\", \"und\": false, \"new\": \"1 a\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"229\", \"und\": true, \"new\": \"1 b\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"230\", \"und\": false, \"new\": \"3\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gurtengasse\", \"old\": \"231\", \"und\": false, \"new\": \"6\", \"street\": \"Gurtengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gurtengasse\", \"old\": \"232\", \"und\": false, \"new\": \"4\", \"street\": \"Gurtengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schauplatzgasse\", \"old\": \"233\", \"und\": false, \"new\": \"35\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schauplatzgasse\", \"old\": \"233\", \"und\": true, \"new\": \"2\", \"street\": \"Gurtengasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schauplatzgasse\", \"old\": \"234\", \"und\": false, \"new\": \"37\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schauplatzgasse\", \"old\": \"235\", \"und\": false, \"new\": \"39\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Schauplatzgasse\", \"old\": \"235\", \"und\": true, \"new\": \"1\", \"street\": \"Christoffelgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"235 b\", \"und\": false, \"new\": \"3\", \"street\": \"Christoffelgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"235 c\", \"und\": false, \"new\": \"5\", \"street\": \"Christoffelgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"235 d\", \"und\": false, \"new\": \"7\", \"street\": \"Christoffelgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"236 a\", \"und\": false, \"new\": \"20\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"236 a\", \"und\": true, \"new\": \"9\", \"street\": \"Christoffelgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"236 b\", \"und\": false, \"new\": \"18\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"236 c\", \"und\": false, \"new\": \"16\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bärenplatz\", \"old\": \"240\", \"und\": false, \"new\": \"8\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bärenplatz\", \"old\": \"240\", \"und\": true, \"new\": \"1\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bärenplatz\", \"old\": \"240\", \"und\": true, \"new\": \"2\", \"street\": \"Bundesgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bärenplatz\", \"old\": \"241\", \"und\": false, \"new\": \"6\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bärenplatz\", \"old\": \"241\", \"und\": true, \"new\": \"2\", \"street\": \"Schauplatzgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bärenplatz\", \"old\": \"242\", \"und\": false, \"new\": \"4\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"243\", \"und\": false, \"new\": \"2\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"243\", \"und\": true, \"new\": \"2\", \"street\": \"Spitalgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"244\", \"und\": false, \"new\": \"4\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"245\", \"und\": false, \"new\": \"6\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"246\", \"und\": false, \"new\": \"12\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"247\", \"und\": false, \"new\": \"14\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"248\", \"und\": false, \"new\": \"16\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"249 a/b\", \"und\": false, \"new\": \"18\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"250\", \"und\": false, \"new\": \"20\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"251/252\", \"und\": false, \"new\": \"22\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"253\", \"und\": false, \"new\": \"24\", \"street\": \"Waisenhauspl.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"253\", \"und\": true, \"new\": \"1\", \"street\": \"Aarbergergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Waisenhausplatz\", \"old\": \"254\", \"und\": false, \"new\": \"110 bis 110 e\", \"street\": \"Langmauerweg\", \"hand\": false, \"note\": \"NB. Letztere Besitzung gehört nunmehr in's gelbe Quartier\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Rothes Quartier.",
+  "printed_page": "4",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Hirschengraben",
+    "old": "189 a",
+    "und": false,
+    "new": "9",
+    "street": "Hirschengraben",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Hirschengraben",
+    "old": "189 b",
+    "und": false,
+    "new": "7",
+    "street": "Hirschengraben",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Hirschengraben",
+    "old": "189 c",
+    "und": false,
+    "new": "5",
+    "street": "Hirschengraben",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Hirschengraben",
+    "old": "189 d",
+    "und": false,
+    "new": "3",
+    "street": "Hirschengraben",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schwanengasse",
+    "old": "190 a",
+    "und": false,
+    "new": "10",
+    "street": "Schwanengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schwanengasse",
+    "old": "190 a",
+    "und": true,
+    "new": "2",
+    "street": "Wallgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schwanengasse",
+    "old": "190 b",
+    "und": false,
+    "new": "8",
+    "street": "Schwanengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schwanengasse",
+    "old": "190 c",
+    "und": false,
+    "new": "6",
+    "street": "Schwanengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schwanengasse",
+    "old": "190 d",
+    "und": false,
+    "new": "4",
+    "street": "Schwanengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schwanengasse",
+    "old": "190 e",
+    "und": false,
+    "new": "2",
+    "street": "Schwanengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schwanengasse",
+    "old": "190 e",
+    "und": true,
+    "new": "13",
+    "street": "Christoffelplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "191",
+    "und": false,
+    "new": "34",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "192",
+    "und": false,
+    "new": "32",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "193",
+    "und": false,
+    "new": "32 a",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "194",
+    "und": false,
+    "new": "30",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "195",
+    "und": false,
+    "new": "28",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "196",
+    "und": false,
+    "new": "26",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "197",
+    "und": false,
+    "new": "22",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "198",
+    "und": false,
+    "new": "20",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "198",
+    "und": true,
+    "new": "4",
+    "street": "Storchengchn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "199 a & b",
+    "und": false,
+    "new": "18",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "199 a & b",
+    "und": true,
+    "new": "6 u. 6 a",
+    "street": "Storchengchn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "200 a",
+    "und": false,
+    "new": "16",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "200 a",
+    "und": true,
+    "new": "7",
+    "street": "Storchengchn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "200 b",
+    "und": false,
+    "new": "14",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "200 c",
+    "und": false,
+    "new": "6",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "200 d",
+    "und": false,
+    "new": "4",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "206",
+    "und": false,
+    "new": "3",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "207",
+    "und": false,
+    "new": "5",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "208",
+    "und": false,
+    "new": "7",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "209 a/b",
+    "und": false,
+    "new": "9",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "210",
+    "und": false,
+    "new": "11",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "211 a",
+    "und": false,
+    "new": "13",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "211 b",
+    "und": false,
+    "new": "13 a",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "212 a",
+    "und": false,
+    "new": "15",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "212 b",
+    "und": false,
+    "new": "15 a",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "213 a",
+    "und": false,
+    "new": "17",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "213 b",
+    "und": false,
+    "new": "17 a",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "214 a",
+    "und": false,
+    "new": "19",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "214 b",
+    "und": false,
+    "new": "19 a",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "215",
+    "und": false,
+    "new": "21",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "216 a",
+    "und": false,
+    "new": "23",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "216 b",
+    "und": false,
+    "new": "23 a",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "217 a",
+    "und": false,
+    "new": "25",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "217 b",
+    "und": false,
+    "new": "25 a",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "217 c",
+    "und": false,
+    "new": "25 b",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "218",
+    "und": false,
+    "new": "27",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "219 a",
+    "und": false,
+    "new": "29",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "219 b",
+    "und": false,
+    "new": "29 a",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "220",
+    "und": false,
+    "new": "31",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "221",
+    "und": false,
+    "new": "33",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Schauplatzgasse",
+    "old": "221",
+    "und": true,
+    "new": "1",
+    "street": "Gurtengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gurtengasse",
+    "old": "222 a",
+    "und": false,
+    "new": "3",
+    "street": "Gurtengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gurtengasse",
+    "old": "222 b",
+    "und": false,
+    "new": "4 a",
+    "street": "Gurtengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gurtengasse",
+    "old": "222 b",
+    "und": false,
+    "new": "3 a",
+    "street": "Gurtengasse",
+    "hand": true,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "223",
+    "und": false,
+    "new": "14",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "224 a",
+    "und": false,
+    "new": "12",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "224 b",
+    "und": false,
+    "new": "12 a",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "225",
+    "und": false,
+    "new": "10",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "226",
+    "und": false,
+    "new": "8",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "227",
+    "und": false,
+    "new": "6",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "228",
+    "und": false,
+    "new": "4",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "229",
+    "und": false,
+    "new": "1",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "229",
+    "und": false,
+    "new": "1 a",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "229",
+    "und": true,
+    "new": "1 b",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "230",
+    "und": false,
+    "new": "3",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gurtengasse",
+    "old": "231",
+    "und": false,
+    "new": "6",
+    "street": "Gurtengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gurtengasse",
+    "old": "232",
+    "und": false,
+    "new": "4",
+    "street": "Gurtengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schauplatzgasse",
+    "old": "233",
+    "und": false,
+    "new": "35",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schauplatzgasse",
+    "old": "233",
+    "und": true,
+    "new": "2",
+    "street": "Gurtengasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schauplatzgasse",
+    "old": "234",
+    "und": false,
+    "new": "37",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schauplatzgasse",
+    "old": "235",
+    "und": false,
+    "new": "39",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Schauplatzgasse",
+    "old": "235",
+    "und": true,
+    "new": "1",
+    "street": "Christoffelgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "235 b",
+    "und": false,
+    "new": "3",
+    "street": "Christoffelgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "235 c",
+    "und": false,
+    "new": "5",
+    "street": "Christoffelgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "235 d",
+    "und": false,
+    "new": "7",
+    "street": "Christoffelgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "236 a",
+    "und": false,
+    "new": "20",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "236 a",
+    "und": true,
+    "new": "9",
+    "street": "Christoffelgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "236 b",
+    "und": false,
+    "new": "18",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "236 c",
+    "und": false,
+    "new": "16",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bärenplatz",
+    "old": "240",
+    "und": false,
+    "new": "8",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bärenplatz",
+    "old": "240",
+    "und": true,
+    "new": "1",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bärenplatz",
+    "old": "240",
+    "und": true,
+    "new": "2",
+    "street": "Bundesgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bärenplatz",
+    "old": "241",
+    "und": false,
+    "new": "6",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bärenplatz",
+    "old": "241",
+    "und": true,
+    "new": "2",
+    "street": "Schauplatzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bärenplatz",
+    "old": "242",
+    "und": false,
+    "new": "4",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "243",
+    "und": false,
+    "new": "2",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "243",
+    "und": true,
+    "new": "2",
+    "street": "Spitalgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "244",
+    "und": false,
+    "new": "4",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "245",
+    "und": false,
+    "new": "6",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "246",
+    "und": false,
+    "new": "12",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "247",
+    "und": false,
+    "new": "14",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "248",
+    "und": false,
+    "new": "16",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "249 a/b",
+    "und": false,
+    "new": "18",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "250",
+    "und": false,
+    "new": "20",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "251/252",
+    "und": false,
+    "new": "22",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "253",
+    "und": false,
+    "new": "24",
+    "street": "Waisenhauspl.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "253",
+    "und": true,
+    "new": "1",
+    "street": "Aarbergergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Waisenhausplatz",
+    "old": "254",
+    "und": false,
+    "new": "110 bis 110 e",
+    "street": "Langmauerweg",
+    "hand": false,
+    "note": "NB. Letztere Besitzung gehört nunmehr in's gelbe Quartier"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:53:24+01:00"
+}

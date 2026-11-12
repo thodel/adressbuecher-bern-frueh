@@ -1,0 +1,1145 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 36,
+ "thinking": "high",
+ "started": "2026-11-12T08:08:03+01:00",
+ "seconds": 455.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 6962,
+  "thoughts": 57904
+ },
+ "response_text": "{\"page_heading\": \"Stadtbezirk obenaus.\",\n \"printed_page\": \"10\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"235 a I\", \"und\": false, \"new\": \"13\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"235 a II\", \"und\": false, \"new\": \"15\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"235 b\", \"und\": false, \"new\": \"19\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"235 c, c I\", \"und\": false, \"new\": \"17, 17 a\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"235 d\", \"und\": false, \"new\": \"13 a\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"235 e, h, i, n\", \"und\": false, \"new\": \"39, 39 a-d\", \"street\": \"Neufeldstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"225 f g\", \"und\": false, \"new\": \"51, 51 a\", \"street\": \"Neufeldstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"235 k\", \"und\": false, \"new\": \"31, 31 a\", \"street\": \"Neufeldstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"235 l\", \"und\": false, \"new\": \"29\", \"street\": \"Neufeldstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"235 m\", \"und\": false, \"new\": \"29 b\", \"street\": \"Neufeldstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"235 o\", \"und\": false, \"new\": \"45, 45 a\", \"street\": \"Neufeldstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"225 p\", \"und\": false, \"new\": \"29 a\", \"street\": \"Neufeldstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"236 a\", \"und\": false, \"new\": \"2\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"236 b\", \"und\": false, \"new\": \"61\", \"street\": \"Engestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"236 c\", \"und\": false, \"new\": \"57\", \"street\": \"Engestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"237 a\", \"und\": false, \"new\": \"16\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"237 b\", \"und\": false, \"new\": \"12\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"237 c\", \"und\": false, \"new\": \"14\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"238 a\", \"und\": false, \"new\": \"31\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"238 b\", \"und\": false, \"new\": \"63\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"239 a\", \"und\": false, \"new\": \"33\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"239 c\", \"und\": false, \"new\": \"33 a\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"240\", \"und\": false, \"new\": \"32\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"241 a b\", \"und\": false, \"new\": \"30, 30 a\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"242 a b\", \"und\": false, \"new\": \"91, 91 a\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"243 a\", \"und\": false, \"new\": \"95\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"243 b\", \"und\": false, \"new\": \"95 a\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"243 c-f\", \"und\": false, \"new\": \"93, 93 a u. b\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"244\", \"und\": false, \"new\": \"99\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"245\", \"und\": false, \"new\": \"97\", \"street\": \"Neubrückstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"246 a u. b\", \"und\": false, \"new\": \"35, 35 a u. b\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"247 a u. b\", \"und\": false, \"new\": \"32, 32 a\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"248\", \"und\": false, \"new\": \"28\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"249 a\", \"und\": false, \"new\": \"94\", \"street\": \"Tiefenaustrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"250\", \"und\": false, \"new\": \"19\", \"street\": \"Thormannmätteliw.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"251 a b\", \"und\": false, \"new\": \"21, 21 a\", \"street\": \"Thormannmätteliw.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"251 c\", \"und\": false, \"new\": \"25\", \"street\": \"Thormannmätteliw.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"251 d\", \"und\": false, \"new\": \"19 a\", \"street\": \"Thormannmätteliw.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"252 a\", \"und\": false, \"new\": \"7\", \"street\": \"Schärlochweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"252 b\", \"und\": false, \"new\": \"5\", \"street\": \"Schärlochweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"252 c\", \"und\": false, \"new\": \"3\", \"street\": \"Schärlochweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"252 d\", \"und\": false, \"new\": \"91\", \"street\": \"Tiefenaustrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"252 e\", \"und\": false, \"new\": \"5 a u. 7 a\", \"street\": \"Schärlochweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"254 a\", \"und\": false, \"new\": \"71\", \"street\": \"Tiefenaustrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"254 b\", \"und\": false, \"new\": \"73\", \"street\": \"Tiefenaustrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"254 c\", \"und\": false, \"new\": \"73 a\", \"street\": \"Tiefenaustrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"255 a\", \"und\": false, \"new\": \"75\", \"street\": \"Tiefenaustrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"255 b\", \"und\": false, \"new\": \"75 a-e\", \"street\": \"Tiefenaustrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"256 a\", \"und\": false, \"new\": \"11\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"256 b c\", \"und\": false, \"new\": \"7 u. 7 a\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"256 d\", \"und\": false, \"new\": \"9\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"256 e f\", \"und\": false, \"new\": \"15 u. 15 a und\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"256 e f\", \"und\": true, \"new\": \"17 u. 17 a\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"257 a\", \"und\": false, \"new\": \"14\", \"street\": \"Fährweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"257 b\", \"und\": false, \"new\": \"12\", \"street\": \"Fährweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"258 a-c\", \"und\": false, \"new\": \"11, 13 u. 13 a\", \"street\": \"Fährweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"259 a\", \"und\": false, \"new\": \"33 u. 33 a\", \"street\": \"Fährweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"259 b\", \"und\": false, \"new\": \"35\", \"street\": \"Fährweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"259 d\", \"und\": false, \"new\": \"2, 2 a u. 2 b\", \"street\": \"Fährweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"259 e\", \"und\": false, \"new\": \"\", \"street\": \"\", \"hand\": false, \"note\": \"siehe 338 b\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"259 h\", \"und\": false, \"new\": \"\", \"street\": \"\", \"hand\": false, \"note\": \"siehe 324\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"259 i\", \"und\": false, \"new\": \"\", \"street\": \"\", \"hand\": false, \"note\": \"siehe 325\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"260 a b c\", \"und\": false, \"new\": \"8, 8 a, b\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"261 a\", \"und\": false, \"new\": \"4 u. 4 a, b\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"261 c\", \"und\": false, \"new\": \"1\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"261 b\", \"und\": false, \"new\": \"6\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"261 d\", \"und\": false, \"new\": \"130\", \"street\": \"Engestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"261 e\", \"und\": false, \"new\": \"3\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"261 f\", \"und\": false, \"new\": \"4 c\", \"street\": \"Reichenbachstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"261 f I\", \"und\": false, \"new\": \"94\", \"street\": \"Bremgartenstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"261 g\", \"und\": false, \"new\": \"96\", \"street\": \"Bremgartenstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"262 a\", \"und\": false, \"new\": \"84\", \"street\": \"Engestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"262 b\", \"und\": false, \"new\": \"83\", \"street\": \"Engestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"262 c\", \"und\": false, \"new\": \"39\", \"street\": \"Tiefenaustrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"262 d\", \"und\": false, \"new\": \"83 a\", \"street\": \"Engestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"263\", \"und\": false, \"new\": \"77\", \"street\": \"Engestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"264 a b\", \"und\": false, \"new\": \"71 u. 71 a b\", \"street\": \"Engestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"265\", \"und\": false, \"new\": \"7 u. 7 a b\", \"street\": \"Bierhübelistrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"266 a\", \"und\": false, \"new\": \"3\", \"street\": \"Bierhübelistrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"266 a\", \"und\": true, \"new\": \"und 22\", \"street\": \"Alpeneckstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"266 b\", \"und\": false, \"new\": \"22 a b\", \"street\": \"Alpeneckstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"267\", \"und\": false, \"new\": \"1 u. 1 a\", \"street\": \"Bierhübelistrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 a c\", \"und\": false, \"new\": \"22 u. 22 a\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 b\", \"und\": false, \"new\": \"\", \"street\": \"\", \"hand\": false, \"note\": \"abgebrochen\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 d\", \"und\": false, \"new\": \"48\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 e\", \"und\": false, \"new\": \"51\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 f\", \"und\": false, \"new\": \"49\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 g\", \"und\": false, \"new\": \"47\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 h\", \"und\": false, \"new\": \"46\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 i\", \"und\": false, \"new\": \"41\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 k\", \"und\": false, \"new\": \"39\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 l m\", \"und\": false, \"new\": \"35 u. 35 a\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 n o p\", \"und\": false, \"new\": \"34, 36, 38\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 q\", \"und\": false, \"new\": \"37\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"268 r\", \"und\": false, \"new\": \"15\", \"street\": \"Tiefenaustrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"269 b\", \"und\": false, \"new\": \"16\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"269 c\", \"und\": false, \"new\": \"18\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"270 a\", \"und\": false, \"new\": \"4\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"271 a\", \"und\": false, \"new\": \"6 a\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"271 b\", \"und\": false, \"new\": \"6\", \"street\": \"Schlachthausweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"270 b, c\", \"und\": false, \"new\": \"12, 12 a\", \"street\": \"Schützenmattstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"272 a b\", \"und\": false, \"new\": \"18, 18 a\", \"street\": \"Alpeneckstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"272 c\", \"und\": false, \"new\": \"18\", \"street\": \"Kanonenweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"272 d\", \"und\": false, \"new\": \"16\", \"street\": \"Kanonenweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"272 e\", \"und\": false, \"new\": \"14\", \"street\": \"Kanonenweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"272 f\", \"und\": false, \"new\": \"12\", \"street\": \"Kanonenweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"272 g\", \"und\": false, \"new\": \"23\", \"street\": \"Schanzenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"272 p\", \"und\": false, \"new\": \"5\", \"street\": \"Sternwartenstr.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"272 s\", \"und\": false, \"new\": \"22\", \"street\": \"Schanzenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"272 t\", \"und\": false, \"new\": \"19\", \"street\": \"Schanzenstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"273 a\", \"und\": false, \"new\": \"17\", \"street\": \"Engestrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"273 b (273 g)\", \"und\": false, \"new\": \"19\", \"street\": \"Engestrasse\", \"hand\": false, \"note\": \"\"}\n ],\n \"complete\": true}",
+ "problems": [],
+ "ok": true,
+ "parsed": {
+  "page_heading": "Stadtbezirk obenaus.",
+  "printed_page": "10",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "235 a I",
+    "und": false,
+    "new": "13",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "235 a II",
+    "und": false,
+    "new": "15",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "235 b",
+    "und": false,
+    "new": "19",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "235 c, c I",
+    "und": false,
+    "new": "17, 17 a",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "235 d",
+    "und": false,
+    "new": "13 a",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "235 e, h, i, n",
+    "und": false,
+    "new": "39, 39 a-d",
+    "street": "Neufeldstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "225 f g",
+    "und": false,
+    "new": "51, 51 a",
+    "street": "Neufeldstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "235 k",
+    "und": false,
+    "new": "31, 31 a",
+    "street": "Neufeldstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "235 l",
+    "und": false,
+    "new": "29",
+    "street": "Neufeldstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "235 m",
+    "und": false,
+    "new": "29 b",
+    "street": "Neufeldstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "235 o",
+    "und": false,
+    "new": "45, 45 a",
+    "street": "Neufeldstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "225 p",
+    "und": false,
+    "new": "29 a",
+    "street": "Neufeldstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "236 a",
+    "und": false,
+    "new": "2",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "236 b",
+    "und": false,
+    "new": "61",
+    "street": "Engestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "236 c",
+    "und": false,
+    "new": "57",
+    "street": "Engestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "237 a",
+    "und": false,
+    "new": "16",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "237 b",
+    "und": false,
+    "new": "12",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "237 c",
+    "und": false,
+    "new": "14",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "238 a",
+    "und": false,
+    "new": "31",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "238 b",
+    "und": false,
+    "new": "63",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "239 a",
+    "und": false,
+    "new": "33",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "239 c",
+    "und": false,
+    "new": "33 a",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "240",
+    "und": false,
+    "new": "32",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "241 a b",
+    "und": false,
+    "new": "30, 30 a",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "242 a b",
+    "und": false,
+    "new": "91, 91 a",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "243 a",
+    "und": false,
+    "new": "95",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "243 b",
+    "und": false,
+    "new": "95 a",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "243 c-f",
+    "und": false,
+    "new": "93, 93 a u. b",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "244",
+    "und": false,
+    "new": "99",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "245",
+    "und": false,
+    "new": "97",
+    "street": "Neubrückstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "246 a u. b",
+    "und": false,
+    "new": "35, 35 a u. b",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "247 a u. b",
+    "und": false,
+    "new": "32, 32 a",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "248",
+    "und": false,
+    "new": "28",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "249 a",
+    "und": false,
+    "new": "94",
+    "street": "Tiefenaustrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "250",
+    "und": false,
+    "new": "19",
+    "street": "Thormannmätteliw.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "251 a b",
+    "und": false,
+    "new": "21, 21 a",
+    "street": "Thormannmätteliw.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "251 c",
+    "und": false,
+    "new": "25",
+    "street": "Thormannmätteliw.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "251 d",
+    "und": false,
+    "new": "19 a",
+    "street": "Thormannmätteliw.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "252 a",
+    "und": false,
+    "new": "7",
+    "street": "Schärlochweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "252 b",
+    "und": false,
+    "new": "5",
+    "street": "Schärlochweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "252 c",
+    "und": false,
+    "new": "3",
+    "street": "Schärlochweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "252 d",
+    "und": false,
+    "new": "91",
+    "street": "Tiefenaustrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "252 e",
+    "und": false,
+    "new": "5 a u. 7 a",
+    "street": "Schärlochweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "254 a",
+    "und": false,
+    "new": "71",
+    "street": "Tiefenaustrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "254 b",
+    "und": false,
+    "new": "73",
+    "street": "Tiefenaustrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "254 c",
+    "und": false,
+    "new": "73 a",
+    "street": "Tiefenaustrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "255 a",
+    "und": false,
+    "new": "75",
+    "street": "Tiefenaustrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "255 b",
+    "und": false,
+    "new": "75 a-e",
+    "street": "Tiefenaustrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "256 a",
+    "und": false,
+    "new": "11",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "256 b c",
+    "und": false,
+    "new": "7 u. 7 a",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "256 d",
+    "und": false,
+    "new": "9",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "256 e f",
+    "und": false,
+    "new": "15 u. 15 a und",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "256 e f",
+    "und": true,
+    "new": "17 u. 17 a",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "257 a",
+    "und": false,
+    "new": "14",
+    "street": "Fährweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "257 b",
+    "und": false,
+    "new": "12",
+    "street": "Fährweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "258 a-c",
+    "und": false,
+    "new": "11, 13 u. 13 a",
+    "street": "Fährweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "259 a",
+    "und": false,
+    "new": "33 u. 33 a",
+    "street": "Fährweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "259 b",
+    "und": false,
+    "new": "35",
+    "street": "Fährweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "259 d",
+    "und": false,
+    "new": "2, 2 a u. 2 b",
+    "street": "Fährweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "259 e",
+    "und": false,
+    "new": "",
+    "street": "",
+    "hand": false,
+    "note": "siehe 338 b"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "259 h",
+    "und": false,
+    "new": "",
+    "street": "",
+    "hand": false,
+    "note": "siehe 324"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "259 i",
+    "und": false,
+    "new": "",
+    "street": "",
+    "hand": false,
+    "note": "siehe 325"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "260 a b c",
+    "und": false,
+    "new": "8, 8 a, b",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "261 a",
+    "und": false,
+    "new": "4 u. 4 a, b",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "261 c",
+    "und": false,
+    "new": "1",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "261 b",
+    "und": false,
+    "new": "6",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "261 d",
+    "und": false,
+    "new": "130",
+    "street": "Engestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "261 e",
+    "und": false,
+    "new": "3",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "261 f",
+    "und": false,
+    "new": "4 c",
+    "street": "Reichenbachstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "261 f I",
+    "und": false,
+    "new": "94",
+    "street": "Bremgartenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "261 g",
+    "und": false,
+    "new": "96",
+    "street": "Bremgartenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "262 a",
+    "und": false,
+    "new": "84",
+    "street": "Engestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "262 b",
+    "und": false,
+    "new": "83",
+    "street": "Engestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "262 c",
+    "und": false,
+    "new": "39",
+    "street": "Tiefenaustrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "262 d",
+    "und": false,
+    "new": "83 a",
+    "street": "Engestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "263",
+    "und": false,
+    "new": "77",
+    "street": "Engestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "264 a b",
+    "und": false,
+    "new": "71 u. 71 a b",
+    "street": "Engestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "265",
+    "und": false,
+    "new": "7 u. 7 a b",
+    "street": "Bierhübelistrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "266 a",
+    "und": false,
+    "new": "3",
+    "street": "Bierhübelistrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "266 a",
+    "und": true,
+    "new": "und 22",
+    "street": "Alpeneckstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "266 b",
+    "und": false,
+    "new": "22 a b",
+    "street": "Alpeneckstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "267",
+    "und": false,
+    "new": "1 u. 1 a",
+    "street": "Bierhübelistrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 a c",
+    "und": false,
+    "new": "22 u. 22 a",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 b",
+    "und": false,
+    "new": "",
+    "street": "",
+    "hand": false,
+    "note": "abgebrochen"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 d",
+    "und": false,
+    "new": "48",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 e",
+    "und": false,
+    "new": "51",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 f",
+    "und": false,
+    "new": "49",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 g",
+    "und": false,
+    "new": "47",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 h",
+    "und": false,
+    "new": "46",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 i",
+    "und": false,
+    "new": "41",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 k",
+    "und": false,
+    "new": "39",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 l m",
+    "und": false,
+    "new": "35 u. 35 a",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 n o p",
+    "und": false,
+    "new": "34, 36, 38",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 q",
+    "und": false,
+    "new": "37",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "268 r",
+    "und": false,
+    "new": "15",
+    "street": "Tiefenaustrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "269 b",
+    "und": false,
+    "new": "16",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "269 c",
+    "und": false,
+    "new": "18",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "270 a",
+    "und": false,
+    "new": "4",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "271 a",
+    "und": false,
+    "new": "6 a",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "271 b",
+    "und": false,
+    "new": "6",
+    "street": "Schlachthausweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "270 b, c",
+    "und": false,
+    "new": "12, 12 a",
+    "street": "Schützenmattstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "272 a b",
+    "und": false,
+    "new": "18, 18 a",
+    "street": "Alpeneckstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "272 c",
+    "und": false,
+    "new": "18",
+    "street": "Kanonenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "272 d",
+    "und": false,
+    "new": "16",
+    "street": "Kanonenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "272 e",
+    "und": false,
+    "new": "14",
+    "street": "Kanonenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "272 f",
+    "und": false,
+    "new": "12",
+    "street": "Kanonenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "272 g",
+    "und": false,
+    "new": "23",
+    "street": "Schanzenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "272 p",
+    "und": false,
+    "new": "5",
+    "street": "Sternwartenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "272 s",
+    "und": false,
+    "new": "22",
+    "street": "Schanzenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "272 t",
+    "und": false,
+    "new": "19",
+    "street": "Schanzenstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "273 a",
+    "und": false,
+    "new": "17",
+    "street": "Engestrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "273 b (273 g)",
+    "und": false,
+    "new": "19",
+    "street": "Engestrasse",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "finished": "2026-11-12T08:23:31+01:00"
+}

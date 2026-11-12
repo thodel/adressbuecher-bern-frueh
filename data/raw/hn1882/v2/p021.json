@@ -1,0 +1,730 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 21,
+ "thinking": "high",
+ "started": "2026-11-12T08:01:56+01:00",
+ "seconds": 272.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 4069,
+  "thoughts": 36536
+ },
+ "response_text": "{\n  \"page_heading\": \"Weisses Quartier.\",\n  \"printed_page\": \"15\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"172\", \"und\": false, \"new\": \"49\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"173\", \"und\": false, \"new\": \"47\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"174/175\", \"und\": false, \"new\": \"45\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"174/175\", \"und\": true, \"new\": \"45 a\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"176\", \"und\": false, \"new\": \"43\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"177\", \"und\": false, \"new\": \"41\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"178\", \"und\": false, \"new\": \"39\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"179\", \"und\": false, \"new\": \"37\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"180\", \"und\": false, \"new\": \"35\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"181\", \"und\": false, \"new\": \"33\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"182 a\", \"und\": false, \"new\": \"31\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"182 b\", \"und\": false, \"new\": \"29\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"183\", \"und\": false, \"new\": \"27\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"184\", \"und\": false, \"new\": \"25\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"185\", \"und\": false, \"new\": \"23\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"186\", \"und\": false, \"new\": \"21\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"187\", \"und\": false, \"new\": \"19\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"188\", \"und\": false, \"new\": \"17\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"189\", \"und\": false, \"new\": \"15\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"190\", \"und\": false, \"new\": \"13\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"191\", \"und\": false, \"new\": \"11\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"192\", \"und\": false, \"new\": \"9\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"193\", \"und\": false, \"new\": \"7\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"194\", \"und\": false, \"new\": \"5\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"195\", \"und\": false, \"new\": \"3\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Junkerngasse\", \"old\": \"196\", \"und\": false, \"new\": \"1\", \"street\": \"Junkerngasse\"},\n    {\"col\": 1, \"group\": \"Nydeckgasse\", \"old\": \"197\", \"und\": false, \"new\": \"17\", \"street\": \"Nydeckgasse\"},\n    {\"col\": 1, \"group\": \"Nydeckgasse\", \"old\": \"198\", \"und\": false, \"new\": \"15\", \"street\": \"Nydeckgasse\"},\n    {\"col\": 1, \"group\": \"Nydeckgasse\", \"old\": \"199\", \"und\": false, \"new\": \"13\", \"street\": \"Nydeckgasse\"},\n    {\"col\": 1, \"group\": \"Nydeckgasse\", \"old\": \"200\", \"und\": false, \"new\": \"11\", \"street\": \"Nydeckgasse\"},\n    {\"col\": 1, \"group\": \"Nydeckgasse\", \"old\": \"201\", \"und\": false, \"new\": \"9\", \"street\": \"Nydeckgasse\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"205\", \"und\": false, \"new\": \"23\", \"street\": \"Nydeckhof\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"206\", \"und\": false, \"new\": \"27\", \"street\": \"Stalden\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"206\", \"und\": true, \"new\": \"49\", \"street\": \"Nydeckhof\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"207\", \"und\": false, \"new\": \"25\", \"street\": \"Stalden\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"207\", \"und\": true, \"new\": \"47\", \"street\": \"Nydeckhof\"},\n    {\"col\": 1, \"group\": \"In der Enge\", \"old\": \"1\", \"und\": false, \"new\": \"6\", \"street\": \"Mattenenge\"},\n    {\"col\": 1, \"group\": \"In der Enge\", \"old\": \"1\", \"und\": true, \"new\": \"19\", \"street\": \"Nydeckhof\"},\n    {\"col\": 1, \"group\": \"In der Enge\", \"old\": \"2\", \"und\": false, \"new\": \"8\", \"street\": \"Mattenenge\"},\n    {\"col\": 1, \"group\": \"In der Enge\", \"old\": \"2\", \"und\": true, \"new\": \"17\", \"street\": \"Nydeckhof\"},\n    {\"col\": 1, \"group\": \"In der Enge\", \"old\": \"3\", \"und\": false, \"new\": \"10\", \"street\": \"Mattenenge\"},\n    {\"col\": 1, \"group\": \"In der Enge\", \"old\": \"3\", \"und\": true, \"new\": \"15\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"208\", \"und\": false, \"new\": \"23\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"208\", \"und\": true, \"new\": \"45\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"209\", \"und\": false, \"new\": \"21\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"209\", \"und\": true, \"new\": \"43\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"210\", \"und\": false, \"new\": \"19\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"210\", \"und\": true, \"new\": \"41\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"211\", \"und\": false, \"new\": \"17\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"211\", \"und\": true, \"new\": \"39\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"212\", \"und\": false, \"new\": \"15\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"212\", \"und\": true, \"new\": \"37\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"213\", \"und\": false, \"new\": \"13\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"213\", \"und\": true, \"new\": \"35\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"214\", \"und\": false, \"new\": \"11\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"214\", \"und\": true, \"new\": \"33\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"215\", \"und\": false, \"new\": \"9\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"216\", \"und\": false, \"new\": \"7\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"216\", \"und\": true, \"new\": \"31\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"217\", \"und\": false, \"new\": \"5\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"217\", \"und\": true, \"new\": \"29\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"218\", \"und\": false, \"new\": \"3\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"218\", \"und\": true, \"new\": \"27\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"219\", \"und\": false, \"new\": \"1\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"220\", \"und\": false, \"new\": \"2\", \"street\": \"Mattenenge\", \"hand\": true, \"note\": \"mit 221 durch geschweifte Klammer zusammengefasst; handschriftlich ergänzt statt gedruckt «und 26 Nydeckhof» (durchgestrichen)\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"221\", \"und\": false, \"new\": \"2\", \"street\": \"Mattenenge\", \"hand\": true, \"note\": \"mit 220 durch geschweifte Klammer zusammengefasst; handschriftlich ergänzt statt gedruckt «und 26 Nydeckhof» (durchgestrichen)\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"222\", \"und\": false, \"new\": \"7\", \"street\": \"Läuferplatz\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"222\", \"und\": true, \"new\": \"4\", \"street\": \"Mattenenge\", \"hand\": true, \"note\": \"handschriftliche Ergänzung: «4 »»\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"223\", \"und\": false, \"new\": \"5\", \"street\": \"Läuferplatz\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"223\", \"und\": true, \"new\": \"21\", \"street\": \"Nydeckhof\", \"hand\": true, \"note\": \"handschriftliche Ergänzung: «u. 21 Nydeckhof»\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"224\", \"und\": false, \"new\": \"3\", \"street\": \"Läuferplatz\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"225\", \"und\": false, \"new\": \"1\", \"street\": \"Läuferplatz\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"227 a I\", \"und\": false, \"new\": \"4\", \"street\": \"Läuferplatz\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"227 a II\", \"und\": false, \"new\": \"6\", \"street\": \"Läuferplatz\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"227 b\", \"und\": false, \"new\": \"8\", \"street\": \"Läuferplatz\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"228\", \"und\": false, \"new\": \"6\", \"street\": \"Langmauerweg\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"229\", \"und\": false, \"new\": \"6\", \"street\": \"Nydeckgasse\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"229\", \"und\": true, \"new\": \"2\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"230\", \"und\": false, \"new\": \"12\", \"street\": \"Langmauerweg\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"231\", \"und\": false, \"new\": \"1\", \"street\": \"Nydeckgasse\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"232\", \"und\": false, \"new\": \"2\", \"street\": \"Nydeckgasse\"},\n    {\"col\": 2, \"group\": \"In der Enge\", \"old\": \"4\", \"und\": false, \"new\": \"12\", \"street\": \"Mattenenge\"},\n    {\"col\": 2, \"group\": \"In der Enge\", \"old\": \"4\", \"und\": true, \"new\": \"13\", \"street\": \"Nydeckhof\"},\n    {\"col\": 2, \"group\": \"In der Enge\", \"old\": \"5\", \"und\": false, \"new\": \"14\", \"street\": \"Mattenenge\"},\n    {\"col\": 2, \"group\": \"In der Enge\", \"old\": \"5\", \"und\": true, \"new\": \"11\", \"street\": \"Nydeckhof\", \"note\": \"im Druck ohne «und»\"},\n    {\"col\": 2, \"group\": \"In der Enge\", \"old\": \"6\", \"und\": false, \"new\": \"16\", \"street\": \"Mattenenge\"},\n    {\"col\": 2, \"group\": \"In der Enge\", \"old\": \"6\", \"und\": true, \"new\": \"9\", \"street\": \"Nydeckhof\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Weisses Quartier.",
+  "printed_page": "15",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "172",
+    "und": false,
+    "new": "49",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "173",
+    "und": false,
+    "new": "47",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "174/175",
+    "und": false,
+    "new": "45",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "174/175",
+    "und": true,
+    "new": "45 a",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "176",
+    "und": false,
+    "new": "43",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "177",
+    "und": false,
+    "new": "41",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "178",
+    "und": false,
+    "new": "39",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "179",
+    "und": false,
+    "new": "37",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "180",
+    "und": false,
+    "new": "35",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "181",
+    "und": false,
+    "new": "33",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "182 a",
+    "und": false,
+    "new": "31",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "182 b",
+    "und": false,
+    "new": "29",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "183",
+    "und": false,
+    "new": "27",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "184",
+    "und": false,
+    "new": "25",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "185",
+    "und": false,
+    "new": "23",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "186",
+    "und": false,
+    "new": "21",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "187",
+    "und": false,
+    "new": "19",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "188",
+    "und": false,
+    "new": "17",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "189",
+    "und": false,
+    "new": "15",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "190",
+    "und": false,
+    "new": "13",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "191",
+    "und": false,
+    "new": "11",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "192",
+    "und": false,
+    "new": "9",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "193",
+    "und": false,
+    "new": "7",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "194",
+    "und": false,
+    "new": "5",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "195",
+    "und": false,
+    "new": "3",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Junkerngasse",
+    "old": "196",
+    "und": false,
+    "new": "1",
+    "street": "Junkerngasse"
+   },
+   {
+    "col": 1,
+    "group": "Nydeckgasse",
+    "old": "197",
+    "und": false,
+    "new": "17",
+    "street": "Nydeckgasse"
+   },
+   {
+    "col": 1,
+    "group": "Nydeckgasse",
+    "old": "198",
+    "und": false,
+    "new": "15",
+    "street": "Nydeckgasse"
+   },
+   {
+    "col": 1,
+    "group": "Nydeckgasse",
+    "old": "199",
+    "und": false,
+    "new": "13",
+    "street": "Nydeckgasse"
+   },
+   {
+    "col": 1,
+    "group": "Nydeckgasse",
+    "old": "200",
+    "und": false,
+    "new": "11",
+    "street": "Nydeckgasse"
+   },
+   {
+    "col": 1,
+    "group": "Nydeckgasse",
+    "old": "201",
+    "und": false,
+    "new": "9",
+    "street": "Nydeckgasse"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "205",
+    "und": false,
+    "new": "23",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "206",
+    "und": false,
+    "new": "27",
+    "street": "Stalden"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "206",
+    "und": true,
+    "new": "49",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "207",
+    "und": false,
+    "new": "25",
+    "street": "Stalden"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "207",
+    "und": true,
+    "new": "47",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "1",
+    "und": false,
+    "new": "6",
+    "street": "Mattenenge"
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "1",
+    "und": true,
+    "new": "19",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "2",
+    "und": false,
+    "new": "8",
+    "street": "Mattenenge"
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "2",
+    "und": true,
+    "new": "17",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "3",
+    "und": false,
+    "new": "10",
+    "street": "Mattenenge"
+   },
+   {
+    "col": 1,
+    "group": "In der Enge",
+    "old": "3",
+    "und": true,
+    "new": "15",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "208",
+    "und": false,
+    "new": "23",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "208",
+    "und": true,
+    "new": "45",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "209",
+    "und": false,
+    "new": "21",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "209",
+    "und": true,
+    "new": "43",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "210",
+    "und": false,
+    "new": "19",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "210",
+    "und": true,
+    "new": "41",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "211",
+    "und": false,
+    "new": "17",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "211",
+    "und": true,
+    "new": "39",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "212",
+    "und": false,
+    "new": "15",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "212",
+    "und": true,
+    "new": "37",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "213",
+    "und": false,
+    "new": "13",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "213",
+    "und": true,
+    "new": "35",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "214",
+    "und": false,
+    "new": "11",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "214",
+    "und": true,
+    "new": "33",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "215",
+    "und": false,
+    "new": "9",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "216",
+    "und": false,
+    "new": "7",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "216",
+    "und": true,
+    "new": "31",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "217",
+    "und": false,
+    "new": "5",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "217",
+    "und": true,
+    "new": "29",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "218",
+    "und": false,
+    "new": "3",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "218",
+    "und": true,
+    "new": "27",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "219",
+    "und": false,
+    "new": "1",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "220",
+    "und": false,
+    "new": "2",
+    "street": "Mattenenge",
+    "hand": true,
+    "note": "mit 221 durch geschweifte Klammer zusammengefasst; handschriftlich ergänzt statt gedruckt «und 26 Nydeckhof» (durchgestrichen)"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "221",
+    "und": false,
+    "new": "2",
+    "street": "Mattenenge",
+    "hand": true,
+    "note": "mit 220 durch geschweifte Klammer zusammengefasst; handschriftlich ergänzt statt gedruckt «und 26 Nydeckhof» (durchgestrichen)"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "222",
+    "und": false,
+    "new": "7",
+    "street": "Läuferplatz"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "222",
+    "und": true,
+    "new": "4",
+    "street": "Mattenenge",
+    "hand": true,
+    "note": "handschriftliche Ergänzung: «4 »»"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "223",
+    "und": false,
+    "new": "5",
+    "street": "Läuferplatz"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "223",
+    "und": true,
+    "new": "21",
+    "street": "Nydeckhof",
+    "hand": true,
+    "note": "handschriftliche Ergänzung: «u. 21 Nydeckhof»"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "224",
+    "und": false,
+    "new": "3",
+    "street": "Läuferplatz"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "225",
+    "und": false,
+    "new": "1",
+    "street": "Läuferplatz"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "227 a I",
+    "und": false,
+    "new": "4",
+    "street": "Läuferplatz"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "227 a II",
+    "und": false,
+    "new": "6",
+    "street": "Läuferplatz"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "227 b",
+    "und": false,
+    "new": "8",
+    "street": "Läuferplatz"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "228",
+    "und": false,
+    "new": "6",
+    "street": "Langmauerweg"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "229",
+    "und": false,
+    "new": "6",
+    "street": "Nydeckgasse"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "229",
+    "und": true,
+    "new": "2",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "230",
+    "und": false,
+    "new": "12",
+    "street": "Langmauerweg"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "231",
+    "und": false,
+    "new": "1",
+    "street": "Nydeckgasse"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "232",
+    "und": false,
+    "new": "2",
+    "street": "Nydeckgasse"
+   },
+   {
+    "col": 2,
+    "group": "In der Enge",
+    "old": "4",
+    "und": false,
+    "new": "12",
+    "street": "Mattenenge"
+   },
+   {
+    "col": 2,
+    "group": "In der Enge",
+    "old": "4",
+    "und": true,
+    "new": "13",
+    "street": "Nydeckhof"
+   },
+   {
+    "col": 2,
+    "group": "In der Enge",
+    "old": "5",
+    "und": false,
+    "new": "14",
+    "street": "Mattenenge"
+   },
+   {
+    "col": 2,
+    "group": "In der Enge",
+    "old": "5",
+    "und": true,
+    "new": "11",
+    "street": "Nydeckhof",
+    "note": "im Druck ohne «und»"
+   },
+   {
+    "col": 2,
+    "group": "In der Enge",
+    "old": "6",
+    "und": false,
+    "new": "16",
+    "street": "Mattenenge"
+   },
+   {
+    "col": 2,
+    "group": "In der Enge",
+    "old": "6",
+    "und": true,
+    "new": "9",
+    "street": "Nydeckhof"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:06:28+01:00"
+}

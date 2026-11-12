@@ -1,0 +1,659 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 18,
+ "thinking": "medium",
+ "started": "2026-11-12T07:53:25+01:00",
+ "seconds": 37.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 3532,
+  "thoughts": 2966
+ },
+ "response_text": "{\n  \"page_heading\": \"Grünes Quartier.\",\n  \"printed_page\": \"12\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Kesslergasse\", \"old\": \"294\", \"und\": false, \"new\": \"39\", \"street\": \"Kesslergasse\"},\n    {\"col\": 1, \"group\": \"Kesslergasse\", \"old\": \"294\", \"und\": true, \"new\": \"1\", \"street\": \"Bibliothekgchn.\", \"note\": \"Druckfehler: nnd statt und\"},\n    {\"col\": 1, \"group\": \"Schulgässchen\", \"old\": \"295\", \"und\": false, \"new\": \"3\", \"street\": \"Bibliothekgchn.\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"296\", \"und\": false, \"new\": \"36\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"296\", \"und\": true, \"new\": \"5\", \"street\": \"Bibliothekgchn.\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"297\", \"und\": false, \"new\": \"34\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"298\", \"und\": false, \"new\": \"32\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"299\", \"und\": false, \"new\": \"30\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"300\", \"und\": false, \"new\": \"28\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"301\", \"und\": false, \"new\": \"26\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"302\", \"und\": false, \"new\": \"24\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"303\", \"und\": false, \"new\": \"22\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"304\", \"und\": false, \"new\": \"20\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"305\", \"und\": false, \"new\": \"18\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"306\", \"und\": false, \"new\": \"16\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"307\", \"und\": false, \"new\": \"14\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"308\", \"und\": false, \"new\": \"12\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"309\", \"und\": false, \"new\": \"10\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"310\", \"und\": false, \"new\": \"8\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"311\", \"und\": false, \"new\": \"6\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"312\", \"und\": false, \"new\": \"4\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"313\", \"und\": false, \"new\": \"2\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"313\", \"und\": true, \"new\": \"12\", \"street\": \"Münsterplatz\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"314\", \"und\": false, \"new\": \"3\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"315\", \"und\": false, \"new\": \"3 a\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"316\", \"und\": false, \"new\": \"3 b\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"315 b\", \"und\": false, \"new\": \"1 a\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"317/318\", \"und\": false, \"new\": \"1\", \"street\": \"Herrengasse\"},\n    {\"col\": 1, \"group\": \"Herrengasse\", \"old\": \"317/318\", \"und\": true, \"new\": \"1\", \"street\": \"Fricktreppe\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"1\", \"und\": false, \"new\": \"9\", \"street\": \"Läuferplatz\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"1\", \"und\": true, \"new\": \"2\", \"street\": \"Stalden\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"2\", \"und\": false, \"new\": \"11\", \"street\": \"Läuferplatz\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"2\", \"und\": true, \"new\": \"4\", \"street\": \"Stalden\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"3\", \"und\": false, \"new\": \"13\", \"street\": \"Läuferplatz\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"3\", \"und\": true, \"new\": \"6\", \"street\": \"Stalden\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"4 a\", \"und\": false, \"new\": \"8\", \"street\": \"Stalden\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"4 b\", \"und\": false, \"new\": \"1\", \"street\": \"Langmauerweg\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"5\", \"und\": false, \"new\": \"10\", \"street\": \"Stalden\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"6\", \"und\": false, \"new\": \"12\", \"street\": \"Stalden\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"7\", \"und\": false, \"new\": \"14\", \"street\": \"Stalden\"},\n    {\"col\": 1, \"group\": \"Stalden\", \"old\": \"8\", \"und\": false, \"new\": \"16\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"319\", \"und\": false, \"new\": \"3\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"320\", \"und\": false, \"new\": \"5\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"321\", \"und\": false, \"new\": \"7\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"322\", \"und\": false, \"new\": \"9\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"323\", \"und\": false, \"new\": \"11\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"324\", \"und\": false, \"new\": \"13\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"325\", \"und\": false, \"new\": \"15\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"326\", \"und\": false, \"new\": \"17\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"327\", \"und\": false, \"new\": \"19\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"328 a\", \"und\": false, \"new\": \"21\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"329 a\", \"und\": false, \"new\": \"23\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"329 b\", \"und\": false, \"new\": \"3\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"330\", \"und\": false, \"new\": \"4\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"331\", \"und\": false, \"new\": \"38\", \"street\": \"Herrengasse\"},\n    {\"col\": 2, \"group\": \"Herrengasse\", \"old\": \"331\", \"und\": true, \"new\": \"2\", \"street\": \"Klosterhof\"},\n    {\"col\": 2, \"group\": \"Schulgässchen\", \"old\": \"332 a\", \"und\": false, \"new\": \"4\", \"street\": \"Bibliothekgchn.\"},\n    {\"col\": 2, \"group\": \"Schulgässchen\", \"old\": \"332 a\", \"und\": true, \"new\": \"4 a\", \"street\": \"Bibliothekgchn.\"},\n    {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"335\", \"und\": false, \"new\": \"41\", \"street\": \"Kesslergasse\"},\n    {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"335\", \"und\": true, \"new\": \"1\", \"street\": \"Polizeigasse\"},\n    {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"336\", \"und\": false, \"new\": \"3\", \"street\": \"Polizeigasse\"},\n    {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"337 a\", \"und\": false, \"new\": \"5\", \"street\": \"Polizeigasse\"},\n    {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"337 b\", \"und\": false, \"new\": \"5 a\", \"street\": \"Polizeigasse\"},\n    {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"337 c\", \"und\": false, \"new\": \"7\", \"street\": \"Polizeigasse\"},\n    {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"338\", \"und\": false, \"new\": \"7\", \"street\": \"Kirchgasse\"},\n    {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"338\", \"und\": true, \"new\": \"1\", \"street\": \"Münsterplatz\"},\n    {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"339\", \"und\": false, \"new\": \"9\", \"street\": \"Kirchgasse\"},\n    {\"col\": 2, \"group\": \"Kesslergasse\", \"old\": \"340\", \"und\": false, \"new\": \"11\", \"street\": \"Kirchgasse\", \"hand\": true},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"9\", \"und\": false, \"new\": \"18\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"10\", \"und\": false, \"new\": \"20\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"11\", \"und\": false, \"new\": \"22\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"12\", \"und\": false, \"new\": \"24\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"13\", \"und\": false, \"new\": \"26\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"14\", \"und\": false, \"new\": \"28\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Stalden\", \"old\": \"15\", \"und\": false, \"new\": \"30\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Klapperläubli\", \"old\": \"16\", \"und\": false, \"new\": \"32\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Klapperläubli\", \"old\": \"17\", \"und\": false, \"new\": \"34\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Klapperläubli\", \"old\": \"18\", \"und\": false, \"new\": \"36\", \"street\": \"Stalden\"},\n    {\"col\": 2, \"group\": \"Klapperläubli\", \"old\": \"19\", \"und\": false, \"new\": \"38\", \"street\": \"Stalden\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Grünes Quartier.",
+  "printed_page": "12",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Kesslergasse",
+    "old": "294",
+    "und": false,
+    "new": "39",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 1,
+    "group": "Kesslergasse",
+    "old": "294",
+    "und": true,
+    "new": "1",
+    "street": "Bibliothekgchn.",
+    "note": "Druckfehler: nnd statt und"
+   },
+   {
+    "col": 1,
+    "group": "Schulgässchen",
+    "old": "295",
+    "und": false,
+    "new": "3",
+    "street": "Bibliothekgchn."
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "296",
+    "und": false,
+    "new": "36",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "296",
+    "und": true,
+    "new": "5",
+    "street": "Bibliothekgchn."
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "297",
+    "und": false,
+    "new": "34",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "298",
+    "und": false,
+    "new": "32",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "299",
+    "und": false,
+    "new": "30",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "300",
+    "und": false,
+    "new": "28",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "301",
+    "und": false,
+    "new": "26",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "302",
+    "und": false,
+    "new": "24",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "303",
+    "und": false,
+    "new": "22",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "304",
+    "und": false,
+    "new": "20",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "305",
+    "und": false,
+    "new": "18",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "306",
+    "und": false,
+    "new": "16",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "307",
+    "und": false,
+    "new": "14",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "308",
+    "und": false,
+    "new": "12",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "309",
+    "und": false,
+    "new": "10",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "310",
+    "und": false,
+    "new": "8",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "311",
+    "und": false,
+    "new": "6",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "312",
+    "und": false,
+    "new": "4",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "313",
+    "und": false,
+    "new": "2",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "313",
+    "und": true,
+    "new": "12",
+    "street": "Münsterplatz"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "314",
+    "und": false,
+    "new": "3",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "315",
+    "und": false,
+    "new": "3 a",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "316",
+    "und": false,
+    "new": "3 b",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "315 b",
+    "und": false,
+    "new": "1 a",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "317/318",
+    "und": false,
+    "new": "1",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 1,
+    "group": "Herrengasse",
+    "old": "317/318",
+    "und": true,
+    "new": "1",
+    "street": "Fricktreppe"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "1",
+    "und": false,
+    "new": "9",
+    "street": "Läuferplatz"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "1",
+    "und": true,
+    "new": "2",
+    "street": "Stalden"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "2",
+    "und": false,
+    "new": "11",
+    "street": "Läuferplatz"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "2",
+    "und": true,
+    "new": "4",
+    "street": "Stalden"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "3",
+    "und": false,
+    "new": "13",
+    "street": "Läuferplatz"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "3",
+    "und": true,
+    "new": "6",
+    "street": "Stalden"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "4 a",
+    "und": false,
+    "new": "8",
+    "street": "Stalden"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "4 b",
+    "und": false,
+    "new": "1",
+    "street": "Langmauerweg"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "5",
+    "und": false,
+    "new": "10",
+    "street": "Stalden"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "6",
+    "und": false,
+    "new": "12",
+    "street": "Stalden"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "7",
+    "und": false,
+    "new": "14",
+    "street": "Stalden"
+   },
+   {
+    "col": 1,
+    "group": "Stalden",
+    "old": "8",
+    "und": false,
+    "new": "16",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "319",
+    "und": false,
+    "new": "3",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "320",
+    "und": false,
+    "new": "5",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "321",
+    "und": false,
+    "new": "7",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "322",
+    "und": false,
+    "new": "9",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "323",
+    "und": false,
+    "new": "11",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "324",
+    "und": false,
+    "new": "13",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "325",
+    "und": false,
+    "new": "15",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "326",
+    "und": false,
+    "new": "17",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "327",
+    "und": false,
+    "new": "19",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "328 a",
+    "und": false,
+    "new": "21",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "329 a",
+    "und": false,
+    "new": "23",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "329 b",
+    "und": false,
+    "new": "3",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "330",
+    "und": false,
+    "new": "4",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "331",
+    "und": false,
+    "new": "38",
+    "street": "Herrengasse"
+   },
+   {
+    "col": 2,
+    "group": "Herrengasse",
+    "old": "331",
+    "und": true,
+    "new": "2",
+    "street": "Klosterhof"
+   },
+   {
+    "col": 2,
+    "group": "Schulgässchen",
+    "old": "332 a",
+    "und": false,
+    "new": "4",
+    "street": "Bibliothekgchn."
+   },
+   {
+    "col": 2,
+    "group": "Schulgässchen",
+    "old": "332 a",
+    "und": true,
+    "new": "4 a",
+    "street": "Bibliothekgchn."
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "335",
+    "und": false,
+    "new": "41",
+    "street": "Kesslergasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "335",
+    "und": true,
+    "new": "1",
+    "street": "Polizeigasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "336",
+    "und": false,
+    "new": "3",
+    "street": "Polizeigasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "337 a",
+    "und": false,
+    "new": "5",
+    "street": "Polizeigasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "337 b",
+    "und": false,
+    "new": "5 a",
+    "street": "Polizeigasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "337 c",
+    "und": false,
+    "new": "7",
+    "street": "Polizeigasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "338",
+    "und": false,
+    "new": "7",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "338",
+    "und": true,
+    "new": "1",
+    "street": "Münsterplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "339",
+    "und": false,
+    "new": "9",
+    "street": "Kirchgasse"
+   },
+   {
+    "col": 2,
+    "group": "Kesslergasse",
+    "old": "340",
+    "und": false,
+    "new": "11",
+    "street": "Kirchgasse",
+    "hand": true
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "9",
+    "und": false,
+    "new": "18",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "10",
+    "und": false,
+    "new": "20",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "11",
+    "und": false,
+    "new": "22",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "12",
+    "und": false,
+    "new": "24",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "13",
+    "und": false,
+    "new": "26",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "14",
+    "und": false,
+    "new": "28",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Stalden",
+    "old": "15",
+    "und": false,
+    "new": "30",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Klapperläubli",
+    "old": "16",
+    "und": false,
+    "new": "32",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Klapperläubli",
+    "old": "17",
+    "und": false,
+    "new": "34",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Klapperläubli",
+    "old": "18",
+    "und": false,
+    "new": "36",
+    "street": "Stalden"
+   },
+   {
+    "col": 2,
+    "group": "Klapperläubli",
+    "old": "19",
+    "und": false,
+    "new": "38",
+    "street": "Stalden"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:54:03+01:00"
+}

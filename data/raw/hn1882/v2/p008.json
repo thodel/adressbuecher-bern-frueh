@@ -1,0 +1,820 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 8,
+ "thinking": "high",
+ "started": "2026-11-12T07:57:16+01:00",
+ "seconds": 225.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 4834,
+  "thoughts": 27307
+ },
+ "response_text": "{\n  \"page_heading\": \"Rothes Quartier.\",\n  \"printed_page\": \"2\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"56 b\", \"new\": \"15 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"57\", \"new\": \"17\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"58\", \"new\": \"19\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"59\", \"new\": \"21\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"59\", \"new\": \"21 a\", \"street\": \"Aarbergergasse\", \"note\": \"im Druck ohne frühere Nummer\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"60\", \"new\": \"23\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"61\", \"new\": \"25\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"62 a\", \"new\": \"27\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"62 b\", \"new\": \"27 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"63\", \"new\": \"29\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"64\", \"new\": \"31\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"65\", \"new\": \"33\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"66 a\", \"new\": \"35\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"66 b\", \"new\": \"35 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"66 c\", \"new\": \"35 b\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"67\", \"new\": \"37\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"67\", \"und\": true, \"new\": \"15\", \"street\": \"Ryffligässchen\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"68\", \"new\": \"39\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"68\", \"und\": true, \"new\": \"16\", \"street\": \"Ryffligässchen\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"68 b\", \"new\": \"13\", \"street\": \"Ryffligässchen\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"69 a\", \"new\": \"41\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"70 a\", \"new\": \"43\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"70 b\", \"new\": \"43 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"71 a\", \"new\": \"45\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"71 b\", \"new\": \"45 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"72 a\", \"new\": \"47\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"72 b\", \"new\": \"47 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"73 a\", \"new\": \"49\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"73 b\", \"new\": \"49 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"74 a\", \"new\": \"51\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"74 b\", \"new\": \"51 a\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"75\", \"new\": \"53\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"76/77\", \"new\": \"55\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"78\", \"new\": \"57\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Aarbergergasse\", \"old\": \"78\", \"und\": true, \"new\": \"7\", \"street\": \"Inneres Bollwerk\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"79\", \"new\": \"12\", \"street\": \"Inneres Bollwerk\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"79\", \"und\": true, \"new\": \"59\", \"street\": \"Aarbergergasse\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"80\", \"new\": \"10\", \"street\": \"Inneres Bollwerk\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"81\", \"new\": \"8\", \"street\": \"Inneres Bollwerk\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"82 a\", \"new\": \"6\", \"street\": \"Inneres Bollwerk\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"82 b\", \"new\": \"2\", \"street\": \"Inneres Bollwerk\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"82 b\", \"und\": true, \"new\": \"42\", \"street\": \"Neuengasse\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"83 a\", \"new\": \"5\", \"street\": \"Inneres Bollwerk\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"83 b\", \"new\": \"3\", \"street\": \"Inneres Bollwerk\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"83 b\", \"und\": true, \"new\": \"38\", \"street\": \"Neuengasse\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"84\", \"new\": \"1\", \"street\": \"Inneres Bollwerk\"},\n    {\"col\": 1, \"group\": \"Inneres Bollwerk\", \"old\": \"84\", \"und\": true, \"new\": \"40\", \"street\": \"Neuengasse\"},\n    {\"col\": 1, \"group\": \"Neuengasse\", \"old\": \"85\", \"new\": \"38\", \"street\": \"Neuengasse\"},\n    {\"col\": 1, \"group\": \"Neuengasse\", \"old\": \"86\", \"new\": \"36\", \"street\": \"Neuengasse\"},\n    {\"col\": 1, \"group\": \"Neuengasse\", \"old\": \"87 a\", \"new\": \"30\", \"street\": \"Neuengasse\"},\n    {\"col\": 1, \"group\": \"Neuengasse\", \"old\": \"87 b\", \"new\": \"32\", \"street\": \"Neuengasse\"},\n    {\"col\": 1, \"group\": \"Neuengasse\", \"old\": \"87 c\", \"new\": \"28\", \"street\": \"Neuengasse\", \"note\": \"mit nächster Zeile durch geschweifte Klammer verbunden; handschriftliche Ergänzung «▲ 28 a»\"},\n    {\"col\": 1, \"group\": \"Neuengasse\", \"old\": \"87 c\", \"und\": true, \"new\": \"14\", \"street\": \"Ryffligässchen\", \"note\": \"mit vorheriger Zeile durch geschweifte Klammer verbunden\"},\n    {\"col\": 1, \"group\": \"Neuengasse\", \"old\": \"87 d\", \"new\": \"26\", \"street\": \"Neuengasse\"},\n    {\"col\": 1, \"group\": \"Neuengasse\", \"old\": \"87 d\", \"und\": true, \"new\": \"12\", \"street\": \"Ryffligässchen\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"88 a\", \"new\": \"24\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"88 a\", \"und\": true, \"new\": \"9\", \"street\": \"Ryffligässchen\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"88 b\", \"new\": \"11\", \"street\": \"Ryffligässchen\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"89\", \"new\": \"22\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"90\", \"new\": \"20\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"91/92\", \"new\": \"18\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"93\", \"new\": \"16\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"94\", \"new\": \"14\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"95\", \"new\": \"12\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"96\", \"new\": \"10\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"97\", \"new\": \"8\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"98\", \"new\": \"6\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"99\", \"new\": \"4\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"100\", \"new\": \"2\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"100\", \"und\": true, \"new\": \"10\", \"street\": \"Waisenhausplatz\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"101\", \"new\": \"1\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"101\", \"und\": true, \"new\": \"8\", \"street\": \"Waisenhausplatz\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"102 a\", \"new\": \"3\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"102 b\", \"new\": \"5\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"103 u. 104\", \"new\": \"7\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"105 u. 106\", \"new\": \"9\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"107\", \"new\": \"11\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"108/109\", \"new\": \"13\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"110\", \"new\": \"15\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"111\", \"new\": \"17\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"112\", \"new\": \"19\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"113 a\", \"new\": \"21\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"113 b\", \"new\": \"23\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"113 c\", \"new\": \"5\", \"street\": \"Ryffligässchen\", \"hand\": true, \"note\": \"Strassenname handschriftlich ergänzt\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"114\", \"new\": \"6 & 6 a\", \"street\": \"Ryffligässchen\", \"hand\": true, \"note\": \"im Druck leer; handschriftlich ergänzt\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"115 a\", \"new\": \"27\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"115 a\", \"und\": true, \"new\": \"8\", \"street\": \"Ryffligässchen\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"115 b\", \"new\": \"8 a\", \"street\": \"Ryffligässchen\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"116 a\", \"new\": \"25\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"116 b\", \"new\": \"27\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"116 c\", \"new\": \"29\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"117 a\", \"new\": \"31\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"117 b\", \"new\": \"31 a\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"118\", \"new\": \"33\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"119 a\", \"new\": \"35\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"119 b\", \"new\": \"35 a\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"120 a\", \"new\": \"37\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"121 a\", \"new\": \"39 u. 39 a\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"121 b\", \"new\": \"41\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"122 a\", \"new\": \"43\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Neuengasse\", \"old\": \"122 b\", \"new\": \"45\", \"street\": \"Neuengasse\"},\n    {\"col\": 2, \"group\": \"Aeusseres Bollwerk\", \"old\": \"122 c\", \"new\": \"11\", \"street\": \"Aeusseres Bollwerk\"},\n    {\"col\": 2, \"group\": \"Aeusseres Bollwerk\", \"old\": \"122 c\", \"und\": true, \"new\": \"47\", \"street\": \"Neuengasse\", \"note\": \"im Druck «uud 47 Neuengasse»\"},\n    {\"col\": 2, \"group\": \"Aeusseres Bollwerk\", \"old\": \"122 d\", \"new\": \"11 a\", \"street\": \"Aeusseres Bollwerk\"},\n    {\"col\": 2, \"group\": \"Aeusseres Bollwerk\", \"old\": \"122 e\", \"new\": \"9\", \"street\": \"Aeusseres Bollwerk\"},\n    {\"col\": 2, \"group\": \"Aeusseres Bollwerk\", \"old\": \"122 f\", \"new\": \"5\", \"street\": \"Aeusseres Bollwerk\"},\n    {\"col\": 2, \"group\": \"Aeusseres Bollwerk\", \"old\": \"122 g\", \"new\": \"11 b\", \"street\": \"Aeusseres Bollwerk\"},\n    {\"col\": 2, \"group\": \"Aeusseres Bollwerk\", \"old\": \"123 a\", \"new\": \"1\", \"street\": \"Aeusseres Bollwerk\", \"note\": \"mit 123 b durch Klammer zu Aeuss. Bollwerk zusammengefasst; handschriftlicher Pfeil zu «spitalgasse»\"},\n    {\"col\": 2, \"group\": \"Aeusseres Bollwerk\", \"old\": \"123 b\", \"new\": \"3\", \"street\": \"Aeusseres Bollwerk\", \"note\": \"mit 123 a durch Klammer zu Aeuss. Bollwerk zusammengefasst; handschriftlicher Pfeil zu «spitalgasse»\"},\n    {\"col\": 2, \"group\": \"Aeusseres Bollwerk\", \"old\": \"123 b\", \"und\": true, \"new\": \"42\", \"street\": \"Spitalgasse\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Rothes Quartier.",
+  "printed_page": "2",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "56 b",
+    "new": "15 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "57",
+    "new": "17",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "58",
+    "new": "19",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "59",
+    "new": "21",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "59",
+    "new": "21 a",
+    "street": "Aarbergergasse",
+    "note": "im Druck ohne frühere Nummer"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "60",
+    "new": "23",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "61",
+    "new": "25",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "62 a",
+    "new": "27",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "62 b",
+    "new": "27 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "63",
+    "new": "29",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "64",
+    "new": "31",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "65",
+    "new": "33",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "66 a",
+    "new": "35",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "66 b",
+    "new": "35 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "66 c",
+    "new": "35 b",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "67",
+    "new": "37",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "67",
+    "und": true,
+    "new": "15",
+    "street": "Ryffligässchen"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "68",
+    "new": "39",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "68",
+    "und": true,
+    "new": "16",
+    "street": "Ryffligässchen"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "68 b",
+    "new": "13",
+    "street": "Ryffligässchen"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "69 a",
+    "new": "41",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "70 a",
+    "new": "43",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "70 b",
+    "new": "43 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "71 a",
+    "new": "45",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "71 b",
+    "new": "45 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "72 a",
+    "new": "47",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "72 b",
+    "new": "47 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "73 a",
+    "new": "49",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "73 b",
+    "new": "49 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "74 a",
+    "new": "51",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "74 b",
+    "new": "51 a",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "75",
+    "new": "53",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "76/77",
+    "new": "55",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "78",
+    "new": "57",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Aarbergergasse",
+    "old": "78",
+    "und": true,
+    "new": "7",
+    "street": "Inneres Bollwerk"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "79",
+    "new": "12",
+    "street": "Inneres Bollwerk"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "79",
+    "und": true,
+    "new": "59",
+    "street": "Aarbergergasse"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "80",
+    "new": "10",
+    "street": "Inneres Bollwerk"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "81",
+    "new": "8",
+    "street": "Inneres Bollwerk"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "82 a",
+    "new": "6",
+    "street": "Inneres Bollwerk"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "82 b",
+    "new": "2",
+    "street": "Inneres Bollwerk"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "82 b",
+    "und": true,
+    "new": "42",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "83 a",
+    "new": "5",
+    "street": "Inneres Bollwerk"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "83 b",
+    "new": "3",
+    "street": "Inneres Bollwerk"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "83 b",
+    "und": true,
+    "new": "38",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "84",
+    "new": "1",
+    "street": "Inneres Bollwerk"
+   },
+   {
+    "col": 1,
+    "group": "Inneres Bollwerk",
+    "old": "84",
+    "und": true,
+    "new": "40",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 1,
+    "group": "Neuengasse",
+    "old": "85",
+    "new": "38",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 1,
+    "group": "Neuengasse",
+    "old": "86",
+    "new": "36",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 1,
+    "group": "Neuengasse",
+    "old": "87 a",
+    "new": "30",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 1,
+    "group": "Neuengasse",
+    "old": "87 b",
+    "new": "32",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 1,
+    "group": "Neuengasse",
+    "old": "87 c",
+    "new": "28",
+    "street": "Neuengasse",
+    "note": "mit nächster Zeile durch geschweifte Klammer verbunden; handschriftliche Ergänzung «▲ 28 a»"
+   },
+   {
+    "col": 1,
+    "group": "Neuengasse",
+    "old": "87 c",
+    "und": true,
+    "new": "14",
+    "street": "Ryffligässchen",
+    "note": "mit vorheriger Zeile durch geschweifte Klammer verbunden"
+   },
+   {
+    "col": 1,
+    "group": "Neuengasse",
+    "old": "87 d",
+    "new": "26",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 1,
+    "group": "Neuengasse",
+    "old": "87 d",
+    "und": true,
+    "new": "12",
+    "street": "Ryffligässchen"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "88 a",
+    "new": "24",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "88 a",
+    "und": true,
+    "new": "9",
+    "street": "Ryffligässchen"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "88 b",
+    "new": "11",
+    "street": "Ryffligässchen"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "89",
+    "new": "22",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "90",
+    "new": "20",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "91/92",
+    "new": "18",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "93",
+    "new": "16",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "94",
+    "new": "14",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "95",
+    "new": "12",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "96",
+    "new": "10",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "97",
+    "new": "8",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "98",
+    "new": "6",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "99",
+    "new": "4",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "100",
+    "new": "2",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "100",
+    "und": true,
+    "new": "10",
+    "street": "Waisenhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "101",
+    "new": "1",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "101",
+    "und": true,
+    "new": "8",
+    "street": "Waisenhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "102 a",
+    "new": "3",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "102 b",
+    "new": "5",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "103 u. 104",
+    "new": "7",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "105 u. 106",
+    "new": "9",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "107",
+    "new": "11",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "108/109",
+    "new": "13",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "110",
+    "new": "15",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "111",
+    "new": "17",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "112",
+    "new": "19",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "113 a",
+    "new": "21",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "113 b",
+    "new": "23",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "113 c",
+    "new": "5",
+    "street": "Ryffligässchen",
+    "hand": true,
+    "note": "Strassenname handschriftlich ergänzt"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "114",
+    "new": "6 & 6 a",
+    "street": "Ryffligässchen",
+    "hand": true,
+    "note": "im Druck leer; handschriftlich ergänzt"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "115 a",
+    "new": "27",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "115 a",
+    "und": true,
+    "new": "8",
+    "street": "Ryffligässchen"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "115 b",
+    "new": "8 a",
+    "street": "Ryffligässchen"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "116 a",
+    "new": "25",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "116 b",
+    "new": "27",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "116 c",
+    "new": "29",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "117 a",
+    "new": "31",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "117 b",
+    "new": "31 a",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "118",
+    "new": "33",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "119 a",
+    "new": "35",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "119 b",
+    "new": "35 a",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "120 a",
+    "new": "37",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "121 a",
+    "new": "39 u. 39 a",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "121 b",
+    "new": "41",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "122 a",
+    "new": "43",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Neuengasse",
+    "old": "122 b",
+    "new": "45",
+    "street": "Neuengasse"
+   },
+   {
+    "col": 2,
+    "group": "Aeusseres Bollwerk",
+    "old": "122 c",
+    "new": "11",
+    "street": "Aeusseres Bollwerk"
+   },
+   {
+    "col": 2,
+    "group": "Aeusseres Bollwerk",
+    "old": "122 c",
+    "und": true,
+    "new": "47",
+    "street": "Neuengasse",
+    "note": "im Druck «uud 47 Neuengasse»"
+   },
+   {
+    "col": 2,
+    "group": "Aeusseres Bollwerk",
+    "old": "122 d",
+    "new": "11 a",
+    "street": "Aeusseres Bollwerk"
+   },
+   {
+    "col": 2,
+    "group": "Aeusseres Bollwerk",
+    "old": "122 e",
+    "new": "9",
+    "street": "Aeusseres Bollwerk"
+   },
+   {
+    "col": 2,
+    "group": "Aeusseres Bollwerk",
+    "old": "122 f",
+    "new": "5",
+    "street": "Aeusseres Bollwerk"
+   },
+   {
+    "col": 2,
+    "group": "Aeusseres Bollwerk",
+    "old": "122 g",
+    "new": "11 b",
+    "street": "Aeusseres Bollwerk"
+   },
+   {
+    "col": 2,
+    "group": "Aeusseres Bollwerk",
+    "old": "123 a",
+    "new": "1",
+    "street": "Aeusseres Bollwerk",
+    "note": "mit 123 b durch Klammer zu Aeuss. Bollwerk zusammengefasst; handschriftlicher Pfeil zu «spitalgasse»"
+   },
+   {
+    "col": 2,
+    "group": "Aeusseres Bollwerk",
+    "old": "123 b",
+    "new": "3",
+    "street": "Aeusseres Bollwerk",
+    "note": "mit 123 a durch Klammer zu Aeuss. Bollwerk zusammengefasst; handschriftlicher Pfeil zu «spitalgasse»"
+   },
+   {
+    "col": 2,
+    "group": "Aeusseres Bollwerk",
+    "old": "123 b",
+    "und": true,
+    "new": "42",
+    "street": "Spitalgasse"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:01:02+01:00"
+}

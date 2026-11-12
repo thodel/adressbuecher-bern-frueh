@@ -1,0 +1,1135 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 43,
+ "thinking": "medium",
+ "started": "2026-11-12T07:56:10+01:00",
+ "seconds": 65.5,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 6494,
+  "thoughts": 4528
+ },
+ "response_text": "{\"page_heading\": \"Stadtbezirk untenaus.\",\n \"printed_page\": \"17\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 p\", \"und\": false, \"new\": \"33 a\", \"street\": \"Turnweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 q\", \"und\": false, \"new\": \"18\", \"street\": \"Zaunweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 r I\", \"und\": false, \"new\": \"20\", \"street\": \"Zaunweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 r II\", \"und\": false, \"new\": \"22\", \"street\": \"Zaunweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 s I\", \"und\": false, \"new\": \"23\", \"street\": \"Zaunweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 s II\", \"und\": false, \"new\": \"28\", \"street\": \"Turnweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 t\", \"und\": false, \"new\": \"21\", \"street\": \"Greyerzweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 u\", \"und\": false, \"new\": \"14\", \"street\": \"Grundweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 w\", \"und\": false, \"new\": \"24 u. 24 a\", \"street\": \"Turnweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 x I\", \"und\": false, \"new\": \"26\", \"street\": \"Turnweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 z\", \"und\": false, \"new\": \"22\", \"street\": \"Turnweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"142 y\", \"und\": false, \"new\": \"14 a\", \"street\": \"Grundweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"143 a\", \"und\": false, \"new\": \"22\", \"street\": \"Jägerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"143 b\", \"und\": false, \"new\": \"20\", \"street\": \"Jägerweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"143 c\", \"und\": false, \"new\": \"29\", \"street\": \"Flurweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"143 f\", \"und\": false, \"new\": \"16\", \"street\": \"Wylerstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"143 h\", \"und\": false, \"new\": \"25\", \"street\": \"Flurweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"143 i\", \"und\": false, \"new\": \"21\", \"street\": \"Flurweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"143 k\", \"und\": false, \"new\": \"19\", \"street\": \"Flurweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"144\", \"und\": false, \"new\": \"29\", \"street\": \"Wylerstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"145\", \"und\": false, \"new\": \"29 a\", \"street\": \"Wylerstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"146 a\", \"und\": false, \"new\": \"45\", \"street\": \"Wylerstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"146 b\", \"und\": false, \"new\": \"45 a\", \"street\": \"Wylerstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"146 c I-IV, d, h\", \"und\": false, \"new\": \"48 u. 48 a-e\", \"street\": \"Wylerstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"147 a\", \"und\": false, \"new\": \"9\", \"street\": \"Steinweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"147 b\", \"und\": false, \"new\": \"11\", \"street\": \"Steinweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"147 c\", \"und\": false, \"new\": \"3\", \"street\": \"Steinweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"147 d\", \"und\": false, \"new\": \"37\", \"street\": \"Wylerstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"147 e\", \"und\": false, \"new\": \"5\", \"street\": \"Steinweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 a\", \"und\": false, \"new\": \"4\", \"street\": \"Uferweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 b\", \"und\": false, \"new\": \"13\", \"street\": \"Uferweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"—\", \"und\": false, \"new\": \"15\", \"street\": \"Uferweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 c\", \"und\": false, \"new\": \"1\", \"street\": \"Uferweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 d\", \"und\": false, \"new\": \"7 u. 7 a\", \"street\": \"Uferweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 e\", \"und\": false, \"new\": \"10\", \"street\": \"Uferweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 n\", \"und\": false, \"new\": \"6\", \"street\": \"Uferweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 o\", \"und\": false, \"new\": \"2\", \"street\": \"Uferweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 p\", \"und\": false, \"new\": \"42\", \"street\": \"Uferweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 q\", \"und\": false, \"new\": \"11\", \"street\": \"Uferweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 r\", \"und\": false, \"new\": \"65\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 f-h\", \"und\": false, \"new\": \"21 u. 21 a-c\", \"street\": \"Altenbergrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 i-m\", \"und\": false, \"new\": \"21 d-f\", \"street\": \"Altenbergrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"156 s\", \"und\": false, \"new\": \"65 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"157 a\", \"und\": false, \"new\": \"2\", \"street\": \"Altenbergrain\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"157 b I\", \"und\": false, \"new\": \"134\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"157 b II\", \"und\": false, \"new\": \"134 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"158 a\", \"und\": false, \"new\": \"128 u. 128 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"158 e\", \"und\": false, \"new\": \"132\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"158 b\", \"und\": false, \"new\": \"59\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"158 g\", \"und\": false, \"new\": \"59 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"158 c\", \"und\": false, \"new\": \"55\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"158 f\", \"und\": false, \"new\": \"55 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"159\", \"und\": false, \"new\": \"53\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"160 a\", \"und\": false, \"new\": \"102\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Altenberg-Drittel\", \"old\": \"160 b\", \"und\": false, \"new\": \"104\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"160 c\", \"und\": false, \"new\": \"100\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"160 d\", \"und\": false, \"new\": \"100 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"161 a I\", \"und\": false, \"new\": \"110\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"161 a II\", \"und\": false, \"new\": \"110 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"161 b\", \"und\": false, \"new\": \"112\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"161 c\", \"und\": false, \"new\": \"114 114 a u. 114 b\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"161 d\", \"und\": false, \"new\": \"96 u. 96 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"161 e\", \"und\": false, \"new\": \"94\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"161 g-k\", \"und\": false, \"new\": \"120 120 a u. b\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"162\", \"und\": false, \"new\": \"88 u. 88 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"163 a\", \"und\": false, \"new\": \"86 u. 86 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"163 b I\", \"und\": false, \"new\": \"82\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"163 b II\", \"und\": false, \"new\": \"80\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"164 a\", \"und\": false, \"new\": \"76\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"164 b\", \"und\": false, \"new\": \"76 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"165 a\", \"und\": false, \"new\": \"29 u. 29 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"165 b\", \"und\": false, \"new\": \"43\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"166 a\", \"und\": false, \"new\": \"70\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"167 a\", \"und\": false, \"new\": \"60\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"167 b\", \"und\": false, \"new\": \"60 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"167 c\", \"und\": false, \"new\": \"60 b\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"163 a\", \"und\": false, \"new\": \"21\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"Druckfehler für 168 a\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"168 b\", \"und\": false, \"new\": \"19\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"168 c\", \"und\": false, \"new\": \"19 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"169\", \"und\": false, \"new\": \"58 u. 58 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"170 a\", \"und\": false, \"new\": \"56\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"170 b\", \"und\": false, \"new\": \"56 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"171\", \"und\": false, \"new\": \"54\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"172\", \"und\": false, \"new\": \"50\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"173 a\", \"und\": false, \"new\": \"48\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"173 b\", \"und\": false, \"new\": \"46\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"174 a I\", \"und\": false, \"new\": \"44\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"174 b\", \"und\": false, \"new\": \"13 13 a, 13 b\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"175\", \"und\": false, \"new\": \"11\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"176 a\", \"und\": false, \"new\": \"30\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"176 c\", \"und\": false, \"new\": \"30 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"176 b\", \"und\": false, \"new\": \"32\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"176 d\", \"und\": false, \"new\": \"36\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"176 e\", \"und\": false, \"new\": \"34\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"176 f\", \"und\": false, \"new\": \"36 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"177 a\", \"und\": false, \"new\": \"26\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"177 b\", \"und\": false, \"new\": \"24\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"177 c\", \"und\": false, \"new\": \"28\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"178\", \"und\": false, \"new\": \"5\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"179\", \"und\": false, \"new\": \"20 u. 20 b\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"180 a\", \"und\": false, \"new\": \"22\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"180 b\", \"und\": false, \"new\": \"22 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"181\", \"und\": false, \"new\": \"20 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"182\", \"und\": false, \"new\": \"14\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"183\", \"und\": false, \"new\": \"12\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"184\", \"und\": false, \"new\": \"16\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"185 a\", \"und\": false, \"new\": \"18\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"185 b\", \"und\": false, \"new\": \"18 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"185 c\", \"und\": false, \"new\": \"10\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"185 d\", \"und\": false, \"new\": \"10 a\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Altenberg-Drittel\", \"old\": \"186 a\", \"und\": false, \"new\": \"3\", \"street\": \"Altenbergstrasse\", \"hand\": false, \"note\": \"\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Stadtbezirk untenaus.",
+  "printed_page": "17",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 p",
+    "und": false,
+    "new": "33 a",
+    "street": "Turnweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 q",
+    "und": false,
+    "new": "18",
+    "street": "Zaunweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 r I",
+    "und": false,
+    "new": "20",
+    "street": "Zaunweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 r II",
+    "und": false,
+    "new": "22",
+    "street": "Zaunweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 s I",
+    "und": false,
+    "new": "23",
+    "street": "Zaunweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 s II",
+    "und": false,
+    "new": "28",
+    "street": "Turnweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 t",
+    "und": false,
+    "new": "21",
+    "street": "Greyerzweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 u",
+    "und": false,
+    "new": "14",
+    "street": "Grundweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 w",
+    "und": false,
+    "new": "24 u. 24 a",
+    "street": "Turnweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 x I",
+    "und": false,
+    "new": "26",
+    "street": "Turnweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 z",
+    "und": false,
+    "new": "22",
+    "street": "Turnweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "142 y",
+    "und": false,
+    "new": "14 a",
+    "street": "Grundweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "143 a",
+    "und": false,
+    "new": "22",
+    "street": "Jägerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "143 b",
+    "und": false,
+    "new": "20",
+    "street": "Jägerweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "143 c",
+    "und": false,
+    "new": "29",
+    "street": "Flurweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "143 f",
+    "und": false,
+    "new": "16",
+    "street": "Wylerstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "143 h",
+    "und": false,
+    "new": "25",
+    "street": "Flurweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "143 i",
+    "und": false,
+    "new": "21",
+    "street": "Flurweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "143 k",
+    "und": false,
+    "new": "19",
+    "street": "Flurweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "144",
+    "und": false,
+    "new": "29",
+    "street": "Wylerstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "145",
+    "und": false,
+    "new": "29 a",
+    "street": "Wylerstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "146 a",
+    "und": false,
+    "new": "45",
+    "street": "Wylerstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "146 b",
+    "und": false,
+    "new": "45 a",
+    "street": "Wylerstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "146 c I-IV, d, h",
+    "und": false,
+    "new": "48 u. 48 a-e",
+    "street": "Wylerstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "147 a",
+    "und": false,
+    "new": "9",
+    "street": "Steinweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "147 b",
+    "und": false,
+    "new": "11",
+    "street": "Steinweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "147 c",
+    "und": false,
+    "new": "3",
+    "street": "Steinweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "147 d",
+    "und": false,
+    "new": "37",
+    "street": "Wylerstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "147 e",
+    "und": false,
+    "new": "5",
+    "street": "Steinweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 a",
+    "und": false,
+    "new": "4",
+    "street": "Uferweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 b",
+    "und": false,
+    "new": "13",
+    "street": "Uferweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "—",
+    "und": false,
+    "new": "15",
+    "street": "Uferweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 c",
+    "und": false,
+    "new": "1",
+    "street": "Uferweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 d",
+    "und": false,
+    "new": "7 u. 7 a",
+    "street": "Uferweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 e",
+    "und": false,
+    "new": "10",
+    "street": "Uferweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 n",
+    "und": false,
+    "new": "6",
+    "street": "Uferweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 o",
+    "und": false,
+    "new": "2",
+    "street": "Uferweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 p",
+    "und": false,
+    "new": "42",
+    "street": "Uferweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 q",
+    "und": false,
+    "new": "11",
+    "street": "Uferweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 r",
+    "und": false,
+    "new": "65",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 f-h",
+    "und": false,
+    "new": "21 u. 21 a-c",
+    "street": "Altenbergrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 i-m",
+    "und": false,
+    "new": "21 d-f",
+    "street": "Altenbergrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "156 s",
+    "und": false,
+    "new": "65 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "157 a",
+    "und": false,
+    "new": "2",
+    "street": "Altenbergrain",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "157 b I",
+    "und": false,
+    "new": "134",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "157 b II",
+    "und": false,
+    "new": "134 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "158 a",
+    "und": false,
+    "new": "128 u. 128 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "158 e",
+    "und": false,
+    "new": "132",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "158 b",
+    "und": false,
+    "new": "59",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "158 g",
+    "und": false,
+    "new": "59 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "158 c",
+    "und": false,
+    "new": "55",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "158 f",
+    "und": false,
+    "new": "55 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "159",
+    "und": false,
+    "new": "53",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "160 a",
+    "und": false,
+    "new": "102",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Altenberg-Drittel",
+    "old": "160 b",
+    "und": false,
+    "new": "104",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "160 c",
+    "und": false,
+    "new": "100",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "160 d",
+    "und": false,
+    "new": "100 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "161 a I",
+    "und": false,
+    "new": "110",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "161 a II",
+    "und": false,
+    "new": "110 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "161 b",
+    "und": false,
+    "new": "112",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "161 c",
+    "und": false,
+    "new": "114 114 a u. 114 b",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "161 d",
+    "und": false,
+    "new": "96 u. 96 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "161 e",
+    "und": false,
+    "new": "94",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "161 g-k",
+    "und": false,
+    "new": "120 120 a u. b",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "162",
+    "und": false,
+    "new": "88 u. 88 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "163 a",
+    "und": false,
+    "new": "86 u. 86 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "163 b I",
+    "und": false,
+    "new": "82",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "163 b II",
+    "und": false,
+    "new": "80",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "164 a",
+    "und": false,
+    "new": "76",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "164 b",
+    "und": false,
+    "new": "76 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "165 a",
+    "und": false,
+    "new": "29 u. 29 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "165 b",
+    "und": false,
+    "new": "43",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "166 a",
+    "und": false,
+    "new": "70",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "167 a",
+    "und": false,
+    "new": "60",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "167 b",
+    "und": false,
+    "new": "60 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "167 c",
+    "und": false,
+    "new": "60 b",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "163 a",
+    "und": false,
+    "new": "21",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": "Druckfehler für 168 a"
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "168 b",
+    "und": false,
+    "new": "19",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "168 c",
+    "und": false,
+    "new": "19 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "169",
+    "und": false,
+    "new": "58 u. 58 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "170 a",
+    "und": false,
+    "new": "56",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "170 b",
+    "und": false,
+    "new": "56 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "171",
+    "und": false,
+    "new": "54",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "172",
+    "und": false,
+    "new": "50",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "173 a",
+    "und": false,
+    "new": "48",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "173 b",
+    "und": false,
+    "new": "46",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "174 a I",
+    "und": false,
+    "new": "44",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "174 b",
+    "und": false,
+    "new": "13 13 a, 13 b",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "175",
+    "und": false,
+    "new": "11",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "176 a",
+    "und": false,
+    "new": "30",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "176 c",
+    "und": false,
+    "new": "30 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "176 b",
+    "und": false,
+    "new": "32",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "176 d",
+    "und": false,
+    "new": "36",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "176 e",
+    "und": false,
+    "new": "34",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "176 f",
+    "und": false,
+    "new": "36 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "177 a",
+    "und": false,
+    "new": "26",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "177 b",
+    "und": false,
+    "new": "24",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "177 c",
+    "und": false,
+    "new": "28",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "178",
+    "und": false,
+    "new": "5",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "179",
+    "und": false,
+    "new": "20 u. 20 b",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "180 a",
+    "und": false,
+    "new": "22",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "180 b",
+    "und": false,
+    "new": "22 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "181",
+    "und": false,
+    "new": "20 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "182",
+    "und": false,
+    "new": "14",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "183",
+    "und": false,
+    "new": "12",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "184",
+    "und": false,
+    "new": "16",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "185 a",
+    "und": false,
+    "new": "18",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "185 b",
+    "und": false,
+    "new": "18 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "185 c",
+    "und": false,
+    "new": "10",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "185 d",
+    "und": false,
+    "new": "10 a",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Altenberg-Drittel",
+    "old": "186 a",
+    "und": false,
+    "new": "3",
+    "street": "Altenbergstrasse",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:57:16+01:00"
+}

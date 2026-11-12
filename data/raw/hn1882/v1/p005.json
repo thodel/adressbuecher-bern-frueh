@@ -1,0 +1,24 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 5,
+ "thinking": "medium",
+ "started": "2026-11-12T07:52:47+01:00",
+ "seconds": 3.7,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1692,
+  "output": 56,
+  "thoughts": 137
+ },
+ "response_text": "{\"page_heading\": \"Die Häuser-Nummerirung in Bern. Gegenüberstellung der alten und neuen Hausnummern. I. Theil. Die innere Stadt.\",\n \"printed_page\": \"\",\n \"rows\": [],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Die Häuser-Nummerirung in Bern. Gegenüberstellung der alten und neuen Hausnummern. I. Theil. Die innere Stadt.",
+  "printed_page": "",
+  "rows": [],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:52:51+01:00"
+}

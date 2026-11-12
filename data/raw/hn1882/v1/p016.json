@@ -1,0 +1,1135 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 16,
+ "thinking": "medium",
+ "started": "2026-11-12T07:53:22+01:00",
+ "seconds": 76.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 6403,
+  "thoughts": 5910
+ },
+ "response_text": "{\"page_heading\": \"Grünes Quartier.\",\n \"printed_page\": \"10\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"90\", \"und\": false, \"new\": \"30\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"91\", \"und\": false, \"new\": \"28\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"92\", \"und\": false, \"new\": \"26\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"93\", \"und\": false, \"new\": \"24\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"94 a\", \"und\": false, \"new\": \"22\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"94 b\", \"und\": false, \"new\": \"20\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"95 a/b\", \"und\": false, \"new\": \"18\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"95 a/b\", \"und\": true, \"new\": \"15\", \"street\": \"Brunngasshalde\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"96\", \"und\": false, \"new\": \"16\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"96\", \"und\": true, \"new\": \"13\", \"street\": \"Brunngasshalde\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"97\", \"und\": false, \"new\": \"14\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"97\", \"und\": true, \"new\": \"11\", \"street\": \"Brunngasshalde\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"98\", \"und\": false, \"new\": \"12\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"98\", \"und\": true, \"new\": \"9\", \"street\": \"Brunngasshalde\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"100\", \"und\": false, \"new\": \"8\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"101\", \"und\": false, \"new\": \"6\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"102 a\", \"und\": false, \"new\": \"4\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"102 b\", \"und\": false, \"new\": \"2\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"102 b\", \"und\": true, \"new\": \"1\", \"street\": \"Brunngasshalde\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"106\", \"und\": false, \"new\": \"1\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"107\", \"und\": false, \"new\": \"3\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"108\", \"und\": false, \"new\": \"5\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"110\", \"und\": false, \"new\": \"13\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"handschriftlich am Rand: 109 >\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"111\", \"und\": false, \"new\": \"15\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"112\", \"und\": false, \"new\": \"17\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"113\", \"und\": false, \"new\": \"19\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"114\", \"und\": false, \"new\": \"21\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"115\", \"und\": false, \"new\": \"23\", \"street\": \"Metzgergasse\", \"hand\": true, \"note\": \"gedruckt: 22; handschriftlich am Rand: | 23 |\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"116\", \"und\": false, \"new\": \"25\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"117\", \"und\": false, \"new\": \"27\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"118\", \"und\": false, \"new\": \"29\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"119\", \"und\": false, \"new\": \"31\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"119\", \"und\": true, \"new\": \"3\", \"street\": \"Schaalgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"119 a\", \"und\": false, \"new\": \"33\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"120\", \"und\": false, \"new\": \"35\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"121\", \"und\": false, \"new\": \"37\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"122\", \"und\": false, \"new\": \"39\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"123\", \"und\": false, \"new\": \"41\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"124\", \"und\": false, \"new\": \"43\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"125\", \"und\": false, \"new\": \"45\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"126\", \"und\": false, \"new\": \"47\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"127\", \"und\": false, \"new\": \"49\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"128\", \"und\": false, \"new\": \"51\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"129\", \"und\": false, \"new\": \"53\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"130\", \"und\": false, \"new\": \"55\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"131\", \"und\": false, \"new\": \"57\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"132\", \"und\": false, \"new\": \"61\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"133\", \"und\": false, \"new\": \"63\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"134\", \"und\": false, \"new\": \"67\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"135\", \"und\": false, \"new\": \"69\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"136\", \"und\": false, \"new\": \"71\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"137\", \"und\": false, \"new\": \"73\", \"street\": \"Metzgergasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Metzgergasse\", \"old\": \"137\", \"und\": true, \"new\": \"3\", \"street\": \"Zwiebelngchn.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"138\", \"und\": false, \"new\": \"84\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Kramgasse\", \"old\": \"138\", \"und\": true, \"new\": \"1\", \"street\": \"Zwiebelngchn.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"139\", \"und\": false, \"new\": \"82\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"140\", \"und\": false, \"new\": \"80\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"141\", \"und\": false, \"new\": \"78\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"142\", \"und\": false, \"new\": \"76\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"handschriftlich ergänzt: u. 65 Mtzgg.\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"143/144\", \"und\": false, \"new\": \"74\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"145\", \"und\": false, \"new\": \"72\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"146\", \"und\": false, \"new\": \"70\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"147\", \"und\": false, \"new\": \"68\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"148\", \"und\": false, \"new\": \"66\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"149\", \"und\": false, \"new\": \"64\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"150\", \"und\": false, \"new\": \"62\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"151\", \"und\": false, \"new\": \"60\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"152\", \"und\": false, \"new\": \"58\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"153\", \"und\": false, \"new\": \"56\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"154\", \"und\": false, \"new\": \"54\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"155\", \"und\": false, \"new\": \"52\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"156\", \"und\": false, \"new\": \"50\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"157\", \"und\": false, \"new\": \"48\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"158\", \"und\": false, \"new\": \"46\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"159\", \"und\": false, \"new\": \"44\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"160\", \"und\": false, \"new\": \"42\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"161\", \"und\": false, \"new\": \"40\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"162 a\", \"und\": false, \"new\": \"38\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"162 b\", \"und\": false, \"new\": \"36\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"163\", \"und\": false, \"new\": \"34\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"163\", \"und\": true, \"new\": \"1\", \"street\": \"Schaalgächn.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"164\", \"und\": false, \"new\": \"32\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"165\", \"und\": false, \"new\": \"30\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"166\", \"und\": false, \"new\": \"28\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"167\", \"und\": false, \"new\": \"26\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"168\", \"und\": false, \"new\": \"24\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"169\", \"und\": false, \"new\": \"22\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"170\", \"und\": false, \"new\": \"20\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"171\", \"und\": false, \"new\": \"18\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"172\", \"und\": false, \"new\": \"16\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"173\", \"und\": false, \"new\": \"14\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"174\", \"und\": false, \"new\": \"12\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"175\", \"und\": false, \"new\": \"10\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"176\", \"und\": false, \"new\": \"8\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"177/178\", \"und\": false, \"new\": \"6\", \"street\": \"Kramgasse\", \"hand\": true, \"note\": \"gedruckt: 177\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"179\", \"und\": false, \"new\": \"4\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"180\", \"und\": false, \"new\": \"2\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"181\", \"und\": false, \"new\": \"2\", \"street\": \"Rathhausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"182\", \"und\": false, \"new\": \"1\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"183\", \"und\": false, \"new\": \"3\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"184\", \"und\": false, \"new\": \"5\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"185\", \"und\": false, \"new\": \"7\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"186\", \"und\": false, \"new\": \"9\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"187\", \"und\": false, \"new\": \"11\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"188\", \"und\": false, \"new\": \"13\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"189\", \"und\": false, \"new\": \"15\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"190\", \"und\": false, \"new\": \"17\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"191/192\", \"und\": false, \"new\": \"19\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"191/192\", \"und\": true, \"new\": \"20\", \"street\": \"Kirchgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"193\", \"und\": false, \"new\": \"21\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Kramgasse\", \"old\": \"194\", \"und\": false, \"new\": \"23\", \"street\": \"Kramgasse\", \"hand\": false, \"note\": \"\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Grünes Quartier.",
+  "printed_page": "10",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "90",
+    "und": false,
+    "new": "30",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "91",
+    "und": false,
+    "new": "28",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "92",
+    "und": false,
+    "new": "26",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "93",
+    "und": false,
+    "new": "24",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "94 a",
+    "und": false,
+    "new": "22",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "94 b",
+    "und": false,
+    "new": "20",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "95 a/b",
+    "und": false,
+    "new": "18",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "95 a/b",
+    "und": true,
+    "new": "15",
+    "street": "Brunngasshalde",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "96",
+    "und": false,
+    "new": "16",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "96",
+    "und": true,
+    "new": "13",
+    "street": "Brunngasshalde",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "97",
+    "und": false,
+    "new": "14",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "97",
+    "und": true,
+    "new": "11",
+    "street": "Brunngasshalde",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "98",
+    "und": false,
+    "new": "12",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "98",
+    "und": true,
+    "new": "9",
+    "street": "Brunngasshalde",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "100",
+    "und": false,
+    "new": "8",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "101",
+    "und": false,
+    "new": "6",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "102 a",
+    "und": false,
+    "new": "4",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "102 b",
+    "und": false,
+    "new": "2",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "102 b",
+    "und": true,
+    "new": "1",
+    "street": "Brunngasshalde",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "106",
+    "und": false,
+    "new": "1",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "107",
+    "und": false,
+    "new": "3",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "108",
+    "und": false,
+    "new": "5",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "110",
+    "und": false,
+    "new": "13",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": "handschriftlich am Rand: 109 >"
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "111",
+    "und": false,
+    "new": "15",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "112",
+    "und": false,
+    "new": "17",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "113",
+    "und": false,
+    "new": "19",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "114",
+    "und": false,
+    "new": "21",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "115",
+    "und": false,
+    "new": "23",
+    "street": "Metzgergasse",
+    "hand": true,
+    "note": "gedruckt: 22; handschriftlich am Rand: | 23 |"
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "116",
+    "und": false,
+    "new": "25",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "117",
+    "und": false,
+    "new": "27",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "118",
+    "und": false,
+    "new": "29",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "119",
+    "und": false,
+    "new": "31",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "119",
+    "und": true,
+    "new": "3",
+    "street": "Schaalgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "119 a",
+    "und": false,
+    "new": "33",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "120",
+    "und": false,
+    "new": "35",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "121",
+    "und": false,
+    "new": "37",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "122",
+    "und": false,
+    "new": "39",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "123",
+    "und": false,
+    "new": "41",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "124",
+    "und": false,
+    "new": "43",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "125",
+    "und": false,
+    "new": "45",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "126",
+    "und": false,
+    "new": "47",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "127",
+    "und": false,
+    "new": "49",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "128",
+    "und": false,
+    "new": "51",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "129",
+    "und": false,
+    "new": "53",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "130",
+    "und": false,
+    "new": "55",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "131",
+    "und": false,
+    "new": "57",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "132",
+    "und": false,
+    "new": "61",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "133",
+    "und": false,
+    "new": "63",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "134",
+    "und": false,
+    "new": "67",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "135",
+    "und": false,
+    "new": "69",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "136",
+    "und": false,
+    "new": "71",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "137",
+    "und": false,
+    "new": "73",
+    "street": "Metzgergasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Metzgergasse",
+    "old": "137",
+    "und": true,
+    "new": "3",
+    "street": "Zwiebelngchn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "138",
+    "und": false,
+    "new": "84",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Kramgasse",
+    "old": "138",
+    "und": true,
+    "new": "1",
+    "street": "Zwiebelngchn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "139",
+    "und": false,
+    "new": "82",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "140",
+    "und": false,
+    "new": "80",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "141",
+    "und": false,
+    "new": "78",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "142",
+    "und": false,
+    "new": "76",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": "handschriftlich ergänzt: u. 65 Mtzgg."
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "143/144",
+    "und": false,
+    "new": "74",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "145",
+    "und": false,
+    "new": "72",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "146",
+    "und": false,
+    "new": "70",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "147",
+    "und": false,
+    "new": "68",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "148",
+    "und": false,
+    "new": "66",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "149",
+    "und": false,
+    "new": "64",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "150",
+    "und": false,
+    "new": "62",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "151",
+    "und": false,
+    "new": "60",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "152",
+    "und": false,
+    "new": "58",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "153",
+    "und": false,
+    "new": "56",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "154",
+    "und": false,
+    "new": "54",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "155",
+    "und": false,
+    "new": "52",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "156",
+    "und": false,
+    "new": "50",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "157",
+    "und": false,
+    "new": "48",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "158",
+    "und": false,
+    "new": "46",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "159",
+    "und": false,
+    "new": "44",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "160",
+    "und": false,
+    "new": "42",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "161",
+    "und": false,
+    "new": "40",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "162 a",
+    "und": false,
+    "new": "38",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "162 b",
+    "und": false,
+    "new": "36",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "163",
+    "und": false,
+    "new": "34",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "163",
+    "und": true,
+    "new": "1",
+    "street": "Schaalgächn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "164",
+    "und": false,
+    "new": "32",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "165",
+    "und": false,
+    "new": "30",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "166",
+    "und": false,
+    "new": "28",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "167",
+    "und": false,
+    "new": "26",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "168",
+    "und": false,
+    "new": "24",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "169",
+    "und": false,
+    "new": "22",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "170",
+    "und": false,
+    "new": "20",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "171",
+    "und": false,
+    "new": "18",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "172",
+    "und": false,
+    "new": "16",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "173",
+    "und": false,
+    "new": "14",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "174",
+    "und": false,
+    "new": "12",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "175",
+    "und": false,
+    "new": "10",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "176",
+    "und": false,
+    "new": "8",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "177/178",
+    "und": false,
+    "new": "6",
+    "street": "Kramgasse",
+    "hand": true,
+    "note": "gedruckt: 177"
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "179",
+    "und": false,
+    "new": "4",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "180",
+    "und": false,
+    "new": "2",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "181",
+    "und": false,
+    "new": "2",
+    "street": "Rathhausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "182",
+    "und": false,
+    "new": "1",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "183",
+    "und": false,
+    "new": "3",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "184",
+    "und": false,
+    "new": "5",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "185",
+    "und": false,
+    "new": "7",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "186",
+    "und": false,
+    "new": "9",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "187",
+    "und": false,
+    "new": "11",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "188",
+    "und": false,
+    "new": "13",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "189",
+    "und": false,
+    "new": "15",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "190",
+    "und": false,
+    "new": "17",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "191/192",
+    "und": false,
+    "new": "19",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "191/192",
+    "und": true,
+    "new": "20",
+    "street": "Kirchgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "193",
+    "und": false,
+    "new": "21",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Kramgasse",
+    "old": "194",
+    "und": false,
+    "new": "23",
+    "street": "Kramgasse",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:54:38+01:00"
+}

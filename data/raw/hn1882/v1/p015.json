@@ -1,0 +1,895 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 15,
+ "thinking": "medium",
+ "started": "2026-11-12T07:52:52+01:00",
+ "seconds": 45.9,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 5036,
+  "thoughts": 3056
+ },
+ "response_text": "{\"page_heading\": \"Grünes Quartier.\",\n \"printed_page\": \"9\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"14\", \"und\": false, \"new\": \"22\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"15\", \"und\": false, \"new\": \"24\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"15\", \"und\": true, \"new\": \"39\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"16\", \"und\": false, \"new\": \"26\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"16\", \"und\": true, \"new\": \"41\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"17\", \"und\": false, \"new\": \"28\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"17\", \"und\": true, \"new\": \"43\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"18\", \"und\": false, \"new\": \"30\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"18\", \"und\": true, \"new\": \"45\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"19\", \"und\": false, \"new\": \"32\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"19\", \"und\": true, \"new\": \"47\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"20\", \"und\": false, \"new\": \"34\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"20\", \"und\": true, \"new\": \"49\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"21 a\", \"und\": false, \"new\": \"36\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"21 b\", \"und\": false, \"new\": \"51\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"22 a\", \"und\": false, \"new\": \"38\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"22 b\", \"und\": false, \"new\": \"53\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"23\", \"und\": false, \"new\": \"55\", \"street\": \"Brunngasse\", \"note\": \"handschriftlich am Rand: [ 40 / 55; vor 55 handschriftlicher Strich\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"23\", \"und\": true, \"new\": \"40\", \"street\": \"Brunngasshalde\", \"note\": \"vor 40 handschriftlicher Strich\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"24\", \"und\": false, \"new\": \"42\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"24\", \"und\": true, \"new\": \"57\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"25\", \"und\": false, \"new\": \"44\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"25\", \"und\": true, \"new\": \"59\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"26\", \"und\": false, \"new\": \"46\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"26\", \"und\": true, \"new\": \"61\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"26\", \"und\": false, \"new\": \"46\", \"street\": \"Brunngasse\", \"note\": \"durchgestrichen\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"26\", \"und\": true, \"new\": \"61\", \"street\": \"Brunngasshalde\", \"note\": \"durchgestrichen\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"27\", \"und\": false, \"new\": \"49\", \"street\": \"Brunngasse\", \"note\": \"handschriftlich am Rand: | 48; vor 49 handschriftlicher Strich\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"27\", \"und\": true, \"new\": \"63\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"28\", \"und\": false, \"new\": \"50\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"28\", \"und\": true, \"new\": \"65\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"29\", \"und\": false, \"new\": \"52\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"29\", \"und\": true, \"new\": \"67\", \"street\": \"Brunngasshalde\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"30/31\", \"und\": false, \"new\": \"54\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"30/31\", \"und\": true, \"new\": \"69\", \"street\": \"Brunngasshalde\", \"note\": \"frühere Nummer 31 vor «u. 69» durchgestrichen\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"32\", \"und\": false, \"new\": \"56\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"32\", \"und\": true, \"new\": \"13\", \"street\": \"Graben-Prom.\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"33\", \"und\": false, \"new\": \"58\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"33\", \"und\": true, \"new\": \"11\", \"street\": \"Graben-Prom.\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"34\", \"und\": false, \"new\": \"60\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"34\", \"und\": true, \"new\": \"9\", \"street\": \"Graben-Prom.\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"35\", \"und\": false, \"new\": \"62\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"35\", \"und\": true, \"new\": \"7\", \"street\": \"Graben-Prom.\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"36\", \"und\": false, \"new\": \"64\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"36\", \"und\": true, \"new\": \"5\", \"street\": \"Graben-Prom.\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"37\", \"und\": false, \"new\": \"66\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"37\", \"und\": true, \"new\": \"3\", \"street\": \"Graben-Prom.\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"38\", \"und\": false, \"new\": \"68\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"38\", \"und\": true, \"new\": \"1\", \"street\": \"Graben-Prom.\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"39\", \"und\": false, \"new\": \"70\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"40\", \"und\": false, \"new\": \"72\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"41\", \"und\": false, \"new\": \"74\", \"street\": \"Brunngasse\"},\n  {\"col\": 1, \"group\": \"Brunngasse\", \"old\": \"41\", \"und\": true, \"new\": \"2\", \"street\": \"Statthaltergchn.\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"42\", \"und\": false, \"new\": \"15\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 1, \"group\": \"Kornhausplatz\", \"old\": \"42\", \"und\": true, \"new\": \"4\", \"street\": \"Statthaltergchn.\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"43\", \"und\": false, \"new\": \"17\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"44 a\", \"und\": false, \"new\": \"19\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"44 b\", \"und\": false, \"new\": \"1\", \"street\": \"Graben-Prom.\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"45\", \"und\": false, \"new\": \"13\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"46\", \"und\": false, \"new\": \"11\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"47\", \"und\": false, \"new\": \"9\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"48\", \"und\": false, \"new\": \"7\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"49\", \"und\": false, \"new\": \"5\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"50\", \"und\": false, \"new\": \"3\", \"street\": \"Kornhausplatz\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"51/52\", \"und\": false, \"new\": \"4\", \"street\": \"B. Zeitglockenth.\"},\n  {\"col\": 2, \"group\": \"Kornhausplatz\", \"old\": \"53\", \"und\": false, \"new\": \"2\", \"street\": \"B. Zeitglockenth.\"},\n  {\"col\": 2, \"group\": \"Zwiebelngässchen\", \"old\": \"54\", \"und\": false, \"new\": \"4\", \"street\": \"Zwiebelngchn.\"},\n  {\"col\": 2, \"group\": \"Zwiebelngässchen\", \"old\": \"55\", \"und\": false, \"new\": \"6\", \"street\": \"Zwiebelngchn.\"},\n  {\"col\": 2, \"group\": \"Zwiebelngässchen\", \"old\": \"56\", \"und\": false, \"new\": \"8\", \"street\": \"Zwiebelngchn.\"},\n  {\"col\": 2, \"group\": \"Zwiebelngässchen\", \"old\": \"57\", \"und\": false, \"new\": \"10\", \"street\": \"Zwiebelngchn.\"},\n  {\"col\": 2, \"group\": \"Zwiebelngässchen\", \"old\": \"58\", \"und\": false, \"new\": \"12\", \"street\": \"Zwiebelngchn.\"},\n  {\"col\": 2, \"group\": \"Zwiebelngässchen\", \"old\": \"59\", \"und\": false, \"new\": \"14\", \"street\": \"Zwiebelngchn.\"},\n  {\"col\": 2, \"group\": \"Zwiebelngässchen\", \"old\": \"60\", \"und\": false, \"new\": \"16\", \"street\": \"Zwiebelngchn.\"},\n  {\"col\": 2, \"group\": \"Zwiebelngässchen\", \"old\": \"61\", \"und\": false, \"new\": \"18\", \"street\": \"Zwiebelngchn.\"},\n  {\"col\": 2, \"group\": \"Zwiebelngässchen\", \"old\": \"62\", \"und\": false, \"new\": \"20\", \"street\": \"Zwiebelngchn.\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"63\", \"und\": false, \"new\": \"39\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"64\", \"und\": false, \"new\": \"80\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"65\", \"und\": false, \"new\": \"78\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"66\", \"und\": false, \"new\": \"76\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"67\", \"und\": false, \"new\": \"74\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"68 a\", \"und\": false, \"new\": \"72\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"68 b\", \"und\": false, \"new\": \"31\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"68 c\", \"und\": false, \"new\": \"35\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"69/70\", \"und\": false, \"new\": \"70\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"71\", \"und\": false, \"new\": \"68\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"72\", \"und\": false, \"new\": \"66\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"73\", \"und\": false, \"new\": \"64\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"74\", \"und\": false, \"new\": \"62\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"74\", \"und\": true, \"new\": \"23/25\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"75\", \"und\": false, \"new\": \"60\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"76 a\", \"und\": false, \"new\": \"58\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"76 c\", \"und\": false, \"new\": \"21\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"76 b\", \"und\": false, \"new\": \"21 a\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"77\", \"und\": false, \"new\": \"56\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"78\", \"und\": false, \"new\": \"54\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"79\", \"und\": false, \"new\": \"52\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"80\", \"und\": false, \"new\": \"50\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"81\", \"und\": false, \"new\": \"48\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"82\", \"und\": false, \"new\": \"4\", \"street\": \"Schlossergchn.\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"82\", \"und\": true, \"new\": \"19\", \"street\": \"Brunngasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"83\", \"und\": false, \"new\": \"46\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"84 a\", \"und\": false, \"new\": \"44\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"84 b\", \"und\": false, \"new\": \"42\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"85\", \"und\": false, \"new\": \"40\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"86\", \"und\": false, \"new\": \"38\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"87\", \"und\": false, \"new\": \"36\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"88\", \"und\": false, \"new\": \"34\", \"street\": \"Metzgergasse\"},\n  {\"col\": 2, \"group\": \"Metzgergasse\", \"old\": \"89\", \"und\": false, \"new\": \"32\", \"street\": \"Metzgergasse\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Grünes Quartier.",
+  "printed_page": "9",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "14",
+    "und": false,
+    "new": "22",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "15",
+    "und": false,
+    "new": "24",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "15",
+    "und": true,
+    "new": "39",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "16",
+    "und": false,
+    "new": "26",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "16",
+    "und": true,
+    "new": "41",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "17",
+    "und": false,
+    "new": "28",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "17",
+    "und": true,
+    "new": "43",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "18",
+    "und": false,
+    "new": "30",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "18",
+    "und": true,
+    "new": "45",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "19",
+    "und": false,
+    "new": "32",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "19",
+    "und": true,
+    "new": "47",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "20",
+    "und": false,
+    "new": "34",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "20",
+    "und": true,
+    "new": "49",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "21 a",
+    "und": false,
+    "new": "36",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "21 b",
+    "und": false,
+    "new": "51",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "22 a",
+    "und": false,
+    "new": "38",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "22 b",
+    "und": false,
+    "new": "53",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "23",
+    "und": false,
+    "new": "55",
+    "street": "Brunngasse",
+    "note": "handschriftlich am Rand: [ 40 / 55; vor 55 handschriftlicher Strich"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "23",
+    "und": true,
+    "new": "40",
+    "street": "Brunngasshalde",
+    "note": "vor 40 handschriftlicher Strich"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "24",
+    "und": false,
+    "new": "42",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "24",
+    "und": true,
+    "new": "57",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "25",
+    "und": false,
+    "new": "44",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "25",
+    "und": true,
+    "new": "59",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "26",
+    "und": false,
+    "new": "46",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "26",
+    "und": true,
+    "new": "61",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "26",
+    "und": false,
+    "new": "46",
+    "street": "Brunngasse",
+    "note": "durchgestrichen"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "26",
+    "und": true,
+    "new": "61",
+    "street": "Brunngasshalde",
+    "note": "durchgestrichen"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "27",
+    "und": false,
+    "new": "49",
+    "street": "Brunngasse",
+    "note": "handschriftlich am Rand: | 48; vor 49 handschriftlicher Strich"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "27",
+    "und": true,
+    "new": "63",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "28",
+    "und": false,
+    "new": "50",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "28",
+    "und": true,
+    "new": "65",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "29",
+    "und": false,
+    "new": "52",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "29",
+    "und": true,
+    "new": "67",
+    "street": "Brunngasshalde"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "30/31",
+    "und": false,
+    "new": "54",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "30/31",
+    "und": true,
+    "new": "69",
+    "street": "Brunngasshalde",
+    "note": "frühere Nummer 31 vor «u. 69» durchgestrichen"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "32",
+    "und": false,
+    "new": "56",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "32",
+    "und": true,
+    "new": "13",
+    "street": "Graben-Prom."
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "33",
+    "und": false,
+    "new": "58",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "33",
+    "und": true,
+    "new": "11",
+    "street": "Graben-Prom."
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "34",
+    "und": false,
+    "new": "60",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "34",
+    "und": true,
+    "new": "9",
+    "street": "Graben-Prom."
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "35",
+    "und": false,
+    "new": "62",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "35",
+    "und": true,
+    "new": "7",
+    "street": "Graben-Prom."
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "36",
+    "und": false,
+    "new": "64",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "36",
+    "und": true,
+    "new": "5",
+    "street": "Graben-Prom."
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "37",
+    "und": false,
+    "new": "66",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "37",
+    "und": true,
+    "new": "3",
+    "street": "Graben-Prom."
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "38",
+    "und": false,
+    "new": "68",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "38",
+    "und": true,
+    "new": "1",
+    "street": "Graben-Prom."
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "39",
+    "und": false,
+    "new": "70",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "40",
+    "und": false,
+    "new": "72",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "41",
+    "und": false,
+    "new": "74",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 1,
+    "group": "Brunngasse",
+    "old": "41",
+    "und": true,
+    "new": "2",
+    "street": "Statthaltergchn."
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "42",
+    "und": false,
+    "new": "15",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 1,
+    "group": "Kornhausplatz",
+    "old": "42",
+    "und": true,
+    "new": "4",
+    "street": "Statthaltergchn."
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "43",
+    "und": false,
+    "new": "17",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "44 a",
+    "und": false,
+    "new": "19",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "44 b",
+    "und": false,
+    "new": "1",
+    "street": "Graben-Prom."
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "45",
+    "und": false,
+    "new": "13",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "46",
+    "und": false,
+    "new": "11",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "47",
+    "und": false,
+    "new": "9",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "48",
+    "und": false,
+    "new": "7",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "49",
+    "und": false,
+    "new": "5",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "50",
+    "und": false,
+    "new": "3",
+    "street": "Kornhausplatz"
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "51/52",
+    "und": false,
+    "new": "4",
+    "street": "B. Zeitglockenth."
+   },
+   {
+    "col": 2,
+    "group": "Kornhausplatz",
+    "old": "53",
+    "und": false,
+    "new": "2",
+    "street": "B. Zeitglockenth."
+   },
+   {
+    "col": 2,
+    "group": "Zwiebelngässchen",
+    "old": "54",
+    "und": false,
+    "new": "4",
+    "street": "Zwiebelngchn."
+   },
+   {
+    "col": 2,
+    "group": "Zwiebelngässchen",
+    "old": "55",
+    "und": false,
+    "new": "6",
+    "street": "Zwiebelngchn."
+   },
+   {
+    "col": 2,
+    "group": "Zwiebelngässchen",
+    "old": "56",
+    "und": false,
+    "new": "8",
+    "street": "Zwiebelngchn."
+   },
+   {
+    "col": 2,
+    "group": "Zwiebelngässchen",
+    "old": "57",
+    "und": false,
+    "new": "10",
+    "street": "Zwiebelngchn."
+   },
+   {
+    "col": 2,
+    "group": "Zwiebelngässchen",
+    "old": "58",
+    "und": false,
+    "new": "12",
+    "street": "Zwiebelngchn."
+   },
+   {
+    "col": 2,
+    "group": "Zwiebelngässchen",
+    "old": "59",
+    "und": false,
+    "new": "14",
+    "street": "Zwiebelngchn."
+   },
+   {
+    "col": 2,
+    "group": "Zwiebelngässchen",
+    "old": "60",
+    "und": false,
+    "new": "16",
+    "street": "Zwiebelngchn."
+   },
+   {
+    "col": 2,
+    "group": "Zwiebelngässchen",
+    "old": "61",
+    "und": false,
+    "new": "18",
+    "street": "Zwiebelngchn."
+   },
+   {
+    "col": 2,
+    "group": "Zwiebelngässchen",
+    "old": "62",
+    "und": false,
+    "new": "20",
+    "street": "Zwiebelngchn."
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "63",
+    "und": false,
+    "new": "39",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "64",
+    "und": false,
+    "new": "80",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "65",
+    "und": false,
+    "new": "78",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "66",
+    "und": false,
+    "new": "76",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "67",
+    "und": false,
+    "new": "74",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "68 a",
+    "und": false,
+    "new": "72",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "68 b",
+    "und": false,
+    "new": "31",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "68 c",
+    "und": false,
+    "new": "35",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "69/70",
+    "und": false,
+    "new": "70",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "71",
+    "und": false,
+    "new": "68",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "72",
+    "und": false,
+    "new": "66",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "73",
+    "und": false,
+    "new": "64",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "74",
+    "und": false,
+    "new": "62",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "74",
+    "und": true,
+    "new": "23/25",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "75",
+    "und": false,
+    "new": "60",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "76 a",
+    "und": false,
+    "new": "58",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "76 c",
+    "und": false,
+    "new": "21",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "76 b",
+    "und": false,
+    "new": "21 a",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "77",
+    "und": false,
+    "new": "56",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "78",
+    "und": false,
+    "new": "54",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "79",
+    "und": false,
+    "new": "52",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "80",
+    "und": false,
+    "new": "50",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "81",
+    "und": false,
+    "new": "48",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "82",
+    "und": false,
+    "new": "4",
+    "street": "Schlossergchn."
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "82",
+    "und": true,
+    "new": "19",
+    "street": "Brunngasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "83",
+    "und": false,
+    "new": "46",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "84 a",
+    "und": false,
+    "new": "44",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "84 b",
+    "und": false,
+    "new": "42",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "85",
+    "und": false,
+    "new": "40",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "86",
+    "und": false,
+    "new": "38",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "87",
+    "und": false,
+    "new": "36",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "88",
+    "und": false,
+    "new": "34",
+    "street": "Metzgergasse"
+   },
+   {
+    "col": 2,
+    "group": "Metzgergasse",
+    "old": "89",
+    "und": false,
+    "new": "32",
+    "street": "Metzgergasse"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:53:38+01:00"
+}

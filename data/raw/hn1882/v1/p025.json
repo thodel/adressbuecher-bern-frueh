@@ -1,0 +1,24 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 25,
+ "thinking": "medium",
+ "started": "2026-11-12T07:54:06+01:00",
+ "seconds": 4.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 44,
+  "thoughts": 216
+ },
+ "response_text": "{\n  \"page_heading\": \"II. Theil. Die Aussen-Quartiere.\",\n  \"printed_page\": \"\",\n  \"rows\": [],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "II. Theil. Die Aussen-Quartiere.",
+  "printed_page": "",
+  "rows": [],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:54:10+01:00"
+}

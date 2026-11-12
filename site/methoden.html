@@ -51,7 +51,7 @@
 <p>Einzelne N statt R können trotzdem verbleiben, wenn alle Lesungen sich irren.</p>
 
 <h2>Karte der Orte</h2>
-<p>Die <a href="karte.html">Karte</a> zeigt die Orte, die im Feld «Ort» der Einträge stehen. Die Stadt Bern ist ein einziger Punkt: Ihre Adressen sind meist alte Hausnummern innerhalb eines Quartiers (1810 «Q. n. 99», 1848 «IV, 23»), für die noch keine Zuordnung zu Gebäuden vorliegt.</p>
+<p>Die <a href="karte.html">Karte</a> zeigt die Orte, die im Feld «Ort» der Einträge stehen, und beim Hineinzoomen die Häuser in der Stadt Bern (siehe unten).</p>
 <ul>
   <li><b>Verortung:</b> Die rund 1030 Schreibungen (Hutwyl, Thoune, Arau, «Moos, bei Biglen» …) wurden mit der Ortssuche von swisstopo nachgeschlagen, nach einem Vergleich, der alte Schreibungen gleichsetzt (y/i, th/t, ß/ss, wyl/wil). Angenommen wurden Gemeinden und Ortschaften in den Kantonen, die damals bernisch waren (für 1795 auch Waadt und Aargau; für 1836–1848 auch das Laufental).</li>
   <li><b>Gleichnamige Orte</b> (Rütti, Schachen, Kehr …) wurden nach den übrigen Orten derselben Seite gewählt: der nächstgelegene. Diese Punkte sind auf der Karte gestrichelt.</li>
@@ -59,6 +59,17 @@
   <li><b>Ergebnis:</b> 15 774 Einträge haben einen verorteten Ort (759 Punkte). 379 Einträge nennen einen Ort, der nicht gefunden wurde (meist Weiler und Höfe), 1082 nennen keinen. Diese lassen sich mit «ungefähr verortete mitzählen» dem vorangehenden Ort desselben Bandes zuschlagen (1394 Einträge); 12 Einträge mit Haus- oder Wirtshausnamen (Paris, Orient …) bleiben ohne Ort.</li>
 </ul>
 <p>Die Zuordnung ist maschinell und nicht vollständig geprüft. Jede Schreibung mit Ort, Verfahren und Kennung bei swisstopo steht in <code>config/places.csv</code>, jeder Eintrag in <code>data/csv/06_entry_places.csv</code>.</p>
+
+<h2>Häuser in der Stadt Bern</h2>
+<p>Bis 1882 waren die Häuser der Stadt je Quartier durchnummeriert: in der Altstadt nach den fünf Farbquartieren von 1798 (rot, gelb, grün, weiss, schwarz), ausserhalb nach Dritteln. Die Adressbücher nennen diese Nummern: 1810 «Q. v. 202» (Buchstabe der französischen Farbe: vert, jaune, rouge, blanc, noir), 1822 «Kramgasse 202» (nur Gasse und Nummer), 1836 «Gn. Qr. Kramgasse Nr. 202», 1839 «Kramgasse Nr. 202 gn. qr.», 1848 «IV, 202».</p>
+<ul>
+  <li><b>Gegenüberstellung von 1882:</b> Das Heft «Die Häuser-Nummerirung in Bern. Gegenüberstellung der alten und neuen Hausnummern» (Bern 1882, auf e-rara bei den Adressbüchern der Stadt Bern; Exemplar mit handschriftlichen Verbesserungen im Stadtarchiv, SAB_1272_0_5) führt jede alte Nummer mit der neuen Adresse nach Strassen auf. Gemini hat die 36 Tabellenseiten zweimal gelesen: 3831 Zeilen, davon stimmen 3776 (98,6 %) in Nummer und Strasse überein. Die Abweichungen in der Altstadt wurden am Bild geprüft und 5 Zeilen berichtigt (<code>config/hn1882_fix.csv</code>).</li>
+  <li><b>Heutige Lage:</b> Die Adressen von 1882 wurden im amtlichen Gebäudeadressverzeichnis (swisstopo) gesucht. 1841 Zeilen fanden die Nummer genau, 239 mit anderem oder ohne Buchstaben, 1189 zwischen bzw. neben den Nachbarnummern derselben Strassenseite, 87 nur die Strasse. Umbenannte Strassen sind in <code>config/streets_1882.csv</code> zugeordnet (Metzgergasse = Rathausgasse, Kesslergasse = Münstergasse, Gerbergasse = Gerberngasse …). Häuser an verschwundenen Gassen (Storchengässchen, Zwiebelngässchen …) liegen zwischen den alten Nachbarnummern desselben Quartiers (397 Zeilen); 78 Zeilen blieben ohne Lage.</li>
+  <li><b>1848:</b> Die römischen Quartiernummern wurden über Familien bestimmt, die 1810–1839 unter derselben Hausnummer stehen: II = rot (96 Übereinstimmungen), III = gelb (38), IV = grün (71), V = weiss (50), VI = schwarz (31). I und VII sind vermutlich die Bezirke ausserhalb und bleiben ohne Haus.</li>
+  <li><b>Ergebnis:</b> 6715 von 8355 städtischen Einträgen mit Hausnummer stehen an einem Haus (1810: 436, 1822: 1005, 1836: 2446, 1839: 965, 1848: 1863). Für 1822 wird das Quartier aus der Gasse erschlossen.</li>
+  <li><b>Prüfung:</b> 1836 und 1839 nennen neben Quartier und Nummer die Gasse. Bei 2274 von 2542 (1836) und 868 von 981 (1839) Einträgen passt sie zu der Gasse, unter der das Heft von 1882 die Nummer führt, auch unter älteren Namen (Judengasse = Amthausgasse, Hotellaube = Theatergasse, <code>config/street_aliases.csv</code>). Die übrigen rund 11 % sind im Kartenfenster vermerkt; dort hat sich die Nummerierung zwischen 1836 und 1881 vermutlich geändert oder das Modell hat Gasse oder Nummer falsch gelesen.</li>
+</ul>
+<p>Die Lage ist die des heutigen Gebäudes mit der Nummer von 1882. Häuser, die seither abgebrochen oder zusammengelegt wurden, stehen an der nächstgelegenen heutigen Adresse. Wo eine alte Nummer 1881 in mehrere Häuser geteilt war (5 a, 5 b …), steht der Punkt in ihrer Mitte (im Kartenfenster vermerkt, wenn mehr als 60 m auseinander).</p>
 
 <h2>Stichprobe vor dem Volllauf</h2>
 <div id="smoke">

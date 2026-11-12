@@ -25,21 +25,23 @@
   <h1>Frühe Berner Adressbücher 1795–1848</h1>
   <nav class="nav"><a href="index.html">Einträge</a> · <a href="karte.html" aria-current="page">Karte der Orte</a> · <a href="methoden.html">Methode und Vorbehalte</a></nav>
 </header>
-<p class="sub">Orte, an denen die Einträge stehen, nach dem Ortsnamen im Adressbuch. <b>Die Stadt Bern ist ein einziger Punkt:</b> Hausnummern lassen sich noch nicht verorten. Kreisfläche nach der Zahl der Einträge (logarithmisch). Klick auf einen Ort zeigt Schreibungen und Zahlen je Band und führt zu den Einträgen.</p>
+<p class="sub">Orte, an denen die Einträge stehen, nach dem Ortsnamen im Adressbuch; Kreisfläche nach der Zahl der Einträge (logarithmisch). <b>In der Stadt Bern</b> erscheinen beim Hineinzoomen die Häuser: alte Quartiernummer → Adresse von 1882 → heutige Gebäudeadresse. Klick auf einen Punkt zeigt die Einträge und führt zu ihnen.</p>
 
 <div class="toolbar">
   <select id="vol" aria-label="Band"><option value="">alle Bände</option></select>
   <label class="check" title="Einträge ohne erkannten Ort (z. B. Weiler) dem vorangehenden Ort desselben Bandes zuschlagen"><input type="checkbox" id="approx"> ungefähr verortete mitzählen</label>
   <span class="key"><span class="dot solid"></span><small>Ortsname eindeutig</small></span>
   <span class="key"><span class="dot open"></span><small>gleichnamige Orte, nach Nachbarorten gewählt</small></span>
+  <label class="check"><input type="checkbox" id="houses" checked> Häuser in der Stadt Bern</label>
   <span class="count" id="count"></span>
 </div>
 <div id="map" role="region" aria-label="Karte"></div>
-<footer class="legend">Karte: © swisstopo (Landeskarte grau). Verortung mit der Ortssuche von swisstopo, ergänzt von Hand; Liste der Schreibungen in <code>config/places.csv</code>, je Eintrag in <code>data/csv/06_entry_places.csv</code>.</footer>
+<footer class="legend">Karte: © swisstopo (Landeskarte grau). Orte: Ortssuche von swisstopo, ergänzt von Hand (<code>config/places.csv</code>, je Eintrag <code>data/csv/06_entry_places.csv</code>). Häuser: «Die Häuser-Nummerirung in Bern» (1882, e-rara) und amtliches Gebäudeadressverzeichnis (<code>data/csv/07_hausnummern_1882.csv</code>, <code>08_entry_houses.csv</code>).</footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="data/meta.js"></script>
 <script src="data/places.js"></script>
+<script src="data/houses.js"></script>
 <script>
 (() => {
   const META = window.BERN_META, PLACES = window.BERN_PLACES;
@@ -91,8 +93,37 @@
       <div class="muted" style="margin-top:6px">Verortung: ${esc(how)}${p.note ? ". " + esc(p.note) : ""}</div>`;
   }
 
-  $("vol").onchange = draw; $("approx").onchange = draw;
-  draw();
+  // Häuser in der Stadt: alte Quartiernummer -> Adresse 1882 -> Gebäudeadresse heute
+  const HOUSES = window.BERN_HOUSES || [];
+  const houseLayer = L.layerGroup();
+  function drawHouses() {
+    houseLayer.clearLayers();
+    const vol = $("vol").value;
+    const show = $("houses").checked && map.getZoom() >= 14;
+    if (!show) { map.removeLayer(houseLayer); return; }
+    for (const h of HOUSES) {
+      const es = vol ? h.e.filter(e => e[0] === vol) : h.e;
+      if (!es.length) continue;
+      const mk = L.circleMarker([h.lat, h.lon], { radius: Math.min(3 + es.length, 9), color: accent, weight: 1,
+        fillColor: accent, fillOpacity: h.s > 60 ? 0.15 : 0.55, dashArray: h.s > 60 ? "2 2" : null });
+      mk.bindTooltip(`${esc(h.a.split(";")[0])}: ${es.length}`);
+      mk.bindPopup(() => housePopup(h, es), { maxWidth: 360 });
+      houseLayer.addLayer(mk);
+    }
+    houseLayer.addTo(map);
+  }
+  function housePopup(h, es) {
+    const list = es.slice(0, 40).map(e => {
+      const href = `index.html#${new URLSearchParams({ v: "search", q: e[1].split(" ").pop(), band: e[0] })}`;
+      return `<tr><td>${esc(e[0])}</td><td><a href="${href}">${esc(e[1])}</a>${e[2] ? ", " + esc(e[2]) : ""}<br><span class="muted">${esc(e[3])}${e[5] ? " · Gasse passt nicht zur Konkordanz" : ""}</span></td></tr>`;
+    }).join("");
+    return `<h3>${esc(h.a)}</h3><div class="muted">alte Nummer: ${esc(h.o.join(", "))}${h.s > 60 ? ` · mehrere Häuser (bis ${h.s} m auseinander), Mittelpunkt` : ""}</div>
+      <table style="margin-top:6px">${list}</table>${es.length > 40 ? `<div class="muted">… und ${es.length - 40} weitere</div>` : ""}`;
+  }
+  map.on("zoomend", drawHouses);
+
+  $("vol").onchange = () => { draw(); drawHouses(); }; $("approx").onchange = draw; $("houses").onchange = drawHouses;
+  draw(); drawHouses();
 })();
 </script>
 </body>

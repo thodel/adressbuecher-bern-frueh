@@ -65,6 +65,7 @@ def main() -> None:
     (SITE / "data/lines.js").write_text("window.BERN_LINES=" + json.dumps(by_page, ensure_ascii=False, separators=(",", ":")) + ";\n")
 
     write_places(entries)
+    write_houses(entries)
 
     kinds = Counter(e["kind"] for e in entries)
     print(f"site/data: {len(ent_rows)} Einträge, {len(lines)} Zeilen, {len(page_rows)} Seiten; Arten {dict(kinds)}")
@@ -130,6 +131,35 @@ def write_places(entries: list[dict]) -> None:
     (SITE / "data/places.js").write_text("window.BERN_PLACES=" + json.dumps(rows, ensure_ascii=False, separators=(",", ":")) + ";\n")
     pc = Counter(o["precision"] or "ohne" for o in out)
     print(f"Karte: {len(rows)} Orte; Einträge {dict(pc)}")
+
+
+def write_houses(entries: list[dict]) -> None:
+    """Häuser in der Stadt Bern (tools/hn1882_match.py -> data/csv/08_entry_houses.csv) für die Karte."""
+    path = ROOT / "data/csv/08_entry_houses.csv"
+    if not path.exists():
+        return
+    by_id = {e["entry_id"]: e for e in entries}
+    houses: dict[tuple, dict] = {}
+    for h in csv.DictReader(path.open(encoding="utf-8")):
+        if not h["lat"]:
+            continue
+        e = by_id.get(h["entry_id"])
+        if not e:
+            continue
+        k = (h["lat"], h["lon"])
+        d = houses.setdefault(k, {"lat": float(h["lat"]), "lon": float(h["lon"]), "a": h["new_1882"], "o": set(),
+                                  "s": int(h["spread_m"] or 0), "e": []})
+        d["o"].add(f"{h['quarter']} {h['old_no']}")
+        name = " ".join(x for x in (e["forename"], e["surname"]) if x) or e["text"][:40]
+        d["e"].append([e["volume"], name, e["occupation"][:40], e["address"], e["entry_id"],
+                       1 if h["street_check"] == "passt nicht" else 0])
+    rows = []
+    for d in houses.values():
+        d["o"] = sorted(d["o"])
+        d["e"].sort()
+        rows.append(d)
+    (SITE / "data/houses.js").write_text("window.BERN_HOUSES=" + json.dumps(rows, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    print(f"Karte: {len(rows)} Häuser mit {sum(len(d['e']) for d in rows)} Einträgen")
 
 
 if __name__ == "__main__":

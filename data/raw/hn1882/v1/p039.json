@@ -1,0 +1,865 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 39,
+ "thinking": "medium",
+ "started": "2026-11-12T07:55:33+01:00",
+ "seconds": 42.1,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 5025,
+  "thoughts": 2289
+ },
+ "response_text": "{\n  \"page_heading\": \"Stadtbezirk obenaus.\",\n  \"printed_page\": \"13\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"419 h\", \"und\": false, \"new\": \"14\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"419 i\", \"und\": false, \"new\": \"16\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"419 k\", \"und\": false, \"new\": \"18\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"419 l\", \"und\": false, \"new\": \"20\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"419 m\", \"und\": false, \"new\": \"22\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"419 n\", \"und\": false, \"new\": \"24\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"419 o\", \"und\": false, \"new\": \"26\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"1\", \"und\": false, \"new\": \"16\", \"street\": \"Klösterlistutz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"2 a\", \"und\": false, \"new\": \"14\", \"street\": \"Klösterlistutz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"2 b\", \"und\": false, \"new\": \"20 a\", \"street\": \"Klösterlistutz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"3 a\", \"und\": false, \"new\": \"18\", \"street\": \"Klösterlistutz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"3 b\", \"und\": false, \"new\": \"18 a\", \"street\": \"Klösterlistutz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"3 d I\", \"und\": false, \"new\": \"20\", \"street\": \"Klösterlistutz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"3 d II\", \"und\": false, \"new\": \"20 b\", \"street\": \"Klösterlistutz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"3 c\", \"und\": false, \"new\": \"4\", \"street\": \"Muristalden\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"4 a\", \"und\": false, \"new\": \"11\", \"street\": \"Gryphenhübeliw.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"4 b\", \"und\": false, \"new\": \"13 u. 13 a\", \"street\": \"Gryphenhübeliw.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"4 c\", \"und\": false, \"new\": \"10\", \"street\": \"Muristalden\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"5\", \"und\": false, \"new\": \"112\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"6 a\", \"und\": false, \"new\": \"108 u. 108 a\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"6 b\", \"und\": false, \"new\": \"108 b\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"7 a\", \"und\": false, \"new\": \"110\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"7 b\", \"und\": false, \"new\": \"110 c\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"7 c\", \"und\": false, \"new\": \"108 c\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"8 a\", \"und\": false, \"new\": \"92\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"8 b\", \"und\": false, \"new\": \"92 a\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 a\", \"und\": false, \"new\": \"90\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 b\", \"und\": false, \"new\": \"80\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 c\", \"und\": false, \"new\": \"80 a\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 d\", \"und\": false, \"new\": \"78 u. 78 a\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 e\", \"und\": false, \"new\": \"78 b\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 k I\", \"und\": false, \"new\": \"80 c\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 k II\", \"und\": false, \"new\": \"80 b\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9, f\", \"und\": false, \"new\": \"74 u. 74 a\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 g I\", \"und\": false, \"new\": \"74 b\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 g II\", \"und\": false, \"new\": \"74 c\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 m\", \"und\": false, \"new\": \"60\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 n\", \"und\": false, \"new\": \"60 a\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"9 o\", \"und\": false, \"new\": \"83\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"10 a\", \"und\": false, \"new\": \"59\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"10 b\", \"und\": false, \"new\": \"59 a\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Brunnadern-Drittel\", \"old\": \"10 c\", \"und\": false, \"new\": \"61\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 p\", \"und\": false, \"new\": \"28\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 q\", \"und\": false, \"new\": \"30\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 r\", \"und\": false, \"new\": \"32\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 s\", \"und\": false, \"new\": \"34\", \"street\": \"Schwalbenweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 t\", \"und\": false, \"new\": \"59\", \"street\": \"Bremgartenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 u\", \"und\": false, \"new\": \"57\", \"street\": \"Bremgartenstr.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"420\", \"und\": false, \"new\": \"41\", \"street\": \"Fabrikstrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"10 d\", \"und\": false, \"new\": \"67\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"10 e\", \"und\": false, \"new\": \"69\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"10 f\", \"und\": false, \"new\": \"67 a\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"10 g\", \"und\": false, \"new\": \"71\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"11 a\", \"und\": false, \"new\": \"60 a\", \"street\": \"Dählhölzliweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"11 f\", \"und\": false, \"new\": \"60 u. 60 b\", \"street\": \"Dählhölzliweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"11 c III\", \"und\": false, \"new\": \"34\", \"street\": \"Dalmaziweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"11 d\", \"und\": false, \"new\": \"14 u. 14 a\", \"street\": \"Gryphenhübeliw.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"11 e\", \"und\": false, \"new\": \"12 u. 12 a\", \"street\": \"Gryphenhübeliw.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"12 a\", \"und\": false, \"new\": \"8 u. 8 a\", \"street\": \"Gryphenhübeliw.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"12 b\", \"und\": false, \"new\": \"8 b\", \"street\": \"Gryphenhübeliw.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"12 c\", \"und\": false, \"new\": \"8\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"12 d\", \"und\": false, \"new\": \"8 b\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"12 e\", \"und\": false, \"new\": \"8 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"12 f\", \"und\": false, \"new\": \"8 c\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"12 g\", \"und\": false, \"new\": \"10\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"13 a\", \"und\": false, \"new\": \"28\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"13 b\", \"und\": false, \"new\": \"28 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"13 c\", \"und\": false, \"new\": \"28 c\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"13 d\", \"und\": false, \"new\": \"38\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"13 e\", \"und\": false, \"new\": \"33 a\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"13 f\", \"und\": false, \"new\": \"28 b\", \"street\": \"Muristrasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"14 a b\", \"und\": false, \"new\": \"2 u. 2 a\", \"street\": \"Kalcheckweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"15\", \"und\": false, \"new\": \"8\", \"street\": \"Kalcheckweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"16 a\", \"und\": false, \"new\": \"8 a\", \"street\": \"Kalcheckweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"16 c\", \"und\": false, \"new\": \"8 b\", \"street\": \"Kalcheckweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"17 a\", \"und\": false, \"new\": \"12\", \"street\": \"Kalcheckweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"17 b\", \"und\": false, \"new\": \"12 a\", \"street\": \"Kalcheckweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"18\", \"und\": false, \"new\": \"14\", \"street\": \"Kalcheckweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"19 a-c\", \"und\": false, \"new\": \"40, 40 a b\", \"street\": \"Brunnadernweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"19 d\", \"und\": false, \"new\": \"38\", \"street\": \"Brunnadernweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"21 a\", \"und\": false, \"new\": \"45\", \"street\": \"Brunnadernweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"21 b\", \"und\": false, \"new\": \"45 a\", \"street\": \"Brunnadernweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"22 a\", \"und\": false, \"new\": \"47 u. 47 c\", \"street\": \"Brunnadernweg\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Brunnadern-Drittel\", \"old\": \"22 b\", \"und\": false, \"new\": \"47 a u. 47 b\", \"street\": \"Brunnadernweg\", \"hand\": false, \"note\": \"\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Stadtbezirk obenaus.",
+  "printed_page": "13",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "419 h",
+    "und": false,
+    "new": "14",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "419 i",
+    "und": false,
+    "new": "16",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "419 k",
+    "und": false,
+    "new": "18",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "419 l",
+    "und": false,
+    "new": "20",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "419 m",
+    "und": false,
+    "new": "22",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "419 n",
+    "und": false,
+    "new": "24",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "419 o",
+    "und": false,
+    "new": "26",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "1",
+    "und": false,
+    "new": "16",
+    "street": "Klösterlistutz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "2 a",
+    "und": false,
+    "new": "14",
+    "street": "Klösterlistutz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "2 b",
+    "und": false,
+    "new": "20 a",
+    "street": "Klösterlistutz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "3 a",
+    "und": false,
+    "new": "18",
+    "street": "Klösterlistutz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "3 b",
+    "und": false,
+    "new": "18 a",
+    "street": "Klösterlistutz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "3 d I",
+    "und": false,
+    "new": "20",
+    "street": "Klösterlistutz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "3 d II",
+    "und": false,
+    "new": "20 b",
+    "street": "Klösterlistutz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "3 c",
+    "und": false,
+    "new": "4",
+    "street": "Muristalden",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "4 a",
+    "und": false,
+    "new": "11",
+    "street": "Gryphenhübeliw.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "4 b",
+    "und": false,
+    "new": "13 u. 13 a",
+    "street": "Gryphenhübeliw.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "4 c",
+    "und": false,
+    "new": "10",
+    "street": "Muristalden",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "5",
+    "und": false,
+    "new": "112",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "6 a",
+    "und": false,
+    "new": "108 u. 108 a",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "6 b",
+    "und": false,
+    "new": "108 b",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "7 a",
+    "und": false,
+    "new": "110",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "7 b",
+    "und": false,
+    "new": "110 c",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "7 c",
+    "und": false,
+    "new": "108 c",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "8 a",
+    "und": false,
+    "new": "92",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "8 b",
+    "und": false,
+    "new": "92 a",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 a",
+    "und": false,
+    "new": "90",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 b",
+    "und": false,
+    "new": "80",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 c",
+    "und": false,
+    "new": "80 a",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 d",
+    "und": false,
+    "new": "78 u. 78 a",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 e",
+    "und": false,
+    "new": "78 b",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 k I",
+    "und": false,
+    "new": "80 c",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 k II",
+    "und": false,
+    "new": "80 b",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9, f",
+    "und": false,
+    "new": "74 u. 74 a",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 g I",
+    "und": false,
+    "new": "74 b",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 g II",
+    "und": false,
+    "new": "74 c",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 m",
+    "und": false,
+    "new": "60",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 n",
+    "und": false,
+    "new": "60 a",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "9 o",
+    "und": false,
+    "new": "83",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "10 a",
+    "und": false,
+    "new": "59",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "10 b",
+    "und": false,
+    "new": "59 a",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Brunnadern-Drittel",
+    "old": "10 c",
+    "und": false,
+    "new": "61",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 p",
+    "und": false,
+    "new": "28",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 q",
+    "und": false,
+    "new": "30",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 r",
+    "und": false,
+    "new": "32",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 s",
+    "und": false,
+    "new": "34",
+    "street": "Schwalbenweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 t",
+    "und": false,
+    "new": "59",
+    "street": "Bremgartenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 u",
+    "und": false,
+    "new": "57",
+    "street": "Bremgartenstr.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "420",
+    "und": false,
+    "new": "41",
+    "street": "Fabrikstrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "10 d",
+    "und": false,
+    "new": "67",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "10 e",
+    "und": false,
+    "new": "69",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "10 f",
+    "und": false,
+    "new": "67 a",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "10 g",
+    "und": false,
+    "new": "71",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "11 a",
+    "und": false,
+    "new": "60 a",
+    "street": "Dählhölzliweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "11 f",
+    "und": false,
+    "new": "60 u. 60 b",
+    "street": "Dählhölzliweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "11 c III",
+    "und": false,
+    "new": "34",
+    "street": "Dalmaziweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "11 d",
+    "und": false,
+    "new": "14 u. 14 a",
+    "street": "Gryphenhübeliw.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "11 e",
+    "und": false,
+    "new": "12 u. 12 a",
+    "street": "Gryphenhübeliw.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "12 a",
+    "und": false,
+    "new": "8 u. 8 a",
+    "street": "Gryphenhübeliw.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "12 b",
+    "und": false,
+    "new": "8 b",
+    "street": "Gryphenhübeliw.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "12 c",
+    "und": false,
+    "new": "8",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "12 d",
+    "und": false,
+    "new": "8 b",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "12 e",
+    "und": false,
+    "new": "8 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "12 f",
+    "und": false,
+    "new": "8 c",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "12 g",
+    "und": false,
+    "new": "10",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "13 a",
+    "und": false,
+    "new": "28",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "13 b",
+    "und": false,
+    "new": "28 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "13 c",
+    "und": false,
+    "new": "28 c",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "13 d",
+    "und": false,
+    "new": "38",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "13 e",
+    "und": false,
+    "new": "33 a",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "13 f",
+    "und": false,
+    "new": "28 b",
+    "street": "Muristrasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "14 a b",
+    "und": false,
+    "new": "2 u. 2 a",
+    "street": "Kalcheckweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "15",
+    "und": false,
+    "new": "8",
+    "street": "Kalcheckweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "16 a",
+    "und": false,
+    "new": "8 a",
+    "street": "Kalcheckweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "16 c",
+    "und": false,
+    "new": "8 b",
+    "street": "Kalcheckweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "17 a",
+    "und": false,
+    "new": "12",
+    "street": "Kalcheckweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "17 b",
+    "und": false,
+    "new": "12 a",
+    "street": "Kalcheckweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "18",
+    "und": false,
+    "new": "14",
+    "street": "Kalcheckweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "19 a-c",
+    "und": false,
+    "new": "40, 40 a b",
+    "street": "Brunnadernweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "19 d",
+    "und": false,
+    "new": "38",
+    "street": "Brunnadernweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "21 a",
+    "und": false,
+    "new": "45",
+    "street": "Brunnadernweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "21 b",
+    "und": false,
+    "new": "45 a",
+    "street": "Brunnadernweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "22 a",
+    "und": false,
+    "new": "47 u. 47 c",
+    "street": "Brunnadernweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Brunnadern-Drittel",
+    "old": "22 b",
+    "und": false,
+    "new": "47 a u. 47 b",
+    "street": "Brunnadernweg",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:56:15+01:00"
+}

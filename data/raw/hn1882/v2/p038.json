@@ -1,0 +1,802 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 38,
+ "thinking": "high",
+ "started": "2026-11-12T08:09:09+01:00",
+ "seconds": 140.8,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 5055,
+  "thoughts": 16696
+ },
+ "response_text": "{\n  \"page_heading\": \"Stadtbezirk obenaus.\",\n  \"printed_page\": \"12\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"351 a u. h\", \"new\": \"3, 3 a\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"353\", \"new\": \"7\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"355\", \"new\": \"6\", \"street\": \"Neufeldstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"356 a, b\", \"new\": \"10 u. 10 a\", \"street\": \"Neufeldstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"355 c\", \"new\": \"5\", \"street\": \"Zeltweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"356 e\", \"new\": \"7\", \"street\": \"Zeltweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"356 g\", \"new\": \"9\", \"street\": \"Zeltweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"356 i\", \"new\": \"11\", \"street\": \"Zeltweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"356 l\", \"new\": \"13\", \"street\": \"Zeltweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"356 n\", \"new\": \"15\", \"street\": \"Zeltweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"356 p\", \"new\": \"17\", \"street\": \"Zeltweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"357\", \"new\": \"15\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"365 a\", \"new\": \"45\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"365 b\", \"new\": \"47\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"367 a\", \"new\": \"49\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"367 b\", \"new\": \"51\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"368 a\", \"new\": \"22\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"368 b\", \"new\": \"24\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"369\", \"new\": \"53\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"37 a\", \"new\": \"26\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"370 b\", \"new\": \"28\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"372 a\", \"new\": \"32\", \"street\": \"Mittelstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"372 b\", \"new\": \"38, 38 a\", \"street\": \"Mittelstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"372 c\", \"new\": \"40\", \"street\": \"Mittelstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"372 d\", \"new\": \"42\", \"street\": \"Mittelstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"374 a\", \"new\": \"34\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"374 b\", \"new\": \"36 b\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"376 I u. II\", \"new\": \"40, 40 a\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"376 c\", \"new\": \"38\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"376 d e\", \"new\": \"36, 36 a\", \"street\": \"Zähringerstrasse\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 a\", \"new\": \"1\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 c\", \"new\": \"3\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 e\", \"new\": \"5\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 g\", \"new\": \"7\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 i\", \"new\": \"9\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 l\", \"new\": \"11\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 n\", \"new\": \"13\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 p\", \"new\": \"15\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 r\", \"new\": \"17\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 t\", \"new\": \"19\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 v\", \"new\": \"21\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"377 x\", \"new\": \"23\", \"street\": \"Bäckereiweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"379 a\", \"new\": \"1\", \"street\": \"Conradweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"379 c\", \"new\": \"3\", \"street\": \"Conradweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"379 e\", \"new\": \"5\", \"street\": \"Conradweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"379 g\", \"new\": \"7\", \"street\": \"Conradweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"379 i\", \"new\": \"9\", \"street\": \"Conradweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"379 l\", \"new\": \"11\", \"street\": \"Conradweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"379 n\", \"new\": \"13\", \"street\": \"Conradweg\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"381 a\", \"new\": \"1\", \"street\": \"Wyderrain\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"381 b\", \"new\": \"3\", \"street\": \"Wyderrain\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"381 c\", \"new\": \"5\", \"street\": \"Wyderrain\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"381 d\", \"new\": \"7\", \"street\": \"Wyderrain\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"381 e\", \"new\": \"9\", \"street\": \"Wyderrain\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"381 f\", \"new\": \"11\", \"street\": \"Wyderrain\"},\n    {\"col\": 1, \"group\": \"Länggass-Drittel\", \"old\": \"381 g\", \"new\": \"13\", \"street\": \"Wyderrain\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"381 h\", \"new\": \"3\", \"street\": \"Ralligweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"381 i\", \"new\": \"3 a\", \"street\": \"Ralligweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"386\", \"new\": \"2\", \"street\": \"Gesellschaftsstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"387 a\", \"new\": \"3\", \"street\": \"Gesellschaftsstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"387 b\", \"new\": \"5\", \"street\": \"Gesellschaftsstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"387 c\", \"new\": \"7\", \"street\": \"Gesellschaftsstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"389 a\", \"new\": \"9\", \"street\": \"Gesellschaftsstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"389 b\", \"new\": \"11\", \"street\": \"Gesellschaftsstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"390\", \"new\": \"8\", \"street\": \"Gesellschaftsstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"392\", \"new\": \"10 u. 10 a\", \"street\": \"Gesellschaftsstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"397 a, b\", \"new\": \"27 u. 27 a\", \"street\": \"Gesellschaftsstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"401 a, b, c\", \"new\": \"2, 2 a-c\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"402 a, c\", \"new\": \"1, 1 a\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"402 b\", \"new\": \"3\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"403 a\", \"new\": \"6, 6 a u. b\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"403 b, c, d\", \"new\": \"4, 4 a u. b\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"404 a\", \"new\": \"7\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"404 b\", \"new\": \"9, 9 a\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"405 a\", \"new\": \"12\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"405 b\", \"new\": \"8\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"406 a\", \"new\": \"13\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"406 b\", \"new\": \"15\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"406 c\", \"new\": \"\", \"street\": \"\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"407 a\", \"new\": \"14, 14 a u. b\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"409 a\", \"new\": \"16, 16 a-c\", \"street\": \"Fabrikstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 a\", \"new\": \"34\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 b\", \"new\": \"36\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 c\", \"new\": \"38\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 d\", \"new\": \"40\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 e\", \"new\": \"42\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 f\", \"new\": \"44\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 g\", \"new\": \"46\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 h\", \"new\": \"48\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 i\", \"new\": \"50\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 k\", \"new\": \"52\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 ll\", \"new\": \"54\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 m\", \"new\": \"55\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 n\", \"new\": \"53\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 o\", \"new\": \"51\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 p\", \"new\": \"49\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 q\", \"new\": \"47\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 r\", \"new\": \"45\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 s\", \"new\": \"43\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 t\", \"new\": \"41\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 u I\", \"new\": \"39\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 u II\", \"new\": \"39 a\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 v\", \"new\": \"37\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 w\", \"new\": \"35\", \"street\": \"Bremgartenstr.\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"411 x\", \"new\": \"61\", \"street\": \"Forstweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 a u. b\", \"new\": \"2\", \"street\": \"Schwalbenweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 c I u. c II\", \"new\": \"4, 4 a\", \"street\": \"Schwalbenweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 d, d I u. II\", \"new\": \"6, 6 a u. b\", \"street\": \"Schwalbenweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 e\", \"new\": \"8\", \"street\": \"Schwalbenweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 f\", \"new\": \"10\", \"street\": \"Schwalbenweg\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"419 g\", \"new\": \"12\", \"street\": \"Schwalbenweg\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Stadtbezirk obenaus.",
+  "printed_page": "12",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "351 a u. h",
+    "new": "3, 3 a",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "353",
+    "new": "7",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "355",
+    "new": "6",
+    "street": "Neufeldstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "356 a, b",
+    "new": "10 u. 10 a",
+    "street": "Neufeldstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "355 c",
+    "new": "5",
+    "street": "Zeltweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "356 e",
+    "new": "7",
+    "street": "Zeltweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "356 g",
+    "new": "9",
+    "street": "Zeltweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "356 i",
+    "new": "11",
+    "street": "Zeltweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "356 l",
+    "new": "13",
+    "street": "Zeltweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "356 n",
+    "new": "15",
+    "street": "Zeltweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "356 p",
+    "new": "17",
+    "street": "Zeltweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "357",
+    "new": "15",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "365 a",
+    "new": "45",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "365 b",
+    "new": "47",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "367 a",
+    "new": "49",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "367 b",
+    "new": "51",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "368 a",
+    "new": "22",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "368 b",
+    "new": "24",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "369",
+    "new": "53",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "37 a",
+    "new": "26",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "370 b",
+    "new": "28",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "372 a",
+    "new": "32",
+    "street": "Mittelstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "372 b",
+    "new": "38, 38 a",
+    "street": "Mittelstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "372 c",
+    "new": "40",
+    "street": "Mittelstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "372 d",
+    "new": "42",
+    "street": "Mittelstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "374 a",
+    "new": "34",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "374 b",
+    "new": "36 b",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "376 I u. II",
+    "new": "40, 40 a",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "376 c",
+    "new": "38",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "376 d e",
+    "new": "36, 36 a",
+    "street": "Zähringerstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 a",
+    "new": "1",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 c",
+    "new": "3",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 e",
+    "new": "5",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 g",
+    "new": "7",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 i",
+    "new": "9",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 l",
+    "new": "11",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 n",
+    "new": "13",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 p",
+    "new": "15",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 r",
+    "new": "17",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 t",
+    "new": "19",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 v",
+    "new": "21",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "377 x",
+    "new": "23",
+    "street": "Bäckereiweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "379 a",
+    "new": "1",
+    "street": "Conradweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "379 c",
+    "new": "3",
+    "street": "Conradweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "379 e",
+    "new": "5",
+    "street": "Conradweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "379 g",
+    "new": "7",
+    "street": "Conradweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "379 i",
+    "new": "9",
+    "street": "Conradweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "379 l",
+    "new": "11",
+    "street": "Conradweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "379 n",
+    "new": "13",
+    "street": "Conradweg"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "381 a",
+    "new": "1",
+    "street": "Wyderrain"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "381 b",
+    "new": "3",
+    "street": "Wyderrain"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "381 c",
+    "new": "5",
+    "street": "Wyderrain"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "381 d",
+    "new": "7",
+    "street": "Wyderrain"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "381 e",
+    "new": "9",
+    "street": "Wyderrain"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "381 f",
+    "new": "11",
+    "street": "Wyderrain"
+   },
+   {
+    "col": 1,
+    "group": "Länggass-Drittel",
+    "old": "381 g",
+    "new": "13",
+    "street": "Wyderrain"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "381 h",
+    "new": "3",
+    "street": "Ralligweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "381 i",
+    "new": "3 a",
+    "street": "Ralligweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "386",
+    "new": "2",
+    "street": "Gesellschaftsstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "387 a",
+    "new": "3",
+    "street": "Gesellschaftsstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "387 b",
+    "new": "5",
+    "street": "Gesellschaftsstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "387 c",
+    "new": "7",
+    "street": "Gesellschaftsstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "389 a",
+    "new": "9",
+    "street": "Gesellschaftsstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "389 b",
+    "new": "11",
+    "street": "Gesellschaftsstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "390",
+    "new": "8",
+    "street": "Gesellschaftsstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "392",
+    "new": "10 u. 10 a",
+    "street": "Gesellschaftsstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "397 a, b",
+    "new": "27 u. 27 a",
+    "street": "Gesellschaftsstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "401 a, b, c",
+    "new": "2, 2 a-c",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "402 a, c",
+    "new": "1, 1 a",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "402 b",
+    "new": "3",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "403 a",
+    "new": "6, 6 a u. b",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "403 b, c, d",
+    "new": "4, 4 a u. b",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "404 a",
+    "new": "7",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "404 b",
+    "new": "9, 9 a",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "405 a",
+    "new": "12",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "405 b",
+    "new": "8",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "406 a",
+    "new": "13",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "406 b",
+    "new": "15",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "406 c",
+    "new": "",
+    "street": ""
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "407 a",
+    "new": "14, 14 a u. b",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "409 a",
+    "new": "16, 16 a-c",
+    "street": "Fabrikstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 a",
+    "new": "34",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 b",
+    "new": "36",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 c",
+    "new": "38",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 d",
+    "new": "40",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 e",
+    "new": "42",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 f",
+    "new": "44",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 g",
+    "new": "46",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 h",
+    "new": "48",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 i",
+    "new": "50",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 k",
+    "new": "52",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 ll",
+    "new": "54",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 m",
+    "new": "55",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 n",
+    "new": "53",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 o",
+    "new": "51",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 p",
+    "new": "49",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 q",
+    "new": "47",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 r",
+    "new": "45",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 s",
+    "new": "43",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 t",
+    "new": "41",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 u I",
+    "new": "39",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 u II",
+    "new": "39 a",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 v",
+    "new": "37",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 w",
+    "new": "35",
+    "street": "Bremgartenstr."
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "411 x",
+    "new": "61",
+    "street": "Forstweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 a u. b",
+    "new": "2",
+    "street": "Schwalbenweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 c I u. c II",
+    "new": "4, 4 a",
+    "street": "Schwalbenweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 d, d I u. II",
+    "new": "6, 6 a u. b",
+    "street": "Schwalbenweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 e",
+    "new": "8",
+    "street": "Schwalbenweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 f",
+    "new": "10",
+    "street": "Schwalbenweg"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "419 g",
+    "new": "12",
+    "street": "Schwalbenweg"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:11:30+01:00"
+}

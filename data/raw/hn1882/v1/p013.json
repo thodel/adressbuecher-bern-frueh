@@ -1,0 +1,1075 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 13,
+ "thinking": "medium",
+ "started": "2026-11-12T07:52:52+01:00",
+ "seconds": 33.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 6108,
+  "thoughts": null
+ },
+ "response_text": "{\"page_heading\": \"Gelbes Quartier.\",\n \"printed_page\": \"7\",\n \"rows\": [\n  {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"91\", \"und\": false, \"new\": \"59\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"92\", \"und\": false, \"new\": \"61\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"93\", \"und\": false, \"new\": \"63\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"94 a\", \"und\": false, \"new\": \"65\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"94 a\", \"und\": true, \"new\": \"1\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"94 b\", \"und\": false, \"new\": \"3\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"95\", \"und\": false, \"new\": \"4\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"95\", \"und\": true, \"new\": \"3\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"96/97\", \"und\": false, \"new\": \"6\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"96/97\", \"und\": true, \"new\": \"5\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"98\", \"und\": false, \"new\": \"8\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"98\", \"und\": true, \"new\": \"7\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"99\", \"und\": false, \"new\": \"10\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"99\", \"und\": true, \"new\": \"9\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"100\", \"und\": false, \"new\": \"12\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"100\", \"und\": true, \"new\": \"11\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"101\", \"und\": false, \"new\": \"14\", \"street\": \"Käfichgessächen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"101\", \"und\": true, \"new\": \"13\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"102\", \"und\": false, \"new\": \"16\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"102\", \"und\": true, \"new\": \"15\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"103\", \"und\": false, \"new\": \"18\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"103\", \"und\": true, \"new\": \"17\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"104\", \"und\": false, \"new\": \"20\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"104\", \"und\": true, \"new\": \"19\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"105\", \"und\": false, \"new\": \"22\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"105\", \"und\": true, \"new\": \"21\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"106\", \"und\": false, \"new\": \"24\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"106\", \"und\": true, \"new\": \"23\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"107\", \"und\": false, \"new\": \"26\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"107\", \"und\": true, \"new\": \"25\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"108\", \"und\": false, \"new\": \"28\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"108\", \"und\": true, \"new\": \"27\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"109\", \"und\": false, \"new\": \"30\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"109\", \"und\": true, \"new\": \"29\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"110\", \"und\": false, \"new\": \"32\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"110\", \"und\": true, \"new\": \"31\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Käfichgässli\", \"old\": \"111\", \"und\": false, \"new\": \"5\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"112 a\", \"und\": false, \"new\": \"30\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"112 b\", \"und\": false, \"new\": \"30 a\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"112 c\", \"und\": false, \"new\": \"30 b\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"112 d\", \"und\": false, \"new\": \"28\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"113 a\", \"und\": false, \"new\": \"26\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"113 b\", \"und\": false, \"new\": \"24\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"113 c\", \"und\": false, \"new\": \"22\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"114\", \"und\": false, \"new\": \"20\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"115\", \"und\": false, \"new\": \"5\", \"street\": \"Amthausgchn.\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"116/117\", \"und\": false, \"new\": \"16\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"118\", \"und\": false, \"new\": \"14\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"119\", \"und\": false, \"new\": \"10\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"120\", \"und\": false, \"new\": \"8\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"121\", \"und\": false, \"new\": \"6\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 1, \"group\": \"Amthausgasse\", \"old\": \"122\", \"und\": false, \"new\": \"4\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"123 a\", \"und\": false, \"new\": \"8\", \"street\": \"Theaterplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"123 b\", \"und\": false, \"new\": \"2\", \"street\": \"Amthausgasse\", \"hand\": true, \"note\": \"gedruckt: Theaterplatz\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"123 b\", \"und\": true, \"new\": \"10\", \"street\": \"Theaterplatz\", \"hand\": true, \"note\": \"gedruckt: Amthausgasse\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"124 a\", \"und\": false, \"new\": \"1\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"124 b\", \"und\": false, \"new\": \"3\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"125\", \"und\": false, \"new\": \"5\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"125\", \"und\": true, \"new\": \"8 a b\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"126\", \"und\": false, \"new\": \"7\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"126\", \"und\": true, \"new\": \"1\", \"street\": \"Inselgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"126 d\", \"und\": false, \"new\": \"9\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"126 d\", \"und\": true, \"new\": \"2\", \"street\": \"Inselgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"126 e\", \"und\": false, \"new\": \"11\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"126 e\", \"und\": true, \"new\": \"11 a\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"126 b\", \"und\": false, \"new\": \"3\", \"street\": \"Inselgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"126 c\", \"und\": false, \"new\": \"10\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"127 a\", \"und\": false, \"new\": \"13\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"127 b\", \"und\": false, \"new\": \"15\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"128 a\", \"und\": false, \"new\": \"17\", \"street\": \"Amthausgasse\", \"hand\": true, \"note\": \"gedruckt: 128 a b c, b c durchgestrichen\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"128 b\", \"und\": false, \"new\": \"17 a\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"128 c\", \"und\": false, \"new\": \"17 b\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"128 d\", \"und\": false, \"new\": \"17 c\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"129\", \"und\": false, \"new\": \"19 21\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"130 a\", \"und\": false, \"new\": \"23\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"130 b\", \"und\": false, \"new\": \"25\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"130 b\", \"und\": true, \"new\": \"34\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Amthausgasse\", \"old\": \"130 b\", \"und\": true, \"new\": \"33\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bärenplatz\", \"old\": \"131 a\", \"und\": false, \"new\": \"36\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bärenplatz\", \"old\": \"131 a\", \"und\": true, \"new\": \"35\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bärenplatz\", \"old\": \"131 b\", \"und\": false, \"new\": \"37\", \"street\": \"Bärenplatz\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Bärenplatz\", \"old\": \"131 b\", \"und\": true, \"new\": \"15\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"131 c\", \"und\": false, \"new\": \"26\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"131 c\", \"und\": true, \"new\": \"9\", \"street\": \"Käfichgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"131 d\", \"und\": false, \"new\": \"24\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"132 b\", \"und\": false, \"new\": \"14\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"132 b\", \"und\": true, \"new\": \"4\", \"street\": \"Inselgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"132 b\", \"und\": true, \"new\": \"4 a\", \"street\": \"Inselgässchen\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"132\", \"und\": false, \"new\": \"16\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"133 a\", \"und\": false, \"new\": \"6\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"133 b\", \"und\": false, \"new\": \"4\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"134\", \"und\": false, \"new\": \"6\", \"street\": \"Münzgraben\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"135 a\", \"und\": false, \"new\": \"9\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"135 b\", \"und\": false, \"new\": \"7\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"135 c\", \"und\": false, \"new\": \"5\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"135 d\", \"und\": false, \"new\": \"5 a\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"136 a/b\", \"und\": false, \"new\": \"3\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"136 c\", \"und\": false, \"new\": \"3 a\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"136 d\", \"und\": false, \"new\": \"3 b\", \"street\": \"Inselgasse\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"137 a\", \"und\": false, \"new\": \"8\", \"street\": \"Münzgraben\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"137 b\", \"und\": false, \"new\": \"19\", \"street\": \"Frickweg\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Inselgasse\", \"old\": \"137 c\", \"und\": false, \"new\": \"76\", \"street\": \"Aarstrasse\", \"hand\": true, \"note\": \"ganze Zeile handschriftlich\"},\n  {\"col\": 2, \"group\": \"Gerberngraben\", \"old\": \"138\", \"und\": false, \"new\": \"13\", \"street\": \"Münzgraben\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerberngraben\", \"old\": \"139\", \"und\": false, \"new\": \"11\", \"street\": \"Münzgraben\", \"hand\": false, \"note\": \"\"},\n  {\"col\": 2, \"group\": \"Gerberngraben\", \"old\": \"139\", \"und\": true, \"new\": \"28\", \"street\": \"Frickweg\", \"hand\": false, \"note\": \"\"}\n ],\n \"complete\": true}",
+ "parsed": {
+  "page_heading": "Gelbes Quartier.",
+  "printed_page": "7",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "91",
+    "und": false,
+    "new": "59",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "92",
+    "und": false,
+    "new": "61",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "93",
+    "und": false,
+    "new": "63",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "94 a",
+    "und": false,
+    "new": "65",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "94 a",
+    "und": true,
+    "new": "1",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "94 b",
+    "und": false,
+    "new": "3",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "95",
+    "und": false,
+    "new": "4",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "95",
+    "und": true,
+    "new": "3",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "96/97",
+    "und": false,
+    "new": "6",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "96/97",
+    "und": true,
+    "new": "5",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "98",
+    "und": false,
+    "new": "8",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "98",
+    "und": true,
+    "new": "7",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "99",
+    "und": false,
+    "new": "10",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "99",
+    "und": true,
+    "new": "9",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "100",
+    "und": false,
+    "new": "12",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "100",
+    "und": true,
+    "new": "11",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "101",
+    "und": false,
+    "new": "14",
+    "street": "Käfichgessächen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "101",
+    "und": true,
+    "new": "13",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "102",
+    "und": false,
+    "new": "16",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "102",
+    "und": true,
+    "new": "15",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "103",
+    "und": false,
+    "new": "18",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "103",
+    "und": true,
+    "new": "17",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "104",
+    "und": false,
+    "new": "20",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "104",
+    "und": true,
+    "new": "19",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "105",
+    "und": false,
+    "new": "22",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "105",
+    "und": true,
+    "new": "21",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "106",
+    "und": false,
+    "new": "24",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "106",
+    "und": true,
+    "new": "23",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "107",
+    "und": false,
+    "new": "26",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "107",
+    "und": true,
+    "new": "25",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "108",
+    "und": false,
+    "new": "28",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "108",
+    "und": true,
+    "new": "27",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "109",
+    "und": false,
+    "new": "30",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "109",
+    "und": true,
+    "new": "29",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "110",
+    "und": false,
+    "new": "32",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "110",
+    "und": true,
+    "new": "31",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässli",
+    "old": "111",
+    "und": false,
+    "new": "5",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "112 a",
+    "und": false,
+    "new": "30",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "112 b",
+    "und": false,
+    "new": "30 a",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "112 c",
+    "und": false,
+    "new": "30 b",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "112 d",
+    "und": false,
+    "new": "28",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "113 a",
+    "und": false,
+    "new": "26",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "113 b",
+    "und": false,
+    "new": "24",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "113 c",
+    "und": false,
+    "new": "22",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "114",
+    "und": false,
+    "new": "20",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "115",
+    "und": false,
+    "new": "5",
+    "street": "Amthausgchn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "116/117",
+    "und": false,
+    "new": "16",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "118",
+    "und": false,
+    "new": "14",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "119",
+    "und": false,
+    "new": "10",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "120",
+    "und": false,
+    "new": "8",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "121",
+    "und": false,
+    "new": "6",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Amthausgasse",
+    "old": "122",
+    "und": false,
+    "new": "4",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "123 a",
+    "und": false,
+    "new": "8",
+    "street": "Theaterplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "123 b",
+    "und": false,
+    "new": "2",
+    "street": "Amthausgasse",
+    "hand": true,
+    "note": "gedruckt: Theaterplatz"
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "123 b",
+    "und": true,
+    "new": "10",
+    "street": "Theaterplatz",
+    "hand": true,
+    "note": "gedruckt: Amthausgasse"
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "124 a",
+    "und": false,
+    "new": "1",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "124 b",
+    "und": false,
+    "new": "3",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "125",
+    "und": false,
+    "new": "5",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "125",
+    "und": true,
+    "new": "8 a b",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "126",
+    "und": false,
+    "new": "7",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "126",
+    "und": true,
+    "new": "1",
+    "street": "Inselgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "126 d",
+    "und": false,
+    "new": "9",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "126 d",
+    "und": true,
+    "new": "2",
+    "street": "Inselgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "126 e",
+    "und": false,
+    "new": "11",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "126 e",
+    "und": true,
+    "new": "11 a",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "126 b",
+    "und": false,
+    "new": "3",
+    "street": "Inselgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "126 c",
+    "und": false,
+    "new": "10",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "127 a",
+    "und": false,
+    "new": "13",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "127 b",
+    "und": false,
+    "new": "15",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "128 a",
+    "und": false,
+    "new": "17",
+    "street": "Amthausgasse",
+    "hand": true,
+    "note": "gedruckt: 128 a b c, b c durchgestrichen"
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "128 b",
+    "und": false,
+    "new": "17 a",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "128 c",
+    "und": false,
+    "new": "17 b",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "128 d",
+    "und": false,
+    "new": "17 c",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "129",
+    "und": false,
+    "new": "19 21",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "130 a",
+    "und": false,
+    "new": "23",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "130 b",
+    "und": false,
+    "new": "25",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "130 b",
+    "und": true,
+    "new": "34",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Amthausgasse",
+    "old": "130 b",
+    "und": true,
+    "new": "33",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bärenplatz",
+    "old": "131 a",
+    "und": false,
+    "new": "36",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bärenplatz",
+    "old": "131 a",
+    "und": true,
+    "new": "35",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bärenplatz",
+    "old": "131 b",
+    "und": false,
+    "new": "37",
+    "street": "Bärenplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Bärenplatz",
+    "old": "131 b",
+    "und": true,
+    "new": "15",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "131 c",
+    "und": false,
+    "new": "26",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "131 c",
+    "und": true,
+    "new": "9",
+    "street": "Käfichgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "131 d",
+    "und": false,
+    "new": "24",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "132 b",
+    "und": false,
+    "new": "14",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "132 b",
+    "und": true,
+    "new": "4",
+    "street": "Inselgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "132 b",
+    "und": true,
+    "new": "4 a",
+    "street": "Inselgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "132",
+    "und": false,
+    "new": "16",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "133 a",
+    "und": false,
+    "new": "6",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "133 b",
+    "und": false,
+    "new": "4",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "134",
+    "und": false,
+    "new": "6",
+    "street": "Münzgraben",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "135 a",
+    "und": false,
+    "new": "9",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "135 b",
+    "und": false,
+    "new": "7",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "135 c",
+    "und": false,
+    "new": "5",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "135 d",
+    "und": false,
+    "new": "5 a",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "136 a/b",
+    "und": false,
+    "new": "3",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "136 c",
+    "und": false,
+    "new": "3 a",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "136 d",
+    "und": false,
+    "new": "3 b",
+    "street": "Inselgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "137 a",
+    "und": false,
+    "new": "8",
+    "street": "Münzgraben",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "137 b",
+    "und": false,
+    "new": "19",
+    "street": "Frickweg",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Inselgasse",
+    "old": "137 c",
+    "und": false,
+    "new": "76",
+    "street": "Aarstrasse",
+    "hand": true,
+    "note": "ganze Zeile handschriftlich"
+   },
+   {
+    "col": 2,
+    "group": "Gerberngraben",
+    "old": "138",
+    "und": false,
+    "new": "13",
+    "street": "Münzgraben",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerberngraben",
+    "old": "139",
+    "und": false,
+    "new": "11",
+    "street": "Münzgraben",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerberngraben",
+    "old": "139",
+    "und": true,
+    "new": "28",
+    "street": "Frickweg",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:53:25+01:00"
+}

@@ -1,0 +1,776 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 9,
+ "thinking": "high",
+ "started": "2026-11-12T07:57:19+01:00",
+ "seconds": 118.4,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 4554,
+  "thoughts": 13979
+ },
+ "response_text": "{\n  \"page_heading\": \"Rothes Quartier.\",\n  \"printed_page\": \"\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"124 a\", \"new\": \"40\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"124 b\", \"new\": \"7\", \"street\": \"Aeuss. Bollwerk\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"125 a\", \"new\": \"38\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"125 b\", \"new\": \"38 a\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"126 a\", \"new\": \"36\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"126 b\", \"new\": \"36 a\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"127\", \"new\": \"34\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"128\", \"new\": \"32\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"129\", \"new\": \"30\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"130\", \"new\": \"28\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"131\", \"new\": \"26\", \"street\": \"Spitalgasse\", \"hand\": true, \"note\": \"handschriftliche Einfügung\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"132\", \"new\": \"24\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"133\", \"new\": \"22\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"134\", \"new\": \"20\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"135\", \"new\": \"18\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"136 a\", \"new\": \"16\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"136 b\", \"new\": \"16 a\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"137/138\", \"new\": \"14\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"139\", \"new\": \"12\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"140/141\", \"new\": \"10\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"142\", \"new\": \"8\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"143\", \"new\": \"6\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"144/145\", \"new\": \"4\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"146/147\", \"new\": \"1\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"146/147\", \"und\": true, \"new\": \"2\", \"street\": \"Bärenplatz\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"148\", \"new\": \"3\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"149 a\", \"new\": \"5\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"149 b\", \"new\": \"5 a\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"150 a\", \"new\": \"7\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"150 b\", \"new\": \"7 a\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"151 a\", \"new\": \"9\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"151 b\", \"new\": \"9 a\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"152 a\", \"new\": \"11\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"152 b\", \"new\": \"11 a\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"153 a\", \"new\": \"13\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"153 b\", \"new\": \"13 a\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"154 a\", \"new\": \"15\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"154 b\", \"new\": \"8\", \"street\": \"Schauplatzgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"155 a\", \"new\": \"17\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"155 a\", \"und\": true, \"new\": \"12\", \"street\": \"Schauplatzgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"156 a\", \"new\": \"19\", \"street\": \"Spitalgasse\", \"hand\": true, \"note\": \"«Spitalgasse» handschriftlich durchgestrichen\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"157 a\", \"new\": \"21\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"157 b\", \"new\": \"21 a\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"158\", \"new\": \"23\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"159\", \"new\": \"25\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"159\", \"und\": true, \"new\": \"3 u. 5\", \"street\": \"Storchengchn.\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"160\", \"new\": \"27\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"160\", \"und\": true, \"new\": \"2\", \"street\": \"Storchengchn.\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"161\", \"new\": \"29\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"162\", \"new\": \"31\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"163 a/b\", \"new\": \"31 a\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"164 a\", \"new\": \"33\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"164 b\", \"new\": \"24\", \"street\": \"Schauplatzgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"165\", \"new\": \"35\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"166/167\", \"new\": \"37\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"168\", \"new\": \"39\", \"street\": \"Spitalgasse\"},\n    {\"col\": 1, \"group\": \"Spitalgasse\", \"old\": \"169\", \"new\": \"41\", \"street\": \"Spitalgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"170/171\", \"new\": \"43\", \"street\": \"Spitalgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"172\", \"new\": \"45\", \"street\": \"Spitalgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"173 a\", \"new\": \"47\", \"street\": \"Spitalgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"173 b\", \"new\": \"36\", \"street\": \"Schauplatzgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"174 a\", \"new\": \"49\", \"street\": \"Spitalgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"174 b\", \"new\": \"38\", \"street\": \"Schauplatzgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"175 a\", \"new\": \"51\", \"street\": \"Spitalgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"175 b\", \"new\": \"40\", \"street\": \"Schauplatzgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"176 a\", \"new\": \"53\", \"street\": \"Spitalgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"176 b\", \"new\": \"42\", \"street\": \"Schauplatzgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"177 a\", \"new\": \"55\", \"street\": \"Spitalgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"177 b\", \"new\": \"44\", \"street\": \"Schauplatzgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"178\", \"new\": \"57\", \"street\": \"Spitalgasse\"},\n    {\"col\": 2, \"group\": \"Spitalgasse\", \"old\": \"178\", \"und\": true, \"new\": \"1\", \"street\": \"Christoffelplatz\", \"hand\": true, \"note\": \"gedruckt: «Christoffelgasse», «gasse» gestrichen und handschriftlich «platz» ergänzt\"},\n    {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"179 a\", \"new\": \"3\", \"street\": \"Christoffelplatz\"},\n    {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"179 a\", \"und\": true, \"new\": \"2\", \"street\": \"Christoffelgasse\"},\n    {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"179 b\", \"new\": \"4\", \"street\": \"Christoffelgasse\"},\n    {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"179 b\", \"und\": true, \"new\": \"2\", \"street\": \"Bankgässchen\"},\n    {\"col\": 2, \"group\": \"Zwischen d. Thoren\", \"old\": \"180 a\", \"new\": \"11\", \"street\": \"Christoffelplatz\"},\n    {\"col\": 2, \"group\": \"Zwischen d. Thoren\", \"old\": \"180 b\", \"new\": \"11 a\", \"street\": \"Christoffelplatz\"},\n    {\"col\": 2, \"group\": \"Zwischen d. Thoren\", \"old\": \"181 a/b\", \"new\": \"9 u. 9 a\", \"street\": \"Christoffelplatz\", \"hand\": true, \"note\": \"gedruckt: «Christoffelgasse», «gasse» gestrichen und handschriftlich «platz» ergänzt\"},\n    {\"col\": 2, \"group\": \"Zwischen d. Thoren\", \"old\": \"182\", \"new\": \"7\", \"street\": \"Christoffelplatz\"},\n    {\"col\": 2, \"group\": \"Zwischen d. Thoren\", \"old\": \"183\", \"new\": \"5 u. 5 a\", \"street\": \"Christoffelplatz\"},\n    {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"184 a\", \"new\": \"6\", \"street\": \"Bankgässchen\"},\n    {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"184 b\", \"new\": \"8\", \"street\": \"Bankgässchen\"},\n    {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"186 e\", \"new\": \"6\", \"street\": \"Christoffelgasse\"},\n    {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"186 e\", \"und\": true, \"new\": \"22\", \"street\": \"Bundesgasse\"},\n    {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"186 f\", \"new\": \"6 a\", \"street\": \"Christoffelgasse\"},\n    {\"col\": 2, \"group\": \"Christoffelgasse\", \"old\": \"186 f\", \"und\": true, \"new\": \"1\", \"street\": \"Bankgässchen\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"185 a\", \"new\": \"26\", \"street\": \"Bundesgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"185 b\", \"new\": \"28\", \"street\": \"Bundesgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"185 c\", \"new\": \"30\", \"street\": \"Bundesgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"185 c\", \"und\": true, \"new\": \"13\", \"street\": \"Schwanengasse\"},\n    {\"col\": 2, \"group\": \"Schwanengasse\", \"old\": \"185 d\", \"new\": \"11\", \"street\": \"Schwanengasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"187 a\", \"new\": \"32\", \"street\": \"Bundesgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"187 a\", \"und\": true, \"new\": \"1\", \"street\": \"Wallgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"187 b\", \"new\": \"34\", \"street\": \"Bundesgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"187 b\", \"und\": true, \"new\": \"3\", \"street\": \"Wallgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"187 c\", \"new\": \"36\", \"street\": \"Bundesgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"187 c\", \"und\": true, \"new\": \"5\", \"street\": \"Wallgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"187 d\", \"new\": \"38\", \"street\": \"Bundesgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"187 d\", \"und\": true, \"new\": \"7\", \"street\": \"Wallgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"187 e\", \"new\": \"40\", \"street\": \"Bundesgasse\"},\n    {\"col\": 2, \"group\": \"Bundesgasse\", \"old\": \"187 e\", \"und\": true, \"new\": \"9\", \"street\": \"Wallgasse\"},\n    {\"col\": 2, \"group\": \"Wallgasse\", \"old\": \"188 a\", \"new\": \"8\", \"street\": \"Wallgasse\"},\n    {\"col\": 2, \"group\": \"Wallgasse\", \"old\": \"188 b\", \"new\": \"6\", \"street\": \"Wallgasse\"},\n    {\"col\": 2, \"group\": \"Wallgasse\", \"old\": \"188 c\", \"new\": \"4\", \"street\": \"Wallgasse\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Rothes Quartier.",
+  "printed_page": "",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "124 a",
+    "new": "40",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "124 b",
+    "new": "7",
+    "street": "Aeuss. Bollwerk"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "125 a",
+    "new": "38",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "125 b",
+    "new": "38 a",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "126 a",
+    "new": "36",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "126 b",
+    "new": "36 a",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "127",
+    "new": "34",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "128",
+    "new": "32",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "129",
+    "new": "30",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "130",
+    "new": "28",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "131",
+    "new": "26",
+    "street": "Spitalgasse",
+    "hand": true,
+    "note": "handschriftliche Einfügung"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "132",
+    "new": "24",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "133",
+    "new": "22",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "134",
+    "new": "20",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "135",
+    "new": "18",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "136 a",
+    "new": "16",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "136 b",
+    "new": "16 a",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "137/138",
+    "new": "14",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "139",
+    "new": "12",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "140/141",
+    "new": "10",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "142",
+    "new": "8",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "143",
+    "new": "6",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "144/145",
+    "new": "4",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "146/147",
+    "new": "1",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "146/147",
+    "und": true,
+    "new": "2",
+    "street": "Bärenplatz"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "148",
+    "new": "3",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "149 a",
+    "new": "5",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "149 b",
+    "new": "5 a",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "150 a",
+    "new": "7",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "150 b",
+    "new": "7 a",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "151 a",
+    "new": "9",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "151 b",
+    "new": "9 a",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "152 a",
+    "new": "11",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "152 b",
+    "new": "11 a",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "153 a",
+    "new": "13",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "153 b",
+    "new": "13 a",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "154 a",
+    "new": "15",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "154 b",
+    "new": "8",
+    "street": "Schauplatzgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "155 a",
+    "new": "17",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "155 a",
+    "und": true,
+    "new": "12",
+    "street": "Schauplatzgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "156 a",
+    "new": "19",
+    "street": "Spitalgasse",
+    "hand": true,
+    "note": "«Spitalgasse» handschriftlich durchgestrichen"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "157 a",
+    "new": "21",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "157 b",
+    "new": "21 a",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "158",
+    "new": "23",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "159",
+    "new": "25",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "159",
+    "und": true,
+    "new": "3 u. 5",
+    "street": "Storchengchn."
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "160",
+    "new": "27",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "160",
+    "und": true,
+    "new": "2",
+    "street": "Storchengchn."
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "161",
+    "new": "29",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "162",
+    "new": "31",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "163 a/b",
+    "new": "31 a",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "164 a",
+    "new": "33",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "164 b",
+    "new": "24",
+    "street": "Schauplatzgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "165",
+    "new": "35",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "166/167",
+    "new": "37",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "168",
+    "new": "39",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 1,
+    "group": "Spitalgasse",
+    "old": "169",
+    "new": "41",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "170/171",
+    "new": "43",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "172",
+    "new": "45",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "173 a",
+    "new": "47",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "173 b",
+    "new": "36",
+    "street": "Schauplatzgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "174 a",
+    "new": "49",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "174 b",
+    "new": "38",
+    "street": "Schauplatzgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "175 a",
+    "new": "51",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "175 b",
+    "new": "40",
+    "street": "Schauplatzgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "176 a",
+    "new": "53",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "176 b",
+    "new": "42",
+    "street": "Schauplatzgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "177 a",
+    "new": "55",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "177 b",
+    "new": "44",
+    "street": "Schauplatzgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "178",
+    "new": "57",
+    "street": "Spitalgasse"
+   },
+   {
+    "col": 2,
+    "group": "Spitalgasse",
+    "old": "178",
+    "und": true,
+    "new": "1",
+    "street": "Christoffelplatz",
+    "hand": true,
+    "note": "gedruckt: «Christoffelgasse», «gasse» gestrichen und handschriftlich «platz» ergänzt"
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "179 a",
+    "new": "3",
+    "street": "Christoffelplatz"
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "179 a",
+    "und": true,
+    "new": "2",
+    "street": "Christoffelgasse"
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "179 b",
+    "new": "4",
+    "street": "Christoffelgasse"
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "179 b",
+    "und": true,
+    "new": "2",
+    "street": "Bankgässchen"
+   },
+   {
+    "col": 2,
+    "group": "Zwischen d. Thoren",
+    "old": "180 a",
+    "new": "11",
+    "street": "Christoffelplatz"
+   },
+   {
+    "col": 2,
+    "group": "Zwischen d. Thoren",
+    "old": "180 b",
+    "new": "11 a",
+    "street": "Christoffelplatz"
+   },
+   {
+    "col": 2,
+    "group": "Zwischen d. Thoren",
+    "old": "181 a/b",
+    "new": "9 u. 9 a",
+    "street": "Christoffelplatz",
+    "hand": true,
+    "note": "gedruckt: «Christoffelgasse», «gasse» gestrichen und handschriftlich «platz» ergänzt"
+   },
+   {
+    "col": 2,
+    "group": "Zwischen d. Thoren",
+    "old": "182",
+    "new": "7",
+    "street": "Christoffelplatz"
+   },
+   {
+    "col": 2,
+    "group": "Zwischen d. Thoren",
+    "old": "183",
+    "new": "5 u. 5 a",
+    "street": "Christoffelplatz"
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "184 a",
+    "new": "6",
+    "street": "Bankgässchen"
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "184 b",
+    "new": "8",
+    "street": "Bankgässchen"
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "186 e",
+    "new": "6",
+    "street": "Christoffelgasse"
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "186 e",
+    "und": true,
+    "new": "22",
+    "street": "Bundesgasse"
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "186 f",
+    "new": "6 a",
+    "street": "Christoffelgasse"
+   },
+   {
+    "col": 2,
+    "group": "Christoffelgasse",
+    "old": "186 f",
+    "und": true,
+    "new": "1",
+    "street": "Bankgässchen"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "185 a",
+    "new": "26",
+    "street": "Bundesgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "185 b",
+    "new": "28",
+    "street": "Bundesgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "185 c",
+    "new": "30",
+    "street": "Bundesgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "185 c",
+    "und": true,
+    "new": "13",
+    "street": "Schwanengasse"
+   },
+   {
+    "col": 2,
+    "group": "Schwanengasse",
+    "old": "185 d",
+    "new": "11",
+    "street": "Schwanengasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "187 a",
+    "new": "32",
+    "street": "Bundesgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "187 a",
+    "und": true,
+    "new": "1",
+    "street": "Wallgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "187 b",
+    "new": "34",
+    "street": "Bundesgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "187 b",
+    "und": true,
+    "new": "3",
+    "street": "Wallgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "187 c",
+    "new": "36",
+    "street": "Bundesgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "187 c",
+    "und": true,
+    "new": "5",
+    "street": "Wallgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "187 d",
+    "new": "38",
+    "street": "Bundesgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "187 d",
+    "und": true,
+    "new": "7",
+    "street": "Wallgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "187 e",
+    "new": "40",
+    "street": "Bundesgasse"
+   },
+   {
+    "col": 2,
+    "group": "Bundesgasse",
+    "old": "187 e",
+    "und": true,
+    "new": "9",
+    "street": "Wallgasse"
+   },
+   {
+    "col": 2,
+    "group": "Wallgasse",
+    "old": "188 a",
+    "new": "8",
+    "street": "Wallgasse"
+   },
+   {
+    "col": 2,
+    "group": "Wallgasse",
+    "old": "188 b",
+    "new": "6",
+    "street": "Wallgasse"
+   },
+   {
+    "col": 2,
+    "group": "Wallgasse",
+    "old": "188 c",
+    "new": "4",
+    "street": "Wallgasse"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:59:17+01:00"
+}

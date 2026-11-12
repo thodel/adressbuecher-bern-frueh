@@ -1,0 +1,1125 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 12,
+ "thinking": "medium",
+ "started": "2026-11-12T07:52:51+01:00",
+ "seconds": 74.6,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 6193,
+  "thoughts": 5488
+ },
+ "response_text": "{\n  \"page_heading\": \"Gelbes Quartier.\",\n  \"printed_page\": \"6\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"16 b\", \"und\": false, \"new\": \"29\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"16 c\", \"und\": false, \"new\": \"31\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"16 d\", \"und\": false, \"new\": \"33\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"17\", \"und\": false, \"new\": \"35\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"18 a\", \"und\": false, \"new\": \"37\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"18 b\", \"und\": false, \"new\": \"39\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Zeughausgasse\", \"old\": \"19 a\", \"und\": false, \"new\": \"41\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"19 b\", \"und\": false, \"new\": \"43\", \"street\": \"Zeughausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"19 b\", \"und\": true, \"new\": \"21\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"19 c\", \"und\": false, \"new\": \"7\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"20 a\", \"und\": false, \"new\": \"20\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"20 a\", \"und\": true, \"new\": \"19\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"20 b\", \"und\": false, \"new\": \"18\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"20 b\", \"und\": true, \"new\": \"17\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"21\", \"und\": false, \"new\": \"16\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"21\", \"und\": true, \"new\": \"15\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"22\", \"und\": false, \"new\": \"14\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"22\", \"und\": true, \"new\": \"13\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"23\", \"und\": false, \"new\": \"12\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"23\", \"und\": true, \"new\": \"11\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"24\", \"und\": false, \"new\": \"10\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"24\", \"und\": true, \"new\": \"9\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"25\", \"und\": false, \"new\": \"8\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"25\", \"und\": true, \"new\": \"7\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"26\", \"und\": false, \"new\": \"6\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"26\", \"und\": true, \"new\": \"5\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"27\", \"und\": false, \"new\": \"4\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"27\", \"und\": true, \"new\": \"3\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"28\", \"und\": false, \"new\": \"2\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"28\", \"und\": true, \"new\": \"1\", \"street\": \"Waisenhausplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Käfichgässchen\", \"old\": \"29\", \"und\": false, \"new\": \"67\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"30\", \"und\": false, \"new\": \"60\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"30\", \"und\": true, \"new\": \"1\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"31 a-d\", \"und\": false, \"new\": \"58\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"31 a-d\", \"und\": true, \"new\": \"3 u. 5.\", \"street\": \"Waaghausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"32 a\", \"und\": false, \"new\": \"56\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"32 b\", \"und\": false, \"new\": \"56 a\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"33 a/b\", \"und\": false, \"new\": \"54\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"34 a\", \"und\": false, \"new\": \"52\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"34 b\", \"und\": false, \"new\": \"52 a\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"35 a\", \"und\": false, \"new\": \"50\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"35 b\", \"und\": false, \"new\": \"50 a\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"36 37 a\", \"und\": false, \"new\": \"48\", \"street\": \"Marktgasse\", \"hand\": true, \"note\": \"«37 a» handschriftlich ergänzt\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"38 a\", \"und\": false, \"new\": \"46\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"38 b\", \"und\": false, \"new\": \"46 a\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"39 a\", \"und\": false, \"new\": \"44\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"39 b\", \"und\": false, \"new\": \"44 a\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"40 a\", \"und\": false, \"new\": \"42\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"40 b\", \"und\": false, \"new\": \"42 a\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"41 a\", \"und\": false, \"new\": \"40\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"41 b\", \"und\": false, \"new\": \"40 a\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"42\", \"und\": false, \"new\": \"38\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Marktgasse\", \"old\": \"43\", \"und\": false, \"new\": \"36\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"44\", \"und\": false, \"new\": \"34\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"45\", \"und\": false, \"new\": \"32\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"46\", \"und\": false, \"new\": \"30\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"47\", \"und\": false, \"new\": \"28\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"48\", \"und\": false, \"new\": \"26\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"49 a\", \"und\": false, \"new\": \"24\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"49 b\", \"und\": false, \"new\": \"4\", \"street\": \"Schützengässchen\", \"hand\": true, \"note\": \"handschriftlich Schützengässchen; gedruckt: \\\"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"49 c\", \"und\": false, \"new\": \"5\", \"street\": \"Schützengässchen\", \"hand\": true, \"note\": \"handschriftliches Dittozeichen; gedruckt: \\\"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"50 a\", \"und\": false, \"new\": \"22\", \"street\": \"Marktgasse\", \"hand\": true, \"note\": \"handschriftlich Marktgasse; gedruckt: \\\"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"50 b\", \"und\": false, \"new\": \"3\", \"street\": \"Schützengässchen\", \"hand\": true, \"note\": \"handschriftlich Schützengässchen; gedruckt: \\\"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"51 a\", \"und\": false, \"new\": \"20\", \"street\": \"Marktgasse\", \"hand\": true, \"note\": \"handschriftlich Marktgasse; gedruckt: \\\"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"51 b\", \"und\": false, \"new\": \"20 a\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"52 a\", \"und\": false, \"new\": \"18\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"52 b\", \"und\": false, \"new\": \"18 a\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"53\", \"und\": false, \"new\": \"16\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"54\", \"und\": false, \"new\": \"14\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"55 a\", \"und\": false, \"new\": \"12\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"56\", \"und\": false, \"new\": \"10\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"57\", \"und\": false, \"new\": \"8\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"58/59\", \"und\": false, \"new\": \"6\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"60\", \"und\": false, \"new\": \"4\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"61\", \"und\": false, \"new\": \"2\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"62\", \"und\": false, \"new\": \"1\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"62\", \"und\": true, \"new\": \"2\", \"street\": \"Theaterplatz\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"63\", \"und\": false, \"new\": \"3\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"64\", \"und\": false, \"new\": \"5\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"65\", \"und\": false, \"new\": \"7\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"66\", \"und\": false, \"new\": \"9\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"67\", \"und\": false, \"new\": \"11\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"68\", \"und\": false, \"new\": \"13\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"69\", \"und\": false, \"new\": \"15\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"70 a\", \"und\": false, \"new\": \"17\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"70 b\", \"und\": false, \"new\": \"12\", \"street\": \"Amthausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"71\", \"und\": false, \"new\": \"19\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"72\", \"und\": false, \"new\": \"21\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"73\", \"und\": false, \"new\": \"23\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"74\", \"und\": false, \"new\": \"25\", \"street\": \"Marktgasse\", \"hand\": true, \"note\": \"handschriftlich ergänzt\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"74\", \"und\": true, \"new\": \"3\", \"street\": \"Amthausgässchen\", \"hand\": true, \"note\": \"«und» handschriftlich vor 3 ergänzt; gedruckt: Amthausgchn.\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"75\", \"und\": false, \"new\": \"27\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"75\", \"und\": true, \"new\": \"1\", \"street\": \"Amthausgässchen\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"76\", \"und\": false, \"new\": \"29\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"76\", \"und\": true, \"new\": \"2\", \"street\": \"Amthausgässchen\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"77\", \"und\": false, \"new\": \"31\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"78\", \"und\": false, \"new\": \"33\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"79\", \"und\": false, \"new\": \"35\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"80\", \"und\": false, \"new\": \"37\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"81\", \"und\": false, \"new\": \"39\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"82\", \"und\": false, \"new\": \"41\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"83 a\", \"und\": false, \"new\": \"43\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"83 b\", \"und\": false, \"new\": \"43 a\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"84\", \"und\": false, \"new\": \"45\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"85 a/b\", \"und\": false, \"new\": \"47\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"86\", \"und\": false, \"new\": \"49\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"87\", \"und\": false, \"new\": \"51\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"88\", \"und\": false, \"new\": \"53\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"89\", \"und\": false, \"new\": \"55\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Marktgasse\", \"old\": \"90 a/b\", \"und\": false, \"new\": \"57\", \"street\": \"Marktgasse\", \"hand\": false, \"note\": \"\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Gelbes Quartier.",
+  "printed_page": "6",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "16 b",
+    "und": false,
+    "new": "29",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "16 c",
+    "und": false,
+    "new": "31",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "16 d",
+    "und": false,
+    "new": "33",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "17",
+    "und": false,
+    "new": "35",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "18 a",
+    "und": false,
+    "new": "37",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "18 b",
+    "und": false,
+    "new": "39",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Zeughausgasse",
+    "old": "19 a",
+    "und": false,
+    "new": "41",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "19 b",
+    "und": false,
+    "new": "43",
+    "street": "Zeughausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "19 b",
+    "und": true,
+    "new": "21",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "19 c",
+    "und": false,
+    "new": "7",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "20 a",
+    "und": false,
+    "new": "20",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "20 a",
+    "und": true,
+    "new": "19",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "20 b",
+    "und": false,
+    "new": "18",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "20 b",
+    "und": true,
+    "new": "17",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "21",
+    "und": false,
+    "new": "16",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "21",
+    "und": true,
+    "new": "15",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "22",
+    "und": false,
+    "new": "14",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "22",
+    "und": true,
+    "new": "13",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "23",
+    "und": false,
+    "new": "12",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "23",
+    "und": true,
+    "new": "11",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "24",
+    "und": false,
+    "new": "10",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "24",
+    "und": true,
+    "new": "9",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "25",
+    "und": false,
+    "new": "8",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "25",
+    "und": true,
+    "new": "7",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "26",
+    "und": false,
+    "new": "6",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "26",
+    "und": true,
+    "new": "5",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "27",
+    "und": false,
+    "new": "4",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "27",
+    "und": true,
+    "new": "3",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "28",
+    "und": false,
+    "new": "2",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "28",
+    "und": true,
+    "new": "1",
+    "street": "Waisenhausplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Käfichgässchen",
+    "old": "29",
+    "und": false,
+    "new": "67",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "30",
+    "und": false,
+    "new": "60",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "30",
+    "und": true,
+    "new": "1",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "31 a-d",
+    "und": false,
+    "new": "58",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "31 a-d",
+    "und": true,
+    "new": "3 u. 5.",
+    "street": "Waaghausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "32 a",
+    "und": false,
+    "new": "56",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "32 b",
+    "und": false,
+    "new": "56 a",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "33 a/b",
+    "und": false,
+    "new": "54",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "34 a",
+    "und": false,
+    "new": "52",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "34 b",
+    "und": false,
+    "new": "52 a",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "35 a",
+    "und": false,
+    "new": "50",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "35 b",
+    "und": false,
+    "new": "50 a",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "36 37 a",
+    "und": false,
+    "new": "48",
+    "street": "Marktgasse",
+    "hand": true,
+    "note": "«37 a» handschriftlich ergänzt"
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "38 a",
+    "und": false,
+    "new": "46",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "38 b",
+    "und": false,
+    "new": "46 a",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "39 a",
+    "und": false,
+    "new": "44",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "39 b",
+    "und": false,
+    "new": "44 a",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "40 a",
+    "und": false,
+    "new": "42",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "40 b",
+    "und": false,
+    "new": "42 a",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "41 a",
+    "und": false,
+    "new": "40",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "41 b",
+    "und": false,
+    "new": "40 a",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "42",
+    "und": false,
+    "new": "38",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Marktgasse",
+    "old": "43",
+    "und": false,
+    "new": "36",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "44",
+    "und": false,
+    "new": "34",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "45",
+    "und": false,
+    "new": "32",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "46",
+    "und": false,
+    "new": "30",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "47",
+    "und": false,
+    "new": "28",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "48",
+    "und": false,
+    "new": "26",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "49 a",
+    "und": false,
+    "new": "24",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "49 b",
+    "und": false,
+    "new": "4",
+    "street": "Schützengässchen",
+    "hand": true,
+    "note": "handschriftlich Schützengässchen; gedruckt: \""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "49 c",
+    "und": false,
+    "new": "5",
+    "street": "Schützengässchen",
+    "hand": true,
+    "note": "handschriftliches Dittozeichen; gedruckt: \""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "50 a",
+    "und": false,
+    "new": "22",
+    "street": "Marktgasse",
+    "hand": true,
+    "note": "handschriftlich Marktgasse; gedruckt: \""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "50 b",
+    "und": false,
+    "new": "3",
+    "street": "Schützengässchen",
+    "hand": true,
+    "note": "handschriftlich Schützengässchen; gedruckt: \""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "51 a",
+    "und": false,
+    "new": "20",
+    "street": "Marktgasse",
+    "hand": true,
+    "note": "handschriftlich Marktgasse; gedruckt: \""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "51 b",
+    "und": false,
+    "new": "20 a",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "52 a",
+    "und": false,
+    "new": "18",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "52 b",
+    "und": false,
+    "new": "18 a",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "53",
+    "und": false,
+    "new": "16",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "54",
+    "und": false,
+    "new": "14",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "55 a",
+    "und": false,
+    "new": "12",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "56",
+    "und": false,
+    "new": "10",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "57",
+    "und": false,
+    "new": "8",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "58/59",
+    "und": false,
+    "new": "6",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "60",
+    "und": false,
+    "new": "4",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "61",
+    "und": false,
+    "new": "2",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "62",
+    "und": false,
+    "new": "1",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "62",
+    "und": true,
+    "new": "2",
+    "street": "Theaterplatz",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "63",
+    "und": false,
+    "new": "3",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "64",
+    "und": false,
+    "new": "5",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "65",
+    "und": false,
+    "new": "7",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "66",
+    "und": false,
+    "new": "9",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "67",
+    "und": false,
+    "new": "11",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "68",
+    "und": false,
+    "new": "13",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "69",
+    "und": false,
+    "new": "15",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "70 a",
+    "und": false,
+    "new": "17",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "70 b",
+    "und": false,
+    "new": "12",
+    "street": "Amthausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "71",
+    "und": false,
+    "new": "19",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "72",
+    "und": false,
+    "new": "21",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "73",
+    "und": false,
+    "new": "23",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "74",
+    "und": false,
+    "new": "25",
+    "street": "Marktgasse",
+    "hand": true,
+    "note": "handschriftlich ergänzt"
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "74",
+    "und": true,
+    "new": "3",
+    "street": "Amthausgässchen",
+    "hand": true,
+    "note": "«und» handschriftlich vor 3 ergänzt; gedruckt: Amthausgchn."
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "75",
+    "und": false,
+    "new": "27",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "75",
+    "und": true,
+    "new": "1",
+    "street": "Amthausgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "76",
+    "und": false,
+    "new": "29",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "76",
+    "und": true,
+    "new": "2",
+    "street": "Amthausgässchen",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "77",
+    "und": false,
+    "new": "31",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "78",
+    "und": false,
+    "new": "33",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "79",
+    "und": false,
+    "new": "35",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "80",
+    "und": false,
+    "new": "37",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "81",
+    "und": false,
+    "new": "39",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "82",
+    "und": false,
+    "new": "41",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "83 a",
+    "und": false,
+    "new": "43",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "83 b",
+    "und": false,
+    "new": "43 a",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "84",
+    "und": false,
+    "new": "45",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "85 a/b",
+    "und": false,
+    "new": "47",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "86",
+    "und": false,
+    "new": "49",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "87",
+    "und": false,
+    "new": "51",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "88",
+    "und": false,
+    "new": "53",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "89",
+    "und": false,
+    "new": "55",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Marktgasse",
+    "old": "90 a/b",
+    "und": false,
+    "new": "57",
+    "street": "Marktgasse",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:54:06+01:00"
+}

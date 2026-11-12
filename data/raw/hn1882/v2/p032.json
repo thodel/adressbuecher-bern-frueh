@@ -1,0 +1,794 @@
+{
+ "run": "v2",
+ "model": "gemini-3.8-flash",
+ "page": 32,
+ "thinking": "high",
+ "started": "2026-11-12T08:06:43+01:00",
+ "seconds": 80.3,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 4915,
+  "thoughts": 8221
+ },
+ "response_text": "{\n  \"page_heading\": \"Stadtbezirk obenaus.\",\n  \"printed_page\": \"6\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"167 c\", \"new\": \"25\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"167 d\", \"new\": \"23\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"168 a\", \"new\": \"19\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"168 b\", \"new\": \"21\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"169 a\", \"new\": \"11 u. 11 a\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"169 b\", \"new\": \"11 b\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"170 a\", \"new\": \"9\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"170 b\", \"new\": \"11 c\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 a\", \"new\": \"5\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 b\", \"new\": \"7\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 m\", \"new\": \"7 b\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 c\", \"new\": \"3\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 d\", \"new\": \"1\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 d\", \"und\": true, \"new\": \"2\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 e\", \"new\": \"4\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 f\", \"new\": \"6\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 o\", \"new\": \"18\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 h\", \"new\": \"8\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 i\", \"new\": \"10\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 k\", \"new\": \"20\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 l\", \"new\": \"16 u. 16 a\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 r\", \"new\": \"12 u. 12 a\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 n\", \"new\": \"14\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"171 q\", \"new\": \"22\", \"street\": \"Hirschengraben\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"301 a\", \"new\": \"38 u. 38 a\", \"street\": \"Sulgeneckstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"302 a\", \"new\": \"37\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"302 b\", \"new\": \"39\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"302 c\", \"new\": \"43\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"302 h\", \"new\": \"43 a\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"302 i\", \"new\": \"39 a\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"302 d\", \"new\": \"41\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"302 e\", \"new\": \"35\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"302 f\", \"new\": \"35 a\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 a\", \"new\": \"45\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 a\", \"und\": true, \"new\": \"12\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 b\", \"new\": \"10\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 c\", \"new\": \"7\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 d\", \"new\": \"9\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 e\", \"new\": \"11\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 e\", \"und\": true, \"new\": \"47\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 f\", \"new\": \"49\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 g\", \"new\": \"51\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 h\", \"new\": \"53 a\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"303 i\", \"new\": \"53\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"304 a\", \"new\": \"55\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"304 b c\", \"new\": \"\", \"street\": \"\", \"note\": \"abgebrochen\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"304 f\", \"new\": \"57\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"304 g\", \"new\": \"61\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"304 h\", \"new\": \"59\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"306 a-f, k-m\", \"new\": \"30, 30 a-h, 32, 34\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"306 g\", \"new\": \"36\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"306 h\", \"new\": \"38 u. 38 a\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"306 o\", \"new\": \"36 a\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"308\", \"new\": \"40\", \"street\": \"Belpstrasse\"},\n    {\"col\": 1, \"group\": \"Holligen-Drittel\", \"old\": \"308\", \"und\": true, \"new\": \"13\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"309\", \"new\": \"15\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"310 a\", \"new\": \"17\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"310 b\", \"new\": \"17 a\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"312 a\", \"new\": \"14\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"312 b\", \"new\": \"16 u. 16 a\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"312 c\", \"new\": \"25\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"312 e\", \"new\": \"27\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"312 f\", \"new\": \"23\", \"street\": \"Mattenhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"313 a\", \"new\": \"31\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"313 b\", \"new\": \"29 u. 29 a\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"313 d\", \"new\": \"25\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"313 e\", \"new\": \"37 a\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"314 a\", \"new\": \"23\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"311 b\", \"new\": \"23 a\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"314 d\", \"new\": \"21\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"314 e\", \"new\": \"27 u. 2 a\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"314 f\", \"new\": \"19 a\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"314 h\", \"new\": \"11\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"314 i\", \"new\": \"13\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"315\", \"new\": \"9\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"316 a\", \"new\": \"7\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"316 c\", \"new\": \"7 b\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"316 b\", \"new\": \"3 u. 3 a\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"316 d\", \"new\": \"5\", \"street\": \"Brunnhofstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"317 a\", \"new\": \"42\", \"street\": \"Belpstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"317 b\", \"new\": \"42 a\", \"street\": \"Belpstrasse\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"319 a\", \"new\": \"17, 19, 19 a\", \"street\": \"Philosophenweg\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"320 a, b, d\", \"new\": \"21, 23 u. 25\", \"street\": \"Philosophenweg\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"321 a\", \"new\": \"29\", \"street\": \"Philosophenweg\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"321 b\", \"new\": \"27\", \"street\": \"Philosophenweg\"},\n    {\"col\": 2, \"group\": \"Holligen-Drittel\", \"old\": \"322\", \"new\": \"36\", \"street\": \"Brunnmattstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"3 c\", \"new\": \"3\", \"street\": \"Erlachstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"5\", \"new\": \"5\", \"street\": \"Erlachstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"172 a\", \"new\": \"8\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"172 c\", \"new\": \"8 a\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"172 b\", \"new\": \"10\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"173\", \"new\": \"12\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"174 a\", \"new\": \"14\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"174 c\", \"new\": \"14 a\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"174 b\", \"new\": \"16\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 a\", \"new\": \"2\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 b III\", \"new\": \"20\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 b II\", \"new\": \"20 a\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 b I\", \"new\": \"20 b\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 h\", \"new\": \"\", \"street\": \"\", \"note\": \"abgebrochen\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 i\", \"new\": \"20 c\", \"street\": \"Laupenstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 f\", \"new\": \"11\", \"street\": \"Stadtbachstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 t\", \"new\": \"13\", \"street\": \"Stadtbachstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 d\", \"new\": \"19 a\", \"street\": \"Stadtbachstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 e\", \"new\": \"19\", \"street\": \"Stadtbachstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 g\", \"new\": \"19 b\", \"street\": \"Stadtbachstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 k\", \"new\": \"21\", \"street\": \"Stadtbachstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 n\", \"new\": \"23\", \"street\": \"Stadtbachstrasse\"},\n    {\"col\": 2, \"group\": \"Länggass-Drittel\", \"old\": \"175 m\", \"new\": \"23 a\", \"street\": \"Stadtbachstrasse\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Stadtbezirk obenaus.",
+  "printed_page": "6",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "167 c",
+    "new": "25",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "167 d",
+    "new": "23",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "168 a",
+    "new": "19",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "168 b",
+    "new": "21",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "169 a",
+    "new": "11 u. 11 a",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "169 b",
+    "new": "11 b",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "170 a",
+    "new": "9",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "170 b",
+    "new": "11 c",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 a",
+    "new": "5",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 b",
+    "new": "7",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 m",
+    "new": "7 b",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 c",
+    "new": "3",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 d",
+    "new": "1",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 d",
+    "und": true,
+    "new": "2",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 e",
+    "new": "4",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 f",
+    "new": "6",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 o",
+    "new": "18",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 h",
+    "new": "8",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 i",
+    "new": "10",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 k",
+    "new": "20",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 l",
+    "new": "16 u. 16 a",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 r",
+    "new": "12 u. 12 a",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 n",
+    "new": "14",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "171 q",
+    "new": "22",
+    "street": "Hirschengraben"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "301 a",
+    "new": "38 u. 38 a",
+    "street": "Sulgeneckstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "302 a",
+    "new": "37",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "302 b",
+    "new": "39",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "302 c",
+    "new": "43",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "302 h",
+    "new": "43 a",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "302 i",
+    "new": "39 a",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "302 d",
+    "new": "41",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "302 e",
+    "new": "35",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "302 f",
+    "new": "35 a",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 a",
+    "new": "45",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 a",
+    "und": true,
+    "new": "12",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 b",
+    "new": "10",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 c",
+    "new": "7",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 d",
+    "new": "9",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 e",
+    "new": "11",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 e",
+    "und": true,
+    "new": "47",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 f",
+    "new": "49",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 g",
+    "new": "51",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 h",
+    "new": "53 a",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "303 i",
+    "new": "53",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "304 a",
+    "new": "55",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "304 b c",
+    "new": "",
+    "street": "",
+    "note": "abgebrochen"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "304 f",
+    "new": "57",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "304 g",
+    "new": "61",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "304 h",
+    "new": "59",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "306 a-f, k-m",
+    "new": "30, 30 a-h, 32, 34",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "306 g",
+    "new": "36",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "306 h",
+    "new": "38 u. 38 a",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "306 o",
+    "new": "36 a",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "308",
+    "new": "40",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 1,
+    "group": "Holligen-Drittel",
+    "old": "308",
+    "und": true,
+    "new": "13",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "309",
+    "new": "15",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "310 a",
+    "new": "17",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "310 b",
+    "new": "17 a",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "312 a",
+    "new": "14",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "312 b",
+    "new": "16 u. 16 a",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "312 c",
+    "new": "25",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "312 e",
+    "new": "27",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "312 f",
+    "new": "23",
+    "street": "Mattenhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "313 a",
+    "new": "31",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "313 b",
+    "new": "29 u. 29 a",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "313 d",
+    "new": "25",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "313 e",
+    "new": "37 a",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "314 a",
+    "new": "23",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "311 b",
+    "new": "23 a",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "314 d",
+    "new": "21",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "314 e",
+    "new": "27 u. 2 a",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "314 f",
+    "new": "19 a",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "314 h",
+    "new": "11",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "314 i",
+    "new": "13",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "315",
+    "new": "9",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "316 a",
+    "new": "7",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "316 c",
+    "new": "7 b",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "316 b",
+    "new": "3 u. 3 a",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "316 d",
+    "new": "5",
+    "street": "Brunnhofstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "317 a",
+    "new": "42",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "317 b",
+    "new": "42 a",
+    "street": "Belpstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "319 a",
+    "new": "17, 19, 19 a",
+    "street": "Philosophenweg"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "320 a, b, d",
+    "new": "21, 23 u. 25",
+    "street": "Philosophenweg"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "321 a",
+    "new": "29",
+    "street": "Philosophenweg"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "321 b",
+    "new": "27",
+    "street": "Philosophenweg"
+   },
+   {
+    "col": 2,
+    "group": "Holligen-Drittel",
+    "old": "322",
+    "new": "36",
+    "street": "Brunnmattstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "3 c",
+    "new": "3",
+    "street": "Erlachstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "5",
+    "new": "5",
+    "street": "Erlachstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "172 a",
+    "new": "8",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "172 c",
+    "new": "8 a",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "172 b",
+    "new": "10",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "173",
+    "new": "12",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "174 a",
+    "new": "14",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "174 c",
+    "new": "14 a",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "174 b",
+    "new": "16",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 a",
+    "new": "2",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 b III",
+    "new": "20",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 b II",
+    "new": "20 a",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 b I",
+    "new": "20 b",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 h",
+    "new": "",
+    "street": "",
+    "note": "abgebrochen"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 i",
+    "new": "20 c",
+    "street": "Laupenstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 f",
+    "new": "11",
+    "street": "Stadtbachstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 t",
+    "new": "13",
+    "street": "Stadtbachstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 d",
+    "new": "19 a",
+    "street": "Stadtbachstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 e",
+    "new": "19",
+    "street": "Stadtbachstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 g",
+    "new": "19 b",
+    "street": "Stadtbachstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 k",
+    "new": "21",
+    "street": "Stadtbachstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 n",
+    "new": "23",
+    "street": "Stadtbachstrasse"
+   },
+   {
+    "col": 2,
+    "group": "Länggass-Drittel",
+    "old": "175 m",
+    "new": "23 a",
+    "street": "Stadtbachstrasse"
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T08:08:03+01:00"
+}

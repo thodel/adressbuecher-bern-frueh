@@ -1,0 +1,1145 @@
+{
+ "run": "v1",
+ "model": "gemini-3.8-flash",
+ "page": 20,
+ "thinking": "medium",
+ "started": "2026-11-12T07:53:38+01:00",
+ "seconds": 68.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 1704,
+  "output": 6307,
+  "thoughts": 5202
+ },
+ "response_text": "{\n  \"page_heading\": \"Weisses Quartier.\",\n  \"printed_page\": \"14\",\n  \"rows\": [\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"86\", \"und\": false, \"new\": \"44\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"87\", \"und\": false, \"new\": \"46\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"88\", \"und\": false, \"new\": \"48\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"88\", \"und\": true, \"new\": \"41\", \"street\": \"Postgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"89\", \"und\": false, \"new\": \"50\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"89\", \"und\": true, \"new\": \"43\", \"street\": \"Postgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"90\", \"und\": false, \"new\": \"52\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"91\", \"und\": false, \"new\": \"54\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"92\", \"und\": false, \"new\": \"56\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"93\", \"und\": false, \"new\": \"58\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"93\", \"und\": true, \"new\": \"51\", \"street\": \"Postgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"94\", \"und\": false, \"new\": \"60\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"95\", \"und\": false, \"new\": \"62\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"95\", \"und\": true, \"new\": \"55\", \"street\": \"Postgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"96\", \"und\": false, \"new\": \"64\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"96\", \"und\": true, \"new\": \"57\", \"street\": \"Postgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"97\", \"und\": false, \"new\": \"66\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"98\", \"und\": false, \"new\": \"68\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"99\", \"und\": false, \"new\": \"70\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"100\", \"und\": false, \"new\": \"72\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"101\", \"und\": false, \"new\": \"74\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"102\", \"und\": false, \"new\": \"76\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"103\", \"und\": false, \"new\": \"78\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"104\", \"und\": false, \"new\": \"80\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"104\", \"und\": true, \"new\": \"1\", \"street\": \"Rathhausgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"105\", \"und\": false, \"new\": \"81\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"105\", \"und\": true, \"new\": \"1\", \"street\": \"Kreuzgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"106\", \"und\": false, \"new\": \"79\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"107\", \"und\": false, \"new\": \"77\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"108\", \"und\": false, \"new\": \"75\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"109\", \"und\": false, \"new\": \"73\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"110\", \"und\": false, \"new\": \"71\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"111\", \"und\": false, \"new\": \"69\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"112\", \"und\": false, \"new\": \"67\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"113\", \"und\": false, \"new\": \"65\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"114\", \"und\": false, \"new\": \"63\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"115\", \"und\": false, \"new\": \"61\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"116\", \"und\": false, \"new\": \"59\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"117\", \"und\": false, \"new\": \"57\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"118\", \"und\": false, \"new\": \"55\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"119\", \"und\": false, \"new\": \"53\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"120\", \"und\": false, \"new\": \"51\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"121\", \"und\": false, \"new\": \"49\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"122\", \"und\": false, \"new\": \"47\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"123\", \"und\": false, \"new\": \"45\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"124\", \"und\": false, \"new\": \"43\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"125\", \"und\": false, \"new\": \"41\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"126\", \"und\": false, \"new\": \"39\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"127\", \"und\": false, \"new\": \"37\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"128\", \"und\": false, \"new\": \"35\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"129\", \"und\": false, \"new\": \"33\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"130\", \"und\": false, \"new\": \"31\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"131\", \"und\": false, \"new\": \"29\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"132\", \"und\": false, \"new\": \"27\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"133\", \"und\": false, \"new\": \"25\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"134\", \"und\": false, \"new\": \"23\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 1, \"group\": \"Gerechtigkeitsg\", \"old\": \"134\", \"und\": true, \"new\": \"18\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"135\", \"und\": false, \"new\": \"21\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"136\", \"und\": false, \"new\": \"19\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"137\", \"und\": false, \"new\": \"17\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"138\", \"und\": false, \"new\": \"15\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"139\", \"und\": false, \"new\": \"13\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"140\", \"und\": false, \"new\": \"11\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"141\", \"und\": false, \"new\": \"9\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"142\", \"und\": false, \"new\": \"7\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"142\", \"und\": true, \"new\": \"8\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"143\", \"und\": false, \"new\": \"5\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"144/145\", \"und\": false, \"new\": \"3\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"144/145\", \"und\": true, \"new\": \"4\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Gerechtigkeitsg\", \"old\": \"146 a\", \"und\": false, \"new\": \"1\", \"street\": \"Gerechtigkeitsg.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"146 b II\", \"und\": false, \"new\": \"6\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"146 b I\", \"und\": false, \"new\": \"10\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"146 c\", \"und\": false, \"new\": \"12\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"146 d\", \"und\": false, \"new\": \"14\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"146 e\", \"und\": false, \"new\": \"16\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"147 a\", \"und\": false, \"new\": \"20\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"147 a\", \"und\": true, \"new\": \"3\", \"street\": \"Unt. Grchtgchn.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"147 b\", \"und\": false, \"new\": \"22\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"147 b\", \"und\": true, \"new\": \"4\", \"street\": \"Unt. Grchtgchn.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"147 d\", \"und\": false, \"new\": \"24\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"148\", \"und\": false, \"new\": \"26\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"149 a\", \"und\": false, \"new\": \"28\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"149 b\", \"und\": false, \"new\": \"30\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"149 b\", \"und\": true, \"new\": \"3\", \"street\": \"Ob. Grchtgchn.\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"150\", \"und\": false, \"new\": \"32\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"151\", \"und\": false, \"new\": \"34\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"152\", \"und\": false, \"new\": \"36\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"153\", \"und\": false, \"new\": \"38\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"154\", \"und\": false, \"new\": \"40\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"155\", \"und\": false, \"new\": \"42\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"156\", \"und\": false, \"new\": \"44\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"157\", \"und\": false, \"new\": \"46\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"158\", \"und\": false, \"new\": \"48\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"159\", \"und\": false, \"new\": \"50\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"160 a\", \"und\": false, \"new\": \"52\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"160 b\", \"und\": false, \"new\": \"54\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"161\", \"und\": false, \"new\": \"56\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"162\", \"und\": false, \"new\": \"58\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"162\", \"und\": true, \"new\": \"3\", \"street\": \"Kreuzgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"163\", \"und\": false, \"new\": \"3\", \"street\": \"Kirchgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"164\", \"und\": false, \"new\": \"65\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"164\", \"und\": true, \"new\": \"1\", \"street\": \"Kirchgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"165\", \"und\": false, \"new\": \"63\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"165\", \"und\": true, \"new\": \"14\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"166\", \"und\": false, \"new\": \"61\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"166\", \"und\": true, \"new\": \"12 a\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"167\", \"und\": false, \"new\": \"59\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"167\", \"und\": true, \"new\": \"10\", \"street\": \"Badgasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"168\", \"und\": false, \"new\": \"57\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"169\", \"und\": false, \"new\": \"55\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"170 a/b\", \"und\": false, \"new\": \"53\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"},\n    {\"col\": 2, \"group\": \"Junkerngasse\", \"old\": \"171\", \"und\": false, \"new\": \"51\", \"street\": \"Junkerngasse\", \"hand\": false, \"note\": \"\"}\n  ],\n  \"complete\": true\n}",
+ "parsed": {
+  "page_heading": "Weisses Quartier.",
+  "printed_page": "14",
+  "rows": [
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "86",
+    "und": false,
+    "new": "44",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "87",
+    "und": false,
+    "new": "46",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "88",
+    "und": false,
+    "new": "48",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "88",
+    "und": true,
+    "new": "41",
+    "street": "Postgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "89",
+    "und": false,
+    "new": "50",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "89",
+    "und": true,
+    "new": "43",
+    "street": "Postgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "90",
+    "und": false,
+    "new": "52",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "91",
+    "und": false,
+    "new": "54",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "92",
+    "und": false,
+    "new": "56",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "93",
+    "und": false,
+    "new": "58",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "93",
+    "und": true,
+    "new": "51",
+    "street": "Postgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "94",
+    "und": false,
+    "new": "60",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "95",
+    "und": false,
+    "new": "62",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "95",
+    "und": true,
+    "new": "55",
+    "street": "Postgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "96",
+    "und": false,
+    "new": "64",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "96",
+    "und": true,
+    "new": "57",
+    "street": "Postgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "97",
+    "und": false,
+    "new": "66",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "98",
+    "und": false,
+    "new": "68",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "99",
+    "und": false,
+    "new": "70",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "100",
+    "und": false,
+    "new": "72",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "101",
+    "und": false,
+    "new": "74",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "102",
+    "und": false,
+    "new": "76",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "103",
+    "und": false,
+    "new": "78",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "104",
+    "und": false,
+    "new": "80",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "104",
+    "und": true,
+    "new": "1",
+    "street": "Rathhausgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "105",
+    "und": false,
+    "new": "81",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "105",
+    "und": true,
+    "new": "1",
+    "street": "Kreuzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "106",
+    "und": false,
+    "new": "79",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "107",
+    "und": false,
+    "new": "77",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "108",
+    "und": false,
+    "new": "75",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "109",
+    "und": false,
+    "new": "73",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "110",
+    "und": false,
+    "new": "71",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "111",
+    "und": false,
+    "new": "69",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "112",
+    "und": false,
+    "new": "67",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "113",
+    "und": false,
+    "new": "65",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "114",
+    "und": false,
+    "new": "63",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "115",
+    "und": false,
+    "new": "61",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "116",
+    "und": false,
+    "new": "59",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "117",
+    "und": false,
+    "new": "57",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "118",
+    "und": false,
+    "new": "55",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "119",
+    "und": false,
+    "new": "53",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "120",
+    "und": false,
+    "new": "51",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "121",
+    "und": false,
+    "new": "49",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "122",
+    "und": false,
+    "new": "47",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "123",
+    "und": false,
+    "new": "45",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "124",
+    "und": false,
+    "new": "43",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "125",
+    "und": false,
+    "new": "41",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "126",
+    "und": false,
+    "new": "39",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "127",
+    "und": false,
+    "new": "37",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "128",
+    "und": false,
+    "new": "35",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "129",
+    "und": false,
+    "new": "33",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "130",
+    "und": false,
+    "new": "31",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "131",
+    "und": false,
+    "new": "29",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "132",
+    "und": false,
+    "new": "27",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "133",
+    "und": false,
+    "new": "25",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "134",
+    "und": false,
+    "new": "23",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 1,
+    "group": "Gerechtigkeitsg",
+    "old": "134",
+    "und": true,
+    "new": "18",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "135",
+    "und": false,
+    "new": "21",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "136",
+    "und": false,
+    "new": "19",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "137",
+    "und": false,
+    "new": "17",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "138",
+    "und": false,
+    "new": "15",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "139",
+    "und": false,
+    "new": "13",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "140",
+    "und": false,
+    "new": "11",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "141",
+    "und": false,
+    "new": "9",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "142",
+    "und": false,
+    "new": "7",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "142",
+    "und": true,
+    "new": "8",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "143",
+    "und": false,
+    "new": "5",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "144/145",
+    "und": false,
+    "new": "3",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "144/145",
+    "und": true,
+    "new": "4",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Gerechtigkeitsg",
+    "old": "146 a",
+    "und": false,
+    "new": "1",
+    "street": "Gerechtigkeitsg.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "146 b II",
+    "und": false,
+    "new": "6",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "146 b I",
+    "und": false,
+    "new": "10",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "146 c",
+    "und": false,
+    "new": "12",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "146 d",
+    "und": false,
+    "new": "14",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "146 e",
+    "und": false,
+    "new": "16",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "147 a",
+    "und": false,
+    "new": "20",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "147 a",
+    "und": true,
+    "new": "3",
+    "street": "Unt. Grchtgchn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "147 b",
+    "und": false,
+    "new": "22",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "147 b",
+    "und": true,
+    "new": "4",
+    "street": "Unt. Grchtgchn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "147 d",
+    "und": false,
+    "new": "24",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "148",
+    "und": false,
+    "new": "26",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "149 a",
+    "und": false,
+    "new": "28",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "149 b",
+    "und": false,
+    "new": "30",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "149 b",
+    "und": true,
+    "new": "3",
+    "street": "Ob. Grchtgchn.",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "150",
+    "und": false,
+    "new": "32",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "151",
+    "und": false,
+    "new": "34",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "152",
+    "und": false,
+    "new": "36",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "153",
+    "und": false,
+    "new": "38",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "154",
+    "und": false,
+    "new": "40",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "155",
+    "und": false,
+    "new": "42",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "156",
+    "und": false,
+    "new": "44",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "157",
+    "und": false,
+    "new": "46",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "158",
+    "und": false,
+    "new": "48",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "159",
+    "und": false,
+    "new": "50",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "160 a",
+    "und": false,
+    "new": "52",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "160 b",
+    "und": false,
+    "new": "54",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "161",
+    "und": false,
+    "new": "56",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "162",
+    "und": false,
+    "new": "58",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "162",
+    "und": true,
+    "new": "3",
+    "street": "Kreuzgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "163",
+    "und": false,
+    "new": "3",
+    "street": "Kirchgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "164",
+    "und": false,
+    "new": "65",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "164",
+    "und": true,
+    "new": "1",
+    "street": "Kirchgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "165",
+    "und": false,
+    "new": "63",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "165",
+    "und": true,
+    "new": "14",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "166",
+    "und": false,
+    "new": "61",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "166",
+    "und": true,
+    "new": "12 a",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "167",
+    "und": false,
+    "new": "59",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "167",
+    "und": true,
+    "new": "10",
+    "street": "Badgasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "168",
+    "und": false,
+    "new": "57",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "169",
+    "und": false,
+    "new": "55",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "170 a/b",
+    "und": false,
+    "new": "53",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   },
+   {
+    "col": 2,
+    "group": "Junkerngasse",
+    "old": "171",
+    "und": false,
+    "new": "51",
+    "street": "Junkerngasse",
+    "hand": false,
+    "note": ""
+   }
+  ],
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-12T07:54:46+01:00"
+}
