@@ -1,7 +1,7 @@
 PY ?= .venv/bin/python
 RUN ?= full-v1
 SECOND ?= full-v2
-PREFER ?= fix-rn
+PREFER ?= fix-rn,qwen-p029-korr
 
 .PHONY: venv pages smoke read csv site serve
 venv:  ## Python-Umgebung

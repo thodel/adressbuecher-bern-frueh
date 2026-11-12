@@ -23,7 +23,7 @@ volume,page,section,status,problems,finish_reason,printed_page,running_head,n_li
 1795,26,handbuch,ok,,STOP,24,"Diesbach, Frutigen.",19,8,True,False,gemini-3.8-flash,6d4dae623ce1,2345,1940,,2026-11-10T21:09:53+01:00,full-v1
 1795,27,handbuch,ok,,STOP,25,Langnau.,27,10,False,False,gemini-3.8-flash,6d4dae623ce1,2330,2454,,2026-11-10T21:09:58+01:00,full-v1
 1795,28,handbuch,ok,,STOP,26,Langenthal.,28,7,False,True,gemini-3.8-flash,6d4dae623ce1,2330,2345,,2026-11-10T21:09:58+01:00,full-v1
-1795,29,handbuch,fehler,finish_reason RECITATION | JSON: Expecting value: line 1 column 1 (char 0),RECITATION,,,0,0,,,gemini-3.8-flash,6d4dae623ce1,2330,,,2026-11-10T22:02:55+01:00,full-v1
+1795,29,handbuch,ok,,stop,27,Langenthal.,33,2,True,False,qwen3.8-27b,,,,,2026-11-11T20:45:45+01:00,qwen-p029-korr
 1795,30,handbuch,ok,,STOP,28,Langenthal.,29,2,True,False,gemini-3.8-flash,6d4dae623ce1,2330,1399,,2026-11-10T21:10:03+01:00,full-v1
 1795,31,handbuch,ok,,STOP,29,Langenthal.,29,9,False,True,gemini-3.8-flash,6d4dae623ce1,2330,2492,,2026-11-10T21:10:12+01:00,full-v1
 1795,32,handbuch,ok,,STOP,30,Lenzburg.,28,13,True,False,gemini-3.8-flash,6d4dae623ce1,2330,3067,,2026-11-10T21:10:12+01:00,full-v1

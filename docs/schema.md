@@ -42,7 +42,7 @@ Alle Dateien in `data/csv/`, UTF-8, Komma-getrennt, mit Kopfzeile. Seitenschlüs
 | `erara_url` | Seite im e-rara-Viewer |
 | `reader`, `run` | Modell und Lauf |
 
-| `run` | Lauf, aus dem die Seite stammt: `full-v1`, für 85 Seiten die Neulesung `fix-rn` |
+| `run` | Lauf, aus dem die Seite stammt: `full-v1`, für 85 Seiten die Neulesung `fix-rn`, für 1795 S. 29 `qwen-p029-korr` (qwen3.8-27b, von Hand berichtigt) |
 | `doubt` | Felder, in denen die zweite Lesung ein Wort anders hat (`surname;street` …), leer = keine Abweichung gefunden |
 | `doubt_detail` | die Abweichungen, z. B. `surname: Noth → Roth` (erste → zweite Lesung) |
 
