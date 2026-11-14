@@ -8,6 +8,7 @@ on:
       - "config/**"
       - "site/**"
       - "scripts/90_site.py"
+      - "scripts/site_nav.py"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 

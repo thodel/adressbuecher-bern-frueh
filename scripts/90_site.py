@@ -13,10 +13,15 @@ from __future__ import annotations
 
 import csv
 import json
+import re
 from collections import Counter, defaultdict
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
+import sys
+
+sys.path.insert(0, str(Path(__file__).parent))
+import site_nav  # noqa: E402  gemeinsame Navigation und Feldsuche aller Adressbuch-Seiten
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
@@ -30,7 +35,10 @@ COLS = ["entry_id", "volume", "page", "printed_page", "section", "line_from", "l
 def main() -> None:
     cfg = json.loads((ROOT / "config/volumes.json").read_text())["volumes"]
     pages = list(csv.DictReader((ROOT / "data/csv/01_pages.csv").open()))
-    entries = list(csv.DictReader((ROOT / "data/csv/04_entries.csv").open()))
+    with (ROOT / "data/csv/04_entries.csv").open() as fh:
+        rd = csv.DictReader(fh)
+        entries = list(rd)
+    cols = COLS + site_nav.extra_columns(entries, rd.fieldnames, COLS)  # alle CSV-Angaben für die Feldsuche
     lines = list(csv.DictReader((ROOT / "data/csv/02_lines.csv").open()))
     status = {(r["volume"], int(r["page"])): r for r in csv.DictReader((ROOT / "data/csv/03_page_status.csv").open())}
 
@@ -48,7 +56,7 @@ def main() -> None:
     page_rows = [[p["volume"], int(p["page"]), p["section"], p["erara_canvas"], p["iiif_image"],
                   status.get((p["volume"], int(p["page"])), {}).get("printed_page", ""),
                   status.get((p["volume"], int(p["page"])), {}).get("status", "fehlt")] for p in pages]
-    ent_rows = [[e.get(c, "") for c in COLS] for e in entries]
+    ent_rows = [[e.get(c, "") for c in cols] for e in entries]
     by_page = defaultdict(list)
     for l in lines:
         row = [int(l["line"] or 0), l["text"]]
@@ -60,15 +68,39 @@ def main() -> None:
     stamp = datetime.now(ZoneInfo("Europe/Zurich")).strftime("%d.%m.%Y, %H:%M")
     (SITE / "data/meta.js").write_text(
         "window.BERN_META=" + json.dumps({"volumes": vols, "pages": page_rows, "built": stamp,
-                                          "entry_cols": COLS}, ensure_ascii=False) + ";\n")
+                                          "entry_cols": cols}, ensure_ascii=False) + ";\n")
     (SITE / "data/entries.js").write_text("window.BERN_ENTRIES=" + json.dumps(ent_rows, ensure_ascii=False, separators=(",", ":")) + ";\n")
     (SITE / "data/lines.js").write_text("window.BERN_LINES=" + json.dumps(by_page, ensure_ascii=False, separators=(",", ":")) + ";\n")
 
+    write_nav()
     write_places(entries)
     write_houses(entries)
 
     kinds = Counter(e["kind"] for e in entries)
     print(f"site/data: {len(ent_rows)} Einträge, {len(lines)} Zeilen, {len(page_rows)} Seiten; Arten {dict(kinds)}")
+
+
+NAV_PAGES = {"index.html": "entries", "karte.html": "map", "methoden.html": "methoden"}
+
+
+def write_nav() -> None:
+    """Städteleiste, Stadtnavigation und Feldsuche (scripts/site_nav.py, in allen Adressbuch-Repos gleich):
+    site/nav.css, site/fieldsearch.js und das Markup zwischen den Markierungen <!-- site_nav:… --> der Seiten."""
+    (SITE / "nav.css").write_text("/* aus scripts/site_nav.py erzeugt */" + site_nav.CSS)
+    (SITE / "fieldsearch.js").write_text("/* aus scripts/site_nav.py erzeugt */" + site_nav.FIELD_SEARCH_JS
+                                         + "window.FSTX = " + json.dumps(site_nav.fs_texts(), ensure_ascii=False) + ";\n")
+    for name, page in NAV_PAGES.items():
+        p = SITE / name
+        html = p.read_text()
+        parts = {"cities": site_nav.city_bar("bern-frueh"),
+                 "city": site_nav.city_nav("Bern 1795–1848", "https://github.com/thodel/adressbuecher-bern-frueh", page,
+                                           map_label="Karte der Orte",
+                                           extra=[("methoden", "methoden.html", "Methode und Vorbehalte")]),
+                 "search": site_nav.search_panel()}
+        for k, v in parts.items():
+            html = re.sub(rf"<!-- site_nav:{k} -->.*?<!-- /site_nav -->", lambda m: f"<!-- site_nav:{k} -->{v}<!-- /site_nav -->",
+                          html, flags=re.S)
+        p.write_text(html)
 
 
 def write_places(entries: list[dict]) -> None:

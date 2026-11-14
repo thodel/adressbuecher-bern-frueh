@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Code+Pro:wght@400;600&display=swap">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="nav.css">
 <style>
   #map { flex: 1 1 auto; min-height: 520px; height: calc(100vh - 220px); border: 1px solid var(--line); border-radius: 8px; background: var(--paper); }
   .leaflet-popup-content { font-family: var(--font-body); font-size: 14px; line-height: 1.4; margin: 10px 12px; }
@@ -21,9 +22,10 @@
 </style>
 </head>
 <body>
+<!-- site_nav:cities --><nav class="cities" aria-label="Städte"><span class="cities-label">Adressbücher</span><a href="https://thodel.github.io/adressbuecher-aarau/">Aarau 1884–1899</a><a href="https://thodel.github.io/adressbuecher-baden/">Baden 1900/1910</a><a href="https://thodel.github.io/adressbuecher-basel/">Basel 1841–1862</a><a href="https://thodel.github.io/adressbuecher-bern-frueh/" aria-current="page">Bern 1795–1848</a><a href="https://thodel.github.io/adressbuecher-bern/">Bern 1883–1900</a><a href="https://thodel.github.io/adressbuecher-lausanne/">Lausanne 1896–1907</a><a href="https://thodel.github.io/adressbuecher-zuerich/">Zürich 1859–1914</a><a class="vs" href="https://thodel.github.io/vernetzte-schweiz/">Vernetzte Schweiz ↗</a></nav><!-- /site_nav -->
 <header>
   <h1>Frühe Berner Adressbücher 1795–1848</h1>
-  <nav class="nav"><a href="index.html">Einträge</a> · <a href="karte.html" aria-current="page">Karte der Orte</a> · <a href="methoden.html">Methode und Vorbehalte</a></nav>
+  <!-- site_nav:city --><nav class="citynav" aria-label="Bern 1795–1848"><b>Bern 1795–1848</b><a href="./">Einträge</a><a href="karte.html" aria-current="page">Karte der Orte</a><a href="./#suche" data-open-search>Suche nach Feldern</a><a href="methoden.html">Methode und Vorbehalte</a><a href="https://github.com/thodel/adressbuecher-bern-frueh">Daten und Code ↗</a></nav><!-- /site_nav -->
 </header>
 <p class="sub">Orte, an denen die Einträge stehen, nach dem Ortsnamen im Adressbuch; Kreisfläche nach der Zahl der Einträge (logarithmisch). <b>In der Stadt Bern</b> erscheinen beim Hineinzoomen die Häuser: alte Quartiernummer → Adresse von 1882 → heutige Gebäudeadresse. Klick auf einen Punkt zeigt die Einträge und führt zu ihnen.</p>
 

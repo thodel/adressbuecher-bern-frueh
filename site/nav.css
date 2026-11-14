@@ -1,0 +1,23 @@
+/* aus scripts/site_nav.py erzeugt */
+nav.cities { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 2px; margin: -16px calc(-1 * max(16px, env(safe-area-inset-left, 0px))) 0;
+  padding: 6px max(16px, env(safe-area-inset-left, 0px)); background: var(--fg); color: var(--bg); font-size: 0.85rem; }
+nav.cities a { color: var(--bg); text-decoration: none; padding: 2px 8px; border-radius: 999px; opacity: 0.85; }
+nav.cities a:hover, nav.cities a:focus-visible { opacity: 1; text-decoration: underline; }
+nav.cities a[aria-current="page"] { background: var(--bg); color: var(--fg); opacity: 1; font-weight: 700; }
+nav.cities .cities-label { font-weight: 700; margin-right: 6px; opacity: 0.7; text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.72rem; }
+nav.cities .vs { margin-left: auto; }
+nav.citynav { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; font-size: 0.92rem; }
+nav.citynav b { font-size: 1rem; }
+nav.citynav a { color: var(--accent); font-weight: 600; text-decoration: none; }
+nav.citynav a:hover, nav.citynav a:focus-visible { text-decoration: underline; }
+nav.citynav a[aria-current="page"] { color: var(--fg); border-bottom: 2px solid var(--accent); }
+details#suche { border: 1px solid var(--line); border-radius: 8px; background: var(--paper); padding: 6px 12px; }
+details#suche > summary { cursor: pointer; font-weight: 600; color: var(--accent); }
+details#suche > summary .n { color: var(--muted); font-weight: 400; }
+.fs-rows { display: flex; flex-direction: column; gap: 6px; margin: 8px 0 6px; }
+.fs-row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.fs-row select, .fs-row input { font: inherit; padding: 4px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--paper); color: var(--fg); min-width: 0; max-width: 100%; }
+.fs-row input { flex: 1 1 160px; }
+.fs-row button, .fs-bar button { font: inherit; border: 1px solid var(--line); background: var(--paper); color: var(--fg); border-radius: 6px; padding: 3px 9px; cursor: pointer; }
+.fs-bar { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; font-size: 0.85rem; color: var(--muted); }
+@media (max-width: 600px) { nav.cities .vs { margin-left: 0; } .fs-row select { flex: 1 1 40%; } }

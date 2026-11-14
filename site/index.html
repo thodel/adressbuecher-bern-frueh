@@ -6,11 +6,13 @@
 <title>Frühe Berner Adressbücher</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Code+Pro:wght@400;600&display=swap">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="nav.css">
 </head>
 <body>
+<!-- site_nav:cities --><nav class="cities" aria-label="Städte"><span class="cities-label">Adressbücher</span><a href="https://thodel.github.io/adressbuecher-aarau/">Aarau 1884–1899</a><a href="https://thodel.github.io/adressbuecher-baden/">Baden 1900/1910</a><a href="https://thodel.github.io/adressbuecher-basel/">Basel 1841–1862</a><a href="https://thodel.github.io/adressbuecher-bern-frueh/" aria-current="page">Bern 1795–1848</a><a href="https://thodel.github.io/adressbuecher-bern/">Bern 1883–1900</a><a href="https://thodel.github.io/adressbuecher-lausanne/">Lausanne 1896–1907</a><a href="https://thodel.github.io/adressbuecher-zuerich/">Zürich 1859–1914</a><a class="vs" href="https://thodel.github.io/vernetzte-schweiz/">Vernetzte Schweiz ↗</a></nav><!-- /site_nav -->
 <header>
   <h1>Frühe Berner Adressbücher 1795–1848</h1>
-  <nav class="nav"><a href="index.html" aria-current="page">Einträge</a> · <a href="karte.html">Karte der Orte</a> · <a href="methoden.html">Methode und Vorbehalte</a></nav>
+  <!-- site_nav:city --><nav class="citynav" aria-label="Bern 1795–1848"><b>Bern 1795–1848</b><a href="./" aria-current="page">Einträge</a><a href="karte.html">Karte der Orte</a><a href="#suche" data-open-search>Suche nach Feldern</a><a href="methoden.html">Methode und Vorbehalte</a><a href="https://github.com/thodel/adressbuecher-bern-frueh">Daten und Code ↗</a></nav><!-- /site_nav -->
 </header>
 <p class="sub">Sechs Verzeichnisse aus den Beständen der Universitätsbibliothek Bern (digitalisiert auf <a href="https://www.e-rara.ch">e-rara.ch</a>), maschinell gelesen mit Google Gemini. Jeder Eintrag verweist auf seine Seite im Original. <b>Lesefehler sind möglich – vor dem Zitieren am Seitenbild prüfen.</b></p>
 
@@ -38,6 +40,7 @@
     <label class="check" title="Einträge, bei denen eine zweite Lesung durch Gemini ein Wort in Name, Beruf, Adresse, Herkunft oder Geburtsjahr anders gelesen hat"><input type="checkbox" id="onlydoubt"> nur unsichere (≠)</label>
     <span class="count" id="count"></span>
   </div>
+  <!-- site_nav:search --><details id="suche"><summary>Suche nach Feldern <span class="n" id="fs-n"></span></summary><div class="fs-rows" id="fs-rows"></div><div class="fs-bar"><button type="button" id="fs-add">+ Bedingung</button><button type="button" id="fs-clear">alle Bedingungen löschen</button><span>Alle Bedingungen müssen zutreffen. Gross-/Kleinschreibung und Akzente zählen nicht.</span></div></details><!-- /site_nav -->
   <div class="wrap">
     <table>
       <thead><tr><th>Band</th><th>Seite</th><th>Name</th><th>Vorname</th><th>Beruf / Gewerbe</th><th>Adresse</th><th>Ort / Herkunft</th><th>Rubrik</th><th>Wortlaut</th></tr></thead>
@@ -76,6 +79,7 @@
 <script src="data/meta.js"></script>
 <script src="data/entries.js"></script>
 <script src="data/lines.js"></script>
+<script src="fieldsearch.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

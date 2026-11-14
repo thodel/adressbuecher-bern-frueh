@@ -42,6 +42,7 @@
     for (let i = 0; i < RAW.length; i++) {
       if (vol && RAW[i][C.volume] !== vol) continue;
       if (onlyDoubt && !RAW[i][C.doubt]) continue;
+      if (!FS.test(RAW[i], META.entry_cols)) continue;  // Suche nach Feldern (scripts/site_nav.py)
       const hay = field ? idx[fz][i][field] : idx[fz][i]._all;
       if (terms.every(t => hay.includes(t))) hits.push(i);
     }
@@ -164,7 +165,7 @@
   function writeHash() {
     const p = new URLSearchParams();
     p.set("v", current);
-    if (current === "search") { if ($("q").value) p.set("q", $("q").value); if ($("vol").value) p.set("band", $("vol").value); if ($("field").value) p.set("feld", $("field").value); }
+    if (current === "search") { FS.toParams(p); if ($("q").value) p.set("q", $("q").value); if ($("vol").value) p.set("band", $("vol").value); if ($("field").value) p.set("feld", $("field").value); }
     if (current === "browse") { p.set("band", $("bvol").value); p.set("s", $("bpage").value); }
     history.replaceState(null, "", "#" + p.toString());
   }
@@ -176,5 +177,7 @@
   }
   $("foot").innerHTML = `Stand der Daten: ${esc(META.built)} (MESZ/MEZ). Daten als CSV im Repository (<code>data/csv/</code>). Seitenbilder: e-rara.ch, Universitätsbibliothek Bern.`;
   window.addEventListener("hashchange", readHash);  // replaceState löst das nicht aus, nur echte Links
+  FS.init({ cols: () => META.entry_cols, params: new URLSearchParams(location.hash.slice(1)), labels: LABEL, tx: window.FSTX,
+            first: "surname", onChange: () => { if (current !== "search") show("search"); run(); } });
   readHash();
 })();
