@@ -19,10 +19,11 @@ CITIES = [  # (Schlüssel, Name, URL)
     ("aarau", "Aarau 1884–1899", "https://thodel.github.io/adressbuecher-aarau/"),
     ("baden", "Baden 1900/1910", "https://thodel.github.io/adressbuecher-baden/"),
     ("basel", "Basel 1841–1862", "https://thodel.github.io/adressbuecher-basel/"),
+    ("basel-frueh", "Basel 1789–1850", "https://thodel.github.io/adressbuecher-basel-frueh/"),
     ("bern-frueh", "Bern 1795–1848", "https://thodel.github.io/adressbuecher-bern-frueh/"),
     ("bern", "Bern 1883–1900", "https://thodel.github.io/adressbuecher-bern/"),
     ("lausanne", "Lausanne 1896–1907", "https://thodel.github.io/adressbuecher-lausanne/"),
-    ("zuerich", "Zürich 1859–1914", "https://thodel.github.io/adressbuecher-zuerich/"),
+    ("zuerich", "Zürich 1859–1922", "https://thodel.github.io/adressbuecher-zuerich/"),
 ]
 VS = "https://thodel.github.io/vernetzte-schweiz/"
 
@@ -66,18 +67,18 @@ def city_bar(current: str, lang: str = "de") -> str:
             f'<a class="vs" href="{VS}">Vernetzte Schweiz ↗</a></nav>')
 
 
-def city_nav(city: str, repo: str, page: str, lang: str = "de", map_href: str = "karte.html", map_label: str | None = None,
+def city_nav(city: str, repo: str, page: str, lang: str = "de", map_href: str | None = "karte.html", map_label: str | None = None,
              extra: list[tuple[str, str, str]] | None = None) -> str:
     """page = «entries», «map» oder ein Schlüssel aus extra; ausserhalb der Einträge führt «Suche» auf die
-    Einträge-Seite. extra = weitere Seiten der Stadt als (Schlüssel, href, Label), vor «Daten und Code»."""
+    Einträge-Seite; map_href=None lässt die Karte weg. extra = weitere Seiten der Stadt als (Schlüssel, href, Label), vor «Daten und Code»."""
     t = T[lang]
     search = "#suche" if page == "entries" else "./#suche"
     cur = lambda p: ' aria-current="page"' if p == page else ""
     more = "".join(f'<a href="{href}"{cur(k)}>{lab}</a>' for k, href, lab in (extra or []))
     return (f'<nav class="citynav" aria-label="{city}"><b>{city}</b>'
             f'<a href="./"{cur("entries")}>{t["entries"]}</a>'
-            f'<a href="{map_href}"{cur("map")}>{map_label or t["map"]}</a>'
-            f'<a href="{search}" data-open-search>{t["search"]}</a>{more}'
+            + (f'<a href="{map_href}"{cur("map")}>{map_label or t["map"]}</a>' if map_href else "")  # ohne Karte: map_href=None
+            + f'<a href="{search}" data-open-search>{t["search"]}</a>{more}'
             f'<a href="{repo}">{t["repo"]} ↗</a></nav>')
 
 
