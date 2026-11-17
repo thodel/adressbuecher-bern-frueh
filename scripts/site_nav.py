@@ -23,7 +23,7 @@ CITIES = [  # (Schlüssel, Name, URL)
     ("bern-frueh", "Bern 1795–1848", "https://thodel.github.io/adressbuecher-bern-frueh/"),
     ("bern", "Bern 1883–1900", "https://thodel.github.io/adressbuecher-bern/"),
     ("lausanne", "Lausanne 1896–1907", "https://thodel.github.io/adressbuecher-lausanne/"),
-    ("zuerich", "Zürich 1859–1925", "https://thodel.github.io/adressbuecher-zuerich/"),
+    ("zuerich", "Zürich 1859–1930", "https://thodel.github.io/adressbuecher-zuerich/"),
 ]
 VS = "https://thodel.github.io/vernetzte-schweiz/"
 
