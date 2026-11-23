@@ -3,7 +3,7 @@ RUN ?= full-v1
 SECOND ?= full-v2
 PREFER ?= fix-rn,qwen-p029-korr
 
-.PHONY: venv pages smoke read csv site serve
+.PHONY: venv pages smoke read csv site serve abdeckung abdeckung-referenz test
 venv:  ## Python-Umgebung
 	python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 
@@ -21,3 +21,12 @@ site: csv  ## Daten für site/ erzeugen
 
 serve:  ## lokale Vorschau auf http://localhost:8000
 	cd site && python3 -m http.server 8000
+
+abdeckung:  ## Abdeckung gegen BERNHIST rechnen (data/abdeckung/, docs/abdeckung.md, site/abdeckung.html)
+	python3 scripts/abdeckung.py rechnen
+
+abdeckung-referenz:  ## verwendete BERNHIST-Werte und Ortsbindung aus dem Dump ziehen (BERNHIST=/pfad/bernhist.sqlite)
+	python3 scripts/abdeckung.py referenz --bernhist $(BERNHIST)
+
+test:  ## Tests der Rechenlogik
+	python3 -m unittest discover -s tests

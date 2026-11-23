@@ -46,3 +46,18 @@ trägt und alle Zeilenverweise stimmen; sonst wird sie wiederholt bzw. als Fehle
 
 `data/csv/` — Schema in `docs/schema.md`. Die Seite (`site/`) ist statisch und lädt die Seitenbilder per
 IIIF direkt von e-rara.
+
+## Abdeckung, gemessen an BERNHIST
+
+Wie viel von der Bevölkerung in den Verzeichnissen steht (je Einwohner und Haushalt, für Frauen, Burger,
+Einsassen, Berufsgruppen und je Amtsbezirk), rechnet `scripts/abdeckung.py` gegen die historische Statistik
+des Kantons Bern (BERNHIST). Befund, Vorgehen und Grenzen: `docs/abdeckung.md`; auf der Seite: «Abdeckung».
+
+```
+make abdeckung                                   # rechnet aus den Dateien im Repo, baut site/abdeckung.html
+make abdeckung-referenz BERNHIST=/pfad/bernhist.sqlite   # zieht die verwendeten Werte neu aus dem Dump
+make test
+```
+
+Im Repo liegen nur die verwendeten BERNHIST-Werte mit Ort, Thema, Jahr und Quelle
+(`data/ref/bernhist_werte.csv`), nicht der Datenbestand; dessen Nutzungsrechte sind nicht ausgewiesen.

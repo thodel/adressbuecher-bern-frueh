@@ -80,7 +80,7 @@ def main() -> None:
     print(f"site/data: {len(ent_rows)} Einträge, {len(lines)} Zeilen, {len(page_rows)} Seiten; Arten {dict(kinds)}")
 
 
-NAV_PAGES = {"index.html": "entries", "karte.html": "map", "methoden.html": "methoden"}
+NAV_PAGES = {"index.html": "entries", "karte.html": "map", "abdeckung.html": "abdeckung", "methoden.html": "methoden"}
 
 
 def write_nav() -> None:
@@ -95,7 +95,8 @@ def write_nav() -> None:
         parts = {"cities": site_nav.city_bar("bern-frueh"),
                  "city": site_nav.city_nav("Bern 1795–1848", "https://github.com/thodel/adressbuecher-bern-frueh", page,
                                            map_label="Karte der Orte",
-                                           extra=[("methoden", "methoden.html", "Methode und Vorbehalte")]),
+                                           extra=[("abdeckung", "abdeckung.html", "Abdeckung"),
+                                                  ("methoden", "methoden.html", "Methode und Vorbehalte")]),
                  "search": site_nav.search_panel()}
         for k, v in parts.items():
             html = re.sub(rf"<!-- site_nav:{k} -->.*?<!-- /site_nav -->", lambda m: f"<!-- site_nav:{k} -->{v}<!-- /site_nav -->",

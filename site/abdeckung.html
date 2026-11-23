@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Abdeckung: Adressbücher gegen BERNHIST</title>
+<link rel="stylesheet" href="fonts/fonts.css">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="nav.css">
+<style>
+main.prose.wide { max-width: 118ch; }
+main.prose.wide > p, main.prose.wide > ul, main.prose.wide > h2, main.prose.wide > h3 { max-width: 80ch; }
+.tablewrap { overflow-x: auto; margin: 0.8em 0 1.4em; }
+table.abd caption { text-align: left; font-weight: 700; padding: 0 0 4px; }
+table.abd th { text-align: left; vertical-align: bottom; border-bottom: 2px solid var(--line); padding: 3px 8px 3px 0; }
+table.abd td { border-bottom: 1px solid var(--line); padding: 3px 8px 3px 0; vertical-align: top; max-width: 46ch; }
+table.abd td.num { text-align: right; }
+</style>
+</head>
+<body>
+<!-- site_nav:cities --><nav class="cities" aria-label="Städte"><span class="cities-label">Adressbücher</span><a href="https://thodel.github.io/adressbuecher-aarau/">Aarau 1833–1900</a><a href="https://thodel.github.io/adressbuecher-baden/">Baden 1900/1910</a><a href="https://thodel.github.io/adressbuecher-basel/">Basel 1841–1862</a><a href="https://thodel.github.io/adressbuecher-basel-frueh/">Basel 1789–1850</a><a href="https://thodel.github.io/adressbuecher-bern-frueh/" aria-current="page">Bern 1795–1848</a><a href="https://thodel.github.io/adressbuecher-bern/">Bern 1883–1900</a><a href="https://thodel.github.io/adressbuecher-lausanne/">Lausanne 1896–1907</a><a href="https://thodel.github.io/adressbuecher-zuerich/">Zürich 1859–1945</a><a class="vs" href="https://thodel.github.io/vernetzte-schweiz/">Vernetzte Schweiz ↗</a></nav><!-- /site_nav -->
+<header>
+  <h1>Frühe Berner Adressbücher 1795–1848</h1>
+  <!-- site_nav:city --><nav class="citynav" aria-label="Bern 1795–1848"><b>Bern 1795–1848</b><a href="./">Einträge</a><a href="karte.html">Karte der Orte</a><a href="./#suche" data-open-search>Suche nach Feldern</a><a href="abdeckung.html" aria-current="page">Abdeckung</a><a href="methoden.html">Methode und Vorbehalte</a><a href="https://github.com/thodel/adressbuecher-bern-frueh">Daten und Code ↗</a></nav><!-- /site_nav -->
+</header>
+<main class="prose wide">
+<h2>Wie viel von der Bevölkerung steht in den Verzeichnissen?</h2>
+<p>Diese Seite misst die sechs Verzeichnisse an der historischen Statistik des Kantons Bern (BERNHIST, Historisch-Statistische Datenbank des Kantons Bern 1700–1996, Projekt Christian Pfister, Universität Bern; Datenbestand der Universitätsbibliothek Bern, Stand 22. März 2024). Zähler sind die maschinell gelesenen Einträge, Nenner die Zählungen der Stadt Bern und der Amtsbezirke. Alle Zahlen kommen aus <code>scripts/abdeckung.py</code>; die verwendeten BERNHIST-Werte stehen mit Ort, Thema und Jahr in <code>data/ref/bernhist_werte.csv</code>, die Ergebnisse in <code>data/abdeckung/</code>, die ausführliche Fassung in <code>docs/abdeckung.md</code>.</p>
+
+<h2>Was die Bände verzeichnen</h2>
+<ul>
+  <li><b>1795</b> Handelshäuser, Fabrikanten, Künstler und «ansehnliche» Gewerbetreibende der alten Republik (mit Waadt und Aargau). Für die Stadt zählen nur die Einträge unter «Bern».</li>
+  <li><b>1810</b> «Principales maisons de commerce et manufactures», dazu Notare, Advokaten, Ärzte und Künstler. Stadt (Teil A) und Kanton (Teil B).</li>
+  <li><b>1822</b> Adressbuch der Stadt nach Berufen und Geschäften. Wer zwei Gewerbe treibt, steht zweimal; gezählt werden verschiedene Personen.</li>
+  <li><b>1836</b> Alphabetisches Verzeichnis der Einwohnerschaft der Stadt mit Beruf oder Stand und den Kennbuchstaben B. (Burger) und H. (Hauseigentümer), dazu die Gewerbetreibenden der Amtsbezirke nach Orten.</li>
+  <li><b>1839</b> Ergänzungsheft zu 1836: nur neue Namen und veränderte Wohnungen. Seine Quoten sind keine Abdeckung, sondern der Umfang der Nachträge.</li>
+  <li><b>1848</b> Einsassen der Stadt, also Niedergelassene ohne Burgerrecht, je Haushalt mit Ehefrau und Kindern. Burger fehlen ganz.</li>
+</ul>
+
+<h2>Stadt Bern</h2>
+<p>Ein Adressbuch nennt Haushaltsvorstände und Gewerbe, keine Köpfe. Aussagekräftiger als der Anteil an der Wohnbevölkerung ist darum der Anteil an den Haushalten. BERNHIST zählt die Haushalte der Stadt erst 1847; für die früheren Bände ist ihre Zahl aus der Wohnbevölkerung geschätzt (gleiche Haushaltsgrösse wie 1847 angenommen). Die Wohnbevölkerung ist zwischen den Stichjahren 1764, 1798, 1818, 1837, 1846 und 1850 linear interpoliert.</p>
+<!-- abdeckung:stadt --><div class="tablewrap"><table class="abd"><caption>Stadt Bern: Personen je Einwohner und je Haushalt</caption><thead><tr><th>Band</th><th>Einträge Stadt</th><th>Personen</th><th>Einwohner</th><th>je 100 Einw.</th><th>Haushalte</th><th>je 100 Haushalte</th></tr></thead>
+<tbody>
+<tr><td>1795</td><td class="num">106</td><td class="num">103</td><td class="num">11 549</td><td class="num">0,9</td><td class="num">2 724</td><td class="num">3,8</td></tr>
+<tr><td>1810</td><td class="num">518</td><td class="num">470</td><td class="num">15 068</td><td class="num">3,1</td><td class="num">3 554</td><td class="num">13,2</td></tr>
+<tr><td>1822</td><td class="num">1 385</td><td class="num">1 213</td><td class="num">18 603</td><td class="num">6,5</td><td class="num">4 387</td><td class="num">27,6</td></tr>
+<tr><td>1836</td><td class="num">3 051</td><td class="num">3 051</td><td class="num">22 283</td><td class="num">13,7</td><td class="num">5 255</td><td class="num">58,1</td></tr>
+<tr><td>1839</td><td class="num">1 396</td><td class="num">1 396</td><td class="num">23 120</td><td class="num">6,0</td><td class="num">5 452</td><td class="num">25,6</td></tr>
+<tr><td>1848</td><td class="num">2 262</td><td class="num">2 262</td><td class="num">26 358</td><td class="num">8,6</td><td class="num">5 978</td><td class="num">37,8</td></tr>
+</tbody></table></div><!-- /abdeckung -->
+<p>Das Einwohnerverzeichnis von 1836 nennt Personen im Umfang von knapp drei Fünfteln der geschätzten Haushalte und ist damit das einzige, das einer Einwohnerliste nahekommt. Die Verzeichnisse von 1795 bis 1822 sind Auswahlen, das von 1848 erfasst nur die Einsassen.</p>
+
+<h3>Frauen</h3>
+<p>Als Frau zählt ein Eintrag mit weiblicher Anrede (Frau, Wittwe, Jungfer, Madame, Veuve, Schwestern), weiblichem Vornamen oder weiblicher Berufsform (Schneiderin, Wirthin). Der Nenner «Einwohnerinnen» zählt alle Frauen und Mädchen, der Nenner «verwitwete Frauen» stammt aus der Zählung von 1846 und ist mit der Wohnbevölkerung auf das Jahr des Bandes umgerechnet.</p>
+<!-- abdeckung:frauen --><div class="tablewrap"><table class="abd"><caption>Stadt Bern: Frauen, Witwen, Jungfern</caption><thead><tr><th>Band</th><th>Frauen</th><th>Anteil an den Personen</th><th>je 100 Einwohnerinnen</th><th>Witwen</th><th>je 100 verwitwete Frauen</th><th>Jungfern</th></tr></thead>
+<tbody>
+<tr><td>1795</td><td class="num">4</td><td class="num">3,9 %</td><td class="num">0,1</td><td class="num">1</td><td class="num">0,2</td><td class="num">0</td></tr>
+<tr><td>1810</td><td class="num">21</td><td class="num">4,5 %</td><td class="num">0,3</td><td class="num">9</td><td class="num">1,1</td><td class="num">1</td></tr>
+<tr><td>1822</td><td class="num">111</td><td class="num">9,2 %</td><td class="num">1,1</td><td class="num">27</td><td class="num">2,8</td><td class="num">23</td></tr>
+<tr><td>1836</td><td class="num">384</td><td class="num">12,6 %</td><td class="num">3,2</td><td class="num">45</td><td class="num">3,9</td><td class="num">8</td></tr>
+<tr><td>1839</td><td class="num">209</td><td class="num">15,0 %</td><td class="num">1,7</td><td class="num">33</td><td class="num">2,7</td><td class="num">28</td></tr>
+<tr><td>1848</td><td class="num">452</td><td class="num">20,0 %</td><td class="num">3,3</td><td class="num">69</td><td class="num">5,0</td><td class="num">0</td></tr>
+</tbody></table></div><!-- /abdeckung -->
+
+<h3>Burger, Hauseigentümer, Einsassen</h3>
+<p>Nur das Adressenbuch von 1836 (und sein Ergänzungsheft) kennzeichnet die Burger, das Verzeichnis von 1848 nennt umgekehrt nur Nichtburger. BERNHIST gibt die Burger der Stadt für 1846 (2905 Personen, davon 1315 männlich) und 1856. In den älteren Bänden lässt sich das Burgerrecht nicht erkennen.</p>
+<!-- abdeckung:burger --><div class="tablewrap"><table class="abd"><caption>Stadt Bern: Burger, Hauseigentümer, Einsassen</caption><thead><tr><th>Band</th><th>Kennzahl</th><th>Zähler</th><th>Nenner</th><th>je 100</th><th>Nenner aus BERNHIST</th></tr></thead>
+<tbody>
+<tr><td>1836</td><td>Burger (Kennbuchstabe B.): Anteil an den Personen</td><td class="num">1 159</td><td class="num">3 051</td><td class="num">38,0</td><td>verschiedene Personen des Bandes in der Stadt</td></tr>
+<tr><td>1836</td><td>Burger (B.) je Burger und Burgerin</td><td class="num">1 159</td><td class="num">2 905</td><td class="num">39,9</td><td>Burger der Stadt 1846 (2905), unverändert übernommen (geschlossene Körperschaft)</td></tr>
+<tr><td>1836</td><td>Burger (B.) je männlichen Burger</td><td class="num">1 070</td><td class="num">1 315</td><td class="num">81,4</td><td>männliche Burger 1846 (alle Alter), unverändert übernommen</td></tr>
+<tr><td>1836</td><td>Nichtburger (ohne B.) je Einwohner ohne Burgerrecht</td><td class="num">1 892</td><td class="num">19 707</td><td class="num">9,6</td><td>Wohnbevölkerung ohne Burger der Stadt 1846 (22224), mit der Wohnbevölkerung auf 1836 umgerechnet (gleicher Anteil angenommen)</td></tr>
+<tr><td>1836</td><td>Hauseigentümer (Kennbuchstabe H.) je Hausbesitzer</td><td class="num">782</td><td class="num">569</td><td class="num">137,4</td><td>in der Stadt wohnhafte Hausbesitzer 1856, unverändert übernommen</td></tr>
+<tr><td>1836</td><td>Hauseigentümer (H.) je Wohnhaus</td><td class="num">782</td><td class="num">1 738</td><td class="num">45,0</td><td>ausschliessliche Wohnhäuser 1856, unverändert übernommen</td></tr>
+<tr><td>1839</td><td>Burger (Kennbuchstabe B.): Anteil an den Personen</td><td class="num">217</td><td class="num">1 396</td><td class="num">15,5</td><td>verschiedene Personen des Bandes in der Stadt</td></tr>
+<tr><td>1839</td><td>Burger (B.) je Burger und Burgerin</td><td class="num">217</td><td class="num">2 905</td><td class="num">7,5</td><td>Burger der Stadt 1846 (2905), unverändert übernommen (geschlossene Körperschaft)</td></tr>
+<tr><td>1839</td><td>Burger (B.) je männlichen Burger</td><td class="num">193</td><td class="num">1 315</td><td class="num">14,7</td><td>männliche Burger 1846 (alle Alter), unverändert übernommen</td></tr>
+<tr><td>1839</td><td>Nichtburger (ohne B.) je Einwohner ohne Burgerrecht</td><td class="num">1 179</td><td class="num">20 447</td><td class="num">5,8</td><td>Wohnbevölkerung ohne Burger der Stadt 1846 (22224), mit der Wohnbevölkerung auf 1839 umgerechnet (gleicher Anteil angenommen)</td></tr>
+<tr><td>1839</td><td>Hauseigentümer (Kennbuchstabe H.) je Hausbesitzer</td><td class="num">117</td><td class="num">569</td><td class="num">20,6</td><td>in der Stadt wohnhafte Hausbesitzer 1856, unverändert übernommen</td></tr>
+<tr><td>1839</td><td>Hauseigentümer (H.) je Wohnhaus</td><td class="num">117</td><td class="num">1 738</td><td class="num">6,7</td><td>ausschliessliche Wohnhäuser 1856, unverändert übernommen</td></tr>
+<tr><td>1848</td><td>Einsassen-Haushalte je Haushalt der Stadt</td><td class="num">2 262</td><td class="num">5 978</td><td class="num">37,8</td><td>Haushalte, linear interpoliert zwischen 1847 und 1856</td></tr>
+<tr><td>1848</td><td>Köpfe in Einsassen-Haushalten (Vorstand, Ehefrau, Kinder) je Einwohner ohne Burgerrecht</td><td class="num">7 337</td><td class="num">22 466</td><td class="num">32,7</td><td>Wohnbevölkerung ohne Burger der Stadt, linear interpoliert zwischen 1846 und 1856</td></tr>
+<tr><td>1848</td><td>Köpfe in Einsassen-Haushalten je Niedergelassenen von 1856</td><td class="num">7 337</td><td class="num">15 759</td><td class="num">46,6</td><td>Niedergelassene ohne Burgerrecht 1856 (Berner, andere Kantone, Ausländer), unverändert übernommen</td></tr>
+<tr><td>1848</td><td>Köpfe in Einsassen-Haushalten je Einwohner</td><td class="num">7 337</td><td class="num">26 358</td><td class="num">27,8</td><td>Wohnbevölkerung, linear interpoliert zwischen 1846 und 1850</td></tr>
+</tbody></table></div><!-- /abdeckung -->
+<p>1836 kommen auf 100 männliche Burger jeden Alters gut 80 Einträge mit «B.»; die erwachsenen Burger stehen also nahezu vollständig im Buch. Von den Einwohnern ohne Burgerrecht steht dagegen nur etwa jeder zehnte. 1848 sind mit Ehefrauen und Kindern rund 7300 Köpfe verzeichnet, ein Drittel der Einwohner ohne Burgerrecht: Wer als Aufenthalter, Dienstbote oder Geselle ohne eigenes Einsassenrecht in der Stadt lebte, fehlt. Die Zahl der Hauseigentümer von 1836 liegt über der Zahl der wohnhaften Hausbesitzer, die BERNHIST für 1856 führt; die beiden Grössen meinen offenbar nicht dasselbe.</p>
+
+<h3>Berufsgruppen</h3>
+<p>Die Berufsangaben wurden mit einer Regeltabelle (<code>config/berufe_regeln.csv</code>) Gruppen und Sektoren zugeordnet. BERNHIST kennt die Erwerbstätigen der Stadt erst für 1856; diese Zahlen sind mit der Wohnbevölkerung auf das Jahr des Bandes umgerechnet, was für 1795 und 1810 eine grobe Annahme ist. <!-- abdeckung:stichprobe -->Stichprobe: 60 zufällig gezogene Einträge (10 je Band), am Wortlaut des Eintrags beurteilt: Gruppe richtig bei 56 (93 %), Sektor richtig bei 57 (95 %).<!-- /abdeckung --></p>
+<!-- abdeckung:berufe --><div class="tablewrap"><table class="abd"><caption>Stadt Bern: Berufsgruppen gegen die Zählung von 1856 (Zähler / Nenner = Quote)</caption><thead><tr><th>Band</th><th>Erwerb</th><th>2. Sektor</th><th>3. Sektor</th><th>Selbständige</th><th>Dienstboten</th><th>Taglöhner</th><th>Ärzte</th><th>Ärzte und Wundärzte</th></tr></thead>
+<tbody>
+<tr><td>1795</td><td class="num">98 / 4 889 = 2 %</td><td class="num">35 / 1 627 = 2 %</td><td class="num">63 / 1 177 = 5 %</td><td class="num">94 / 1 851 = 5 %</td><td class="num">0 / 1 321 = 0 %</td><td class="num">0 / 729 = 0 %</td><td class="num">1 / 21 = 5 %</td><td class="num">2 / 21 = 10 %</td></tr>
+<tr><td>1810</td><td class="num">430 / 6 379 = 7 %</td><td class="num">124 / 2 122 = 6 %</td><td class="num">299 / 1 536 = 19 %</td><td class="num">413 / 2 415 = 17 %</td><td class="num">0 / 1 724 = 0 %</td><td class="num">0 / 952 = 0 %</td><td class="num">20 / 27 = 74 %</td><td class="num">29 / 27 = 108 %</td></tr>
+<tr><td>1822</td><td class="num">1 187 / 7 876 = 15 %</td><td class="num">571 / 2 620 = 22 %</td><td class="num">589 / 1 896 = 31 %</td><td class="num">1 115 / 2 981 = 37 %</td><td class="num">8 / 2 128 = 0 %</td><td class="num">0 / 1 175 = 0 %</td><td class="num">27 / 33 = 81 %</td><td class="num">37 / 33 = 112 %</td></tr>
+<tr><td>1836</td><td class="num">2 410 / 9 433 = 26 %</td><td class="num">853 / 3 138 = 27 %</td><td class="num">1 465 / 2 272 = 64 %</td><td class="num">1 686 / 3 571 = 47 %</td><td class="num">11 / 2 549 = 0 %</td><td class="num">2 / 1 407 = 0 %</td><td class="num">37 / 40 = 93 %</td><td class="num">39 / 40 = 98 %</td></tr>
+<tr><td>1839</td><td class="num">1 214 / 9 788 = 12 %</td><td class="num">512 / 3 256 = 16 %</td><td class="num">662 / 2 357 = 28 %</td><td class="num">902 / 3 705 = 24 %</td><td class="num">8 / 2 644 = 0 %</td><td class="num">3 / 1 460 = 0 %</td><td class="num">6 / 41 = 15 %</td><td class="num">9 / 41 = 22 %</td></tr>
+<tr><td>1848</td><td class="num">2 058 / 11 159 = 18 %</td><td class="num">1 019 / 3 712 = 27 %</td><td class="num">931 / 2 687 = 35 %</td><td class="num">1 842 / 4 224 = 44 %</td><td class="num">30 / 3 015 = 1 %</td><td class="num">9 / 1 664 = 1 %</td><td class="num">8 / 47 = 17 %</td><td class="num">11 / 47 = 23 %</td></tr>
+</tbody></table></div><!-- /abdeckung -->
+<p>Ärzte sind seit 1810 zu drei Vierteln und mehr erfasst (1836: 93 %), der 3. Sektor 1836 zu rund zwei Dritteln, Handwerk und Gewerbe seit 1822 zu rund einem Viertel, Dienstboten und Taglöhner so gut wie gar nicht (zusammen 4681 Personen in der Zählung von 1856). Die Quote über 100 % bei «Ärzte und Wundärzte» zeigt, dass der Nenner von 1856 die Wundärzte nicht mitzählt.</p>
+<!-- abdeckung:gruppen --><div class="tablewrap"><table class="abd"><caption>Stadt Bern: Personen je Berufsgruppe</caption><thead><tr><th>Gruppe</th><th>Sektor</th><th>1795</th><th>1810</th><th>1822</th><th>1836</th><th>1839</th><th>1848</th></tr></thead>
+<tbody>
+<tr><td>Land- und Forstwirtschaft, Gartenbau</td><td class="num">1</td><td class="num">0</td><td class="num">7</td><td class="num">19</td><td class="num">79</td><td class="num">29</td><td class="num">69</td></tr>
+<tr><td>Handwerk und Gewerbe</td><td class="num">2</td><td class="num">33</td><td class="num">124</td><td class="num">564</td><td class="num">846</td><td class="num">508</td><td class="num">1 003</td></tr>
+<tr><td>Arbeiter, Gesellen</td><td class="num">2</td><td class="num">2</td><td class="num">0</td><td class="num">7</td><td class="num">7</td><td class="num">4</td><td class="num">16</td></tr>
+<tr><td>Handel</td><td class="num">3</td><td class="num">50</td><td class="num">145</td><td class="num">249</td><td class="num">398</td><td class="num">137</td><td class="num">405</td></tr>
+<tr><td>Gastgewerbe</td><td class="num">3</td><td class="num">0</td><td class="num">20</td><td class="num">24</td><td class="num">112</td><td class="num">69</td><td class="num">166</td></tr>
+<tr><td>Verkehr</td><td class="num">3</td><td class="num">1</td><td class="num">1</td><td class="num">24</td><td class="num">32</td><td class="num">15</td><td class="num">30</td></tr>
+<tr><td>Gesundheit</td><td class="num">3</td><td class="num">1</td><td class="num">34</td><td class="num">45</td><td class="num">40</td><td class="num">16</td><td class="num">28</td></tr>
+<tr><td>Recht, Geschäftsbüros</td><td class="num">3</td><td class="num">0</td><td class="num">55</td><td class="num">80</td><td class="num">87</td><td class="num">48</td><td class="num">41</td></tr>
+<tr><td>Verwaltung, Ämter</td><td class="num">3</td><td class="num">1</td><td class="num">7</td><td class="num">29</td><td class="num">242</td><td class="num">115</td><td class="num">39</td></tr>
+<tr><td>Offiziere</td><td class="num">3</td><td class="num">0</td><td class="num">0</td><td class="num">1</td><td class="num">131</td><td class="num">42</td><td class="num">1</td></tr>
+<tr><td>Bildung, Kirche</td><td class="num">3</td><td class="num">1</td><td class="num">10</td><td class="num">27</td><td class="num">242</td><td class="num">74</td><td class="num">31</td></tr>
+<tr><td>Kunst, Architektur</td><td class="num">3</td><td class="num">9</td><td class="num">26</td><td class="num">51</td><td class="num">50</td><td class="num">38</td><td class="num">34</td></tr>
+<tr><td>Schreiber, Angestellte</td><td class="num">3</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">89</td><td class="num">66</td><td class="num">90</td></tr>
+<tr><td>persönliche Dienste</td><td class="num">3</td><td class="num">0</td><td class="num">1</td><td class="num">59</td><td class="num">42</td><td class="num">42</td><td class="num">66</td></tr>
+<tr><td>Dienstboten</td><td>Dienstboten</td><td class="num">0</td><td class="num">0</td><td class="num">8</td><td class="num">11</td><td class="num">8</td><td class="num">30</td></tr>
+<tr><td>Taglöhner</td><td>Taglöhner</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">2</td><td class="num">3</td><td class="num">9</td></tr>
+<tr><td>ohne Erwerb (Rentner, Besitzer)</td><td>ohne Erwerb</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">76</td><td class="num">10</td><td class="num">106</td></tr>
+<tr><td>unbestimmt</td><td>unbestimmt</td><td class="num">5</td><td class="num">40</td><td class="num">26</td><td class="num">565</td><td class="num">172</td><td class="num">98</td></tr>
+</tbody></table></div><!-- /abdeckung -->
+
+<h2>Kanton: Einträge je Amtsbezirk 1836 und 1839</h2>
+<p>Das Adressenbuch der Republik Bern nennt die Gewerbetreibenden nach Orten. Die Orte wurden an die Einwohner- und Kirchgemeinden von BERNHIST gebunden und über diese an die 27 Amtsbezirke; Nenner ist die Wohnbevölkerung von 1837. BERNHIST führt die Amtsbezirke in ihren späteren Grenzen (Biel, Neuenstadt und Laufen als eigene Bezirke) und enthält die Bezirke des heutigen Kantons Jura nicht. <!-- abdeckung:pruefung -->Von 7 213 Einträgen der Kantonsteile sind 6 460 einem Amtsbezirk zugeordnet: 5 519 über den Ortsnamen, 925 über die heutige Gemeinde des Weilers, 16 über die nächste gebundene Gemeinde. 675 liegen im heutigen Kanton Jura, 16 ausserhalb, 62 haben keinen Ort, 0 blieben offen. Bei 589 zugeordneten Einträgen (9,1 %) weicht der Amtsbezirk von der Mehrheit ihrer Buchseite ab (Seitenwechsel zwischen zwei Ämtern oder falsch verorteter Ort).<!-- /abdeckung --></p>
+<!-- abdeckung:aemter --><div class="tablewrap"><table class="abd"><caption>Kantonsteil 1836/1839: Einträge je Amtsbezirk</caption><thead><tr><th>Amtsbezirk (BERNHIST)</th><th>Einwohner 1837</th><th>Einträge 1836</th><th>je 1000 Einw.</th><th>Nachtrag 1836</th><th>Ergänzung 1839</th></tr></thead>
+<tbody>
+<tr><td>Aarberg</td><td class="num">13 653</td><td class="num">171</td><td class="num">12,5</td><td class="num">34</td><td class="num">0</td></tr>
+<tr><td>Aarwangen</td><td class="num">24 524</td><td class="num">493</td><td class="num">20,1</td><td class="num">135</td><td class="num">3</td></tr>
+<tr><td>Bern</td><td class="num">43 786</td><td class="num">157</td><td class="num">3,6</td><td class="num">2</td><td class="num">0</td></tr>
+<tr><td>Biel / Bienne</td><td class="num">5 202</td><td class="num">184</td><td class="num">35,4</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Burgdorf</td><td class="num">20 706</td><td class="num">250</td><td class="num">12,1</td><td class="num">15</td><td class="num">33</td></tr>
+<tr><td>Büren</td><td class="num">8 062</td><td class="num">237</td><td class="num">29,4</td><td class="num">6</td><td class="num">96</td></tr>
+<tr><td>Courtelary</td><td class="num">14 560</td><td class="num">381</td><td class="num">26,2</td><td class="num">0</td><td class="num">4</td></tr>
+<tr><td>Erlach</td><td class="num">6 242</td><td class="num">133</td><td class="num">21,3</td><td class="num">5</td><td class="num">0</td></tr>
+<tr><td>Fraubrunnen</td><td class="num">11 089</td><td class="num">243</td><td class="num">21,9</td><td class="num">3</td><td class="num">6</td></tr>
+<tr><td>Frutigen</td><td class="num">10 515</td><td class="num">104</td><td class="num">9,9</td><td class="num">0</td><td class="num">112</td></tr>
+<tr><td>Interlaken</td><td class="num">17 947</td><td class="num">191</td><td class="num">10,6</td><td class="num">0</td><td class="num">98</td></tr>
+<tr><td>Konolfingen</td><td class="num">29 564</td><td class="num">242</td><td class="num">8,2</td><td class="num">54</td><td class="num">0</td></tr>
+<tr><td>Laufen</td><td class="num">4 563</td><td class="num">217</td><td class="num">47,6</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Laupen</td><td class="num">8 011</td><td class="num">136</td><td class="num">17,0</td><td class="num">9</td><td class="num">0</td></tr>
+<tr><td>Moutier</td><td class="num">6 795</td><td class="num">195</td><td class="num">28,7</td><td class="num">0</td><td class="num">1</td></tr>
+<tr><td>Neuveville, La</td><td class="num">3 396</td><td class="num">67</td><td class="num">19,7</td><td class="num">0</td><td class="num">54</td></tr>
+<tr><td>Nidau</td><td class="num">8 015</td><td class="num">187</td><td class="num">23,3</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Niedersimmental</td><td class="num">9 660</td><td class="num">79</td><td class="num">8,2</td><td class="num">0</td><td class="num">2</td></tr>
+<tr><td>Oberhasli</td><td class="num">6 724</td><td class="num">84</td><td class="num">12,5</td><td class="num">0</td><td class="num">8</td></tr>
+<tr><td>Obersimmental</td><td class="num">7 455</td><td class="num">48</td><td class="num">6,4</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Saanen</td><td class="num">4 590</td><td class="num">47</td><td class="num">10,2</td><td class="num">0</td><td class="num">10</td></tr>
+<tr><td>Schwarzenburg</td><td class="num">10 769</td><td class="num">112</td><td class="num">10,4</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Seftigen</td><td class="num">17 613</td><td class="num">240</td><td class="num">13,6</td><td class="num">0</td><td class="num">19</td></tr>
+<tr><td>Signau</td><td class="num">20 453</td><td class="num">224</td><td class="num">11,0</td><td class="num">0</td><td class="num">13</td></tr>
+<tr><td>Thun</td><td class="num">22 104</td><td class="num">354</td><td class="num">16,0</td><td class="num">0</td><td class="num">69</td></tr>
+<tr><td>Trachselwald</td><td class="num">22 618</td><td class="num">157</td><td class="num">6,9</td><td class="num">178</td><td class="num">151</td></tr>
+<tr><td>Wangen</td><td class="num">15 484</td><td class="num">397</td><td class="num">25,6</td><td class="num">1</td><td class="num">9</td></tr>
+<tr><td>(ausserhalb des Kantons)</td><td class="num">–</td><td class="num">15</td><td class="num">–</td><td class="num">0</td><td class="num">1</td></tr>
+<tr><td>(heute Kanton Jura, nicht in BERNHIST)</td><td class="num">–</td><td class="num">507</td><td class="num">–</td><td class="num">0</td><td class="num">168</td></tr>
+<tr><td>(ohne Ort)</td><td class="num">–</td><td class="num">0</td><td class="num">–</td><td class="num">62</td><td class="num">0</td></tr>
+<tr><td>Kanton Bern (27 Amtsbezirke von BERNHIST)</td><td class="num">374 100</td><td class="num">5 330</td><td class="num">14,2</td><td class="num">442</td><td class="num">688</td></tr>
+</tbody></table></div><!-- /abdeckung -->
+
+<h2>Grenzen</h2>
+<ul>
+  <li><b>Haushaltsvorstände statt Köpfe.</b> Nur 1848 nennt Ehefrauen und Kinder. Die Quote je Einwohner ist eine Untergrenze, die je Haushalt beruht vor 1847 auf einer Schätzung. BERNHIST gibt für 1856 weniger Haushalte an als für 1847 (5231 gegen 6071); mit der Haushaltsgrösse von 1856 lägen die Quoten je Haushalt etwa ein Sechstel höher.</li>
+  <li><b>Interpolation.</b> Zwischen den Stichjahren wird linear gerechnet. Für 1795 liegen nur 1764 und 1798 vor, und 1798 ist ein Ausnahmejahr. Zivilstand (1846) und Erwerb (1856) haben je ein einziges Stichjahr.</li>
+  <li><b>Lesefehler.</b> Die Einträge sind maschinell gelesen und nicht korrigiert; rund 5 % weichen in einer zweiten Lesung in einem Wort ab. Für Zählungen fällt das wenig ins Gewicht, für die Erkennung der Kennbuchstaben B. und H. und der Anreden mehr.</li>
+  <li><b>Berufszuordnung.</b> Eine Regeltabelle, keine Berufssystematik. Es zählt die erstgenannte Tätigkeit; Gesellen und Meister lassen sich meist nicht trennen, «Selbständige» sind eine Näherung.</li>
+  <li><b>Nenner von 1856.</b> BERNHIST zählt für die Stadt 5296 Erwerbstätige im 1. Sektor. Die Zahl schliesst vermutlich Dienstboten und Taglöhner ein; die Quoten für den 1. Sektor sind darum nicht aussagekräftig.</li>
+  <li><b>Rechte.</b> Die Nutzungsrechte an den BERNHIST-Daten sind nicht ausgewiesen. Im Repo liegen nur die verwendeten Einzelwerte mit Quellenangabe.</li>
+</ul>
+</main>
+</body>
+</html>
