@@ -18,9 +18,9 @@ python3 -m unittest discover -s tests
 
 | Datei | Inhalt |
 |---|---|
-| `data/ref/bernhist_werte.csv` | die 75 verwendeten BERNHIST-Werte mit Ort, Thema, Jahr, Wert, Quelle |
-| `data/ref/bernhist_orte.csv` | Orte der Kantonsteile 1836/1839 mit BERNHIST-Ort, Kirchgemeinde, Amtsbezirk, Verfahren |
-| `config/bernhist_orte_hand.csv` | 20 Zuordnungen von Hand (heutige Fusionsgemeinden, deutsche Namen) |
+| `data/ref/bernhist_werte.csv` | die 115 verwendeten BERNHIST-Werte mit Ort, Thema, Jahr, Wert, Quelle |
+| `data/ref/bernhist_orte.csv` | Orte der Kantonsteile 1810, 1836 und 1839 mit BERNHIST-Ort, Kirchgemeinde, Amtsbezirk, Verfahren |
+| `config/bernhist_orte_hand.csv` | 24 Zuordnungen von Hand (heutige Fusionsgemeinden, deutsche und französische Namen) |
 | `config/berufe_regeln.csv` | Regeln der Berufszuordnung (Gruppe, Muster) |
 | `data/abdeckung/baende.csv` | alle Kennzahlen je Band: Zähler, Nenner, Quote, Grundlage des Nenners |
 | `data/abdeckung/berufsgruppen.csv` | Personen je Berufsgruppe und Band (Stadt) |
@@ -59,7 +59,7 @@ Stadt Bern ist die Einwohnergemeinde (BERNHIST-Ort 457, vor 1920 ohne Bümpliz).
 | Heimatklasse | 1846 (nach Geschlecht), 1856 | Burger der Stadt 1846: 1315 Männer, 1590 Frauen; unverändert übernommen. Für 1818 führt BERNHIST nur Nullen |
 | Erwerbstätige nach Sektor, Selbständige, Dienstboten, Taglöhner, Ärzte | 1856 | mit der Wohnbevölkerung auf das Jahr des Bandes umgerechnet (gleicher Anteil angenommen) |
 | Hausbesitzer, Wohnhäuser | 1856 | unverändert übernommen |
-| Wohnbevölkerung der 27 Amtsbezirke | 1837 | direkt, ohne Interpolation |
+| Wohnbevölkerung der 27 Amtsbezirke | 1798, 1818, 1837 | 1836: Wert von 1837 direkt; 1810: linear zwischen 1798 und 1818, nur die 22 damals bernischen Bezirke |
 
 «Umgerechnet» heisst: Der Anteil der Gruppe an der Wohnbevölkerung wird als gleichbleibend angenommen. Für
 die Burgerschaft gilt das nicht (geschlossene Körperschaft; 1846: 2905, 1856: 2934), darum bleibt ihr Wert
@@ -120,6 +120,15 @@ Auffälligkeiten in BERNHIST: Für «Bürger anderer bernischer Gemeinden» 1846
    dichtesten sind kleine Bezirke mit Landstadt (Laufen 48, Biel 35, Büren 29, Moutier 29), am dünnsten
    das Oberland und das Emmental (Obersimmental 6, Trachselwald 7, Niedersimmental und Konolfingen 8) sowie
    das Amt Bern ohne die Stadt (7).
+8. **Kanton 1810.** Teil B des Livre d'adresses nennt 207 Personen und Firmen in den 22 damals bernischen
+   Amtsbezirken (Biel und das ehemalige Fürstbistum gehörten 1810 zu Frankreich), 0,8 je 1000 Einwohner
+   (Bevölkerung 1810 zwischen 1798 und 1818 interpoliert, 251 715). Das ist ein Siebzehntel der Dichte von
+   1836. Der Band verzeichnet nur die «principales maisons»: Am dichtesten sind Saanen (2,4), Thun (2,2),
+   Oberhasli (1,9) und Burgdorf (1,6), also Käse- und Viehhandel, Tourismus und Landstädte; Fraubrunnen,
+   Laupen und Obersimmental fehlen ganz. Die Ortsbindung lässt sich hier am Buch prüfen, weil die Rubrik oft
+   die Préfecture nennt: Bei 130 von 133 solchen Einträgen stimmt sie mit dem Amtsbezirk überein. Die drei
+   Abweichungen: zweimal «Buren» mit einem vom Vorgänger übernommenen Ort (Hindelbank), einmal «Schwanden»
+   unter Frutigen, das die Ortsbindung als Schwanden bei Brienz las.
 
 ## Was sich nicht messen liess
 
@@ -130,7 +139,6 @@ Auffälligkeiten in BERNHIST: Für «Bürger anderer bernischer Gemeinden» 1846
 - **Kanton Jura**: 507 Einträge von 1836 und 168 von 1839 (Delsberg, Pruntrut, Freiberge) liegen in
   Bezirken, für die BERNHIST keine Bevölkerung führt. Moutier (seit 2026 Kanton Jura) ist enthalten.
 - **1795 ausserhalb des heutigen Kantons**: Waadt und Aargau haben in BERNHIST keinen Nenner.
-- **Kantonsteil 1810**: nicht an BERNHIST gebunden (212 Einträge; die Bindung wäre dieselbe wie für 1836).
 - **Erwerb vor 1856**: kein Stichjahr; die Umrechnung über die Bevölkerung trägt für 1795 und 1810 wenig.
 
 ## Grenzen
@@ -234,43 +242,43 @@ Auffälligkeiten in BERNHIST: Für «Bürger anderer bernischer Gemeinden» 1846
 | ohne Erwerb (Rentner, Besitzer) | ohne Erwerb | 0 | 0 | 0 | 76 | 10 | 106 |
 | unbestimmt | unbestimmt | 5 | 40 | 26 | 565 | 172 | 98 |
 
-### Kantonsteil 1836/1839: Einträge je Amtsbezirk
+### Kantonsteile 1810, 1836 und 1839: Einträge je Amtsbezirk
 
-| Amtsbezirk (BERNHIST) | Einwohner 1837 | Einträge 1836 | je 1000 Einw. | Nachtrag 1836 | Ergänzung 1839 |
-|---|---:|---:|---:|---:|---:|
-| Aarberg | 13 653 | 171 | 12,5 | 34 | 0 |
-| Aarwangen | 24 524 | 493 | 20,1 | 135 | 3 |
-| Bern | 43 786 | 157 | 3,6 | 2 | 0 |
-| Biel / Bienne | 5 202 | 184 | 35,4 | 0 | 0 |
-| Burgdorf | 20 706 | 250 | 12,1 | 15 | 33 |
-| Büren | 8 062 | 237 | 29,4 | 6 | 96 |
-| Courtelary | 14 560 | 381 | 26,2 | 0 | 4 |
-| Erlach | 6 242 | 133 | 21,3 | 5 | 0 |
-| Fraubrunnen | 11 089 | 243 | 21,9 | 3 | 6 |
-| Frutigen | 10 515 | 104 | 9,9 | 0 | 112 |
-| Interlaken | 17 947 | 191 | 10,6 | 0 | 98 |
-| Konolfingen | 29 564 | 242 | 8,2 | 54 | 0 |
-| Laufen | 4 563 | 217 | 47,6 | 0 | 0 |
-| Laupen | 8 011 | 136 | 17,0 | 9 | 0 |
-| Moutier | 6 795 | 195 | 28,7 | 0 | 1 |
-| Neuveville, La | 3 396 | 67 | 19,7 | 0 | 54 |
-| Nidau | 8 015 | 187 | 23,3 | 0 | 0 |
-| Niedersimmental | 9 660 | 79 | 8,2 | 0 | 2 |
-| Oberhasli | 6 724 | 84 | 12,5 | 0 | 8 |
-| Obersimmental | 7 455 | 48 | 6,4 | 0 | 0 |
-| Saanen | 4 590 | 47 | 10,2 | 0 | 10 |
-| Schwarzenburg | 10 769 | 112 | 10,4 | 0 | 0 |
-| Seftigen | 17 613 | 240 | 13,6 | 0 | 19 |
-| Signau | 20 453 | 224 | 11,0 | 0 | 13 |
-| Thun | 22 104 | 354 | 16,0 | 0 | 69 |
-| Trachselwald | 22 618 | 157 | 6,9 | 178 | 151 |
-| Wangen | 15 484 | 397 | 25,6 | 1 | 9 |
-| (ausserhalb des Kantons) | – | 15 | – | 0 | 1 |
-| (heute Kanton Jura, nicht in BERNHIST) | – | 507 | – | 0 | 168 |
-| (ohne Ort) | – | 0 | – | 62 | 0 |
-| Kanton Bern (27 Amtsbezirke von BERNHIST) | 374 100 | 5 330 | 14,2 | 442 | 688 |
+| Amtsbezirk (BERNHIST) | Einwohner 1810 | Einträge 1810 | je 1000 Einw. 1810 | Einwohner 1837 | Einträge 1836 | je 1000 Einw. 1836 | Nachtrag 1836 | Ergänzung 1839 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Aarberg | 9 583 | 4 | 0,4 | 13 653 | 171 | 12,5 | 34 | 0 |
+| Aarwangen | 18 525 | 26 | 1,4 | 24 524 | 493 | 20,1 | 135 | 3 |
+| Bern | 30 116 | 4 | 0,1 | 43 786 | 157 | 3,6 | 2 | 0 |
+| Biel / Bienne | – | 0 | – | 5 202 | 184 | 35,4 | 0 | 0 |
+| Burgdorf | 14 870 | 24 | 1,6 | 20 706 | 250 | 12,1 | 15 | 33 |
+| Büren | 6 038 | 3 | 0,5 | 8 062 | 237 | 29,4 | 6 | 96 |
+| Courtelary | – | 0 | – | 14 560 | 381 | 26,2 | 0 | 4 |
+| Erlach | 5 005 | 3 | 0,6 | 6 242 | 133 | 21,3 | 5 | 0 |
+| Fraubrunnen | 8 366 | 0 | 0,0 | 11 089 | 243 | 21,9 | 3 | 6 |
+| Frutigen | 7 838 | 10 | 1,3 | 10 515 | 104 | 9,9 | 0 | 112 |
+| Interlaken | 13 390 | 9 | 0,7 | 17 947 | 191 | 10,6 | 0 | 98 |
+| Konolfingen | 20 024 | 11 | 0,6 | 29 564 | 242 | 8,2 | 54 | 0 |
+| Laufen | – | 0 | – | 4 563 | 217 | 47,6 | 0 | 0 |
+| Laupen | 5 645 | 0 | 0,0 | 8 011 | 136 | 17,0 | 9 | 0 |
+| Moutier | – | 0 | – | 6 795 | 195 | 28,7 | 0 | 1 |
+| Neuveville, La | – | 0 | – | 3 396 | 67 | 19,7 | 0 | 54 |
+| Nidau | 5 806 | 7 | 1,2 | 8 015 | 187 | 23,3 | 0 | 0 |
+| Niedersimmental | 7 572 | 8 | 1,1 | 9 660 | 79 | 8,2 | 0 | 2 |
+| Oberhasli | 5 199 | 10 | 1,9 | 6 724 | 84 | 12,5 | 0 | 8 |
+| Obersimmental | 6 059 | 0 | 0,0 | 7 455 | 48 | 6,4 | 0 | 0 |
+| Saanen | 4 608 | 11 | 2,4 | 4 590 | 47 | 10,2 | 0 | 10 |
+| Schwarzenburg | 9 141 | 3 | 0,3 | 10 769 | 112 | 10,4 | 0 | 0 |
+| Seftigen | 13 185 | 7 | 0,5 | 17 613 | 240 | 13,6 | 0 | 19 |
+| Signau | 15 744 | 20 | 1,3 | 20 453 | 224 | 11,0 | 0 | 13 |
+| Thun | 16 582 | 36 | 2,2 | 22 104 | 354 | 16,0 | 0 | 69 |
+| Trachselwald | 17 575 | 6 | 0,3 | 22 618 | 157 | 6,9 | 178 | 151 |
+| Wangen | 10 845 | 5 | 0,5 | 15 484 | 397 | 25,6 | 1 | 9 |
+| (ausserhalb des Kantons) | – | 0 | – | – | 15 | – | 0 | 1 |
+| (heute Kanton Jura, nicht in BERNHIST) | – | 0 | – | – | 507 | – | 0 | 168 |
+| (ohne Ort) | – | 5 | – | – | 0 | – | 62 | 0 |
+| Kanton Bern (27 Amtsbezirke von BERNHIST) | 251 715 | 207 | 0,8 | 374 100 | 5 330 | 14,2 | 442 | 688 |
 
 Stichprobe: 60 zufällig gezogene Einträge (10 je Band), am Wortlaut des Eintrags beurteilt: Gruppe richtig bei 56 (93 %), Sektor richtig bei 57 (95 %).
 
-Von 7 213 Einträgen der Kantonsteile sind 6 460 einem Amtsbezirk zugeordnet: 5 519 über den Ortsnamen, 925 über die heutige Gemeinde des Weilers, 16 über die nächste gebundene Gemeinde. 675 liegen im heutigen Kanton Jura, 16 ausserhalb, 62 haben keinen Ort, 0 blieben offen. Bei 589 zugeordneten Einträgen (9,1 %) weicht der Amtsbezirk von der Mehrheit ihrer Buchseite ab (Seitenwechsel zwischen zwei Ämtern oder falsch verorteter Ort).
+Von 7 425 Einträgen der Kantonsteile (1810, 1836, 1839) sind 6 667 einem Amtsbezirk zugeordnet: 5 717 über den Ortsnamen, 934 über die heutige Gemeinde des Weilers, 16 über die nächste gebundene Gemeinde. 675 liegen im heutigen Kanton Jura, 16 ausserhalb, 67 haben keinen Ort, 0 blieben offen. Bei 626 zugeordneten Einträgen (9,4 %) weicht der Amtsbezirk von der Mehrheit ihrer Buchseite ab (Seitenwechsel zwischen zwei Ämtern oder falsch verorteter Ort). 1810 nennt das Buch die Préfecture selbst: bei 130 von 133 zugeordneten Einträgen (98 %) stimmt sie mit dem Amtsbezirk überein.
 <!-- /abdeckung:tabellen -->

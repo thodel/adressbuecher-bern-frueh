@@ -399,8 +399,35 @@ def schreibe_csv(pfad: Path, zeilen: list[dict], felder: list[str] | None = None
 def kantonseintraege() -> list[tuple[dict, dict]]:
     orte = {r["entry_id"]: r for r in lies_csv(CSV_DIR / "06_entry_places.csv")}
     return [(r, orte[r["entry_id"]]) for r in lies_csv(CSV_DIR / "04_entries.csv")
-            if r["volume"] in ("1836", "1839") and r["section"].startswith("kanton")
-            and r["kind"] in ("person", "firma")]
+            if ist_kantonsteil(r) and r["kind"] in ("person", "firma")]
+
+
+def ist_kantonsteil(r: dict) -> bool:
+    """Kantonsteile: 1810 Teil B (nach Préfectures), 1836 und 1839 die Amtsbezirke mit Nachträgen."""
+    return ((r["volume"] == "1810" and r["section"] == "canton")
+            or (r["volume"] in ("1836", "1839") and r["section"].startswith("kanton")))
+
+
+# Préfectures des Livre d'adresses 1810 -> Amtsbezirk in BERNHIST (zur Prüfung der Ortsbindung)
+PRAEFEKTUREN_1810 = {"thoune": "Thun", "berthoud": "Burgdorf", "signau": "Signau", "gessenay": "Saanen",
+                     "oberhasle": "Oberhasli", "froutigen": "Frutigen", "bas simmenthal": "Niedersimmental",
+                     "haut simmenthal": "Obersimmental", "wangen": "Wangen", "trachselwald": "Trachselwald",
+                     "buren": "Büren", "cerlier": "Erlach", "schwarzenbourg": "Schwarzenburg", "seftigen": "Seftigen",
+                     "berne": "Bern", "nydau": "Nidau", "aarberg": "Aarberg", "aarwangen": "Aarwangen",
+                     "fraubrunnen": "Fraubrunnen", "konolfingen": "Konolfingen", "laupen": "Laupen",
+                     "interlaken": "Interlaken", "interlacken": "Interlaken"}
+
+
+# 1810 gehörten Biel und das ehemalige Fürstbistum (Courtelary, Laufen, Moutier, Neuveville) zu Frankreich
+BERNISCH_1810 = set(PRAEFEKTUREN_1810.values())
+
+
+def praefektur_1810(rubrik: str) -> str | None:
+    """«Préfecture de Thoune. Thoune» -> «Thun»; None, wenn die Rubrik keine Préfecture nennt."""
+    m = re.match(r"pr[eé]fecture (?:de |du |d'|des )?([^./]+)", falte(rubrik).replace("é", "e"))
+    if not m:
+        return None
+    return PRAEFEKTUREN_1810.get(re.sub(r"[^a-z]+", " ", m.group(1)).strip(), "?")
 
 
 def ort_key(o: dict) -> str:
@@ -443,7 +470,7 @@ def referenz(db_pfad: str) -> None:
         nimm(STADT, tid, *STADT_JAHRE)
     aemter = sorted(i for i in loc if loc[i]["typ"] == 3)
     for ort in [KANTON] + aemter:
-        nimm(ort, THEMEN["bev"], 1837, 1837)
+        nimm(ort, THEMEN["bev"], 1798, 1837)
     schreibe_csv(REF / "bernhist_werte.csv", werte)
 
     # --- Orte der Kantonsteile 1836/1839 an BERNHIST binden --------------------------------------------------
@@ -782,21 +809,29 @@ def rechnen() -> dict:
 
     # --- Amtsbezirke -------------------------------------------------------------------------------------------
     bind = {f'{o["ort"]}|{o["lat"]}|{o["lon"]}': o for o in lies_csv(REF / "bernhist_orte.csv")}
-    bev37 = {}
+    reihe_amt: dict[str, dict[int, float]] = defaultdict(dict)
     for w in lies_csv(REF / "bernhist_werte.csv"):
-        if int(w["thema_id"]) == THEMEN["bev"] and int(w["jahr_von"]) == 1837 and w["ortstyp"] in ("Amtsbezirk", "Kanton"):
-            bev37[w["ort"] if w["ortstyp"] == "Amtsbezirk" else "Kanton Bern"] = float(w["wert"])
+        if int(w["thema_id"]) == THEMEN["bev"] and w["ortstyp"] in ("Amtsbezirk", "Kanton"):
+            reihe_amt[w["ort"] if w["ortstyp"] == "Amtsbezirk" else "Kanton Bern"][int(w["jahr_von"])] = float(w["wert"])
+    bev37 = {a: r[1837] for a, r in reihe_amt.items()}
+    bev10 = {a: interpoliere(r, 1810)["wert"] for a, r in reihe_amt.items()}
+    praef_ok = praef_n = 0
     zaehl = defaultdict(Counter)
     seiten_amt = defaultdict(list)
     kant = []
     for r in namen:
-        if r["volume"] in ("1836", "1839") and r["section"].startswith("kanton"):
+        if ist_kantonsteil(r):
             o = orte[r["entry_id"]]
             b = bind.get(ort_key(o), {"amtsbezirk": "", "methode": "offen"})
             amt = b["amtsbezirk"] or {"kanton_jura": "(heute Kanton Jura, nicht in BERNHIST)",
                                       "ausserhalb": "(ausserhalb des Kantons)", "ohne_ort": "(ohne Ort)"}.get(
                                           b["methode"], "(Ort nicht zugeordnet)")
-            spalte = {"kanton": "e1836", "kanton_nachtrag": "e1836_nachtrag"}[r["section"]] if r["volume"] == "1836" else "e1839"
+            spalte = {"1810": "e1810", "1839": "e1839"}.get(r["volume"]) or \
+                {"kanton": "e1836", "kanton_nachtrag": "e1836_nachtrag"}[r["section"]]
+            praef = praefektur_1810(r["heading"]) if r["volume"] == "1810" else None   # nur wo die Rubrik sie nennt
+            if b["amtsbezirk"] and praef and praef != "?":
+                praef_n += 1
+                praef_ok += b["amtsbezirk"] == praef
             zaehl[amt][spalte] += 1
             if o["precision"] == "ungefähr":
                 zaehl[amt]["ungefaehr"] += 1
@@ -816,18 +851,29 @@ def rechnen() -> dict:
         if amt == "Bern":
             anm = (f"ohne das Einwohnerverzeichnis der Stadt ({stadt36} Personen); Amt ohne Stadt: "
                    f"{bev - N.bev[1837]:.0f} Einwohner, {1000 * c['e1836'] / (bev - N.bev[1837]):.1f} je 1000")
-        amt_zeilen.append({"amtsbezirk": amt, "einwohner_1837": "" if bev is None else round(bev),
+        b10 = bev10.get(amt) if amt in BERNISCH_1810 else None
+        amt_zeilen.append({"amtsbezirk": amt, "einwohner_1810": "" if b10 is None else round(b10),
+                           "eintraege_1810": c["e1810"],
+                           "je_1000_einwohner_1810": "" if b10 is None else round(1000 * c["e1810"] / b10, 2),
+                           "einwohner_1837": "" if bev is None else round(bev),
                            "eintraege_1836": c["e1836"], "je_1000_einwohner": "" if bev is None else round(1000 * c["e1836"] / bev, 1),
                            "eintraege_1836_nachtrag": c["e1836_nachtrag"], "eintraege_1839": c["e1839"],
                            "davon_ort_ungefaehr": c["ungefaehr"],
                            "davon_ueber_naechste_gemeinde": c["m_naechste_gemeinde"], "anmerkung": anm})
     summe = sum(a["eintraege_1836"] for a in amt_zeilen if a["einwohner_1837"] != "")
-    amt_zeilen.append({"amtsbezirk": "Kanton Bern (27 Amtsbezirke von BERNHIST)", "einwohner_1837": round(bev37["Kanton Bern"]),
+    s10 = sum(a["eintraege_1810"] for a in amt_zeilen if a["einwohner_1837"] != "")
+    bev10_kanton = sum(v for a, v in bev10.items() if a in BERNISCH_1810)
+    amt_zeilen.append({"amtsbezirk": "Kanton Bern (27 Amtsbezirke von BERNHIST)",
+                       "einwohner_1810": round(bev10_kanton), "eintraege_1810": s10,
+                       "je_1000_einwohner_1810": round(1000 * s10 / bev10_kanton, 2),
+                       "einwohner_1837": round(bev37["Kanton Bern"]),
                        "eintraege_1836": summe, "je_1000_einwohner": round(1000 * summe / bev37["Kanton Bern"], 1),
                        "eintraege_1836_nachtrag": sum(a["eintraege_1836_nachtrag"] for a in amt_zeilen if a["einwohner_1837"] != ""),
                        "eintraege_1839": sum(a["eintraege_1839"] for a in amt_zeilen if a["einwohner_1837"] != ""),
                        "davon_ort_ungefaehr": "", "davon_ueber_naechste_gemeinde": "",
-                       "anmerkung": "ohne das Einwohnerverzeichnis der Stadt Bern"})
+                       "anmerkung": "ohne das Einwohnerverzeichnis der Stadt Bern bzw. Teil A von 1810; "
+                                    "1810: Bevölkerung interpoliert zwischen 1798 und 1818, nur die 22 damals bernischen Amtsbezirke "
+                                    "(ohne Biel, Courtelary, Laufen, Moutier, Neuveville: 1810 französisch)"})
     offen = [o for o in bind.values() if not o["amtsbezirk"]]
 
     # --- Stichprobe zur Berufszuordnung --------------------------------------------------------------------------
@@ -859,7 +905,8 @@ def rechnen() -> dict:
                                           sorted(offen, key=lambda o: (o["methode"], -int(o["eintraege"]), o["ort"]))],
                  felder_offen)
     erg = {"zeilen": zeilen, "gruppen": gruppen_zeilen, "aemter": amt_zeilen, "offen": offen, "treffer": treffer,
-           "pruefung": {"zugeordnet": zugeordnet, "abweichend": abweichend, "kantonseintraege": len(kant)},
+           "pruefung": {"zugeordnet": zugeordnet, "abweichend": abweichend, "kantonseintraege": len(kant),
+                        "praef_ok": praef_ok, "praef_n": praef_n},
            "methoden": Counter(b["methode"] for _, _, b in kant)}
     schreibe_seite(erg)
     schreibe_doku(erg)
@@ -931,8 +978,10 @@ def tabellen(erg: dict) -> dict[str, tuple[list[str], list[list[str]]]]:
         G[g["gruppe"]][g["band"]] = g
     kopf = ["Gruppe", "Sektor"] + BAENDE
     t["gruppen"] = (kopf, [[GRUPPEN_LABEL[g], SEKTOR[g]] + [zahl(G[g][b]["personen"]) for b in BAENDE] for g in GRUPPEN])
-    kopf = ["Amtsbezirk (BERNHIST)", "Einwohner 1837", "Einträge 1836", "je 1000 Einw.", "Nachtrag 1836", "Ergänzung 1839"]
-    t["aemter"] = (kopf, [[a["amtsbezirk"], zahl(a["einwohner_1837"]), zahl(a["eintraege_1836"]),
+    kopf = ["Amtsbezirk (BERNHIST)", "Einwohner 1810", "Einträge 1810", "je 1000 Einw. 1810",
+            "Einwohner 1837", "Einträge 1836", "je 1000 Einw. 1836", "Nachtrag 1836", "Ergänzung 1839"]
+    t["aemter"] = (kopf, [[a["amtsbezirk"], zahl(a["einwohner_1810"]), zahl(a["eintraege_1810"]),
+                           zahl(a["je_1000_einwohner_1810"], 1), zahl(a["einwohner_1837"]), zahl(a["eintraege_1836"]),
                            zahl(a["je_1000_einwohner"], 1), zahl(a["eintraege_1836_nachtrag"]), zahl(a["eintraege_1839"])]
                           for a in erg["aemter"]])
     return t
@@ -943,7 +992,7 @@ TITEL = {"stadt": "Stadt Bern: Personen je Einwohner und je Haushalt",
          "burger": "Stadt Bern: Burger, Hauseigentümer, Einsassen",
          "berufe": "Stadt Bern: Berufsgruppen gegen die Zählung von 1856 (Zähler / Nenner = Quote)",
          "gruppen": "Stadt Bern: Personen je Berufsgruppe",
-         "aemter": "Kantonsteil 1836/1839: Einträge je Amtsbezirk"}
+         "aemter": "Kantonsteile 1810, 1836 und 1839: Einträge je Amtsbezirk"}
 
 
 def md_tabelle(kopf, zeilen) -> str:
@@ -971,13 +1020,15 @@ def stichprobe_satz(erg: dict) -> str:
 
 def pruef_satz(erg: dict) -> str:
     p, m = erg["pruefung"], erg["methoden"]
-    return (f"Von {zahl(p['kantonseintraege'])} Einträgen der Kantonsteile sind {zahl(p['zugeordnet'])} einem Amtsbezirk "
+    return (f"Von {zahl(p['kantonseintraege'])} Einträgen der Kantonsteile (1810, 1836, 1839) sind {zahl(p['zugeordnet'])} einem Amtsbezirk "
             f"zugeordnet: {zahl(m['name'] + m['name_seitenkontext'])} über den Ortsnamen, {zahl(m['gemeinde_heute'] + m['gemeinde_heute_seitenkontext'])} über die "
             f"heutige Gemeinde des Weilers, {zahl(m['naechste_gemeinde'])} über die nächste gebundene Gemeinde. "
             f"{zahl(m['kanton_jura'])} liegen im heutigen Kanton Jura, {zahl(m['ausserhalb'])} ausserhalb, "
             f"{zahl(m['ohne_ort'])} haben keinen Ort, {zahl(m['offen'])} blieben offen. "
             f"Bei {zahl(p['abweichend'])} zugeordneten Einträgen ({zahl(100 * p['abweichend'] / max(1, p['zugeordnet']), 1)} %) "
-            f"weicht der Amtsbezirk von der Mehrheit ihrer Buchseite ab (Seitenwechsel zwischen zwei Ämtern oder falsch verorteter Ort).")
+            f"weicht der Amtsbezirk von der Mehrheit ihrer Buchseite ab (Seitenwechsel zwischen zwei Ämtern oder falsch verorteter Ort). "
+            f"1810 nennt das Buch die Préfecture selbst: bei {zahl(p['praef_ok'])} von {zahl(p['praef_n'])} zugeordneten Einträgen "
+            f"({zahl(100 * p['praef_ok'] / max(1, p['praef_n']))} %) stimmt sie mit dem Amtsbezirk überein.")
 
 
 def schreibe_doku(erg: dict) -> None:

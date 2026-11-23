@@ -79,6 +79,21 @@ class Ortsnamen(unittest.TestCase):
         self.assertAlmostEqual(A.distanz_km(46.948, 7.447, 46.758, 7.628), 25.2, delta=0.5)  # Bern–Thun
         self.assertEqual(A.distanz_km(46.9, 7.4, 46.9, 7.4), 0)
 
+    def test_praefektur_1810(self):
+        self.assertEqual(A.praefektur_1810("Préfecture de Thoune. Thoune"), "Thun")
+        self.assertEqual(A.praefektur_1810("Préfecture du Bas-Simmenthal. Erlenbach"), "Niedersimmental")
+        self.assertEqual(A.praefektur_1810("Préfecture d'Oberhasle. Meyringen"), "Oberhasli")
+        self.assertEqual(A.praefektur_1810("Préfecture de Signau / Langnau"), "Signau")
+        self.assertIsNone(A.praefektur_1810("Langenthal."))
+        self.assertEqual(len(A.BERNISCH_1810), 22)
+        self.assertNotIn("Courtelary", A.BERNISCH_1810)
+
+    def test_kantonsteil(self):
+        self.assertTrue(A.ist_kantonsteil({"volume": "1810", "section": "canton"}))
+        self.assertFalse(A.ist_kantonsteil({"volume": "1810", "section": "ville"}))
+        self.assertTrue(A.ist_kantonsteil({"volume": "1836", "section": "kanton_nachtrag"}))
+        self.assertFalse(A.ist_kantonsteil({"volume": "1836", "section": "einwohner"}))
+
     def test_mehrheit(self):
         self.assertEqual(A.mehrheit(["Thun", "Thun", "Bern", ""]), "Thun")
         self.assertIsNone(A.mehrheit(["", None]))
@@ -239,10 +254,11 @@ class Referenz(unittest.TestCase):
         self.assertAlmostEqual(self.N.nichtburger(1846)[0], 25129 - 2905)
 
     def test_amtsbezirke_1837_summe_gleich_kanton(self):
-        aemter = [float(w["wert"]) for w in self.werte if w["ortstyp"] == "Amtsbezirk"]
-        kanton = [float(w["wert"]) for w in self.werte if w["ortstyp"] == "Kanton"]
-        self.assertEqual(len(aemter), 27)
-        self.assertEqual(sum(aemter), kanton[0])
+        for jahr in ("1798", "1818", "1837"):
+            aemter = [float(w["wert"]) for w in self.werte if w["ortstyp"] == "Amtsbezirk" and w["jahr_von"] == jahr]
+            kanton = [float(w["wert"]) for w in self.werte if w["ortstyp"] == "Kanton" and w["jahr_von"] == jahr]
+            self.assertEqual(len(aemter), 27)
+            self.assertEqual(sum(aemter), kanton[0])
 
 
 @unittest.skipUnless((A.OUT / "baende.csv").exists(), "Ergebnisse fehlen")
@@ -270,6 +286,9 @@ class Ergebnis(unittest.TestCase):
     def test_amtsbezirke_summe(self):
         z = A.lies_csv(A.OUT / "amtsbezirke.csv")
         summe = [r for r in z if r["amtsbezirk"].startswith("Kanton Bern")][0]
+        self.assertEqual(int(summe["eintraege_1810"]),
+                         sum(int(r["eintraege_1810"]) for r in z if r["einwohner_1810"] and r is not summe))
+        self.assertEqual(sum(int(r["eintraege_1810"]) for r in z if r["einwohner_1837"] and not r["einwohner_1810"]), 0)
         self.assertEqual(int(summe["eintraege_1836"]),
                          sum(int(r["eintraege_1836"]) for r in z if r["einwohner_1837"] and r is not summe))
 
