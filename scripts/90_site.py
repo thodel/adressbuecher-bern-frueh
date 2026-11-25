@@ -32,9 +32,20 @@ COLS = ["entry_id", "volume", "page", "printed_page", "section", "line_from", "l
         "doubt", "doubt_detail"]
 
 
+def chronological(cfg: list[dict], pages: list[dict]) -> tuple[list[dict], list[dict]]:
+    """Bände nach Jahr (und Seiten je Band nach Seitenzahl), nicht in der Reihenfolge von config/volumes.json.
+
+    Die Seite zeigt Bandliste, Menüs und «Blättern» in der Reihenfolge von META.volumes; ein neuer Band, der in
+    der Konfiguration hinten angefügt wird, stünde sonst am Ende. Wie in adressbuecher-basel-frueh."""
+    cfg = sorted(cfg, key=lambda v: (int(v["year"]), v["volume"]))
+    order = {v["volume"]: i for i, v in enumerate(cfg)}
+    return cfg, sorted(pages, key=lambda p: (order[p["volume"]], int(p["page"])))
+
+
 def main() -> None:
     cfg = json.loads((ROOT / "config/volumes.json").read_text())["volumes"]
     pages = list(csv.DictReader((ROOT / "data/csv/01_pages.csv").open()))
+    cfg, pages = chronological(cfg, pages)
     with (ROOT / "data/csv/04_entries.csv").open() as fh:
         rd = csv.DictReader(fh)
         entries = list(rd)
