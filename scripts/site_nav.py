@@ -17,12 +17,12 @@ allen Repos gleich nachziehen.
 from __future__ import annotations
 
 CITIES = [  # (Schlüssel, Name, URL); Städte nach Alphabet, Bestände einer Stadt nach Jahr
-    ("aarau", "Aarau 1833–1900", "https://thodel.github.io/adressbuecher-aarau/"),
+    ("aarau", "Aarau 1833–1913", "https://thodel.github.io/adressbuecher-aarau/"),
     ("baden", "Baden 1900/1910", "https://thodel.github.io/adressbuecher-baden/"),
     ("basel-frueh", "Basel 1789–1850", "https://thodel.github.io/adressbuecher-basel-frueh/"),
     ("basel", "Basel 1841–1862", "https://thodel.github.io/adressbuecher-basel/"),
     ("bern-frueh", "Bern 1795–1848", "https://thodel.github.io/adressbuecher-bern-frueh/"),
-    ("bern", "Bern 1883–1900", "https://thodel.github.io/adressbuecher-bern/"),
+    ("bern", "Bern 1861–1900", "https://thodel.github.io/adressbuecher-bern/"),
     ("lausanne", "Lausanne 1896–1907", "https://thodel.github.io/adressbuecher-lausanne/"),
     ("zuerich", "Zürich 1859–1945", "https://thodel.github.io/adressbuecher-zuerich/"),
 ]

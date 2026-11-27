@@ -138,7 +138,7 @@ def build(out: Path, *, city: dict, records: list[dict], labels: dict[str, str] 
     recs = [r for r in records if r.get("id")]
     seen = set()
     recs = [r for r in recs if not (r["id"] in seen or seen.add(r["id"]))]
-    recs.sort(key=lambda r: (fold(r.get("name", "")).strip(" -—*.,") or "~", fold(r.get("forename", "")), r["year"], r["id"]))
+    recs.sort(key=lambda r: (re.sub(r"^[^a-z]+", "", fold(r.get("name", ""))) or "~", fold(r.get("forename", "")), r["year"], r["id"]))
     n = len(recs)
 
     vols = sorted({(r["year"], r["vol"]) for r in recs})
@@ -711,7 +711,7 @@ async function renderList() {
   }).join('') + '</ol>' + pager;
 }
 function renderMap() {
-  if (!leafletReady()) return;
+  if (!leafletReady() || !M.streets.some(x => x[1] != null)) return;
   if (!map) {
     map = baseMap('map', { preferCanvas: true });
     map.setView(M.city.center || [46.8, 8.2], 14);
@@ -770,6 +770,7 @@ function searchPage() {
       <div class="res"><div id="list"><p class="loading">${esc(T.loading)}</p></div><div class="mapbox"><div id="map"></div><p class="mapnote" id="mapnote"></p></div></div>
     </section></div>`;
   if (matchMedia('(max-width: 900px)').matches) $('fbox').open = false;
+  if (!M.streets.some(x => x[1] != null)) { document.querySelector('.res').classList.add('nomap'); document.querySelector('.mapbox').hidden = true; }
   readUrl();
   $('q').value = st.q; $('fn').value = st.n; $('fv').value = st.vn; $('fb').value = st.b; $('fs').value = st.s;
   if (st.n || st.vn || st.b || st.s) $('more').open = true;
