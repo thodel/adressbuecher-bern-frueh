@@ -3,7 +3,7 @@ RUN ?= full-v1
 SECOND ?= full-v2
 PREFER ?= fix-rn,qwen-p029-korr
 
-.PHONY: venv pages smoke read csv site serve abdeckung abdeckung-referenz test
+.PHONY: venv pages smoke read csv site suche serve abdeckung abdeckung-referenz test
 venv:  ## Python-Umgebung
 	python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 
@@ -18,6 +18,13 @@ csv:  ## Gemini-Antworten -> data/csv/02_lines.csv, 03_page_status.csv, 04_entri
 
 site: csv  ## Daten für site/ erzeugen
 	$(PY) scripts/90_site.py
+
+suche:  ## aus den vorhandenen CSV: Startseite mit Suche über alle Bände + Eintragsseiten, bisherige Seite unter korrektur/, nach _site/ (wie Pages)
+	$(PY) scripts/90_site.py
+	rm -rf _site && mkdir -p _site/korrektur
+	cp -R site/. _site/
+	cp -R site/. _site/korrektur/
+	$(PY) scripts/89_suche.py --out _site
 
 serve:  ## lokale Vorschau auf http://localhost:8000
 	cd site && python3 -m http.server 8000

@@ -1,4 +1,4 @@
-name: Seite auf GitHub Pages
+name: Suche und Seite auf GitHub Pages
 
 on:
   push:
@@ -9,6 +9,9 @@ on:
       - "site/**"
       - "scripts/90_site.py"
       - "scripts/site_nav.py"
+      - "scripts/site_search.py"
+      - "scripts/89_suche.py"
+      - "fonts/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
@@ -31,9 +34,15 @@ jobs:
           python-version: "3.12"
       - name: Daten für die Seite aus den CSV erzeugen
         run: python scripts/90_site.py
+      - name: Startseite mit Suche, bisherige Seite unter korrektur/
+        run: |
+          mkdir -p _site/korrektur
+          cp -R site/. _site/
+          cp -R site/. _site/korrektur/
+          python scripts/89_suche.py --out _site
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: _site
   deploy:
     needs: build
     runs-on: ubuntu-latest

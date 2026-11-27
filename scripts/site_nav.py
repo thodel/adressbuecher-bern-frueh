@@ -4,7 +4,8 @@ Dieselbe Datei liegt in jedem Repo adressbuecher-* (Aarau, Baden, Basel, Bern, L
 allen Repos gleich nachziehen.
 
 - `city_bar(current, lang)`: oberste Leiste mit den Städten (eigene Zeile, aktuelle Stadt hervorgehoben).
-- `city_nav(city, links, lang)`: zweite Zeile, nur innerhalb der Stadt: Einträge · Karte · Suche · Repo.
+- `city_nav(city, links, lang)`: zweite Zeile, nur innerhalb der Stadt: Suche · Karte · Korrektur · Repo. Die Startseite
+  ist die Suche über alle Bände (scripts/site_search.py), die Kontrollseite mit Flagging liegt unter korrektur/.
 - `CSS`: Stil für beide Leisten und das Suchfeld; in den <style>-Block der Seite.
 - `FIELD_SEARCH_JS`: Feldsuche (`FS.init({params})` liest die Bedingungen aus params statt aus location.search) über alle Spalten der CSV («Name enthält Meier», «Hausnummer = 12», «Allianzname
   nicht leer» …), mehrere Bedingungen mit UND, in der URL (`f=Spalte~Operator~Wert`). Die Seite ruft
@@ -28,13 +29,13 @@ CITIES = [  # (Schlüssel, Name, URL); Städte nach Alphabet, Bestände einer St
 VS = "https://thodel.github.io/vernetzte-schweiz/"
 
 T = {
-    "de": {"books": "Adressbücher", "entries": "Einträge", "map": "Karte", "search": "Suche nach Feldern",
+    "de": {"books": "Adressbücher", "entries": "Einträge", "home": "Suche", "korr": "Korrektur", "map": "Karte", "search": "Suche nach Feldern",
            "repo": "Daten und Code", "add": "+ Bedingung", "clear": "alle Bedingungen löschen",
            "any": "beliebiges Feld", "hint": "Alle Bedingungen müssen zutreffen. Gross-/Kleinschreibung und Akzente zählen nicht.",
            "ops": {"has": "enthält", "eq": "ist genau", "start": "beginnt mit", "not": "enthält nicht",
                    "empty": "ist leer", "full": "ist nicht leer", "ge": "≥", "le": "≤"},
            "remove": "Bedingung entfernen", "value": "Wert", "field": "Feld", "op": "Vergleich", "nav": "Städte"},
-    "fr": {"books": "Annuaires", "entries": "Entrées", "map": "Carte", "search": "Recherche par champ",
+    "fr": {"books": "Annuaires", "entries": "Entrées", "home": "Recherche", "korr": "Correction", "map": "Carte", "search": "Recherche par champ",
            "repo": "Données et code", "add": "+ condition", "clear": "effacer les conditions",
            "any": "n’importe quel champ", "hint": "Toutes les conditions doivent être remplies. Majuscules et accents ne comptent pas.",
            "ops": {"has": "contient", "eq": "est exactement", "start": "commence par", "not": "ne contient pas",
@@ -69,16 +70,22 @@ def city_bar(current: str, lang: str = "de") -> str:
 
 def city_nav(city: str, repo: str, page: str, lang: str = "de", map_href: str | None = "karte.html", map_label: str | None = None,
              extra: list[tuple[str, str, str]] | None = None) -> str:
-    """page = «entries», «map» oder ein Schlüssel aus extra; ausserhalb der Einträge führt «Suche» auf die
-    Einträge-Seite; map_href=None lässt die Karte weg. extra = weitere Seiten der Stadt als (Schlüssel, href, Label), vor «Daten und Code»."""
+    """Zweite Zeile, nur innerhalb der Stadt: Suche · Karte · weitere Seiten · Korrektur · Daten und Code.
+
+    page = «entries» (die Kontrollseite mit Flagging; sie liegt im Korrekturmodus unter korrektur/, darum führen ihre
+    Links mit ../ zurück), «map» oder ein Schlüssel aus extra. «Suche» ist die Startseite mit der Suche über alle
+    Bände (scripts/site_search.py). map_href=None lässt die Karte weg. extra = weitere Seiten der Stadt als
+    (Schlüssel, href, Label), vor «Korrektur»."""
     t = T[lang]
-    search = "#suche" if page == "entries" else "./#suche"
+    base = "../" if page == "entries" else ""
     cur = lambda p: ' aria-current="page"' if p == page else ""
-    more = "".join(f'<a href="{href}"{cur(k)}>{lab}</a>' for k, href, lab in (extra or []))
+    rel = lambda h: h if h.startswith(("http:", "https:", "/", "#")) else base + h
+    more = "".join(f'<a href="{rel(href)}"{cur(k)}>{lab}</a>' for k, href, lab in (extra or []))
+    fields = f'<a href="#suche" data-open-search>{t["search"]}</a>' if page == "entries" else ""
     return (f'<nav class="citynav" aria-label="{city}"><b>{city}</b>'
-            f'<a href="./"{cur("entries")}>{t["entries"]}</a>'
-            + (f'<a href="{map_href}"{cur("map")}>{map_label or t["map"]}</a>' if map_href else "")  # ohne Karte: map_href=None
-            + f'<a href="{search}" data-open-search>{t["search"]}</a>{more}'
+            f'<a href="{base or "./"}">{t["home"]}</a>'
+            + (f'<a href="{rel(map_href)}"{cur("map")}>{map_label or t["map"]}</a>' if map_href else "")  # ohne Karte: map_href=None
+            + f'{more}<a href="{base}korrektur/"{cur("entries")}>{t["korr"]}</a>{fields}'
             f'<a href="{repo}">{t["repo"]} ↗</a></nav>')
 
 

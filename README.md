@@ -47,6 +47,11 @@ trägt und alle Zeilenverweise stimmen; sonst wird sie wiederholt bzw. als Fehle
 `data/csv/` — Schema in `docs/schema.md`. Die Seite (`site/`) ist statisch und lädt die Seitenbilder per
 IIIF direkt von e-rara.
 
+Startseite ist die Suche über alle Bände (Liste, Karte der verorteten Häuser, Facetten, Zeitstrahl) mit einer Seite
+je Eintrag (`scripts/89_suche.py` mit dem gemeinsamen `scripts/site_search.py`): <https://thodel.github.io/adressbuecher-bern-frueh/>.
+Die bisherige Seite aus `site/` (Suchen und Blättern mit Seitenbild) liegt im Korrekturmodus unter `korrektur/`;
+Karte der Orte, Abdeckung und Methode bleiben an der Wurzel. `make suche` baut alles nach `_site/` wie GitHub Pages.
+
 ## Abdeckung, gemessen an BERNHIST
 
 Wie viel von der Bevölkerung in den Verzeichnissen steht (je Einwohner und Haushalt, für Frauen, Burger,
